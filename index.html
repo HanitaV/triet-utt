@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ôn Luyện Triết Học Mác-Lênin</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📚 Ôn Luyện Triết Học</h1>
+        </header>
+
+        <div class="controls">
+            <div class="control-group">
+                <label for="quiz-select">Bộ đề:</label>
+                <select id="quiz-select">
+                    <option value="k75_76.json">K75 + K76 (Đầy đủ)</option>
+                    <option value="75.json">K75</option>
+                    <option value="k76.json">K76</option>
+                </select>
+            </div>
+            <div class="control-group">
+                <label class="toggle">
+                    <input type="checkbox" id="shuffle-toggle">
+                    <span class="toggle-slider"></span>
+                    <span class="toggle-label">Trộn ngẫu nhiên</span>
+                </label>
+            </div>
+        </div>
+
+        <div class="progress-container">
+            <div class="progress-info">
+                <span id="current-question">Câu 1</span>
+                <span id="total-questions">/ 0</span>
+            </div>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progress-fill"></div>
+            </div>
+        </div>
+
+        <div class="question-container" id="question-container">
+            <div class="question-text" id="question-text">
+                Đang tải câu hỏi...
+            </div>
+            <div class="options" id="options">
+                <!-- Options will be inserted here -->
+            </div>
+        </div>
+
+        <div class="navigation">
+            <button class="nav-btn" id="prev-btn" disabled>
+                ← Trước
+            </button>
+            <button class="nav-btn primary" id="next-btn">
+                Tiếp theo →
+            </button>
+        </div>
+
+        <div class="stats">
+            <div class="stat correct">
+                <span class="stat-label">Đúng</span>
+                <span class="stat-value" id="correct-count">0</span>
+            </div>
+            <div class="stat incorrect">
+                <span class="stat-label">Sai</span>
+                <span class="stat-value" id="incorrect-count">0</span>
+            </div>
+            <div class="stat pending">
+                <span class="stat-label">Chưa làm</span>
+                <span class="stat-value" id="pending-count">0</span>
+            </div>
+        </div>
+
+        <div class="actions">
+            <button class="action-btn" id="restart-btn">🔄 Làm lại</button>
+        </div>
+    </div>
+
+    <div class="result-modal" id="result-modal">
+        <div class="modal-content">
+            <h2>🎉 Kết quả</h2>
+            <div class="result-score" id="result-score">0%</div>
+            <div class="result-detail" id="result-detail">
+                Đúng: 0 / 0 câu
+            </div>
+            <button class="action-btn primary" id="modal-restart">Làm lại</button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
