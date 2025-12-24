@@ -8,7 +8,7 @@ class QuizApp {
 
         this.initElements();
         this.initEventListeners();
-        this.loadQuiz('k75_76.json');
+        this.loadQuiz('exam/chuong_1.json');
     }
 
     initElements() {

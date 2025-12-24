@@ -1,0 +1,10 @@
+# MCQ Scanner Dependencies
+# No OpenCV required - uses Pillow + scikit-image + EasyOCR
+
+numpy>=1.20
+Pillow>=9.0
+scikit-image>=0.21
+easyocr>=1.7
+
+# Optional: Install torch with CUDA for GPU acceleration
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118

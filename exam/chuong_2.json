@@ -1,0 +1,3443 @@
+{
+  "chapter": "Chương 2",
+  "title": "Triết học Mác-Lênin",
+  "total_questions": 148,
+  "questions": [
+    {
+      "question": 1,
+      "text": "Nhà triết học nào quan niệm vật chất là nguyên tử?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Thales"
+        },
+        {
+          "letter": "B",
+          "text": "Anaximens"
+        },
+        {
+          "letter": "C",
+          "text": "Đêmôcrito"
+        },
+        {
+          "letter": "D",
+          "text": "Heraclit"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 2,
+      "text": "Nhà triết học nào đồng nhất vật chất là nước?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Thales"
+        },
+        {
+          "letter": "B",
+          "text": "Đêmôcrito"
+        },
+        {
+          "letter": "C",
+          "text": "Heraclit"
+        },
+        {
+          "letter": "D",
+          "text": "Anaximens"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 3,
+      "text": "Triết gia nào đồng nhất vật chất là lửa?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Thales"
+        },
+        {
+          "letter": "B",
+          "text": "Đêmôcrito"
+        },
+        {
+          "letter": "C",
+          "text": "Heraclit"
+        },
+        {
+          "letter": "D",
+          "text": "Anaximens"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 4,
+      "text": "Trường phái triết học nào quan niệm vận động là phương thức tồn tại của vật chất, là thuộc tính có hữu của vật chất?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chủ nghĩa duy tâm"
+        },
+        {
+          "letter": "B",
+          "text": "Chủ nghĩa duy vật thời Cổ đại"
+        },
+        {
+          "letter": "C",
+          "text": "Chủ nghĩa duy vật siêu hình"
+        },
+        {
+          "letter": "D",
+          "text": "Chủ nghĩa duy vật biện chứng"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 5,
+      "text": "Chỉ ra đặc điểm chung của quan niệm duy vật về vật chất ở thời kỳ cổ đại?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đồng nhất vật chất nói chung với ý niệm tuyệt đối"
+        },
+        {
+          "letter": "B",
+          "text": "Đồng nhất vật chất nói chung với một dạng cụ thể hữu hình, cảm tính của vật chất"
+        },
+        {
+          "letter": "C",
+          "text": "Đồng nhất vật chất với khối lượng siêu hình"
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các đáp án"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 6,
+      "text": "Đâu không phải là quan điểm của chủ nghĩa duy vật trước Mác?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Khẳng định khởi nguyên của thế giới là vật chất"
+        },
+        {
+          "letter": "B",
+          "text": "Vật chất gắn liền với vận động"
+        },
+        {
+          "letter": "C",
+          "text": "Vật chất tồn tại dưới dạng những vật thể cụ thể"
+        },
+        {
+          "letter": "D",
+          "text": "Vật chất là phạm trù triết học dùng để chỉ thực tại khách quan"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 7,
+      "text": "Quan điểm nào cho rằng chỉ có một hình thức vận động duy nhất là vận động cơ học?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chủ nghĩa duy tâm chủ quan"
+        },
+        {
+          "letter": "B",
+          "text": "Chủ nghĩa duy tâm khách quan"
+        },
+        {
+          "letter": "C",
+          "text": "Chủ nghĩa duy vật siêu hình"
+        },
+        {
+          "letter": "D",
+          "text": "Chủ nghĩa duy vật biện chứng"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 8,
+      "text": "Những phát minh của các nhà khoa học cuối thế kỷ XIX đầu thế kỷ XX trong lĩnh vực vật lý học chứng tỏ điều gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vật chất bị tiêu tan"
+        },
+        {
+          "letter": "B",
+          "text": "Giới hạn nhận thức của con người về vật chất bị tiêu tan"
+        },
+        {
+          "letter": "C",
+          "text": "Vận động bị tiêu tan"
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các phương án"
+        },
+        {
+          "letter": "A",
+          "text": "Biện chứng của tự nhiên"
+        },
+        {
+          "letter": "B",
+          "text": "Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán"
+        },
+        {
+          "letter": "C",
+          "text": "Bút ký triết học"
+        },
+        {
+          "letter": "D",
+          "text": "Nhà nước và cách mạng"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 10,
+      "text": "Thêm cụm từ thích hợp vào câu sau để được định nghĩa về vật chất của Lênin:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1- Vật thể, 2- Hoạt động"
+        },
+        {
+          "letter": "B",
+          "text": "1- Phạm trù triết học, 2- Thực tại khách quan"
+        },
+        {
+          "letter": "C",
+          "text": "1- Phạm trù triết học, 2- Một vật thể"
+        },
+        {
+          "letter": "D",
+          "text": "1- Phạm trù triết học, 2- Các sự vật"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 11,
+      "text": "Theo chủ nghĩa duy vật biện chứng, vật chất với tư cách là phạm trù triết học được hiểu như thế nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vật chất vô hạn, vô tận, vĩnh viễn tồn tại"
+        },
+        {
+          "letter": "B",
+          "text": "Vật chất được sinh ra và bị mất đi"
+        },
+        {
+          "letter": "C",
+          "text": "Vật chất có giới hạn"
+        },
+        {
+          "letter": "D",
+          "text": "Vật chất được đồng nhất với vật thể"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 12,
+      "text": "Đâu là quan niệm về vật chất của triết học Mác - Lênin?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đồng nhất vật chất với dạng cụ thể của nó"
+        },
+        {
+          "letter": "B",
+          "text": "Không đồng nhất vật chất với vật thể"
+        },
+        {
+          "letter": "C",
+          "text": "Coi vật chất tồn tại tách rời các dạng cụ thể của vật chất"
+        },
+        {
+          "letter": "D",
+          "text": "Coi vật chất lệ thuộc hoàn toàn vào ý thức"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 13,
+      "text": "Theo định nghĩa vật chất của Lenin, khẳng định nào sau đây là đúng?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vật chất tồn tại bên ngoài ý thức con người và thông qua các dạng cụ thể"
+        },
+        {
+          "letter": "B",
+          "text": "Vật chất tồn tại vĩnh viễn, tách rời với các dạng cụ thể của vật chất"
+        },
+        {
+          "letter": "C",
+          "text": "Đồng nhất vật chất với một dạng cụ thể của vật chất"
+        },
+        {
+          "letter": "D",
+          "text": "Vật chất tồn tại phụ thuộc ý thức con người"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 14,
+      "text": "Nội dung \"Được đem lại cho con người trong cảm giác\" trong định nghĩa vật chất của Lenin diễn tả điều gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ý thức có trước vật chất"
+        },
+        {
+          "letter": "B",
+          "text": "Vật chất và ý thức tồn tại độc lập với nhau"
+        },
+        {
+          "letter": "C",
+          "text": "Ý thức là sự phản ánh lại vật chất"
+        },
+        {
+          "letter": "D",
+          "text": "Con người không có khả năng nhận thức thế giới vật chất"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 15,
+      "text": "Luận điểm \"Vật chất là cái được cảm giác chúng ta chép lại, phản ánh lại\" được hiểu như thế nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cảm giác, ý thức của chúng ta có khả năng nhận thức được thế giới"
+        },
+        {
+          "letter": "B",
+          "text": "Cảm giác, ý thức của chúng ta không thể nhận thức đúng thế giới"
+        },
+        {
+          "letter": "C",
+          "text": "Cảm giác, ý thức phản ánh thụ động thế giới vật chất"
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các đáp án"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 16,
+      "text": "Trong định nghĩa vật chất của Lenin, thuộc tính nào là cơ bản nhất để phân biệt vật chất với ý thức?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Thực tại khách quan"
+        },
+        {
+          "letter": "B",
+          "text": "Vận động và biến đổi"
+        },
+        {
+          "letter": "C",
+          "text": "Có khối lượng và quang tính"
+        },
+        {
+          "letter": "D",
+          "text": "Không có khối lượng"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 17,
+      "text": "Định nghĩa vật chất của Lênin có ý nghĩa như thế nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Phân biệt sự khác nhau giữa khái niệm vật chất với tư cách là phạm trù triết học với khái niệm vật chất với tư cách là phạm trù của các khoa học chuyên ngành"
+        },
+        {
+          "letter": "B",
+          "text": "Khẳng định tính thứ nhất của vật chất, tính thứ hai của ý thức, khẳng định khả năng con người có thể nhận thức được thực tại khách quan"
+        },
+        {
+          "letter": "C",
+          "text": "Khắc phục hạn chế trong quan niệm về vật chất của chủ nghĩa duy vật cũ, cung cấp căn cứ khoa học để xác định cái gì thuộc về vật chất."
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các đáp án"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 18,
+      "text": "Quan điểm nào dưới đây là của chủ nghĩa duy vật biện chứng?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vận động là sự tự thân vận động của thế giới vật chất"
+        },
+        {
+          "letter": "B",
+          "text": "Vận động là do sự chi phối của thần linh"
+        },
+        {
+          "letter": "C",
+          "text": "Vận động là tương đối, đứng im là tuyệt đối"
+        },
+        {
+          "letter": "D",
+          "text": "Vận động của sự vật phụ thuộc vào ý chí con người"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 19,
+      "text": "Đâu là quan điểm của chủ nghĩa duy vật biện chứng?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Không gian và thời gian là hình thức tồn tại của vật chất, không tách rời vật chất"
+        },
+        {
+          "letter": "B",
+          "text": "Không gian có ba chiều, thời gian có một chiều"
+        },
+        {
+          "letter": "C",
+          "text": "Tất cả các đáp án"
+        },
+        {
+          "letter": "D",
+          "text": "Không gian và thời gian mang tính khách quan"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 20,
+      "text": "Bổ sung để được một câu đúng theo quan điểm duy vật biện chứng: \"Không gian và thời gian....\"?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Không gian một chiều và thời gian ba chiều"
+        },
+        {
+          "letter": "B",
+          "text": "Gắn liền với nhau và với vật chất vận động."
+        },
+        {
+          "letter": "C",
+          "text": "TỒn tại độc lập với vật chất vận động"
+        },
+        {
+          "letter": "D",
+          "text": "Mang tính chủ quan"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 21,
+      "text": "Quan điểm nào cho rằng thế giới thống nhất ở tính vật chất?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chủ nghĩa duy tâm khách quan"
+        },
+        {
+          "letter": "B",
+          "text": "Chủ nghĩa duy vật biện chứng"
+        },
+        {
+          "letter": "C",
+          "text": "Chủ nghĩa duy tâm chủ quan"
+        },
+        {
+          "letter": "D",
+          "text": "Chủ nghĩa duy vật siêu hình"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 22,
+      "text": "Đâu không phải là quan điểm của chủ nghĩa duy vật biện chứng?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chỉ có một thế giới duy nhất là thế giới vật chất"
+        },
+        {
+          "letter": "B",
+          "text": "Mọi bộ phận của thế giới vật chất đều liên hệ, chuyển hoá lẫn nhau"
+        },
+        {
+          "letter": "C",
+          "text": "Thế giới vật chất tồn tại khách quan, vĩnh viễn, vô hạn, vô tận, không do ai sinh ra và không mất đi"
+        },
+        {
+          "letter": "D",
+          "text": "Thế giới vật chất bao gồm những bộ phận riêng biệt nhau"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 23,
+      "text": "Định nghĩa vật chất của Lenin khẳng định điều gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ý thức có trước vật chất"
+        },
+        {
+          "letter": "B",
+          "text": "Ý thức và vật chất ra đời đồng thời"
+        },
+        {
+          "letter": "C",
+          "text": "Con người không thể nhận thức được thế giới"
+        },
+        {
+          "letter": "D",
+          "text": "Con người có khả năng nhận thức được thế giới"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 24,
+      "text": "Trường phái nào cho rằng vận động của vật chất là tuyệt đối, đứng im là tương đối, tạm thời?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chủ nghĩa duy tâm"
+        },
+        {
+          "letter": "B",
+          "text": "Chủ nghĩa duy vật thời cổ đại"
+        },
+        {
+          "letter": "C",
+          "text": "Chủ nghĩa duy vật siêu hình"
+        },
+        {
+          "letter": "D",
+          "text": "Chủ nghĩa duy vật biện chứng"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 25,
+      "text": "Đâu là quan điểm của chủ nghĩa duy vật biện chứng?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vận động tách rời vật chất"
+        },
+        {
+          "letter": "B",
+          "text": "Có vận động nhưng không có vật chất"
+        },
+        {
+          "letter": "C",
+          "text": "Vận động là tuyệt đối, đứng im là tương đối"
+        },
+        {
+          "letter": "D",
+          "text": "Vận động chỉ là sự tăng giảm về số lượng"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 26,
+      "text": "Quan điểm triết học nào tách rời vật chất với vận động?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chủ nghĩa duy tâm khách quan"
+        },
+        {
+          "letter": "B",
+          "text": "Chủ nghĩa duy vật siêu hình"
+        },
+        {
+          "letter": "C",
+          "text": "Chủ nghĩa duy vật biện chứng"
+        },
+        {
+          "letter": "D",
+          "text": "Chủ nghĩa duy tâm chủ quan"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 27,
+      "text": "Ph. Ảngghen đã chia vận động làm mấy hình thức cơ bản?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 hình thức"
+        },
+        {
+          "letter": "B",
+          "text": "3 hình thức"
+        },
+        {
+          "letter": "C",
+          "text": "5 hình thức"
+        },
+        {
+          "letter": "D",
+          "text": "6 hình thức"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 28,
+      "text": "Hình thức vận động nào đặc trưng cho xã hội loài người?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vận động xã hội"
+        },
+        {
+          "letter": "B",
+          "text": "Vận động cơ học"
+        },
+        {
+          "letter": "C",
+          "text": "Vận động vật lý"
+        },
+        {
+          "letter": "D",
+          "text": "Vận động hoá học"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 29,
+      "text": "Vận động xã hội bao hàm những hình thức vận động nào dưới đây?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vận động cơ học"
+        },
+        {
+          "letter": "B",
+          "text": "Vận động lý học"
+        },
+        {
+          "letter": "C",
+          "text": "Vận động sinh học"
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các đáp án"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 30,
+      "text": "Theo cách phân chia các hình thức vận động của Ăngghen, hình thức vận động nào là thấp nhất?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cơ học"
+        },
+        {
+          "letter": "B",
+          "text": "Vật lý"
+        },
+        {
+          "letter": "C",
+          "text": "Hóa học"
+        },
+        {
+          "letter": "D",
+          "text": "Sinh học"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 31,
+      "text": "Theo cách phân chia các hình thức vận động của Ăngghen, hình thức nào là cao nhất?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sinh học"
+        },
+        {
+          "letter": "B",
+          "text": "Hóa học"
+        },
+        {
+          "letter": "C",
+          "text": "Vận động xã hội"
+        },
+        {
+          "letter": "D",
+          "text": "Vận động của tư duy"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 32,
+      "text": "Theo quan điểm của chủ nghĩa duy vật biện chứng, không gian có đặc điểm gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Có ba chiều"
+        },
+        {
+          "letter": "B",
+          "text": "Mang tính khách quan"
+        },
+        {
+          "letter": "C",
+          "text": "Là hình thức tồn tại của vật chất"
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các đáp án"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 33,
+      "text": "Quan điểm nào cho rằng ý thức là tinh thần nhất và từ đó sinh ra tất cả?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chú nghĩa duy tâm"
+        },
+        {
+          "letter": "B",
+          "text": "Chú nghĩa duy vật cổ đại"
+        },
+        {
+          "letter": "C",
+          "text": "Chú nghĩa duy vật siêu hình"
+        },
+        {
+          "letter": "D",
+          "text": "Chú nghĩa duy vật biện chứng"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 34,
+      "text": "Quan điểm nào cho rằng \"ý niệm tuyệt đối\" là bản thể sinh ra toàn bộ thế giới hiện thực?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chú nghĩa duy tâm chủ quan"
+        },
+        {
+          "letter": "B",
+          "text": "Chú nghĩa duy tâm khách quan"
+        },
+        {
+          "letter": "C",
+          "text": "Chú nghĩa duy vật siêu hình"
+        },
+        {
+          "letter": "D",
+          "text": "Chú nghĩa duy vật biện chứng"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 35,
+      "text": "Quan điểm nào tuyệt đối hoá vai trò của cảm giác, coi cảm giác là yếu tố duy nhất sinh ra thế giới vật chất?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chú nghĩa duy tâm chủ quan"
+        },
+        {
+          "letter": "B",
+          "text": "Chú nghĩa duy tâm khách quan"
+        },
+        {
+          "letter": "C",
+          "text": "Chú nghĩa duy vật siêu hình"
+        },
+        {
+          "letter": "D",
+          "text": "Chú nghĩa duy vật cổ đại"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 36,
+      "text": "Quan điểm nào cho rằng ý thức cũng chỉ là một dạng vật chất đặc biệt, do vật chất sinh ra và không có sự tác động trở lại vật chất?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chú nghĩa duy tâm chủ quan"
+        },
+        {
+          "letter": "B",
+          "text": "Chú nghĩa duy tâm khách quan"
+        },
+        {
+          "letter": "C",
+          "text": "Chú nghĩa duy vật siêu hình"
+        },
+        {
+          "letter": "D",
+          "text": "Chú nghĩa duy vật cổ đại"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 37,
+      "text": "Quan điểm nào cho rằng ý thức là hình ảnh chủ quan của thế giới khách quan?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chủ nghĩa duy tâm chủ quan"
+        },
+        {
+          "letter": "B",
+          "text": "Chủ nghĩa duy tâm khách quan"
+        },
+        {
+          "letter": "C",
+          "text": "Chủ nghĩa duy vật siêu hình"
+        },
+        {
+          "letter": "D",
+          "text": "Chủ nghĩa duy vật biện chứng"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 38,
+      "text": "Đâu là quan điểm của chủ nghĩa duy vật biện chứng?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ý thức của con người do cảm giác sinh ra"
+        },
+        {
+          "letter": "B",
+          "text": "Ý thức quyết định sự tồn tại, biến đổi của thế giới vật chất"
+        },
+        {
+          "letter": "C",
+          "text": "Ý thức là một dạng vật chất đặc biệt chỉ do giới tự nhiên tạo ra"
+        },
+        {
+          "letter": "D",
+          "text": "Ý thức là hình ảnh chủ quan của thế giới khách quan"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 39,
+      "text": "Đâu là quan điểm của chủ nghĩa duy vật biện chứng về phản ánh?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Phản ánh là thuộc tính của mọi dạng vật chất, là cái vốn có của mọi dạng vật chất"
+        },
+        {
+          "letter": "B",
+          "text": "Phản ánh của thế giới vô cơ mang tính sáng tạo"
+        },
+        {
+          "letter": "C",
+          "text": "Phản ánh không phải là cái vốn có của thế giới vật chất"
+        },
+        {
+          "letter": "D",
+          "text": "Phản ánh chỉ là ý thức con người tưởng tượng ra"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 40,
+      "text": "Quá trình tác động giữa thế giới tự nhiên với bộ óc con người đã tạo ra hình thức phản ánh gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Phản ánh vật lý"
+        },
+        {
+          "letter": "B",
+          "text": "Phản ánh sinh học"
+        },
+        {
+          "letter": "C",
+          "text": "Phản ánh năng động, sáng tạo"
+        },
+        {
+          "letter": "D",
+          "text": "Phản ánh hoá học"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 41,
+      "text": "Phân ánh năng động, sáng tạo (phân ánh ý thức) là gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Là hình thức phân ánh đặc trưng cho giới tự nhiên hữu sinh"
+        },
+        {
+          "letter": "B",
+          "text": "Là hình thức phân ánh đặc trưng cho vật chất vô sinh"
+        },
+        {
+          "letter": "C",
+          "text": "Là hình thức phân ánh cao nhất trong các hình thức phân ánh, nó chỉ được thực hiện ở dạng vật chất phát triển cao nhất, có tổ chức cao nhất là bộ óc người"
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các đáp án"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 42,
+      "text": "Chỉ ra sự khác nhau cơ bản giữa phân ánh ý thức và các hình thức phân ánh khác của thế giới vật chất?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tính đúng dẫn trung thực với vật phân ánh"
+        },
+        {
+          "letter": "B",
+          "text": "Tính sáng tạo năng động, sáng tạo"
+        },
+        {
+          "letter": "C",
+          "text": "Tính sai lệch với vật phân ánh"
+        },
+        {
+          "letter": "D",
+          "text": "Tính bị quy định bởi thế giới tự nhiên"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 43,
+      "text": "Trong các hình thức sau, hình thức phân ánh nào cao nhất?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Phân ánh vật lý"
+        },
+        {
+          "letter": "B",
+          "text": "Phân ánh hóa học"
+        },
+        {
+          "letter": "C",
+          "text": "Phân ánh tâm lý"
+        },
+        {
+          "letter": "D",
+          "text": "Phân ánh ý thức"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 44,
+      "text": "Theo chủ nghĩa duy vật biện chứng, động vật bậc cao có thể đạt đến hình thức phân ánh nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Phân ánh ý thức"
+        },
+        {
+          "letter": "B",
+          "text": "Phân ánh tâm lý động vật"
+        },
+        {
+          "letter": "C",
+          "text": "Tính kích thích"
+        },
+        {
+          "letter": "D",
+          "text": "Tính sáng tạo"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 45,
+      "text": "Theo chủ nghĩa duy vật biện chứng, nguồn gốc ra đời của ý thức bao gồm những yếu tố nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bộ óc người và thế giới khách quan tác động vào bộ óc người; lao động và ngôn ngữ"
+        },
+        {
+          "letter": "B",
+          "text": "Thế giới khách quan và công cụ lao động"
+        },
+        {
+          "letter": "C",
+          "text": "Ngôn ngữ, thế giới khách quan và lao động"
+        },
+        {
+          "letter": "D",
+          "text": "Bộ óc người và thế giới khách qua"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 46,
+      "text": "Theo chủ nghĩa duy vật biện chứng, nguồn gốc tự nhiên của ý thức gồm những yếu tố nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bộ óc con người và lao động"
+        },
+        {
+          "letter": "B",
+          "text": "Thế giới khách quan và ngôn ngữ"
+        },
+        {
+          "letter": "C",
+          "text": "Lao động và ngôn ngữ"
+        },
+        {
+          "letter": "D",
+          "text": "Bộ óc con người và thế giới khách quan tác động vào bộ óc người thông qua quá trình phản ánh"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 47,
+      "text": "Nguồn gốc xã hội của ý thức gồm những yếu tố nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bộ óc con người"
+        },
+        {
+          "letter": "B",
+          "text": "Sự tác động của thế giới bên ngoài vào bộ óc con người"
+        },
+        {
+          "letter": "C",
+          "text": "Lao động và ngôn ngữ"
+        },
+        {
+          "letter": "D",
+          "text": "Thế giới khách quan"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 48,
+      "text": "Để phản ánh khái quát hiện thực khách quan và trao đổi thông tin thì con người cần có gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Công cụ lao động"
+        },
+        {
+          "letter": "B",
+          "text": "Đối tượng lao động"
+        },
+        {
+          "letter": "C",
+          "text": "Ngôn ngữ"
+        },
+        {
+          "letter": "D",
+          "text": "Công cụ lao động và đối tượng lao động"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 49,
+      "text": "Theo quan điểm của chủ nghĩa duy vật biện chứng, nguồn gốc nào là trực tiếp và quan trọng nhất quyết định sự ra đời và phát triển của ý thức?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sự tác động của tự nhiên vào bộ óc con người"
+        },
+        {
+          "letter": "B",
+          "text": "Lao động, thực tiễn xã hội"
+        },
+        {
+          "letter": "C",
+          "text": "Bộ não người và hoạt động của nó"
+        },
+        {
+          "letter": "D",
+          "text": "Sự tác động của tự nhiên vào bộ óc con người và giới tự nhiên"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 50,
+      "text": "Để phản ánh khái quát hiện thực khách quan và trao đổi thông tin thì con người cần có gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Công cụ lao động"
+        },
+        {
+          "letter": "B",
+          "text": "Đối tượng lao động"
+        },
+        {
+          "letter": "C",
+          "text": "Ngôn ngữ"
+        },
+        {
+          "letter": "D",
+          "text": "Công cụ lao động và đối tượng lao động"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 51,
+      "text": "Theo quan điểm của chủ nghĩa duy vật biện chứng, nguồn gốc nào là trực tiếp và quan trọng nhất quyết định sự ra đời và phát triển của ý thức?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sự tác động của tự nhiên vào bộ óc con người"
+        },
+        {
+          "letter": "B",
+          "text": "Lao động, thực tiễn xã hội"
+        },
+        {
+          "letter": "C",
+          "text": "Bộ não người và hoạt động của nó"
+        },
+        {
+          "letter": "D",
+          "text": "Sự tác động của tự nhiên vào bộ óc con người và giới tự nhiên"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 52,
+      "text": "Chủ nghĩa duy vật biện chứng quan niệm về phản ánh như thế nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Phản ánh là thuộc tính chỉ có ở thế giới hữu cơ"
+        },
+        {
+          "letter": "B",
+          "text": "Phản ánh là thuộc tính chỉ có ở thế giới vô cơ"
+        },
+        {
+          "letter": "C",
+          "text": "Phản ánh chỉ là ý thức con người tưởng tượng ra"
+        },
+        {
+          "letter": "D",
+          "text": "Phản ánh là thuộc tính của mọi dạng vật chất"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 53,
+      "text": "Chọn cụm từ đúng để điền vào chỗ trống: \"Phản ánh là thuộc tính...\"?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đặc biệt của các dạng vật chất hữu cơ"
+        },
+        {
+          "letter": "B",
+          "text": "Phổ biến của mọi dạng vật chất"
+        },
+        {
+          "letter": "C",
+          "text": "Riêng của các dạng vật chất vô cơ"
+        },
+        {
+          "letter": "D",
+          "text": "Duy nhất của não người"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 54,
+      "text": "Đầu là quan điểm của chủ nghĩa duy vật biện chứng về bản chất của ý thức?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Là sự phản ánh hiện thực khách quan vào đầu óc con người một cách năng động, sáng tạo"
+        },
+        {
+          "letter": "B",
+          "text": "Là hình ảnh chủ quan của thế giới khách quan."
+        },
+        {
+          "letter": "C",
+          "text": "Là một hiện tượng xã hội và mang bản chất xã hội"
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các đáp án"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 55,
+      "text": "Đầu là quan điểm của chủ nghĩa duy vật biện chứng về bản chất của ý thức?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tất cả các đáp án"
+        },
+        {
+          "letter": "B",
+          "text": "Ý thức là sự phản ánh nguyên xi hiện thực khách quan vào bộ óc con người"
+        },
+        {
+          "letter": "C",
+          "text": "Ý thức là sự phản ánh sáng tạo hiện thực khách quan vào bộ óc con người"
+        },
+        {
+          "letter": "D",
+          "text": "Ý thức là sự phản ánh của mọi dạng vật chất"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 56,
+      "text": "Đầu là quan điểm của chủ nghĩa duy vật biện chứng về bản chất của ý thức?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ý thức là hình ảnh chủ quan của thế giới khách quan"
+        },
+        {
+          "letter": "B",
+          "text": "Ý thức là sự phản ánh nguyên vẹn về thế giới khách quan"
+        },
+        {
+          "letter": "C",
+          "text": "Ý thức là sự phản ánh hoàn toàn chính xác về thế giới khách quan"
+        },
+        {
+          "letter": "D",
+          "text": "Ý thức là hình ảnh khách quan của thế giới khách quan"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 57,
+      "text": "Theo quan niệm của chủ nghĩa duy vật biện chứng, trong kết cấu của ý thức yếu tố nào là cơ bản và cốt lõi nhất?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tri thức"
+        },
+        {
+          "letter": "B",
+          "text": "Tình cảm"
+        },
+        {
+          "letter": "C",
+          "text": "Niềm tin, ý chí"
+        },
+        {
+          "letter": "D",
+          "text": "Ý chí và tư tưởng"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 58,
+      "text": "Kết cấu theo chiều dọc (chiều sâu) của ý thức gồm những yếu tố nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tự ý thức, tiềm thức, vô thức"
+        },
+        {
+          "letter": "B",
+          "text": "Tri thức, niềm tin, ý chí"
+        },
+        {
+          "letter": "C",
+          "text": "Cảm giác, khái niệm; phán đoán"
+        },
+        {
+          "letter": "D",
+          "text": "Phán đoán và suy luận"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 59,
+      "text": "Chủ nghĩa duy vật biện chứng quan niệm về mối quan hệ giữa vật chất và ý thức như thế nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vật chất quyết định ý thức"
+        },
+        {
+          "letter": "B",
+          "text": "Ý thức quyết định vật chất"
+        },
+        {
+          "letter": "C",
+          "text": "Vật chất quyết định ý thức, còn ý thức có tính độc lập tương đối và tác động đến vật chất thông qua hoạt động thực tiễn"
+        },
+        {
+          "letter": "D",
+          "text": "Ý thức và vật chất độc lập với nhau"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 60,
+      "text": "Đâu là quan điểm của chủ nghĩa duy vật siêu hình?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tuyệt đối hoá vai trò của ý thức"
+        },
+        {
+          "letter": "B",
+          "text": "Khẳng định ý thức sinh ra tất cả, còn vật chất chỉ là bản sao"
+        },
+        {
+          "letter": "C",
+          "text": "Tuyệt đối hoá vai trò của vật chất, phủ nhận tính độc lập tương đối của ý thức"
+        },
+        {
+          "letter": "D",
+          "text": "Vật chất quyết định ý thức và ý thức có tính độc lập tương đối và tác động trở lại vật chất"
+        }
+      ],
+      "correct_answer": ""
+    },
+    {
+      "question": 61,
+      "text": "Quan điểm nào phủ nhận tính độc lập tương đối của ý thức?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chủ nghĩa duy tâm chủ quan"
+        },
+        {
+          "letter": "B",
+          "text": "Chủ nghĩa duy tâm khách quan"
+        },
+        {
+          "letter": "C",
+          "text": "Chủ nghĩa duy vật siêu hình"
+        },
+        {
+          "letter": "D",
+          "text": "Chủ nghĩa duy vật biện chứng"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 62,
+      "text": "Chỉ ra đặc điểm của mối liên hệ theo quan điểm của chủ nghĩa duy vật biện chứng?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tất cả các đáp án"
+        },
+        {
+          "letter": "B",
+          "text": "Là sự tác động lẫn nhau giữa các sự vật mang tính ngẫu nhiên"
+        },
+        {
+          "letter": "C",
+          "text": "Là sự tác động, sự chuyển hoá lẫn nhau của các sự vật, hiện tượng mang tính chủ quan"
+        },
+        {
+          "letter": "D",
+          "text": "Là sự tác động, sự chuyển hoá lẫn nhau giữa các sự vật và giữa các mặt của sự vật"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 63,
+      "text": "Ý thức tác động trở lại vật chất được thực hiện thông qua yếu tố nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hoạt động tự thân của ý thức con người"
+        },
+        {
+          "letter": "B",
+          "text": "Hoạt động nhận thức của ý thức con người"
+        },
+        {
+          "letter": "C",
+          "text": "Hoạt động chủ quan của ý thức con người"
+        },
+        {
+          "letter": "D",
+          "text": "Hoạt động thực tiễn của con người"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 64,
+      "text": "Trường phái nào quan niệm: \"Trong nhận thức và hoạt động thực tiễn phải lấy hiện thực khách quan làm căn cứ\"?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chủ nghĩa duy vật biện chứng"
+        },
+        {
+          "letter": "B",
+          "text": "Chủ nghĩa duy tâm"
+        },
+        {
+          "letter": "C",
+          "text": "Tất cả các đáp án"
+        },
+        {
+          "letter": "D",
+          "text": "Chủ nghĩa kinh nghiệm"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 65,
+      "text": "Nghiên cứu mối quan hệ giữa vật chất và ý thức cho thấy trong hoạt động nhận thức và thực tiễn chúng ta phải làm gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Xuất phát từ mong muốn chủ quan của con người mà không cần quan tâm đến hoàn cảnh"
+        },
+        {
+          "letter": "B",
+          "text": "Xuất phát từ ý muốn của con người, phát huy tính năng động chủ quan"
+        },
+        {
+          "letter": "C",
+          "text": "Chỉ cần xuất phát từ ý muốn chủ quan của con người"
+        },
+        {
+          "letter": "D",
+          "text": "Tôn trọng tính khách quan kết hợp với phát huy tính năng động chủ quan"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 66,
+      "text": "Trong hoạt động nhận thức và thực tiễn phải xuất phát từ thực tế khách quan, tôn trọng khách quan được rút ra từ nội dung lý luận nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vật chất có trước, ý thức có sau, vật chất quyết định ý thức"
+        },
+        {
+          "letter": "B",
+          "text": "Ý thức có trước, vật chất có sau, ý thức quyết định vật chất"
+        },
+        {
+          "letter": "C",
+          "text": "Tất cả các đáp án"
+        },
+        {
+          "letter": "D",
+          "text": "Tính chủ quan của ý thức con người"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 67,
+      "text": "Trong hoạt động nhận thức và thực tiễn phải phát huy tính năng động chủ quan được rút ra từ nội dung lý luận nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vật chất có trước, ý thức có sau, vật chất quyết định ý thức"
+        },
+        {
+          "letter": "B",
+          "text": "Ý thức có trước, vật chất có sau, ý thức quyết định vật chất"
+        },
+        {
+          "letter": "C",
+          "text": "Bản chất năng động, sáng tạo của ý thức"
+        },
+        {
+          "letter": "D",
+          "text": "Sự tác động qua lại giữa vật chất và ý thức."
+        }
+      ],
+      "correct_answer": ""
+    },
+    {
+      "question": 68,
+      "text": "Bổ sung để được một khẳng định đúng theo quan điểm của chủ nghĩa duy vật biện chứng: \"Các sự vật, hiện tượng...\"?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chỉ có những quan hệ bề ngoài mang tính ngẫu nhiên"
+        },
+        {
+          "letter": "B",
+          "text": "Không thể chuyển hóa lẫn nhau trong những điều kiện nhất định"
+        },
+        {
+          "letter": "C",
+          "text": "Có mối liên hệ, quy định, ràng buộc lẫn nhau"
+        },
+        {
+          "letter": "D",
+          "text": "Tồn tại biệt lập, tách rời nhau trong sự phát triển"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 69,
+      "text": "Cơ sở nào tạo nên mối liên hệ phổ biến của các sự vật, hiện tượng?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Do tính thống nhất vật chất của thế giới"
+        },
+        {
+          "letter": "B",
+          "text": "Do khả năng nhận thức sáng tạo của chủ thể"
+        },
+        {
+          "letter": "C",
+          "text": "Do sự tồn tại độc lập giữa các sự vật, hiện tượng"
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các đáp án"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 70,
+      "text": "Chỉ ra cơ sở triết học của nguyên tắc toàn diện thuộc về lý luận nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nguyên lý về mối liên hệ phổ biến"
+        },
+        {
+          "letter": "B",
+          "text": "Nguyên lý về sự phát triển"
+        },
+        {
+          "letter": "C",
+          "text": "Cập phạm trừ nguyên nhân - kết quả"
+        },
+        {
+          "letter": "D",
+          "text": "Quy luật thống nhất và đấu tranh của các mặt đối lập"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 71,
+      "text": "Theo quan điểm của chủ nghĩa duy vật biện chứng, các mối liên hệ có các tính chất nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tính khách quan, tính phổ biến, tính đa dạng phong phú"
+        },
+        {
+          "letter": "B",
+          "text": "Tính khách quan, tính phổ biến, tính cô lập"
+        },
+        {
+          "letter": "C",
+          "text": "Tính chủ quan, tính phổ biến, tính cụ thể"
+        },
+        {
+          "letter": "D",
+          "text": "Tính phổ biến, tính chủ quan, tính đa dạng, phong phú"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 72,
+      "text": "Theo quan điểm triết học Mác-Lênin, khẳng định nào sau đây là sai?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con người không thể tách khỏi các mối quan hệ với tự nhiên"
+        },
+        {
+          "letter": "B",
+          "text": "Giữa các loài luôn có những khâu trung gian nối chúng với nhau"
+        },
+        {
+          "letter": "C",
+          "text": "Thế giới là một chinh thể trong sự liên hệ, ràng buộc lẫn nhau"
+        },
+        {
+          "letter": "D",
+          "text": "Thế giới vật chất và thế giới tinh thần tồn tại độc lập nhau"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 73,
+      "text": "Theo quan điểm của chủ nghĩa duy vật biện chứng, nhận định nào sau đây là đúng?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ý muốn chủ quan của con người quy định sự phát triển của sự vật"
+        },
+        {
+          "letter": "B",
+          "text": "Nguồn gốc của sự phát triển nằm ngay trong bản thân sự vật"
+        },
+        {
+          "letter": "C",
+          "text": "Nguồn gốc của sự phát triển nằm ở bên ngoài của sự vật"
+        },
+        {
+          "letter": "D",
+          "text": "Tính thần khách quan là yếu tố quan trọng nhất quy định sự phát triển của sự vật"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 74,
+      "text": "Theo chủ nghĩa duy vật biện chứng khi xem xét sự vật, hiện tượng, chúng ta cần tránh quan điểm nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quan điểm toàn diện"
+        },
+        {
+          "letter": "B",
+          "text": "Quan điểm phát triển"
+        },
+        {
+          "letter": "C",
+          "text": "Quan điểm lịch sử - cụ thể"
+        },
+        {
+          "letter": "D",
+          "text": "Quan điểm phiên diện, chiết trung, ngụy biện"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 75,
+      "text": "Phát triển có tính chất gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tính khách quan, phổ biến, đa dạng phong phú và kế thừa"
+        },
+        {
+          "letter": "B",
+          "text": "Tính chủ quan và phổ biến"
+        },
+        {
+          "letter": "C",
+          "text": "Tính chủ quan và cô lập"
+        },
+        {
+          "letter": "D",
+          "text": "tính khác quan và cô lập"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 76,
+      "text": "Chủ nghĩa duy vật biện chứng quan niệm phát triển có đặc điểm gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Phát triển chỉ vận động theo khuynh hướng đi lên của sự vật, hiện tượng"
+        },
+        {
+          "letter": "B",
+          "text": "Phát triển mang tính chủ quan"
+        },
+        {
+          "letter": "C",
+          "text": "Phát triển chỉ tăng lên về mặt lượng của sự vật"
+        },
+        {
+          "letter": "D",
+          "text": "Phát triển chỉ theo vòng tròn kép kín"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 77,
+      "text": "Đâu không phải là quan điểm của chủ nghĩa duy vật biện chứng về phát triển?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Phát triển chỉ khuynh hướng vận động đi lên của sự vật, hiện tượng"
+        },
+        {
+          "letter": "B",
+          "text": "Phát triển không phải là tất cả mọi sự vật động của sự vật"
+        },
+        {
+          "letter": "C",
+          "text": "Phát triển có tính khách quan, tính phổ biến, tính đa dạng phong phú và tính kế thừa"
+        },
+        {
+          "letter": "D",
+          "text": "Phát triển chỉ sự tăng lên duy nhất về mặt lượng của sự vật"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 78,
+      "text": "Mỗi liên hệ có vai trò như thế nào đối với sự tồn tại và phát triển của sự vật?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Có vai trò khác nhau nên cần phải xem xét mọi mối liên hệ"
+        },
+        {
+          "letter": "B",
+          "text": "Có vai trò không giống nhau nên chỉ cần biết một mối liên hệ"
+        },
+        {
+          "letter": "C",
+          "text": "Có vai trò như nhau đối với sự tồn tại và phát triển của sự vật"
+        },
+        {
+          "letter": "D",
+          "text": "Có vai trò như nhau nên chỉ cần biết một mối liên hệ của sự vật"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 79,
+      "text": "Theo quan điểm của chủ nghĩa duy vật biện chứng về nguyên tắc toàn diện, luận điểm nào sau đây là đúng?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Là chỉ nhìn một chiều mà không thấy mặt khác"
+        },
+        {
+          "letter": "B",
+          "text": "Là đánh tráo các mối liên hệ cơ bản thành không có bản"
+        },
+        {
+          "letter": "C",
+          "text": "Là lấp ghép vô nguyên tắc các mối liên hệ trái ngược nhau"
+        },
+        {
+          "letter": "D",
+          "text": "Đòi hỏi khi nhiên cứu đối tượng cần đặt nó trong chính thể thống nhất của tắt cả các mặt, các mối liên hệ."
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 80,
+      "text": "Đâu không phải là nội dung của nguyên tắc toàn diện?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Khi nghiên cứu đối tượng cần đặt nó trong chính thể thống nhất của tất cả các mặt, các mối liên hệ."
+        },
+        {
+          "letter": "B",
+          "text": "Phải rút ra được các mặt, các mối liên hệ tất yếu và nhận thức chúng trong sự thống nhất hữu cơ."
+        },
+        {
+          "letter": "C",
+          "text": "Cần xem xét đối tượng này trong mối liên hệ với đối tượng."
+        },
+        {
+          "letter": "D",
+          "text": "Chỉ nhìn một chiều, thấy mặt này mà không thấy mặt khác."
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 81,
+      "text": "Chỉ ra đặc điểm của quan điểm phiến diện?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chỉ nhìn một chiều, thấy mặt này mà không thấy mặt khác."
+        },
+        {
+          "letter": "B",
+          "text": "Nghiên cứu sự vật trong mối liên hệ với các sự vật hiện tượng khác."
+        },
+        {
+          "letter": "C",
+          "text": "Thừa nhận tính phổ biến của các sự vật hiện tượng."
+        },
+        {
+          "letter": "D",
+          "text": "Phải tuân theo nhiều mối liên hệ liên quan đến sự vật."
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 82,
+      "text": "Chỉ ra quan điểm của chủ nghĩa duy vật biện chứng về đặc điểm của nguyên tắc lịch sử - cụ thể?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Phân tích sự vật trong điều kiện, hoàn cảnh và quá trình lịch sử của nó."
+        },
+        {
+          "letter": "B",
+          "text": "Không cần quan tâm đến điều kiện, hoàn cảnh của sự vật."
+        },
+        {
+          "letter": "C",
+          "text": "Không cần quan tâm đến quá trình lịch sử của sự vật."
+        },
+        {
+          "letter": "D",
+          "text": "Không cần quan tâm các mối liên hệ liên quan đến sự vật."
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 83,
+      "text": "Trong hoạt động nhận thức và thực tiễn, quan điểm lịch sử - cụ thể yêu cầu như thế nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Không cần chú ý đến điều kiện, hoàn cảnh lịch sử, môi trường cụ thể của sự vật sinh ra"
+        },
+        {
+          "letter": "B",
+          "text": "Không cần chú ý đến điều kiện, hoàn cảnh lịch sử trong sự tồn tại và phát triển của sự vật"
+        },
+        {
+          "letter": "C",
+          "text": "Cần chú ý đến điều kiện, hoàn cảnh lịch sử - cụ thể của sự vật, hiện tượng đó sinh ra, tồn tại, phát triển"
+        },
+        {
+          "letter": "D",
+          "text": "Không chú ý đến không gian, thời gian của sự vật"
+        }
+      ],
+      "correct_answer": ""
+    },
+    {
+      "question": 84,
+      "text": "Đâu không phải là quan điểm của chủ nghĩa duy vật biện chứng về nguyên tắc phát triển?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cần đặt đối tượng vào sự vận động, phát hiện xu hướng biến đổi của nó"
+        },
+        {
+          "letter": "B",
+          "text": "Phát triển là quá trình trải qua nhiều giai đoạn"
+        },
+        {
+          "letter": "C",
+          "text": "Phải sớm phát hiện và ủng hộ đối tượng mới"
+        },
+        {
+          "letter": "D",
+          "text": "Phải có quan điểm bảo thủ, định kiến khi nghiên cứu đối tượng"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 85,
+      "text": "Nếu ý nghĩa phương pháp luận của quan điểm phát triển?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chỉ nắm bắt những cái hiện đang tồn tại ở sự vật"
+        },
+        {
+          "letter": "B",
+          "text": "Chỉ nắm bắt cái đã tồn tại ở sự vật"
+        },
+        {
+          "letter": "C",
+          "text": "Nắm bắt những cái hiện đã, đang tồn tại và thấy xu hướng phát triển trong tương lai của sự vật"
+        },
+        {
+          "letter": "D",
+          "text": "Chỉ nắm bắt xu hướng phát triển trong tương lai của sự vật"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 86,
+      "text": "Thêm cụm từ nào vào câu sau để được luận điểm của chủ nghĩa duy vật biện chứng: \"Nguyên lý về mối liên hệ phổ biến và nguyên lý về sự phát triển có...\"?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đồng nhất với nhau một cách hoàn toàn"
+        },
+        {
+          "letter": "B",
+          "text": "Độc lập với nhau một cách hoàn toàn"
+        },
+        {
+          "letter": "C",
+          "text": "Quan hệ chặt chẽ với nhau, nhưng không đồng nhất với nhau"
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các đáp án"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 87,
+      "text": "Phép biện chứng duy vật có mấy cặp phạm trù cơ bản?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bốn cặp phạm trù"
+        },
+        {
+          "letter": "B",
+          "text": "Năm cặp phạm trù"
+        },
+        {
+          "letter": "C",
+          "text": "Sáu cặp phạm trù"
+        },
+        {
+          "letter": "D",
+          "text": "Bảy cặp phạm trù"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 88,
+      "text": "Theo chủ nghĩa duy vật biện chứng, cái riêng là phạm trù triết học dùng để chỉ yếu tố nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Những mặt, những thuộc tính"
+        },
+        {
+          "letter": "B",
+          "text": "Những mối liên hệ"
+        },
+        {
+          "letter": "C",
+          "text": "Những bản chất chung"
+        },
+        {
+          "letter": "D",
+          "text": "Một sự vật, một hiện tượng nhất định"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 89,
+      "text": "Chọn cụm từ thích hợp điền vào chỗ trống: \"cái chung là phạm trù triết học dùng để chỉ ... không những có ở một sự vật, hiện tượng nào đó, mà còn lặp lại trong nhiều sự vật, hiện tượng (nhiều cái riêng) khác\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Một sự vật, một quá trình"
+        },
+        {
+          "letter": "B",
+          "text": "Những mặt, những thuộc tính"
+        },
+        {
+          "letter": "C",
+          "text": "Những mặt, những thuộc tính không đồng nhất"
+        },
+        {
+          "letter": "D",
+          "text": "Một hiện tượng, một sự vật, không liên hệ với nhau"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 90,
+      "text": "Theo quan điểm duy vật biện chứng, cái đơn nhất là gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Là cái tồn tại phổ biến ở nhiều sự vật, hiện tượng"
+        },
+        {
+          "letter": "B",
+          "text": "Là phạm trù triết học dùng để chỉ các mặt, các đặc, điểm chỉ vốn có ở một sự vật, hiện tượng ( một cái riêng ) nào đó mà không lặp lại ở sự vật, hiện tượng nào khác."
+        },
+        {
+          "letter": "C",
+          "text": "Là cái duy nhất thể hiện bản chất, đặc điểm của sự vật, hiện tượng"
+        },
+        {
+          "letter": "D",
+          "text": "Là cái không liên quan đến cái chung, cái riêng."
+        }
+      ],
+      "correct_answer": ""
+    },
+    {
+      "question": 91,
+      "text": "Điền các từ đúng vào chỗ trống sau: \"Cái ... tồn tại trong... và thông qua cái riêng mà biểu hiện sự tồn tại của mình\"?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cái chung / cái riêng"
+        },
+        {
+          "letter": "B",
+          "text": "Cái riêng / cái chung"
+        },
+        {
+          "letter": "C",
+          "text": "Cái chung / Cái đơn nhất"
+        },
+        {
+          "letter": "D",
+          "text": "Cái đơn nhất / cái riêng"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 92,
+      "text": "Theo chủ nghĩa duy vật biện chứng, luận điểm nào sau đây là sai?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cái chung là cái bộ phận"
+        },
+        {
+          "letter": "B",
+          "text": "Muốn nhận thức cái chung thì phải đi từ cái riêng"
+        },
+        {
+          "letter": "C",
+          "text": "Cái riêng là cái toàn thể"
+        },
+        {
+          "letter": "D",
+          "text": "Cái chung không gia nhập hết vào cái riêng"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 93,
+      "text": "Theo quan điểm triết học Mác-Lênin, luận điểm nào sau đây sai?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cái riêng là chỉ một sự vật, hiện tượng nhất định"
+        },
+        {
+          "letter": "B",
+          "text": "Cái chung không phụ thuộc vào cái riêng và sinh ra cái riêng"
+        },
+        {
+          "letter": "C",
+          "text": "Cái đơn nhất và cái chung chuyển hoá cho nhau"
+        },
+        {
+          "letter": "D",
+          "text": "Cái riêng rộng hơn cái chung"
+        },
+        {
+          "letter": "A",
+          "text": "Cái chung tồn tại trong những cái riêng; thông qua những cái riêng mà cái chung biểu hiện sự tồn tại"
+        },
+        {
+          "letter": "B",
+          "text": "Cái riêng là cái toàn bộ còn cái chung là cái bộ phận"
+        },
+        {
+          "letter": "C",
+          "text": "Cái riêng tồn tại độc lập so với cái chung"
+        },
+        {
+          "letter": "D",
+          "text": "Cái đơn nhất và cái chung có thể chuyển hóa qua lại lẫn nhau"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 95,
+      "text": "Chú nghĩa duy vật biện chứng quan niệm như thế nào về mối quan hệ giữa cái chung và cái riêng?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cái chung tồn tại khách quan, bên ngoài cái riêng"
+        },
+        {
+          "letter": "B",
+          "text": "Không có cái chung thuận túy, tồn tại bên ngoài cái riêng"
+        },
+        {
+          "letter": "C",
+          "text": "Cái riêng tồn tại khách quan không bao hàm cái chung"
+        },
+        {
+          "letter": "D",
+          "text": "Cái chung tồn tại khách quan, bên ngoài cái riêng; có cái chung tồn tại bên ngoài cái riêng"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 96,
+      "text": "Chỉ ra ý nghĩa phương pháp luận được rút ra từ mối quan hệ giữa cái chung và cái riêng?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muốn rút ra cái chung phải thông qua nhiều cái riêng"
+        },
+        {
+          "letter": "B",
+          "text": "Muốn rút ra cái chung không cần phải thông qua cái riêng"
+        },
+        {
+          "letter": "C",
+          "text": "Cái chung luôn luôn tồn tại độc lập với cái riêng"
+        },
+        {
+          "letter": "D",
+          "text": "Chỉ cần quan tâm đến cái riêng mà không cần quan tâm đến cái chung"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 97,
+      "text": "Theo chủ nghĩa duy vật biện chứng, nhận định nào sau đây là sai?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cần phải vận dụng cái chung cho phù hợp với đặc điểm của từng trường hợp cụ thể"
+        },
+        {
+          "letter": "B",
+          "text": "Trong hoạt động thực tiễn cần phải tạo điều kiện để cái đơn nhất có lợi trở thành cái chung và cái chung bất lợi trở thành cái đơn nhất"
+        },
+        {
+          "letter": "C",
+          "text": "Cần phải phân biệt rõ cái chung và cái riêng khi phân tích vấn đề"
+        },
+        {
+          "letter": "D",
+          "text": "Trong hoạt động thực tiễn cần phải tạo điều kiện thuật lợi để cái đơn nhất bất lợi trở thành cái chung và cái chung có lợi trở thành cái đơn nhất."
+        }
+      ],
+      "correct_answer": ""
+    },
+    {
+      "question": 98,
+      "text": "Tìm từ thích hợp để điền vào chỗ trống: \"Trong hoạt động thực tiễn có thể và cần phải tạo điều kiện thuận lợi để cái đơn nhất có lợi cho con người trở thành... và... bất lợi trở thành cái đơn nhất\"?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cái chung/cái chung"
+        },
+        {
+          "letter": "B",
+          "text": "Cái riêng/cái riêng"
+        },
+        {
+          "letter": "C",
+          "text": "Cái đơn nhất/cái đơn nhất"
+        },
+        {
+          "letter": "D",
+          "text": "Cái chung/cái riêng"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 99,
+      "text": "Bài học kinh nghiệm: \"Công cuộc xây dựng chủ nghĩa xã hội phải xuất phát từ tình hình cụ thể của từng đất nước\" được rút ra từ luận điểm nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Áp dụng cái chung vào cái riêng phải chú ý đến hoàn cảnh cụ thể"
+        },
+        {
+          "letter": "B",
+          "text": "Áp dụng cái chung vào cái riêng một cách phiền diện"
+        },
+        {
+          "letter": "C",
+          "text": "Áp dụng cái riêng phải dựa vào cái chung"
+        },
+        {
+          "letter": "D",
+          "text": "Áp dụng cái chung vào cái riêng không cần xem xét đến cái đặc thù"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 100,
+      "text": "Theo quan điểm duy vật biện chứng, nguyên nhân được hiểu như thế nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Là phạm trù chỉ sự tác động lẫn nhau giữa các mặt hay giữa các sự vật nhằm gây ra một sự biến đổi nhất định"
+        },
+        {
+          "letter": "B",
+          "text": "Là một sự vật, hiện tượng sinh ra sự vật hiện tượng khác"
+        },
+        {
+          "letter": "C",
+          "text": "Là cái có sau kết quả"
+        },
+        {
+          "letter": "D",
+          "text": "Đồng nhất với nguyên cơ và điều kiện"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 101,
+      "text": "Lựa chọn từ đúng vào chỗ trống, theo chủ nghĩa duy vật biện chứng:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sau khi sự vật, hiện tượng xuất hiện"
+        },
+        {
+          "letter": "B",
+          "text": "Trước khi hiện tượng này xuất hiện"
+        },
+        {
+          "letter": "C",
+          "text": "Trong khi hiện tượng này xuất hiện"
+        },
+        {
+          "letter": "D",
+          "text": "Đồng thời với hiện tượng này"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 102,
+      "text": "Theo quan điểm của triết học Mác - Lênin về mối quan hệ giữa nguyên nhân và kết quả, khẳng định nào sau đây đúng?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Một nguyên nhân chỉ sinh ra một kết quả"
+        },
+        {
+          "letter": "B",
+          "text": "Nguyên nhân có thể chuyển hoá thành kết quả"
+        },
+        {
+          "letter": "C",
+          "text": "Mỗi sự vật, hiện tượng chỉ do một nguyên nhân sinh ra"
+        },
+        {
+          "letter": "D",
+          "text": "Một nguyên nhân chỉ có thể sản sinh ra hai kết quả trái ngược nhau"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 103,
+      "text": "Mỗi liên hệ nhân quả của các sự vật, hiện tượng có đặc điểm gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Phụ thuộc hoàn toàn vào ý thức con người"
+        },
+        {
+          "letter": "B",
+          "text": "Do tinh thần khách quan quy định"
+        },
+        {
+          "letter": "C",
+          "text": "Hoàn toàn do hoạt động của con người gây ra"
+        },
+        {
+          "letter": "D",
+          "text": "Có tính khách quan, tính phổ biến và tất yếu"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 104,
+      "text": "Theo chủ nghĩa duy vật biện chứng, luận điểm nào sau đây là sai?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mối quan hệ nguyên nhân và kết quả không có tính khách quan, phổ biến, tất yếu"
+        },
+        {
+          "letter": "B",
+          "text": "Mối quan hệ nguyên nhân và kết quả có tính khách quan, phổ biến, tất yếu"
+        },
+        {
+          "letter": "C",
+          "text": "Một kết quả có thể do nhiều nguyên nhân sinh ra"
+        },
+        {
+          "letter": "D",
+          "text": "Trong quá trình vận động, phát triển, nguyên nhân và kết quả có thể đối chỗ, chuyển hóa cho nhau"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 105,
+      "text": "Theo quan điểm của triết học Mác - Lênin, khẳng định nào sau đây là sai?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Để nhận thức được sự vật thì phải tìm ra nguyên nhân xuất hiện của nó"
+        },
+        {
+          "letter": "B",
+          "text": "Muốn loại bỏ một sự vật thì phải loại bỏ nguyên nhân sinh ra nó"
+        },
+        {
+          "letter": "C",
+          "text": "Trong quá trình nhận thức sự vật không cần phải phân loại nguyên nhân cơ bản và nguyên nhân không cơ bản"
+        },
+        {
+          "letter": "D",
+          "text": "Trong quá trình phân tích kết quả, cần phân loại nguyên nhân cơ bản và nguyên nhân không cơ bản"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 106,
+      "text": "Theo chủ nghĩa duy vật biện chứng, khẳng định nào sau đây đúng?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Phải tìm nguyên nhân ở mối liên hệ đã xảy ra trước khi sự vật, hiện tượng xuất hiện"
+        },
+        {
+          "letter": "B",
+          "text": "Để nhận thức được sự vật, hiện tượng, chỉ cần dựa vào kết quả được tạo ra"
+        },
+        {
+          "letter": "C",
+          "text": "Trong quá trình nhận thức sự vật, chỉ cần quan tâm tới nguyên nhân cơ bản mà không quan tâm tới nguyên nhân không cơ bản"
+        },
+        {
+          "letter": "D",
+          "text": "Phải tìm nguyên nhân của một sự vật, hiện tượng trong những sự kiện xảy ra sau đó"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 107,
+      "text": "Tìm đáp án đúng, điền vào chỗ trống: \"Muốn loại bỏ một sự vật, hiện tượng nào đó không cần thiết thì phải ...?\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chỉ loại bỏ nguyên nhân không cơ bản sinh ra nó"
+        },
+        {
+          "letter": "B",
+          "text": "Loại bỏ tất cả các nguyên nhân sinh ra nó"
+        },
+        {
+          "letter": "C",
+          "text": "Loại bỏ nguyên nhân chủ quan sinh ra nó"
+        },
+        {
+          "letter": "D",
+          "text": "Chi loại bỏ nguyên nhân bên ngoài sinh ra nó"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 108,
+      "text": "Theo quan điểm của triết học Mác - Lênin, bản chất là gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Là phạm trù triết học dùng để chỉ tổng thể các mối liên hệ khách quan, tất nhiên, tương đối ổn định bên trong, quy định sự vận động, phát triển của đối tượng"
+        },
+        {
+          "letter": "B",
+          "text": "Chỉ những biểu hiện của các mặt, mối liên hệ tất nhiên tương đối ổn định ở bên ngoài"
+        },
+        {
+          "letter": "C",
+          "text": "Chỉ phương thức tồn tại, biểu hiện và phát triển của sự vật, hiện tượng"
+        },
+        {
+          "letter": "D",
+          "text": "Chỉ những yếu tố không có tính ổn định và biến đổi rất nhanh của sự vật, hiện tượng"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 109,
+      "text": "Ph. Ảngghen viết: \"cái mà người ta quá quyết cho là tất yếu lại hoàn toàn do những ngẫu nhiên thuần túy cấu thành, và cái được gọi là ngẫu nhiên, lại là hình thức, dưới đó ẩn nấp cái tất yếu\"1 được hiểu như thế nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ranh giới giữa tất nhiên và ngẫu nhiên chỉ mang tính tương đối"
+        },
+        {
+          "letter": "B",
+          "text": "Ranh giới giữa tất nhiên và ngẫu nhiên mang tính tuyệt đối"
+        },
+        {
+          "letter": "C",
+          "text": "Giữa tất nhiên và ngẫu nhiên không có mối liên hệ với nhau"
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các đáp án"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 110,
+      "text": "Đâu không phải là quan điểm của chủ nghĩa duy vật biện chứng?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cần phải căn cứ vào cái tất nhiên chứ không thể dựa hoàn toàn vào cái ngẫu nhiên"
+        },
+        {
+          "letter": "B",
+          "text": "Có thể chỉ ra tất nhiên bằng cách nghiên cứu những ngẫu nhiên mà tất nhiên phải đi qua"
+        },
+        {
+          "letter": "C",
+          "text": "Không nên bỏ qua ngẫu nhiên mà phải có những phương án dự phòng trường hợp các sự cố ngẫu nhiên bất ngờ xuất hiện"
+        },
+        {
+          "letter": "D",
+          "text": "Tất nhiên tồn tại độc lập với ngẫu nhiên"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 111,
+      "text": "Trong hoạt động nhận thức và thực tiễn, chúng ta phải làm gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Phải căn cứ vào cái tất nhiên nhưng đồng thời phải tính đến cái ngẫu nhiên"
+        },
+        {
+          "letter": "B",
+          "text": "Phù nhận, gạt bỏ cái tất nhiên"
+        },
+        {
+          "letter": "C",
+          "text": "Phù nhận, gạt bỏ cái ngẫu nhiên"
+        },
+        {
+          "letter": "D",
+          "text": "Chỉ căn cứ vào cái ngẫu nhiên mà không quan tâm đến cái tất nhiên"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 112,
+      "text": "Câu tục ngữ \"Tốt gỗ hơn tốt nước sơn\" chỉ điều gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coi trọng hình thức hơn nội dung"
+        },
+        {
+          "letter": "B",
+          "text": "Coi trọng nội dung hơn hình thức"
+        },
+        {
+          "letter": "C",
+          "text": "Không coi trọng cả nội dung và hình thức"
+        },
+        {
+          "letter": "D",
+          "text": "Coi trọng nội dung và hình thức như nhau"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 113,
+      "text": "Mối quan hệ giữa lực lượng sản xuất và quan hệ sản xuất thuộc về cặp phạm trù nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tất nhiên - ngẫu nhiên"
+        },
+        {
+          "letter": "B",
+          "text": "Nguyên nhân - kết quả"
+        },
+        {
+          "letter": "C",
+          "text": "Nội dung - hình thức"
+        },
+        {
+          "letter": "D",
+          "text": "Cái riêng - cái chung"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 114,
+      "text": "Phép biện chứng duy vật nghiên cứu những quy luật nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quy luật đặc thù"
+        },
+        {
+          "letter": "B",
+          "text": "Quy luật chung chỉ ở một số lĩnh vực"
+        },
+        {
+          "letter": "C",
+          "text": "Quy luật riêng"
+        },
+        {
+          "letter": "D",
+          "text": "Quy luật phổ biến trong tự nhiên, xã hội, tư duy"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 115,
+      "text": "Quy luật từ những sự thay đổi về lượng dẫn đến những sự thay đổi về chất có vị trí như thế nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Là hạt nhân của phép biện chứng"
+        },
+        {
+          "letter": "B",
+          "text": "Chỉ ra nguồn gốc của sự vận động, phát triển của sự vật hiện tượng"
+        },
+        {
+          "letter": "C",
+          "text": "Vạch ra cách thức vận động, phát triển của sự vật, hiện tượng"
+        },
+        {
+          "letter": "D",
+          "text": "Vạch ra khuynh hướng vận động, phát triển của sự vật, hiện tượng"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 116,
+      "text": "Đâu là quan điểm của chủ nghĩa duy vật biện chứng về phạm trù chất của sự vật?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chất của sự vật không tồn tại khách quan"
+        },
+        {
+          "letter": "B",
+          "text": "Chất của sự vật do cảm giác của con người quyết định"
+        },
+        {
+          "letter": "C",
+          "text": "Chất của sự vật chỉ tính quy định khách quan vốn có của sự vật, là tổng hợp các thuộc tính của sự vật nói lên đặc trưng của sự vật"
+        },
+        {
+          "letter": "D",
+          "text": "Chất của sự vật là thuộc tính không cơ bản của sự vật"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 117,
+      "text": "Sự phân biệt giữa lượng và chất mang tính chất gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tính tương đối"
+        },
+        {
+          "letter": "B",
+          "text": "Tính tuyệt đối"
+        },
+        {
+          "letter": "C",
+          "text": "Tính chủ quan"
+        },
+        {
+          "letter": "D",
+          "text": "Tính tuyệt đối và tính chủ quan"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 118,
+      "text": "Đâu không phải là quan điểm của chủ nghĩa duy vật biện chứng?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sự phân biệt giữa chất và lượng chỉ là tương đối"
+        },
+        {
+          "letter": "B",
+          "text": "Mọi sự vật hiện tượng đều là sự thống nhất giữa chất và lượng"
+        },
+        {
+          "letter": "C",
+          "text": "Lượng và chất tác động qua lại và quy định lẫn nhau"
+        },
+        {
+          "letter": "D",
+          "text": "Lượng và chất tồn tại độc lập với nhau"
+        }
+      ],
+      "correct_answer": ""
+    },
+    {
+      "question": 119,
+      "text": "Phạm trù độ trong quy luật chuyển hoá từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại được hiểu như thế nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sự biến đổi về chất mà lượng không thay đổi"
+        },
+        {
+          "letter": "B",
+          "text": "Khoảng giới hạn trong đó sự thay đổi về lượng chưa làm thay đổi căn bản về chất của sự vật, hiện tượng"
+        },
+        {
+          "letter": "C",
+          "text": "Tất cả các đáp án"
+        },
+        {
+          "letter": "D",
+          "text": "Khoảng giới hạn trong đó sự thay đổi về lượng bất kỳ cũng làm biến đổi về chất của sự vật, hiện tượng"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 120,
+      "text": "Thế nào là bước nhảy?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Là tất cả sự phát triển đột biến"
+        },
+        {
+          "letter": "B",
+          "text": "Là sự phát triển không hoàn thiện về chất"
+        },
+        {
+          "letter": "C",
+          "text": "Là quá trình biến đổi về chất diễn ra tại điểm nút"
+        },
+        {
+          "letter": "D",
+          "text": "Chỉ là sự thay đổi về lượng của sự vật"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 121,
+      "text": "Bước nhảy tạo sự biến đổi về chất xảy ra trong xã hội thường được gọi là gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cải cách xã hội"
+        },
+        {
+          "letter": "B",
+          "text": "Tiến hoá xã hội"
+        },
+        {
+          "letter": "C",
+          "text": "Cách mạng xã hội"
+        },
+        {
+          "letter": "D",
+          "text": "Đảo chính"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 122,
+      "text": "Quy luật chuyển hoá từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại được diễn ra một cách tự phát trong lĩnh vực nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tư duy"
+        },
+        {
+          "letter": "B",
+          "text": "Xã hội"
+        },
+        {
+          "letter": "C",
+          "text": "Tự nhiên"
+        },
+        {
+          "letter": "D",
+          "text": "Cả tự nhiên, xã hội và tư duy all in"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 123,
+      "text": "Trong lĩnh vực đời sống xã hội, việc tích lũy đủ về lượng đã thực hiện bước nhảy để làm thay đổi về chất là biểu hiện của khuynh hướng nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hữu khuynh"
+        },
+        {
+          "letter": "B",
+          "text": "Phát triển"
+        },
+        {
+          "letter": "C",
+          "text": "Tả khuynh"
+        },
+        {
+          "letter": "D",
+          "text": "Phiên diện"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 124,
+      "text": "Trong lĩnh vực đời sống xã hội, việc không dám thực hiện bước nhảy cần thiết khi tích lũy đủ về lượng đã đạt đến giới hạn điểm nút là biểu hiện của khuynh hướng nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hữu khuynh"
+        },
+        {
+          "letter": "B",
+          "text": "Phiên diện"
+        },
+        {
+          "letter": "C",
+          "text": "Tả khuynh"
+        },
+        {
+          "letter": "D",
+          "text": "Phát triển"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 125,
+      "text": "Quy luật chuyển hoá từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại yêu cầu trong hoạt động nhận thức và thực tiễn, chúng ta cần phải làm gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chỉ chú trọng về mặt lượng"
+        },
+        {
+          "letter": "B",
+          "text": "Chỉ chú trọng về mặt chất"
+        },
+        {
+          "letter": "C",
+          "text": "chú trọng cả lượng và chất"
+        },
+        {
+          "letter": "D",
+          "text": "tuân theo huynh hướng tả khuynh"
+        }
+      ],
+      "correct_answer": ""
+    },
+    {
+      "question": 126,
+      "text": "Trong nhiệm vụ đưa đất nước thoát khỏi chế độ thực dân phong kiến thì Cách mạng tháng Tám năm 1945 là thực hiện theo hình thức bước nhảy nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bước nhảy cục bộ"
+        },
+        {
+          "letter": "B",
+          "text": "Bước nhảy toàn bộ"
+        },
+        {
+          "letter": "C",
+          "text": "Bước nhảy đột biến"
+        },
+        {
+          "letter": "D",
+          "text": "Bước nhảy tức thời"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 127,
+      "text": "Trong giai đoạn 1975-1986, những sai lầm của sự chủ quan, nóng vội hay của sự bảo thủ, trì trệ của Đảng và nhà nước ta là do không tôn trọng quy luật cơ bản nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quy luật thống nhất và đấu tranh của các mặt đối lập"
+        },
+        {
+          "letter": "B",
+          "text": "Quy luật chuyển hoá từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại"
+        },
+        {
+          "letter": "C",
+          "text": "Quy luật phủ định của phủ định"
+        },
+        {
+          "letter": "D",
+          "text": "Quy luật đấu tranh giai cấp"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 128,
+      "text": "Giai đoạn 1975-1986, Đảng và nhà nước ta đã mắc bệnh chủ quan, nóng vội, muốn bò qua những bước đi cần thiết trong quá trình phát triển đất nước. Vậy Đảng ta đã mắc phải sai lầm gì theo quy luật chuyển hoá từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hữu khuynh"
+        },
+        {
+          "letter": "B",
+          "text": "Tả khuynh"
+        },
+        {
+          "letter": "C",
+          "text": "Tất cả các đáp án"
+        },
+        {
+          "letter": "D",
+          "text": "Tôn trọng khách quan"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 129,
+      "text": "Câu thành ngữ nào không hàm chứa nội dung theo quy luật chuyển hoá từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Có đi có lại mối toại lòng nhau"
+        },
+        {
+          "letter": "B",
+          "text": "Róc mòn cạn ruộng"
+        },
+        {
+          "letter": "C",
+          "text": "Tích tiểu thành đại"
+        },
+        {
+          "letter": "D",
+          "text": "Có công mài sắt có ngày nên kim"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 130,
+      "text": "Câu ca dao “Một cây làm chẳng nên non- Ba cây chụm lại nên hòn núi cao” thể hiện nội dung chính của quy luật nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quy luật thống nhất và đấu tranh của các mặt đối lập"
+        },
+        {
+          "letter": "B",
+          "text": "Quy luật phủ định của phủ định"
+        },
+        {
+          "letter": "C",
+          "text": "Quy luật chuyển hoá từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại"
+        },
+        {
+          "letter": "D",
+          "text": "Không thuộc về quy luật nào"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 131,
+      "text": "Câu tục ngữ: “Có công mài sắt, có ngày nên kim” thể hiện nội dung của quy luật nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quy luật thống nhất và đấu tranh của các mặt đối lập"
+        },
+        {
+          "letter": "B",
+          "text": "Quy luật phủ định của phủ định"
+        },
+        {
+          "letter": "C",
+          "text": "Quy luật chuyển hoá từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại"
+        },
+        {
+          "letter": "D",
+          "text": "Không thuộc về quy luật nào"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 132,
+      "text": "Câu tục ngữ “Tích tiểu thành đại” thuộc về nội dung của quy luật nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quy luật thống nhất và đấu tranh của các mặt đối lập"
+        },
+        {
+          "letter": "B",
+          "text": "Quy luật phủ định của phủ định"
+        },
+        {
+          "letter": "C",
+          "text": "Quy luật chuyển hoá từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại"
+        },
+        {
+          "letter": "D",
+          "text": "Không thuộc về quy luật nào"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 133,
+      "text": "Câu tục ngữ \"Mưa dầm thấm lâu\" thuộc về nội dung của quy luật nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quy luật thống nhất và đấu tranh của các mặt đối lập"
+        },
+        {
+          "letter": "B",
+          "text": "Quy luật phủ định của phủ định"
+        },
+        {
+          "letter": "C",
+          "text": "Quy luật chuyển hoá từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại"
+        },
+        {
+          "letter": "D",
+          "text": "Không thuộc về quy luật nào"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 134,
+      "text": "Muốn thay đổi chất của sự vật cần phải làm gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Phân biệt rõ hai mặt chất và lượng của sự vật"
+        },
+        {
+          "letter": "B",
+          "text": "Kiên trì tích lũy về lượng đến mức cần thiết"
+        },
+        {
+          "letter": "C",
+          "text": "Lựa chọn thời cơ đúng đắn để thực hiện bước nhảy"
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các đáp án"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 135,
+      "text": "Vận dụng quy luật chuyển hóa từ những sự thay đổi về lượng dẫn đến những sự thay đổi về chất vào trong học tập thì sinh viên cần phải làm gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Phải chăm chỉ học tập để tích lũy kiến thức"
+        },
+        {
+          "letter": "B",
+          "text": "Chỉ chú trọng đến những môn học chính"
+        },
+        {
+          "letter": "C",
+          "text": "Không coi trọng những môn học phụ"
+        },
+        {
+          "letter": "D",
+          "text": "Gần đến lúc thì hết môn mới tập trung học"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 136,
+      "text": "Theo chủ nghĩa duy vật biện chứng, mặt đối lập có đặc điểm gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Là những mặt có những thuộc tính, tính chất trái ngược nhau"
+        },
+        {
+          "letter": "B",
+          "text": "Là những mặt có những thuộc tính, tính chất giống nhau"
+        },
+        {
+          "letter": "C",
+          "text": "Là những mặt không có liên hệ với nhau"
+        },
+        {
+          "letter": "D",
+          "text": "Là những thuộc tính luôn đồng nhất với nhau"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 137,
+      "text": "Đâu là quan điểm của chủ nghĩa duy vật biện chứng?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mâu thuẫn chỉ tồn tại trong giới tự nhiên"
+        },
+        {
+          "letter": "B",
+          "text": "Mâu thuẫn chỉ tồn tại trong xã hội"
+        },
+        {
+          "letter": "C",
+          "text": "Mâu thuẫn tồn tại trong cả tự nhiên, xã hội, tư duy"
+        },
+        {
+          "letter": "D",
+          "text": "Mâu thuẫn chỉ tồn tại trong tư duy"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 138,
+      "text": "Mâu thuẫn đối kháng tồn tại ở đâu?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trong tư duy"
+        },
+        {
+          "letter": "B",
+          "text": "Trong tự nhiên"
+        },
+        {
+          "letter": "C",
+          "text": "Trong tự nhiên và tư duy"
+        },
+        {
+          "letter": "D",
+          "text": "Trong xã hội có giai cấp đối kháng"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 139,
+      "text": "Đâu là quan điểm của chủ nghĩa duy vật biện chứng?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Đấu tranh giữa các mặt đối lập là tạm thời"
+        },
+        {
+          "letter": "B",
+          "text": "Đấu tranh giữa các mặt đối lập là tuyệt đối"
+        },
+        {
+          "letter": "C",
+          "text": "Đấu tranh giữa các mặt đối lập là tương đối"
+        },
+        {
+          "letter": "D",
+          "text": "Đấu tranh giữa các mặt đối lập vừa tạm thời và tương đối"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 140,
+      "text": "Theo quan điểm của chủ nghĩa duy vật biện chứng, nhận định nào sau đây là đúng?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Không có sự thống nhất thì vẫn có sự đấu tranh của các mặt đối lập"
+        },
+        {
+          "letter": "B",
+          "text": "Không có sự đấu tranh thì vẫn có sự thống nhất của các mặt đối lập"
+        },
+        {
+          "letter": "C",
+          "text": "Sự thống nhất và đấu tranh của các mặt đối lập là không thể tách rời nhau"
+        },
+        {
+          "letter": "D",
+          "text": "Sự đấu tranh của các mặt đối lập mang tính tương đối."
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 141,
+      "text": "Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, mâu thuẫn giữa thực trạng nền kinh tế phát triển còn thấp với mục tiêu phát triển đất nước cao được xem là mâu thuẫn nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mâu thuẫn bên ngoài"
+        },
+        {
+          "letter": "B",
+          "text": "Mâu thuẫn cơ bản"
+        },
+        {
+          "letter": "C",
+          "text": "Mâu thuẫn thứ yếu"
+        },
+        {
+          "letter": "D",
+          "text": "Mâu thuẫn đối kháng"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 142,
+      "text": "Trong quá trình xây dựng chủ nghĩa xã hội, nhân dân ta luôn gặp phải sự chống phá quyết liệt từ các thế lực thù địch trong và ngoài nước. Theo nội dung quy luật thống nhất và đấu tranh của các mặt đối lập, đây là loại mâu thuẫn nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mâu thuẫn không đối kháng"
+        },
+        {
+          "letter": "B",
+          "text": "Mâu thuẫn đối kháng"
+        },
+        {
+          "letter": "C",
+          "text": "Mâu thuẫn bên ngoài"
+        },
+        {
+          "letter": "D",
+          "text": "Mâu thuẫn thứ yếu"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 143,
+      "text": "Câu nói của C.Mác \"Hạnh phúc là đấu tranh\" muốn nhấn mạnh đến quy luật nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quy luật thống nhất và đấu tranh của các mặt đối lập"
+        },
+        {
+          "letter": "B",
+          "text": "Quy luật từ những sự thay đổi về lượng dẫn đến những sự thay đổi về chất và ngược lại"
+        },
+        {
+          "letter": "C",
+          "text": "Quy luật phủ định của phủ định"
+        },
+        {
+          "letter": "D",
+          "text": "Quy luật chỉ thuộc về các sự vật của giới tự nhiên"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 144,
+      "text": "Khẳng định khuynh hướng phát triển của sự vật theo đường xoáy ốc thuộc về nội dung chính của quy luật nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quy luật chuyển hoá từ những sự thay đổi về lượng dẫn đến những sự thay đổi về chất và ngược lại"
+        },
+        {
+          "letter": "B",
+          "text": "Quy luật thống nhất và đấu tranh của các mặt đối lập"
+        },
+        {
+          "letter": "C",
+          "text": "Quy luật phủ định của phủ định"
+        },
+        {
+          "letter": "D",
+          "text": "Quy luật mâu thuẫn"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 145,
+      "text": "Bổ sung để được một định nghĩa đúng: \"Thực tiễn là...\"?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hiện thực khách quan, tồn tại bên ngoài con người và độc lập với nhận thức của con người"
+        },
+        {
+          "letter": "B",
+          "text": "Toàn bộ hoạt động tinh thần, mang tính lịch sử - xã hội của con người nhằm cải biến xã hội"
+        },
+        {
+          "letter": "C",
+          "text": "Toàn bộ hoạt động vật chất, mang tính chủ quan của con người nhằm cải biến thế giới"
+        },
+        {
+          "letter": "D",
+          "text": "Toàn bộ hoạt động vật chất - cảm tính, có tính lịch sử - xã hội của con người nhằm cải tạo tự nhiên và xã hội phục vụ nhân loại tiến bộ"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 146,
+      "text": "Điền cụm từ còn thiếu vào chỗ trống: \"Thực tiễn là toàn bộ hoạt động vật chất - cảm tính, có ... của con người nhằm cải tạo tự nhiên và xã hội phục vụ nhân loại tiến bộ\"?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Có cơ sở"
+        },
+        {
+          "letter": "B",
+          "text": "Có động lực"
+        },
+        {
+          "letter": "C",
+          "text": "Tính lịch sử - xã hội"
+        },
+        {
+          "letter": "D",
+          "text": "Có nguồn gốc, mang tính lịch sử - xã hội"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": 147,
+      "text": "Theo quan điểm của chủ nghĩa duy vật biện chứng, đâu là hình thức cao nhất của giai đoạn nhận thức cảm tính?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Biểu tượng"
+        },
+        {
+          "letter": "B",
+          "text": "Cảm giác"
+        },
+        {
+          "letter": "C",
+          "text": "Trí giác"
+        },
+        {
+          "letter": "D",
+          "text": "Phán đoán"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": 148,
+      "text": "Con đường biện chứng của quá trình nhận thức phải diễn ra như thế nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Từ nhận thức lý tính đến nhận thức cảm tính"
+        },
+        {
+          "letter": "B",
+          "text": "Từ trực quan sinh động đến tư duy trừu tượng, từ tư duy trừu tượng đến thực tiễn"
+        },
+        {
+          "letter": "C",
+          "text": "Từ tư duy trừu tượng đến trực quan sinh động, từ trực quan sinh động đến thực tiễn"
+        },
+        {
+          "letter": "D",
+          "text": "Từ trực quan sinh động đến thực tiễn, từ thực tiễn đến tư duy trừu tượng"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 149,
+      "text": "Theo quan điểm của chủ nghĩa duy vật biện chứng, đâu là nội dung thuộc về nguyên tắc thực tiễn?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cần tách rời lý luận với thực tiễn"
+        },
+        {
+          "letter": "B",
+          "text": "Coi trọng lý luận hơn thực tiễn"
+        },
+        {
+          "letter": "C",
+          "text": "Coi trọng thực tiễn hơn lý luận"
+        },
+        {
+          "letter": "D",
+          "text": "Gắn lý luận với thực tiễn"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": 150,
+      "text": "Từ vai trò của thực tiễn đối với nhận thức, chúng ta phải ra rút ra nguyên tắc gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nguyên tắc phát triển"
+        },
+        {
+          "letter": "B",
+          "text": "Nguyên tắc toàn diện"
+        },
+        {
+          "letter": "C",
+          "text": "Nguyên tắc thực tiễn"
+        },
+        {
+          "letter": "D",
+          "text": "Nguyên tắc kế thừa"
+        }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}
