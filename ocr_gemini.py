@@ -20,7 +20,7 @@ OUTPUT_DIR = Path(r"c:\Users\YAYSOOSWhite\Documents\triet-utt")
 CHAPTERS = ["chuong_3"]
 
 # Delay between requests (seconds) to avoid rate limit
-DELAY_SECONDS = 2
+DELAY_SECONDS = 4
 
 # Image settings
 MAX_IMAGE_SIZE = 1600
@@ -60,8 +60,8 @@ def resize_and_compress_image(image_path: Path) -> str:
     return base64.b64encode(buffer.getvalue()).decode("utf-8")
 
 
-def ocr_image(image_path: Path) -> str:
-    """OCR a single image using AI Studio API."""
+def ocr_image(image_path: Path, max_retries: int = 4) -> str:
+    """OCR a single image using AI Studio API with retry on rate limit."""
     try:
         base64_image = resize_and_compress_image(image_path)
     except Exception as e:
@@ -76,17 +76,41 @@ def ocr_image(image_path: Path) -> str:
         }]
     }
     
-    try:
-        response = requests.post(
-            f"{API_URL}?key={API_KEY}",
-            json=payload,
-            timeout=60
-        )
-        response.raise_for_status()
-        result = response.json()
-        return result["candidates"][0]["content"]["parts"][0]["text"]
-    except Exception as e:
-        return f"[ERROR AI Studio: {str(e)}]"
+    retry_delay = 5  # Start with 5 seconds
+    
+    for attempt in range(max_retries):
+        try:
+            response = requests.post(
+                f"{API_URL}?key={API_KEY}",
+                json=payload,
+                timeout=60
+            )
+            
+            # Check for rate limit
+            if response.status_code == 429:
+                if attempt < max_retries - 1:
+                    print(f"\n    ⚠ Rate limit! Waiting {retry_delay}s before retry ({attempt + 1}/{max_retries})...")
+                    time.sleep(retry_delay)
+                    retry_delay *= 2  # Exponential backoff
+                    continue
+                else:
+                    return f"[ERROR: Rate limit exceeded after {max_retries} retries]"
+            
+            response.raise_for_status()
+            result = response.json()
+            return result["candidates"][0]["content"]["parts"][0]["text"]
+            
+        except requests.exceptions.HTTPError as e:
+            if "429" in str(e) and attempt < max_retries - 1:
+                print(f"\n    ⚠ Rate limit! Waiting {retry_delay}s before retry ({attempt + 1}/{max_retries})...")
+                time.sleep(retry_delay)
+                retry_delay *= 2
+                continue
+            return f"[ERROR AI Studio: {str(e)}]"
+        except Exception as e:
+            return f"[ERROR AI Studio: {str(e)}]"
+    
+    return "[ERROR: Max retries exceeded]"
 
 
 def process_chapter(chapter_name: str):
@@ -112,12 +136,17 @@ def process_chapter(chapter_name: str):
     all_text = []
     
     for i, image_path in enumerate(image_files):
-        print(f"  [{i+1}/{total}] {image_path.name}...", end=" ", flush=True)
+        print(f"  [{i+1}/{total}] {image_path.name}...")
         
         ocr_text = ocr_image(image_path)
         all_text.append(ocr_text)
         
-        print("Done")
+        # Show preview of OCR result
+        preview = ocr_text[:200].replace('\n', ' ')
+        if len(ocr_text) > 200:
+            preview += "..."
+        print(f"    ✓ Done ({len(ocr_text)} chars)")
+        print(f"    Preview: {preview}")
         
         # Save progress after each image
         with open(output_file, "w", encoding="utf-8") as f:
