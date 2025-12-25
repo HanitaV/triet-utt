@@ -372,6 +372,29 @@
       "correct_answer": "A"
     },
     {
+      "question": 17,
+      "text": "C.Mác viết: 'Cái cuối xay quay bằng tay đưa lại xã hội có lãnh chúa phong kiểu, cái cối xay chạy bằng máy hơi nước đưa lại xã hội tư bản công nghiệp' nhằm để chỉ luận điểm nào ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vai trò quyết định của quan hệ sản xuất đối với lực lượng sản xuất"
+        },
+        {
+          "letter": "B",
+          "text": "Vai trò quyết định của lực lượng sản xuất đối với quan hệ sản xuất"
+        },
+        {
+          "letter": "C",
+          "text": "Lực lượng sản xuất và quan hệ sản xuất tồn tại độc lập với nhau"
+        },
+        {
+          "letter": "D",
+          "text": "Tất cả các đáp án"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
       "question": 18,
       "text": "Khi nào quan hệ sản xuất trở thành xiềng xích kim hãm sự phát triển của lực lượng sản xuất?",
       "options": [
@@ -645,7 +668,7 @@
           "text": "Quy luật quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất"
         }
       ],
-      "correct_answer": ""
+      "correct_answer": "D"
     },
     {
       "question": 30,
@@ -2676,6 +2699,52 @@
       "correct_answer": "D"
     },
     {
+      "question": 118,
+      "text": "C.Mác và Ph.Ăngggheb nói: 'Ngay cả chủ nghĩa cộng sản phát triển cũng trực tiếp bắt nguồn từ chủ nghĩa duy vật Pháp' thể hiện đặc điểm nào?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ý thức xã hội lạc hậu so với tồn tại xã hội"
+        },
+        {
+          "letter": "B",
+          "text": "Ý thức xã hội có tính kết thừa"
+        },
+        {
+          "letter": "C",
+          "text": "Tính vượt trước của ý thức xã hội"
+        },
+        {
+          "letter": "D",
+          "text": "Ý thức xã hội tác động trở lại tồn tại xã hội"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": 119,
+      "text": "C.Mác dự báo 'tri thức trở thành lực lượng sản xuất rực tiếp' đang trở thành sự thật trong xã hội của thế kỷ XXI, minh chứng cho điều gì?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tính lạc hậu của ý thức xã hội đối với tồn tại xã hội"
+        },
+        {
+          "letter": "B",
+          "text": "Tính vượt trước của ý thức xã hội đối với tồn tại xã hội"
+        },
+        {
+          "letter": "C",
+          "text": "Tính kế thừa của ý thức xã hội"
+        },
+        {
+          "letter": "D",
+          "text": "Tính tác động trở lại của ý thức xã hội đối với tồn tại xã hội"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
       "question": 120,
       "text": "Hiện nay ở Việt Nam, để xây dựng đời sống tinh thần thì chúng ta cần phải làm gì?",
       "options": [
@@ -2949,7 +3018,7 @@
           "text": "Chú trọng tuyên truyền giáo dục, động viên kịp thời các hiện tượng tích cực của con người trong xã hội"
         }
       ],
-      "correct_answer": ""
+      "correct_answer": "B"
     },
     {
       "question": 132,
