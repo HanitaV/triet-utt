@@ -902,3 +902,30 @@ kbd {
         gap: 16px;
     }
 }
+
+/* ===== Footer Disclaimer ===== */
+.footer-disclaimer {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    font-style: italic;
+    margin-top: 8px;
+    opacity: 0.8;
+}
+
+/* ===== Toggle Option (New) ===== */
+.toggle-option {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    font-size: 0.95rem;
+    user-select: none;
+    padding: 8px 0;
+}
+
+.toggle-option input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    accent-color: var(--accent);
+    cursor: pointer;
+}

@@ -60,9 +60,12 @@
                             <option value="exam/chuong_2.json">📗 Chương 2</option>
                             <option value="exam/chuong_3.json">📙 Chương 3</option>
                         </select>
+                        <input type="checkbox" id="shuffle-answers-toggle" checked>
+                        <span>🔀 Trộn đáp án</span>
+                        </label>
                         <label class="toggle-inline">
-                            <input type="checkbox" id="shuffle-answers-toggle" checked>
-                            <span>🔀 Trộn đáp án</span>
+                            <input type="checkbox" id="ai-explanation-toggle" checked>
+                            <span>🤖 Giải thích AI</span>
                         </label>
                     </div>
                 </div>
@@ -133,6 +136,21 @@
             </div>
         </div>
     </main>
+
+    <footer class="main-footer">
+        <div class="footer-content">
+            <p>Ôn tập miễn phí do sinh viên khoa Công nghệ thông tin - Trường Đại học Công nghệ Giao thông Vận tải tạo
+                ❤️</p>
+            <p class="footer-disclaimer">Gemini có thể mắc sai nhầm, các câu hỏi, đáp án và nội dung lý thuyết nên dừng
+                lại ở tham khảo</p>
+            <div style="margin-top: 12px;">
+                <a href="https://www.facebook.com/HanitaVII" target="_blank" class="text-secondary"
+                    style="text-decoration: none; font-size: 0.9rem; display: inline-flex; align-items: center; gap: 6px;">
+                    <span>👨‍💻</span> Liên hệ / Góp ý: HanitaVII
+                </a>
+            </div>
+        </div>
+    </footer>
 
     <!-- Result Modal -->
     <div class="modal" id="result-modal">
