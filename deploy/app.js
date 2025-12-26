@@ -282,7 +282,7 @@ class QuizApp {
                 <h2 class="section-title">${section.sectionTitle}</h2>
                 <div class="section-content">
                     ${section.topics.map((topic, tIdx) => {
-            const relatedQuestions = this.findRelatedQuestions(topic);
+            const relatedQuestions = this.findRelatedQuestions(topic, section.chapter);
             // Generate unique ID for practice button logic
             const globalTopicId = `${section.chapter}-${tIdx}`;
 
@@ -346,23 +346,29 @@ class QuizApp {
         });
     }
 
-    findRelatedQuestions(topic) {
+    findRelatedQuestions(topic, chapter) {
         // Need to check which files to look in based on keyword or brute force all
         // Or assume topic has chapter property inherited from section?
         // Let's search ALL chapters for better coverage or deduce chapter from context if needed.
         // For simplicity and coverage: Search all loaded questions.
 
-        return this.allData.questions.filter(q => {
+        let questions = this.allData.questions;
+        if (chapter) {
+            questions = questions.filter(q => q.chapter === parseInt(chapter));
+        }
+
+        return questions.filter(q => {
             const questionText = (q.text + ' ' + q.options.map(o => o.text).join(' ')).toLowerCase();
             return topic.keywords.some(keyword => questionText.includes(keyword.toLowerCase()));
         });
     }
 
     startTopicPractice(sIdx, tIdx) {
-        const topic = this.studyTopics[sIdx]?.topics[tIdx];
+        const section = this.studyTopics[sIdx];
+        const topic = section?.topics[tIdx];
         if (!topic) return;
 
-        const relatedQuestions = this.findRelatedQuestions(topic);
+        const relatedQuestions = this.findRelatedQuestions(topic, section.chapter);
         if (relatedQuestions.length === 0) return;
 
         // Set exam questions to related questions only
