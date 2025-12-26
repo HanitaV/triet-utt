@@ -341,7 +341,7 @@
         },
         {
             "question": 15,
-            "text": "Tìm câu trả lời đúng nhất, mặt tích cực nhất của quan niệm về vật chất thời Cô đại?",
+            "text": "Tìm câu trả lời đúng nhất, mặt tích cực nhất của quan niệm về vật chất thời Cổ đại?",
             "options": [
                 {
                     "letter": "A",
@@ -353,31 +353,39 @@
                 },
                 {
                     "letter": "C",
-                    "text": "Kim hãm sự phát triển tư tưởng khoa học về thế giới"
+                    "text": "Kìm hãm sự phát triển tư tưởng khoa học về thế giới"
                 },
                 {
                     "letter": "D",
                     "text": "Chống quan niệm duy tâm tôn giáo và thúc đẩy sự phát triển tư tưởng khoa học về thế giới"
-                },
-                {
-                    "letter": "A",
-                    "text": "Chú nghĩa duy tâm chủ quan"
-                },
-                {
-                    "letter": "B",
-                    "text": "Chú nghĩa duy tâm khách quan"
-                },
-                {
-                    "letter": "C",
-                    "text": "Chú nghĩa duy vật siêu hình"
-                },
-                {
-                    "letter": "D",
-                    "text": "Chú nghĩa duy vật biện chứng"
                 }
             ],
             "correct_answer": "D",
-            "explanation": "Quan niệm về vật chất thời cổ đại có giá trị to lớn ở việc đặt nền móng cho thế giới quan duy vật, phản bác các lý giải duy tâm, tôn giáo vốn chi phối nhận thức về thế giới. Điều này tạo điều kiện cho sự phát triển của tư duy khoa học, hướng con người tìm kiếm nguyên nhân và quy luật của tự nhiên trong chính bản thân tự nhiên, thay vì gán cho các lực lượng siêu nhiên.\n\nViệc đồng nhất vật chất với một hoặc một vài dạng vật thể cụ thể thể hiện tính trực quan, cảm tính và hạn chế về mặt lịch sử, không phải là mặt tích cực lớn nhất.\nQuan niệm duy vật thời cổ đại đối lập với, chứ không tạo nền tảng cho sự phát triển của chủ nghĩa duy tâm.\nSự đồng nhất vật chất với vật thể cụ thể đã kìm hãm sự phát triển của tư tưởng khoa học, chứ không phải chủ nghĩa duy vật nói chung.\nChủ nghĩa duy tâm chủ quan và chủ nghĩa duy tâm khách quan là hai hình thức đối lập trực tiếp với chủ nghĩa duy vật, không phải đặc điểm của quan niệm vật chất thời cổ đại.\nChủ nghĩa duy vật siêu hình là một giai đoạn phát triển sau của chủ nghĩa duy vật, khác biệt với cả chủ nghĩa duy vật biện chứng lẫn chủ nghĩa duy vật chất phác thời cổ đại."
+            "explanation": "Quan niệm về vật chất thời cổ đại có giá trị to lớn ở việc đặt nền móng cho thế giới quan duy vật, phản bác các lý giải duy tâm, tôn giáo vốn chi phối nhận thức về thế giới. Điều này tạo điều kiện cho sự phát triển của tư duy khoa học, hướng con người tìm kiếm nguyên nhân và quy luật của tự nhiên trong chính bản thân tự nhiên, thay vì gán cho các lực lượng siêu nhiên."
+        },
+        {
+            "question": 16,
+            "text": "Trường phái triết học nào mang nặng tính trực quan, chất phác?",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "Chủ nghĩa duy tâm chủ quan"
+                },
+                {
+                    "letter": "B",
+                    "text": "Chủ nghĩa duy tâm khách quan"
+                },
+                {
+                    "letter": "C",
+                    "text": "Chủ nghĩa duy vật siêu hình"
+                },
+                {
+                    "letter": "D",
+                    "text": "Chủ nghĩa duy vật biện chứng"
+                }
+            ],
+            "correct_answer": "A",
+            "explanation": "Chủ nghĩa duy vật thời kỳ cổ đại thể hiện đặc điểm trực quan, chất phác do chịu sự chi phối bởi trình độ nhận thức và kinh nghiệm thực tiễn còn hạn chế. Các nhà triết học thường quy vật chất về những dạng tồn tại vật chất cụ thể, hữu hình và dễ dàng tri giác được như nước, lửa, không khí hoặc các yếu tố nguyên thủy khác."
         },
         {
             "question": 17,

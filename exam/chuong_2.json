@@ -2230,7 +2230,15 @@
                 {
                     "letter": "D",
                     "text": "Cái riêng rộng hơn cái chung"
-                },
+                }
+            ],
+            "correct_answer": "B",
+            "explanation": "Luận điểm \"Cái chung không phụ thuộc vào cái riêng và sinh ra cái riêng\" là sai theo quan điểm duy vật biện chứng, vì cái chung tồn tại trong cái riêng, thông qua cái riêng, không thể tách rời hay sinh ra cái riêng một cách độc lập."
+        },
+        {
+            "question": 94,
+            "text": "Chọn luận điểm đúng theo quan điểm triết học Mác-Lênin về mối quan hệ giữa cái chung và cái riêng?",
+            "options": [
                 {
                     "letter": "A",
                     "text": "Cái chung tồn tại trong những cái riêng; thông qua những cái riêng mà cái chung biểu hiện sự tồn tại"
@@ -2248,8 +2256,8 @@
                     "text": "Cái đơn nhất và cái chung có thể chuyển hóa qua lại lẫn nhau"
                 }
             ],
-            "correct_answer": "B",
-            "explanation": "Luận điểm \"Cái riêng là cái toàn bộ còn cái chung là cái bộ phận\" phản ánh một sự hiểu lầm về mối quan hệ biện chứng giữa cái riêng, cái chung và cái đơn nhất. Trong phép biện chứng duy vật, cái riêng là phạm trù chỉ một sự vật, hiện tượng, một quá trình nhất định. Nó là một chỉnh thể, mang trong mình sự phong phú, đa dạng của các thuộc tính, các mối liên hệ. Cái chung là những thuộc tính, những mối liên hệ lặp lại ở nhiều cái riêng. Vì vậy, cái chung không thể là cái bộ phận của cái riêng. Nó chỉ là một mặt, một yếu tố trong sự đa dạng của cái riêng.\n\nCác luận điểm sai khác thể hiện những nhận thức phiến diện hoặc không đầy đủ về mối quan hệ này. Quan điểm cho rằng cái riêng chỉ là một sự vật, hiện tượng nhất định bỏ qua tính đa dạng và phức tạp bên trong nó. Khẳng định cái riêng rộng hơn cái chung cũng là một sai lầm, vì cái chung biểu thị những thuộc tính phổ biến, xuất hiện ở nhiều cái riêng, không bị giới hạn trong phạm vi của một cái riêng cụ thể. Việc cho rằng cái riêng tồn tại độc lập với cái chung đi ngược lại nguyên tắc về mối liên hệ phổ biến của các sự vật, hiện tượng. Cuối cùng, việc lẫn lộn giữa cái đơn nhất và cái chung, hoặc khẳng định chúng có thể chuyển hóa qua lại lẫn nhau, thể hiện sự nhầm lẫn về mặt khái niệm và bỏ qua vai trò và vị trí khác biệt của chúng trong quá trình nhận thức và thực tiễn."
+            "correct_answer": "A",
+            "explanation": "Luận điểm \"Cái chung tồn tại trong những cái riêng; thông qua những cái riêng mà cái chung biểu hiện sự tồn tại\" phản ánh đúng mối quan hệ biện chứng giữa cái chung và cái riêng. Cái chung không tồn tại trừu tượng bên ngoài cái riêng mà luôn biểu hiện thông qua cái riêng."
         },
         {
             "question": 95,
