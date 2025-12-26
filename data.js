@@ -1129,7 +1129,7 @@ window.QUIZ_DATA = {
   "exam/chuong_2.json": {
     "chapter": "Chương 2",
     "title": "Triết học Mác-Lênin",
-    "total_questions": 148,
+    "total_questions": 149,
     "questions": [
       {
         "question": 1,
@@ -1318,7 +1318,15 @@ window.QUIZ_DATA = {
           {
             "letter": "D",
             "text": "Tất cả các phương án"
-          },
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Những phát minh khoa học cuối thế kỷ XIX đầu thế kỷ XX, đặc biệt trong vật lý học, đã bộc lộ những hạn chế của quan niệm vật chất trong cơ học cổ điển, vốn xem vật chất là đồng nhất với khối lượng và bất biến. Việc phát hiện ra các hạt cơ bản như điện tử, tia phóng xạ đã làm thay đổi triệt để hiểu biết về cấu trúc và thuộc tính của vật chất, chứng minh rằng vật chất không phải là một thực thể giản đơn, mà có cấu trúc phức tạp, có thể phân chia, chuyển hóa và luôn vận động. Điều này đòi hỏi một sự điều chỉnh và phát triển triết học duy vật, từ bỏ quan điểm siêu hình, máy móc để có thể giải thích và bao quát những biến đổi sâu sắc trong nhận thức khoa học về thế giới vật chất.\n\nCác khẳng định còn lại không chính xác vì:\n\n*   **Vật chất và vận động không hề bị tiêu tan.** Các định luật bảo toàn năng lượng và vật chất chứng minh rằng chúng chỉ chuyển hóa từ dạng này sang dạng khác, không mất đi.\n*   **\"Biện chứng của tự nhiên\" và \"Bút ký triết học\" là các tác phẩm cụ thể.** Dù chứa đựng những luận điểm triết học sâu sắc, chúng là các công trình riêng lẻ của Engels và Lenin, không thể khái quát cho toàn bộ tác động của các phát minh vật lý đối với triết học duy vật.\n*   **\"Nhà nước và cách mạng\" thuộc phạm trù chính trị.** Tác phẩm này tập trung phân tích về nhà nước và cách mạng vô sản, không liên quan trực tiếp đến vấn đề nhận thức luận về vật chất và vận động.\n*   **\"Tất cả các phương án\"** chỉ đúng khi các phương án đều đúng, trong trường hợp này có nhiều phương án sai."
+      },
+      {
+        "question": 9,
+        "text": "định nghĩa về vật chất của Lê nin được nêu trong tác phẩm nào?",
+        "options": [
           {
             "letter": "A",
             "text": "Biện chứng của tự nhiên"
@@ -1337,7 +1345,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Những phát minh khoa học cuối thế kỷ XIX đầu thế kỷ XX, đặc biệt trong vật lý học, đã bộc lộ những hạn chế của quan niệm vật chất trong cơ học cổ điển, vốn xem vật chất là đồng nhất với khối lượng và bất biến. Việc phát hiện ra các hạt cơ bản như điện tử, tia phóng xạ đã làm thay đổi triệt để hiểu biết về cấu trúc và thuộc tính của vật chất, chứng minh rằng vật chất không phải là một thực thể giản đơn, mà có cấu trúc phức tạp, có thể phân chia, chuyển hóa và luôn vận động. Điều này đòi hỏi một sự điều chỉnh và phát triển triết học duy vật, từ bỏ quan điểm siêu hình, máy móc để có thể giải thích và bao quát những biến đổi sâu sắc trong nhận thức khoa học về thế giới vật chất.\n\nCác khẳng định còn lại không chính xác vì:\n\n*   **Vật chất và vận động không hề bị tiêu tan.** Các định luật bảo toàn năng lượng và vật chất chứng minh rằng chúng chỉ chuyển hóa từ dạng này sang dạng khác, không mất đi.\n*   **\"Biện chứng của tự nhiên\" và \"Bút ký triết học\" là các tác phẩm cụ thể.** Dù chứa đựng những luận điểm triết học sâu sắc, chúng là các công trình riêng lẻ của Engels và Lenin, không thể khái quát cho toàn bộ tác động của các phát minh vật lý đối với triết học duy vật.\n*   **\"Nhà nước và cách mạng\" thuộc phạm trù chính trị.** Tác phẩm này tập trung phân tích về nhà nước và cách mạng vô sản, không liên quan trực tiếp đến vấn đề nhận thức luận về vật chất và vận động.\n*   **\"Tất cả các phương án\"** chỉ đúng khi các phương án đều đúng, trong trường hợp này có nhiều phương án sai."
+        "explanation": "Định nghĩa kinh điển về vật chất của V.I.Lênin được trình bày trong tác phẩm 'Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán' (1909). Trong tác phẩm này, Lênin đã bảo vệ và phát triển triết học Mác trong bối cảnh những phát minh mới của vật lý học gây ra cuộc khủng hoảng về thế giới quan, đồng thời phê phán những trào lưu duy tâm, siêu hình."
       },
       {
         "question": 10,
