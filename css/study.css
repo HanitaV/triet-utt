@@ -204,6 +204,10 @@
     opacity: 0.5;
 }
 
+.mobile-msg {
+    display: none;
+}
+
 /* Topic Detail View */
 .topic-detail {
     max-width: 900px;
@@ -593,7 +597,19 @@
     }
 
     .placeholder-icon {
-        font-size: 3rem;
+        display: none;
+    }
+
+    .desktop-msg {
+        display: none;
+    }
+
+    .mobile-msg {
+        display: block;
+        font-weight: 600;
+        color: var(--accent);
+        font-size: 1.1rem;
+        padding: 0 20px;
     }
 }
 
