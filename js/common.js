@@ -189,4 +189,67 @@ document.addEventListener('DOMContentLoaded', () => {
     // Theme toggle
     const themeToggle = document.getElementById('theme-toggle');
     themeToggle?.addEventListener('click', toggleTheme);
+
+    initSupportFeature();
 });
+
+/* Support Feature */
+function initSupportFeature() {
+    const nav = document.querySelector('.main-nav');
+    if (nav) {
+        // Create Support Link
+        const supportLink = document.createElement('a');
+        supportLink.className = 'nav-tab';
+        supportLink.href = '#';
+        supportLink.innerHTML = `
+            <span class="tab-icon">☕</span>
+            <span class="tab-text">Ủng hộ</span>
+        `;
+
+        supportLink.addEventListener('click', (e) => {
+            e.preventDefault();
+
+            // Ask for confirmation (Strict requirement)
+            if (confirm('Bạn có muốn ủng hộ team phát triển không? ❤️')) {
+                showSupportModal();
+            }
+        });
+
+        nav.appendChild(supportLink);
+    }
+}
+
+function showSupportModal() {
+    let modal = document.getElementById('support-modal');
+    if (!modal) {
+        modal = document.createElement('div');
+        modal.id = 'support-modal';
+        modal.className = 'modal';
+        modal.innerHTML = `
+            <div class="modal-overlay"></div>
+            <div class="modal-content">
+                <div class="result-emoji">💖</div>
+                <h2>Cảm ơn tấm lòng của bạn!</h2>
+                <p class="support-message">Sự ủng hộ của bạn là động lực to lớn giúp bọn mình duy trì server và phát triển thêm nhiều tính năng hay ho.</p>
+                <div class="qr-container">
+                    <img src="assets/photos/qr.png" alt="QR Code" class="qr-image" onerror="this.src='https://via.placeholder.com/200?text=QR+Code'">
+                    <p class="text-secondary text-sm" style="margin-top:8px">Quét mã QR để ủng hộ</p>
+                </div>
+                <div class="result-actions">
+                    <button class="action-btn primary" onclick="document.getElementById('support-modal').classList.remove('active')">Đóng</button>
+                </div>
+            </div>
+        `;
+        document.body.appendChild(modal);
+
+        // Close overlay
+        modal.querySelector('.modal-overlay').addEventListener('click', () => {
+            modal.classList.remove('active');
+        });
+    }
+
+    // Small delay to allow DOM insertion before adding active class (for animation)
+    requestAnimationFrame(() => {
+        setTimeout(() => modal.classList.add('active'), 10);
+    });
+}
