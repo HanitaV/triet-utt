@@ -47,43 +47,65 @@
         </div>
     </header>
 
-    <main class="main-content">
-        <div class="container">
+    <main class="exam-main">
+        <!-- Header Card -->
+        <div class="exam-header-card">
             <div class="exam-header">
                 <div class="exam-info">
                     <h2 id="exam-title">📝 Thi Trắc Nghiệm</h2>
                     <div class="exam-controls">
                         <select id="exam-chapter-select">
-                            <option value="all">Tất cả chương</option>
-                            <option value="exam/chuong_1.json">Chương 1</option>
-                            <option value="exam/chuong_2.json">Chương 2</option>
-                            <option value="exam/chuong_3.json">Chương 3</option>
+                            <option value="all">📚 Tất cả chương</option>
+                            <option value="exam/chuong_1.json">📘 Chương 1</option>
+                            <option value="exam/chuong_2.json">📗 Chương 2</option>
+                            <option value="exam/chuong_3.json">📙 Chương 3</option>
                         </select>
                         <label class="toggle-inline">
                             <input type="checkbox" id="shuffle-answers-toggle" checked>
-                            <span>Trộn đáp án</span>
+                            <span>🔀 Trộn đáp án</span>
                         </label>
                     </div>
                 </div>
-                <div class="exam-score">
-                    <span class="score-label">Điểm:</span>
-                    <span class="score-value" id="exam-score">0</span>
+                <div class="exam-score-box">
+                    <div class="score-stat correct">
+                        <span class="stat-value" id="exam-correct">0</span>
+                        <span class="stat-label">Đúng</span>
+                    </div>
+                    <div class="score-divider"></div>
+                    <div class="score-stat incorrect">
+                        <span class="stat-value" id="exam-incorrect">0</span>
+                        <span class="stat-label">Sai</span>
+                    </div>
+                    <div class="score-divider"></div>
+                    <div class="score-stat">
+                        <span class="stat-value" id="exam-score">0</span>
+                        <span class="stat-label">Điểm</span>
+                    </div>
                 </div>
             </div>
+        </div>
 
-            <div class="exam-progress">
-                <div class="progress-bar">
-                    <div class="progress-fill" id="exam-progress"></div>
-                </div>
-                <div class="progress-info">
-                    <span>Câu <span id="exam-current">1</span>/<span id="exam-total">0</span></span>
-                    <span class="exam-stats">
-                        ✓ <span id="exam-correct" class="correct">0</span>
-                        ✗ <span id="exam-incorrect" class="incorrect">0</span>
-                    </span>
+        <!-- Progress Section -->
+        <div class="exam-progress-section">
+            <div class="exam-progress-inner">
+                <div class="exam-progress">
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="exam-progress"></div>
+                    </div>
+                    <div class="progress-info">
+                        <span class="current-question">Câu <span id="exam-current">1</span>/<span
+                                id="exam-total">0</span></span>
+                        <div class="exam-stats">
+                            <span>✓ <span id="exam-correct-stat" class="correct">0</span></span>
+                            <span>✗ <span id="exam-incorrect-stat" class="incorrect">0</span></span>
+                        </div>
+                    </div>
                 </div>
             </div>
+        </div>
 
+        <!-- Main Content -->
+        <div class="exam-content">
             <div class="question-container" id="exam-question-container">
                 <div class="question-header">
                     <span class="question-number" id="exam-question-number">Câu 1</span>
