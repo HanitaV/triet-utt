@@ -1,525 +1,726 @@
 [
     {
-        "sectionTitle": "Phần 1: Khái luận về Triết học",
-        "chapter": 1,
-        "topics": [
+        "id": 1,
+        "title": "Thế giới quan và Vấn đề cơ bản của Triết học",
+        "icon": "🌍",
+        "content": "<b>Triết học:</b> Hệ thống tri thức lý luận chung nhất về thế giới, về vị trí và vai trò của con người trong thế giới.<br><br><b>Vấn đề cơ bản của triết học:</b> Mối quan hệ giữa Vật chất và Ý thức (Tư duy và Tồn tại).<br><ul><li><b>Mặt thứ nhất (Bản thể luận):</b> Vật chất và Ý thức, cái nào có trước, cái nào quyết định cái nào? → Phân chia: Chủ nghĩa duy vật vs Chủ nghĩa duy tâm</li><li><b>Mặt thứ hai (Nhận thức luận):</b> Con người có khả năng nhận thức được thế giới không? → Phân chia: Khả tri luận vs Bất khả tri luận</li></ul>",
+        "goals": [
+            "Phân biệt được Chủ nghĩa duy vật và Chủ nghĩa duy tâm",
+            "Hiểu rõ Khả tri luận và Bất khả tri luận",
+            "Nắm được \"kim chỉ nam\" để hiểu toàn bộ các chương sau"
+        ],
+        "tips": [
+            "🧠 <b>VĐCB:</b> Tư duy - Tồn tại (Ý thức - Vật chất)",
+            "📌 <b>2 Mặt:</b> Cái nào trước? | Nhận thức được không?",
+            "💡 <b>Duy vật:</b> VC có trước | <b>Duy tâm:</b> YT có trước"
+        ],
+        "keywords": [
+            "vấn đề cơ bản",
+            "thế giới quan",
+            "duy vật",
+            "duy tâm",
+            "khả tri",
+            "bất khả tri",
+            "bản thể luận",
+            "nhận thức luận"
+        ],
+        "chapters": [
+            1
+        ],
+        "videos": [
             {
-                "title": "Triết học & Vấn đề cơ bản",
+                "title": "Khái quát về Triết Học Mác-Lê Nin Và Phép Biện Chứng Duy Vật",
                 "videoId": "pI4Ofd4nWkU",
-                "theory": "<b>Triết học:</b> Hệ thống tri thức lý luận chung nhất về thế giới.<br><b>Vấn đề cơ bản:</b> Mối quan hệ giữa Tư duy và Tồn tại (Vật chất & Ý thức).<br><ul><li>Mặt 1 (Bản thể luận): Cái nào có trước? (Duy vật vs Duy tâm)</li><li>Mặt 2 (Nhận thức luận): Con người có nhận thức được thế giới không? (Khả tri vs Bất khả tri)</li></ul>",
-                "tips": [
-                    "🧠 <b>VĐCB:</b> Tư duy - Tồn tại.",
-                    "📌 <b>2 Mặt:</b> Cái nào trước? - Nhận thức được không?"
-                ],
-                "keywords": [
-                    "vấn đề cơ bản",
-                    "tư duy",
-                    "tồn tại",
-                    "bản thể luận",
-                    "nhận thức luận"
-                ],
-                "startTime": 0,
-                "endTime": 120,
-                "ai_reason": "Video giới thiệu vấn đề cơ bản của triết học, mối quan hệ giữa vật chất và ý thức, và hai mặt của vấn đề này (cái nào có trước, cái nào quyết định cái nào).",
-                "questionIds": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7,
-                    8,
-                    9,
-                    10,
-                    11,
-                    12,
-                    13,
-                    14,
-                    15,
-                    17,
-                    18,
-                    19,
-                    20,
-                    21,
-                    26,
-                    27,
-                    28
-                ]
-            },
-            {
-                "title": "Triết học Mác - Lênin",
-                "videoId": "pI4Ofd4nWkU",
-                "theory": "Ra đời những năm 40 thế kỷ XIX. Kế thừa tinh hoa của: Triết học cổ điển Đức, Kinh tế chính trị Anh, CNXH không tưởng Pháp.<br><b>Thực chất:</b> Cuộc cách mạng trong triết học (Thống nhất DVBC & DVLS).",
-                "tips": [
-                    "📌 <b>Tiền đề:</b> Đức (Triết) - Anh (Kinh tế) - Pháp (CNXH)."
-                ],
-                "keywords": [
-                    "triết học mác",
-                    "nguồn gốc",
-                    "tiền đề",
-                    "đức",
-                    "anh",
-                    "pháp"
-                ],
-                "startTime": 321,
-                "endTime": 355,
-                "ai_reason": "Đề cập đến chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử, là hình thức cao nhất của chủ nghĩa duy vật, có liên hệ với sự phát triển của lao động sản xuất và nhận thức khoa học.",
-                "questionIds": [
-                    22,
-                    23,
-                    24,
-                    25,
-                    29,
-                    30,
-                    31,
-                    32,
-                    33,
-                    34,
-                    35,
-                    36,
-                    37,
-                    38,
-                    39,
-                    40,
-                    41,
-                    42,
-                    43,
-                    44,
-                    45,
-                    46,
-                    47
-                ]
+                "description": "Giải thích hệ thống tri thức lý luận chung nhất, vấn đề cơ bản của triết học và phân biệt các thế giới quan"
             }
-        ]
+        ],
+        "questionIds": {
+            "1": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47
+            ]
+        },
+        "notebookUrl": "https://notebooklm.google.com/notebook/bf52130f-9ff0-43f7-9cad-fd1b5c7fea8e"
     },
     {
-        "sectionTitle": "Phần 2: Chủ nghĩa Duy vật Biện chứng",
-        "chapter": 2,
-        "topics": [
+        "id": 2,
+        "title": "Vật chất và Ý thức - Mối quan hệ biện chứng",
+        "icon": "⚛️",
+        "content": "<b>Vật chất (Định nghĩa của Lênin):</b> \"Vật chất là một phạm trù triết học dùng để chỉ thực tại khách quan, được đem lại cho con người trong cảm giác, được cảm giác của chúng ta chép lại, chụp lại, phản ánh, và tồn tại không lệ thuộc vào cảm giác.\"<br><br><b>Ý thức:</b> Hình ảnh chủ quan của thế giới khách quan. Nguồn gốc từ:<ul><li>Tự nhiên: Bộ óc người + Thế giới khách quan</li><li>Xã hội: Lao động + Ngôn ngữ</li></ul><br><b>Mối quan hệ biện chứng:</b><ul><li>Vật chất quyết định Ý thức (nội dung, hình thức)</li><li>Ý thức có tính độc lập tương đối và tác động trở lại Vật chất thông qua thực tiễn</li></ul>",
+        "goals": [
+            "Nắm vững định nghĩa vật chất của Lênin",
+            "Hiểu nguồn gốc tự nhiên và xã hội của ý thức",
+            "Nhấn mạnh nguyên tắc vật chất quyết định ý thức"
+        ],
+        "tips": [
+            "🧠 <b>Vật chất:</b> Thực tại khách quan",
+            "🧠 <b>Ý thức:</b> Hình ảnh chủ quan của TG khách quan",
+            "📌 <b>Công thức:</b> VC → YT (quyết định) | YT → VC (tác động ngược)"
+        ],
+        "keywords": [
+            "vật chất",
+            "ý thức",
+            "thực tại khách quan",
+            "nguồn gốc",
+            "lao động",
+            "ngôn ngữ",
+            "phản ánh",
+            "quyết định"
+        ],
+        "chapters": [
+            1,
+            2
+        ],
+        "videos": [
             {
-                "title": "I. Vật chất & Ý thức",
+                "title": "Vật Chất Và Ý Thức - Triết Học Mác-Lê Nin | Bảo Đảm Dễ Hiểu",
                 "videoId": "nlmtgzotDBc",
-                "theory": "<b>Vật chất (Lênin):</b> Thực tại khách quan, được cảm giác chép lại, chụp lại.<br><b>Ý thức:</b> Hình ảnh chủ quan của thế giới khách quan.<br><b>Mối quan hệ:</b> VC quyết định YT; YT tác động ngược lại VC thông qua thực tiễn.",
-                "tips": [
-                    "🧠 <b>Vật chất:</b> Thực tại khách quan.",
-                    "🧠 <b>Ý thức:</b> Hình ảnh chủ quan."
-                ],
-                "keywords": [
-                    "vật chất",
-                    "ý thức",
-                    "thực tại khách quan",
-                    "phản ánh",
-                    "quyết định",
-                    "tác động"
-                ],
-                "questionIds": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7,
-                    8,
-                    10,
-                    11,
-                    12,
-                    13,
-                    14,
-                    15,
-                    16,
-                    17,
-                    18,
-                    19,
-                    20,
-                    21,
-                    22,
-                    23,
-                    24,
-                    25,
-                    26,
-                    27,
-                    28,
-                    29,
-                    30,
-                    31,
-                    32,
-                    33,
-                    34,
-                    35,
-                    36,
-                    37,
-                    38,
-                    39,
-                    40,
-                    41,
-                    42,
-                    43,
-                    44,
-                    45,
-                    46,
-                    47,
-                    48,
-                    49,
-                    50,
-                    51,
-                    52,
-                    53,
-                    54,
-                    55,
-                    56,
-                    57,
-                    58,
-                    59,
-                    60,
-                    61,
-                    63,
-                    65,
-                    66,
-                    67,
-                    104,
-                    105,
-                    106,
-                    110,
-                    118
-                ]
-            },
-            {
-                "title": "II. Hai nguyên lý của PBC",
-                "videoId": "JmBGkW6vhZs",
-                "theory": "<b>1. Nguyên lý về mối liên hệ phổ biến:</b> Mọi sự vật đều liên hệ, quy định lẫn nhau.<br><b>2. Nguyên lý về sự phát triển:</b> Khuynh hướng đi lên, từ thấp đến cao, kế thừa cái cũ.",
-                "tips": [
-                    "🧠 <b>Liên hệ:</b> Không tách rời.",
-                    "🧠 <b>Phát triển:</b> Đường xoắn ốc."
-                ],
-                "keywords": [
-                    "nguyên lý",
-                    "liên hệ phổ biến",
-                    "phát triển"
-                ],
-                "startTime": 5,
-                "endTime": 164,
-                "ai_reason": "Video giới thiệu hai nguyên lý cơ bản của chủ nghĩa duy vật biện chứng Mác-Lênin, bao gồm nguyên lý về mối liên hệ phổ biến và nguyên lý về sự phát triển. Phần lớn video tập trung giải thích về nguyên lý liên hệ phổ biến.",
-                "questionIds": [
-                    62,
-                    68,
-                    69,
-                    70,
-                    71,
-                    72,
-                    73,
-                    74,
-                    78,
-                    79,
-                    80,
-                    81,
-                    82,
-                    83,
-                    84,
-                    85,
-                    86,
-                    107,
-                    111
-                ]
-            },
-            {
-                "title": "III. Các quy luật cơ bản",
-                "videoId": "I7aj5tjiqA4",
-                "theory": "<b>1. Lượng - Chất:</b> Tích lũy về lượng dẫn đến thay đổi về chất.<br><b>2. Mâu thuẫn:</b> Đấu tranh giữa các mặt đối lập là nguồn gốc sự phát triển.<br><b>3. Phủ định của phủ định:</b> Cái mới ra đời thay thế cái cũ, dường như lặp lại cái cũ nhưng ở trình độ cao hơn.",
-                "tips": [
-                    "📌 <b>Lượng-Chất:</b> Cách thức.",
-                    "📌 <b>Mâu thuẫn:</b> Nguồn gốc, động lực.",
-                    "📌 <b>PĐCPD:</b> Khuynh hướng."
-                ],
-                "keywords": [
-                    "quy luật",
-                    "lượng chất",
-                    "mâu thuẫn",
-                    "phủ định"
-                ],
-                "questionIds": [
-                    114,
-                    115,
-                    116,
-                    117,
-                    119,
-                    120,
-                    121,
-                    122,
-                    123,
-                    124,
-                    125,
-                    126,
-                    127,
-                    128,
-                    129,
-                    130,
-                    131,
-                    132,
-                    133,
-                    134,
-                    135,
-                    143,
-                    144
-                ]
-            },
-            {
-                "title": "IV. 6 Cặp phạm trù cơ bản",
-                "videoId": "ig4Sx3ZGLiU",
-                "theory": "<ul><li><b>Cái chung - Cái riêng:</b> CC chỉ tồn tại trong CR.</li><li><b>Nguyên nhân - Kết quả:</b> NN sinh ra KQ.</li><li><b>Tất nhiên - Ngẫu nhiên:</b> TN là cái phải xảy ra.</li><li><b>Nội dung - Hình thức:</b> ND quyết định HT.</li><li><b>Bản chất - Hiện tượng:</b> BC là cái bên trong.</li><li><b>Khả năng - Hiện thực:</b> KN là cái chưa có.</li></ul>",
-                "tips": [
-                    "🧠 <b>R-C; NN-KQ; TN-NN; ND-HT; BC-HT; KN-HT</b>"
-                ],
-                "keywords": [
-                    "cặp phạm trù",
-                    "cái riêng",
-                    "cái chung",
-                    "nguyên nhân",
-                    "kết quả",
-                    "tất nhiên",
-                    "ngẫu nhiên"
-                ],
-                "startTime": 5,
-                "endTime": 11,
-                "ai_reason": "The video introduces the six basic categories in dialectical materialism of Marxist-Leninist philosophy.",
-                "questionIds": [
-                    87,
-                    88,
-                    89,
-                    90,
-                    91,
-                    92,
-                    93,
-                    95,
-                    96,
-                    97,
-                    98,
-                    99,
-                    100,
-                    101,
-                    102,
-                    103,
-                    108,
-                    109,
-                    112,
-                    113,
-                    136,
-                    137,
-                    138,
-                    139,
-                    140,
-                    141,
-                    142
-                ]
-            },
-            {
-                "title": "V. Lý luận nhận thức",
-                "videoId": "I7aj5tjiqA4",
-                "theory": "<b>Con đường nhận thức (Lênin):</b> Từ trực quan sinh động (Cảm tính) → Tư duy trừu tượng (Lý tính) → Thực tiễn.<br><b>Thực tiễn:</b> Là cơ sở, động lực, mục đích và tiêu chuẩn của chân lý.",
-                "tips": [
-                    "📌 <b>2 Giai đoạn:</b> Cảm tính (Cảm giác, Tri giác, Biểu tượng) & Lý tính (Khái niệm, Phán đoán, Suy luận)."
-                ],
-                "keywords": [
-                    "lý luận nhận thức",
-                    "thực tiễn",
-                    "cảm tính",
-                    "lý tính",
-                    "chân lý"
-                ],
-                "questionIds": [
-                    64,
-                    145,
-                    146,
-                    147,
-                    148,
-                    149,
-                    150
-                ]
+                "description": "Phân tích định nghĩa vật chất là thực tại khách quan, bản chất của ý thức và vai trò quyết định của vật chất đối với ý thức"
             }
-        ]
+        ],
+        "questionIds": {
+            "2": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67
+            ]
+        },
+        "notebookUrl": "https://notebooklm.google.com/notebook/bf52130f-9ff0-43f7-9cad-fd1b5c7fea8e"
     },
     {
-        "sectionTitle": "Phần 3: Chủ nghĩa Duy vật Lịch sử",
-        "chapter": 3,
-        "topics": [
+        "id": 3,
+        "title": "Hai Nguyên lý của Phép biện chứng duy vật",
+        "icon": "🔗",
+        "content": "<b>1. Nguyên lý về mối liên hệ phổ biến:</b><ul><li>Mọi sự vật, hiện tượng trong thế giới đều tồn tại trong mối liên hệ, ràng buộc, quy định và tác động lẫn nhau</li><li>Tính chất: Khách quan, Phổ biến, Đa dạng</li><li>Ý nghĩa: Quan điểm toàn diện, lịch sử - cụ thể</li></ul><br><b>2. Nguyên lý về sự phát triển:</b><ul><li>Phát triển là quá trình vận động đi lên, từ thấp đến cao, từ đơn giản đến phức tạp, từ kém hoàn thiện đến hoàn thiện hơn</li><li>Con đường: Hình xoáy ốc (kế thừa cái cũ ở trình độ cao hơn)</li><li>Ý nghĩa: Quan điểm phát triển, chống bảo thủ, trì trệ</li></ul>",
+        "goals": [
+            "Cung cấp cái nhìn đa diện, toàn diện",
+            "Tránh sự phiến diện, siêu hình khi xem xét sự vật",
+            "Nắm vững quan điểm phát triển"
+        ],
+        "tips": [
+            "🧠 <b>Liên hệ:</b> Không có sự vật nào đứng biệt lập",
+            "🧠 <b>Phát triển:</b> Đường xoáy ốc đi lên",
+            "📌 <b>Chống:</b> Quan điểm siêu hình, phiến diện"
+        ],
+        "keywords": [
+            "nguyên lý",
+            "liên hệ phổ biến",
+            "phát triển",
+            "xoáy ốc",
+            "toàn diện",
+            "lịch sử cụ thể"
+        ],
+        "chapters": [
+            2
+        ],
+        "videos": [
             {
-                "title": "Học thuyết Hình thái KT-XH",
-                "videoId": "d1KpG4q1q7M",
-                "theory": "<b>LLSX & QHSX:</b> LLSX quyết định QHSX.<br><b>CSHT & KTTT:</b> CSHT (Kinh tế) quyết định KTTT (Chính trị).<br><b>Sự phát triển:</b> Là quá trình lịch sử - tự nhiên.",
-                "tips": [
-                    "🧠 <b>Kinh tế</b> quyết định <b>Chính trị</b>."
-                ],
-                "keywords": [
-                    "lực lượng sản xuất",
-                    "quan hệ sản xuất",
-                    "cơ sở hạ tầng",
-                    "kiến trúc thượng tầng"
-                ],
-                "startTime": 35,
-                "endTime": 44,
-                "ai_reason": "Đoạn này nói về 'mode of production' bao gồm 'the unity between the productive forces at a certain level and the corresponding relations of production, forming the mode of production in a certain period of history' khá tương đồng với LLSX & QHSX.",
-                "questionIds": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7,
-                    8,
-                    9,
-                    10,
-                    11,
-                    12,
-                    13,
-                    14,
-                    15,
-                    16,
-                    17,
-                    18,
-                    19,
-                    20,
-                    21,
-                    22,
-                    23,
-                    24,
-                    25,
-                    26,
-                    27,
-                    28,
-                    29,
-                    30,
-                    31,
-                    32,
-                    33,
-                    34,
-                    35,
-                    36,
-                    37,
-                    38,
-                    39,
-                    40,
-                    41,
-                    42,
-                    43,
-                    44,
-                    45,
-                    47,
-                    48,
-                    49,
-                    50,
-                    51,
-                    52,
-                    53,
-                    54,
-                    55,
-                    56,
-                    57,
-                    58,
-                    59,
-                    60,
-                    61,
-                    62,
-                    63,
-                    64,
-                    65,
-                    66,
-                    67,
-                    68,
-                    69,
-                    70,
-                    71,
-                    72,
-                    73,
-                    74,
-                    75,
-                    82,
-                    88,
-                    89,
-                    90,
-                    93,
-                    94,
-                    96,
-                    98,
-                    99,
-                    100,
-                    101,
-                    102,
-                    103,
-                    104,
-                    105,
-                    106,
-                    107,
-                    108,
-                    109,
-                    110,
-                    111,
-                    112,
-                    113,
-                    114,
-                    115,
-                    116,
-                    117,
-                    118,
-                    119,
-                    120,
-                    135,
-                    143,
-                    144,
-                    145
-                ]
+                "title": "Nguyên Lý Về Mối Liên Hệ Phổ Biến - Triết Học Mác-Lê Nin",
+                "videoId": "JmBGkW6vhZs",
+                "description": "Trình bày tính khách quan, phổ biến của các mối liên hệ"
             },
             {
-                "title": "Giai cấp & Nhà nước",
-                "videoId": "d1KpG4q1q7M",
-                "theory": "<b>Giai cấp:</b> Ra đời do chế độ tư hữu. Đấu tranh giai cấp là động lực phát triển xã hội có giai cấp.<br><b>Nhà nước:</b> Công cụ chuyên chính của giai cấp thống trị.",
-                "tips": [
-                    "📌 <b>Nguồn gốc:</b> Kinh tế (Tư hữu) + Xã hội (Phân công lao động)."
-                ],
-                "keywords": [
-                    "giai cấp",
-                    "nhà nước",
-                    "nguồn gốc",
-                    "bản chất"
-                ],
-                "startTime": 238,
-                "endTime": 266,
-                "ai_reason": "Đoạn này giải thích về quan hệ sản xuất, bao gồm quyền sở hữu tư liệu sản xuất, yếu tố quan trọng để xác định địa vị kinh tế xã hội, liên quan đến giai cấp.",
-                "questionIds": [
-                    46,
-                    76,
-                    77,
-                    78,
-                    79,
-                    80,
-                    81,
-                    83,
-                    84,
-                    85,
-                    86,
-                    87,
-                    91,
-                    92,
-                    95,
-                    97,
-                    121,
-                    122,
-                    123,
-                    124,
-                    125,
-                    126,
-                    127,
-                    128,
-                    129,
-                    130,
-                    131,
-                    132,
-                    133,
-                    134,
-                    142
-                ]
+                "title": "Nguyên Lý Về Sự Phát Triển - Triết Học Mác-Lê Nin",
+                "videoId": "G0AfJ0GSWC4",
+                "description": "Khuynh hướng vận động đi lên theo hình xoắn ốc"
             }
-        ]
+        ],
+        "questionIds": {
+            "2": [
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86
+            ]
+        },
+        "notebookUrl": "https://notebooklm.google.com/notebook/bf52130f-9ff0-43f7-9cad-fd1b5c7fea8e"
+    },
+    {
+        "id": 4,
+        "title": "Ba Quy luật cơ bản của Phép biện chứng",
+        "icon": "⚖️",
+        "content": "<b>1. Quy luật Lượng - Chất (Cách thức phát triển):</b><ul><li>Tích lũy về lượng đến điểm nút → Nhảy vọt về chất</li><li>Ý nghĩa: Tránh nóng vội, đốt cháy giai đoạn</li></ul><br><b>2. Quy luật Thống nhất và đấu tranh giữa các mặt đối lập (Nguồn gốc, động lực):</b><ul><li>Mâu thuẫn là nguồn gốc, động lực bên trong của sự phát triển</li><li>Đấu tranh giữa các mặt đối lập → Chuyển hóa, phát triển</li></ul><br><b>3. Quy luật Phủ định của phủ định (Khuynh hướng):</b><ul><li>Cái mới ra đời phủ định cái cũ, kế thừa những yếu tố tích cực</li><li>Phủ định lần 2 → Dường như lặp lại cái ban đầu nhưng ở trình độ cao hơn</li></ul>",
+        "goals": [
+            "Hiểu tại sao sự vật phát triển (mâu thuẫn)",
+            "Hiểu cách thức phát triển (tích lũy lượng → đổi chất)",
+            "Hiểu xu hướng phát triển (kế thừa cái cũ ở trình độ cao hơn)"
+        ],
+        "tips": [
+            "📌 <b>Lượng-Chất:</b> Cách thức phát triển",
+            "📌 <b>Mâu thuẫn:</b> Nguồn gốc, động lực",
+            "📌 <b>PĐCPĐ:</b> Khuynh hướng (xoáy ốc)"
+        ],
+        "keywords": [
+            "quy luật",
+            "lượng chất",
+            "mâu thuẫn",
+            "phủ định",
+            "đối lập",
+            "nhảy vọt",
+            "điểm nút"
+        ],
+        "chapters": [
+            2
+        ],
+        "videos": [
+            {
+                "title": "Quy Luật Lượng Chất - Triết Học Mác-Lê Nin | Có Ví Dụ Dễ Hiểu",
+                "videoId": "I7aj5tjiqA4",
+                "description": "Giải thích cách thức phát triển: tích lũy lượng dẫn đến thay đổi về chất"
+            },
+            {
+                "title": "Quy Luật Thống Nhất Và Đấu Tranh Giữa Các Mặt Đối Lập",
+                "videoId": "QvK9VdC8_Uw",
+                "description": "Nguồn gốc, động lực của sự phát triển là mâu thuẫn"
+            },
+            {
+                "title": "Quy Luật Phủ Định Của Phủ Định - Triết Học Mác-Lê Nin",
+                "videoId": "3e59Lq7PxDk",
+                "description": "Khuynh hướng phát triển: kế thừa cái cũ ở trình độ cao hơn"
+            }
+        ],
+        "questionIds": {
+            "2": [
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144
+            ]
+        },
+        "notebookUrl": "https://notebooklm.google.com/notebook/bf52130f-9ff0-43f7-9cad-fd1b5c7fea8e"
+    },
+    {
+        "id": 5,
+        "title": "Các cặp phạm trù - Công cụ tư duy lý luận",
+        "icon": "🔄",
+        "content": "<b>6 cặp phạm trù cơ bản:</b><ol><li><b>Cái riêng - Cái chung:</b> Cái chung chỉ tồn tại trong cái riêng, thông qua cái riêng</li><li><b>Nguyên nhân - Kết quả:</b> Nguyên nhân sinh ra kết quả; có thể chuyển hóa qua lại</li><li><b>Tất nhiên - Ngẫu nhiên:</b> Tất nhiên là cái phải xảy ra; ngẫu nhiên là hình thức biểu hiện của tất nhiên</li><li><b>Nội dung - Hình thức:</b> Nội dung quyết định hình thức; hình thức tác động trở lại nội dung</li><li><b>Bản chất - Hiện tượng:</b> Bản chất là cái bên trong; hiện tượng là biểu hiện bên ngoài</li><li><b>Khả năng - Hiện thực:</b> Khả năng là cái chưa có; hiện thực là cái đã có</li></ol>",
+        "goals": [
+            "Nắm bắt các mối liên hệ phổ biến nhất",
+            "Áp dụng vào thực tế nhận thức và hoạt động thực tiễn"
+        ],
+        "tips": [
+            "🧠 <b>6 cặp:</b> R-C | NN-KQ | TN-NN | ND-HT | BC-HT | KN-HT",
+            "📌 Mỗi cặp có mối quan hệ biện chứng, tác động qua lại"
+        ],
+        "keywords": [
+            "phạm trù",
+            "cái riêng",
+            "cái chung",
+            "nguyên nhân",
+            "kết quả",
+            "tất nhiên",
+            "ngẫu nhiên",
+            "nội dung",
+            "hình thức",
+            "bản chất",
+            "hiện tượng",
+            "khả năng",
+            "hiện thực"
+        ],
+        "chapters": [
+            2
+        ],
+        "videos": [
+            {
+                "title": "Phạm Trù Cái Riêng Và Cái Chung - Triết Học Mác-Lê Nin",
+                "videoId": "ig4Sx3ZGLiU",
+                "description": "Cái chung tồn tại trong cái riêng"
+            },
+            {
+                "title": "Phạm Trù Nguyên Nhân Và Kết Quả - Triết Học Mác-Lê Nin",
+                "videoId": "abc123ngkq",
+                "description": "Mối quan hệ nhân quả và sự chuyển hóa"
+            },
+            {
+                "title": "Phạm Trù Tất Nhiên Và Ngẫu Nhiên - Triết Học Mác-Lê Nin",
+                "videoId": "abc123tnnn",
+                "description": "Tất nhiên và ngẫu nhiên trong sự vận động"
+            },
+            {
+                "title": "Phạm Trù Nội Dung Và Hình Thức - Triết Học Mác-Lê Nin",
+                "videoId": "abc123ndht",
+                "description": "Nội dung quyết định hình thức"
+            },
+            {
+                "title": "Phạm Trù Bản Chất Và Hiện Tượng - Triết Học Mác-Lê Nin",
+                "videoId": "abc123bcht",
+                "description": "Bản chất và hiện tượng trong nhận thức"
+            },
+            {
+                "title": "Phạm Trù Khả Năng Và Hiện Thực - Triết Học Mác-Lê Nin",
+                "videoId": "abc123knht",
+                "description": "Khả năng chuyển hóa thành hiện thực"
+            }
+        ],
+        "questionIds": {
+            "2": [
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113
+            ]
+        },
+        "notebookUrl": "https://notebooklm.google.com/notebook/bf52130f-9ff0-43f7-9cad-fd1b5c7fea8e"
+    },
+    {
+        "id": 6,
+        "title": "Lý luận nhận thức và Vai trò của Thực tiễn",
+        "icon": "🎯",
+        "content": "<b>Con đường biện chứng của sự nhận thức (Lênin):</b><br>\"Từ trực quan sinh động đến tư duy trừu tượng, và từ tư duy trừu tượng đến thực tiễn\"<br><br><b>Hai giai đoạn nhận thức:</b><ul><li><b>Nhận thức cảm tính:</b> Cảm giác → Tri giác → Biểu tượng</li><li><b>Nhận thức lý tính:</b> Khái niệm → Phán đoán → Suy luận</li></ul><br><b>Vai trò của Thực tiễn:</b><ul><li>Là <b>cơ sở</b> của nhận thức</li><li>Là <b>động lực</b> thúc đẩy nhận thức phát triển</li><li>Là <b>mục đích</b> của nhận thức</li><li>Là <b>tiêu chuẩn</b> của chân lý</li></ul>",
+        "goals": [
+            "Hiểu rõ con đường biện chứng của sự nhận thức chân lý",
+            "Khẳng định thực tiễn là tiêu chuẩn của chân lý"
+        ],
+        "tips": [
+            "📌 <b>2 Giai đoạn:</b> Cảm tính → Lý tính",
+            "📌 <b>Thực tiễn:</b> Cơ sở + Động lực + Mục đích + Tiêu chuẩn",
+            "🧠 Thực tiễn là tiêu chuẩn kiểm tra chân lý"
+        ],
+        "keywords": [
+            "nhận thức",
+            "thực tiễn",
+            "chân lý",
+            "cảm tính",
+            "lý tính",
+            "cảm giác",
+            "tri giác",
+            "biểu tượng",
+            "khái niệm",
+            "phán đoán",
+            "suy luận"
+        ],
+        "chapters": [
+            2
+        ],
+        "videos": [
+            {
+                "title": "Thực Tiễn Và Nhận Thức - Triết Học Mác-Lê Nin | Ngắn Gọn Dễ Hiểu",
+                "videoId": "abc123ttnt",
+                "description": "Thực tiễn là cơ sở, động lực, mục đích của nhận thức và tiêu chuẩn của chân lý"
+            }
+        ],
+        "questionIds": {
+            "2": [
+                145,
+                146,
+                147,
+                148,
+                149,
+                150
+            ]
+        },
+        "notebookUrl": "https://notebooklm.google.com/notebook/bf52130f-9ff0-43f7-9cad-fd1b5c7fea8e"
+    },
+    {
+        "id": 7,
+        "title": "Chủ nghĩa Duy vật lịch sử - Quy luật vận động của Xã hội",
+        "icon": "🏛️",
+        "content": "<b>Học thuyết Hình thái kinh tế - xã hội:</b><br><br><b>1. Lực lượng sản xuất (LLSX):</b> Người lao động + Tư liệu sản xuất (công cụ, đối tượng lao động)<br><br><b>2. Quan hệ sản xuất (QHSX):</b> Sở hữu + Tổ chức quản lý + Phân phối<br><br><b>3. Quy luật QHSX phù hợp với trình độ LLSX:</b> LLSX quyết định QHSX; QHSX tác động trở lại LLSX<br><br><b>4. Cơ sở hạ tầng (CSHT) & Kiến trúc thượng tầng (KTTT):</b><ul><li>CSHT = Toàn bộ QHSX (nền móng kinh tế)</li><li>KTTT = Nhà nước, pháp luật, chính trị, văn hóa, tư tưởng...</li><li>CSHT quyết định KTTT; KTTT tác động trở lại CSHT</li></ul><br><i>Gợi ý hình ảnh: Tòa nhà - CSHT là móng, KTTT là phần xây bên trên</i>",
+        "goals": [
+            "Hiểu quy luật Quan hệ sản xuất phù hợp với trình độ Lực lượng sản xuất",
+            "Nắm mối quan hệ giữa kinh tế (CSHT) với chính trị (KTTT)"
+        ],
+        "tips": [
+            "🧠 <b>LLSX:</b> Người + Công cụ → quyết định <b>QHSX</b>",
+            "🧠 <b>CSHT (Kinh tế)</b> quyết định <b>KTTT (Chính trị)</b>",
+            "📌 Hình ảnh: Tòa nhà (CSHT = móng, KTTT = phần trên)"
+        ],
+        "keywords": [
+            "lực lượng sản xuất",
+            "quan hệ sản xuất",
+            "cơ sở hạ tầng",
+            "kiến trúc thượng tầng",
+            "hình thái",
+            "phương thức sản xuất"
+        ],
+        "chapters": [
+            3
+        ],
+        "videos": [
+            {
+                "title": "Sản Xuất Vật Chất Và Vai Trò Của Sản Xuất Vật Chất",
+                "videoId": "d1KpG4q1q7M",
+                "description": "Vai trò của sản xuất vật chất trong sự phát triển xã hội"
+            },
+            {
+                "title": "Phương Thức Sản Xuất Và Vai Trò Của Phương Thức Sản Xuất",
+                "videoId": "abc123ptsx",
+                "description": "Phương thức sản xuất là sự thống nhất giữa LLSX và QHSX"
+            },
+            {
+                "title": "Lực Lượng Sản Xuất Và Quan Hệ Sản Xuất - Triết Học Mác-Lênin",
+                "videoId": "abc123llsx",
+                "description": "Khái niệm và các yếu tố cấu thành"
+            },
+            {
+                "title": "Mối Quan Hệ Giữa Lực Lượng Sản Xuất Và Quan Hệ Sản Xuất",
+                "videoId": "abc123mqh",
+                "description": "Quy luật QHSX phù hợp với trình độ phát triển của LLSX"
+            },
+            {
+                "title": "Cơ Sở Hạ Tầng Và Kiến Trúc Thượng Tầng - Triết Học Mác-Lênin",
+                "videoId": "abc123csht",
+                "description": "Mối quan hệ biện chứng giữa CSHT và KTTT"
+            }
+        ],
+        "questionIds": {
+            "3": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75
+            ]
+        },
+        "notebookUrl": "https://notebooklm.google.com/notebook/bf52130f-9ff0-43f7-9cad-fd1b5c7fea8e"
+    },
+    {
+        "id": 8,
+        "title": "Giai cấp, Dân tộc, Nhà nước và Triết học về Con người",
+        "icon": "👥",
+        "content": "<b>1. Giai cấp:</b><ul><li><b>Nguồn gốc:</b> Kinh tế (chế độ tư hữu) + Xã hội (phân công lao động)</li><li><b>Đấu tranh giai cấp:</b> Là động lực phát triển xã hội có giai cấp</li></ul><br><b>2. Nhà nước:</b><ul><li>Là công cụ chuyên chính của giai cấp thống trị</li><li>Thể hiện ý chí và bảo vệ lợi ích của giai cấp thống trị</li></ul><br><b>3. Dân tộc:</b> Hình thành trong quá trình phát triển lịch sử, gắn với các điều kiện kinh tế, lãnh thổ, ngôn ngữ, văn hóa<br><br><b>4. Con người:</b><ul><li>\"Con người là tổng hòa các quan hệ xã hội\"</li><li>Vừa là sản phẩm, vừa là chủ thể của lịch sử</li><li>Mục tiêu: Giải phóng con người</li></ul>",
+        "goals": [
+            "Hiểu nguồn gốc giai cấp và bản chất nhà nước",
+            "Nắm quan niệm con người là 'tổng hòa các quan hệ xã hội'",
+            "Hiểu mục tiêu giải phóng con người trong triết học Mác-Lênin"
+        ],
+        "tips": [
+            "📌 <b>Nguồn gốc GC:</b> Tư hữu + Phân công lao động",
+            "📌 <b>Nhà nước:</b> Công cụ của giai cấp thống trị",
+            "🧠 <b>Con người:</b> Tổng hòa các quan hệ xã hội"
+        ],
+        "keywords": [
+            "giai cấp",
+            "nhà nước",
+            "dân tộc",
+            "con người",
+            "đấu tranh",
+            "tư hữu",
+            "giải phóng",
+            "quan hệ xã hội"
+        ],
+        "chapters": [
+            3
+        ],
+        "videos": [
+            {
+                "title": "Giai Cấp Và Đấu Tranh Giai Cấp - Triết Học Mác-Lê Nin",
+                "videoId": "abc123gc",
+                "description": "Định nghĩa giai cấp, nguồn gốc kinh tế của giai cấp và vai trò của đấu tranh giai cấp"
+            }
+        ],
+        "questionIds": {
+            "3": [
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139
+            ]
+        },
+        "notebookUrl": "https://notebooklm.google.com/notebook/bf52130f-9ff0-43f7-9cad-fd1b5c7fea8e"
     }
 ]
