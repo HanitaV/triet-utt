@@ -35,6 +35,10 @@
                     <span class="tab-icon">📝</span>
                     <span class="tab-text">Thi thử</span>
                 </button>
+                <button class="nav-tab" data-tab="simulation">
+                    <span class="tab-icon">🎯</span>
+                    <span class="tab-text">Giả lập thi</span>
+                </button>
             </nav>
             <button class="theme-toggle" id="theme-toggle" title="Chuyển đổi giao diện">
                 <span class="theme-icon">🌙</span>
@@ -251,6 +255,197 @@
 
                 <div class="exam-actions">
                     <button class="action-btn" id="exam-restart-btn">🔄 Làm lại</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- SIMULATION TAB -->
+        <section class="tab-content" id="simulation-tab">
+            <div class="container">
+                <!-- Config Screen -->
+                <div class="simulation-config" id="simulation-config">
+                    <div class="simulation-header">
+                        <h2>🎯 Giả Lập Thi Thật</h2>
+                        <p class="subtitle">Cấu hình bài thi theo chuẩn đề thi thật</p>
+                    </div>
+
+                    <div class="config-card">
+                        <div class="config-section">
+                            <h3>📝 Số câu hỏi</h3>
+                            <div class="config-input-group">
+                                <input type="number" id="sim-total-questions" value="80" min="10" max="200">
+                                <span class="config-unit">câu</span>
+                            </div>
+                        </div>
+
+                        <div class="config-section">
+                            <h3>📊 Phân bổ theo chương</h3>
+                            <div class="chapter-distribution">
+                                <div class="dist-row">
+                                    <label>
+                                        <span class="dist-icon">📘</span>
+                                        Chương 1
+                                    </label>
+                                    <div class="dist-input">
+                                        <input type="number" id="sim-ch1-percent" value="20" min="0" max="100">
+                                        <span>%</span>
+                                    </div>
+                                    <span class="dist-count" id="sim-ch1-count">16 câu</span>
+                                </div>
+                                <div class="dist-row">
+                                    <label>
+                                        <span class="dist-icon">📗</span>
+                                        Chương 2
+                                    </label>
+                                    <div class="dist-input">
+                                        <input type="number" id="sim-ch2-percent" value="40" min="0" max="100">
+                                        <span>%</span>
+                                    </div>
+                                    <span class="dist-count" id="sim-ch2-count">32 câu</span>
+                                </div>
+                                <div class="dist-row">
+                                    <label>
+                                        <span class="dist-icon">📙</span>
+                                        Chương 3
+                                    </label>
+                                    <div class="dist-input">
+                                        <input type="number" id="sim-ch3-percent" value="40" min="0" max="100">
+                                        <span>%</span>
+                                    </div>
+                                    <span class="dist-count" id="sim-ch3-count">32 câu</span>
+                                </div>
+                            </div>
+                            <div class="dist-total" id="sim-total-percent">
+                                <span>Tổng: 100%</span>
+                                <span class="dist-warning hidden" id="dist-warning">⚠️ Tổng phải bằng 100%</span>
+                            </div>
+                        </div>
+
+                        <div class="config-section">
+                            <h3>⏱️ Thời gian làm bài</h3>
+                            <div class="config-input-group">
+                                <input type="number" id="sim-time-limit" value="60" min="5" max="180">
+                                <span class="config-unit">phút</span>
+                            </div>
+                        </div>
+
+                        <div class="config-section">
+                            <h3>⚙️ Tùy chọn khác</h3>
+                            <div class="config-options">
+                                <label class="toggle-option">
+                                    <input type="checkbox" id="sim-shuffle-questions" checked>
+                                    <span>Trộn thứ tự câu hỏi</span>
+                                </label>
+                                <label class="toggle-option">
+                                    <input type="checkbox" id="sim-shuffle-answers" checked>
+                                    <span>Trộn đáp án</span>
+                                </label>
+                                <label class="toggle-option">
+                                    <input type="checkbox" id="sim-show-answer-immediately">
+                                    <span>Hiện đáp án ngay sau khi chọn</span>
+                                </label>
+                            </div>
+                        </div>
+
+                        <button class="start-simulation-btn" id="start-simulation-btn">
+                            <span class="btn-icon">🚀</span>
+                            Bắt đầu thi
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Exam Screen -->
+                <div class="simulation-exam hidden" id="simulation-exam">
+                    <div class="sim-exam-header">
+                        <div class="sim-timer" id="sim-timer">
+                            <span class="timer-icon">⏱️</span>
+                            <span class="timer-value" id="sim-timer-value">60:00</span>
+                        </div>
+                        <div class="sim-progress-info">
+                            <span>Câu <span id="sim-current">1</span>/<span id="sim-total">80</span></span>
+                        </div>
+                        <button class="sim-submit-btn" id="sim-submit-btn">
+                            Nộp bài
+                        </button>
+                    </div>
+
+                    <div class="sim-exam-progress">
+                        <div class="progress-bar">
+                            <div class="progress-fill" id="sim-progress"></div>
+                        </div>
+                    </div>
+
+                    <div class="sim-question-nav" id="sim-question-nav">
+                        <!-- Question navigation buttons will be rendered here -->
+                    </div>
+
+                    <div class="sim-question-container" id="sim-question-container">
+                        <div class="question-header">
+                            <span class="question-number" id="sim-question-number">Câu 1</span>
+                        </div>
+                        <div class="question-text" id="sim-question-text">
+                            Đang tải câu hỏi...
+                        </div>
+                        <div class="options" id="sim-options">
+                            <!-- Options rendered here -->
+                        </div>
+
+                        <!-- Explanation (shown if immediate feedback enabled) -->
+                        <div id="sim-explanation" class="hidden"></div>
+                    </div>
+
+                    <div class="sim-nav-buttons">
+                        <button class="sim-nav-btn" id="sim-prev-btn" disabled>
+                            ← Câu trước
+                        </button>
+                        <button class="sim-nav-btn" id="sim-next-btn">
+                            Câu sau →
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Result Screen -->
+                <div class="simulation-result hidden" id="simulation-result">
+                    <div class="result-header">
+                        <div class="result-emoji" id="sim-result-emoji">🎉</div>
+                        <h2>Kết quả bài thi</h2>
+                    </div>
+
+                    <div class="result-score-circle">
+                        <div class="score-circle" id="sim-score-circle">
+                            <span class="score-value" id="sim-result-score">0</span>
+                            <span class="score-label">điểm</span>
+                        </div>
+                    </div>
+
+                    <div class="result-stats">
+                        <div class="stat-item correct">
+                            <span class="stat-value" id="sim-result-correct">0</span>
+                            <span class="stat-label">Đúng</span>
+                        </div>
+                        <div class="stat-item incorrect">
+                            <span class="stat-value" id="sim-result-incorrect">0</span>
+                            <span class="stat-label">Sai</span>
+                        </div>
+                        <div class="stat-item skipped">
+                            <span class="stat-value" id="sim-result-skipped">0</span>
+                            <span class="stat-label">Bỏ qua</span>
+                        </div>
+                    </div>
+
+                    <div class="result-time">
+                        <span class="time-icon">⏱️</span>
+                        <span>Thời gian làm bài: <strong id="sim-result-time">00:00</strong></span>
+                    </div>
+
+                    <div class="result-actions">
+                        <button class="action-btn" id="sim-review-btn">
+                            📝 Xem lại đáp án
+                        </button>
+                        <button class="action-btn primary" id="sim-retry-btn">
+                            🔄 Thi lại
+                        </button>
+                    </div>
                 </div>
             </div>
         </section>

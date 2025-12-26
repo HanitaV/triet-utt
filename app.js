@@ -19,6 +19,24 @@ class QuizApp {
         this.shuffleAnswers = true;
         this.hintUsed = false;
 
+        // Simulation state
+        this.simQuestions = [];
+        this.simIndex = 0;
+        this.simAnswers = {};
+        this.simTimer = null;
+        this.simTimeRemaining = 0;
+        this.simStartTime = null;
+        this.simConfig = {
+            totalQuestions: 80,
+            ch1Percent: 20,
+            ch2Percent: 40,
+            ch3Percent: 40,
+            timeLimit: 60,
+            shuffleQuestions: true,
+            shuffleAnswers: true,
+            showAnswerImmediately: false
+        };
+
         // Stats
         this.studiedToday = parseInt(localStorage.getItem('studiedToday') || '0');
         this.totalCorrect = parseInt(localStorage.getItem('totalCorrect') || '0');
@@ -32,6 +50,7 @@ class QuizApp {
         this.initElements();
         this.initEventListeners();
         this.initExamTab(); // Initialize Exam Elements
+        this.initSimulationTab(); // Initialize Simulation Elements
         await this.loadAllData();
         this.initStudyTab();
         this.updateDashboard();
@@ -875,6 +894,490 @@ class QuizApp {
     restartExam() {
         this.resultModal?.classList.remove('active');
         this.startExam(this.examChapterSelect?.value || 'all');
+    }
+
+    // ===== SIMULATION MODE =====
+    initSimulationTab() {
+        // Config elements
+        this.simTotalQuestions = document.getElementById('sim-total-questions');
+        this.simCh1Percent = document.getElementById('sim-ch1-percent');
+        this.simCh2Percent = document.getElementById('sim-ch2-percent');
+        this.simCh3Percent = document.getElementById('sim-ch3-percent');
+        this.simCh1Count = document.getElementById('sim-ch1-count');
+        this.simCh2Count = document.getElementById('sim-ch2-count');
+        this.simCh3Count = document.getElementById('sim-ch3-count');
+        this.simTotalPercent = document.getElementById('sim-total-percent');
+        this.distWarning = document.getElementById('dist-warning');
+        this.simTimeLimit = document.getElementById('sim-time-limit');
+        this.simShuffleQuestions = document.getElementById('sim-shuffle-questions');
+        this.simShuffleAnswers = document.getElementById('sim-shuffle-answers');
+        this.simShowAnswerImmediately = document.getElementById('sim-show-answer-immediately');
+        this.startSimulationBtn = document.getElementById('start-simulation-btn');
+
+        // Exam screen elements
+        this.simulationConfig = document.getElementById('simulation-config');
+        this.simulationExam = document.getElementById('simulation-exam');
+        this.simulationResult = document.getElementById('simulation-result');
+        this.simTimerEl = document.getElementById('sim-timer');
+        this.simTimerValue = document.getElementById('sim-timer-value');
+        this.simCurrentSpan = document.getElementById('sim-current');
+        this.simTotalSpan = document.getElementById('sim-total');
+        this.simProgress = document.getElementById('sim-progress');
+        this.simQuestionNav = document.getElementById('sim-question-nav');
+        this.simQuestionNumber = document.getElementById('sim-question-number');
+        this.simQuestionText = document.getElementById('sim-question-text');
+        this.simOptions = document.getElementById('sim-options');
+        this.simExplanation = document.getElementById('sim-explanation');
+        this.simPrevBtn = document.getElementById('sim-prev-btn');
+        this.simNextBtn = document.getElementById('sim-next-btn');
+        this.simSubmitBtn = document.getElementById('sim-submit-btn');
+
+        // Result elements
+        this.simResultEmoji = document.getElementById('sim-result-emoji');
+        this.simResultScore = document.getElementById('sim-result-score');
+        this.simResultCorrect = document.getElementById('sim-result-correct');
+        this.simResultIncorrect = document.getElementById('sim-result-incorrect');
+        this.simResultSkipped = document.getElementById('sim-result-skipped');
+        this.simResultTime = document.getElementById('sim-result-time');
+        this.simReviewBtn = document.getElementById('sim-review-btn');
+        this.simRetryBtn = document.getElementById('sim-retry-btn');
+
+        // Event listeners for config
+        this.simTotalQuestions?.addEventListener('input', () => this.updateSimConfigCounts());
+        this.simCh1Percent?.addEventListener('input', () => this.updateSimConfigCounts());
+        this.simCh2Percent?.addEventListener('input', () => this.updateSimConfigCounts());
+        this.simCh3Percent?.addEventListener('input', () => this.updateSimConfigCounts());
+        this.startSimulationBtn?.addEventListener('click', () => this.startSimulation());
+
+        // Exam navigation
+        this.simPrevBtn?.addEventListener('click', () => this.simNavigate(-1));
+        this.simNextBtn?.addEventListener('click', () => this.simNavigate(1));
+        this.simSubmitBtn?.addEventListener('click', () => this.submitSimulation());
+
+        // Result actions
+        this.simReviewBtn?.addEventListener('click', () => this.reviewSimulation());
+        this.simRetryBtn?.addEventListener('click', () => this.resetSimulation());
+    }
+
+    updateSimConfigCounts() {
+        const total = parseInt(this.simTotalQuestions?.value) || 80;
+        const ch1 = parseInt(this.simCh1Percent?.value) || 0;
+        const ch2 = parseInt(this.simCh2Percent?.value) || 0;
+        const ch3 = parseInt(this.simCh3Percent?.value) || 0;
+        const sum = ch1 + ch2 + ch3;
+
+        // Update counts
+        const ch1Count = Math.round(total * ch1 / 100);
+        const ch2Count = Math.round(total * ch2 / 100);
+        const ch3Count = total - ch1Count - ch2Count;
+
+        if (this.simCh1Count) this.simCh1Count.textContent = `${ch1Count} câu`;
+        if (this.simCh2Count) this.simCh2Count.textContent = `${ch2Count} câu`;
+        if (this.simCh3Count) this.simCh3Count.textContent = `${ch3Count} câu`;
+
+        // Update total percent display
+        if (this.simTotalPercent) {
+            this.simTotalPercent.querySelector('span').textContent = `Tổng: ${sum}%`;
+            if (sum !== 100) {
+                this.simTotalPercent.classList.add('invalid');
+                this.distWarning?.classList.remove('hidden');
+                this.startSimulationBtn?.setAttribute('disabled', 'true');
+            } else {
+                this.simTotalPercent.classList.remove('invalid');
+                this.distWarning?.classList.add('hidden');
+                this.startSimulationBtn?.removeAttribute('disabled');
+            }
+        }
+    }
+
+    startSimulation() {
+        // Read config
+        this.simConfig = {
+            totalQuestions: parseInt(this.simTotalQuestions?.value) || 80,
+            ch1Percent: parseInt(this.simCh1Percent?.value) || 20,
+            ch2Percent: parseInt(this.simCh2Percent?.value) || 40,
+            ch3Percent: parseInt(this.simCh3Percent?.value) || 40,
+            timeLimit: parseInt(this.simTimeLimit?.value) || 60,
+            shuffleQuestions: this.simShuffleQuestions?.checked ?? true,
+            shuffleAnswers: this.simShuffleAnswers?.checked ?? true,
+            showAnswerImmediately: this.simShowAnswerImmediately?.checked ?? false
+        };
+
+        // Validate percent sum
+        const sum = this.simConfig.ch1Percent + this.simConfig.ch2Percent + this.simConfig.ch3Percent;
+        if (sum !== 100) {
+            alert('Tổng phần trăm các chương phải bằng 100%');
+            return;
+        }
+
+        // Calculate question counts
+        const ch1Count = Math.round(this.simConfig.totalQuestions * this.simConfig.ch1Percent / 100);
+        const ch2Count = Math.round(this.simConfig.totalQuestions * this.simConfig.ch2Percent / 100);
+        const ch3Count = this.simConfig.totalQuestions - ch1Count - ch2Count;
+
+        // Get questions from each chapter
+        const ch1Questions = this.getQuestionsByChapter(1);
+        const ch2Questions = this.getQuestionsByChapter(2);
+        const ch3Questions = this.getQuestionsByChapter(3);
+
+        // Shuffle source pools
+        this.shuffleArray(ch1Questions);
+        this.shuffleArray(ch2Questions);
+        this.shuffleArray(ch3Questions);
+
+        // Take required number from each
+        const selected = [
+            ...ch1Questions.slice(0, ch1Count),
+            ...ch2Questions.slice(0, ch2Count),
+            ...ch3Questions.slice(0, ch3Count)
+        ];
+
+        // Shuffle if enabled
+        if (this.simConfig.shuffleQuestions) {
+            this.shuffleArray(selected);
+        }
+
+        // Prepare shuffled options if needed
+        this.simQuestions = selected.map(q => {
+            const newQ = { ...q };
+            if (this.simConfig.shuffleAnswers) {
+                let options = [...q.options];
+                const correctOption = options.find(o => o.letter === q.correct_answer);
+                this.shuffleArray(options);
+                const letters = ['A', 'B', 'C', 'D'];
+                options = options.map((opt, i) => ({
+                    ...opt,
+                    originalLetter: opt.letter,
+                    letter: letters[i]
+                }));
+                newQ._shuffledOptions = options;
+                newQ._shuffledCorrect = options.find(o => o.originalLetter === q.correct_answer)?.letter || q.correct_answer;
+            } else {
+                newQ._shuffledOptions = q.options;
+                newQ._shuffledCorrect = q.correct_answer;
+            }
+            return newQ;
+        });
+
+        this.simIndex = 0;
+        this.simAnswers = {};
+        this.simTimeRemaining = this.simConfig.timeLimit * 60; // Convert to seconds
+        this.simStartTime = Date.now();
+
+        // Switch to exam screen
+        this.simulationConfig?.classList.add('hidden');
+        this.simulationResult?.classList.add('hidden');
+        this.simulationExam?.classList.remove('hidden');
+
+        // Update UI
+        if (this.simTotalSpan) this.simTotalSpan.textContent = this.simQuestions.length;
+
+        // Render question navigation
+        this.renderSimQuestionNav();
+
+        // Render first question
+        this.renderSimQuestion();
+
+        // Start timer
+        this.startSimTimer();
+    }
+
+    startSimTimer() {
+        if (this.simTimer) clearInterval(this.simTimer);
+
+        this.updateSimTimerDisplay();
+
+        this.simTimer = setInterval(() => {
+            this.simTimeRemaining--;
+            this.updateSimTimerDisplay();
+
+            if (this.simTimeRemaining <= 0) {
+                clearInterval(this.simTimer);
+                this.simTimer = null;
+                this.submitSimulation();
+            }
+        }, 1000);
+    }
+
+    updateSimTimerDisplay() {
+        const minutes = Math.floor(this.simTimeRemaining / 60);
+        const seconds = this.simTimeRemaining % 60;
+        const timeStr = `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+
+        if (this.simTimerValue) this.simTimerValue.textContent = timeStr;
+
+        // Warning colors
+        if (this.simTimerEl) {
+            this.simTimerEl.classList.remove('warning', 'danger');
+            if (this.simTimeRemaining <= 60) {
+                this.simTimerEl.classList.add('danger');
+            } else if (this.simTimeRemaining <= 300) {
+                this.simTimerEl.classList.add('warning');
+            }
+        }
+    }
+
+    renderSimQuestionNav() {
+        if (!this.simQuestionNav) return;
+
+        this.simQuestionNav.innerHTML = this.simQuestions.map((_, i) => {
+            let classes = 'q-nav-btn';
+            if (i === this.simIndex) classes += ' current';
+            if (this.simAnswers[i] !== undefined) classes += ' answered';
+            return `<button class="${classes}" data-index="${i}">${i + 1}</button>`;
+        }).join('');
+
+        // Add click handlers
+        this.simQuestionNav.querySelectorAll('.q-nav-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                this.simIndex = parseInt(btn.dataset.index);
+                this.renderSimQuestion();
+                this.renderSimQuestionNav();
+            });
+        });
+    }
+
+    renderSimQuestion() {
+        const q = this.simQuestions[this.simIndex];
+        if (!q) return;
+
+        // Update header
+        if (this.simQuestionNumber) this.simQuestionNumber.textContent = `Câu ${this.simIndex + 1}`;
+        if (this.simCurrentSpan) this.simCurrentSpan.textContent = this.simIndex + 1;
+
+        // Update question text
+        if (this.simQuestionText) this.simQuestionText.innerHTML = q.text;
+
+        // Update progress
+        const progress = ((this.simIndex + 1) / this.simQuestions.length) * 100;
+        if (this.simProgress) this.simProgress.style.width = `${progress}%`;
+
+        // Render options
+        const options = q._shuffledOptions || q.options;
+        const correctAnswer = q._shuffledCorrect || q.correct_answer;
+        const userAnswer = this.simAnswers[this.simIndex];
+        const answered = userAnswer !== undefined;
+        const showFeedback = answered && this.simConfig.showAnswerImmediately;
+
+        if (this.simOptions) {
+            this.simOptions.innerHTML = options.map(opt => {
+                let classes = 'option';
+                let icon = '';
+
+                if (showFeedback) {
+                    classes += ' disabled';
+                    if (opt.letter === correctAnswer) {
+                        classes += ' correct';
+                        icon = '<span class="option-icon">✓</span>';
+                    } else if (opt.letter === userAnswer) {
+                        classes += ' incorrect';
+                        icon = '<span class="option-icon">✗</span>';
+                    }
+                } else if (answered && opt.letter === userAnswer) {
+                    classes += ' selected';
+                }
+
+                return `
+                    <div class="${classes}" data-letter="${opt.letter}">
+                        <span class="option-letter">${opt.letter}</span>
+                        <span class="option-text">${opt.text}</span>
+                        ${icon}
+                    </div>
+                `;
+            }).join('');
+
+            // Add click handlers (only if not disabled)
+            if (!showFeedback) {
+                this.simOptions.querySelectorAll('.option').forEach(opt => {
+                    opt.addEventListener('click', () => this.selectSimAnswer(opt.dataset.letter));
+                });
+            }
+        }
+
+        // Show explanation if immediate feedback enabled and answered
+        if (this.simExplanation) {
+            if (showFeedback && userAnswer !== correctAnswer && q.explanation) {
+                this.simExplanation.innerHTML = `
+                    <div class="explanation-box">
+                        <div class="explanation-header">
+                            <span class="gemini-badge">Gemini 3.0 PRO</span>
+                        </div>
+                        <div class="explanation-text">${q.explanation}</div>
+                    </div>
+                `;
+                this.simExplanation.classList.remove('hidden');
+            } else {
+                this.simExplanation.classList.add('hidden');
+            }
+        }
+
+        // Update navigation buttons
+        if (this.simPrevBtn) this.simPrevBtn.disabled = this.simIndex === 0;
+        if (this.simNextBtn) this.simNextBtn.disabled = this.simIndex === this.simQuestions.length - 1;
+    }
+
+    selectSimAnswer(letter) {
+        this.simAnswers[this.simIndex] = letter;
+        this.renderSimQuestion();
+        this.renderSimQuestionNav();
+
+        // Auto-advance if immediate feedback is off
+        if (!this.simConfig.showAnswerImmediately && this.simIndex < this.simQuestions.length - 1) {
+            setTimeout(() => {
+                this.simNavigate(1);
+            }, 300);
+        }
+    }
+
+    simNavigate(direction) {
+        const newIndex = this.simIndex + direction;
+        if (newIndex >= 0 && newIndex < this.simQuestions.length) {
+            this.simIndex = newIndex;
+            this.renderSimQuestion();
+            this.renderSimQuestionNav();
+        }
+    }
+
+    submitSimulation() {
+        // Stop timer
+        if (this.simTimer) {
+            clearInterval(this.simTimer);
+            this.simTimer = null;
+        }
+
+        // Calculate results
+        let correct = 0, incorrect = 0, skipped = 0;
+
+        this.simQuestions.forEach((q, i) => {
+            const userAnswer = this.simAnswers[i];
+            const correctAnswer = q._shuffledCorrect || q.correct_answer;
+
+            if (userAnswer === undefined) {
+                skipped++;
+            } else if (userAnswer === correctAnswer) {
+                correct++;
+            } else {
+                incorrect++;
+            }
+        });
+
+        const total = this.simQuestions.length;
+        const score = Math.round((correct / total) * 10 * 10) / 10; // Score out of 10, 1 decimal
+        const timeTaken = Math.floor((Date.now() - this.simStartTime) / 1000);
+        const minutes = Math.floor(timeTaken / 60);
+        const seconds = timeTaken % 60;
+        const timeStr = `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+
+        // Determine emoji
+        let emoji = '😢';
+        if (score >= 9) emoji = '🏆';
+        else if (score >= 8) emoji = '🎉';
+        else if (score >= 7) emoji = '😊';
+        else if (score >= 5) emoji = '😐';
+
+        // Update result UI
+        if (this.simResultEmoji) this.simResultEmoji.textContent = emoji;
+        if (this.simResultScore) this.simResultScore.textContent = score.toFixed(1);
+        if (this.simResultCorrect) this.simResultCorrect.textContent = correct;
+        if (this.simResultIncorrect) this.simResultIncorrect.textContent = incorrect;
+        if (this.simResultSkipped) this.simResultSkipped.textContent = skipped;
+        if (this.simResultTime) this.simResultTime.textContent = timeStr;
+
+        // Switch to result screen
+        this.simulationExam?.classList.add('hidden');
+        this.simulationResult?.classList.remove('hidden');
+
+        // Update stats
+        this.studiedToday += total;
+        this.totalAnswered += (correct + incorrect);
+        this.totalCorrect += correct;
+        localStorage.setItem('studiedToday', this.studiedToday);
+        localStorage.setItem('totalAnswered', this.totalAnswered);
+        localStorage.setItem('totalCorrect', this.totalCorrect);
+        this.updateDashboard();
+    }
+
+    reviewSimulation() {
+        // Mark questions with correct/incorrect status
+        this.simQuestions.forEach((q, i) => {
+            const userAnswer = this.simAnswers[i];
+            const correctAnswer = q._shuffledCorrect || q.correct_answer;
+            q._reviewed = true;
+            q._isCorrect = userAnswer === correctAnswer;
+        });
+
+        // Switch to exam screen in review mode
+        this.simulationResult?.classList.add('hidden');
+        this.simulationExam?.classList.remove('hidden');
+
+        // Hide timer and submit
+        if (this.simTimerEl) this.simTimerEl.style.display = 'none';
+        if (this.simSubmitBtn) this.simSubmitBtn.style.display = 'none';
+
+        // Force show feedback
+        this.simConfig.showAnswerImmediately = true;
+
+        // Update nav buttons with colors
+        this.renderSimReviewNav();
+
+        // Render current question
+        this.simIndex = 0;
+        this.renderSimQuestion();
+    }
+
+    renderSimReviewNav() {
+        if (!this.simQuestionNav) return;
+
+        this.simQuestionNav.innerHTML = this.simQuestions.map((q, i) => {
+            const userAnswer = this.simAnswers[i];
+            const correctAnswer = q._shuffledCorrect || q.correct_answer;
+            let classes = 'q-nav-btn';
+
+            if (i === this.simIndex) classes += ' current';
+            if (userAnswer === undefined) {
+                classes += ' skipped';
+            } else if (userAnswer === correctAnswer) {
+                classes += ' correct';
+            } else {
+                classes += ' incorrect';
+            }
+
+            return `<button class="${classes}" data-index="${i}">${i + 1}</button>`;
+        }).join('');
+
+        // Add click handlers
+        this.simQuestionNav.querySelectorAll('.q-nav-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                this.simIndex = parseInt(btn.dataset.index);
+                this.renderSimQuestion();
+                this.renderSimReviewNav();
+            });
+        });
+    }
+
+    resetSimulation() {
+        // Stop any timer
+        if (this.simTimer) {
+            clearInterval(this.simTimer);
+            this.simTimer = null;
+        }
+
+        // Reset state
+        this.simQuestions = [];
+        this.simIndex = 0;
+        this.simAnswers = {};
+
+        // Show timer and submit again
+        if (this.simTimerEl) this.simTimerEl.style.display = '';
+        if (this.simSubmitBtn) this.simSubmitBtn.style.display = '';
+
+        // Switch to config screen
+        this.simulationExam?.classList.add('hidden');
+        this.simulationResult?.classList.add('hidden');
+        this.simulationConfig?.classList.remove('hidden');
+
+        // Reset immediate feedback setting
+        this.simConfig.showAnswerImmediately = this.simShowAnswerImmediately?.checked ?? false;
     }
 
     // ===== UTILITIES =====

@@ -1705,3 +1705,628 @@ body {
 .hidden {
     display: none !important;
 }
+
+/* ===== SIMULATION TAB ===== */
+.simulation-config,
+.simulation-exam,
+.simulation-result {
+    animation: fadeIn 0.3s ease;
+}
+
+.simulation-header {
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+.simulation-header h2 {
+    font-size: 1.8rem;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+/* Config Card */
+.config-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 32px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.config-section {
+    margin-bottom: 28px;
+}
+
+.config-section:last-of-type {
+    margin-bottom: 32px;
+}
+
+.config-section h3 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 16px;
+    color: var(--text-primary);
+}
+
+.config-input-group {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.config-input-group input {
+    width: 120px;
+    padding: 12px 16px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    background: var(--bg-secondary);
+    color: var(--text-primary);
+    font-size: 1.2rem;
+    font-weight: 600;
+    font-family: var(--font);
+    text-align: center;
+}
+
+.config-input-group input:focus {
+    outline: none;
+    border-color: var(--accent);
+}
+
+.config-unit {
+    color: var(--text-secondary);
+    font-size: 1rem;
+}
+
+/* Chapter Distribution */
+.chapter-distribution {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.dist-row {
+    display: grid;
+    grid-template-columns: 1fr auto auto;
+    align-items: center;
+    gap: 16px;
+    padding: 12px 16px;
+    background: var(--bg-secondary);
+    border-radius: var(--radius-sm);
+}
+
+.dist-row label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 500;
+}
+
+.dist-icon {
+    font-size: 1.2rem;
+}
+
+.dist-input {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.dist-input input {
+    width: 60px;
+    padding: 8px 12px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-xs);
+    background: var(--bg-card);
+    color: var(--text-primary);
+    font-size: 1rem;
+    font-weight: 600;
+    font-family: var(--font);
+    text-align: center;
+}
+
+.dist-input input:focus {
+    outline: none;
+    border-color: var(--accent);
+}
+
+.dist-count {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    min-width: 60px;
+    text-align: right;
+}
+
+.dist-total {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 16px;
+    background: var(--accent-light);
+    border-radius: var(--radius-sm);
+    margin-top: 12px;
+    font-weight: 600;
+}
+
+.dist-total.invalid {
+    background: var(--incorrect-bg);
+}
+
+.dist-warning {
+    color: var(--incorrect);
+    font-size: 0.9rem;
+}
+
+/* Config Options */
+.config-options {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.toggle-option {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    cursor: pointer;
+    padding: 12px 16px;
+    background: var(--bg-secondary);
+    border-radius: var(--radius-sm);
+    transition: var(--transition);
+}
+
+.toggle-option:hover {
+    background: var(--bg-hover);
+}
+
+.toggle-option input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    accent-color: var(--accent);
+    cursor: pointer;
+}
+
+/* Start Button */
+.start-simulation-btn {
+    width: 100%;
+    padding: 18px;
+    background: linear-gradient(135deg, var(--accent), #8b5cf6);
+    color: white;
+    border: none;
+    border-radius: var(--radius);
+    font-size: 1.2rem;
+    font-weight: 600;
+    font-family: var(--font);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    transition: var(--transition);
+    box-shadow: 0 4px 20px rgba(59, 130, 246, 0.4);
+}
+
+.start-simulation-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 30px rgba(59, 130, 246, 0.5);
+}
+
+.start-simulation-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    transform: none;
+}
+
+/* Simulation Exam Screen */
+.sim-exam-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 24px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    margin-bottom: 20px;
+    position: sticky;
+    top: 70px;
+    z-index: 50;
+}
+
+.sim-timer {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 20px;
+    background: var(--bg-secondary);
+    border-radius: var(--radius-sm);
+}
+
+.sim-timer.warning {
+    background: rgba(245, 158, 11, 0.2);
+    animation: pulse 1s infinite;
+}
+
+.sim-timer.danger {
+    background: var(--incorrect-bg);
+    animation: pulse 0.5s infinite;
+}
+
+@keyframes pulse {
+
+    0%,
+    100% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0.7;
+    }
+}
+
+.timer-icon {
+    font-size: 1.3rem;
+}
+
+.timer-value {
+    font-size: 1.4rem;
+    font-weight: 700;
+    font-family: 'Courier New', monospace;
+}
+
+.sim-progress-info {
+    font-weight: 600;
+    color: var(--text-secondary);
+}
+
+.sim-submit-btn {
+    padding: 10px 24px;
+    background: var(--accent);
+    color: white;
+    border: none;
+    border-radius: var(--radius-sm);
+    font-weight: 600;
+    font-family: var(--font);
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.sim-submit-btn:hover {
+    background: var(--accent-hover);
+}
+
+/* Desktop Layout - 2 columns */
+@media (min-width: 992px) {
+    .simulation-exam {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .simulation-exam>.sim-exam-header,
+    .simulation-exam>.sim-exam-progress {
+        width: 100%;
+    }
+
+    /* Create flex container for question nav and question container */
+    .simulation-exam {
+        position: relative;
+    }
+
+    .sim-question-nav {
+        position: fixed;
+        right: 24px;
+        top: 200px;
+        width: 280px;
+        max-height: calc(100vh - 240px);
+        z-index: 40;
+        padding: 20px;
+        box-shadow: var(--shadow);
+    }
+
+    .sim-question-container {
+        margin-right: 320px;
+    }
+
+    .sim-nav-buttons {
+        margin-right: 320px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .sim-question-nav {
+        width: 320px;
+        right: calc((100vw - 900px) / 2 + 920px);
+        right: 40px;
+    }
+
+    .sim-question-container,
+    .sim-nav-buttons {
+        margin-right: 360px;
+    }
+}
+
+/* Question Navigation */
+.sim-question-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    padding: 12px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    margin-bottom: 20px;
+    max-height: 300px;
+    overflow-y: auto;
+    justify-content: flex-start;
+    align-content: flex-start;
+}
+
+.q-nav-btn {
+    width: 32px;
+    height: 32px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-xs);
+    background: var(--bg-secondary);
+    color: var(--text-secondary);
+    font-weight: 600;
+    font-size: 0.8rem;
+    font-family: var(--font);
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.q-nav-btn:hover {
+    border-color: var(--accent);
+    color: var(--text-primary);
+}
+
+.q-nav-btn.current {
+    background: var(--accent);
+    color: white;
+    border-color: var(--accent);
+}
+
+.q-nav-btn.answered {
+    background: var(--accent-light);
+    border-color: var(--accent);
+    color: var(--accent);
+}
+
+.q-nav-btn.correct {
+    background: var(--correct-bg);
+    border-color: var(--correct);
+    color: var(--correct);
+}
+
+.q-nav-btn.incorrect {
+    background: var(--incorrect-bg);
+    border-color: var(--incorrect);
+    color: var(--incorrect);
+}
+
+.q-nav-btn.skipped {
+    background: rgba(245, 158, 11, 0.15);
+    border-color: var(--warning);
+    color: var(--warning);
+}
+
+/* Selected option (not yet submitted) */
+.option.selected {
+    border-color: var(--accent);
+    background: var(--accent-light);
+}
+
+/* Question Container */
+.sim-question-container {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 28px;
+    margin-bottom: 20px;
+}
+
+/* Navigation Buttons */
+.sim-nav-buttons {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+.sim-nav-btn {
+    flex: 1;
+    padding: 14px 20px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    color: var(--text-primary);
+    font-weight: 600;
+    font-family: var(--font);
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.sim-nav-btn:hover:not(:disabled) {
+    border-color: var(--accent);
+    background: var(--accent-light);
+}
+
+.sim-nav-btn:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+}
+
+/* Result Screen */
+.simulation-result {
+    text-align: center;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.simulation-result .result-header {
+    margin-bottom: 32px;
+}
+
+.simulation-result .result-emoji {
+    font-size: 5rem;
+    margin-bottom: 16px;
+}
+
+.simulation-result h2 {
+    font-size: 1.8rem;
+    font-weight: 700;
+}
+
+.result-score-circle {
+    margin-bottom: 32px;
+}
+
+.score-circle {
+    width: 180px;
+    height: 180px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--accent), #8b5cf6);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 10px 40px rgba(59, 130, 246, 0.4);
+}
+
+.score-circle .score-value {
+    font-size: 3.5rem;
+    font-weight: 800;
+    color: white;
+}
+
+.score-circle .score-label {
+    font-size: 1.1rem;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.result-stats {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+    margin-bottom: 24px;
+}
+
+.result-stats .stat-item {
+    text-align: center;
+    padding: 16px 24px;
+    background: var(--bg-card);
+    border-radius: var(--radius-sm);
+    border: 1px solid var(--border);
+}
+
+.result-stats .stat-item.correct {
+    border-color: var(--correct);
+}
+
+.result-stats .stat-item.incorrect {
+    border-color: var(--incorrect);
+}
+
+.result-stats .stat-item.skipped {
+    border-color: var(--warning);
+}
+
+.result-stats .stat-value {
+    display: block;
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+.result-stats .stat-item.correct .stat-value {
+    color: var(--correct);
+}
+
+.result-stats .stat-item.incorrect .stat-value {
+    color: var(--incorrect);
+}
+
+.result-stats .stat-item.skipped .stat-value {
+    color: var(--warning);
+}
+
+.result-stats .stat-label {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+}
+
+.result-time {
+    margin-bottom: 32px;
+    padding: 16px;
+    background: var(--bg-card);
+    border-radius: var(--radius-sm);
+    border: 1px solid var(--border);
+}
+
+.result-time .time-icon {
+    margin-right: 8px;
+}
+
+.simulation-result .result-actions {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+}
+
+/* Mobile Responsive for Simulation */
+@media (max-width: 768px) {
+    .config-card {
+        padding: 20px;
+    }
+
+    .dist-row {
+        grid-template-columns: 1fr;
+        gap: 8px;
+    }
+
+    .dist-input {
+        justify-content: flex-start;
+    }
+
+    .dist-count {
+        text-align: left;
+    }
+
+    .sim-exam-header {
+        flex-wrap: wrap;
+        gap: 12px;
+        padding: 12px 16px;
+    }
+
+    .sim-timer {
+        order: 1;
+        flex: 1;
+    }
+
+    .sim-submit-btn {
+        order: 2;
+    }
+
+    .sim-progress-info {
+        order: 3;
+        width: 100%;
+        text-align: center;
+    }
+
+    .sim-question-nav {
+        max-height: 100px;
+    }
+
+    .q-nav-btn {
+        width: 36px;
+        height: 36px;
+        font-size: 0.9rem;
+    }
+
+    .result-stats {
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .simulation-result .result-actions {
+        flex-direction: column;
+    }
+}
