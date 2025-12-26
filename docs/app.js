@@ -511,13 +511,21 @@ class QuizApp {
             return this.allData.questions;
         }
 
-        // If chapter is file path (e.g. "exam/chuong_1.json")
-        if (typeof chapter === 'string' && chapter.includes('exam/')) {
-            return this.allData.questions.filter(q => q.file === chapter);
+        // Try to parse chapter number from string (e.g. "exam/chuong_1.json" -> 1)
+        let chapterNum = parseInt(chapter);
+        if (isNaN(chapterNum) && typeof chapter === 'string') {
+            const match = chapter.match(/chuong_(\d+)/i) || chapter.match(/(\d+)/);
+            if (match) {
+                chapterNum = parseInt(match[1]);
+            }
         }
 
-        // If chapter is number/string number (e.g. 1 or "1")
-        return this.allData.questions.filter(q => q.chapter === parseInt(chapter));
+        if (!isNaN(chapterNum) && chapterNum > 0) {
+            return this.allData.questions.filter(q => q.chapter === chapterNum);
+        }
+
+        // Fallback to file path match
+        return this.allData.questions.filter(q => q.file === chapter);
     }
 
     startExam(chapter) {
