@@ -5,8 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Học Tập với NotebookLM | Triết Học Mác-Lênin</title>
-    <meta name="description"
-        content="Học tập Triết học Mác-Lênin với 8 chủ đề trọng tâm - Videos, lý thuyết và câu hỏi thực hành">
+    <meta name="description" content="Học tập Triết học Mác-Lênin với 8 chủ đề trọng tâm">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -48,22 +47,102 @@
         </div>
     </header>
 
-    <main class="main-content">
-        <div class="container">
-            <div class="study-header">
-                <div class="header-left">
-                    <h2>📖 Học Tập với NotebookLM</h2>
-                    <span class="notebook-badge">📓 8 Chủ đề trọng tâm</span>
+    <main class="study-main">
+        <!-- Chapter Tabs -->
+        <div class="chapter-tabs">
+            <button class="chapter-tab active" data-chapter="all">Tất cả</button>
+            <button class="chapter-tab" data-chapter="1">📘 Chương 1</button>
+            <button class="chapter-tab" data-chapter="2">📗 Chương 2</button>
+            <button class="chapter-tab" data-chapter="3">📙 Chương 3</button>
+        </div>
+
+        <div class="study-layout">
+            <!-- Sidebar -->
+            <aside class="study-sidebar" id="study-sidebar">
+                <div class="sidebar-header">
+                    <h3>📚 Chủ đề</h3>
+                    <span class="topic-count" id="topic-count">8 chủ đề</span>
                 </div>
-            </div>
+                <div class="topic-list" id="topic-list">
+                    <!-- Topics rendered here -->
+                </div>
+            </aside>
 
-            <div class="study-intro">
-                <p>Hệ thống 8 chủ đề triết học được tổ chức khoa học, mỗi chủ đề bao gồm video bài giảng, lý thuyết tóm
-                    tắt, mẹo ghi nhớ và câu hỏi thực hành liên quan.</p>
-            </div>
+            <!-- Mobile Sidebar Toggle -->
+            <button class="sidebar-toggle" id="sidebar-toggle">
+                <span>📚</span>
+            </button>
 
-            <div class="topics-container" id="topics-container">
-                <p class="loading-text">Đang tải nội dung...</p>
+            <!-- Main Content -->
+            <div class="study-content" id="study-content">
+                <div class="content-placeholder" id="content-placeholder">
+                    <div class="placeholder-icon">👈</div>
+                    <p>Chọn một chủ đề từ danh sách bên trái để bắt đầu học</p>
+                </div>
+
+                <div class="topic-detail hidden" id="topic-detail">
+                    <!-- Topic header -->
+                    <div class="topic-detail-header">
+                        <span class="topic-detail-icon" id="detail-icon">🌍</span>
+                        <div class="topic-detail-info">
+                            <h2 id="detail-title">Tên chủ đề</h2>
+                            <div class="topic-detail-meta">
+                                <span class="chapter-badge" id="detail-chapter">Chương 1</span>
+                                <span class="question-count" id="detail-questions">47 câu hỏi</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Videos Section -->
+                    <section class="detail-section">
+                        <h3>🎬 Video bài giảng</h3>
+                        <div class="video-grid" id="video-grid">
+                            <!-- Videos rendered here -->
+                        </div>
+                        <div class="video-player-container hidden" id="video-player-container">
+                            <div class="video-wrapper">
+                                <iframe id="video-iframe" src="" frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen></iframe>
+                            </div>
+                            <button class="close-video" id="close-video">✕ Đóng video</button>
+                        </div>
+                    </section>
+
+                    <!-- Theory Section -->
+                    <section class="detail-section">
+                        <h3>📚 Nội dung lý thuyết</h3>
+                        <div class="theory-box" id="theory-content">
+                            <!-- Theory content -->
+                        </div>
+                    </section>
+
+                    <!-- Goals Section -->
+                    <section class="detail-section">
+                        <h3>🎯 Mục tiêu học tập</h3>
+                        <ul class="goals-list" id="goals-list">
+                            <!-- Goals -->
+                        </ul>
+                    </section>
+
+                    <!-- Tips Section -->
+                    <section class="detail-section">
+                        <h3>💡 Mẹo ghi nhớ</h3>
+                        <div class="tips-list" id="tips-list">
+                            <!-- Tips -->
+                        </div>
+                    </section>
+
+                    <!-- Action Buttons -->
+                    <div class="topic-actions">
+                        <a href="#" class="btn btn-warning" id="notebook-btn" target="_blank">
+                            📓 Mở NotebookLM
+                        </a>
+                        <button class="btn btn-primary" id="practice-all-btn">
+                            🎯 Luyện tập toàn bộ chủ đề
+                        </button>
+                    </div>
+                </div>
             </div>
         </div>
     </main>
