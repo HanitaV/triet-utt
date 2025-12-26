@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="vi" data-theme="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thi Thử | Triết Học Mác-Lênin</title>
+    <meta name="description" content="Thi thử trắc nghiệm Triết học Mác-Lênin">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/common.css">
+    <link rel="stylesheet" href="css/exam.css">
+</head>
+
+<body>
+    <!-- Header Navigation -->
+    <header class="main-header">
+        <div class="header-content">
+            <a href="index.html" class="logo">📚 Triết Học Mác-Lênin</a>
+            <nav class="main-nav">
+                <a href="index.html" class="nav-tab">
+                    <span class="tab-icon">🏠</span>
+                    <span class="tab-text">Trang chủ</span>
+                </a>
+                <a href="study.html" class="nav-tab">
+                    <span class="tab-icon">🤖</span>
+                    <span class="tab-text">Học tập cùng AI</span>
+                </a>
+                <a href="flashcard.html" class="nav-tab">
+                    <span class="tab-icon">🎴</span>
+                    <span class="tab-text">Flashcard</span>
+                </a>
+                <a href="exam.html" class="nav-tab active">
+                    <span class="tab-icon">📝</span>
+                    <span class="tab-text">Thi thử</span>
+                </a>
+                <a href="simulation.html" class="nav-tab">
+                    <span class="tab-icon">🎯</span>
+                    <span class="tab-text">Giả lập thi</span>
+                </a>
+            </nav>
+            <button class="theme-toggle" id="theme-toggle" title="Chuyển đổi giao diện">
+                <span class="theme-icon">🌙</span>
+            </button>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="container">
+            <div class="exam-header">
+                <div class="exam-info">
+                    <h2 id="exam-title">📝 Thi Trắc Nghiệm</h2>
+                    <div class="exam-controls">
+                        <select id="exam-chapter-select">
+                            <option value="all">Tất cả chương</option>
+                            <option value="exam/chuong_1.json">Chương 1</option>
+                            <option value="exam/chuong_2.json">Chương 2</option>
+                            <option value="exam/chuong_3.json">Chương 3</option>
+                        </select>
+                        <label class="toggle-inline">
+                            <input type="checkbox" id="shuffle-answers-toggle" checked>
+                            <span>Trộn đáp án</span>
+                        </label>
+                    </div>
+                </div>
+                <div class="exam-score">
+                    <span class="score-label">Điểm:</span>
+                    <span class="score-value" id="exam-score">0</span>
+                </div>
+            </div>
+
+            <div class="exam-progress">
+                <div class="progress-bar">
+                    <div class="progress-fill" id="exam-progress"></div>
+                </div>
+                <div class="progress-info">
+                    <span>Câu <span id="exam-current">1</span>/<span id="exam-total">0</span></span>
+                    <span class="exam-stats">
+                        ✓ <span id="exam-correct" class="correct">0</span>
+                        ✗ <span id="exam-incorrect" class="incorrect">0</span>
+                    </span>
+                </div>
+            </div>
+
+            <div class="question-container" id="exam-question-container">
+                <div class="question-header">
+                    <span class="question-number" id="exam-question-number">Câu 1</span>
+                    <button class="hint-btn" id="hint-btn" title="Gợi ý">
+                        💡 Gợi ý
+                    </button>
+                </div>
+                <div class="question-text" id="exam-question-text">
+                    Đang tải câu hỏi...
+                </div>
+                <div class="options" id="exam-options">
+                    <!-- Options rendered here -->
+                </div>
+
+                <!-- Explanation Container -->
+                <div id="exam-explanation" class="hidden"></div>
+
+                <button class="continue-btn hidden" id="exam-continue-btn">
+                    Tiếp tục <span class="key-hint">(Enter)</span>
+                </button>
+            </div>
+
+            <div class="exam-actions">
+                <button class="action-btn" id="exam-restart-btn">🔄 Làm lại</button>
+            </div>
+        </div>
+    </main>
+
+    <!-- Result Modal -->
+    <div class="modal" id="result-modal">
+        <div class="modal-overlay"></div>
+        <div class="modal-content">
+            <div class="result-emoji" id="result-emoji">🎉</div>
+            <h2>Kết quả bài thi</h2>
+            <div class="result-score" id="result-score-display">0%</div>
+            <div class="result-detail" id="result-detail">
+                Đúng: 0 / 0 câu
+            </div>
+            <div class="result-message" id="result-message">
+                Xuất sắc!
+            </div>
+            <div class="result-actions">
+                <button class="action-btn" id="review-wrong-btn">📝 Ôn lại câu sai</button>
+                <button class="action-btn primary" id="modal-restart-btn">🔄 Làm lại</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Keyboard Shortcuts -->
+    <div class="keyboard-shortcuts">
+        ⌨️ <kbd>1-4</kbd> chọn đáp án | <kbd>Enter</kbd> tiếp tục | <kbd>H</kbd> gợi ý
+    </div>
+
+    <script src="js/common.js"></script>
+    <script src="js/exam.js"></script>
+</body>
+
+</html>

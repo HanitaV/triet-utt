@@ -4,41 +4,42 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ôn Thi Triết Học Mác-Lênin | All-in-One</title>
+    <title>Ôn Thi Triết Học Mác-Lênin | Trang chủ</title>
     <meta name="description"
         content="Ứng dụng ôn thi trắc nghiệm Triết học Mác-Lênin - Chương 1, 2, 3. Flashcard, Timeline, So sánh khái niệm.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/common.css">
+    <link rel="stylesheet" href="css/dashboard.css">
 </head>
 
 <body>
     <!-- Header Navigation -->
     <header class="main-header">
         <div class="header-content">
-            <h1 class="logo">📚 Triết Học Mác-Lênin</h1>
+            <a href="index.html" class="logo">📚 Triết Học Mác-Lênin</a>
             <nav class="main-nav">
-                <button class="nav-tab active" data-tab="dashboard">
+                <a href="index.html" class="nav-tab active">
                     <span class="tab-icon">🏠</span>
                     <span class="tab-text">Trang chủ</span>
-                </button>
-                <div class="nav-tab" data-tab="study">
-                    <i class="fas fa-robot tab-icon"></i>
+                </a>
+                <a href="study.html" class="nav-tab">
+                    <span class="tab-icon">🤖</span>
                     <span class="tab-text">Học tập cùng AI</span>
-                </div>
-                <button class="nav-tab" data-tab="flashcard">
+                </a>
+                <a href="flashcard.html" class="nav-tab">
                     <span class="tab-icon">🎴</span>
                     <span class="tab-text">Flashcard</span>
-                </button>
-                <button class="nav-tab" data-tab="exam">
+                </a>
+                <a href="exam.html" class="nav-tab">
                     <span class="tab-icon">📝</span>
                     <span class="tab-text">Thi thử</span>
-                </button>
-                <button class="nav-tab" data-tab="simulation">
+                </a>
+                <a href="simulation.html" class="nav-tab">
                     <span class="tab-icon">🎯</span>
                     <span class="tab-text">Giả lập thi</span>
-                </button>
+                </a>
             </nav>
             <button class="theme-toggle" id="theme-toggle" title="Chuyển đổi giao diện">
                 <span class="theme-icon">🌙</span>
@@ -47,437 +48,70 @@
     </header>
 
     <main class="main-content">
-        <!-- DASHBOARD TAB -->
-        <section class="tab-content active" id="dashboard-tab">
-            <div class="container">
-                <div class="dashboard-header">
-                    <h2>Chọn chương để ôn tập</h2>
-                    <p class="subtitle">Triết học Mác-Lênin - Đại học</p>
-                </div>
-
-                <div class="chapter-grid">
-                    <div class="chapter-card" data-chapter="exam/chuong_1.json">
-                        <div class="chapter-icon">📘</div>
-                        <h3>Chương 1</h3>
-                        <p class="chapter-title">Triết học và vai trò của triết học</p>
-                        <div class="chapter-stats">
-                            <span class="stat-badge" id="ch1-count">-- câu</span>
-                        </div>
-                        <button class="chapter-btn">Bắt đầu ôn tập</button>
-                    </div>
-
-                    <div class="chapter-card" data-chapter="exam/chuong_2.json">
-                        <div class="chapter-icon">📗</div>
-                        <h3>Chương 2</h3>
-                        <p class="chapter-title">Chủ nghĩa duy vật biện chứng</p>
-                        <div class="chapter-stats">
-                            <span class="stat-badge" id="ch2-count">-- câu</span>
-                        </div>
-                        <button class="chapter-btn">Bắt đầu ôn tập</button>
-                    </div>
-
-                    <div class="chapter-card" data-chapter="exam/chuong_3.json">
-                        <div class="chapter-icon">📙</div>
-                        <h3>Chương 3</h3>
-                        <p class="chapter-title">Chủ nghĩa duy vật lịch sử</p>
-                        <div class="chapter-stats">
-                            <span class="stat-badge" id="ch3-count">-- câu</span>
-                        </div>
-                        <button class="chapter-btn">Bắt đầu ôn tập</button>
-                    </div>
-                </div>
-
-                <div class="dashboard-actions">
-                    <button class="action-btn-large primary" id="start-all-btn">
-                        <span class="btn-icon">🎯</span>
-                        <span>Ôn tập tất cả (Trộn 3 chương)</span>
-                    </button>
-                </div>
-
-                <div class="quick-stats">
-                    <div class="quick-stat">
-                        <span class="quick-stat-value" id="total-questions">--</span>
-                        <span class="quick-stat-label">Tổng câu hỏi</span>
-                    </div>
-                    <div class="quick-stat">
-                        <span class="quick-stat-value" id="studied-today">0</span>
-                        <span class="quick-stat-label">Đã học hôm nay</span>
-                    </div>
-                    <div class="quick-stat">
-                        <span class="quick-stat-value" id="accuracy-rate">--%</span>
-                        <span class="quick-stat-label">Tỷ lệ đúng</span>
-                    </div>
-                </div>
+        <div class="container">
+            <div class="dashboard-header">
+                <h2>Chọn chương để ôn tập</h2>
+                <p class="subtitle">Triết học Mác-Lênin - Đại học</p>
             </div>
-        </section>
 
-        <!-- STUDY TAB -->
-        <section class="tab-content" id="study-tab">
-            <div class="container">
-                <div class="study-header">
-                    <div class="header-left">
-                        <h2>🤖 Học Tập Cùng AI</h2>
-                        <span class="ai-badge">✨ Model: Gemini 3.0 Pro</span>
+            <div class="chapter-grid">
+                <a href="exam.html?chapter=1" class="chapter-card">
+                    <div class="chapter-icon">📘</div>
+                    <h3>Chương 1</h3>
+                    <p class="chapter-title">Triết học và vai trò của triết học</p>
+                    <div class="chapter-stats">
+                        <span class="stat-badge" id="ch1-count">-- câu</span>
                     </div>
-                    <div class="study-controls">
-                        <div class="study-tabs">
-                            <button class="study-tab active" data-chapter="1">Chương 1</button>
-                            <button class="study-tab" data-chapter="2">Chương 2</button>
-                            <button class="study-tab" data-chapter="3">Chương 3</button>
-                        </div>
-                    </div>
-                </div>
+                    <span class="chapter-btn">Bắt đầu ôn tập</span>
+                </a>
 
-                <div class="topics-container" id="topics-container">
-                    <!-- Topics will be rendered here by JavaScript -->
-                    <p class="loading-text">Đang tải nội dung...</p>
-                </div>
+                <a href="exam.html?chapter=2" class="chapter-card">
+                    <div class="chapter-icon">📗</div>
+                    <h3>Chương 2</h3>
+                    <p class="chapter-title">Chủ nghĩa duy vật biện chứng</p>
+                    <div class="chapter-stats">
+                        <span class="stat-badge" id="ch2-count">-- câu</span>
+                    </div>
+                    <span class="chapter-btn">Bắt đầu ôn tập</span>
+                </a>
+
+                <a href="exam.html?chapter=3" class="chapter-card">
+                    <div class="chapter-icon">📙</div>
+                    <h3>Chương 3</h3>
+                    <p class="chapter-title">Chủ nghĩa duy vật lịch sử</p>
+                    <div class="chapter-stats">
+                        <span class="stat-badge" id="ch3-count">-- câu</span>
+                    </div>
+                    <span class="chapter-btn">Bắt đầu ôn tập</span>
+                </a>
             </div>
-        </section>
 
-        <!-- FLASHCARD TAB -->
-        <section class="tab-content" id="flashcard-tab">
-            <div class="container">
-                <div class="flashcard-header">
-                    <h2>🎴 Flashcard</h2>
-                    <div class="flashcard-controls">
-                        <select id="flashcard-chapter-select">
-                            <option value="all">Tất cả chương</option>
-                            <option value="exam/chuong_1.json">Chương 1</option>
-                            <option value="exam/chuong_2.json">Chương 2</option>
-                            <option value="exam/chuong_3.json">Chương 3</option>
-                        </select>
-                        <button class="control-btn" id="shuffle-flashcards">🔀 Trộn</button>
-                    </div>
-                </div>
-
-                <div class="flashcard-progress">
-                    <div class="progress-bar">
-                        <div class="progress-fill" id="flashcard-progress"></div>
-                    </div>
-                    <span class="progress-text">
-                        <span id="flashcard-current">1</span> / <span id="flashcard-total">0</span> thẻ
-                    </span>
-                </div>
-
-                <div class="flashcard-wrapper">
-                    <div class="flashcard" id="flashcard">
-                        <div class="flashcard-inner">
-                            <div class="flashcard-front">
-                                <div class="flashcard-label">Câu hỏi</div>
-                                <p id="flashcard-question">Click vào thẻ để lật</p>
-                            </div>
-                            <div class="flashcard-back">
-                                <div class="flashcard-label">Đáp án đúng</div>
-                                <div class="answer-letter" id="flashcard-answer-letter">A</div>
-                                <p id="flashcard-answer">Nội dung đáp án</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="flashcard-actions">
-                    <button class="flashcard-btn forgot" id="forgot-btn">
-                        <span class="btn-icon">🔄</span>
-                        <span>Quên (Học lại)</span>
-                    </button>
-                    <button class="flashcard-btn remembered" id="remembered-btn">
-                        <span class="btn-icon">✅</span>
-                        <span>Đã nhớ</span>
-                    </button>
-                </div>
-
-                <div class="flashcard-hint">
-                    💡 Click vào thẻ để lật | Swipe trái/phải trên mobile
-                </div>
+            <div class="dashboard-actions">
+                <a href="exam.html?chapter=all" class="action-btn-large">
+                    <span class="btn-icon">🎯</span>
+                    <span>Ôn tập tất cả (Trộn 3 chương)</span>
+                </a>
             </div>
-        </section>
 
-        <!-- EXAM TAB -->
-        <section class="tab-content" id="exam-tab">
-            <div class="container">
-                <div class="exam-header">
-                    <div class="exam-info">
-                        <h2 id="exam-title">📝 Thi Trắc Nghiệm</h2>
-                        <div class="exam-controls">
-                            <select id="exam-chapter-select">
-                                <option value="all">Tất cả chương</option>
-                                <option value="exam/chuong_1.json">Chương 1</option>
-                                <option value="exam/chuong_2.json">Chương 2</option>
-                                <option value="exam/chuong_3.json">Chương 3</option>
-                            </select>
-                            <label class="toggle-inline">
-                                <input type="checkbox" id="shuffle-answers-toggle" checked>
-                                <span>Trộn đáp án</span>
-                            </label>
-                        </div>
-                    </div>
-                    <div class="exam-score">
-                        <span class="score-label">Điểm:</span>
-                        <span class="score-value" id="exam-score">0</span>
-                    </div>
+            <div class="quick-stats">
+                <div class="quick-stat">
+                    <span class="quick-stat-value" id="total-questions">--</span>
+                    <span class="quick-stat-label">Tổng câu hỏi</span>
                 </div>
-
-                <div class="exam-progress">
-                    <div class="progress-bar">
-                        <div class="progress-fill" id="exam-progress"></div>
-                    </div>
-                    <div class="progress-info">
-                        <span>Câu <span id="exam-current">1</span>/<span id="exam-total">0</span></span>
-                        <span class="exam-stats">
-                            ✓ <span id="exam-correct" class="correct">0</span>
-                            ✗ <span id="exam-incorrect" class="incorrect">0</span>
-                        </span>
-                    </div>
+                <div class="quick-stat">
+                    <span class="quick-stat-value" id="studied-today">0</span>
+                    <span class="quick-stat-label">Đã học hôm nay</span>
                 </div>
-
-                <div class="question-container" id="exam-question-container">
-                    <div class="question-header">
-                        <span class="question-number" id="exam-question-number">Câu 1</span>
-                        <button class="hint-btn" id="hint-btn" title="Gợi ý">
-                            💡 Gợi ý
-                        </button>
-                    </div>
-                    <div class="question-text" id="exam-question-text">
-                        Chọn chương để bắt đầu thi thử...
-                    </div>
-                    <div class="options" id="exam-options">
-                        <!-- Options rendered here -->
-                    </div>
-
-                    <!-- Explanation Container -->
-                    <div id="exam-explanation" class="hidden"></div>
-
-                    <button class="continue-btn hidden" id="exam-continue-btn">
-                        Tiếp tục <span class="key-hint">(Enter)</span>
-                    </button>
+                <div class="quick-stat">
+                    <span class="quick-stat-value" id="accuracy-rate">--%</span>
+                    <span class="quick-stat-label">Tỷ lệ đúng</span>
                 </div>
-
-                <div class="exam-actions">
-                    <button class="action-btn" id="exam-restart-btn">🔄 Làm lại</button>
-                </div>
-            </div>
-        </section>
-
-        <!-- SIMULATION TAB -->
-        <section class="tab-content" id="simulation-tab">
-            <div class="container">
-                <!-- Config Screen -->
-                <div class="simulation-config" id="simulation-config">
-                    <div class="simulation-header">
-                        <h2>🎯 Giả Lập Thi Thật</h2>
-                        <p class="subtitle">Cấu hình bài thi theo chuẩn đề thi thật</p>
-                    </div>
-
-                    <div class="config-card">
-                        <div class="config-section">
-                            <h3>📝 Số câu hỏi</h3>
-                            <div class="config-input-group">
-                                <input type="number" id="sim-total-questions" value="80" min="10" max="200">
-                                <span class="config-unit">câu</span>
-                            </div>
-                        </div>
-
-                        <div class="config-section">
-                            <h3>📊 Phân bổ theo chương</h3>
-                            <div class="chapter-distribution">
-                                <div class="dist-row">
-                                    <label>
-                                        <span class="dist-icon">📘</span>
-                                        Chương 1
-                                    </label>
-                                    <div class="dist-input">
-                                        <input type="number" id="sim-ch1-percent" value="20" min="0" max="100">
-                                        <span>%</span>
-                                    </div>
-                                    <span class="dist-count" id="sim-ch1-count">16 câu</span>
-                                </div>
-                                <div class="dist-row">
-                                    <label>
-                                        <span class="dist-icon">📗</span>
-                                        Chương 2
-                                    </label>
-                                    <div class="dist-input">
-                                        <input type="number" id="sim-ch2-percent" value="40" min="0" max="100">
-                                        <span>%</span>
-                                    </div>
-                                    <span class="dist-count" id="sim-ch2-count">32 câu</span>
-                                </div>
-                                <div class="dist-row">
-                                    <label>
-                                        <span class="dist-icon">📙</span>
-                                        Chương 3
-                                    </label>
-                                    <div class="dist-input">
-                                        <input type="number" id="sim-ch3-percent" value="40" min="0" max="100">
-                                        <span>%</span>
-                                    </div>
-                                    <span class="dist-count" id="sim-ch3-count">32 câu</span>
-                                </div>
-                            </div>
-                            <div class="dist-total" id="sim-total-percent">
-                                <span>Tổng: 100%</span>
-                                <span class="dist-warning hidden" id="dist-warning">⚠️ Tổng phải bằng 100%</span>
-                            </div>
-                        </div>
-
-                        <div class="config-section">
-                            <h3>⏱️ Thời gian làm bài</h3>
-                            <div class="config-input-group">
-                                <input type="number" id="sim-time-limit" value="60" min="5" max="180">
-                                <span class="config-unit">phút</span>
-                            </div>
-                        </div>
-
-                        <div class="config-section">
-                            <h3>⚙️ Tùy chọn khác</h3>
-                            <div class="config-options">
-                                <label class="toggle-option">
-                                    <input type="checkbox" id="sim-shuffle-questions" checked>
-                                    <span>Trộn thứ tự câu hỏi</span>
-                                </label>
-                                <label class="toggle-option">
-                                    <input type="checkbox" id="sim-shuffle-answers" checked>
-                                    <span>Trộn đáp án</span>
-                                </label>
-                                <label class="toggle-option">
-                                    <input type="checkbox" id="sim-show-answer-immediately">
-                                    <span>Hiện đáp án ngay sau khi chọn</span>
-                                </label>
-                            </div>
-                        </div>
-
-                        <button class="start-simulation-btn" id="start-simulation-btn">
-                            <span class="btn-icon">🚀</span>
-                            Bắt đầu thi
-                        </button>
-                    </div>
-                </div>
-
-                <!-- Exam Screen -->
-                <div class="simulation-exam hidden" id="simulation-exam">
-                    <div class="sim-exam-header">
-                        <div class="sim-timer" id="sim-timer">
-                            <span class="timer-icon">⏱️</span>
-                            <span class="timer-value" id="sim-timer-value">60:00</span>
-                        </div>
-                        <div class="sim-progress-info">
-                            <span>Câu <span id="sim-current">1</span>/<span id="sim-total">80</span></span>
-                        </div>
-                        <button class="sim-submit-btn" id="sim-submit-btn">
-                            Nộp bài
-                        </button>
-                    </div>
-
-                    <div class="sim-exam-progress">
-                        <div class="progress-bar">
-                            <div class="progress-fill" id="sim-progress"></div>
-                        </div>
-                    </div>
-
-                    <div class="sim-question-nav" id="sim-question-nav">
-                        <!-- Question navigation buttons will be rendered here -->
-                    </div>
-
-                    <div class="sim-question-container" id="sim-question-container">
-                        <div class="question-header">
-                            <span class="question-number" id="sim-question-number">Câu 1</span>
-                        </div>
-                        <div class="question-text" id="sim-question-text">
-                            Đang tải câu hỏi...
-                        </div>
-                        <div class="options" id="sim-options">
-                            <!-- Options rendered here -->
-                        </div>
-
-                        <!-- Explanation (shown if immediate feedback enabled) -->
-                        <div id="sim-explanation" class="hidden"></div>
-                    </div>
-
-                    <div class="sim-nav-buttons">
-                        <button class="sim-nav-btn" id="sim-prev-btn" disabled>
-                            ← Câu trước
-                        </button>
-                        <button class="sim-nav-btn" id="sim-next-btn">
-                            Câu sau →
-                        </button>
-                    </div>
-                </div>
-
-                <!-- Result Screen -->
-                <div class="simulation-result hidden" id="simulation-result">
-                    <div class="result-header">
-                        <div class="result-emoji" id="sim-result-emoji">🎉</div>
-                        <h2>Kết quả bài thi</h2>
-                    </div>
-
-                    <div class="result-score-circle">
-                        <div class="score-circle" id="sim-score-circle">
-                            <span class="score-value" id="sim-result-score">0</span>
-                            <span class="score-label">điểm</span>
-                        </div>
-                    </div>
-
-                    <div class="result-stats">
-                        <div class="stat-item correct">
-                            <span class="stat-value" id="sim-result-correct">0</span>
-                            <span class="stat-label">Đúng</span>
-                        </div>
-                        <div class="stat-item incorrect">
-                            <span class="stat-value" id="sim-result-incorrect">0</span>
-                            <span class="stat-label">Sai</span>
-                        </div>
-                        <div class="stat-item skipped">
-                            <span class="stat-value" id="sim-result-skipped">0</span>
-                            <span class="stat-label">Bỏ qua</span>
-                        </div>
-                    </div>
-
-                    <div class="result-time">
-                        <span class="time-icon">⏱️</span>
-                        <span>Thời gian làm bài: <strong id="sim-result-time">00:00</strong></span>
-                    </div>
-
-                    <div class="result-actions">
-                        <button class="action-btn" id="sim-review-btn">
-                            📝 Xem lại đáp án
-                        </button>
-                        <button class="action-btn primary" id="sim-retry-btn">
-                            🔄 Thi lại
-                        </button>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </main>
-
-    <!-- Result Modal -->
-    <div class="modal" id="result-modal">
-        <div class="modal-overlay"></div>
-        <div class="modal-content">
-            <div class="result-emoji" id="result-emoji">🎉</div>
-            <h2>Kết quả bài thi</h2>
-            <div class="result-score" id="result-score-display">0%</div>
-            <div class="result-detail" id="result-detail">
-                Đúng: 0 / 0 câu
-            </div>
-            <div class="result-message" id="result-message">
-                Xuất sắc!
-            </div>
-            <div class="result-actions">
-                <button class="action-btn" id="review-wrong-btn">📝 Ôn lại câu sai</button>
-                <button class="action-btn primary" id="modal-restart-btn">🔄 Làm lại</button>
             </div>
         </div>
-    </div>
+    </main>
 
-    <!-- Keyboard Shortcuts -->
-    <div class="keyboard-shortcuts">
-        ⌨️ <kbd>1-4</kbd> chọn đáp án | <kbd>Enter</kbd> tiếp tục | <kbd>H</kbd> gợi ý
-    </div>
-
-    <script src="data.js"></script>
-    <script src="app.js"></script>
+    <script src="js/common.js"></script>
+    <script src="js/dashboard.js"></script>
 </body>
 
 </html>

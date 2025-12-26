@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="vi" data-theme="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Học Tập Cùng AI | Triết Học Mác-Lênin</title>
+    <meta name="description" content="Học tập Triết học Mác-Lênin cùng AI">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/common.css">
+    <link rel="stylesheet" href="css/study.css">
+</head>
+
+<body>
+    <!-- Header Navigation -->
+    <header class="main-header">
+        <div class="header-content">
+            <a href="index.html" class="logo">📚 Triết Học Mác-Lênin</a>
+            <nav class="main-nav">
+                <a href="index.html" class="nav-tab">
+                    <span class="tab-icon">🏠</span>
+                    <span class="tab-text">Trang chủ</span>
+                </a>
+                <a href="study.html" class="nav-tab active">
+                    <span class="tab-icon">🤖</span>
+                    <span class="tab-text">Học tập cùng AI</span>
+                </a>
+                <a href="flashcard.html" class="nav-tab">
+                    <span class="tab-icon">🎴</span>
+                    <span class="tab-text">Flashcard</span>
+                </a>
+                <a href="exam.html" class="nav-tab">
+                    <span class="tab-icon">📝</span>
+                    <span class="tab-text">Thi thử</span>
+                </a>
+                <a href="simulation.html" class="nav-tab">
+                    <span class="tab-icon">🎯</span>
+                    <span class="tab-text">Giả lập thi</span>
+                </a>
+            </nav>
+            <button class="theme-toggle" id="theme-toggle" title="Chuyển đổi giao diện">
+                <span class="theme-icon">🌙</span>
+            </button>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="container">
+            <div class="study-header">
+                <div class="header-left">
+                    <h2>🤖 Học Tập Cùng AI</h2>
+                    <span class="ai-badge">✨ Model: Gemini 3.0 Pro</span>
+                </div>
+                <div class="study-controls">
+                    <div class="study-tabs">
+                        <button class="study-tab active" data-chapter="1">Chương 1</button>
+                        <button class="study-tab" data-chapter="2">Chương 2</button>
+                        <button class="study-tab" data-chapter="3">Chương 3</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="topics-container" id="topics-container">
+                <p class="loading-text">Đang tải nội dung...</p>
+            </div>
+        </div>
+    </main>
+
+    <script src="js/common.js"></script>
+    <script src="js/study.js"></script>
+</body>
+
+</html>
