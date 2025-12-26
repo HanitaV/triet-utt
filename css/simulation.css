@@ -1,9 +1,22 @@
-/* ===== Simulation Styles ===== */
+/* ===== Simulation Styles - Enhanced ===== */
 
 /* Config Screen */
 .simulation-config {
-    max-width: 600px;
+    max-width: 650px;
     margin: 0 auto;
+    animation: fadeIn 0.4s ease;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
 .simulation-header {
@@ -12,15 +25,26 @@
 }
 
 .simulation-header h2 {
-    font-size: 1.8rem;
-    margin-bottom: 8px;
+    font-size: 2rem;
+    font-weight: 800;
+    margin-bottom: 12px;
+    background: var(--accent-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.simulation-header .subtitle {
+    color: var(--text-secondary);
+    font-size: 1.05rem;
 }
 
 .config-card {
     background: var(--bg-card);
     border: 1px solid var(--border);
     border-radius: var(--radius);
-    padding: 28px;
+    padding: 32px;
+    box-shadow: var(--shadow-sm);
 }
 
 .config-section {

@@ -271,6 +271,12 @@ function updateExamStats() {
     if (examCorrectSpan) examCorrectSpan.textContent = correct;
     if (examIncorrectSpan) examIncorrectSpan.textContent = incorrect;
     if (examScoreSpan) examScoreSpan.textContent = correct * 10;
+
+    // Also update progress section stats
+    const correctStat = document.getElementById('exam-correct-stat');
+    const incorrectStat = document.getElementById('exam-incorrect-stat');
+    if (correctStat) correctStat.textContent = correct;
+    if (incorrectStat) incorrectStat.textContent = incorrect;
 }
 
 function selectExamAnswer(letter) {
