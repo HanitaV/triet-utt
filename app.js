@@ -32,6 +32,7 @@ class QuizApp {
         this.initElements();
         this.initEventListeners();
         await this.loadAllData();
+        this.initStudyTab();
         this.updateDashboard();
     }
 
@@ -57,9 +58,7 @@ class QuizApp {
         this.startAllBtn = document.getElementById('start-all-btn');
 
         // Study
-        this.studyChapterSelect = document.getElementById('study-chapter-select');
-        this.studyTabs = document.querySelectorAll('.study-tab');
-        this.studyViews = document.querySelectorAll('.study-view');
+        // Nội dung sẽ được thêm vào đây
 
         // Flashcard
         this.flashcardChapterSelect = document.getElementById('flashcard-chapter-select');
@@ -120,12 +119,8 @@ class QuizApp {
 
         this.startAllBtn?.addEventListener('click', () => this.startExam('all'));
 
-        // Study tabs
-        this.studyTabs.forEach(tab => {
-            tab.addEventListener('click', () => this.switchStudyTab(tab.dataset.study));
-        });
-
-        this.studyChapterSelect?.addEventListener('change', () => this.loadStudyContent());
+        // Study tab
+        // Nội dung sẽ được thêm vào đây
 
         // Flashcard
         this.flashcard?.addEventListener('click', () => this.flipFlashcard());
@@ -170,31 +165,45 @@ class QuizApp {
 
         for (const file of files) {
             try {
-                const response = await fetch(file);
-                if (response.ok) {
-                    const data = await response.json();
-                    this.allData.chapters.push({
-                        file,
-                        chapter: data.chapter,
-                        questions: data.questions
-                    });
-                    this.allData.questions.push(...data.questions.map(q => ({
-                        ...q,
-                        chapter: data.chapter,
-                        file
-                    })));
+                let data;
+                // Ưu tiên lấy từ biến toàn cục (cho môi trường local file://)
+                if (window.QUIZ_DATA && window.QUIZ_DATA[file]) {
+                    data = window.QUIZ_DATA[file];
+                } else {
+                    const response = await fetch(file);
+                    if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+                    data = await response.json();
                 }
-            } catch (e) {
-                console.error(`Error loading ${file}:`, e);
+
+                this.allData.chapters.push({
+                    file,
+                    chapter: typeof data.chapter === 'string' ? parseInt(data.chapter.match(/\d+/)[0]) : data.chapter,
+                    questions: data.questions
+                });
+
+                // Gộp tất cả câu hỏi vào mảng chung để tính tổng
+                this.allData.questions.push(...data.questions.map(q => ({
+                    ...q,
+                    chapter: typeof data.chapter === 'string' ? parseInt(data.chapter.match(/\d+/)[0]) : data.chapter,
+                    file
+                })));
+                this.allData.totalQuestions += data.questions.length;
+
+            } catch (error) {
+                console.error(`Lỗi khi tải dữ liệu ${file}:`, error);
+                // Hiển thị thông báo lỗi trên UI nếu cần
             }
         }
+
+        // Cập nhật UI dashboard sau khi tải xong
+        this.updateDashboard();
     }
 
     updateDashboard() {
         // Update chapter counts
         const counts = { 1: 0, 2: 0, 3: 0 };
         this.allData.chapters.forEach((ch, i) => {
-            counts[i + 1] = ch.questions.length;
+            counts[ch.chapter] = ch.questions.length; // Use ch.chapter directly
         });
 
         document.getElementById('ch1-count').textContent = `${counts[1]} câu`;
@@ -234,201 +243,204 @@ class QuizApp {
         }
     }
 
-    // ===== SMART STUDY =====
-    switchStudyTab(viewName) {
-        this.studyTabs.forEach(tab => {
-            tab.classList.toggle('active', tab.dataset.study === viewName);
-        });
+    // ===== STUDY TAB DATA =====
+    studyTopics = [
+        // CHƯƠNG 1
+        {
+            chapter: 1,
+            title: "Khái luận về Triết học",
+            videoId: "pI4Ofd4nWkU", // Triết học 123 (Bài giảng chung)
+            theory: "Triết học là hệ thống tri thức lý luận chung nhất của con người về thế giới, về vị trí, vai trò của con người trong thế giới ấy. Triết học ra đời vào khoảng từ thế kỷ VIII đến thế kỷ VI TCN tại các trung tâm văn minh lớn của nhân loại thời Cổ đại (Ấn Độ, Trung Quốc, Hy Lạp).",
+            tips: ["🧠 <b>\"8-6 Ấn Trung Hy\"</b>: TK VIII-VI TCN, 3 cái nôi văn minh.", "📌 <b>Nguồn gốc:</b> Nhận thức (tư duy trừu tượng) + Xã hội (lao động trí óc tách khỏi chân tay)."],
+            keywords: ["triết học ra đời", "thế kỷ", "ấn độ", "trung quốc", "hy lạp", "khái niệm triết học", "tri thức", "điều kiện", "nguồn gốc"]
+        },
+        {
+            chapter: 1,
+            title: "Vấn đề cơ bản của Triết học",
+            videoId: "pI4Ofd4nWkU", // Triết học 123
+            theory: "Ph.Ăngghen viết: “Vấn đề cơ bản lớn của mọi triết học, đặc biệt là của triết học hiện đại, là vấn đề quan hệ giữa tư duy với tồn tại”. Vấn đề này có hai mặt: 1. Mặt thứ nhất (Bản thể luận): Ý thức hay vật chất có trước? 2. Mặt thứ hai (Nhận thức luận): Con người có khả năng nhận thức thế giới không?",
+            tips: ["🧠 <b>Mặt 1 (Bản thể luận):</b> Vật chất hay Ý thức có trước? → Phân định DV/DT.", "🧠 <b>Mặt 2 (Nhận thức luận):</b> Con người có nhận thức được thế giới không? → Phân định Khả tri/Bất khả tri."],
+            keywords: ["vấn đề cơ bản", "vật chất", "ý thức", "bản thể luận", "nhận thức luận", "mặt thứ nhất", "mặt thứ hai"]
+        },
+        {
+            chapter: 1,
+            title: "Triết học Mác - Lênin",
+            videoId: "pI4Ofd4nWkU", // Fallback to same video series
+            theory: "Ra đời những năm 40 thế kỷ XIX. C.Mác và Ph.Ăngghen sáng lập, V.I.Lênin phát triển. Kế thừa tinh hoa của Triết học cổ điển Đức, Kinh tế chính trị cổ điển Anh, và CNXH không tưởng Pháp.",
+            tips: ["🧠 <b>Mác + Ăngghen sáng lập → Lênin phát triển</b>.", "📌 <b>Tiền đề lý luận:</b> Đức (Triết) - Anh (Kinh tế) - Pháp (CNXH)."],
+            keywords: ["triết học mác", "lênin", "sáng lập", "phát triển", "nguồn gốc", "tiền đề", "đức", "anh", "pháp", "1840"]
+        },
+        // CHƯƠNG 2
+        {
+            chapter: 2,
+            title: "Vật chất và Ý thức",
+            videoId: "nlmtgzotDBc", // NNHL: Vật chất & Ý thức
+            theory: "<b>Định nghĩa Lênin:</b> “Vật chất là một phạm trù triết học dùng để chỉ thực tại khách quan được đem lại cho con người trong cảm giác, được cảm giác của chúng ta chép lại, chụp lại, phản ánh, và tồn tại không lệ thuộc vào cảm giác”.<br><b>Ý thức:</b> “Là sự phản ánh năng động, sáng tạo thế giới khách quan vào bộ não người, là hình ảnh chủ quan của thế giới khách quan.”",
+            tips: ["🧠 <b>Vật chất:</b> Thực tại khách quan (quan trọng nhất) + Cảm giác chép lại.", "🧠 <b>Mối quan hệ:</b> VC quyết định YT, YT tác động lại VC (năng động, sáng tạo)."],
+            keywords: ["định nghĩa vật chất", "lênin", "phạm trù", "thực tại khách quan", "cảm giác", "phản ánh", "ý thức", "nguồn gốc", "bản chất", "mối quan hệ"]
+        },
+        {
+            chapter: 2,
+            title: "Hai nguyên lý của Phép biện chứng",
+            videoId: "S5_rA3wLzhA", // Triết học 123
+            theory: "<b>Nguyên lý về mối liên hệ phổ biến:</b> Các sự vật, hiện tượng luôn có sự liên hệ, tác động qua lại lẫn nhau.<br><b>Nguyên lý về sự phát triển:</b> Là quá trình vận động từ thấp đến cao, từ đơn giản đến phức tạp, từ kém hoàn thiện đến hoàn thiện hơn.",
+            tips: ["🧠 <b>Liên hệ:</b> Mọi sự vật đều dính dáng đến nhau.", "🧠 <b>Phát triển:</b> Đi lên theo đường xoắn ốc (xoáy trôn ốc)."],
+            keywords: ["nguyên lý", "mối liên hệ", "phổ biến", "phát triển", "vận động", "biện chứng", "khách quan"]
+        },
+        {
+            chapter: 2,
+            title: "Các quy luật cơ bản của PBC duy vật",
+            videoId: "y_F-w6q_F54", // Triết học 123
+            theory: "1. <b>Lượng - Chất:</b> Sự thay đổi về lượng dẫn đến sự thay đổi về chất (nhảy vọt).<br>2. <b>Mâu thuẫn:</b> Sự thống nhất và đấu tranh của các mặt đối lập là nguồn gốc của sự phát triển.<br>3. <b>Phủ định của phủ định:</b> Cái mới ra đời thay thế cái cũ nhưng kế thừa hạt nhân hợp lý.",
+            tips: ["🧠 <b>Lượng đổi → Chất đổi</b> (tại điểm nút).", "🧠 <b>Mâu thuẫn:</b> Động lực phát triển.", "🧠 <b>Phủ định:</b> Kế thừa, đường xoắn ốc."],
+            keywords: ["quy luật", "lượng chất", "mâu thuẫn", "đối lập", "phủ định", "bước nhảy", "điểm nút", "kế thừa"]
+        },
+        // CHƯƠNG 3
+        {
+            chapter: 3,
+            title: "Lực lượng sản xuất và Quan hệ sản xuất",
+            videoId: "d1KpG4q1q7M", // NNHL: LLSX & QHSX
+            theory: "<b>LLSX:</b> “Sự kết hợp giữa lao động sống với lao động vật hóa tạo ra sức sản xuất...”.<br><b>QHSX:</b> “Tổng hợp các quan hệ kinh tế - vật chất giữa người với người trong quá trình sản xuất vật chất”.<br><b>Quy luật:</b> LLSX quyết định QHSX; QHSX tác động trở lại LLSX.",
+            tips: ["🧠 <b>LLSX = Nội dung (động nhất)</b>; <b>QHSX = Hình thức (ổn định hơn).</b>", "📌 LLSX quyết định → QHSX phù hợp."],
+            keywords: ["lực lượng sản xuất", "quan hệ sản xuất", "người lao động", "tư liệu", "sở hữu", "quy luật", "phù hợp", "kìm hãm", "thúc đẩy"]
+        },
+        {
+            chapter: 3,
+            title: "Cơ sở hạ tầng và Kiến trúc thượng tầng",
+            videoId: "d1KpG4q1q7M", // Reuse LLSX/Context video
+            theory: "<b>Cơ sở hạ tầng (CSHT):</b> Toàn bộ những QHSX hợp thành cơ cấu kinh tế của xã hội.<br><b>Kiến trúc thượng tầng (KTTT):</b> Hệ thống quan điểm chính trị, pháp quyền, đạo đức... và các thiết chế xã hội tương ứng (Nhà nước, Đảng...).<br><b>Quy luật:</b> CSHT quyết định KTTT.",
+            tips: ["🧠 <b>CSHT = Kinh tế</b>; <b>KTTT = Chính trị - Xã hội</b>.", "📌 Kinh tế quyết định chính trị."],
+            keywords: ["cơ sở hạ tầng", "kiến trúc thượng tầng", "quan hệ sản xuất", "kinh tế", "chính trị", "nhà nước", "quyết định"]
+        },
+        {
+            chapter: 3,
+            title: "Hình thái kinh tế - xã hội",
+            videoId: "d1KpG4q1q7M", // Fallback
+            theory: "Sự phát triển của các hình thái kinh tế - xã hội là một quá trình lịch sử - tự nhiên. Cấu trúc HT KT-XH gồm: Lực lượng sản xuất + Quan hệ sản xuất (Cơ sở hạ tầng) + Kiến trúc thượng tầng.",
+            tips: ["🧠 <b>Lịch sử - Tự nhiên:</b> Tuân theo quy luật khách quan, không phụ thuộc ý muốn chủ quan.", "📌 5 hình thái: Công xã → Nô lệ → Phong kiến → Tư bản → Cộng sản."],
+            keywords: ["hình thái kinh tế", "xã hội", "lịch sử tự nhiên", "cấu trúc", "năm hình thái", "cộng sản"]
+        }
+    ];
 
-        this.studyViews.forEach(view => {
-            view.classList.toggle('active', view.id === `${viewName}-view`);
-        });
+    // ===== STUDY TAB METHODS =====
+    initStudyTab() {
+        this.studyChapterSelect = document.getElementById('study-chapter-select');
+        this.topicsContainer = document.getElementById('topics-container');
 
-        this.loadStudyContent();
+        this.studyChapterSelect?.addEventListener('change', () => this.renderStudyTopics());
+    }
+
+    renderStudyTopics() {
+        const chapter = this.studyChapterSelect?.value || 'all';
+        const topics = chapter === 'all'
+            ? this.studyTopics
+            : this.studyTopics.filter(t => t.chapter === parseInt(chapter));
+
+        if (!this.topicsContainer) return;
+
+        this.topicsContainer.innerHTML = topics.map((topic, idx) => {
+            // Tìm câu hỏi liên quan dựa trên keywords
+            const relatedQuestions = this.findRelatedQuestions(topic);
+
+            return `
+                <div class="topic-card" data-chapter="${topic.chapter}">
+                    <div class="topic-header">
+                        <div class="header-left">
+                            <span class="topic-chapter">Chương ${topic.chapter}</span>
+                            <h3 class="topic-title">${topic.title}</h3>
+                        </div>
+                    </div>
+
+                    ${topic.videoId ? `
+                    <div class="topic-video">
+                        <div class="video-container">
+                            <iframe src="https://www.youtube.com/embed/${topic.videoId}" title="${topic.title}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    ` : ''}
+                    
+                    <div class="topic-theory">
+                        <h4>📚 Lý thuyết</h4>
+                        <p>${topic.theory}</p>
+                    </div>
+                    
+                    <div class="topic-tips">
+                        <h4>💡 Mẹo ghi nhớ</h4>
+                        <ul>
+                            ${topic.tips.map(tip => `<li>${tip}</li>`).join('')}
+                        </ul>
+                    </div>
+                    
+                    <div class="topic-questions">
+                        <h4>📝 Câu hỏi liên quan (${relatedQuestions.length} câu)</h4>
+                        ${relatedQuestions.length > 0 ? `
+                            <div class="questions-preview">
+                                ${relatedQuestions.slice(0, 3).map(q => `
+                                    <div class="question-preview-item">
+                                        <span class="q-num">Câu ${q.question}</span>
+                                        <span class="q-text">${q.text.substring(0, 80)}${q.text.length > 80 ? '...' : ''}</span>
+                                    </div>
+                                `).join('')}
+                                ${relatedQuestions.length > 3 ? `<p class="more-questions">+${relatedQuestions.length - 3} câu khác</p>` : ''}
+                            </div>
+                            <button class="practice-btn" data-topic-idx="${idx}">
+                                🎯 Luyện tập ${relatedQuestions.length} câu này
+                            </button>
+                        ` : '<p class="no-questions">Không tìm thấy câu hỏi liên quan</p>'}
+                    </div>
+                </div>
+            `;
+        }).join('');
+
+        // Add event listeners for practice buttons
+        this.topicsContainer.querySelectorAll('.practice-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                const topicIdx = parseInt(e.target.dataset.topicIdx);
+                this.startTopicPractice(topicIdx);
+            });
+        });
+    }
+
+    findRelatedQuestions(topic) {
+        const chapterFile = `exam/chuong_${topic.chapter}.json`;
+        const chapterData = this.allData.chapters.find(c => c.file === chapterFile);
+
+        if (!chapterData) return [];
+
+        return chapterData.questions.filter(q => {
+            const questionText = (q.text + ' ' + q.options.map(o => o.text).join(' ')).toLowerCase();
+            return topic.keywords.some(keyword => questionText.includes(keyword.toLowerCase()));
+        });
+    }
+
+    startTopicPractice(topicIdx) {
+        const topic = this.studyTopics[topicIdx];
+        if (!topic) return;
+
+        const relatedQuestions = this.findRelatedQuestions(topic);
+        if (relatedQuestions.length === 0) return;
+
+        // Set exam questions to related questions only
+        this.examQuestions = [...relatedQuestions];
+        if (this.shuffleAnswers) {
+            this.shuffleArray(this.examQuestions);
+        }
+        this.examIndex = 0;
+        this.examAnswers = {};
+        this.examScore = 0;
+        this.wrongAnswers = [];
+        this.waitingForContinue = false;
+
+        // Switch to exam tab
+        this.switchTab('exam');
+        this.renderExamQuestion();
+        this.updateExamStats();
     }
 
     loadStudyContent() {
-        const activeView = document.querySelector('.study-view.active');
-        if (!activeView) return;
-
-        const viewId = activeView.id;
-        const chapter = this.studyChapterSelect?.value || 'all';
-        const questions = this.getQuestionsByChapter(chapter);
-
-        if (viewId === 'timeline-view') {
-            this.generateTimeline(questions);
-        } else if (viewId === 'compare-view') {
-            this.generateComparisons(questions);
-        } else if (viewId === 'keywords-view') {
-            this.generateKeywords(questions);
-        }
+        this.renderStudyTopics();
     }
 
-    getQuestionsByChapter(chapter) {
-        if (chapter === 'all') {
-            return this.allData.questions;
-        }
-        const ch = this.allData.chapters.find(c => c.file === chapter);
-        return ch ? ch.questions : [];
-    }
-
-    generateTimeline(questions) {
-        const container = document.getElementById('timeline-container');
-        const timePatterns = [
-            /thế kỷ\s*(\w+)/gi,
-            /năm\s*(\d{4})/gi,
-            /thập niên\s*(\d+)/gi,
-            /thời kỳ\s*([^,\.]+)/gi,
-            /giai đoạn\s*([^,\.]+)/gi,
-            /cuối thế kỷ\s*(\w+)/gi,
-            /đầu thế kỷ\s*(\w+)/gi,
-            /giữa thế kỷ\s*(\w+)/gi
-        ];
-
-        const timelineItems = [];
-
-        questions.forEach(q => {
-            const fullText = q.text + ' ' + q.options.map(o => o.text).join(' ');
-
-            timePatterns.forEach(pattern => {
-                let match;
-                const regex = new RegExp(pattern.source, pattern.flags);
-                while ((match = regex.exec(fullText)) !== null) {
-                    timelineItems.push({
-                        date: match[0],
-                        text: q.text.substring(0, 150) + (q.text.length > 150 ? '...' : ''),
-                        questionNum: q.question
-                    });
-                }
-            });
-        });
-
-        // Remove duplicates
-        const uniqueItems = timelineItems.filter((item, index, self) =>
-            index === self.findIndex(t => t.date === item.date && t.questionNum === item.questionNum)
-        );
-
-        if (uniqueItems.length === 0) {
-            container.innerHTML = '<p class="loading-text">Không tìm thấy mốc thời gian trong dữ liệu.</p>';
-            return;
-        }
-
-        container.innerHTML = uniqueItems.slice(0, 20).map(item => `
-            <div class="timeline-item">
-                <span class="timeline-date">${item.date}</span>
-                <p class="timeline-text">${item.text}</p>
-            </div>
-        `).join('');
-    }
-
-    generateComparisons(questions) {
-        const container = document.getElementById('compare-container');
-        const comparePairs = [
-            { left: 'duy vật', right: 'duy tâm', title: 'Duy vật vs Duy tâm' },
-            { left: 'biện chứng', right: 'siêu hình', title: 'Biện chứng vs Siêu hình' },
-            { left: 'vật chất', right: 'ý thức', title: 'Vật chất vs Ý thức' },
-            { left: 'lực lượng sản xuất', right: 'quan hệ sản xuất', title: 'LLSX vs QHSX' },
-            { left: 'cơ sở hạ tầng', right: 'kiến trúc thượng tầng', title: 'CSHT vs KTTT' },
-            { left: 'chất', right: 'lượng', title: 'Chất vs Lượng' }
-        ];
-
-        const tables = [];
-
-        comparePairs.forEach(pair => {
-            const leftQuestions = questions.filter(q =>
-                q.text.toLowerCase().includes(pair.left) ||
-                q.options.some(o => o.text.toLowerCase().includes(pair.left))
-            );
-            const rightQuestions = questions.filter(q =>
-                q.text.toLowerCase().includes(pair.right) ||
-                q.options.some(o => o.text.toLowerCase().includes(pair.right))
-            );
-
-            if (leftQuestions.length > 0 || rightQuestions.length > 0) {
-                const rows = [];
-                const maxRows = Math.min(3, Math.max(leftQuestions.length, rightQuestions.length));
-
-                for (let i = 0; i < maxRows; i++) {
-                    const leftQ = leftQuestions[i];
-                    const rightQ = rightQuestions[i];
-
-                    const leftAnswer = leftQ ? leftQ.options.find(o => o.letter === leftQ.correct_answer)?.text : '';
-                    const rightAnswer = rightQ ? rightQ.options.find(o => o.letter === rightQ.correct_answer)?.text : '';
-
-                    rows.push({ left: leftAnswer || '-', right: rightAnswer || '-' });
-                }
-
-                if (rows.length > 0) {
-                    tables.push({ title: pair.title, rows, leftLabel: pair.left, rightLabel: pair.right });
-                }
-            }
-        });
-
-        if (tables.length === 0) {
-            container.innerHTML = '<p class="loading-text">Không tìm thấy cặp khái niệm đối lập.</p>';
-            return;
-        }
-
-        container.innerHTML = tables.map(table => `
-            <div class="compare-table">
-                <div class="compare-header">
-                    <span>${table.leftLabel.toUpperCase()}</span>
-                    <span>${table.rightLabel.toUpperCase()}</span>
-                </div>
-                ${table.rows.map(row => `
-                    <div class="compare-row">
-                        <div class="compare-cell">${row.left}</div>
-                        <div class="compare-cell">${row.right}</div>
-                    </div>
-                `).join('')}
-            </div>
-        `).join('');
-    }
-
-    generateKeywords(questions) {
-        const container = document.getElementById('keywords-container');
-        const keywordPatterns = [
-            'vật chất', 'ý thức', 'biện chứng', 'siêu hình', 'duy vật', 'duy tâm',
-            'mâu thuẫn', 'thống nhất', 'đấu tranh', 'phủ định', 'chất', 'lượng',
-            'nguyên nhân', 'kết quả', 'tất nhiên', 'ngẫu nhiên', 'nội dung', 'hình thức',
-            'bản chất', 'hiện tượng', 'khả năng', 'hiện thực', 'cái chung', 'cái riêng',
-            'thực tiễn', 'nhận thức', 'chân lý', 'sai lầm', 'tuyệt đối', 'tương đối',
-            'lực lượng sản xuất', 'quan hệ sản xuất', 'phương thức sản xuất',
-            'cơ sở hạ tầng', 'kiến trúc thượng tầng', 'hình thái kinh tế-xã hội',
-            'giai cấp', 'đấu tranh giai cấp', 'nhà nước', 'cách mạng xã hội'
-        ];
-
-        const keywordCounts = {};
-        const allText = questions.map(q => q.text + ' ' + q.options.map(o => o.text).join(' ')).join(' ').toLowerCase();
-
-        keywordPatterns.forEach(kw => {
-            const regex = new RegExp(kw, 'gi');
-            const matches = allText.match(regex);
-            if (matches) {
-                keywordCounts[kw] = matches.length;
-            }
-        });
-
-        const sortedKeywords = Object.entries(keywordCounts)
-            .sort((a, b) => b[1] - a[1])
-            .slice(0, 30);
-
-        if (sortedKeywords.length === 0) {
-            container.innerHTML = '<p class="loading-text">Không tìm thấy từ khóa.</p>';
-            return;
-        }
-
-        const maxCount = sortedKeywords[0][1];
-
-        container.innerHTML = `
-            <div class="keywords-cloud">
-                ${sortedKeywords.map(([kw, count]) => {
-            const size = count / maxCount > 0.5 ? 'large' : '';
-            return `<span class="keyword-tag ${size}" data-count="${count}">${kw} (${count})</span>`;
-        }).join('')}
-            </div>
-        `;
-    }
 
     // ===== FLASHCARD =====
     loadFlashcards() {
@@ -540,7 +552,10 @@ class QuizApp {
             return;
         }
 
-        this.shuffleArray(this.examQuestions);
+        // Chỉ trộn đề khi toggle được bật
+        if (this.shuffleAnswers) {
+            this.shuffleArray(this.examQuestions);
+        }
         this.examIndex = 0;
         this.examAnswers = {};
         this.examScore = 0;
