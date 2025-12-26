@@ -356,16 +356,19 @@ class QuizApp {
     }
 
     findRelatedQuestions(topic, chapter) {
-        // Need to check which files to look in based on keyword or brute force all
-        // Or assume topic has chapter property inherited from section?
-        // Let's search ALL chapters for better coverage or deduce chapter from context if needed.
-        // For simplicity and coverage: Search all loaded questions.
-
         let questions = this.allData.questions;
+
+        // 1. Filter by Chapter
         if (chapter) {
             questions = questions.filter(q => q.chapter === parseInt(chapter));
         }
 
+        // 2. Filter by IDs (Priority) if available
+        if (topic.questionIds && topic.questionIds.length > 0) {
+            return questions.filter(q => topic.questionIds.includes(q.question));
+        }
+
+        // 3. Fallback to Keywords (Legacy)
         return questions.filter(q => {
             const questionText = (q.text + ' ' + q.options.map(o => o.text).join(' ')).toLowerCase();
             return topic.keywords.some(keyword => questionText.includes(keyword.toLowerCase()));
