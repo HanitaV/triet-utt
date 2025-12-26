@@ -31,7 +31,58 @@
             {
                 "title": "Khái quát về Triết Học Mác-Lê Nin Và Phép Biện Chứng Duy Vật",
                 "videoId": "pI4Ofd4nWkU",
-                "description": "Giải thích hệ thống tri thức lý luận chung nhất, vấn đề cơ bản của triết học và phân biệt các thế giới quan"
+                "description": "Giải thích hệ thống tri thức lý luận chung nhất, vấn đề cơ bản của triết học và phân biệt các thế giới quan",
+                "questionIds": {
+                    "1": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11,
+                        12,
+                        13,
+                        14,
+                        15,
+                        16,
+                        17,
+                        18,
+                        19,
+                        20,
+                        21,
+                        22,
+                        23,
+                        24,
+                        25,
+                        26,
+                        27,
+                        28,
+                        29,
+                        30,
+                        31,
+                        32,
+                        33,
+                        34,
+                        35,
+                        36,
+                        37,
+                        38,
+                        39,
+                        40,
+                        41,
+                        42,
+                        43,
+                        44,
+                        45,
+                        46,
+                        47
+                    ]
+                }
             }
         ],
         "questionIds": {
@@ -120,7 +171,78 @@
             {
                 "title": "Vật Chất Và Ý Thức - Triết Học Mác-Lê Nin | Bảo Đảm Dễ Hiểu",
                 "videoId": "nlmtgzotDBc",
-                "description": "Phân tích định nghĩa vật chất là thực tại khách quan, bản chất của ý thức và vai trò quyết định của vật chất đối với ý thức"
+                "description": "Phân tích định nghĩa vật chất là thực tại khách quan, bản chất của ý thức và vai trò quyết định của vật chất đối với ý thức",
+                "questionIds": {
+                    "2": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11,
+                        12,
+                        13,
+                        14,
+                        15,
+                        16,
+                        17,
+                        18,
+                        19,
+                        20,
+                        21,
+                        22,
+                        23,
+                        24,
+                        25,
+                        26,
+                        27,
+                        28,
+                        29,
+                        30,
+                        31,
+                        32,
+                        33,
+                        34,
+                        35,
+                        36,
+                        37,
+                        38,
+                        39,
+                        40,
+                        41,
+                        42,
+                        43,
+                        44,
+                        45,
+                        46,
+                        47,
+                        48,
+                        49,
+                        50,
+                        51,
+                        52,
+                        53,
+                        54,
+                        55,
+                        56,
+                        57,
+                        58,
+                        59,
+                        60,
+                        61,
+                        62,
+                        63,
+                        64,
+                        65,
+                        66,
+                        67
+                    ]
+                }
             }
         ],
         "questionIds": {
@@ -226,12 +348,39 @@
             {
                 "title": "Nguyên Lý Về Mối Liên Hệ Phổ Biến - Triết Học Mác-Lê Nin",
                 "videoId": "JmBGkW6vhZs",
-                "description": "Trình bày tính khách quan, phổ biến của các mối liên hệ"
+                "description": "Trình bày tính khách quan, phổ biến của các mối liên hệ",
+                "questionIds": {
+                    "2": [
+                        68,
+                        69,
+                        70,
+                        71,
+                        72,
+                        73,
+                        74,
+                        75,
+                        76,
+                        77
+                    ]
+                }
             },
             {
                 "title": "Nguyên Lý Về Sự Phát Triển - Triết Học Mác-Lê Nin",
                 "videoId": "JqgBTk93tNs",
-                "description": "Khuynh hướng vận động đi lên theo hình xoắn ốc"
+                "description": "Khuynh hướng vận động đi lên theo hình xoắn ốc",
+                "questionIds": {
+                    "2": [
+                        78,
+                        79,
+                        80,
+                        81,
+                        82,
+                        83,
+                        84,
+                        85,
+                        86
+                    ]
+                }
             }
         ],
         "questionIds": {
@@ -290,17 +439,60 @@
             {
                 "title": "Quy Luật Lượng Chất - Triết Học Mác-Lê Nin | Có Ví Dụ Dễ Hiểu",
                 "videoId": "I7aj5tjiqA4",
-                "description": "Giải thích cách thức phát triển: tích lũy lượng dẫn đến thay đổi về chất"
+                "description": "Giải thích cách thức phát triển: tích lũy lượng dẫn đến thay đổi về chất",
+                "questionIds": {
+                    "2": [
+                        114,
+                        115,
+                        116,
+                        117,
+                        118,
+                        119,
+                        120,
+                        121,
+                        122,
+                        123,
+                        124
+                    ]
+                }
             },
             {
                 "title": "Quy Luật Thống Nhất Và Đấu Tranh Giữa Các Mặt Đối Lập",
                 "videoId": "Oln9jtLVUw0",
-                "description": "Nguồn gốc, động lực của sự phát triển là mâu thuẫn"
+                "description": "Nguồn gốc, động lực của sự phát triển là mâu thuẫn",
+                "questionIds": {
+                    "2": [
+                        125,
+                        126,
+                        127,
+                        128,
+                        129,
+                        130,
+                        131,
+                        132,
+                        133,
+                        134,
+                        135
+                    ]
+                }
             },
             {
                 "title": "Quy Luật Phủ Định Của Phủ Định - Triết Học Mác-Lê Nin",
                 "videoId": "MTDE40AaBSM",
-                "description": "Khuynh hướng phát triển: kế thừa cái cũ ở trình độ cao hơn"
+                "description": "Khuynh hướng phát triển: kế thừa cái cũ ở trình độ cao hơn",
+                "questionIds": {
+                    "2": [
+                        136,
+                        137,
+                        138,
+                        139,
+                        140,
+                        141,
+                        142,
+                        143,
+                        144
+                    ]
+                }
             }
         ],
         "questionIds": {
@@ -375,32 +567,83 @@
             {
                 "title": "Phạm Trù Cái Riêng Và Cái Chung - Triết Học Mác-Lê Nin",
                 "videoId": "ig4Sx3ZGLiU",
-                "description": "Cái chung tồn tại trong cái riêng"
+                "description": "Cái chung tồn tại trong cái riêng",
+                "questionIds": {
+                    "2": [
+                        87,
+                        88,
+                        89,
+                        90,
+                        91
+                    ]
+                }
             },
             {
                 "title": "Phạm Trù Nguyên Nhân Và Kết Quả - Triết Học Mác-Lê Nin",
                 "videoId": "wcXvDbS5Ulo",
-                "description": "Mối quan hệ nhân quả và sự chuyển hóa"
+                "description": "Mối quan hệ nhân quả và sự chuyển hóa",
+                "questionIds": {
+                    "2": [
+                        92,
+                        93,
+                        94,
+                        95,
+                        96
+                    ]
+                }
             },
             {
                 "title": "Phạm Trù Tất Nhiên Và Ngẫu Nhiên - Triết Học Mác-Lê Nin",
                 "videoId": "MqaCs9i67hY",
-                "description": "Tất nhiên và ngẫu nhiên trong sự vận động"
+                "description": "Tất nhiên và ngẫu nhiên trong sự vận động",
+                "questionIds": {
+                    "2": [
+                        97,
+                        98,
+                        99,
+                        100,
+                        101
+                    ]
+                }
             },
             {
                 "title": "Phạm Trù Nội Dung Và Hình Thức - Triết Học Mác-Lê Nin",
                 "videoId": "o7QYP-3IFUM",
-                "description": "Nội dung quyết định hình thức"
+                "description": "Nội dung quyết định hình thức",
+                "questionIds": {
+                    "2": [
+                        102,
+                        103,
+                        104,
+                        105,
+                        106
+                    ]
+                }
             },
             {
                 "title": "Phạm Trù Bản Chất Và Hiện Tượng - Triết Học Mác-Lê Nin",
                 "videoId": "kjaFeVLu8Tg",
-                "description": "Bản chất và hiện tượng trong nhận thức"
+                "description": "Bản chất và hiện tượng trong nhận thức",
+                "questionIds": {
+                    "2": [
+                        107,
+                        108,
+                        109,
+                        110,
+                        111
+                    ]
+                }
             },
             {
                 "title": "Phạm Trù Khả Năng Và Hiện Thực - Triết Học Mác-Lê Nin",
                 "videoId": "-E6p0Qeqtng",
-                "description": "Khả năng chuyển hóa thành hiện thực"
+                "description": "Khả năng chuyển hóa thành hiện thực",
+                "questionIds": {
+                    "2": [
+                        112,
+                        113
+                    ]
+                }
             }
         ],
         "questionIds": {
@@ -470,7 +713,17 @@
             {
                 "title": "Thực Tiễn Và Nhận Thức - Triết Học Mác-Lê Nin | Ngắn Gọn Dễ Hiểu",
                 "videoId": "6mVL9VQK2ck",
-                "description": "Thực tiễn là cơ sở, động lực, mục đích của nhận thức và tiêu chuẩn của chân lý"
+                "description": "Thực tiễn là cơ sở, động lực, mục đích của nhận thức và tiêu chuẩn của chân lý",
+                "questionIds": {
+                    "2": [
+                        145,
+                        146,
+                        147,
+                        148,
+                        149,
+                        150
+                    ]
+                }
             }
         ],
         "questionIds": {
@@ -514,22 +767,113 @@
             {
                 "title": "Phương Thức Sản Xuất Và Vai Trò Của Phương Thức Sản Xuất",
                 "videoId": "vJgIwGGyGe0",
-                "description": "Phương thức sản xuất là sự thống nhất giữa LLSX và QHSX"
+                "description": "Phương thức sản xuất là sự thống nhất giữa LLSX và QHSX",
+                "questionIds": {
+                    "3": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11,
+                        12,
+                        13,
+                        14,
+                        15,
+                        16,
+                        17,
+                        18,
+                        19
+                    ]
+                }
             },
             {
                 "title": "Lực Lượng Sản Xuất Và Quan Hệ Sản Xuất - Triết Học Mác-Lênin",
                 "videoId": "d1KpG4q1q7M",
-                "description": "Khái niệm và các yếu tố cấu thành"
+                "description": "Khái niệm và các yếu tố cấu thành",
+                "questionIds": {
+                    "3": [
+                        20,
+                        21,
+                        22,
+                        23,
+                        24,
+                        25,
+                        26,
+                        27,
+                        28,
+                        29,
+                        30,
+                        31,
+                        32,
+                        33,
+                        34,
+                        35,
+                        36,
+                        37,
+                        38
+                    ]
+                }
             },
             {
                 "title": "Mối Quan Hệ Giữa Lực Lượng Sản Xuất Và Quan Hệ Sản Xuất",
                 "videoId": "OO-DUnhvuU8",
-                "description": "Quy luật QHSX phù hợp với trình độ phát triển của LLSX"
+                "description": "Quy luật QHSX phù hợp với trình độ phát triển của LLSX",
+                "questionIds": {
+                    "3": [
+                        39,
+                        40,
+                        41,
+                        42,
+                        43,
+                        44,
+                        45,
+                        46,
+                        47,
+                        48,
+                        49,
+                        50,
+                        51,
+                        52,
+                        53,
+                        54,
+                        55,
+                        56,
+                        57
+                    ]
+                }
             },
             {
                 "title": "Cơ Sở Hạ Tầng Và Kiến Trúc Thượng Tầng - Triết Học Mác-Lênin",
                 "videoId": "V97efKwPGGo",
-                "description": "Mối quan hệ biện chứng giữa CSHT và KTTT"
+                "description": "Mối quan hệ biện chứng giữa CSHT và KTTT",
+                "questionIds": {
+                    "3": [
+                        58,
+                        59,
+                        60,
+                        61,
+                        62,
+                        63,
+                        64,
+                        65,
+                        66,
+                        67,
+                        68,
+                        69,
+                        70,
+                        71,
+                        72,
+                        73,
+                        74,
+                        75
+                    ]
+                }
             }
         ],
         "questionIds": {
@@ -645,7 +989,75 @@
             {
                 "title": "Giai Cấp Và Đấu Tranh Giai Cấp - Triết Học Mác-Lê Nin",
                 "videoId": "ZKpH7Qeg6EI",
-                "description": "Định nghĩa giai cấp, nguồn gốc kinh tế của giai cấp và vai trò của đấu tranh giai cấp"
+                "description": "Định nghĩa giai cấp, nguồn gốc kinh tế của giai cấp và vai trò của đấu tranh giai cấp",
+                "questionIds": {
+                    "3": [
+                        76,
+                        77,
+                        78,
+                        79,
+                        80,
+                        81,
+                        82,
+                        83,
+                        84,
+                        85,
+                        86,
+                        87,
+                        88,
+                        89,
+                        90,
+                        91,
+                        92,
+                        93,
+                        94,
+                        95,
+                        96,
+                        97,
+                        98,
+                        99,
+                        100,
+                        101,
+                        102,
+                        103,
+                        104,
+                        105,
+                        106,
+                        107,
+                        108,
+                        109,
+                        110,
+                        111,
+                        112,
+                        113,
+                        114,
+                        115,
+                        116,
+                        117,
+                        118,
+                        119,
+                        120,
+                        121,
+                        122,
+                        123,
+                        124,
+                        125,
+                        126,
+                        127,
+                        128,
+                        129,
+                        130,
+                        131,
+                        132,
+                        133,
+                        134,
+                        135,
+                        136,
+                        137,
+                        138,
+                        139
+                    ]
+                }
             }
         ],
         "questionIds": {

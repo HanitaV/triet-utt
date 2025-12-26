@@ -155,9 +155,11 @@ function renderTopicDetail(topic) {
 
     // Videos
     if (videoGrid && topic.videos) {
-        videoGrid.innerHTML = topic.videos.map((video, vIdx) => `
-            <div class="video-card" onclick="playVideo('${video.videoId}')">
-                <div class="video-thumbnail">
+        videoGrid.innerHTML = topic.videos.map((video, vIdx) => {
+            const videoQuestionCount = getVideoQuestionCount(video);
+            return `
+            <div class="video-card">
+                <div class="video-thumbnail" onclick="playVideo('${video.videoId}')">
                     <img src="https://img.youtube.com/vi/${video.videoId}/mqdefault.jpg" 
                          alt="${video.title}"
                          onerror="this.src='https://via.placeholder.com/320x180?text=Video'">
@@ -166,12 +168,18 @@ function renderTopicDetail(topic) {
                 <div class="video-card-info">
                     <div class="video-card-title">${video.title}</div>
                     <div class="video-card-meta">
-                        ${video.description ? `<span class="video-description">${video.description}</span>` : ''}
+                        <span class="video-question-badge">${videoQuestionCount} câu hỏi</span>
+                        ${videoQuestionCount > 0 ? `
+                            <button class="video-practice-btn" onclick="event.stopPropagation(); startVideoPractice(${currentTopicIdx}, ${vIdx})">
+                                Luyện tập
+                            </button>
+                        ` : ''}
                     </div>
                 </div>
             </div>
-        `).join('');
+        `}).join('');
     }
+
 
     // Theory
     if (theoryContent) {
@@ -213,6 +221,49 @@ function getTopicQuestionCount(topic) {
         count += ids.length;
     }
     return count;
+}
+
+function getVideoQuestionCount(video) {
+    if (!video.questionIds) return 0;
+    let count = 0;
+    for (const ids of Object.values(video.questionIds)) {
+        count += ids.length;
+    }
+    return count;
+}
+
+function findVideoQuestions(video) {
+    if (!quizData.questions || !video.questionIds) return [];
+
+    let questions = [];
+
+    for (const [chapter, ids] of Object.entries(video.questionIds)) {
+        const chapterNum = parseInt(chapter);
+        const chapterQuestions = quizData.questions.filter(q =>
+            q.chapter === chapterNum && ids.includes(q.question)
+        );
+        questions = questions.concat(chapterQuestions);
+    }
+
+    return questions;
+}
+
+function startVideoPractice(topicIdx, videoIdx) {
+    const topic = studyTopics[topicIdx];
+    if (!topic || !topic.videos || !topic.videos[videoIdx]) return;
+
+    const video = topic.videos[videoIdx];
+    const relatedQuestions = findVideoQuestions(video);
+
+    if (relatedQuestions.length === 0) {
+        alert('Không có câu hỏi liên quan đến video này.');
+        return;
+    }
+
+    // Store questions in sessionStorage and redirect to exam
+    sessionStorage.setItem('practiceQuestions', JSON.stringify(relatedQuestions));
+    sessionStorage.setItem('practiceTopicName', video.title);
+    window.location.href = 'exam.html?practice=true';
 }
 
 function findRelatedQuestions(topic) {

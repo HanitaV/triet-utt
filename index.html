@@ -4,9 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ôn Thi Triết Học Mác-Lênin | Trang chủ</title>
+    <title>Ôn Thi Triết Học Mác-Lênin</title>
     <meta name="description"
-        content="Ứng dụng ôn thi trắc nghiệm Triết học Mác-Lênin - Chương 1, 2, 3. Flashcard, Timeline, So sánh khái niệm.">
+        content="Ứng dụng ôn thi trắc nghiệm Triết học Mác-Lênin - Học tập cùng AI, Flashcard, Thi thử, Giả lập.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -48,68 +48,103 @@
         </div>
     </header>
 
-    <main class="main-content">
+    <main class="main-content home-main">
+        <div class="home-hero">
+            <h1>Chinh phục Triết học Mác-Lênin</h1>
+            <p class="hero-subtitle">Nền tảng ôn thi toàn diện với sự hỗ trợ của AI, Flashcard và Đề thi chuẩn</p>
+            <div class="hero-stats">
+                <div class="stat-item">
+                    <span class="stat-num" id="total-questions">--</span>
+                    <span class="stat-label">Câu hỏi trắc nghiệm</span>
+                </div>
+                <div class="stat-divider"></div>
+                <div class="stat-item">
+                    <span class="stat-num">8+</span>
+                    <span class="stat-label">Chủ đề trọng tâm</span>
+                </div>
+                <div class="stat-divider"></div>
+                <div class="stat-item">
+                    <span class="stat-num">100%</span>
+                    <span class="stat-label">Miễn phí</span>
+                </div>
+            </div>
+        </div>
+
         <div class="container">
-            <div class="dashboard-header">
-                <h2>Chọn chương để ôn tập</h2>
-                <p class="subtitle">Triết học Mác-Lênin - Đại học</p>
+            <div class="feature-grid">
+                <!-- Study Feature -->
+                <a href="study.html" class="feature-card study">
+                    <div class="feature-icon">📖</div>
+                    <div class="feature-content">
+                        <h3>Học tập cùng AI</h3>
+                        <p>Hệ thống bài giảng video, lý thuyết tóm tắt và câu hỏi ôn tập theo từng chủ đề với sự hỗ trợ
+                            của NotebookLM.</p>
+                        <span class="feature-link">Bắt đầu học &rarr;</span>
+                    </div>
+                </a>
+
+                <!-- Flashcard Feature -->
+                <a href="flashcard.html" class="feature-card flashcard">
+                    <div class="feature-icon">🎴</div>
+                    <div class="feature-content">
+                        <h3>Flashcard Ghi nhớ</h3>
+                        <p>Công cụ ôn tập nhanh giúp ghi nhớ các khái niệm, định nghĩa quan trọng qua phương pháp lặp
+                            lại ngắt quãng.</p>
+                        <span class="feature-link">Lật thẻ ngay &rarr;</span>
+                    </div>
+                </a>
+
+                <!-- Exam Feature -->
+                <a href="exam.html" class="feature-card exam">
+                    <div class="feature-icon">📝</div>
+                    <div class="feature-content">
+                        <h3>Thi thử Trắc nghiệm</h3>
+                        <p>Kho ngân hàng câu hỏi phong phú chia theo 3 chương. Chế độ luyện tập, xem giải thích chi tiết
+                            và gợi ý từ AI.</p>
+                        <span class="feature-link">Làm bài thi &rarr;</span>
+                    </div>
+                </a>
+
+                <!-- Simulation Feature -->
+                <a href="simulation.html" class="feature-card simulation">
+                    <div class="feature-icon">🎯</div>
+                    <div class="feature-content">
+                        <h3>Giả lập Thi thật</h3>
+                        <p>Trải nghiệm áp lực phòng thi với đồng hồ đếm ngược, cấu trúc đề thi chuẩn và bảng điểm chi
+                            tiết sau khi nộp bài.</p>
+                        <span class="feature-link">Vào phòng thi &rarr;</span>
+                    </div>
+                </a>
             </div>
 
-            <div class="chapter-grid">
-                <a href="exam.html?chapter=1" class="chapter-card">
-                    <div class="chapter-icon">📘</div>
-                    <h3>Chương 1</h3>
-                    <p class="chapter-title">Triết học và vai trò của triết học</p>
-                    <div class="chapter-stats">
-                        <span class="stat-badge" id="ch1-count">-- câu</span>
+            <div class="quick-progress-section">
+                <h3>📊 Tiến độ học tập của bạn</h3>
+                <div class="progress-stats">
+                    <div class="p-stat">
+                        <span class="p-value" id="studied-today">0</span>
+                        <span class="p-label">Đã học hôm nay</span>
                     </div>
-                    <span class="chapter-btn">Bắt đầu ôn tập</span>
-                </a>
-
-                <a href="exam.html?chapter=2" class="chapter-card">
-                    <div class="chapter-icon">📗</div>
-                    <h3>Chương 2</h3>
-                    <p class="chapter-title">Chủ nghĩa duy vật biện chứng</p>
-                    <div class="chapter-stats">
-                        <span class="stat-badge" id="ch2-count">-- câu</span>
+                    <div class="p-stat">
+                        <span class="p-value" id="accuracy-rate">--%</span>
+                        <span class="p-label">Tỷ lệ chính xác</span>
                     </div>
-                    <span class="chapter-btn">Bắt đầu ôn tập</span>
-                </a>
-
-                <a href="exam.html?chapter=3" class="chapter-card">
-                    <div class="chapter-icon">📙</div>
-                    <h3>Chương 3</h3>
-                    <p class="chapter-title">Chủ nghĩa duy vật lịch sử</p>
-                    <div class="chapter-stats">
-                        <span class="stat-badge" id="ch3-count">-- câu</span>
-                    </div>
-                    <span class="chapter-btn">Bắt đầu ôn tập</span>
-                </a>
-            </div>
-
-            <div class="dashboard-actions">
-                <a href="exam.html?chapter=all" class="action-btn-large">
-                    <span class="btn-icon">🎯</span>
-                    <span>Ôn tập tất cả (Trộn 3 chương)</span>
-                </a>
-            </div>
-
-            <div class="quick-stats">
-                <div class="quick-stat">
-                    <span class="quick-stat-value" id="total-questions">--</span>
-                    <span class="quick-stat-label">Tổng câu hỏi</span>
-                </div>
-                <div class="quick-stat">
-                    <span class="quick-stat-value" id="studied-today">0</span>
-                    <span class="quick-stat-label">Đã học hôm nay</span>
-                </div>
-                <div class="quick-stat">
-                    <span class="quick-stat-value" id="accuracy-rate">--%</span>
-                    <span class="quick-stat-label">Tỷ lệ đúng</span>
                 </div>
             </div>
         </div>
     </main>
+
+    <footer class="main-footer">
+        <div class="footer-content">
+            <p>Ôn tập miễn phí do sinh viên khoa Công nghệ thông tin - Trường Đại học Công nghệ Giao thông Vận tải tạo
+                ❤️</p>
+            <div style="margin-top: 12px;">
+                <a href="https://www.facebook.com/HanitaVII" target="_blank" class="text-secondary"
+                    style="text-decoration: none; font-size: 0.9rem; display: inline-flex; align-items: center; gap: 6px;">
+                    <span>👨‍💻</span> Liên hệ / Góp ý: HanitaVII
+                </a>
+            </div>
+        </div>
+    </footer>
 
     <script src="js/common.js"></script>
     <script src="js/dashboard.js"></script>

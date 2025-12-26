@@ -726,6 +726,29 @@ select {
     flex-wrap: wrap;
 }
 
+/* Support/QR Modal Styles */
+.qr-container {
+    padding: 20px;
+    background: white;
+    border-radius: var(--radius);
+    display: inline-block;
+    margin-bottom: 24px;
+}
+
+.qr-image {
+    max-width: 250px;
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.support-message {
+    font-size: 1.1rem;
+    color: var(--text-primary);
+    margin-bottom: 16px;
+    line-height: 1.6;
+}
+
 /* ===== Keyboard Shortcuts ===== */
 .keyboard-shortcuts {
     position: fixed;
@@ -798,242 +821,4 @@ kbd {
 
 .font-bold {
     font-weight: 700;
-}
-
-.font-semibold {
-    font-weight: 600;
-}
-
-.font-medium {
-    font-weight: 500;
-}
-
-.mb-0 {
-    margin-bottom: 0;
-}
-
-.mb-1 {
-    margin-bottom: var(--space-xs);
-}
-
-.mb-2 {
-    margin-bottom: var(--space-sm);
-}
-
-.mb-3 {
-    margin-bottom: var(--space-md);
-}
-
-.mb-4 {
-    margin-bottom: var(--space-lg);
-}
-
-.mt-0 {
-    margin-top: 0;
-}
-
-.mt-3 {
-    margin-top: var(--space-md);
-}
-
-.mt-4 {
-    margin-top: var(--space-lg);
-}
-
-.flex {
-    display: flex;
-}
-
-.flex-col {
-    flex-direction: column;
-}
-
-.flex-wrap {
-    flex-wrap: wrap;
-}
-
-.items-center {
-    align-items: center;
-}
-
-.justify-center {
-    justify-content: center;
-}
-
-.justify-between {
-    justify-content: space-between;
-}
-
-.gap-2 {
-    gap: var(--space-sm);
-}
-
-.gap-3 {
-    gap: var(--space-md);
-}
-
-.gap-4 {
-    gap: var(--space-lg);
-}
-
-/* ===== Mobile Responsive - Enhanced ===== */
-@media (max-width: 768px) {
-    :root {
-        --space-lg: 16px;
-    }
-
-    body {
-        font-size: 15px;
-    }
-
-    .header-content {
-        padding: 10px var(--space-md);
-    }
-
-    .logo {
-        font-size: 1.1rem;
-    }
-
-    /* Mobile Navigation */
-    .menu-toggle {
-        display: flex;
-        order: 2;
-    }
-
-    .main-nav {
-        position: fixed;
-        top: 60px;
-        left: 0;
-        right: 0;
-        background: var(--bg-secondary);
-        border: none;
-        border-bottom: 1px solid var(--border);
-        padding: var(--space-md);
-        flex-direction: column;
-        gap: var(--space-sm);
-        transform: translateY(-100%);
-        opacity: 0;
-        visibility: hidden;
-        transition: var(--transition);
-        z-index: 99;
-        border-radius: 0;
-    }
-
-    .main-nav.active {
-        transform: translateY(0);
-        opacity: 1;
-        visibility: visible;
-    }
-
-    .nav-tab {
-        width: 100%;
-        justify-content: flex-start;
-        padding: 14px 16px;
-        font-size: 1rem;
-    }
-
-    .tab-text {
-        display: inline;
-    }
-
-    .theme-toggle {
-        width: 40px;
-        height: 40px;
-        font-size: 1.1rem;
-    }
-
-    .container {
-        padding: var(--space-md);
-    }
-
-    /* Mobile-friendly buttons */
-    .action-btn-large {
-        padding: 14px 24px;
-        font-size: 1rem;
-        width: 100%;
-        justify-content: center;
-    }
-
-    .result-actions {
-        flex-direction: column;
-    }
-
-    .result-actions .action-btn {
-        width: 100%;
-        justify-content: center;
-    }
-
-    /* Touch-friendly options */
-    .option {
-        padding: 14px 16px;
-    }
-
-    .option-letter {
-        width: 28px;
-        height: 28px;
-        font-size: 0.85rem;
-    }
-
-    /* Modal adjustments */
-    .modal-content {
-        padding: 24px;
-        margin: var(--space-md);
-    }
-
-    .result-emoji {
-        font-size: 3rem;
-    }
-
-    .result-score {
-        font-size: 2.5rem;
-    }
-}
-
-/* Tablet */
-@media (min-width: 769px) and (max-width: 1024px) {
-    .container {
-        max-width: 800px;
-    }
-
-    .nav-tab {
-        padding: 10px 14px;
-    }
-
-    .tab-text {
-        font-size: 0.85rem;
-    }
-}
-
-/* Large Desktop */
-@media (min-width: 1400px) {
-    .container {
-        max-width: 1100px;
-    }
-
-    .container-wide {
-        max-width: 1400px;
-    }
-}
-
-/* Safe area for notch devices */
-@supports (padding-top: env(safe-area-inset-top)) {
-    .main-header {
-        padding-top: env(safe-area-inset-top);
-    }
-
-    .keyboard-shortcuts {
-        bottom: calc(20px + env(safe-area-inset-bottom));
-    }
-}
-
-/* Reduced motion preference */
-@media (prefers-reduced-motion: reduce) {
-
-    *,
-    *::before,
-    *::after {
-        animation-duration: 0.01ms !important;
-        animation-iteration-count: 1 !important;
-        transition-duration: 0.01ms !important;
-    }
 }
