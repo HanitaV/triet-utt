@@ -24,9 +24,38 @@ async function initExam() {
     initExamElements();
     initExamEventListeners();
 
-    // Check URL params for chapter
+    // Check URL params
     const urlParams = new URLSearchParams(window.location.search);
+    const isPractice = urlParams.get('practice') === 'true';
     const chapter = urlParams.get('chapter') || 'all';
+
+    // Practice mode - load questions from sessionStorage
+    if (isPractice) {
+        const practiceQuestionsStr = sessionStorage.getItem('practiceQuestions');
+        const practiceTopicName = sessionStorage.getItem('practiceTopicName');
+
+        if (practiceQuestionsStr) {
+            try {
+                const practiceQuestions = JSON.parse(practiceQuestionsStr);
+                if (practiceQuestions.length > 0) {
+                    // Update title
+                    const examTitle = document.getElementById('exam-title');
+                    if (examTitle && practiceTopicName) {
+                        examTitle.innerHTML = `📝 Luyện tập: ${practiceTopicName}`;
+                    }
+                    // Hide chapter select in practice mode
+                    if (examChapterSelect) {
+                        examChapterSelect.parentElement.style.display = 'none';
+                    }
+                    // Start with practice questions
+                    startPracticeExam(practiceQuestions);
+                    return;
+                }
+            } catch (e) {
+                console.error('Error loading practice questions:', e);
+            }
+        }
+    }
 
     if (examChapterSelect) {
         examChapterSelect.value = chapter === 'all' ? 'all' : `exam/chuong_${chapter}.json`;
@@ -91,6 +120,30 @@ function initExamEventListeners() {
 
     // Keyboard shortcuts
     document.addEventListener('keydown', handleKeyboard);
+}
+
+// Practice mode - start with specific questions from topic
+function startPracticeExam(questions) {
+    examQuestions = [...questions];
+
+    if (examQuestions.length === 0) {
+        if (examQuestionText) examQuestionText.textContent = 'Không có câu hỏi để luyện tập.';
+        if (examOptions) examOptions.innerHTML = '';
+        return;
+    }
+
+    if (shuffleAnswers) {
+        shuffleArray(examQuestions);
+    }
+
+    examIndex = 0;
+    examAnswers = {};
+    examScore = 0;
+    wrongAnswers = [];
+    waitingForContinue = false;
+
+    renderExamQuestion();
+    updateExamStats();
 }
 
 function startExam(chapter) {
