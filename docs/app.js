@@ -245,10 +245,18 @@ class QuizApp {
 
     // ===== STUDY TAB METHODS =====
     async initStudyTab() {
-        this.studyChapterSelect = document.getElementById('study-chapter-select');
         this.topicsContainer = document.getElementById('topics-container');
+        this.studyTabs = document.querySelectorAll('.study-tab');
 
-        this.studyChapterSelect?.addEventListener('change', () => this.renderStudyTopics());
+        this.studyTabs.forEach(tab => {
+            tab.addEventListener('click', () => {
+                // Remove active class from all
+                this.studyTabs.forEach(t => t.classList.remove('active'));
+                // Add to clicked
+                tab.classList.add('active');
+                this.renderStudyTopics();
+            });
+        });
 
         await this.loadStudyData();
     }
@@ -268,7 +276,8 @@ class QuizApp {
     }
 
     renderStudyTopics() {
-        const chapterFilter = this.studyChapterSelect?.value || 'all';
+        const activeTab = document.querySelector('.study-tab.active');
+        const chapterFilter = activeTab ? activeTab.dataset.chapter : '1';
         let sections = this.studyTopics;
 
         if (chapterFilter !== 'all') {
