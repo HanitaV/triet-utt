@@ -73,31 +73,8 @@ class QuizApp {
         this.rememberedBtn = document.getElementById('remembered-btn');
         this.shuffleFlashcardsBtn = document.getElementById('shuffle-flashcards');
 
-        // Exam
-        this.examChapterSelect = document.getElementById('exam-chapter-select');
-        this.examQuestionContainer = document.getElementById('exam-question-container');
-        this.examQuestionNumber = document.getElementById('exam-question-number');
-        this.examQuestionText = document.getElementById('exam-question-text');
-        this.examOptions = document.getElementById('exam-options');
-        this.examContinueBtn = document.getElementById('exam-continue-btn');
-        this.examProgress = document.getElementById('exam-progress');
-        this.examCurrentSpan = document.getElementById('exam-current');
-        this.examTotalSpan = document.getElementById('exam-total');
-        this.examCorrectSpan = document.getElementById('exam-correct');
-        this.examIncorrectSpan = document.getElementById('exam-incorrect');
-        this.examScoreSpan = document.getElementById('exam-score');
-        this.hintBtn = document.getElementById('hint-btn');
-        this.shuffleAnswersToggle = document.getElementById('shuffle-answers-toggle');
-        this.examRestartBtn = document.getElementById('exam-restart-btn');
-
-        // Modal
-        this.resultModal = document.getElementById('result-modal');
-        this.resultEmoji = document.getElementById('result-emoji');
-        this.resultScoreDisplay = document.getElementById('result-score-display');
-        this.resultDetail = document.getElementById('result-detail');
-        this.resultMessage = document.getElementById('result-message');
-        this.reviewWrongBtn = document.getElementById('review-wrong-btn');
-        this.modalRestartBtn = document.getElementById('modal-restart-btn');
+        // Exam elements are now initialized in initExamTab
+        // Modal elements are now initialized in initExamTab
     }
 
     initEventListeners() {
@@ -129,16 +106,61 @@ class QuizApp {
         this.shuffleFlashcardsBtn?.addEventListener('click', () => this.shuffleFlashcardDeck());
         this.flashcardChapterSelect?.addEventListener('change', () => this.loadFlashcards());
 
-        // Exam
-        this.examChapterSelect?.addEventListener('change', () => {
-            this.startExam(this.examChapterSelect.value);
-        });
+        // Exam event listeners are now in initExamTab
+
+        // Modal event listeners are now in initExamTab
+
+        // Keyboard shortcuts
+        // Exam keyboard shortcuts are now in initExamTab
+        document.addEventListener('keydown', (e) => this.handleKeyboard(e)); // Keep general keyboard handler
+    }
+
+    // New method for Exam tab initialization
+    initExamTab() {
+        this.examChapterSelect = document.getElementById('exam-chapter-select');
+        this.shuffleAnswersToggle = document.getElementById('shuffle-answers-toggle');
+        this.examQuestionNumber = document.getElementById('exam-question-number');
+        this.hintBtn = document.getElementById('hint-btn');
+        this.examQuestionText = document.getElementById('exam-question-text');
+        this.examOptions = document.getElementById('exam-options');
+        this.examContinueBtn = document.getElementById('exam-continue-btn');
+        this.examRestartBtn = document.getElementById('exam-restart-btn');
+        this.examScoreSpan = document.getElementById('exam-score');
+        this.examCurrentSpan = document.getElementById('exam-current');
+        this.examTotalSpan = document.getElementById('exam-total');
+        this.examCorrectSpan = document.getElementById('exam-correct');
+        this.examIncorrectSpan = document.getElementById('exam-incorrect');
+        this.examProgress = document.getElementById('exam-progress'); // Assuming this is the fill element
+
+        // Modal
+        this.resultModal = document.getElementById('result-modal');
+        this.resultEmoji = document.getElementById('result-emoji');
+        this.resultScoreDisplay = document.getElementById('result-score-display');
+        this.resultDetail = document.getElementById('result-detail');
+        this.resultMessage = document.getElementById('result-message');
+        this.reviewWrongBtn = document.getElementById('review-wrong-btn');
+        this.modalRestartBtn = document.getElementById('modal-restart-btn');
+
+        // New Element for Explanation
+        this.examExplanation = document.getElementById('exam-explanation');
+
+        // Events
+        this.examChapterSelect?.addEventListener('change', () => this.startExam(this.examChapterSelect.value));
         this.shuffleAnswersToggle?.addEventListener('change', () => {
             this.shuffleAnswers = this.shuffleAnswersToggle.checked;
         });
+        this.examRestartBtn?.addEventListener('click', () => this.restartExam());
+        this.modalRestartBtn?.addEventListener('click', () => {
+            this.resultModal.classList.remove('active'); // Assuming closeModal() is this
+            this.restartExam();
+        });
+        this.reviewWrongBtn?.addEventListener('click', () => {
+            this.resultModal.classList.remove('active'); // Assuming closeModal() is this
+            this.startReviewWrong();
+        });
+
         this.hintBtn?.addEventListener('click', () => this.showHint());
         this.examContinueBtn?.addEventListener('click', () => this.handleExamContinue());
-        this.examRestartBtn?.addEventListener('click', () => this.restartExam());
 
         // Modal
         this.resultModal?.querySelector('.modal-overlay')?.addEventListener('click', () => {
@@ -544,6 +566,12 @@ class QuizApp {
     }
 
     renderExamQuestion() {
+        // Clear previous explanation
+        if (this.examExplanation) {
+            this.examExplanation.classList.add('hidden');
+            this.examExplanation.innerHTML = '';
+        }
+
         const q = this.examQuestions[this.examIndex];
         if (!q) return;
 
@@ -654,6 +682,20 @@ class QuizApp {
         localStorage.setItem('studiedToday', this.studiedToday);
         localStorage.setItem('totalAnswered', this.totalAnswered);
 
+        // --- RENDER EXPLANATION ---
+        if (this.examExplanation) {
+            const explanationText = q.explanation || "Không có giải thích chi tiết cho câu hỏi này.";
+            this.examExplanation.innerHTML = `
+                <div class="explanation-box">
+                    <div class="explanation-header">
+                        <span class="gemini-badge">Gemini 3.0 PRO</span>
+                    </div>
+                    <div class="explanation-text">${explanationText}</div>
+                </div>
+            `;
+            this.examExplanation.classList.remove('hidden');
+        }
+
         if (isCorrect) {
             this.examScore += 10;
             this.totalCorrect++;
@@ -668,8 +710,10 @@ class QuizApp {
                 }
             });
 
-            // Auto advance
-            setTimeout(() => this.advanceExam(), 800);
+            // Show continue button even if correct, so user can read explanation
+            this.waitingForContinue = true;
+            this.examContinueBtn?.classList.remove('hidden');
+
         } else {
             // Track wrong answer
             this.wrongAnswers.push(q.question);
@@ -698,7 +742,7 @@ class QuizApp {
         }
 
         this.updateExamStats();
-        this.updateDashboard();
+        // this.updateDashboard(); // Optimization: Update on exit
     }
 
     showHint() {

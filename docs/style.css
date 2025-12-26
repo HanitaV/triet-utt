@@ -789,6 +789,48 @@ body {
     border-bottom: none;
 }
 
+.explanation-box {
+    margin-top: 20px;
+    background: linear-gradient(135deg, rgba(59, 130, 246, 0.05), rgba(139, 92, 246, 0.05));
+    border: 1px solid var(--accent);
+    border-radius: var(--radius);
+    padding: 20px;
+    animation: fadeIn 0.5s ease;
+    border-left: 4px solid var(--accent);
+}
+
+.explanation-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 12px;
+}
+
+.gemini-badge {
+    background: linear-gradient(90deg, #4285F4, #9B72CB, #EA4335);
+    color: white;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    box-shadow: 0 2px 10px rgba(66, 133, 244, 0.3);
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.gemini-badge::before {
+    content: '✨';
+}
+
+.explanation-text {
+    font-size: 0.95rem;
+    line-height: 1.7;
+    color: var(--text-primary);
+}
+
 .q-num {
     font-weight: 600;
     color: var(--accent);
