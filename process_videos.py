@@ -27,7 +27,10 @@ def download_and_cut(video_id, start_time, end_time, output_name):
         return output_path
 
     # Construct format URL
-    ydl_opts = {'format': 'best[ext=mp4]'}
+    ydl_opts = {
+        'format': 'best[ext=mp4]',
+        'cookiefile': 'cookies.txt'
+    }
     
     print(f"Processing {video_id} from {start_time} to {end_time}...")
 
@@ -79,6 +82,7 @@ def download_and_cut(video_id, start_time, end_time, output_name):
         'outtmpl': output_path,
         'download_ranges': yt_dlp.utils.download_range_func(None, [(start_time, end_time)]),
         'force_keyframes_at_cuts': True,
+        'cookiesfrombrowser': ('chrome',)
     }
     
     with yt_dlp.YoutubeDL(download_opts) as ydl:
