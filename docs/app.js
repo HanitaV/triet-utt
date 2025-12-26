@@ -691,8 +691,8 @@ class QuizApp {
         localStorage.setItem('studiedToday', this.studiedToday);
         localStorage.setItem('totalAnswered', this.totalAnswered);
 
-        // --- RENDER EXPLANATION ---
-        if (this.examExplanation) {
+        // --- RENDER EXPLANATION (Only if incorrect) ---
+        if (!isCorrect && this.examExplanation) {
             const explanationText = q.explanation || "Không có giải thích chi tiết cho câu hỏi này.";
             this.examExplanation.innerHTML = `
                 <div class="explanation-box">
