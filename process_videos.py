@@ -3,8 +3,8 @@ import os
 import subprocess
 import yt_dlp
 
-DATA_FILE = 'study_data.json'
-OUTPUT_DIR = 'assets/videos'
+DATA_FILE = 'docs/study_data.json'
+OUTPUT_DIR = 'docs/assets/videos'
 
 def load_data():
     with open(DATA_FILE, 'r', encoding='utf-8') as f:

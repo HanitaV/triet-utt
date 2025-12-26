@@ -11,8 +11,8 @@ load_dotenv()
 
 API_KEY = os.getenv("GEMINI_API_KEY")
 API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
-DATA_FILE = 'study_data.json'
-TRANSCRIPT_DIR = 'assets/transcripts'
+DATA_FILE = 'docs/study_data.json'
+TRANSCRIPT_DIR = 'docs/assets/transcripts'
 
 def load_data():
     with open(DATA_FILE, 'r', encoding='utf-8') as f:
