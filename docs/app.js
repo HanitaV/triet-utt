@@ -31,6 +31,7 @@ class QuizApp {
         this.initTheme();
         this.initElements();
         this.initEventListeners();
+        this.initExamTab(); // Initialize Exam Elements
         await this.loadAllData();
         this.initStudyTab();
         this.updateDashboard();
