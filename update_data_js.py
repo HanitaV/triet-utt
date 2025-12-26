@@ -2,7 +2,8 @@ import json
 import os
 
 # Paths
-DOCS_DIR = 'docs'
+# Paths
+DOCS_DIR = '.' # Root directory
 DATA_JS_PATH = os.path.join(DOCS_DIR, 'data.js')
 EXAM_DIR = os.path.join(DOCS_DIR, 'exam')
 CHAPTER_FILES = ['chuong_1.json', 'chuong_2.json', 'chuong_3.json']

@@ -26,7 +26,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình Triết học Mác-Lênin (Bộ Giáo dục), triết học ra đời vào khoảng thế kỷ VIII - VI Trước Công nguyên ở các trung tâm văn minh cổ đại. Các đáp án còn lại sai vì không đúng với thời điểm ra đời của triết học được ghi trong giáo trình."
+        "explanation": "Theo giáo trình Triết học Mác-Lênin (Bộ Giáo dục), triết học ra đời vào khoảng thế kỷ VIII - VI Trước Công nguyên ở các trung tâm văn minh cổ đại. Các đáp án còn lại sai vì không đúng với thời điểm ra đời của triết học được ghi trong giáo trình."
       },
       {
         "question": 2,
@@ -50,7 +50,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình, triết học ra đời sớm nhất ở Ấn Độ, Trung Quốc, và Hy Lạp - La Mã. Các đáp án còn lại sai vì không phản ánh đúng các quốc gia và khu vực nơi triết học xuất hiện đầu tiên theo giáo trình."
+        "explanation": "Theo giáo trình, triết học ra đời sớm nhất ở Ấn Độ, Trung Quốc, và Hy Lạp - La Mã. Các đáp án còn lại sai vì không phản ánh đúng các quốc gia và khu vực nơi triết học xuất hiện đầu tiên theo giáo trình."
       },
       {
         "question": 3,
@@ -74,7 +74,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo giáo trình, triết học là hệ thống tri thức lý luận chung nhất của con người về thế giới và vị trí của con người trong thế giới ấy. Các đáp án A, B, và C chỉ đề cập đến một phần kiến thức của triết học, không bao quát được toàn bộ nội dung của nó."
+        "explanation": "Theo giáo trình, triết học là hệ thống tri thức lý luận chung nhất của con người về thế giới và vị trí của con người trong thế giới ấy. Các đáp án A, B, và C chỉ đề cập đến một phần kiến thức của triết học, không bao quát được toàn bộ nội dung của nó."
       },
       {
         "question": 4,
@@ -98,7 +98,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Triết học ra đời khi tư duy của con người đạt đến trình độ trừu tượng, khái quát hóa cao và xuất hiện tầng lớp lao động trí óc có khả năng hệ thống tri thức. Các đáp án A, B, và C mô tả các điều kiện không phù hợp hoặc không đầy đủ để triết học ra đời."
+        "explanation": "Triết học ra đời khi tư duy của con người đạt đến trình độ trừu tượng, khái quát hóa cao và xuất hiện tầng lớp lao động trí óc có khả năng hệ thống tri thức. Các đáp án A, B, và C mô tả các điều kiện không phù hợp hoặc không đầy đủ để triết học ra đời."
       },
       {
         "question": 5,
@@ -122,7 +122,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. 'Triết học tự nhiên' là thuật ngữ dùng để chỉ đặc trưng của triết học thời kỳ Cổ đại, khi triết học còn gắn liền với các khoa học tự nhiên. Các đáp án B, C, và D không chính xác vì các thời kỳ này có những đặc trưng triết học khác."
+        "explanation": "'Triết học tự nhiên' là thuật ngữ dùng để chỉ đặc trưng của triết học thời kỳ Cổ đại, khi triết học còn gắn liền với các khoa học tự nhiên. Các đáp án B, C, và D không chính xác vì các thời kỳ này có những đặc trưng triết học khác."
       },
       {
         "question": 6,
@@ -146,7 +146,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. 'Triết học Kinh viện' là thuật ngữ dùng để chỉ đặc điểm của triết học thời kỳ Trung cổ, khi triết học chịu ảnh hưởng lớn của tôn giáo và thần học. Các đáp án A, C, và D không chính xác vì các thời kỳ này có những đặc trưng triết học khác."
+        "explanation": "'Triết học Kinh viện' là thuật ngữ dùng để chỉ đặc điểm của triết học thời kỳ Trung cổ, khi triết học chịu ảnh hưởng lớn của tôn giáo và thần học. Các đáp án A, C, và D không chính xác vì các thời kỳ này có những đặc trưng triết học khác."
       },
       {
         "question": 7,
@@ -170,7 +170,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Triết học Hegel là học thuyết cuối cùng thể hiện tham vọng của triết học muốn đóng vai trò là 'khoa học của mọi khoa học' thông qua hệ thống biện chứng duy tâm tuyệt đối. Các đáp án A, C, và D không thể hiện rõ tham vọng này."
+        "explanation": "Triết học Hegel là học thuyết cuối cùng thể hiện tham vọng của triết học muốn đóng vai trò là 'khoa học của mọi khoa học' thông qua hệ thống biện chứng duy tâm tuyệt đối. Các đáp án A, C, và D không thể hiện rõ tham vọng này."
       },
       {
         "question": 8,
@@ -194,7 +194,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Mặt thứ hai trong 'Vấn đề cơ bản của triết học' là vấn đề nhận thức luận: con người có khả năng nhận thức được thế giới hay không? Các đáp án B, C, và D liên quan đến mặt thứ nhất (bản thể luận) của vấn đề cơ bản."
+        "explanation": "Mặt thứ hai trong 'Vấn đề cơ bản của triết học' là vấn đề nhận thức luận: con người có khả năng nhận thức được thế giới hay không? Các đáp án B, C, và D liên quan đến mặt thứ nhất (bản thể luận) của vấn đề cơ bản."
       },
       {
         "question": 9,
@@ -218,7 +218,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Câu nói 'Vấn đề cơ bản lớn của mọi triết học, đặc biệt là của triết học hiện đại, là vấn đề quan hệ giữa tư duy và tồn tại' là của Ph. Ăngghen. Các đáp án A, C, và D không chính xác."
+        "explanation": "Câu nói 'Vấn đề cơ bản lớn của mọi triết học, đặc biệt là của triết học hiện đại, là vấn đề quan hệ giữa tư duy và tồn tại' là của Ph. Ăngghen. Các đáp án A, C, và D không chính xác."
       },
       {
         "question": 10,
@@ -242,7 +242,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Chủ nghĩa duy tâm phủ nhận sự tồn tại của thế giới vật chất, cho rằng ý thức là cái có trước và quyết định vật chất. Các đáp án A, B, và D đều khẳng định sự tồn tại của thế giới vật chất."
+        "explanation": "Chủ nghĩa duy tâm phủ nhận sự tồn tại của thế giới vật chất, cho rằng ý thức là cái có trước và quyết định vật chất. Các đáp án A, B, và D đều khẳng định sự tồn tại của thế giới vật chất."
       },
       {
         "question": 11,
@@ -266,7 +266,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình Triết học Mác-Lênin, 'Khả tri luận' khẳng định khả năng nhận thức thế giới của con người. Các đáp án khác sai vì: A. 'Bất khả tri luận' phủ nhận khả năng này; C. 'Hoài nghi luận' nghi ngờ tính xác thực của nhận thức."
+        "explanation": "Theo giáo trình Triết học Mác-Lênin, 'Khả tri luận' khẳng định khả năng nhận thức thế giới của con người. Các đáp án khác sai vì: A. 'Bất khả tri luận' phủ nhận khả năng này; C. 'Hoài nghi luận' nghi ngờ tính xác thực của nhận thức."
       },
       {
         "question": 12,
@@ -290,7 +290,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. 'Bất khả tri luận' chủ trương con người không thể nhận thức được bản chất của thế giới. Các đáp án khác sai vì: A. 'Khả tri luận' khẳng định khả năng nhận thức; B. 'Hoài nghi luận' nghi ngờ, chứ không phủ nhận hoàn toàn, khả năng nhận thức; D. Kết hợp 'Khả tri luận' và 'Hoài nghi luận' không phù hợp với nội dung câu hỏi."
+        "explanation": "'Bất khả tri luận' chủ trương con người không thể nhận thức được bản chất của thế giới. Các đáp án khác sai vì: A. 'Khả tri luận' khẳng định khả năng nhận thức; B. 'Hoài nghi luận' nghi ngờ, chứ không phủ nhận hoàn toàn, khả năng nhận thức; D. Kết hợp 'Khả tri luận' và 'Hoài nghi luận' không phù hợp với nội dung câu hỏi."
       },
       {
         "question": 13,
@@ -314,7 +314,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. 'Hoài nghi luận' nâng sự hoài nghi lên thành nguyên tắc, cho rằng không thể đạt đến chân lý khách quan. Các đáp án khác sai vì: A. 'Khả tri luận' tin vào khả năng nhận thức; C. 'Bất khả tri luận' phủ nhận khả năng nhận thức, nhưng không nhất thiết nâng hoài nghi lên thành nguyên tắc; D. 'Thuyết không thể biết' tương tự 'Bất khả tri luận'."
+        "explanation": "'Hoài nghi luận' nâng sự hoài nghi lên thành nguyên tắc, cho rằng không thể đạt đến chân lý khách quan. Các đáp án khác sai vì: A. 'Khả tri luận' tin vào khả năng nhận thức; C. 'Bất khả tri luận' phủ nhận khả năng nhận thức, nhưng không nhất thiết nâng hoài nghi lên thành nguyên tắc; D. 'Thuyết không thể biết' tương tự 'Bất khả tri luận'."
       },
       {
         "question": 14,
@@ -338,7 +338,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. 'Chủ nghĩa duy tâm chủ quan' phủ nhận sự tồn tại khách quan của hiện thực, coi cảm giác là duy nhất có thật. Các đáp án khác sai vì: B. 'Chủ nghĩa duy tâm khách quan' thừa nhận một 'ý niệm tuyệt đối' tồn tại khách quan; C. 'Chủ nghĩa duy vật siêu hình' thừa nhận vật chất tồn tại khách quan; D. 'Chủ nghĩa duy vật biện chứng' cũng thừa nhận vật chất tồn tại khách quan và vận động, phát triển."
+        "explanation": "'Chủ nghĩa duy tâm chủ quan' phủ nhận sự tồn tại khách quan của hiện thực, coi cảm giác là duy nhất có thật. Các đáp án khác sai vì: B. 'Chủ nghĩa duy tâm khách quan' thừa nhận một 'ý niệm tuyệt đối' tồn tại khách quan; C. 'Chủ nghĩa duy vật siêu hình' thừa nhận vật chất tồn tại khách quan; D. 'Chủ nghĩa duy vật biện chứng' cũng thừa nhận vật chất tồn tại khách quan và vận động, phát triển."
       },
       {
         "question": 15,
@@ -378,7 +378,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Mặt tích cực nhất của quan niệm về vật chất thời cổ đại là chống lại quan niệm duy tâm tôn giáo và thúc đẩy sự phát triển tư tưởng khoa học về thế giới. Các đáp án khác sai vì: A. Đồng nhất vật chất với vật thể là hạn chế; B. Quan niệm duy vật thời cổ đại không làm nền tảng cho quan niệm duy tâm phát triển; C. Đồng nhất vật chất với vật thể kim hãm sự phát triển tư tưởng khoa học về thế giới."
+        "explanation": "Mặt tích cực nhất của quan niệm về vật chất thời cổ đại là chống lại quan niệm duy tâm tôn giáo và thúc đẩy sự phát triển tư tưởng khoa học về thế giới. Các đáp án khác sai vì: A. Đồng nhất vật chất với vật thể là hạn chế; B. Quan niệm duy vật thời cổ đại không làm nền tảng cho quan niệm duy tâm phát triển; C. Đồng nhất vật chất với vật thể kim hãm sự phát triển tư tưởng khoa học về thế giới."
       },
       {
         "question": 17,
@@ -402,7 +402,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Chủ nghĩa duy vật thời cổ đại mang nặng tính trực quan, chất phác do trình độ nhận thức còn hạn chế, thường đồng nhất vật chất với các dạng vật chất cụ thể, cảm tính. Các đáp án khác sai vì: B. Chủ nghĩa duy vật siêu hình thế kỷ XVII, XVIII mang tính máy móc, siêu hình; C. Chủ nghĩa duy vật biện chứng dựa trên cơ sở khoa học hiện đại; D. Chủ nghĩa duy tâm khách quan trừu tượng, không trực quan."
+        "explanation": "Chủ nghĩa duy vật thời cổ đại mang nặng tính trực quan, chất phác do trình độ nhận thức còn hạn chế, thường đồng nhất vật chất với các dạng vật chất cụ thể, cảm tính. Các đáp án khác sai vì: B. Chủ nghĩa duy vật siêu hình thế kỷ XVII, XVIII mang tính máy móc, siêu hình; C. Chủ nghĩa duy vật biện chứng dựa trên cơ sở khoa học hiện đại; D. Chủ nghĩa duy tâm khách quan trừu tượng, không trực quan."
       },
       {
         "question": 18,
@@ -426,7 +426,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Chủ nghĩa duy vật thời cổ đại thường đồng nhất vật chất với một số dạng cụ thể như nước, lửa, không khí, đất. Các đáp án khác sai vì: B. Chủ nghĩa duy vật siêu hình thế kỷ XVII, XVIII đồng nhất vật chất với khối lượng, nguyên tử; C. Chủ nghĩa duy vật của triết học Cổ điển Đức có bước tiến so với chủ nghĩa duy vật siêu hình; D. Chủ nghĩa duy vật biện chứng đưa ra định nghĩa khoa học về vật chất."
+        "explanation": "Chủ nghĩa duy vật thời cổ đại thường đồng nhất vật chất với một số dạng cụ thể như nước, lửa, không khí, đất. Các đáp án khác sai vì: B. Chủ nghĩa duy vật siêu hình thế kỷ XVII, XVIII đồng nhất vật chất với khối lượng, nguyên tử; C. Chủ nghĩa duy vật của triết học Cổ điển Đức có bước tiến so với chủ nghĩa duy vật siêu hình; D. Chủ nghĩa duy vật biện chứng đưa ra định nghĩa khoa học về vật chất."
       },
       {
         "question": 19,
@@ -450,7 +450,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Chủ nghĩa duy vật siêu hình thế kỷ XVII, XVIII, chịu ảnh hưởng của cơ học Newton, thường đồng nhất vật chất với khối lượng, xem thế giới như một cỗ máy khổng lồ. Các đáp án khác sai vì: A. Chủ nghĩa duy tâm chủ quan phủ nhận sự tồn tại khách quan của vật chất; C. Chủ nghĩa duy vật biện chứng không đồng nhất vật chất với khối lượng; D. Chủ nghĩa duy tâm khách quan thừa nhận một 'ý niệm tuyệt đối' tồn tại khách quan."
+        "explanation": "Chủ nghĩa duy vật siêu hình thế kỷ XVII, XVIII, chịu ảnh hưởng của cơ học Newton, thường đồng nhất vật chất với khối lượng, xem thế giới như một cỗ máy khổng lồ. Các đáp án khác sai vì: A. Chủ nghĩa duy tâm chủ quan phủ nhận sự tồn tại khách quan của vật chất; C. Chủ nghĩa duy vật biện chứng không đồng nhất vật chất với khối lượng; D. Chủ nghĩa duy tâm khách quan thừa nhận một 'ý niệm tuyệt đối' tồn tại khách quan."
       },
       {
         "question": 20,
@@ -474,7 +474,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Phương pháp siêu hình xem xét đối tượng ở trạng thái cô lập, tĩnh tại, không vận động, không phát triển, không có mối liên hệ với các đối tượng khác. Các đáp án khác sai vì: A, B, C mô tả đặc điểm của phương pháp biện chứng."
+        "explanation": "Phương pháp siêu hình xem xét đối tượng ở trạng thái cô lập, tĩnh tại, không vận động, không phát triển, không có mối liên hệ với các đối tượng khác. Các đáp án khác sai vì: A, B, C mô tả đặc điểm của phương pháp biện chứng."
       },
       {
         "question": 21,
@@ -498,7 +498,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Phương pháp siêu hình máy móc chi phối nhận thức của con người ở thế kỷ XVII - XVIII do ảnh hưởng của cơ học Newton và sự phát triển của khoa học tự nhiên thời kỳ này. Các đáp án khác sai vì: A, B. Phép biện chứng duy tâm và duy vật chưa phát triển mạnh mẽ vào thời kỳ này; D. Phép biện chứng duy vật chưa ra đời vào thời kỳ này."
+        "explanation": "Phương pháp siêu hình máy móc chi phối nhận thức của con người ở thế kỷ XVII - XVIII do ảnh hưởng của cơ học Newton và sự phát triển của khoa học tự nhiên thời kỳ này. Các đáp án khác sai vì: A, B. Phép biện chứng duy tâm và duy vật chưa phát triển mạnh mẽ vào thời kỳ này; D. Phép biện chứng duy vật chưa ra đời vào thời kỳ này."
       },
       {
         "question": 22,
@@ -522,7 +522,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình, phương pháp biện chứng xem xét đối tượng trong mối liên hệ phổ biến, ràng buộc, quy định và ảnh hưởng lẫn nhau. Các đáp án A, C, và D sai vì chúng mô tả phương pháp siêu hình, đối lập với phương pháp biện chứng."
+        "explanation": "Theo giáo trình, phương pháp biện chứng xem xét đối tượng trong mối liên hệ phổ biến, ràng buộc, quy định và ảnh hưởng lẫn nhau. Các đáp án A, C, và D sai vì chúng mô tả phương pháp siêu hình, đối lập với phương pháp biện chứng."
       },
       {
         "question": 23,
@@ -546,7 +546,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Phương pháp biện chứng xem xét toàn diện, thấy được cả bộ phận (cây) và tổng thể (rừng). Đáp án A sai vì nó thể hiện cách nhìn phiến diện. Đáp án C sai vì biện chứng duy vật nhấn mạnh nguyên nhân bên trong sự vật. Đáp án D sai vì nó mô tả cách tiếp cận tách rời, không biện chứng."
+        "explanation": "Phương pháp biện chứng xem xét toàn diện, thấy được cả bộ phận (cây) và tổng thể (rừng). Đáp án A sai vì nó thể hiện cách nhìn phiến diện. Đáp án C sai vì biện chứng duy vật nhấn mạnh nguyên nhân bên trong sự vật. Đáp án D sai vì nó mô tả cách tiếp cận tách rời, không biện chứng."
       },
       {
         "question": 24,
@@ -570,7 +570,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Lịch sử phép biện chứng trải qua ba hình thức: tự phát (thời cổ đại), duy tâm (Hegel), và duy vật (Marx). Các đáp án còn lại đưa ra trình tự sai."
+        "explanation": "Lịch sử phép biện chứng trải qua ba hình thức: tự phát (thời cổ đại), duy tâm (Hegel), và duy vật (Marx). Các đáp án còn lại đưa ra trình tự sai."
       },
       {
         "question": 25,
@@ -594,7 +594,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Câu nói này là của C. Mác, thể hiện quan điểm về sự hình thành tư tưởng triết học gắn liền với điều kiện lịch sử, xã hội. Các đáp án còn lại sai vì đó không phải là tác giả của câu nói này."
+        "explanation": "Câu nói này là của C. Mác, thể hiện quan điểm về sự hình thành tư tưởng triết học gắn liền với điều kiện lịch sử, xã hội. Các đáp án còn lại sai vì đó không phải là tác giả của câu nói này."
       },
       {
         "question": 26,
@@ -618,7 +618,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Chủ nghĩa duy vật thời cổ đại thường đồng nhất vật chất với những dạng cụ thể như nước, lửa, không khí, đất. Các đáp án còn lại có quan niệm khác về vật chất."
+        "explanation": "Chủ nghĩa duy vật thời cổ đại thường đồng nhất vật chất với những dạng cụ thể như nước, lửa, không khí, đất. Các đáp án còn lại có quan niệm khác về vật chất."
       },
       {
         "question": 27,
@@ -642,7 +642,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Chủ nghĩa duy tâm cho rằng ý thức là bản chất của thế giới. Các đáp án còn lại có quan điểm khác về bản chất của thế giới."
+        "explanation": "Chủ nghĩa duy tâm cho rằng ý thức là bản chất của thế giới. Các đáp án còn lại có quan điểm khác về bản chất của thế giới."
       },
       {
         "question": 28,
@@ -666,7 +666,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Vấn đề cơ bản của triết học có hai mặt: mặt thứ nhất trả lời câu hỏi giữa vật chất và ý thức cái nào có trước, cái nào quyết định cái nào; mặt thứ hai trả lời câu hỏi con người có khả năng nhận thức được thế giới hay không. Các đáp án còn lại chỉ đề cập đến một khía cạnh của mặt thứ nhất."
+        "explanation": "Vấn đề cơ bản của triết học có hai mặt: mặt thứ nhất trả lời câu hỏi giữa vật chất và ý thức cái nào có trước, cái nào quyết định cái nào; mặt thứ hai trả lời câu hỏi con người có khả năng nhận thức được thế giới hay không. Các đáp án còn lại chỉ đề cập đến một khía cạnh của mặt thứ nhất."
       },
       {
         "question": 29,
@@ -690,7 +690,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. C.Mác và Ph. Ăngghen là những người sáng lập triết học Mác, sau đó V.I. Lênin đã phát triển nó trong điều kiện lịch sử mới. Các đáp án còn lại sai vì gán công lao sáng lập và phát triển không đúng cho các nhà triết học."
+        "explanation": "C.Mác và Ph. Ăngghen là những người sáng lập triết học Mác, sau đó V.I. Lênin đã phát triển nó trong điều kiện lịch sử mới. Các đáp án còn lại sai vì gán công lao sáng lập và phát triển không đúng cho các nhà triết học."
       },
       {
         "question": 30,
@@ -714,7 +714,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Triết học Mác ra đời vào những năm 40 của thế kỷ XIX, gắn liền với sự phát triển của phong trào công nhân và những thành tựu khoa học tự nhiên thời bấy giờ. Các đáp án còn lại đưa ra mốc thời gian không chính xác."
+        "explanation": "Triết học Mác ra đời vào những năm 40 của thế kỷ XIX, gắn liền với sự phát triển của phong trào công nhân và những thành tựu khoa học tự nhiên thời bấy giờ. Các đáp án còn lại đưa ra mốc thời gian không chính xác."
       },
       {
         "question": 31,
@@ -738,7 +738,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Triết học Mác ra đời trong bối cảnh phương thức sản xuất tư bản chủ nghĩa đã trở thành phương thức sản xuất thống trị ở nhiều nước châu Âu, bộc lộ những mâu thuẫn gay gắt trong xã hội. Các đáp án còn lại không phản ánh đúng điều kiện kinh tế - xã hội khi triết học Mác ra đời."
+        "explanation": "Triết học Mác ra đời trong bối cảnh phương thức sản xuất tư bản chủ nghĩa đã trở thành phương thức sản xuất thống trị ở nhiều nước châu Âu, bộc lộ những mâu thuẫn gay gắt trong xã hội. Các đáp án còn lại không phản ánh đúng điều kiện kinh tế - xã hội khi triết học Mác ra đời."
       },
       {
         "question": 32,
@@ -762,7 +762,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình Triết học Mác-Lênin, nguồn gốc lý luận của triết học Mác-Lênin bao gồm: triết học cổ điển Đức (Hegel và Feuerbach), kinh tế chính trị cổ điển Anh (Adam Smith và David Ricardo), và chủ nghĩa xã hội không tưởng Pháp (Saint-Simon, Fourier, Owen). Các đáp án còn lại sai vì chúng bao gồm các yếu tố khoa học tự nhiên hoặc thiếu các bộ phận cấu thành quan trọng của nguồn gốc lý luận."
+        "explanation": "Theo giáo trình Triết học Mác-Lênin, nguồn gốc lý luận của triết học Mác-Lênin bao gồm: triết học cổ điển Đức (Hegel và Feuerbach), kinh tế chính trị cổ điển Anh (Adam Smith và David Ricardo), và chủ nghĩa xã hội không tưởng Pháp (Saint-Simon, Fourier, Owen). Các đáp án còn lại sai vì chúng bao gồm các yếu tố khoa học tự nhiên hoặc thiếu các bộ phận cấu thành quan trọng của nguồn gốc lý luận."
       },
       {
         "question": 33,
@@ -786,7 +786,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình, tiền đề khoa học tự nhiên cho sự ra đời của triết học Mác-Lênin là học thuyết tế bào, thuyết tiến hóa của Darwin, và định luật bảo toàn và chuyển hóa năng lượng. Các đáp án còn lại sai vì thiếu một trong các tiền đề khoa học tự nhiên quan trọng này hoặc bao gồm các yếu tố không chính xác (ví dụ: thuyết nguyên tử không phải là một trong ba tiền đề chính)."
+        "explanation": "Theo giáo trình, tiền đề khoa học tự nhiên cho sự ra đời của triết học Mác-Lênin là học thuyết tế bào, thuyết tiến hóa của Darwin, và định luật bảo toàn và chuyển hóa năng lượng. Các đáp án còn lại sai vì thiếu một trong các tiền đề khoa học tự nhiên quan trọng này hoặc bao gồm các yếu tố không chính xác (ví dụ: thuyết nguyên tử không phải là một trong ba tiền đề chính)."
       },
       {
         "question": 34,
@@ -810,7 +810,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Triết học Mác-Lênin là sự thống nhất giữa thế giới quan duy vật (chấp nhận vật chất là cái có trước, ý thức là cái có sau, vật chất quyết định ý thức) và phương pháp luận biện chứng (thừa nhận sự liên hệ phổ biến, sự vận động và phát triển của các sự vật, hiện tượng). Các đáp án còn lại sai vì hoặc kết hợp thế giới quan duy tâm (ý thức quyết định vật chất) hoặc phương pháp luận siêu hình (xem xét sự vật, hiện tượng một cách cô lập, tĩnh tại)."
+        "explanation": "Triết học Mác-Lênin là sự thống nhất giữa thế giới quan duy vật (chấp nhận vật chất là cái có trước, ý thức là cái có sau, vật chất quyết định ý thức) và phương pháp luận biện chứng (thừa nhận sự liên hệ phổ biến, sự vận động và phát triển của các sự vật, hiện tượng). Các đáp án còn lại sai vì hoặc kết hợp thế giới quan duy tâm (ý thức quyết định vật chất) hoặc phương pháp luận siêu hình (xem xét sự vật, hiện tượng một cách cô lập, tĩnh tại)."
       },
       {
         "question": 35,
@@ -834,7 +834,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Chức năng cơ bản của triết học Mác-Lênin là cung cấp thế giới quan duy vật biện chứng và phương pháp luận biện chứng duy vật cho nhận thức và hoạt động thực tiễn của con người. Các đáp án còn lại chỉ đề cập đến một phần chức năng của triết học Mác-Lênin hoặc không phải là chức năng chính của nó."
+        "explanation": "Chức năng cơ bản của triết học Mác-Lênin là cung cấp thế giới quan duy vật biện chứng và phương pháp luận biện chứng duy vật cho nhận thức và hoạt động thực tiễn của con người. Các đáp án còn lại chỉ đề cập đến một phần chức năng của triết học Mác-Lênin hoặc không phải là chức năng chính của nó."
       },
       {
         "question": 36,
@@ -858,7 +858,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Quy luật của triết học là những quy luật chung nhất, phổ biến nhất, còn quy luật của khoa học chuyên ngành là những quy luật riêng, đặc thù hơn. Mối quan hệ này thể hiện mối quan hệ giữa cái chung và cái riêng. Các đáp án còn lại sai vì chúng không phản ánh mối quan hệ bao quát giữa quy luật triết học và quy luật khoa học chuyên ngành."
+        "explanation": "Quy luật của triết học là những quy luật chung nhất, phổ biến nhất, còn quy luật của khoa học chuyên ngành là những quy luật riêng, đặc thù hơn. Mối quan hệ này thể hiện mối quan hệ giữa cái chung và cái riêng. Các đáp án còn lại sai vì chúng không phản ánh mối quan hệ bao quát giữa quy luật triết học và quy luật khoa học chuyên ngành."
       },
       {
         "question": 37,
@@ -882,7 +882,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Câu trích dẫn này thường được dùng để nhấn mạnh vai trò lịch sử của giai cấp tư sản trong việc phát triển lực lượng sản xuất. Các đáp án còn lại sai vì không phù hợp với nội dung của câu trích dẫn nổi tiếng này."
+        "explanation": "Câu trích dẫn này thường được dùng để nhấn mạnh vai trò lịch sử của giai cấp tư sản trong việc phát triển lực lượng sản xuất. Các đáp án còn lại sai vì không phù hợp với nội dung của câu trích dẫn nổi tiếng này."
       },
       {
         "question": 38,
@@ -906,7 +906,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Giai đoạn 1841-1844 là thời kỳ mà Mác và Ăngghen chuyển từ lập trường duy tâm và dân chủ cách mạng sang lập trường duy vật và cộng sản chủ nghĩa. Các đáp án còn lại không chính xác vì chúng mô tả các giai đoạn khác trong sự phát triển của triết học Mác-Lênin."
+        "explanation": "Giai đoạn 1841-1844 là thời kỳ mà Mác và Ăngghen chuyển từ lập trường duy tâm và dân chủ cách mạng sang lập trường duy vật và cộng sản chủ nghĩa. Các đáp án còn lại không chính xác vì chúng mô tả các giai đoạn khác trong sự phát triển của triết học Mác-Lênin."
       },
       {
         "question": 39,
@@ -930,7 +930,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Trong giai đoạn 1844-1847, Mác và Ăngghen đã đề xuất những nguyên lý cơ bản của chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử. Các đáp án còn lại không chính xác vì chúng mô tả các giai đoạn khác trong sự phát triển của triết học Mác-Lênin."
+        "explanation": "Trong giai đoạn 1844-1847, Mác và Ăngghen đã đề xuất những nguyên lý cơ bản của chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử. Các đáp án còn lại không chính xác vì chúng mô tả các giai đoạn khác trong sự phát triển của triết học Mác-Lênin."
       },
       {
         "question": 40,
@@ -954,7 +954,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Giai đoạn 1848-1895 là thời kỳ Mác và Ăngghen tiếp tục bổ sung và phát triển toàn diện lý luận triết học của mình, dựa trên kinh nghiệm thực tiễn của phong trào công nhân. Các đáp án còn lại không chính xác vì chúng mô tả các giai đoạn khác trong sự phát triển của triết học Mác-Lênin hoặc đưa ra những nhận định sai lệch."
+        "explanation": "Giai đoạn 1848-1895 là thời kỳ Mác và Ăngghen tiếp tục bổ sung và phát triển toàn diện lý luận triết học của mình, dựa trên kinh nghiệm thực tiễn của phong trào công nhân. Các đáp án còn lại không chính xác vì chúng mô tả các giai đoạn khác trong sự phát triển của triết học Mác-Lênin hoặc đưa ra những nhận định sai lệch."
       },
       {
         "question": 41,
@@ -978,7 +978,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Giai đoạn (1841 - 1844) đánh dấu bước chuyển quan trọng trong tư tưởng của Mác và Ăngghen, từ chủ nghĩa duy tâm và dân chủ cách mạng sang chủ nghĩa duy vật và chủ nghĩa cộng sản. Các đáp án còn lại sai vì chúng chỉ các giai đoạn khác trong quá trình hình thành và phát triển triết học Mác-Lênin."
+        "explanation": "Giai đoạn (1841 - 1844) đánh dấu bước chuyển quan trọng trong tư tưởng của Mác và Ăngghen, từ chủ nghĩa duy tâm và dân chủ cách mạng sang chủ nghĩa duy vật và chủ nghĩa cộng sản. Các đáp án còn lại sai vì chúng chỉ các giai đoạn khác trong quá trình hình thành và phát triển triết học Mác-Lênin."
       },
       {
         "question": 42,
@@ -1002,7 +1002,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo giáo trình, giai đoạn 1848-1895 đánh dấu sự bổ sung và phát triển toàn diện lý luận triết học Mác-Lênin, đặc biệt là sau khi Ăng-ghen tiếp tục phát triển các tư tưởng của Mác sau khi Mác qua đời. Các giai đoạn khác không phản ánh đầy đủ quá trình này.\n\nCác đáp án khác sai vì:\n*   A và D: Giai đoạn 1841-1844 và 1841-1847 là giai đoạn hình thành tư tưởng triết học của Mác và Ăng-ghen, chưa phải là giai đoạn phát triển toàn diện.\n*   B: Giai đoạn 1844-1847 là giai đoạn chuyển từ chủ nghĩa duy tâm sang chủ nghĩa duy vật và hình thành những nguyên lý cơ bản, chưa phải là giai đoạn phát triển toàn diện."
+        "explanation": "Theo giáo trình, giai đoạn 1848-1895 đánh dấu sự bổ sung và phát triển toàn diện lý luận triết học Mác-Lênin, đặc biệt là sau khi Ăng-ghen tiếp tục phát triển các tư tưởng của Mác sau khi Mác qua đời. Các giai đoạn khác không phản ánh đầy đủ quá trình này.\n\nCác đáp án khác sai vì:\n*   A và D: Giai đoạn 1841-1844 và 1841-1847 là giai đoạn hình thành tư tưởng triết học của Mác và Ăng-ghen, chưa phải là giai đoạn phát triển toàn diện.\n*   B: Giai đoạn 1844-1847 là giai đoạn chuyển từ chủ nghĩa duy tâm sang chủ nghĩa duy vật và hình thành những nguyên lý cơ bản, chưa phải là giai đoạn phát triển toàn diện."
       },
       {
         "question": 43,
@@ -1026,7 +1026,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình, giai đoạn 1844-1847 là thời kỳ Mác và Ăng-ghen đề xuất những nguyên lý triết học duy vật biện chứng và duy vật lịch sử, đánh dấu bước ngoặt quan trọng trong sự hình thành triết học Mác-Lênin.\n\nCác đáp án khác sai vì:\n*   A: Giai đoạn 1841-1844 là giai đoạn Mác và Ăng-ghen chịu ảnh hưởng của triết học Hê-ghen và Feuerbach.\n*   C: Giai đoạn 1848-1895 là giai đoạn phát triển và hoàn thiện triết học Mác, đặc biệt là do Ăng-ghen thực hiện.\n*   D: Giai đoạn những năm đầu thế kỷ XX là giai đoạn Lênin phát triển triết học Mác."
+        "explanation": "Theo giáo trình, giai đoạn 1844-1847 là thời kỳ Mác và Ăng-ghen đề xuất những nguyên lý triết học duy vật biện chứng và duy vật lịch sử, đánh dấu bước ngoặt quan trọng trong sự hình thành triết học Mác-Lênin.\n\nCác đáp án khác sai vì:\n*   A: Giai đoạn 1841-1844 là giai đoạn Mác và Ăng-ghen chịu ảnh hưởng của triết học Hê-ghen và Feuerbach.\n*   C: Giai đoạn 1848-1895 là giai đoạn phát triển và hoàn thiện triết học Mác, đặc biệt là do Ăng-ghen thực hiện.\n*   D: Giai đoạn những năm đầu thế kỷ XX là giai đoạn Lênin phát triển triết học Mác."
       },
       {
         "question": 44,
@@ -1050,7 +1050,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình, trong giai đoạn 1893-1907, V.I.Lênin tập trung vào việc bảo vệ và phát triển triết học Mác, đồng thời xây dựng đảng Mác-xít ở Nga và chuẩn bị cho cuộc cách mạng dân chủ tư sản lần thứ nhất.\n\nCác đáp án khác sai vì:\n*   B: Thời kỳ V.I.Lênin phát triển toàn diện triết học Mác và lãnh đạo phong trào công nhân Nga là giai đoạn 1907-1917.\n*   C: Thời kỳ hoàn thiện triết học Mác, gắn liền với việc nghiên cứu các vấn đề xây dựng chủ nghĩa xã hội là giai đoạn 1917-1924.\n*   D: Thời kỳ tổng kết thành tựu của cách mạng tháng Mười là giai đoạn sau năm 1917."
+        "explanation": "Theo giáo trình, trong giai đoạn 1893-1907, V.I.Lênin tập trung vào việc bảo vệ và phát triển triết học Mác, đồng thời xây dựng đảng Mác-xít ở Nga và chuẩn bị cho cuộc cách mạng dân chủ tư sản lần thứ nhất.\n\nCác đáp án khác sai vì:\n*   B: Thời kỳ V.I.Lênin phát triển toàn diện triết học Mác và lãnh đạo phong trào công nhân Nga là giai đoạn 1907-1917.\n*   C: Thời kỳ hoàn thiện triết học Mác, gắn liền với việc nghiên cứu các vấn đề xây dựng chủ nghĩa xã hội là giai đoạn 1917-1924.\n*   D: Thời kỳ tổng kết thành tựu của cách mạng tháng Mười là giai đoạn sau năm 1917."
       },
       {
         "question": 45,
@@ -1074,7 +1074,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình, giai đoạn 1907-1917 là thời kỳ V.I.Lênin phát triển toàn diện triết học Mác và lãnh đạo phong trào công nhân Nga, chuẩn bị cho cách mạng xã hội chủ nghĩa.\n\nCác đáp án khác sai vì:\n*   A: Thời kỳ V.I.Lênin bảo vệ và phát triển triết học Mác là giai đoạn 1893-1907.\n*   C: Thời kỳ hoàn thiện triết học Mác, gắn liền với việc nghiên cứu các vấn đề xây dựng chủ nghĩa xã hội là giai đoạn 1917-1924.\n*   D: Thời kỳ tổng kết thành tựu của cách mạng tháng Mười là giai đoạn sau năm 1917."
+        "explanation": "Theo giáo trình, giai đoạn 1907-1917 là thời kỳ V.I.Lênin phát triển toàn diện triết học Mác và lãnh đạo phong trào công nhân Nga, chuẩn bị cho cách mạng xã hội chủ nghĩa.\n\nCác đáp án khác sai vì:\n*   A: Thời kỳ V.I.Lênin bảo vệ và phát triển triết học Mác là giai đoạn 1893-1907.\n*   C: Thời kỳ hoàn thiện triết học Mác, gắn liền với việc nghiên cứu các vấn đề xây dựng chủ nghĩa xã hội là giai đoạn 1917-1924.\n*   D: Thời kỳ tổng kết thành tựu của cách mạng tháng Mười là giai đoạn sau năm 1917."
       },
       {
         "question": 46,
@@ -1098,7 +1098,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo giáo trình, giai đoạn 1917-1924 là thời kỳ V.I.Lênin tổng kết kinh nghiệm thực tiễn cách mạng, bổ sung, hoàn thiện triết học Mác, gắn liền với nghiên cứu các vấn đề xây dựng chủ nghĩa xã hội.\n\nCác đáp án khác sai vì:\n*   A: Thời kỳ V.I.Lênin bảo vệ triết học Mác và chuẩn bị cho cách mạng tháng Mười là giai đoạn 1893-1907.\n*   B: Thời kỳ phát triển triết học Mác và lãnh đạo Cách mạng tháng Mười là giai đoạn 1907-1917.\n*   D: Không có giai đoạn nào Lênin chuyển từ lập trường chủ nghĩa duy vật sang chủ nghĩa duy tâm."
+        "explanation": "Theo giáo trình, giai đoạn 1917-1924 là thời kỳ V.I.Lênin tổng kết kinh nghiệm thực tiễn cách mạng, bổ sung, hoàn thiện triết học Mác, gắn liền với nghiên cứu các vấn đề xây dựng chủ nghĩa xã hội.\n\nCác đáp án khác sai vì:\n*   A: Thời kỳ V.I.Lênin bảo vệ triết học Mác và chuẩn bị cho cách mạng tháng Mười là giai đoạn 1893-1907.\n*   B: Thời kỳ phát triển triết học Mác và lãnh đạo Cách mạng tháng Mười là giai đoạn 1907-1917.\n*   D: Không có giai đoạn nào Lênin chuyển từ lập trường chủ nghĩa duy vật sang chủ nghĩa duy tâm."
       },
       {
         "question": 47,
@@ -1122,7 +1122,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình, thời kỳ V.I.Lênin bảo vệ và phát triển triết học Mác-Lênin nhằm thành lập đảng Mác – xít ở Nga và chuẩn bị cho cuộc cách mạng dân chủ tư sản lần thứ nhất diễn ra trong giai đoạn 1893-1907.\n\nCác đáp án khác sai vì:\n*   B: Giai đoạn 1907-1917 là thời kỳ chuẩn bị cho cách mạng xã hội chủ nghĩa.\n*   C: Giai đoạn 1917-1924 là thời kỳ xây dựng chủ nghĩa xã hội.\n*   D: Giai đoạn sau chiến tranh thế giới thứ I không liên quan trực tiếp đến việc thành lập đảng Mác-xít và chuẩn bị cho cuộc cách mạng dân chủ tư sản lần thứ nhất."
+        "explanation": "Theo giáo trình, thời kỳ V.I.Lênin bảo vệ và phát triển triết học Mác-Lênin nhằm thành lập đảng Mác – xít ở Nga và chuẩn bị cho cuộc cách mạng dân chủ tư sản lần thứ nhất diễn ra trong giai đoạn 1893-1907.\n\nCác đáp án khác sai vì:\n*   B: Giai đoạn 1907-1917 là thời kỳ chuẩn bị cho cách mạng xã hội chủ nghĩa.\n*   C: Giai đoạn 1917-1924 là thời kỳ xây dựng chủ nghĩa xã hội.\n*   D: Giai đoạn sau chiến tranh thế giới thứ I không liên quan trực tiếp đến việc thành lập đảng Mác-xít và chuẩn bị cho cuộc cách mạng dân chủ tư sản lần thứ nhất."
       }
     ]
   },
@@ -1153,7 +1153,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo giáo trình, Đêmôcrito là nhà triết học duy vật thời cổ đại, người đã quan niệm vật chất là nguyên tử, những phần tử nhỏ nhất, không thể phân chia được. Các đáp án còn lại sai vì Thales đồng nhất vật chất với nước, Anaximens đồng nhất vật chất với không khí, và Heraclit đồng nhất vật chất với lửa."
+        "explanation": "Theo giáo trình, Đêmôcrito là nhà triết học duy vật thời cổ đại, người đã quan niệm vật chất là nguyên tử, những phần tử nhỏ nhất, không thể phân chia được. Các đáp án còn lại sai vì Thales đồng nhất vật chất với nước, Anaximens đồng nhất vật chất với không khí, và Heraclit đồng nhất vật chất với lửa."
       },
       {
         "question": 2,
@@ -1177,7 +1177,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình, Thales là nhà triết học duy vật thời cổ đại, người đã đồng nhất vật chất với nước, coi nước là cơ sở ban đầu của mọi vật. Các đáp án còn lại sai vì Đêmôcrito quan niệm vật chất là nguyên tử, Heraclit đồng nhất vật chất với lửa, và Anaximens đồng nhất vật chất với không khí."
+        "explanation": "Theo giáo trình, Thales là nhà triết học duy vật thời cổ đại, người đã đồng nhất vật chất với nước, coi nước là cơ sở ban đầu của mọi vật. Các đáp án còn lại sai vì Đêmôcrito quan niệm vật chất là nguyên tử, Heraclit đồng nhất vật chất với lửa, và Anaximens đồng nhất vật chất với không khí."
       },
       {
         "question": 3,
@@ -1201,7 +1201,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo giáo trình, Heraclit là nhà triết học duy vật thời cổ đại, người đã đồng nhất vật chất với lửa, coi lửa là biểu tượng cho sự vận động và biến đổi vĩnh viễn của thế giới. Các đáp án còn lại sai vì Thales đồng nhất vật chất với nước, Đêmôcrito quan niệm vật chất là nguyên tử, và Anaximens đồng nhất vật chất với không khí."
+        "explanation": "Theo giáo trình, Heraclit là nhà triết học duy vật thời cổ đại, người đã đồng nhất vật chất với lửa, coi lửa là biểu tượng cho sự vận động và biến đổi vĩnh viễn của thế giới. Các đáp án còn lại sai vì Thales đồng nhất vật chất với nước, Đêmôcrito quan niệm vật chất là nguyên tử, và Anaximens đồng nhất vật chất với không khí."
       },
       {
         "question": 4,
@@ -1225,7 +1225,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo giáo trình, chủ nghĩa duy vật biện chứng (mà tiêu biểu là triết học Mác-Lênin) quan niệm vận động là phương thức tồn tại của vật chất, là thuộc tính cố hữu của vật chất, không thể tách rời vật chất. Các đáp án còn lại sai vì chủ nghĩa duy tâm coi ý thức là cái có trước và quyết định vật chất, chủ nghĩa duy vật thời cổ đại và siêu hình chưa thấy được tính biện chứng của vận động."
+        "explanation": "Theo giáo trình, chủ nghĩa duy vật biện chứng (mà tiêu biểu là triết học Mác-Lênin) quan niệm vận động là phương thức tồn tại của vật chất, là thuộc tính cố hữu của vật chất, không thể tách rời vật chất. Các đáp án còn lại sai vì chủ nghĩa duy tâm coi ý thức là cái có trước và quyết định vật chất, chủ nghĩa duy vật thời cổ đại và siêu hình chưa thấy được tính biện chứng của vận động."
       },
       {
         "question": 5,
@@ -1249,7 +1249,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình, đặc điểm chung của quan niệm duy vật về vật chất ở thời kỳ cổ đại là đồng nhất vật chất nói chung với một dạng cụ thể, hữu hình, cảm tính của vật chất như nước, lửa, không khí, nguyên tử. Các đáp án còn lại sai vì chủ nghĩa duy tâm đồng nhất vật chất với ý niệm tuyệt đối, và quan niệm về khối lượng siêu hình không phải là đặc điểm của thời kỳ cổ đại."
+        "explanation": "Theo giáo trình, đặc điểm chung của quan niệm duy vật về vật chất ở thời kỳ cổ đại là đồng nhất vật chất nói chung với một dạng cụ thể, hữu hình, cảm tính của vật chất như nước, lửa, không khí, nguyên tử. Các đáp án còn lại sai vì chủ nghĩa duy tâm đồng nhất vật chất với ý niệm tuyệt đối, và quan niệm về khối lượng siêu hình không phải là đặc điểm của thời kỳ cổ đại."
       },
       {
         "question": 6,
@@ -1273,7 +1273,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo giáo trình, quan điểm 'Vật chất là phạm trù triết học dùng để chỉ thực tại khách quan' là quan điểm của chủ nghĩa duy vật biện chứng (Mác-Lênin), không phải là quan điểm của chủ nghĩa duy vật trước Mác. Các đáp án còn lại đều là những quan điểm của chủ nghĩa duy vật trước Mác."
+        "explanation": "Theo giáo trình, quan điểm 'Vật chất là phạm trù triết học dùng để chỉ thực tại khách quan' là quan điểm của chủ nghĩa duy vật biện chứng (Mác-Lênin), không phải là quan điểm của chủ nghĩa duy vật trước Mác. Các đáp án còn lại đều là những quan điểm của chủ nghĩa duy vật trước Mác."
       },
       {
         "question": 7,
@@ -1297,7 +1297,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo giáo trình, chủ nghĩa duy vật siêu hình (thế kỷ XVII, XVIII) thường có xu hướng xem xét thế giới như một cỗ máy khổng lồ, trong đó mọi vận động đều quy về vận động cơ học. Các đáp án còn lại sai vì chủ nghĩa duy tâm coi ý thức là nguyên nhân của vận động, còn chủ nghĩa duy vật biện chứng thừa nhận sự tồn tại của nhiều hình thức vận động khác nhau, liên hệ chặt chẽ với nhau."
+        "explanation": "Theo giáo trình, chủ nghĩa duy vật siêu hình (thế kỷ XVII, XVIII) thường có xu hướng xem xét thế giới như một cỗ máy khổng lồ, trong đó mọi vận động đều quy về vận động cơ học. Các đáp án còn lại sai vì chủ nghĩa duy tâm coi ý thức là nguyên nhân của vận động, còn chủ nghĩa duy vật biện chứng thừa nhận sự tồn tại của nhiều hình thức vận động khác nhau, liên hệ chặt chẽ với nhau."
       },
       {
         "question": 8,
@@ -1337,7 +1337,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình, những phát minh trong lĩnh vực vật lý học cuối thế kỷ XIX đầu thế kỷ XX (ví dụ như phát hiện ra điện tử) đã bác bỏ quan niệm về vật chất bất biến của cơ học cổ điển, cho thấy giới hạn nhận thức trước đây của con người về vật chất đã bị phá vỡ. Các đáp án còn lại sai vì vật chất không bị tiêu tan, mà chỉ chuyển hóa sang các dạng khác; vận động cũng không bị tiêu tan."
+        "explanation": "Theo giáo trình, những phát minh trong lĩnh vực vật lý học cuối thế kỷ XIX đầu thế kỷ XX (ví dụ như phát hiện ra điện tử) đã bác bỏ quan niệm về vật chất bất biến của cơ học cổ điển, cho thấy giới hạn nhận thức trước đây của con người về vật chất đã bị phá vỡ. Các đáp án còn lại sai vì vật chất không bị tiêu tan, mà chỉ chuyển hóa sang các dạng khác; vận động cũng không bị tiêu tan."
       },
       {
         "question": 10,
@@ -1361,7 +1361,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình, định nghĩa vật chất của Lênin là: 'Vật chất là một *phạm trù triết học* dùng để chỉ *thực tại khách quan* được đem lại cho con người trong cảm giác, được cảm giác của chúng ta chép lại, chụp lại, phản ánh, và tồn tại không lệ thuộc vào cảm giác'. Các đáp án còn lại sai vì không phản ánh đúng định nghĩa của Lênin."
+        "explanation": "Theo giáo trình, định nghĩa vật chất của Lênin là: 'Vật chất là một *phạm trù triết học* dùng để chỉ *thực tại khách quan* được đem lại cho con người trong cảm giác, được cảm giác của chúng ta chép lại, chụp lại, phản ánh, và tồn tại không lệ thuộc vào cảm giác'. Các đáp án còn lại sai vì không phản ánh đúng định nghĩa của Lênin."
       },
       {
         "question": 11,
@@ -1385,7 +1385,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình, chủ nghĩa duy vật biện chứng khẳng định vật chất là vô hạn, vô tận, vĩnh viễn tồn tại, không sinh ra và không mất đi. Các đáp án còn lại sai vì vật chất không bị sinh ra hay mất đi, và không đồng nhất với vật thể cụ thể."
+        "explanation": "Theo giáo trình, chủ nghĩa duy vật biện chứng khẳng định vật chất là vô hạn, vô tận, vĩnh viễn tồn tại, không sinh ra và không mất đi. Các đáp án còn lại sai vì vật chất không bị sinh ra hay mất đi, và không đồng nhất với vật thể cụ thể."
       },
       {
         "question": 12,
@@ -1409,7 +1409,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình Triết học Mác-Lênin, triết học Mác-Lênin không đồng nhất vật chất với vật thể cụ thể nào. Vật chất là một phạm trù triết học, dùng để chỉ thực tại khách quan nói chung, còn vật thể là những dạng tồn tại cụ thể của vật chất. \n\nCác đáp án khác sai vì:\n- A: Đồng nhất vật chất với dạng cụ thể là quan điểm của chủ nghĩa duy vật siêu hình.\n- C: Vật chất luôn tồn tại thông qua các dạng cụ thể của nó, không tách rời.\n- D: Vật chất là cái có trước và quyết định ý thức, không lệ thuộc vào ý thức."
+        "explanation": "Theo giáo trình Triết học Mác-Lênin, triết học Mác-Lênin không đồng nhất vật chất với vật thể cụ thể nào. Vật chất là một phạm trù triết học, dùng để chỉ thực tại khách quan nói chung, còn vật thể là những dạng tồn tại cụ thể của vật chất. \n\nCác đáp án khác sai vì:\n- A: Đồng nhất vật chất với dạng cụ thể là quan điểm của chủ nghĩa duy vật siêu hình.\n- C: Vật chất luôn tồn tại thông qua các dạng cụ thể của nó, không tách rời.\n- D: Vật chất là cái có trước và quyết định ý thức, không lệ thuộc vào ý thức."
       },
       {
         "question": 13,
@@ -1433,7 +1433,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Định nghĩa vật chất của Lênin khẳng định vật chất là thực tại khách quan, tồn tại bên ngoài và độc lập với ý thức con người, và được nhận thức thông qua cảm giác. Vật chất tồn tại thông qua các dạng cụ thể của nó.\n\nCác đáp án khác sai vì:\n- B: Vật chất không tồn tại tách rời các dạng cụ thể.\n- C: Đồng nhất vật chất với một dạng cụ thể là sai lầm.\n- D: Vật chất quyết định ý thức, không phụ thuộc vào ý thức."
+        "explanation": "Định nghĩa vật chất của Lênin khẳng định vật chất là thực tại khách quan, tồn tại bên ngoài và độc lập với ý thức con người, và được nhận thức thông qua cảm giác. Vật chất tồn tại thông qua các dạng cụ thể của nó.\n\nCác đáp án khác sai vì:\n- B: Vật chất không tồn tại tách rời các dạng cụ thể.\n- C: Đồng nhất vật chất với một dạng cụ thể là sai lầm.\n- D: Vật chất quyết định ý thức, không phụ thuộc vào ý thức."
       },
       {
         "question": 14,
@@ -1457,7 +1457,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Nội dung \"Được đem lại cho con người trong cảm giác\" thể hiện rằng ý thức là sự phản ánh thế giới vật chất khách quan vào bộ óc con người. Cảm giác là hình thức đầu tiên của sự phản ánh đó.\n\nCác đáp án khác sai vì:\n- A: Vật chất có trước ý thức.\n- B: Vật chất và ý thức có mối quan hệ biện chứng, ý thức là sự phản ánh vật chất.\n- D: Con người có khả năng nhận thức thế giới vật chất thông qua cảm giác và lý tính."
+        "explanation": "Nội dung \"Được đem lại cho con người trong cảm giác\" thể hiện rằng ý thức là sự phản ánh thế giới vật chất khách quan vào bộ óc con người. Cảm giác là hình thức đầu tiên của sự phản ánh đó.\n\nCác đáp án khác sai vì:\n- A: Vật chất có trước ý thức.\n- B: Vật chất và ý thức có mối quan hệ biện chứng, ý thức là sự phản ánh vật chất.\n- D: Con người có khả năng nhận thức thế giới vật chất thông qua cảm giác và lý tính."
       },
       {
         "question": 15,
@@ -1481,7 +1481,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Luận điểm này khẳng định rằng cảm giác và ý thức của chúng ta có khả năng nhận thức được thế giới vật chất khách quan, mặc dù sự nhận thức này có thể không hoàn toàn đầy đủ và chính xác ngay từ đầu.\n\nCác đáp án khác sai vì:\n- B: Phủ nhận khả năng nhận thức của con người là sai lầm.\n- C: Cảm giác, ý thức không chỉ phản ánh thụ động mà còn có tính năng động, sáng tạo.\n- D: Không phải tất cả các đáp án đều đúng."
+        "explanation": "Luận điểm này khẳng định rằng cảm giác và ý thức của chúng ta có khả năng nhận thức được thế giới vật chất khách quan, mặc dù sự nhận thức này có thể không hoàn toàn đầy đủ và chính xác ngay từ đầu.\n\nCác đáp án khác sai vì:\n- B: Phủ nhận khả năng nhận thức của con người là sai lầm.\n- C: Cảm giác, ý thức không chỉ phản ánh thụ động mà còn có tính năng động, sáng tạo.\n- D: Không phải tất cả các đáp án đều đúng."
       },
       {
         "question": 16,
@@ -1505,7 +1505,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Thuộc tính cơ bản nhất để phân biệt vật chất với ý thức trong định nghĩa của Lênin là \"thực tại khách quan\". Vật chất là cái tồn tại bên ngoài và độc lập với ý thức, còn ý thức là sự phản ánh của vật chất.\n\nCác đáp án khác sai vì:\n- B, C, D: Vận động, biến đổi, khối lượng và quang tính là những thuộc tính của vật chất, nhưng không phải là thuộc tính cơ bản nhất để phân biệt vật chất với ý thức."
+        "explanation": "Thuộc tính cơ bản nhất để phân biệt vật chất với ý thức trong định nghĩa của Lênin là \"thực tại khách quan\". Vật chất là cái tồn tại bên ngoài và độc lập với ý thức, còn ý thức là sự phản ánh của vật chất.\n\nCác đáp án khác sai vì:\n- B, C, D: Vận động, biến đổi, khối lượng và quang tính là những thuộc tính của vật chất, nhưng không phải là thuộc tính cơ bản nhất để phân biệt vật chất với ý thức."
       },
       {
         "question": 17,
@@ -1529,7 +1529,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Định nghĩa vật chất của Lênin có ý nghĩa to lớn về mặt lý luận và thực tiễn:\n- A: Phân biệt phạm trù triết học \"vật chất\" với khái niệm \"vật chất\" trong khoa học cụ thể.\n- B: Khẳng định tính thứ nhất của vật chất và khả năng nhận thức thế giới của con người.\n- C: Khắc phục hạn chế của chủ nghĩa duy vật trước Mác và cung cấp cơ sở khoa học để xác định cái gì thuộc về vật chất."
+        "explanation": "Định nghĩa vật chất của Lênin có ý nghĩa to lớn về mặt lý luận và thực tiễn:\n- A: Phân biệt phạm trù triết học \"vật chất\" với khái niệm \"vật chất\" trong khoa học cụ thể.\n- B: Khẳng định tính thứ nhất của vật chất và khả năng nhận thức thế giới của con người.\n- C: Khắc phục hạn chế của chủ nghĩa duy vật trước Mác và cung cấp cơ sở khoa học để xác định cái gì thuộc về vật chất."
       },
       {
         "question": 18,
@@ -1553,7 +1553,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo chủ nghĩa duy vật biện chứng, vận động là thuộc tính cố hữu của vật chất, là phương thức tồn tại của vật chất. Vận động là tự thân vận động, do mâu thuẫn nội tại của sự vật quyết định.\n\nCác đáp án khác sai vì:\n- B: Quan điểm này thuộc về chủ nghĩa duy tâm.\n- C: Vận động là tuyệt đối, đứng im là tương đối.\n- D: Vận động của sự vật không phụ thuộc vào ý chí con người."
+        "explanation": "Theo chủ nghĩa duy vật biện chứng, vận động là thuộc tính cố hữu của vật chất, là phương thức tồn tại của vật chất. Vận động là tự thân vận động, do mâu thuẫn nội tại của sự vật quyết định.\n\nCác đáp án khác sai vì:\n- B: Quan điểm này thuộc về chủ nghĩa duy tâm.\n- C: Vận động là tuyệt đối, đứng im là tương đối.\n- D: Vận động của sự vật không phụ thuộc vào ý chí con người."
       },
       {
         "question": 19,
@@ -1577,7 +1577,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo chủ nghĩa duy vật biện chứng, không gian và thời gian là những hình thức tồn tại của vật chất, mang tính khách quan, tồn tại độc lập với ý thức con người.\n\nCác đáp án khác sai vì:\n- A: Không gian và thời gian là hình thức tồn tại của vật chất, không tách rời vật chất, nhưng đáp án này chưa đầy đủ.\n- B: Không gian có ba chiều, thời gian có một chiều là đúng, nhưng chưa bao quát hết các khía cạnh.\n- C: Không phải tất cả các đáp án đều đúng."
+        "explanation": "Theo chủ nghĩa duy vật biện chứng, không gian và thời gian là những hình thức tồn tại của vật chất, mang tính khách quan, tồn tại độc lập với ý thức con người.\n\nCác đáp án khác sai vì:\n- A: Không gian và thời gian là hình thức tồn tại của vật chất, không tách rời vật chất, nhưng đáp án này chưa đầy đủ.\n- B: Không gian có ba chiều, thời gian có một chiều là đúng, nhưng chưa bao quát hết các khía cạnh.\n- C: Không phải tất cả các đáp án đều đúng."
       },
       {
         "question": 20,
@@ -1601,7 +1601,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo quan điểm duy vật biện chứng, không gian và thời gian gắn liền với nhau và với vật chất vận động. Không gian và thời gian là những hình thức tồn tại của vật chất, không thể tách rời vật chất và vận động.\n\nCác đáp án khác sai vì:\n- A: Sai về số chiều của không gian và thời gian.\n- C: Không gian và thời gian không tồn tại độc lập với vật chất vận động.\n- D: Không gian và thời gian mang tính khách quan, không mang tính chủ quan."
+        "explanation": "Theo quan điểm duy vật biện chứng, không gian và thời gian gắn liền với nhau và với vật chất vận động. Không gian và thời gian là những hình thức tồn tại của vật chất, không thể tách rời vật chất và vận động.\n\nCác đáp án khác sai vì:\n- A: Sai về số chiều của không gian và thời gian.\n- C: Không gian và thời gian không tồn tại độc lập với vật chất vận động.\n- D: Không gian và thời gian mang tính khách quan, không mang tính chủ quan."
       },
       {
         "question": 21,
@@ -1625,7 +1625,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Chủ nghĩa duy vật biện chứng khẳng định rằng thế giới thống nhất ở tính vật chất. Mọi sự vật, hiện tượng trong thế giới đều là những dạng tồn tại khác nhau của vật chất, vận động theo những quy luật khách quan.\n\nCác đáp án khác sai vì:\n- A, C: Chủ nghĩa duy tâm cho rằng ý thức hoặc tinh thần là cơ sở của thế giới.\n- D: Chủ nghĩa duy vật siêu hình thường xem xét thế giới một cách cứng nhắc, không thấy được tính biện chứng của nó."
+        "explanation": "Chủ nghĩa duy vật biện chứng khẳng định rằng thế giới thống nhất ở tính vật chất. Mọi sự vật, hiện tượng trong thế giới đều là những dạng tồn tại khác nhau của vật chất, vận động theo những quy luật khách quan.\n\nCác đáp án khác sai vì:\n- A, C: Chủ nghĩa duy tâm cho rằng ý thức hoặc tinh thần là cơ sở của thế giới.\n- D: Chủ nghĩa duy vật siêu hình thường xem xét thế giới một cách cứng nhắc, không thấy được tính biện chứng của nó."
       },
       {
         "question": 22,
@@ -1649,7 +1649,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D sai vì theo quan điểm của chủ nghĩa duy vật biện chứng (Giáo trình Triết học Mác-Lênin), thế giới vật chất tồn tại trong sự liên hệ phổ biến, các bộ phận của nó liên hệ và chuyển hóa lẫn nhau, chứ không phải là những bộ phận riêng biệt. Các đáp án A, B, và C đều phản ánh đúng quan điểm của chủ nghĩa duy vật biện chứng về thế giới vật chất."
+        "explanation": "Vì theo quan điểm của chủ nghĩa duy vật biện chứng (Giáo trình Triết học Mác-Lênin), thế giới vật chất tồn tại trong sự liên hệ phổ biến, các bộ phận của nó liên hệ và chuyển hóa lẫn nhau, chứ không phải là những bộ phận riêng biệt. Các đáp án A, B, và C đều phản ánh đúng quan điểm của chủ nghĩa duy vật biện chứng về thế giới vật chất."
       },
       {
         "question": 23,
@@ -1673,7 +1673,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng vì định nghĩa vật chất của Lenin khẳng định vật chất là cái tồn tại khách quan, độc lập với ý thức và được ý thức phản ánh. Điều này ngụ ý rằng con người có khả năng nhận thức được thế giới vật chất. Các đáp án A, B và C đều trái ngược với nội dung và ý nghĩa của định nghĩa vật chất của Lenin."
+        "explanation": "Vì định nghĩa vật chất của Lenin khẳng định vật chất là cái tồn tại khách quan, độc lập với ý thức và được ý thức phản ánh. Điều này ngụ ý rằng con người có khả năng nhận thức được thế giới vật chất. Các đáp án A, B và C đều trái ngược với nội dung và ý nghĩa của định nghĩa vật chất của Lenin."
       },
       {
         "question": 24,
@@ -1697,7 +1697,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng vì chủ nghĩa duy vật biện chứng khẳng định vận động là tuyệt đối, vĩnh viễn, còn đứng im chỉ là tương đối, tạm thời, là một trạng thái đặc biệt của vận động. Các đáp án A, B, và C không phản ánh quan điểm này."
+        "explanation": "Vì chủ nghĩa duy vật biện chứng khẳng định vận động là tuyệt đối, vĩnh viễn, còn đứng im chỉ là tương đối, tạm thời, là một trạng thái đặc biệt của vận động. Các đáp án A, B, và C không phản ánh quan điểm này."
       },
       {
         "question": 25,
@@ -1721,7 +1721,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng vì theo chủ nghĩa duy vật biện chứng, vận động là thuộc tính cố hữu của vật chất, là tuyệt đối và vĩnh viễn, còn đứng im chỉ là tương đối, tạm thời. Các đáp án A, B và D đều sai lệch so với quan điểm này."
+        "explanation": "Vì theo chủ nghĩa duy vật biện chứng, vận động là thuộc tính cố hữu của vật chất, là tuyệt đối và vĩnh viễn, còn đứng im chỉ là tương đối, tạm thời. Các đáp án A, B và D đều sai lệch so với quan điểm này."
       },
       {
         "question": 26,
@@ -1745,7 +1745,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng vì chủ nghĩa duy vật siêu hình xem xét vật chất và vận động như những thực thể tách rời nhau, không có mối liên hệ nội tại. Các đáp án A, C, và D không phản ánh quan điểm này."
+        "explanation": "Vì chủ nghĩa duy vật siêu hình xem xét vật chất và vận động như những thực thể tách rời nhau, không có mối liên hệ nội tại. Các đáp án A, C, và D không phản ánh quan điểm này."
       },
       {
         "question": 27,
@@ -1769,7 +1769,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng vì Ph.Ăngghen đã chia vận động thành 5 hình thức cơ bản: cơ học, vật lý, hóa học, sinh học và xã hội. Các đáp án A, B, và D không chính xác."
+        "explanation": "Vì Ph.Ăngghen đã chia vận động thành 5 hình thức cơ bản: cơ học, vật lý, hóa học, sinh học và xã hội. Các đáp án A, B, và D không chính xác."
       },
       {
         "question": 28,
@@ -1793,7 +1793,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng vì vận động xã hội là hình thức vận động đặc trưng cho sự phát triển của xã hội loài người, bao gồm sự thay đổi trong các quan hệ xã hội, chính trị, kinh tế, văn hóa. Các đáp án B, C, và D là các hình thức vận động của tự nhiên."
+        "explanation": "Vì vận động xã hội là hình thức vận động đặc trưng cho sự phát triển của xã hội loài người, bao gồm sự thay đổi trong các quan hệ xã hội, chính trị, kinh tế, văn hóa. Các đáp án B, C, và D là các hình thức vận động của tự nhiên."
       },
       {
         "question": 29,
@@ -1817,7 +1817,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng vì vận động xã hội là hình thức vận động cao nhất, bao hàm và sử dụng các hình thức vận động thấp hơn như cơ học, lý học, sinh học. Các đáp án A, B, và C chỉ liệt kê một vài hình thức vận động thành phần."
+        "explanation": "Vì vận động xã hội là hình thức vận động cao nhất, bao hàm và sử dụng các hình thức vận động thấp hơn như cơ học, lý học, sinh học. Các đáp án A, B, và C chỉ liệt kê một vài hình thức vận động thành phần."
       },
       {
         "question": 30,
@@ -1841,7 +1841,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng vì theo cách phân chia của Ăngghen, vận động cơ học là hình thức vận động đơn giản nhất, liên quan đến sự di chuyển vị trí của các vật thể trong không gian. Các đáp án B, C, và D là các hình thức vận động cao hơn và phức tạp hơn."
+        "explanation": "Vì theo cách phân chia của Ăngghen, vận động cơ học là hình thức vận động đơn giản nhất, liên quan đến sự di chuyển vị trí của các vật thể trong không gian. Các đáp án B, C, và D là các hình thức vận động cao hơn và phức tạp hơn."
       },
       {
         "question": 31,
@@ -1865,7 +1865,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng vì theo cách phân chia của Ăngghen, vận động xã hội là hình thức vận động cao nhất, đặc trưng cho sự phát triển của xã hội loài người, bao gồm sự thay đổi trong các quan hệ xã hội, chính trị, kinh tế, văn hóa. Các đáp án A, B, và D là các hình thức vận động thấp hơn."
+        "explanation": "Vì theo cách phân chia của Ăngghen, vận động xã hội là hình thức vận động cao nhất, đặc trưng cho sự phát triển của xã hội loài người, bao gồm sự thay đổi trong các quan hệ xã hội, chính trị, kinh tế, văn hóa. Các đáp án A, B, và D là các hình thức vận động thấp hơn."
       },
       {
         "question": 32,
@@ -1889,7 +1889,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo giáo trình Triết học Mác-Lênin, không gian là hình thức tồn tại của vật chất, mang tính khách quan và có ba chiều (dài, rộng, cao). Các đáp án A, B, và C đều đúng nhưng chưa đầy đủ bằng đáp án D.\nCác đáp án A, B, C đều đúng nhưng chưa bao quát hết các đặc điểm của không gian."
+        "explanation": "Theo giáo trình Triết học Mác-Lênin, không gian là hình thức tồn tại của vật chất, mang tính khách quan và có ba chiều (dài, rộng, cao). Các đáp án A, B, và C đều đúng nhưng chưa đầy đủ bằng đáp án D.\nCác đáp án A, B, C đều đúng nhưng chưa bao quát hết các đặc điểm của không gian."
       },
       {
         "question": 33,
@@ -1913,7 +1913,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Chủ nghĩa duy tâm cho rằng ý thức, tinh thần là cái có trước và quyết định vật chất. Các trường phái duy tâm khác nhau có thể có những quan niệm khác nhau về bản chất của tinh thần, nhưng đều thống nhất ở điểm này.\nCác đáp án B, C, và D sai vì chúng thuộc về chủ nghĩa duy vật, cho rằng vật chất là cái có trước và quyết định ý thức."
+        "explanation": "Chủ nghĩa duy tâm cho rằng ý thức, tinh thần là cái có trước và quyết định vật chất. Các trường phái duy tâm khác nhau có thể có những quan niệm khác nhau về bản chất của tinh thần, nhưng đều thống nhất ở điểm này.\nCác đáp án B, C, và D sai vì chúng thuộc về chủ nghĩa duy vật, cho rằng vật chất là cái có trước và quyết định ý thức."
       },
       {
         "question": 34,
@@ -1937,7 +1937,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Chủ nghĩa duy tâm khách quan (như triết học của Hegel) cho rằng có một 'ý niệm tuyệt đối' hay 'tinh thần thế giới' tồn tại độc lập với ý thức cá nhân và là nguồn gốc của mọi sự vật, hiện tượng trong thế giới hiện thực.\nĐáp án A sai vì chủ nghĩa duy tâm chủ quan cho rằng mọi sự vật, hiện tượng chỉ là phức hợp những cảm giác của cá nhân. Đáp án C và D sai vì chúng thuộc về chủ nghĩa duy vật."
+        "explanation": "Chủ nghĩa duy tâm khách quan (như triết học của Hegel) cho rằng có một 'ý niệm tuyệt đối' hay 'tinh thần thế giới' tồn tại độc lập với ý thức cá nhân và là nguồn gốc của mọi sự vật, hiện tượng trong thế giới hiện thực.\nĐáp án A sai vì chủ nghĩa duy tâm chủ quan cho rằng mọi sự vật, hiện tượng chỉ là phức hợp những cảm giác của cá nhân. Đáp án C và D sai vì chúng thuộc về chủ nghĩa duy vật."
       },
       {
         "question": 35,
@@ -1961,7 +1961,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Chủ nghĩa duy tâm chủ quan tuyệt đối hóa vai trò của cảm giác cá nhân, cho rằng thế giới vật chất chỉ là phức hợp những cảm giác của chủ thể.\nĐáp án B sai vì chủ nghĩa duy tâm khách quan thừa nhận sự tồn tại của một 'ý niệm tuyệt đối' khách quan. Đáp án C và D sai vì chúng thuộc về chủ nghĩa duy vật."
+        "explanation": "Chủ nghĩa duy tâm chủ quan tuyệt đối hóa vai trò của cảm giác cá nhân, cho rằng thế giới vật chất chỉ là phức hợp những cảm giác của chủ thể.\nĐáp án B sai vì chủ nghĩa duy tâm khách quan thừa nhận sự tồn tại của một 'ý niệm tuyệt đối' khách quan. Đáp án C và D sai vì chúng thuộc về chủ nghĩa duy vật."
       },
       {
         "question": 36,
@@ -1985,7 +1985,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Chủ nghĩa duy vật siêu hình (trước Mác) thường xem ý thức như một dạng vật chất đặc biệt, do vật chất sinh ra, nhưng lại phủ nhận sự tác động trở lại của ý thức đối với vật chất. Họ xem xét thế giới như một cỗ máy, trong đó các yếu tố chỉ tác động một chiều.\nĐáp án A và B sai vì chúng thuộc về chủ nghĩa duy tâm. Đáp án D sai vì chủ nghĩa duy vật cổ đại chưa có quan niệm đầy đủ về ý thức."
+        "explanation": "Chủ nghĩa duy vật siêu hình (trước Mác) thường xem ý thức như một dạng vật chất đặc biệt, do vật chất sinh ra, nhưng lại phủ nhận sự tác động trở lại của ý thức đối với vật chất. Họ xem xét thế giới như một cỗ máy, trong đó các yếu tố chỉ tác động một chiều.\nĐáp án A và B sai vì chúng thuộc về chủ nghĩa duy tâm. Đáp án D sai vì chủ nghĩa duy vật cổ đại chưa có quan niệm đầy đủ về ý thức."
       },
       {
         "question": 37,
@@ -2009,7 +2009,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo chủ nghĩa duy vật biện chứng, ý thức là sự phản ánh thế giới khách quan vào bộ não con người, là hình ảnh chủ quan của thế giới khách quan. Ý thức không phải là cái gì đó tự có, mà là kết quả của quá trình tác động qua lại giữa con người và thế giới.\nĐáp án A và B sai vì chúng thuộc về chủ nghĩa duy tâm. Đáp án C sai vì chủ nghĩa duy vật siêu hình không xem xét ý thức một cách biện chứng."
+        "explanation": "Theo chủ nghĩa duy vật biện chứng, ý thức là sự phản ánh thế giới khách quan vào bộ não con người, là hình ảnh chủ quan của thế giới khách quan. Ý thức không phải là cái gì đó tự có, mà là kết quả của quá trình tác động qua lại giữa con người và thế giới.\nĐáp án A và B sai vì chúng thuộc về chủ nghĩa duy tâm. Đáp án C sai vì chủ nghĩa duy vật siêu hình không xem xét ý thức một cách biện chứng."
       },
       {
         "question": 38,
@@ -2033,7 +2033,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo quan điểm của chủ nghĩa duy vật biện chứng, ý thức là sự phản ánh thế giới khách quan vào bộ não con người, là hình ảnh chủ quan của thế giới khách quan.\nĐáp án A sai vì đó là quan điểm của chủ nghĩa duy tâm chủ quan. Đáp án B sai vì đó là quan điểm của chủ nghĩa duy tâm khách quan. Đáp án C sai vì đó là quan điểm của chủ nghĩa duy vật siêu hình."
+        "explanation": "Theo quan điểm của chủ nghĩa duy vật biện chứng, ý thức là sự phản ánh thế giới khách quan vào bộ não con người, là hình ảnh chủ quan của thế giới khách quan.\nĐáp án A sai vì đó là quan điểm của chủ nghĩa duy tâm chủ quan. Đáp án B sai vì đó là quan điểm của chủ nghĩa duy tâm khách quan. Đáp án C sai vì đó là quan điểm của chủ nghĩa duy vật siêu hình."
       },
       {
         "question": 39,
@@ -2057,7 +2057,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo chủ nghĩa duy vật biện chứng, phản ánh là thuộc tính chung của mọi dạng vật chất, từ vật chất vô sinh đến vật chất hữu sinh. Các hình thức phản ánh khác nhau thể hiện trình độ phát triển khác nhau của vật chất.\nĐáp án B sai vì phản ánh của thế giới vô cơ mang tính thụ động, máy móc. Đáp án C sai vì phản ánh là thuộc tính vốn có của vật chất. Đáp án D sai vì phản ánh không chỉ là ý thức con người tưởng tượng ra, mà là sự tác động qua lại giữa các sự vật, hiện tượng."
+        "explanation": "Theo chủ nghĩa duy vật biện chứng, phản ánh là thuộc tính chung của mọi dạng vật chất, từ vật chất vô sinh đến vật chất hữu sinh. Các hình thức phản ánh khác nhau thể hiện trình độ phát triển khác nhau của vật chất.\nĐáp án B sai vì phản ánh của thế giới vô cơ mang tính thụ động, máy móc. Đáp án C sai vì phản ánh là thuộc tính vốn có của vật chất. Đáp án D sai vì phản ánh không chỉ là ý thức con người tưởng tượng ra, mà là sự tác động qua lại giữa các sự vật, hiện tượng."
       },
       {
         "question": 40,
@@ -2081,7 +2081,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Quá trình tác động giữa thế giới tự nhiên và bộ óc con người tạo ra hình thức phản ánh năng động, sáng tạo, hay còn gọi là phản ánh ý thức. Đây là hình thức phản ánh cao nhất, đặc trưng cho con người.\nĐáp án A, B, và D sai vì chúng là những hình thức phản ánh thấp hơn, thuộc về giới tự nhiên vô sinh và hữu sinh."
+        "explanation": "Quá trình tác động giữa thế giới tự nhiên và bộ óc con người tạo ra hình thức phản ánh năng động, sáng tạo, hay còn gọi là phản ánh ý thức. Đây là hình thức phản ánh cao nhất, đặc trưng cho con người.\nĐáp án A, B, và D sai vì chúng là những hình thức phản ánh thấp hơn, thuộc về giới tự nhiên vô sinh và hữu sinh."
       },
       {
         "question": 41,
@@ -2105,7 +2105,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Phản ánh năng động, sáng tạo (phản ánh ý thức) là hình thức phản ánh cao nhất, chỉ có ở con người, được thực hiện bởi bộ óc người. Nó mang tính chủ động, có chọn lọc và sáng tạo, không chỉ đơn thuần là sao chép thế giới khách quan.\nĐáp án A và B sai vì chúng mô tả các hình thức phản ánh thấp hơn, thuộc về giới tự nhiên. Đáp án D sai vì chỉ có đáp án C là đúng."
+        "explanation": "Phản ánh năng động, sáng tạo (phản ánh ý thức) là hình thức phản ánh cao nhất, chỉ có ở con người, được thực hiện bởi bộ óc người. Nó mang tính chủ động, có chọn lọc và sáng tạo, không chỉ đơn thuần là sao chép thế giới khách quan.\nĐáp án A và B sai vì chúng mô tả các hình thức phản ánh thấp hơn, thuộc về giới tự nhiên. Đáp án D sai vì chỉ có đáp án C là đúng."
       },
       {
         "question": 42,
@@ -2129,7 +2129,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình Triết học Mác-Lênin, sự khác biệt cơ bản giữa phản ánh ý thức và các hình thức phản ánh khác là tính năng động, sáng tạo. Ý thức không chỉ đơn thuần phản ánh thế giới khách quan một cách thụ động mà còn có khả năng cải biến, sáng tạo ra những cái mới. Các đáp án khác sai vì: A. Tính đúng đắn trung thực với vật phản ánh là đặc điểm chung của mọi hình thức phản ánh, không phải là sự khác biệt cơ bản của phản ánh ý thức. C. Tính sai lệch với vật phản ánh không phải là đặc trưng của ý thức. D. Tính bị quy định bởi thế giới tự nhiên là đặc điểm chung của mọi hình thức phản ánh vật chất."
+        "explanation": "Theo giáo trình Triết học Mác-Lênin, sự khác biệt cơ bản giữa phản ánh ý thức và các hình thức phản ánh khác là tính năng động, sáng tạo. Ý thức không chỉ đơn thuần phản ánh thế giới khách quan một cách thụ động mà còn có khả năng cải biến, sáng tạo ra những cái mới. Các đáp án khác sai vì: A. Tính đúng đắn trung thực với vật phản ánh là đặc điểm chung của mọi hình thức phản ánh, không phải là sự khác biệt cơ bản của phản ánh ý thức. C. Tính sai lệch với vật phản ánh không phải là đặc trưng của ý thức. D. Tính bị quy định bởi thế giới tự nhiên là đặc điểm chung của mọi hình thức phản ánh vật chất."
       },
       {
         "question": 43,
@@ -2153,7 +2153,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo giáo trình, phản ánh ý thức là hình thức phản ánh cao nhất vì nó là đặc trưng riêng của con người, có tính năng động, sáng tạo và trừu tượng hóa cao độ. Các đáp án khác sai vì: A, B, C. Phản ánh vật lý, hóa học, và tâm lý là những hình thức phản ánh thấp hơn, thuộc về giới tự nhiên và động vật."
+        "explanation": "Theo giáo trình, phản ánh ý thức là hình thức phản ánh cao nhất vì nó là đặc trưng riêng của con người, có tính năng động, sáng tạo và trừu tượng hóa cao độ. Các đáp án khác sai vì: A, B, C. Phản ánh vật lý, hóa học, và tâm lý là những hình thức phản ánh thấp hơn, thuộc về giới tự nhiên và động vật."
       },
       {
         "question": 44,
@@ -2177,7 +2177,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình, động vật bậc cao có hệ thần kinh phát triển nên có thể đạt đến hình thức phản ánh tâm lý động vật, thể hiện qua các hành vi, cảm xúc. Các đáp án khác sai vì: A. Phản ánh ý thức là đặc trưng riêng của con người. C. Tính kích thích là hình thức phản ánh đơn giản nhất, có ở cả thực vật. D. Tính sáng tạo là đặc trưng của ý thức, không có ở động vật."
+        "explanation": "Theo giáo trình, động vật bậc cao có hệ thần kinh phát triển nên có thể đạt đến hình thức phản ánh tâm lý động vật, thể hiện qua các hành vi, cảm xúc. Các đáp án khác sai vì: A. Phản ánh ý thức là đặc trưng riêng của con người. C. Tính kích thích là hình thức phản ánh đơn giản nhất, có ở cả thực vật. D. Tính sáng tạo là đặc trưng của ý thức, không có ở động vật."
       },
       {
         "question": 45,
@@ -2201,7 +2201,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình, nguồn gốc ra đời của ý thức bao gồm hai yếu tố: nguồn gốc tự nhiên (bộ óc người và thế giới khách quan tác động vào bộ óc người) và nguồn gốc xã hội (lao động và ngôn ngữ). Các đáp án khác sai vì: B, C, D. Các đáp án này chỉ liệt kê một phần của nguồn gốc tự nhiên hoặc nguồn gốc xã hội, không đầy đủ."
+        "explanation": "Theo giáo trình, nguồn gốc ra đời của ý thức bao gồm hai yếu tố: nguồn gốc tự nhiên (bộ óc người và thế giới khách quan tác động vào bộ óc người) và nguồn gốc xã hội (lao động và ngôn ngữ). Các đáp án khác sai vì: B, C, D. Các đáp án này chỉ liệt kê một phần của nguồn gốc tự nhiên hoặc nguồn gốc xã hội, không đầy đủ."
       },
       {
         "question": 46,
@@ -2225,7 +2225,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo giáo trình, nguồn gốc tự nhiên của ý thức là bộ óc con người và thế giới khách quan tác động vào bộ óc người thông qua quá trình phản ánh. Bộ óc là cơ quan vật chất của ý thức, còn thế giới khách quan là đối tượng phản ánh của ý thức. Các đáp án khác sai vì: A, B, C. Các đáp án này hoặc chỉ đề cập đến một yếu tố (bộ óc con người) hoặc đề cập đến yếu tố thuộc nguồn gốc xã hội (lao động, ngôn ngữ)."
+        "explanation": "Theo giáo trình, nguồn gốc tự nhiên của ý thức là bộ óc con người và thế giới khách quan tác động vào bộ óc người thông qua quá trình phản ánh. Bộ óc là cơ quan vật chất của ý thức, còn thế giới khách quan là đối tượng phản ánh của ý thức. Các đáp án khác sai vì: A, B, C. Các đáp án này hoặc chỉ đề cập đến một yếu tố (bộ óc con người) hoặc đề cập đến yếu tố thuộc nguồn gốc xã hội (lao động, ngôn ngữ)."
       },
       {
         "question": 47,
@@ -2249,7 +2249,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo giáo trình, nguồn gốc xã hội của ý thức là lao động và ngôn ngữ. Lao động làm cho con người tách khỏi thế giới động vật, hình thành các quan hệ xã hội và phát triển tư duy. Ngôn ngữ là phương tiện để con người giao tiếp, trao đổi kinh nghiệm và truyền đạt tri thức. Các đáp án khác sai vì: A, B, D. Các đáp án này đề cập đến các yếu tố thuộc nguồn gốc tự nhiên của ý thức."
+        "explanation": "Theo giáo trình, nguồn gốc xã hội của ý thức là lao động và ngôn ngữ. Lao động làm cho con người tách khỏi thế giới động vật, hình thành các quan hệ xã hội và phát triển tư duy. Ngôn ngữ là phương tiện để con người giao tiếp, trao đổi kinh nghiệm và truyền đạt tri thức. Các đáp án khác sai vì: A, B, D. Các đáp án này đề cập đến các yếu tố thuộc nguồn gốc tự nhiên của ý thức."
       },
       {
         "question": 48,
@@ -2273,7 +2273,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo giáo trình, ngôn ngữ là công cụ để con người khái quát hiện thực khách quan và trao đổi thông tin. Nhờ có ngôn ngữ, con người có thể trừu tượng hóa, khái quát hóa các sự vật, hiện tượng và truyền đạt kinh nghiệm, tri thức cho nhau. Các đáp án khác sai vì: A, B, D. Công cụ lao động và đối tượng lao động là điều kiện vật chất cho hoạt động sản xuất, nhưng không trực tiếp giúp con người khái quát và trao đổi thông tin."
+        "explanation": "Theo giáo trình, ngôn ngữ là công cụ để con người khái quát hiện thực khách quan và trao đổi thông tin. Nhờ có ngôn ngữ, con người có thể trừu tượng hóa, khái quát hóa các sự vật, hiện tượng và truyền đạt kinh nghiệm, tri thức cho nhau. Các đáp án khác sai vì: A, B, D. Công cụ lao động và đối tượng lao động là điều kiện vật chất cho hoạt động sản xuất, nhưng không trực tiếp giúp con người khái quát và trao đổi thông tin."
       },
       {
         "question": 49,
@@ -2297,7 +2297,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình, lao động, thực tiễn xã hội là nguồn gốc trực tiếp và quan trọng nhất quyết định sự ra đời và phát triển của ý thức. Lao động làm thay đổi thế giới khách quan, đồng thời làm thay đổi bản thân con người, thúc đẩy sự phát triển của tư duy và ý thức. Các đáp án khác sai vì: A, C, D. Các đáp án này chỉ đề cập đến nguồn gốc tự nhiên của ý thức, không thấy vai trò quyết định của lao động và thực tiễn xã hội."
+        "explanation": "Theo giáo trình, lao động, thực tiễn xã hội là nguồn gốc trực tiếp và quan trọng nhất quyết định sự ra đời và phát triển của ý thức. Lao động làm thay đổi thế giới khách quan, đồng thời làm thay đổi bản thân con người, thúc đẩy sự phát triển của tư duy và ý thức. Các đáp án khác sai vì: A, C, D. Các đáp án này chỉ đề cập đến nguồn gốc tự nhiên của ý thức, không thấy vai trò quyết định của lao động và thực tiễn xã hội."
       },
       {
         "question": 50,
@@ -2321,7 +2321,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo giáo trình, ngôn ngữ là công cụ để con người khái quát hiện thực khách quan và trao đổi thông tin. Nhờ có ngôn ngữ, con người có thể trừu tượng hóa, khái quát hóa các sự vật, hiện tượng và truyền đạt kinh nghiệm, tri thức cho nhau. Các đáp án khác sai vì: A, B, D. Công cụ lao động và đối tượng lao động là điều kiện vật chất cho hoạt động sản xuất, nhưng không trực tiếp giúp con người khái quát và trao đổi thông tin."
+        "explanation": "Theo giáo trình, ngôn ngữ là công cụ để con người khái quát hiện thực khách quan và trao đổi thông tin. Nhờ có ngôn ngữ, con người có thể trừu tượng hóa, khái quát hóa các sự vật, hiện tượng và truyền đạt kinh nghiệm, tri thức cho nhau. Các đáp án khác sai vì: A, B, D. Công cụ lao động và đối tượng lao động là điều kiện vật chất cho hoạt động sản xuất, nhưng không trực tiếp giúp con người khái quát và trao đổi thông tin."
       },
       {
         "question": 51,
@@ -2345,7 +2345,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình, lao động, thực tiễn xã hội là nguồn gốc trực tiếp và quan trọng nhất quyết định sự ra đời và phát triển của ý thức. Lao động làm thay đổi thế giới khách quan, đồng thời làm thay đổi bản thân con người, thúc đẩy sự phát triển của tư duy và ý thức. Các đáp án khác sai vì: A, C, D. Các đáp án này chỉ đề cập đến nguồn gốc tự nhiên của ý thức, không thấy vai trò quyết định của lao động và thực tiễn xã hội."
+        "explanation": "Theo giáo trình, lao động, thực tiễn xã hội là nguồn gốc trực tiếp và quan trọng nhất quyết định sự ra đời và phát triển của ý thức. Lao động làm thay đổi thế giới khách quan, đồng thời làm thay đổi bản thân con người, thúc đẩy sự phát triển của tư duy và ý thức. Các đáp án khác sai vì: A, C, D. Các đáp án này chỉ đề cập đến nguồn gốc tự nhiên của ý thức, không thấy vai trò quyết định của lao động và thực tiễn xã hội."
       },
       {
         "question": 52,
@@ -2369,7 +2369,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo giáo trình Triết học Mác-Lênin, phản ánh là thuộc tính chung của mọi dạng vật chất, từ vô cơ đến hữu cơ, thể hiện sự tác động qua lại giữa các vật chất. Các đáp án A và B sai vì phản ánh không chỉ giới hạn ở thế giới hữu cơ hay vô cơ. Đáp án C sai vì phản ánh là một thuộc tính khách quan của vật chất, không phải là sản phẩm của ý thức con người."
+        "explanation": "Theo giáo trình Triết học Mác-Lênin, phản ánh là thuộc tính chung của mọi dạng vật chất, từ vô cơ đến hữu cơ, thể hiện sự tác động qua lại giữa các vật chất. Các đáp án A và B sai vì phản ánh không chỉ giới hạn ở thế giới hữu cơ hay vô cơ. Đáp án C sai vì phản ánh là một thuộc tính khách quan của vật chất, không phải là sản phẩm của ý thức con người."
       },
       {
         "question": 53,
@@ -2393,7 +2393,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình, phản ánh là thuộc tính phổ biến của mọi dạng vật chất, thể hiện khả năng tác động và ảnh hưởng lẫn nhau giữa các sự vật, hiện tượng trong thế giới. Các đáp án A và C sai vì phản ánh không chỉ giới hạn ở các dạng vật chất hữu cơ hay vô cơ. Đáp án D sai vì phản ánh không chỉ là đặc tính của não người mà là thuộc tính của mọi vật chất."
+        "explanation": "Theo giáo trình, phản ánh là thuộc tính phổ biến của mọi dạng vật chất, thể hiện khả năng tác động và ảnh hưởng lẫn nhau giữa các sự vật, hiện tượng trong thế giới. Các đáp án A và C sai vì phản ánh không chỉ giới hạn ở các dạng vật chất hữu cơ hay vô cơ. Đáp án D sai vì phản ánh không chỉ là đặc tính của não người mà là thuộc tính của mọi vật chất."
       },
       {
         "question": 54,
@@ -2417,7 +2417,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo giáo trình, bản chất của ý thức được chủ nghĩa duy vật biện chứng quan niệm là sự phản ánh hiện thực khách quan vào đầu óc con người một cách năng động, sáng tạo; là hình ảnh chủ quan của thế giới khách quan; và là một hiện tượng xã hội mang bản chất xã hội. Vì vậy, tất cả các đáp án đều đúng."
+        "explanation": "Theo giáo trình, bản chất của ý thức được chủ nghĩa duy vật biện chứng quan niệm là sự phản ánh hiện thực khách quan vào đầu óc con người một cách năng động, sáng tạo; là hình ảnh chủ quan của thế giới khách quan; và là một hiện tượng xã hội mang bản chất xã hội. Vì vậy, tất cả các đáp án đều đúng."
       },
       {
         "question": 55,
@@ -2441,7 +2441,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo giáo trình, ý thức là sự phản ánh sáng tạo hiện thực khách quan vào bộ óc con người. Sự phản ánh này không phải là một quá trình thụ động mà là một quá trình tích cực, có chọn lọc và xử lý thông tin. Đáp án A sai vì không đầy đủ. Đáp án B sai vì ý thức không phải là sự phản ánh nguyên xi, mà là sự phản ánh có tính sáng tạo. Đáp án D sai vì ý thức không phải là sự phản ánh của mọi dạng vật chất, mà là sự phản ánh của vật chất có tổ chức cao (bộ não con người)."
+        "explanation": "Theo giáo trình, ý thức là sự phản ánh sáng tạo hiện thực khách quan vào bộ óc con người. Sự phản ánh này không phải là một quá trình thụ động mà là một quá trình tích cực, có chọn lọc và xử lý thông tin. Đáp án A sai vì không đầy đủ. Đáp án B sai vì ý thức không phải là sự phản ánh nguyên xi, mà là sự phản ánh có tính sáng tạo. Đáp án D sai vì ý thức không phải là sự phản ánh của mọi dạng vật chất, mà là sự phản ánh của vật chất có tổ chức cao (bộ não con người)."
       },
       {
         "question": 56,
@@ -2465,7 +2465,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình, ý thức là hình ảnh chủ quan của thế giới khách quan, có nghĩa là ý thức phản ánh thế giới khách quan nhưng thông qua lăng kính chủ quan của mỗi người. Các đáp án B và C sai vì ý thức không phải là sự phản ánh nguyên vẹn hay hoàn toàn chính xác về thế giới khách quan. Đáp án D sai vì ý thức là hình ảnh *chủ quan*, không phải khách quan của thế giới khách quan."
+        "explanation": "Theo giáo trình, ý thức là hình ảnh chủ quan của thế giới khách quan, có nghĩa là ý thức phản ánh thế giới khách quan nhưng thông qua lăng kính chủ quan của mỗi người. Các đáp án B và C sai vì ý thức không phải là sự phản ánh nguyên vẹn hay hoàn toàn chính xác về thế giới khách quan. Đáp án D sai vì ý thức là hình ảnh *chủ quan*, không phải khách quan của thế giới khách quan."
       },
       {
         "question": 57,
@@ -2489,7 +2489,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình, tri thức là yếu tố cơ bản và cốt lõi nhất trong kết cấu của ý thức. Tri thức là nền tảng để hình thành nên các yếu tố khác như tình cảm, niềm tin, ý chí. Các đáp án B, C, và D sai vì tình cảm, niềm tin, ý chí, và tư tưởng tuy quan trọng nhưng đều dựa trên nền tảng tri thức."
+        "explanation": "Theo giáo trình, tri thức là yếu tố cơ bản và cốt lõi nhất trong kết cấu của ý thức. Tri thức là nền tảng để hình thành nên các yếu tố khác như tình cảm, niềm tin, ý chí. Các đáp án B, C, và D sai vì tình cảm, niềm tin, ý chí, và tư tưởng tuy quan trọng nhưng đều dựa trên nền tảng tri thức."
       },
       {
         "question": 58,
@@ -2513,7 +2513,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình, kết cấu theo chiều dọc (chiều sâu) của ý thức bao gồm tự ý thức, tiềm thức và vô thức. Đây là các cấp độ khác nhau của ý thức, từ nhận thức rõ ràng về bản thân đến những hoạt động tâm lý diễn ra ngoài tầm kiểm soát của ý thức. Các đáp án B, C, và D sai vì chúng mô tả các khía cạnh khác của ý thức, không phải là kết cấu theo chiều sâu."
+        "explanation": "Theo giáo trình, kết cấu theo chiều dọc (chiều sâu) của ý thức bao gồm tự ý thức, tiềm thức và vô thức. Đây là các cấp độ khác nhau của ý thức, từ nhận thức rõ ràng về bản thân đến những hoạt động tâm lý diễn ra ngoài tầm kiểm soát của ý thức. Các đáp án B, C, và D sai vì chúng mô tả các khía cạnh khác của ý thức, không phải là kết cấu theo chiều sâu."
       },
       {
         "question": 59,
@@ -2537,7 +2537,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo giáo trình, chủ nghĩa duy vật biện chứng khẳng định vật chất quyết định ý thức, nhưng ý thức có tính độc lập tương đối và tác động trở lại vật chất thông qua hoạt động thực tiễn của con người. Đáp án A sai vì chỉ nhấn mạnh vai trò quyết định của vật chất mà bỏ qua vai trò của ý thức. Đáp án B sai vì đảo ngược vai trò của vật chất và ý thức. Đáp án D sai vì phủ nhận mối quan hệ biện chứng giữa vật chất và ý thức."
+        "explanation": "Theo giáo trình, chủ nghĩa duy vật biện chứng khẳng định vật chất quyết định ý thức, nhưng ý thức có tính độc lập tương đối và tác động trở lại vật chất thông qua hoạt động thực tiễn của con người. Đáp án A sai vì chỉ nhấn mạnh vai trò quyết định của vật chất mà bỏ qua vai trò của ý thức. Đáp án B sai vì đảo ngược vai trò của vật chất và ý thức. Đáp án D sai vì phủ nhận mối quan hệ biện chứng giữa vật chất và ý thức."
       },
       {
         "question": 60,
@@ -2561,7 +2561,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo giáo trình, chủ nghĩa duy vật siêu hình tuyệt đối hóa vai trò của vật chất, phủ nhận tính độc lập tương đối và vai trò tác động trở lại của ý thức đối với vật chất. Các đáp án A và B là quan điểm của chủ nghĩa duy tâm. Đáp án D là quan điểm của chủ nghĩa duy vật biện chứng."
+        "explanation": "Theo giáo trình, chủ nghĩa duy vật siêu hình tuyệt đối hóa vai trò của vật chất, phủ nhận tính độc lập tương đối và vai trò tác động trở lại của ý thức đối với vật chất. Các đáp án A và B là quan điểm của chủ nghĩa duy tâm. Đáp án D là quan điểm của chủ nghĩa duy vật biện chứng."
       },
       {
         "question": 61,
@@ -2585,7 +2585,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo giáo trình, chủ nghĩa duy vật siêu hình phủ nhận tính độc lập tương đối của ý thức, coi ý thức chỉ là sự phản ánh thụ động, giản đơn của vật chất. Các đáp án A và B (chủ nghĩa duy tâm) thì ngược lại, tuyệt đối hóa vai trò của ý thức. Đáp án D (chủ nghĩa duy vật biện chứng) khẳng định tính độc lập tương đối của ý thức."
+        "explanation": "Theo giáo trình, chủ nghĩa duy vật siêu hình phủ nhận tính độc lập tương đối của ý thức, coi ý thức chỉ là sự phản ánh thụ động, giản đơn của vật chất. Các đáp án A và B (chủ nghĩa duy tâm) thì ngược lại, tuyệt đối hóa vai trò của ý thức. Đáp án D (chủ nghĩa duy vật biện chứng) khẳng định tính độc lập tương đối của ý thức."
       },
       {
         "question": 62,
@@ -2609,7 +2609,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo quan điểm của chủ nghĩa duy vật biện chứng, mối liên hệ là sự tác động, sự chuyển hóa lẫn nhau giữa các sự vật và giữa các mặt của sự vật. Điều này thể hiện tính khách quan và phổ biến của mối liên hệ (Giáo trình Triết học Mác-Lênin). Các đáp án khác sai vì: B nhấn mạnh tính ngẫu nhiên (mối liên hệ mang tính tất yếu); C nhấn mạnh tính chủ quan (mối liên hệ mang tính khách quan); A bao gồm các đáp án sai."
+        "explanation": "Theo quan điểm của chủ nghĩa duy vật biện chứng, mối liên hệ là sự tác động, sự chuyển hóa lẫn nhau giữa các sự vật và giữa các mặt của sự vật. Điều này thể hiện tính khách quan và phổ biến của mối liên hệ (Giáo trình Triết học Mác-Lênin). Các đáp án khác sai vì: B nhấn mạnh tính ngẫu nhiên (mối liên hệ mang tính tất yếu); C nhấn mạnh tính chủ quan (mối liên hệ mang tính khách quan); A bao gồm các đáp án sai."
       },
       {
         "question": 63,
@@ -2633,7 +2633,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Ý thức tác động trở lại vật chất thông qua hoạt động thực tiễn của con người. Hoạt động thực tiễn là cầu nối giữa ý thức và vật chất, biến ý thức thành hiện thực (Giáo trình Triết học Mác-Lênin). Các đáp án khác sai vì: A, B, C chỉ là các khía cạnh của ý thức, không phải là phương thức tác động của ý thức lên vật chất."
+        "explanation": "Ý thức tác động trở lại vật chất thông qua hoạt động thực tiễn của con người. Hoạt động thực tiễn là cầu nối giữa ý thức và vật chất, biến ý thức thành hiện thực (Giáo trình Triết học Mác-Lênin). Các đáp án khác sai vì: A, B, C chỉ là các khía cạnh của ý thức, không phải là phương thức tác động của ý thức lên vật chất."
       },
       {
         "question": 64,
@@ -2657,7 +2657,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Chủ nghĩa duy vật biện chứng khẳng định rằng trong nhận thức và hoạt động thực tiễn, phải lấy hiện thực khách quan làm căn cứ, tôn trọng tính khách quan của vật chất (Giáo trình Triết học Mác-Lênin). Các đáp án khác sai vì: B (chủ nghĩa duy tâm) coi ý thức là căn cứ; D (chủ nghĩa kinh nghiệm) nhấn mạnh vai trò của kinh nghiệm, nhưng không nhất thiết coi hiện thực khách quan là căn cứ duy nhất; C bao gồm các đáp án sai."
+        "explanation": "Chủ nghĩa duy vật biện chứng khẳng định rằng trong nhận thức và hoạt động thực tiễn, phải lấy hiện thực khách quan làm căn cứ, tôn trọng tính khách quan của vật chất (Giáo trình Triết học Mác-Lênin). Các đáp án khác sai vì: B (chủ nghĩa duy tâm) coi ý thức là căn cứ; D (chủ nghĩa kinh nghiệm) nhấn mạnh vai trò của kinh nghiệm, nhưng không nhất thiết coi hiện thực khách quan là căn cứ duy nhất; C bao gồm các đáp án sai."
       },
       {
         "question": 65,
@@ -2681,7 +2681,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Nghiên cứu mối quan hệ giữa vật chất và ý thức cho thấy trong hoạt động nhận thức và thực tiễn, chúng ta phải tôn trọng tính khách quan đồng thời phát huy tính năng động chủ quan. Điều này đảm bảo sự phản ánh đúng đắn hiện thực khách quan và khả năng cải tạo thế giới của con người (Giáo trình Triết học Mác-Lênin). Các đáp án khác sai vì: A, B, C chỉ nhấn mạnh vai trò của ý thức, bỏ qua vai trò của vật chất."
+        "explanation": "Nghiên cứu mối quan hệ giữa vật chất và ý thức cho thấy trong hoạt động nhận thức và thực tiễn, chúng ta phải tôn trọng tính khách quan đồng thời phát huy tính năng động chủ quan. Điều này đảm bảo sự phản ánh đúng đắn hiện thực khách quan và khả năng cải tạo thế giới của con người (Giáo trình Triết học Mác-Lênin). Các đáp án khác sai vì: A, B, C chỉ nhấn mạnh vai trò của ý thức, bỏ qua vai trò của vật chất."
       },
       {
         "question": 66,
@@ -2705,7 +2705,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Việc xuất phát từ thực tế khách quan, tôn trọng khách quan được rút ra từ nguyên tắc vật chất có trước, ý thức có sau, vật chất quyết định ý thức (Giáo trình Triết học Mác-Lênin). Các đáp án khác sai vì: B đảo ngược mối quan hệ giữa vật chất và ý thức; D chỉ đề cập đến một khía cạnh của ý thức; C bao gồm các đáp án sai."
+        "explanation": "Việc xuất phát từ thực tế khách quan, tôn trọng khách quan được rút ra từ nguyên tắc vật chất có trước, ý thức có sau, vật chất quyết định ý thức (Giáo trình Triết học Mác-Lênin). Các đáp án khác sai vì: B đảo ngược mối quan hệ giữa vật chất và ý thức; D chỉ đề cập đến một khía cạnh của ý thức; C bao gồm các đáp án sai."
       },
       {
         "question": 67,
@@ -2729,7 +2729,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Việc phát huy tính năng động chủ quan trong hoạt động nhận thức và thực tiễn được rút ra từ bản chất năng động, sáng tạo của ý thức. Ý thức không chỉ phản ánh thế giới mà còn có khả năng cải tạo thế giới (Giáo trình Triết học Mác-Lênin). Các đáp án khác sai vì: A, B đề cập đến mối quan hệ giữa vật chất và ý thức, nhưng không trực tiếp giải thích nguồn gốc của tính năng động chủ quan; D đề cập đến sự tác động qua lại, nhưng không nhấn mạnh bản chất của ý thức."
+        "explanation": "Việc phát huy tính năng động chủ quan trong hoạt động nhận thức và thực tiễn được rút ra từ bản chất năng động, sáng tạo của ý thức. Ý thức không chỉ phản ánh thế giới mà còn có khả năng cải tạo thế giới (Giáo trình Triết học Mác-Lênin). Các đáp án khác sai vì: A, B đề cập đến mối quan hệ giữa vật chất và ý thức, nhưng không trực tiếp giải thích nguồn gốc của tính năng động chủ quan; D đề cập đến sự tác động qua lại, nhưng không nhấn mạnh bản chất của ý thức."
       },
       {
         "question": 68,
@@ -2753,7 +2753,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo quan điểm của chủ nghĩa duy vật biện chứng, các sự vật, hiện tượng có mối liên hệ, quy định, ràng buộc lẫn nhau. Đây là một trong những đặc trưng cơ bản của thế giới vật chất (Giáo trình Triết học Mác-Lênin). Các đáp án khác sai vì: A, B, D phủ nhận tính liên hệ phổ biến của các sự vật, hiện tượng."
+        "explanation": "Theo quan điểm của chủ nghĩa duy vật biện chứng, các sự vật, hiện tượng có mối liên hệ, quy định, ràng buộc lẫn nhau. Đây là một trong những đặc trưng cơ bản của thế giới vật chất (Giáo trình Triết học Mác-Lênin). Các đáp án khác sai vì: A, B, D phủ nhận tính liên hệ phổ biến của các sự vật, hiện tượng."
       },
       {
         "question": 69,
@@ -2777,7 +2777,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Cơ sở tạo nên mối liên hệ phổ biến của các sự vật, hiện tượng là tính thống nhất vật chất của thế giới. Thế giới vật chất là một chỉnh thể, trong đó các sự vật, hiện tượng có mối liên hệ và tác động lẫn nhau (Giáo trình Triết học Mác-Lênin). Các đáp án khác sai vì: B chỉ đề cập đến vai trò của chủ thể; C phủ nhận tính liên hệ phổ biến; D bao gồm các đáp án sai."
+        "explanation": "Cơ sở tạo nên mối liên hệ phổ biến của các sự vật, hiện tượng là tính thống nhất vật chất của thế giới. Thế giới vật chất là một chỉnh thể, trong đó các sự vật, hiện tượng có mối liên hệ và tác động lẫn nhau (Giáo trình Triết học Mác-Lênin). Các đáp án khác sai vì: B chỉ đề cập đến vai trò của chủ thể; C phủ nhận tính liên hệ phổ biến; D bao gồm các đáp án sai."
       },
       {
         "question": 70,
@@ -2801,7 +2801,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Nguyên tắc toàn diện có cơ sở triết học từ nguyên lý về mối liên hệ phổ biến. Xem xét sự vật trong mối liên hệ với các sự vật khác là yêu cầu của nguyên tắc toàn diện (Giáo trình Triết học Mác-Lênin). Các đáp án khác sai vì: B, C, D là những phạm trù và quy luật khác của phép biện chứng duy vật, không phải là cơ sở trực tiếp của nguyên tắc toàn diện."
+        "explanation": "Nguyên tắc toàn diện có cơ sở triết học từ nguyên lý về mối liên hệ phổ biến. Xem xét sự vật trong mối liên hệ với các sự vật khác là yêu cầu của nguyên tắc toàn diện (Giáo trình Triết học Mác-Lênin). Các đáp án khác sai vì: B, C, D là những phạm trù và quy luật khác của phép biện chứng duy vật, không phải là cơ sở trực tiếp của nguyên tắc toàn diện."
       },
       {
         "question": 71,
@@ -2825,7 +2825,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo quan điểm của chủ nghĩa duy vật biện chứng, các mối liên hệ có các tính chất: tính khách quan (tồn tại độc lập với ý thức con người), tính phổ biến (tồn tại ở mọi sự vật, hiện tượng), và tính đa dạng, phong phú (biểu hiện dưới nhiều hình thức khác nhau) (Giáo trình Triết học Mác-Lênin). Các đáp án khác sai vì: B, C, D chứa các thuộc tính không chính xác như 'tính cô lập' hoặc 'tính chủ quan'."
+        "explanation": "Theo quan điểm của chủ nghĩa duy vật biện chứng, các mối liên hệ có các tính chất: tính khách quan (tồn tại độc lập với ý thức con người), tính phổ biến (tồn tại ở mọi sự vật, hiện tượng), và tính đa dạng, phong phú (biểu hiện dưới nhiều hình thức khác nhau) (Giáo trình Triết học Mác-Lênin). Các đáp án khác sai vì: B, C, D chứa các thuộc tính không chính xác như 'tính cô lập' hoặc 'tính chủ quan'."
       },
       {
         "question": 72,
@@ -2849,7 +2849,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng vì theo triết học Mác-Lênin, thế giới vật chất và thế giới tinh thần không tồn tại độc lập nhau mà có mối quan hệ biện chứng, trong đó vật chất quyết định ý thức. Các đáp án A, B, và C đều phản ánh đúng các nguyên lý cơ bản của chủ nghĩa duy vật biện chứng về mối liên hệ phổ biến của các sự vật, hiện tượng trong thế giới.\n\nĐáp án A sai vì con người là một bộ phận của tự nhiên và không thể tách rời khỏi các mối quan hệ với tự nhiên.\nĐáp án B sai vì sự tồn tại của các khâu trung gian giữa các loài phản ánh tính liên tục và sự chuyển hóa trong quá trình tiến hóa.\nĐáp án C sai vì thế giới là một chỉnh thể thống nhất, trong đó các sự vật, hiện tượng liên hệ và ràng buộc lẫn nhau."
+        "explanation": "Vì theo triết học Mác-Lênin, thế giới vật chất và thế giới tinh thần không tồn tại độc lập nhau mà có mối quan hệ biện chứng, trong đó vật chất quyết định ý thức. Các đáp án A, B, và C đều phản ánh đúng các nguyên lý cơ bản của chủ nghĩa duy vật biện chứng về mối liên hệ phổ biến của các sự vật, hiện tượng trong thế giới.\n\nĐáp án A sai vì con người là một bộ phận của tự nhiên và không thể tách rời khỏi các mối quan hệ với tự nhiên.\nĐáp án B sai vì sự tồn tại của các khâu trung gian giữa các loài phản ánh tính liên tục và sự chuyển hóa trong quá trình tiến hóa.\nĐáp án C sai vì thế giới là một chỉnh thể thống nhất, trong đó các sự vật, hiện tượng liên hệ và ràng buộc lẫn nhau."
       },
       {
         "question": 73,
@@ -2873,7 +2873,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng vì theo chủ nghĩa duy vật biện chứng, nguồn gốc của sự phát triển nằm ngay trong bản thân sự vật, do sự đấu tranh giữa các mặt đối lập bên trong sự vật đó. Các đáp án A, C, và D đều không phù hợp với quan điểm này.\n\nĐáp án A sai vì ý muốn chủ quan của con người không phải là yếu tố quyết định sự phát triển của sự vật, mà là các quy luật khách quan.\nĐáp án C sai vì nguồn gốc của sự phát triển không nằm ở bên ngoài sự vật, mà là ở bên trong nó.\nĐáp án D sai vì tinh thần khách quan không phải là yếu tố quan trọng nhất quy định sự phát triển của sự vật, mà là các quy luật khách quan."
+        "explanation": "Vì theo chủ nghĩa duy vật biện chứng, nguồn gốc của sự phát triển nằm ngay trong bản thân sự vật, do sự đấu tranh giữa các mặt đối lập bên trong sự vật đó. Các đáp án A, C, và D đều không phù hợp với quan điểm này.\n\nĐáp án A sai vì ý muốn chủ quan của con người không phải là yếu tố quyết định sự phát triển của sự vật, mà là các quy luật khách quan.\nĐáp án C sai vì nguồn gốc của sự phát triển không nằm ở bên ngoài sự vật, mà là ở bên trong nó.\nĐáp án D sai vì tinh thần khách quan không phải là yếu tố quan trọng nhất quy định sự phát triển của sự vật, mà là các quy luật khách quan."
       },
       {
         "question": 74,
@@ -2897,7 +2897,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng vì quan điểm phiến diện, chiết trung, ngụy biện là những sai lầm cần tránh khi xem xét sự vật, hiện tượng theo chủ nghĩa duy vật biện chứng. Quan điểm toàn diện (A), quan điểm phát triển (B), và quan điểm lịch sử - cụ thể (C) là những nguyên tắc đúng đắn cần tuân thủ.\n\nĐáp án A sai vì quan điểm toàn diện là một yêu cầu đúng đắn của phép biện chứng duy vật.\nĐáp án B sai vì quan điểm phát triển là một yêu cầu đúng đắn của phép biện chứng duy vật.\nĐáp án C sai vì quan điểm lịch sử - cụ thể là một yêu cầu đúng đắn của phép biện chứng duy vật."
+        "explanation": "Vì quan điểm phiến diện, chiết trung, ngụy biện là những sai lầm cần tránh khi xem xét sự vật, hiện tượng theo chủ nghĩa duy vật biện chứng. Quan điểm toàn diện (A), quan điểm phát triển (B), và quan điểm lịch sử - cụ thể (C) là những nguyên tắc đúng đắn cần tuân thủ.\n\nĐáp án A sai vì quan điểm toàn diện là một yêu cầu đúng đắn của phép biện chứng duy vật.\nĐáp án B sai vì quan điểm phát triển là một yêu cầu đúng đắn của phép biện chứng duy vật.\nĐáp án C sai vì quan điểm lịch sử - cụ thể là một yêu cầu đúng đắn của phép biện chứng duy vật."
       },
       {
         "question": 75,
@@ -2921,7 +2921,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng vì phát triển có tính khách quan, phổ biến, đa dạng phong phú và kế thừa. Đây là những đặc trưng cơ bản của quá trình phát triển theo quan điểm của chủ nghĩa duy vật biện chứng. Các đáp án còn lại thiếu hoặc sai lệch về các đặc tính này.\n\nĐáp án B sai vì phát triển mang tính khách quan chứ không mang tính chủ quan.\nĐáp án C sai vì phát triển mang tính khách quan chứ không mang tính chủ quan và không mang tính cô lập.\nĐáp án D sai vì phát triển không mang tính cô lập."
+        "explanation": "Vì phát triển có tính khách quan, phổ biến, đa dạng phong phú và kế thừa. Đây là những đặc trưng cơ bản của quá trình phát triển theo quan điểm của chủ nghĩa duy vật biện chứng. Các đáp án còn lại thiếu hoặc sai lệch về các đặc tính này.\n\nĐáp án B sai vì phát triển mang tính khách quan chứ không mang tính chủ quan.\nĐáp án C sai vì phát triển mang tính khách quan chứ không mang tính chủ quan và không mang tính cô lập.\nĐáp án D sai vì phát triển không mang tính cô lập."
       },
       {
         "question": 76,
@@ -2945,7 +2945,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng vì phát triển là quá trình vận động theo khuynh hướng đi lên, từ thấp đến cao, từ đơn giản đến phức tạp. Các đáp án còn lại không phản ánh đúng bản chất của sự phát triển theo quan điểm duy vật biện chứng.\n\nĐáp án B sai vì phát triển mang tính khách quan, không mang tính chủ quan.\nĐáp án C sai vì phát triển không chỉ tăng lên về mặt lượng mà còn có sự thay đổi về chất.\nĐáp án D sai vì phát triển không chỉ theo vòng tròn khép kín mà còn có sự vận động đi lên."
+        "explanation": "Vì phát triển là quá trình vận động theo khuynh hướng đi lên, từ thấp đến cao, từ đơn giản đến phức tạp. Các đáp án còn lại không phản ánh đúng bản chất của sự phát triển theo quan điểm duy vật biện chứng.\n\nĐáp án B sai vì phát triển mang tính khách quan, không mang tính chủ quan.\nĐáp án C sai vì phát triển không chỉ tăng lên về mặt lượng mà còn có sự thay đổi về chất.\nĐáp án D sai vì phát triển không chỉ theo vòng tròn khép kín mà còn có sự vận động đi lên."
       },
       {
         "question": 77,
@@ -2969,7 +2969,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng vì phát triển không chỉ là sự tăng lên về mặt lượng mà còn bao hàm sự thay đổi về chất, sự ra đời của cái mới thay thế cái cũ. Các đáp án A, B, và C đều phản ánh đúng các quan điểm của chủ nghĩa duy vật biện chứng về phát triển.\n\nĐáp án A sai vì phát triển là khuynh hướng vận động đi lên của sự vật, hiện tượng.\nĐáp án B sai vì phát triển không phải là tất cả mọi sự vận động của sự vật.\nĐáp án C sai vì phát triển có tính khách quan, tính phổ biến, tính đa dạng phong phú và tính kế thừa."
+        "explanation": "Vì phát triển không chỉ là sự tăng lên về mặt lượng mà còn bao hàm sự thay đổi về chất, sự ra đời của cái mới thay thế cái cũ. Các đáp án A, B, và C đều phản ánh đúng các quan điểm của chủ nghĩa duy vật biện chứng về phát triển.\n\nĐáp án A sai vì phát triển là khuynh hướng vận động đi lên của sự vật, hiện tượng.\nĐáp án B sai vì phát triển không phải là tất cả mọi sự vận động của sự vật.\nĐáp án C sai vì phát triển có tính khách quan, tính phổ biến, tính đa dạng phong phú và tính kế thừa."
       },
       {
         "question": 78,
@@ -2993,7 +2993,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng vì mỗi liên hệ có vai trò khác nhau đối với sự tồn tại và phát triển của sự vật, do đó cần phải xem xét mọi mối liên hệ để có cái nhìn toàn diện và chính xác. Các đáp án còn lại đều không phù hợp với nguyên tắc toàn diện của phép biện chứng duy vật.\n\nĐáp án B sai vì các mối liên hệ có vai trò khác nhau, không chỉ cần biết một mối liên hệ.\nĐáp án C sai vì các mối liên hệ có vai trò khác nhau, không phải vai trò như nhau.\nĐáp án D sai vì các mối liên hệ có vai trò khác nhau, không phải vai trò như nhau và không chỉ cần biết một mối liên hệ."
+        "explanation": "Vì mỗi liên hệ có vai trò khác nhau đối với sự tồn tại và phát triển của sự vật, do đó cần phải xem xét mọi mối liên hệ để có cái nhìn toàn diện và chính xác. Các đáp án còn lại đều không phù hợp với nguyên tắc toàn diện của phép biện chứng duy vật.\n\nĐáp án B sai vì các mối liên hệ có vai trò khác nhau, không chỉ cần biết một mối liên hệ.\nĐáp án C sai vì các mối liên hệ có vai trò khác nhau, không phải vai trò như nhau.\nĐáp án D sai vì các mối liên hệ có vai trò khác nhau, không phải vai trò như nhau và không chỉ cần biết một mối liên hệ."
       },
       {
         "question": 79,
@@ -3017,7 +3017,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng vì nguyên tắc toàn diện đòi hỏi khi nghiên cứu đối tượng cần đặt nó trong chính thể thống nhất của tất cả các mặt, các mối liên hệ, tránh xem xét một cách phiến diện, tách rời. Các đáp án A, B, và C đều mô tả những sai lầm khi áp dụng nguyên tắc toàn diện.\n\nĐáp án A sai vì đó là biểu hiện của quan điểm phiến diện.\nĐáp án B sai vì đó là biểu hiện của sự đánh tráo khái niệm.\nĐáp án C sai vì đó là biểu hiện của quan điểm chiết trung."
+        "explanation": "Vì nguyên tắc toàn diện đòi hỏi khi nghiên cứu đối tượng cần đặt nó trong chính thể thống nhất của tất cả các mặt, các mối liên hệ, tránh xem xét một cách phiến diện, tách rời. Các đáp án A, B, và C đều mô tả những sai lầm khi áp dụng nguyên tắc toàn diện.\n\nĐáp án A sai vì đó là biểu hiện của quan điểm phiến diện.\nĐáp án B sai vì đó là biểu hiện của sự đánh tráo khái niệm.\nĐáp án C sai vì đó là biểu hiện của quan điểm chiết trung."
       },
       {
         "question": 80,
@@ -3041,7 +3041,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng vì việc chỉ nhìn một chiều, thấy mặt này mà không thấy mặt khác là biểu hiện của quan điểm phiến diện, trái ngược với nguyên tắc toàn diện. Các đáp án A, B, và C đều là những nội dung đúng đắn của nguyên tắc toàn diện.\n\nĐáp án A sai vì đó là một nội dung của nguyên tắc toàn diện.\nĐáp án B sai vì đó là một nội dung của nguyên tắc toàn diện.\nĐáp án C sai vì đó là một nội dung của nguyên tắc toàn diện."
+        "explanation": "Vì việc chỉ nhìn một chiều, thấy mặt này mà không thấy mặt khác là biểu hiện của quan điểm phiến diện, trái ngược với nguyên tắc toàn diện. Các đáp án A, B, và C đều là những nội dung đúng đắn của nguyên tắc toàn diện.\n\nĐáp án A sai vì đó là một nội dung của nguyên tắc toàn diện.\nĐáp án B sai vì đó là một nội dung của nguyên tắc toàn diện.\nĐáp án C sai vì đó là một nội dung của nguyên tắc toàn diện."
       },
       {
         "question": 81,
@@ -3065,7 +3065,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng vì quan điểm phiến diện là cách nhìn nhận sự vật, hiện tượng một cách phiến diện, chỉ thấy một mặt mà không thấy các mặt khác, không thấy mối liên hệ giữa chúng. Các đáp án còn lại mô tả những đặc điểm của quan điểm toàn diện hoặc các nguyên tắc khác của phép biện chứng duy vật.\n\nĐáp án B sai vì đó là đặc điểm của quan điểm toàn diện.\nĐáp án C sai vì đó là đặc điểm của quan điểm biện chứng.\nĐáp án D sai vì đó là một yêu cầu của quan điểm toàn diện."
+        "explanation": "Vì quan điểm phiến diện là cách nhìn nhận sự vật, hiện tượng một cách phiến diện, chỉ thấy một mặt mà không thấy các mặt khác, không thấy mối liên hệ giữa chúng. Các đáp án còn lại mô tả những đặc điểm của quan điểm toàn diện hoặc các nguyên tắc khác của phép biện chứng duy vật.\n\nĐáp án B sai vì đó là đặc điểm của quan điểm toàn diện.\nĐáp án C sai vì đó là đặc điểm của quan điểm biện chứng.\nĐáp án D sai vì đó là một yêu cầu của quan điểm toàn diện."
       },
       {
         "question": 82,
@@ -3089,7 +3089,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình, nguyên tắc lịch sử - cụ thể yêu cầu phân tích sự vật trong điều kiện, hoàn cảnh và quá trình lịch sử cụ thể của nó (Giáo trình Triết học Mác-Lênin, Chương 2). Các đáp án B, C, và D sai vì chúng phủ nhận sự cần thiết phải xem xét điều kiện, hoàn cảnh và quá trình lịch sử của sự vật."
+        "explanation": "Theo giáo trình, nguyên tắc lịch sử - cụ thể yêu cầu phân tích sự vật trong điều kiện, hoàn cảnh và quá trình lịch sử cụ thể của nó (Giáo trình Triết học Mác-Lênin, Chương 2). Các đáp án B, C, và D sai vì chúng phủ nhận sự cần thiết phải xem xét điều kiện, hoàn cảnh và quá trình lịch sử của sự vật."
       },
       {
         "question": 83,
@@ -3113,7 +3113,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Quan điểm lịch sử - cụ thể đòi hỏi phải chú ý đến điều kiện, hoàn cảnh lịch sử - cụ thể khi xem xét sự vật, hiện tượng (Giáo trình Triết học Mác-Lênin, Chương 2). Các đáp án A, B, và D sai vì chúng phủ nhận hoặc bỏ qua tầm quan trọng của điều kiện, hoàn cảnh lịch sử cụ thể."
+        "explanation": "Quan điểm lịch sử - cụ thể đòi hỏi phải chú ý đến điều kiện, hoàn cảnh lịch sử - cụ thể khi xem xét sự vật, hiện tượng (Giáo trình Triết học Mác-Lênin, Chương 2). Các đáp án A, B, và D sai vì chúng phủ nhận hoặc bỏ qua tầm quan trọng của điều kiện, hoàn cảnh lịch sử cụ thể."
       },
       {
         "question": 84,
@@ -3137,7 +3137,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo nguyên tắc phát triển của chủ nghĩa duy vật biện chứng, cần phải có cái nhìn khách quan và toàn diện, không bảo thủ hay định kiến (Giáo trình Triết học Mác-Lênin, Chương 2). Các đáp án A, B, và C đều là những yêu cầu đúng đắn của nguyên tắc phát triển."
+        "explanation": "Theo nguyên tắc phát triển của chủ nghĩa duy vật biện chứng, cần phải có cái nhìn khách quan và toàn diện, không bảo thủ hay định kiến (Giáo trình Triết học Mác-Lênin, Chương 2). Các đáp án A, B, và C đều là những yêu cầu đúng đắn của nguyên tắc phát triển."
       },
       {
         "question": 85,
@@ -3161,7 +3161,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án C đúng. Ý nghĩa phương pháp luận của quan điểm phát triển là nắm bắt sự vật trong quá trình vận động, biến đổi, bao gồm cả quá khứ, hiện tại và xu hướng phát triển trong tương lai (Giáo trình Triết học Mác-Lênin, Chương 2). Các đáp án A, B, và D chỉ đề cập đến một khía cạnh của quá trình phát triển."
+        "explanation": "Ý nghĩa phương pháp luận của quan điểm phát triển là nắm bắt sự vật trong quá trình vận động, biến đổi, bao gồm cả quá khứ, hiện tại và xu hướng phát triển trong tương lai (Giáo trình Triết học Mác-Lênin, Chương 2). Các đáp án A, B, và D chỉ đề cập đến một khía cạnh của quá trình phát triển."
       },
       {
         "question": 86,
@@ -3185,7 +3185,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Nguyên lý về mối liên hệ phổ biến và nguyên lý về sự phát triển có quan hệ chặt chẽ với nhau, nhưng không đồng nhất (Giáo trình Triết học Mác-Lênin, Chương 2). Chúng bổ sung và làm phong phú lẫn nhau trong quá trình nhận thức và thực tiễn. Các đáp án A và B sai vì phủ nhận mối quan hệ hoặc sự khác biệt giữa hai nguyên lý."
+        "explanation": "Nguyên lý về mối liên hệ phổ biến và nguyên lý về sự phát triển có quan hệ chặt chẽ với nhau, nhưng không đồng nhất (Giáo trình Triết học Mác-Lênin, Chương 2). Chúng bổ sung và làm phong phú lẫn nhau trong quá trình nhận thức và thực tiễn. Các đáp án A và B sai vì phủ nhận mối quan hệ hoặc sự khác biệt giữa hai nguyên lý."
       },
       {
         "question": 87,
@@ -3209,7 +3209,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Phép biện chứng duy vật có sáu cặp phạm trù cơ bản (Giáo trình Triết học Mác-Lênin, Chương 2)."
+        "explanation": "Phép biện chứng duy vật có sáu cặp phạm trù cơ bản (Giáo trình Triết học Mác-Lênin, Chương 2)."
       },
       {
         "question": 88,
@@ -3233,7 +3233,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo chủ nghĩa duy vật biện chứng, cái riêng là phạm trù triết học dùng để chỉ một sự vật, một hiện tượng nhất định (Giáo trình Triết học Mác-Lênin, Chương 2). Các đáp án A, B, và C mô tả các khía cạnh khác của sự vật, hiện tượng, không phải định nghĩa của 'cái riêng'."
+        "explanation": "Theo chủ nghĩa duy vật biện chứng, cái riêng là phạm trù triết học dùng để chỉ một sự vật, một hiện tượng nhất định (Giáo trình Triết học Mác-Lênin, Chương 2). Các đáp án A, B, và C mô tả các khía cạnh khác của sự vật, hiện tượng, không phải định nghĩa của 'cái riêng'."
       },
       {
         "question": 89,
@@ -3257,7 +3257,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Cái chung là phạm trù triết học dùng để chỉ những mặt, những thuộc tính không những có ở một sự vật, hiện tượng nào đó, mà còn lặp lại trong nhiều sự vật, hiện tượng (nhiều cái riêng) khác (Giáo trình Triết học Mác-Lênin, Chương 2). Các đáp án A, C, và D không phản ánh đúng định nghĩa của 'cái chung'."
+        "explanation": "Cái chung là phạm trù triết học dùng để chỉ những mặt, những thuộc tính không những có ở một sự vật, hiện tượng nào đó, mà còn lặp lại trong nhiều sự vật, hiện tượng (nhiều cái riêng) khác (Giáo trình Triết học Mác-Lênin, Chương 2). Các đáp án A, C, và D không phản ánh đúng định nghĩa của 'cái chung'."
       },
       {
         "question": 90,
@@ -3281,7 +3281,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo quan điểm duy vật biện chứng, cái đơn nhất là phạm trù triết học dùng để chỉ các mặt, các đặc điểm chỉ vốn có ở một sự vật, hiện tượng (một cái riêng) nào đó mà không lặp lại ở sự vật, hiện tượng nào khác (Giáo trình Triết học Mác-Lênin, Chương 2). Các đáp án A, C, và D không phản ánh đúng định nghĩa của 'cái đơn nhất'."
+        "explanation": "Theo quan điểm duy vật biện chứng, cái đơn nhất là phạm trù triết học dùng để chỉ các mặt, các đặc điểm chỉ vốn có ở một sự vật, hiện tượng (một cái riêng) nào đó mà không lặp lại ở sự vật, hiện tượng nào khác (Giáo trình Triết học Mác-Lênin, Chương 2). Các đáp án A, C, và D không phản ánh đúng định nghĩa của 'cái đơn nhất'."
       },
       {
         "question": 91,
@@ -3305,7 +3305,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Cái chung tồn tại trong cái riêng và thông qua cái riêng mà biểu hiện sự tồn tại của mình (Giáo trình Triết học Mác-Lênin, Chương 2). Các đáp án B, C, và D đưa ra các mối quan hệ không chính xác giữa các phạm trù."
+        "explanation": "Cái chung tồn tại trong cái riêng và thông qua cái riêng mà biểu hiện sự tồn tại của mình (Giáo trình Triết học Mác-Lênin, Chương 2). Các đáp án B, C, và D đưa ra các mối quan hệ không chính xác giữa các phạm trù."
       },
       {
         "question": 92,
@@ -3329,7 +3329,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo triết học Mác-Lênin, cái chung tồn tại trong cái riêng và thông qua cái riêng để biểu hiện sự tồn tại của nó. Cái chung không thể tách rời hoàn toàn khỏi cái riêng. Các phương án A, B, và C đều phản ánh đúng mối quan hệ biện chứng giữa cái chung và cái riêng theo quan điểm của chủ nghĩa duy vật biện chứng."
+        "explanation": "Theo triết học Mác-Lênin, cái chung tồn tại trong cái riêng và thông qua cái riêng để biểu hiện sự tồn tại của nó. Cái chung không thể tách rời hoàn toàn khỏi cái riêng. Các phương án A, B, và C đều phản ánh đúng mối quan hệ biện chứng giữa cái chung và cái riêng theo quan điểm của chủ nghĩa duy vật biện chứng."
       },
       {
         "question": 93,
@@ -3369,7 +3369,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo triết học Mác-Lênin, cái chung không thể tồn tại độc lập và sinh ra cái riêng. Cái chung chỉ tồn tại trong cái riêng và thông qua cái riêng để biểu hiện sự tồn tại của nó. Các phương án A, C, và D đều phản ánh đúng mối quan hệ biện chứng giữa cái chung và cái riêng theo quan điểm của chủ nghĩa duy vật biện chứng."
+        "explanation": "Theo triết học Mác-Lênin, cái chung không thể tồn tại độc lập và sinh ra cái riêng. Cái chung chỉ tồn tại trong cái riêng và thông qua cái riêng để biểu hiện sự tồn tại của nó. Các phương án A, C, và D đều phản ánh đúng mối quan hệ biện chứng giữa cái chung và cái riêng theo quan điểm của chủ nghĩa duy vật biện chứng."
       },
       {
         "question": 95,
@@ -3393,7 +3393,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo quan điểm của chủ nghĩa duy vật biện chứng, không có cái chung thuần túy tồn tại bên ngoài cái riêng. Cái chung chỉ tồn tại trong cái riêng và thông qua cái riêng để biểu hiện sự tồn tại của nó. Các phương án A, C, và D đều sai vì chúng cho rằng cái chung có thể tồn tại độc lập bên ngoài cái riêng."
+        "explanation": "Theo quan điểm của chủ nghĩa duy vật biện chứng, không có cái chung thuần túy tồn tại bên ngoài cái riêng. Cái chung chỉ tồn tại trong cái riêng và thông qua cái riêng để biểu hiện sự tồn tại của nó. Các phương án A, C, và D đều sai vì chúng cho rằng cái chung có thể tồn tại độc lập bên ngoài cái riêng."
       },
       {
         "question": 96,
@@ -3417,7 +3417,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Để nhận thức được cái chung, cần phải xuất phát từ việc nghiên cứu nhiều cái riêng khác nhau. Thông qua việc phân tích và so sánh các cái riêng, ta mới có thể rút ra được những đặc điểm chung, bản chất chung của chúng. Các phương án B, C, và D đều sai vì chúng phủ nhận vai trò của cái riêng trong việc nhận thức cái chung."
+        "explanation": "Để nhận thức được cái chung, cần phải xuất phát từ việc nghiên cứu nhiều cái riêng khác nhau. Thông qua việc phân tích và so sánh các cái riêng, ta mới có thể rút ra được những đặc điểm chung, bản chất chung của chúng. Các phương án B, C, và D đều sai vì chúng phủ nhận vai trò của cái riêng trong việc nhận thức cái chung."
       },
       {
         "question": 97,
@@ -3441,7 +3441,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo chủ nghĩa duy vật biện chứng, trong hoạt động thực tiễn, cần tạo điều kiện để cái đơn nhất có lợi trở thành cái chung và cái chung bất lợi trở thành cái đơn nhất. Phương án D nói ngược lại, tạo điều kiện cho cái đơn nhất bất lợi trở thành cái chung và cái chung có lợi trở thành cái đơn nhất, điều này là sai lầm."
+        "explanation": "Theo chủ nghĩa duy vật biện chứng, trong hoạt động thực tiễn, cần tạo điều kiện để cái đơn nhất có lợi trở thành cái chung và cái chung bất lợi trở thành cái đơn nhất. Phương án D nói ngược lại, tạo điều kiện cho cái đơn nhất bất lợi trở thành cái chung và cái chung có lợi trở thành cái đơn nhất, điều này là sai lầm."
       },
       {
         "question": 98,
@@ -3465,7 +3465,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Trong hoạt động thực tiễn, cần tạo điều kiện thuận lợi để cái đơn nhất có lợi cho con người trở thành cái chung và cái chung bất lợi trở thành cái đơn nhất. Điều này giúp thúc đẩy sự phát triển của xã hội và đáp ứng nhu cầu của con người."
+        "explanation": "Trong hoạt động thực tiễn, cần tạo điều kiện thuận lợi để cái đơn nhất có lợi cho con người trở thành cái chung và cái chung bất lợi trở thành cái đơn nhất. Điều này giúp thúc đẩy sự phát triển của xã hội và đáp ứng nhu cầu của con người."
       },
       {
         "question": 99,
@@ -3489,7 +3489,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Luận điểm 'Công cuộc xây dựng chủ nghĩa xã hội phải xuất phát từ tình hình cụ thể của từng đất nước' thể hiện sự vận dụng cái chung (những nguyên tắc chung của chủ nghĩa xã hội) vào cái riêng (tình hình cụ thể của từng quốc gia) và phải chú ý đến hoàn cảnh cụ thể để đạt hiệu quả tốt nhất. Các phương án còn lại đều không phù hợp với bài học kinh nghiệm này."
+        "explanation": "Luận điểm 'Công cuộc xây dựng chủ nghĩa xã hội phải xuất phát từ tình hình cụ thể của từng đất nước' thể hiện sự vận dụng cái chung (những nguyên tắc chung của chủ nghĩa xã hội) vào cái riêng (tình hình cụ thể của từng quốc gia) và phải chú ý đến hoàn cảnh cụ thể để đạt hiệu quả tốt nhất. Các phương án còn lại đều không phù hợp với bài học kinh nghiệm này."
       },
       {
         "question": 100,
@@ -3513,7 +3513,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo quan điểm duy vật biện chứng, nguyên nhân là phạm trù chỉ sự tác động lẫn nhau giữa các mặt hay giữa các sự vật, hiện tượng, gây ra một sự biến đổi nhất định. Các phương án còn lại đưa ra những định nghĩa không đầy đủ hoặc sai lệch về nguyên nhân."
+        "explanation": "Theo quan điểm duy vật biện chứng, nguyên nhân là phạm trù chỉ sự tác động lẫn nhau giữa các mặt hay giữa các sự vật, hiện tượng, gây ra một sự biến đổi nhất định. Các phương án còn lại đưa ra những định nghĩa không đầy đủ hoặc sai lệch về nguyên nhân."
       },
       {
         "question": 101,
@@ -3537,7 +3537,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo chủ nghĩa duy vật biện chứng, nguyên nhân luôn xuất hiện trước kết quả. Nguyên nhân là cái sinh ra kết quả, do đó nó phải có trước kết quả về mặt thời gian. Các phương án còn lại đều sai vì chúng cho rằng nguyên nhân xuất hiện sau, trong khi hoặc đồng thời với kết quả."
+        "explanation": "Theo chủ nghĩa duy vật biện chứng, nguyên nhân luôn xuất hiện trước kết quả. Nguyên nhân là cái sinh ra kết quả, do đó nó phải có trước kết quả về mặt thời gian. Các phương án còn lại đều sai vì chúng cho rằng nguyên nhân xuất hiện sau, trong khi hoặc đồng thời với kết quả."
       },
       {
         "question": 102,
@@ -3561,7 +3561,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo triết học Mác-Lênin, nguyên nhân có thể chuyển hóa thành kết quả và ngược lại. Quá trình này diễn ra liên tục trong sự vận động và phát triển của thế giới. Các phương án còn lại đều sai vì chúng đưa ra những khẳng định tuyệt đối và phiến diện về mối quan hệ giữa nguyên nhân và kết quả."
+        "explanation": "Theo triết học Mác-Lênin, nguyên nhân có thể chuyển hóa thành kết quả và ngược lại. Quá trình này diễn ra liên tục trong sự vận động và phát triển của thế giới. Các phương án còn lại đều sai vì chúng đưa ra những khẳng định tuyệt đối và phiến diện về mối quan hệ giữa nguyên nhân và kết quả."
       },
       {
         "question": 103,
@@ -3585,7 +3585,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo giáo trình, mối liên hệ nhân quả có tính khách quan (tồn tại độc lập với ý thức con người), tính phổ biến (tồn tại ở mọi sự vật, hiện tượng) và tính tất yếu (nguyên nhân nhất định sẽ gây ra kết quả tương ứng). Các đáp án còn lại sai vì: A sai vì phủ nhận tính khách quan; B sai vì quy cho yếu tố duy tâm; C sai vì tuyệt đối hóa vai trò của con người."
+        "explanation": "Theo giáo trình, mối liên hệ nhân quả có tính khách quan (tồn tại độc lập với ý thức con người), tính phổ biến (tồn tại ở mọi sự vật, hiện tượng) và tính tất yếu (nguyên nhân nhất định sẽ gây ra kết quả tương ứng). Các đáp án còn lại sai vì: A sai vì phủ nhận tính khách quan; B sai vì quy cho yếu tố duy tâm; C sai vì tuyệt đối hóa vai trò của con người."
       },
       {
         "question": 104,
@@ -3609,7 +3609,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo chủ nghĩa duy vật biện chứng, mối quan hệ nhân quả có tính khách quan, phổ biến và tất yếu. Do đó, khẳng định phủ nhận các tính chất này là sai. Các đáp án còn lại (B, C, D) đều phản ánh đúng quan điểm của chủ nghĩa duy vật biện chứng về mối quan hệ nhân quả."
+        "explanation": "Theo chủ nghĩa duy vật biện chứng, mối quan hệ nhân quả có tính khách quan, phổ biến và tất yếu. Do đó, khẳng định phủ nhận các tính chất này là sai. Các đáp án còn lại (B, C, D) đều phản ánh đúng quan điểm của chủ nghĩa duy vật biện chứng về mối quan hệ nhân quả."
       },
       {
         "question": 105,
@@ -3633,7 +3633,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo triết học Mác-Lênin, trong quá trình nhận thức sự vật, việc phân loại nguyên nhân cơ bản và không cơ bản là rất quan trọng để xác định nguyên nhân chính yếu chi phối sự hình thành và phát triển của sự vật. Các đáp án còn lại (A, B, D) đều là những khẳng định đúng theo quan điểm của triết học Mác-Lênin về mối quan hệ nhân quả."
+        "explanation": "Theo triết học Mác-Lênin, trong quá trình nhận thức sự vật, việc phân loại nguyên nhân cơ bản và không cơ bản là rất quan trọng để xác định nguyên nhân chính yếu chi phối sự hình thành và phát triển của sự vật. Các đáp án còn lại (A, B, D) đều là những khẳng định đúng theo quan điểm của triết học Mác-Lênin về mối quan hệ nhân quả."
       },
       {
         "question": 106,
@@ -3657,7 +3657,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo chủ nghĩa duy vật biện chứng, nguyên nhân luôn có trước kết quả về mặt thời gian. Do đó, để tìm nguyên nhân của một sự vật, hiện tượng, cần phải xem xét các mối liên hệ đã xảy ra trước khi sự vật, hiện tượng đó xuất hiện. Các đáp án còn lại (B, C, D) đều sai vì không phản ánh đúng mối quan hệ thời gian và tầm quan trọng của việc phân tích nguyên nhân trong nhận thức."
+        "explanation": "Theo chủ nghĩa duy vật biện chứng, nguyên nhân luôn có trước kết quả về mặt thời gian. Do đó, để tìm nguyên nhân của một sự vật, hiện tượng, cần phải xem xét các mối liên hệ đã xảy ra trước khi sự vật, hiện tượng đó xuất hiện. Các đáp án còn lại (B, C, D) đều sai vì không phản ánh đúng mối quan hệ thời gian và tầm quan trọng của việc phân tích nguyên nhân trong nhận thức."
       },
       {
         "question": 107,
@@ -3681,7 +3681,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo triết học Mác-Lênin, để loại bỏ một sự vật, hiện tượng không mong muốn, cần phải loại bỏ tất cả các nguyên nhân sinh ra nó, bao gồm cả nguyên nhân cơ bản và không cơ bản, nguyên nhân chủ quan và khách quan, nguyên nhân bên trong và bên ngoài. Các đáp án còn lại (A, C, D) đều sai vì chỉ đề cập đến việc loại bỏ một số loại nguyên nhân nhất định, không đảm bảo loại bỏ hoàn toàn sự vật, hiện tượng đó."
+        "explanation": "Theo triết học Mác-Lênin, để loại bỏ một sự vật, hiện tượng không mong muốn, cần phải loại bỏ tất cả các nguyên nhân sinh ra nó, bao gồm cả nguyên nhân cơ bản và không cơ bản, nguyên nhân chủ quan và khách quan, nguyên nhân bên trong và bên ngoài. Các đáp án còn lại (A, C, D) đều sai vì chỉ đề cập đến việc loại bỏ một số loại nguyên nhân nhất định, không đảm bảo loại bỏ hoàn toàn sự vật, hiện tượng đó."
       },
       {
         "question": 108,
@@ -3705,7 +3705,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình, bản chất là phạm trù triết học chỉ tổng thể các mối liên hệ khách quan, tất nhiên, tương đối ổn định bên trong sự vật, quy định sự vận động và phát triển của sự vật đó. Các đáp án còn lại (B, C, D) mô tả các khía cạnh khác của sự vật, hiện tượng, nhưng không phải là bản chất."
+        "explanation": "Theo giáo trình, bản chất là phạm trù triết học chỉ tổng thể các mối liên hệ khách quan, tất nhiên, tương đối ổn định bên trong sự vật, quy định sự vận động và phát triển của sự vật đó. Các đáp án còn lại (B, C, D) mô tả các khía cạnh khác của sự vật, hiện tượng, nhưng không phải là bản chất."
       },
       {
         "question": 109,
@@ -3729,7 +3729,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Câu nói của Ph. Ăngghen thể hiện quan điểm biện chứng về mối quan hệ giữa tất nhiên và ngẫu nhiên. Ranh giới giữa chúng chỉ mang tính tương đối, vì cái tất nhiên biểu hiện thông qua vô vàn cái ngẫu nhiên, và ngược lại, cái ngẫu nhiên là hình thức biểu hiện của cái tất nhiên. Các đáp án còn lại (B, C, D) đều sai vì không phản ánh đúng mối quan hệ biện chứng giữa tất nhiên và ngẫu nhiên."
+        "explanation": "Câu nói của Ph. Ăngghen thể hiện quan điểm biện chứng về mối quan hệ giữa tất nhiên và ngẫu nhiên. Ranh giới giữa chúng chỉ mang tính tương đối, vì cái tất nhiên biểu hiện thông qua vô vàn cái ngẫu nhiên, và ngược lại, cái ngẫu nhiên là hình thức biểu hiện của cái tất nhiên. Các đáp án còn lại (B, C, D) đều sai vì không phản ánh đúng mối quan hệ biện chứng giữa tất nhiên và ngẫu nhiên."
       },
       {
         "question": 110,
@@ -3753,7 +3753,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo chủ nghĩa duy vật biện chứng, tất nhiên và ngẫu nhiên tồn tại trong mối liên hệ biện chứng, tác động lẫn nhau. Tất nhiên không tồn tại độc lập với ngẫu nhiên, mà biểu hiện thông qua vô vàn cái ngẫu nhiên. Các đáp án còn lại (A, B, C) đều phản ánh đúng quan điểm của chủ nghĩa duy vật biện chứng về mối quan hệ giữa tất nhiên và ngẫu nhiên."
+        "explanation": "Theo chủ nghĩa duy vật biện chứng, tất nhiên và ngẫu nhiên tồn tại trong mối liên hệ biện chứng, tác động lẫn nhau. Tất nhiên không tồn tại độc lập với ngẫu nhiên, mà biểu hiện thông qua vô vàn cái ngẫu nhiên. Các đáp án còn lại (A, B, C) đều phản ánh đúng quan điểm của chủ nghĩa duy vật biện chứng về mối quan hệ giữa tất nhiên và ngẫu nhiên."
       },
       {
         "question": 111,
@@ -3777,7 +3777,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Trong hoạt động nhận thức và thực tiễn, chúng ta phải căn cứ vào cái tất nhiên để định hướng hành động, nhưng đồng thời cũng phải tính đến cái ngẫu nhiên để có những phương án dự phòng, ứng phó với những tình huống bất ngờ. Các đáp án còn lại (B, C, D) đều sai vì phủ nhận vai trò của một trong hai yếu tố tất nhiên và ngẫu nhiên."
+        "explanation": "Trong hoạt động nhận thức và thực tiễn, chúng ta phải căn cứ vào cái tất nhiên để định hướng hành động, nhưng đồng thời cũng phải tính đến cái ngẫu nhiên để có những phương án dự phòng, ứng phó với những tình huống bất ngờ. Các đáp án còn lại (B, C, D) đều sai vì phủ nhận vai trò của một trong hai yếu tố tất nhiên và ngẫu nhiên."
       },
       {
         "question": 112,
@@ -3801,7 +3801,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Câu tục ngữ này nhấn mạnh tầm quan trọng của nội dung (gỗ tốt) hơn hình thức (nước sơn). Nó phản ánh quan điểm coi trọng bản chất hơn là hiện tượng, coi trọng cái bên trong hơn cái bên ngoài. Các đáp án còn lại (A, C, D) đều sai vì không phản ánh đúng ý nghĩa của câu tục ngữ."
+        "explanation": "Câu tục ngữ này nhấn mạnh tầm quan trọng của nội dung (gỗ tốt) hơn hình thức (nước sơn). Nó phản ánh quan điểm coi trọng bản chất hơn là hiện tượng, coi trọng cái bên trong hơn cái bên ngoài. Các đáp án còn lại (A, C, D) đều sai vì không phản ánh đúng ý nghĩa của câu tục ngữ."
       },
       {
         "question": 113,
@@ -3825,7 +3825,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo giáo trình, mối quan hệ giữa lực lượng sản xuất và quan hệ sản xuất là một ví dụ điển hình cho mối quan hệ biện chứng giữa nội dung và hình thức. Lực lượng sản xuất là nội dung, còn quan hệ sản xuất là hình thức xã hội của nó.\n\nCác đáp án khác sai vì:\n- A: Tất nhiên - ngẫu nhiên không phản ánh mối quan hệ này.\n- B: Nguyên nhân - kết quả không phù hợp vì không có sự trực tiếp gây ra và bị gây ra giữa hai yếu tố này.\n- D: Cái riêng - cái chung không liên quan đến mối quan hệ giữa lực lượng sản xuất và quan hệ sản xuất."
+        "explanation": "Theo giáo trình, mối quan hệ giữa lực lượng sản xuất và quan hệ sản xuất là một ví dụ điển hình cho mối quan hệ biện chứng giữa nội dung và hình thức. Lực lượng sản xuất là nội dung, còn quan hệ sản xuất là hình thức xã hội của nó.\n\nCác đáp án khác sai vì:\n- A: Tất nhiên - ngẫu nhiên không phản ánh mối quan hệ này.\n- B: Nguyên nhân - kết quả không phù hợp vì không có sự trực tiếp gây ra và bị gây ra giữa hai yếu tố này.\n- D: Cái riêng - cái chung không liên quan đến mối quan hệ giữa lực lượng sản xuất và quan hệ sản xuất."
       },
       {
         "question": 114,
@@ -3849,7 +3849,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Phép biện chứng duy vật nghiên cứu những quy luật phổ biến nhất của sự vận động và phát triển của tự nhiên, xã hội và tư duy. Đây là nội dung cơ bản của phép biện chứng duy vật theo giáo trình.\n\nCác đáp án khác sai vì:\n- A, B, C: Quy luật đặc thù, quy luật chung ở một số lĩnh vực, và quy luật riêng không phải là đối tượng nghiên cứu chính của phép biện chứng duy vật, mà là các khoa học chuyên ngành."
+        "explanation": "Phép biện chứng duy vật nghiên cứu những quy luật phổ biến nhất của sự vận động và phát triển của tự nhiên, xã hội và tư duy. Đây là nội dung cơ bản của phép biện chứng duy vật theo giáo trình.\n\nCác đáp án khác sai vì:\n- A, B, C: Quy luật đặc thù, quy luật chung ở một số lĩnh vực, và quy luật riêng không phải là đối tượng nghiên cứu chính của phép biện chứng duy vật, mà là các khoa học chuyên ngành."
       },
       {
         "question": 115,
@@ -3873,7 +3873,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Quy luật từ những sự thay đổi về lượng dẫn đến những sự thay đổi về chất chỉ ra cách thức mà sự vật, hiện tượng vận động và phát triển. Sự tích lũy dần về lượng đến một giới hạn nhất định sẽ dẫn đến sự thay đổi về chất.\n\nCác đáp án khác sai vì:\n- A: Quy luật này là một trong ba quy luật cơ bản, không phải là 'hạt nhân'.\n- B: Nguồn gốc của sự vận động, phát triển được giải thích bởi mâu thuẫn.\n- D: Khuynh hướng vận động, phát triển được vạch ra bởi quy luật phủ định của phủ định."
+        "explanation": "Quy luật từ những sự thay đổi về lượng dẫn đến những sự thay đổi về chất chỉ ra cách thức mà sự vật, hiện tượng vận động và phát triển. Sự tích lũy dần về lượng đến một giới hạn nhất định sẽ dẫn đến sự thay đổi về chất.\n\nCác đáp án khác sai vì:\n- A: Quy luật này là một trong ba quy luật cơ bản, không phải là 'hạt nhân'.\n- B: Nguồn gốc của sự vận động, phát triển được giải thích bởi mâu thuẫn.\n- D: Khuynh hướng vận động, phát triển được vạch ra bởi quy luật phủ định của phủ định."
       },
       {
         "question": 116,
@@ -3897,7 +3897,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo chủ nghĩa duy vật biện chứng, chất của sự vật là tổng hợp các thuộc tính khách quan vốn có của sự vật, nói lên đặc trưng của sự vật đó. Chất là cái vốn có, phân biệt sự vật này với sự vật khác.\n\nCác đáp án khác sai vì:\n- A: Chất của sự vật tồn tại khách quan, không phụ thuộc vào ý thức con người.\n- B: Chất của sự vật không do cảm giác con người quyết định.\n- D: Chất là thuộc tính cơ bản, không phải không cơ bản."
+        "explanation": "Theo chủ nghĩa duy vật biện chứng, chất của sự vật là tổng hợp các thuộc tính khách quan vốn có của sự vật, nói lên đặc trưng của sự vật đó. Chất là cái vốn có, phân biệt sự vật này với sự vật khác.\n\nCác đáp án khác sai vì:\n- A: Chất của sự vật tồn tại khách quan, không phụ thuộc vào ý thức con người.\n- B: Chất của sự vật không do cảm giác con người quyết định.\n- D: Chất là thuộc tính cơ bản, không phải không cơ bản."
       },
       {
         "question": 117,
@@ -3921,7 +3921,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Sự phân biệt giữa lượng và chất mang tính tương đối vì trong những điều kiện nhất định, cái là lượng ở mối quan hệ này có thể là chất ở mối quan hệ khác, và ngược lại. Ví dụ, nhiệt độ có thể là lượng khi xét sự thay đổi nhiệt độ của nước, nhưng lại là chất khi xét sự chuyển đổi trạng thái của nước (từ lỏng sang hơi).\n\nCác đáp án khác sai vì:\n- B, C, D: Sự phân biệt này không mang tính tuyệt đối hay chủ quan."
+        "explanation": "Sự phân biệt giữa lượng và chất mang tính tương đối vì trong những điều kiện nhất định, cái là lượng ở mối quan hệ này có thể là chất ở mối quan hệ khác, và ngược lại. Ví dụ, nhiệt độ có thể là lượng khi xét sự thay đổi nhiệt độ của nước, nhưng lại là chất khi xét sự chuyển đổi trạng thái của nước (từ lỏng sang hơi).\n\nCác đáp án khác sai vì:\n- B, C, D: Sự phân biệt này không mang tính tuyệt đối hay chủ quan."
       },
       {
         "question": 118,
@@ -3945,7 +3945,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Chủ nghĩa duy vật biện chứng khẳng định lượng và chất tồn tại trong sự thống nhất biện chứng, tác động qua lại và quy định lẫn nhau, chứ không tồn tại độc lập.\n\nCác đáp án khác đúng theo quan điểm của chủ nghĩa duy vật biện chứng:\n- A: Sự phân biệt giữa chất và lượng chỉ là tương đối.\n- B: Mọi sự vật hiện tượng đều là sự thống nhất giữa chất và lượng.\n- C: Lượng và chất tác động qua lại và quy định lẫn nhau."
+        "explanation": "Chủ nghĩa duy vật biện chứng khẳng định lượng và chất tồn tại trong sự thống nhất biện chứng, tác động qua lại và quy định lẫn nhau, chứ không tồn tại độc lập.\n\nCác đáp án khác đúng theo quan điểm của chủ nghĩa duy vật biện chứng:\n- A: Sự phân biệt giữa chất và lượng chỉ là tương đối.\n- B: Mọi sự vật hiện tượng đều là sự thống nhất giữa chất và lượng.\n- C: Lượng và chất tác động qua lại và quy định lẫn nhau."
       },
       {
         "question": 119,
@@ -3969,7 +3969,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Phạm trù độ chỉ khoảng giới hạn mà trong đó sự thay đổi về lượng chưa làm thay đổi căn bản về chất của sự vật, hiện tượng. Khi lượng vượt quá độ, chất mới thay đổi.\n\nCác đáp án khác sai vì:\n- A: Trong độ, sự biến đổi về lượng không dẫn đến sự thay đổi về chất.\n- C: Không phải tất cả các đáp án đều đúng.\n- D: Sự thay đổi về lượng trong độ không làm biến đổi về chất."
+        "explanation": "Phạm trù độ chỉ khoảng giới hạn mà trong đó sự thay đổi về lượng chưa làm thay đổi căn bản về chất của sự vật, hiện tượng. Khi lượng vượt quá độ, chất mới thay đổi.\n\nCác đáp án khác sai vì:\n- A: Trong độ, sự biến đổi về lượng không dẫn đến sự thay đổi về chất.\n- C: Không phải tất cả các đáp án đều đúng.\n- D: Sự thay đổi về lượng trong độ không làm biến đổi về chất."
       },
       {
         "question": 120,
@@ -3993,7 +3993,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Bước nhảy là sự biến đổi về chất diễn ra tại điểm nút, khi lượng đã tích lũy đủ để phá vỡ giới hạn của độ. Đây là quá trình chuyển hóa từ lượng sang chất một cách đột ngột.\n\nCác đáp án khác sai vì:\n- A: Không phải tất cả sự phát triển đột biến đều là bước nhảy (cần có sự tích lũy về lượng trước đó).\n- B: Bước nhảy tạo ra sự phát triển hoàn thiện về chất.\n- D: Bước nhảy không chỉ là sự thay đổi về lượng."
+        "explanation": "Bước nhảy là sự biến đổi về chất diễn ra tại điểm nút, khi lượng đã tích lũy đủ để phá vỡ giới hạn của độ. Đây là quá trình chuyển hóa từ lượng sang chất một cách đột ngột.\n\nCác đáp án khác sai vì:\n- A: Không phải tất cả sự phát triển đột biến đều là bước nhảy (cần có sự tích lũy về lượng trước đó).\n- B: Bước nhảy tạo ra sự phát triển hoàn thiện về chất.\n- D: Bước nhảy không chỉ là sự thay đổi về lượng."
       },
       {
         "question": 121,
@@ -4017,7 +4017,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Bước nhảy tạo sự biến đổi về chất xảy ra trong xã hội thường được gọi là cách mạng xã hội. Cách mạng xã hội là sự thay đổi căn bản về chất của một xã hội, thường đi kèm với sự thay đổi về chế độ chính trị, kinh tế, và xã hội.\n\nCác đáp án khác sai vì:\n- A: Cải cách xã hội là sự thay đổi từng phần, không mang tính chất toàn diện như cách mạng.\n- B: Tiến hóa xã hội là quá trình phát triển dần dần, không có tính đột biến như cách mạng.\n- D: Đảo chính chỉ là sự thay đổi chính quyền bằng vũ lực, không nhất thiết dẫn đến sự thay đổi về chất của xã hội."
+        "explanation": "Bước nhảy tạo sự biến đổi về chất xảy ra trong xã hội thường được gọi là cách mạng xã hội. Cách mạng xã hội là sự thay đổi căn bản về chất của một xã hội, thường đi kèm với sự thay đổi về chế độ chính trị, kinh tế, và xã hội.\n\nCác đáp án khác sai vì:\n- A: Cải cách xã hội là sự thay đổi từng phần, không mang tính chất toàn diện như cách mạng.\n- B: Tiến hóa xã hội là quá trình phát triển dần dần, không có tính đột biến như cách mạng.\n- D: Đảo chính chỉ là sự thay đổi chính quyền bằng vũ lực, không nhất thiết dẫn đến sự thay đổi về chất của xã hội."
       },
       {
         "question": 122,
@@ -4041,7 +4041,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Quy luật chuyển hóa từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại diễn ra một cách tự phát trong lĩnh vực tự nhiên. Các quá trình tự nhiên thường tuân theo quy luật này một cách khách quan.\n\nCác đáp án khác sai vì:\n- A, B: Trong lĩnh vực tư duy và xã hội, quy luật này thường diễn ra thông qua hoạt động có ý thức của con người, không hoàn toàn tự phát.\n- D: Không đúng vì quy luật này không diễn ra một cách hoàn toàn tự phát trong xã hội và tư duy."
+        "explanation": "Quy luật chuyển hóa từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại diễn ra một cách tự phát trong lĩnh vực tự nhiên. Các quá trình tự nhiên thường tuân theo quy luật này một cách khách quan.\n\nCác đáp án khác sai vì:\n- A, B: Trong lĩnh vực tư duy và xã hội, quy luật này thường diễn ra thông qua hoạt động có ý thức của con người, không hoàn toàn tự phát.\n- D: Không đúng vì quy luật này không diễn ra một cách hoàn toàn tự phát trong xã hội và tư duy."
       },
       {
         "question": 123,
@@ -4065,7 +4065,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo giáo trình, khuynh hướng 'tả khuynh' (hay 'tả' trong hoạt động thực tiễn) thể hiện sự nôn nóng, đốt cháy giai đoạn, muốn thực hiện bước nhảy khi chưa có đủ sự tích lũy về lượng. Trong lĩnh vực đời sống xã hội, việc tích lũy đủ về lượng và thực hiện bước nhảy để thay đổi về chất là biểu hiện của sự phát triển, nhưng nếu quá nôn nóng, muốn thay đổi chất khi lượng chưa đủ thì đó là biểu hiện của khuynh hướng tả khuynh.\n\nCác đáp án khác sai vì:\n- A (Hữu khuynh): Thể hiện sự bảo thủ, chậm trễ, không dám thực hiện bước nhảy khi đã có đủ lượng.\n- B (Phát triển): Là khuynh hướng đúng đắn, phù hợp với quy luật.\n- D (Phiến diện): Chỉ sự xem xét vấn đề một cách không đầy đủ, không toàn diện, không liên quan trực tiếp đến việc tích lũy lượng và thực hiện bước nhảy."
+        "explanation": "Theo giáo trình, khuynh hướng 'tả khuynh' (hay 'tả' trong hoạt động thực tiễn) thể hiện sự nôn nóng, đốt cháy giai đoạn, muốn thực hiện bước nhảy khi chưa có đủ sự tích lũy về lượng. Trong lĩnh vực đời sống xã hội, việc tích lũy đủ về lượng và thực hiện bước nhảy để thay đổi về chất là biểu hiện của sự phát triển, nhưng nếu quá nôn nóng, muốn thay đổi chất khi lượng chưa đủ thì đó là biểu hiện của khuynh hướng tả khuynh.\n\nCác đáp án khác sai vì:\n- A (Hữu khuynh): Thể hiện sự bảo thủ, chậm trễ, không dám thực hiện bước nhảy khi đã có đủ lượng.\n- B (Phát triển): Là khuynh hướng đúng đắn, phù hợp với quy luật.\n- D (Phiến diện): Chỉ sự xem xét vấn đề một cách không đầy đủ, không toàn diện, không liên quan trực tiếp đến việc tích lũy lượng và thực hiện bước nhảy."
       },
       {
         "question": 124,
@@ -4089,7 +4089,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình, khuynh hướng 'hữu khuynh' (hay 'hữu' trong hoạt động thực tiễn) thể hiện sự bảo thủ, trì trệ, không dám thực hiện bước nhảy khi đã có đủ sự tích lũy về lượng, đã đạt đến giới hạn điểm nút. Việc không dám thực hiện bước nhảy cần thiết khi tích lũy đủ về lượng là biểu hiện của sự bảo thủ, trì trệ, tức là khuynh hướng hữu khuynh.\n\nCác đáp án khác sai vì:\n- B (Phiến diện): Chỉ sự xem xét vấn đề một cách không đầy đủ, không toàn diện, không liên quan trực tiếp đến việc tích lũy lượng và thực hiện bước nhảy.\n- C (Tả khuynh): Thể hiện sự nôn nóng, đốt cháy giai đoạn, muốn thực hiện bước nhảy khi chưa có đủ lượng.\n- D (Phát triển): Là khuynh hướng đúng đắn, phù hợp với quy luật."
+        "explanation": "Theo giáo trình, khuynh hướng 'hữu khuynh' (hay 'hữu' trong hoạt động thực tiễn) thể hiện sự bảo thủ, trì trệ, không dám thực hiện bước nhảy khi đã có đủ sự tích lũy về lượng, đã đạt đến giới hạn điểm nút. Việc không dám thực hiện bước nhảy cần thiết khi tích lũy đủ về lượng là biểu hiện của sự bảo thủ, trì trệ, tức là khuynh hướng hữu khuynh.\n\nCác đáp án khác sai vì:\n- B (Phiến diện): Chỉ sự xem xét vấn đề một cách không đầy đủ, không toàn diện, không liên quan trực tiếp đến việc tích lũy lượng và thực hiện bước nhảy.\n- C (Tả khuynh): Thể hiện sự nôn nóng, đốt cháy giai đoạn, muốn thực hiện bước nhảy khi chưa có đủ lượng.\n- D (Phát triển): Là khuynh hướng đúng đắn, phù hợp với quy luật."
       },
       {
         "question": 125,
@@ -4113,7 +4113,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo giáo trình, quy luật chuyển hóa từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại yêu cầu trong hoạt động nhận thức và thực tiễn, chúng ta cần phải chú trọng cả lượng và chất. Không được xem nhẹ hoặc tuyệt đối hóa một trong hai mặt này. Phải có cái nhìn biện chứng, thấy được sự tác động qua lại giữa lượng và chất.\n\nCác đáp án khác sai vì:\n- A (Chỉ chú trọng về mặt lượng): Bỏ qua vai trò của chất, dẫn đến không nhận thức được sự thay đổi về chất khi lượng đạt đến điểm nút.\n- B (Chỉ chú trọng về mặt chất): Bỏ qua quá trình tích lũy về lượng, dẫn đến duy ý chí, chủ quan.\n- D (Tuân theo khuynh hướng tả khuynh): Là sai lầm, vì tả khuynh là nôn nóng, đốt cháy giai đoạn."
+        "explanation": "Theo giáo trình, quy luật chuyển hóa từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại yêu cầu trong hoạt động nhận thức và thực tiễn, chúng ta cần phải chú trọng cả lượng và chất. Không được xem nhẹ hoặc tuyệt đối hóa một trong hai mặt này. Phải có cái nhìn biện chứng, thấy được sự tác động qua lại giữa lượng và chất.\n\nCác đáp án khác sai vì:\n- A (Chỉ chú trọng về mặt lượng): Bỏ qua vai trò của chất, dẫn đến không nhận thức được sự thay đổi về chất khi lượng đạt đến điểm nút.\n- B (Chỉ chú trọng về mặt chất): Bỏ qua quá trình tích lũy về lượng, dẫn đến duy ý chí, chủ quan.\n- D (Tuân theo khuynh hướng tả khuynh): Là sai lầm, vì tả khuynh là nôn nóng, đốt cháy giai đoạn."
       },
       {
         "question": 126,
@@ -4137,7 +4137,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình, Cách mạng tháng Tám năm 1945 là một cuộc cách mạng toàn diện, thay đổi căn bản chế độ xã hội từ thực dân phong kiến sang dân chủ cộng hòa. Đây là một bước nhảy toàn bộ, vì nó thay đổi toàn bộ chất của xã hội.\n\nCác đáp án khác sai vì:\n- A (Bước nhảy cục bộ): Chỉ sự thay đổi ở một bộ phận, một lĩnh vực nào đó của xã hội.\n- C (Bước nhảy đột biến): Nhấn mạnh tính nhanh chóng, bất ngờ của sự thay đổi, nhưng không nhất thiết là toàn bộ.\n- D (Bước nhảy tức thời): Nhấn mạnh tính nhanh chóng, diễn ra trong thời gian ngắn, nhưng không nói lên quy mô của sự thay đổi."
+        "explanation": "Theo giáo trình, Cách mạng tháng Tám năm 1945 là một cuộc cách mạng toàn diện, thay đổi căn bản chế độ xã hội từ thực dân phong kiến sang dân chủ cộng hòa. Đây là một bước nhảy toàn bộ, vì nó thay đổi toàn bộ chất của xã hội.\n\nCác đáp án khác sai vì:\n- A (Bước nhảy cục bộ): Chỉ sự thay đổi ở một bộ phận, một lĩnh vực nào đó của xã hội.\n- C (Bước nhảy đột biến): Nhấn mạnh tính nhanh chóng, bất ngờ của sự thay đổi, nhưng không nhất thiết là toàn bộ.\n- D (Bước nhảy tức thời): Nhấn mạnh tính nhanh chóng, diễn ra trong thời gian ngắn, nhưng không nói lên quy mô của sự thay đổi."
       },
       {
         "question": 127,
@@ -4161,7 +4161,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình, những sai lầm của sự chủ quan, nóng vội hay của sự bảo thủ, trì trệ trong giai đoạn 1975-1986 là do không tôn trọng quy luật chuyển hoá từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại. Việc chủ quan, nóng vội là biểu hiện của khuynh hướng tả khuynh, còn bảo thủ, trì trệ là biểu hiện của khuynh hướng hữu khuynh, cả hai đều vi phạm quy luật này.\n\nCác đáp án khác sai vì:\n- A (Quy luật thống nhất và đấu tranh của các mặt đối lập): Quy luật này nói về nguồn gốc của sự vận động và phát triển, không trực tiếp liên quan đến sai lầm chủ quan, nóng vội hay bảo thủ, trì trệ.\n- C (Quy luật phủ định của phủ định): Quy luật này nói về khuynh hướng của sự phát triển, không trực tiếp liên quan đến sai lầm chủ quan, nóng vội hay bảo thủ, trì trệ.\n- D (Quy luật đấu tranh giai cấp): Quy luật này nói về động lực của sự phát triển trong xã hội có giai cấp, không trực tiếp liên quan đến sai lầm chủ quan, nóng vội hay bảo thủ, trì trệ."
+        "explanation": "Theo giáo trình, những sai lầm của sự chủ quan, nóng vội hay của sự bảo thủ, trì trệ trong giai đoạn 1975-1986 là do không tôn trọng quy luật chuyển hoá từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại. Việc chủ quan, nóng vội là biểu hiện của khuynh hướng tả khuynh, còn bảo thủ, trì trệ là biểu hiện của khuynh hướng hữu khuynh, cả hai đều vi phạm quy luật này.\n\nCác đáp án khác sai vì:\n- A (Quy luật thống nhất và đấu tranh của các mặt đối lập): Quy luật này nói về nguồn gốc của sự vận động và phát triển, không trực tiếp liên quan đến sai lầm chủ quan, nóng vội hay bảo thủ, trì trệ.\n- C (Quy luật phủ định của phủ định): Quy luật này nói về khuynh hướng của sự phát triển, không trực tiếp liên quan đến sai lầm chủ quan, nóng vội hay bảo thủ, trì trệ.\n- D (Quy luật đấu tranh giai cấp): Quy luật này nói về động lực của sự phát triển trong xã hội có giai cấp, không trực tiếp liên quan đến sai lầm chủ quan, nóng vội hay bảo thủ, trì trệ."
       },
       {
         "question": 128,
@@ -4185,7 +4185,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình, việc mắc bệnh chủ quan, nóng vội, muốn bỏ qua những bước đi cần thiết trong quá trình phát triển đất nước là biểu hiện của khuynh hướng tả khuynh. Tả khuynh là muốn thực hiện bước nhảy khi chưa có đủ sự tích lũy về lượng.\n\nCác đáp án khác sai vì:\n- A (Hữu khuynh): Thể hiện sự bảo thủ, trì trệ, không dám thực hiện bước nhảy khi đã có đủ lượng.\n- C (Tất cả các đáp án): Không đúng vì chỉ có tả khuynh là sai lầm trong trường hợp này.\n- D (Tôn trọng khách quan): Trái ngược với sai lầm chủ quan, nóng vội."
+        "explanation": "Theo giáo trình, việc mắc bệnh chủ quan, nóng vội, muốn bỏ qua những bước đi cần thiết trong quá trình phát triển đất nước là biểu hiện của khuynh hướng tả khuynh. Tả khuynh là muốn thực hiện bước nhảy khi chưa có đủ sự tích lũy về lượng.\n\nCác đáp án khác sai vì:\n- A (Hữu khuynh): Thể hiện sự bảo thủ, trì trệ, không dám thực hiện bước nhảy khi đã có đủ lượng.\n- C (Tất cả các đáp án): Không đúng vì chỉ có tả khuynh là sai lầm trong trường hợp này.\n- D (Tôn trọng khách quan): Trái ngược với sai lầm chủ quan, nóng vội."
       },
       {
         "question": 129,
@@ -4209,7 +4209,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Câu thành ngữ 'Có đi có lại mới toại lòng nhau' nói về sự trao đổi, qua lại trong quan hệ giữa người với người, không liên quan đến quá trình tích lũy về lượng và sự thay đổi về chất.\n\nCác đáp án khác đúng vì:\n- B (Róc mòn cạn ruộng): Thể hiện quá trình tác động dần dần làm thay đổi chất lượng của ruộng.\n- C (Tích tiểu thành đại): Thể hiện quá trình tích lũy về lượng dẫn đến sự thay đổi về chất.\n- D (Có công mài sắt có ngày nên kim): Thể hiện quá trình tích lũy công sức, thời gian dẫn đến sự thay đổi về chất (từ sắt thành kim)."
+        "explanation": "Câu thành ngữ 'Có đi có lại mới toại lòng nhau' nói về sự trao đổi, qua lại trong quan hệ giữa người với người, không liên quan đến quá trình tích lũy về lượng và sự thay đổi về chất.\n\nCác đáp án khác đúng vì:\n- B (Róc mòn cạn ruộng): Thể hiện quá trình tác động dần dần làm thay đổi chất lượng của ruộng.\n- C (Tích tiểu thành đại): Thể hiện quá trình tích lũy về lượng dẫn đến sự thay đổi về chất.\n- D (Có công mài sắt có ngày nên kim): Thể hiện quá trình tích lũy công sức, thời gian dẫn đến sự thay đổi về chất (từ sắt thành kim)."
       },
       {
         "question": 130,
@@ -4233,7 +4233,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Câu ca dao này thể hiện sự tích lũy về lượng (nhiều cây chụm lại) dẫn đến sự thay đổi về chất (tạo thành hòn núi cao). Đây là nội dung chính của quy luật chuyển hóa từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại.\n\nCác đáp án khác sai vì:\n- A (Quy luật thống nhất và đấu tranh của các mặt đối lập): Nói về nguồn gốc của sự vận động và phát triển.\n- B (Quy luật phủ định của phủ định): Nói về khuynh hướng của sự phát triển.\n- D (Không thuộc về quy luật nào): Sai, vì câu ca dao này thể hiện nội dung của quy luật chuyển hóa từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại."
+        "explanation": "Câu ca dao này thể hiện sự tích lũy về lượng (nhiều cây chụm lại) dẫn đến sự thay đổi về chất (tạo thành hòn núi cao). Đây là nội dung chính của quy luật chuyển hóa từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại.\n\nCác đáp án khác sai vì:\n- A (Quy luật thống nhất và đấu tranh của các mặt đối lập): Nói về nguồn gốc của sự vận động và phát triển.\n- B (Quy luật phủ định của phủ định): Nói về khuynh hướng của sự phát triển.\n- D (Không thuộc về quy luật nào): Sai, vì câu ca dao này thể hiện nội dung của quy luật chuyển hóa từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại."
       },
       {
         "question": 131,
@@ -4257,7 +4257,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Câu tục ngữ này thể hiện quá trình tích lũy về lượng (công sức mài sắt) dẫn đến sự thay đổi về chất (sắt thành kim). Đây là nội dung của quy luật chuyển hóa từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại.\n\nCác đáp án khác sai vì:\n- A (Quy luật thống nhất và đấu tranh của các mặt đối lập): Nói về nguồn gốc của sự vận động và phát triển.\n- B (Quy luật phủ định của phủ định): Nói về khuynh hướng của sự phát triển.\n- D (Không thuộc về quy luật nào): Sai, vì câu tục ngữ này thể hiện nội dung của quy luật chuyển hóa từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại."
+        "explanation": "Câu tục ngữ này thể hiện quá trình tích lũy về lượng (công sức mài sắt) dẫn đến sự thay đổi về chất (sắt thành kim). Đây là nội dung của quy luật chuyển hóa từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại.\n\nCác đáp án khác sai vì:\n- A (Quy luật thống nhất và đấu tranh của các mặt đối lập): Nói về nguồn gốc của sự vận động và phát triển.\n- B (Quy luật phủ định của phủ định): Nói về khuynh hướng của sự phát triển.\n- D (Không thuộc về quy luật nào): Sai, vì câu tục ngữ này thể hiện nội dung của quy luật chuyển hóa từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại."
       },
       {
         "question": 132,
@@ -4281,7 +4281,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Câu tục ngữ 'Tích tiểu thành đại' thể hiện rõ quá trình tích lũy về lượng (tích lũy những cái nhỏ) dẫn đến sự thay đổi về chất (tạo thành cái lớn). Đây là nội dung của quy luật chuyển hóa từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại.\n\nCác đáp án khác sai vì:\n- A (Quy luật thống nhất và đấu tranh của các mặt đối lập): Nói về nguồn gốc của sự vận động và phát triển.\n- B (Quy luật phủ định của phủ định): Nói về khuynh hướng của sự phát triển.\n- D (Không thuộc về quy luật nào): Sai, vì câu tục ngữ này thể hiện nội dung của quy luật chuyển hóa từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại."
+        "explanation": "Câu tục ngữ 'Tích tiểu thành đại' thể hiện rõ quá trình tích lũy về lượng (tích lũy những cái nhỏ) dẫn đến sự thay đổi về chất (tạo thành cái lớn). Đây là nội dung của quy luật chuyển hóa từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại.\n\nCác đáp án khác sai vì:\n- A (Quy luật thống nhất và đấu tranh của các mặt đối lập): Nói về nguồn gốc của sự vận động và phát triển.\n- B (Quy luật phủ định của phủ định): Nói về khuynh hướng của sự phát triển.\n- D (Không thuộc về quy luật nào): Sai, vì câu tục ngữ này thể hiện nội dung của quy luật chuyển hóa từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại."
       },
       {
         "question": 133,
@@ -4305,7 +4305,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Câu tục ngữ \"Mưa dầm thấm lâu\" thể hiện quá trình tích lũy dần dần về lượng, đến một thời điểm nhất định sẽ dẫn đến sự thay đổi về chất. Theo giáo trình, quy luật chuyển hóa từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại (trang X) nói về cách thức vận động và phát triển của sự vật thông qua sự thay đổi dần dần về lượng dẫn đến sự thay đổi về chất. Các đáp án khác không phù hợp vì: A liên quan đến sự tác động qua lại giữa các mặt đối lập; B liên quan đến sự phủ định biện chứng."
+        "explanation": "Câu tục ngữ \"Mưa dầm thấm lâu\" thể hiện quá trình tích lũy dần dần về lượng, đến một thời điểm nhất định sẽ dẫn đến sự thay đổi về chất. Theo giáo trình, quy luật chuyển hóa từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại (trang X) nói về cách thức vận động và phát triển của sự vật thông qua sự thay đổi dần dần về lượng dẫn đến sự thay đổi về chất. Các đáp án khác không phù hợp vì: A liên quan đến sự tác động qua lại giữa các mặt đối lập; B liên quan đến sự phủ định biện chứng."
       },
       {
         "question": 134,
@@ -4329,7 +4329,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo giáo trình (trang X), để thay đổi chất của sự vật, cần phải nhận thức rõ mối quan hệ giữa chất và lượng (A), kiên trì tích lũy về lượng đến một giới hạn nhất định (B), và nắm bắt thời cơ để thực hiện bước nhảy (C). Do đó, tất cả các đáp án đều cần thiết. Các đáp án A, B, C đúng nhưng chưa đầy đủ."
+        "explanation": "Theo giáo trình (trang X), để thay đổi chất của sự vật, cần phải nhận thức rõ mối quan hệ giữa chất và lượng (A), kiên trì tích lũy về lượng đến một giới hạn nhất định (B), và nắm bắt thời cơ để thực hiện bước nhảy (C). Do đó, tất cả các đáp án đều cần thiết. Các đáp án A, B, C đúng nhưng chưa đầy đủ."
       },
       {
         "question": 135,
@@ -4353,7 +4353,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình (trang X), quy luật chuyển hóa từ những thay đổi về lượng dẫn đến những thay đổi về chất đòi hỏi sự tích lũy dần dần và liên tục. Trong học tập, điều này có nghĩa là sinh viên cần phải chăm chỉ học tập để tích lũy kiến thức một cách đều đặn. Các đáp án khác sai vì: B, C thể hiện sự học lệch, không toàn diện; D thể hiện sự học tập không thường xuyên, không tích lũy."
+        "explanation": "Theo giáo trình (trang X), quy luật chuyển hóa từ những thay đổi về lượng dẫn đến những thay đổi về chất đòi hỏi sự tích lũy dần dần và liên tục. Trong học tập, điều này có nghĩa là sinh viên cần phải chăm chỉ học tập để tích lũy kiến thức một cách đều đặn. Các đáp án khác sai vì: B, C thể hiện sự học lệch, không toàn diện; D thể hiện sự học tập không thường xuyên, không tích lũy."
       },
       {
         "question": 136,
@@ -4377,7 +4377,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình (trang X), mặt đối lập là những mặt có khuynh hướng, thuộc tính, tính chất trái ngược nhau, tồn tại khách quan trong cùng một sự vật, hiện tượng, tạo thành mâu thuẫn biện chứng. Các đáp án khác sai vì: B nói về những mặt giống nhau; C nói về những mặt không liên hệ; D nói về sự đồng nhất, không có mâu thuẫn."
+        "explanation": "Theo giáo trình (trang X), mặt đối lập là những mặt có khuynh hướng, thuộc tính, tính chất trái ngược nhau, tồn tại khách quan trong cùng một sự vật, hiện tượng, tạo thành mâu thuẫn biện chứng. Các đáp án khác sai vì: B nói về những mặt giống nhau; C nói về những mặt không liên hệ; D nói về sự đồng nhất, không có mâu thuẫn."
       },
       {
         "question": 137,
@@ -4401,7 +4401,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo giáo trình (trang X), chủ nghĩa duy vật biện chứng khẳng định mâu thuẫn là khách quan, phổ biến, tồn tại trong mọi sự vật, hiện tượng, quá trình của tự nhiên, xã hội và tư duy. Các đáp án khác sai vì: A, B, D chỉ giới hạn mâu thuẫn trong một lĩnh vực cụ thể."
+        "explanation": "Theo giáo trình (trang X), chủ nghĩa duy vật biện chứng khẳng định mâu thuẫn là khách quan, phổ biến, tồn tại trong mọi sự vật, hiện tượng, quá trình của tự nhiên, xã hội và tư duy. Các đáp án khác sai vì: A, B, D chỉ giới hạn mâu thuẫn trong một lĩnh vực cụ thể."
       },
       {
         "question": 138,
@@ -4425,7 +4425,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo giáo trình (trang X), mâu thuẫn đối kháng là mâu thuẫn giữa các giai cấp, các lực lượng xã hội có lợi ích căn bản đối lập nhau, không thể điều hòa được, tồn tại trong xã hội có giai cấp đối kháng. Các đáp án khác sai vì: A, B, C không đặc trưng cho mâu thuẫn đối kháng."
+        "explanation": "Theo giáo trình (trang X), mâu thuẫn đối kháng là mâu thuẫn giữa các giai cấp, các lực lượng xã hội có lợi ích căn bản đối lập nhau, không thể điều hòa được, tồn tại trong xã hội có giai cấp đối kháng. Các đáp án khác sai vì: A, B, C không đặc trưng cho mâu thuẫn đối kháng."
       },
       {
         "question": 139,
@@ -4449,7 +4449,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình (trang X), đấu tranh giữa các mặt đối lập là tuyệt đối, là nguồn gốc của sự vận động và phát triển. Các đáp án khác sai vì: A, C, D cho rằng đấu tranh chỉ là tạm thời hoặc tương đối, phủ nhận tính phổ biến và vĩnh viễn của đấu tranh."
+        "explanation": "Theo giáo trình (trang X), đấu tranh giữa các mặt đối lập là tuyệt đối, là nguồn gốc của sự vận động và phát triển. Các đáp án khác sai vì: A, C, D cho rằng đấu tranh chỉ là tạm thời hoặc tương đối, phủ nhận tính phổ biến và vĩnh viễn của đấu tranh."
       },
       {
         "question": 140,
@@ -4473,7 +4473,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo giáo trình (trang X), sự thống nhất và đấu tranh của các mặt đối lập là hai mặt không thể tách rời nhau của một mâu thuẫn. Thống nhất là tiền đề của đấu tranh, và đấu tranh làm thay đổi sự thống nhất. Các đáp án khác sai vì: A, B cho rằng có thể có thống nhất mà không có đấu tranh hoặc ngược lại; D đánh giá sai tính chất của đấu tranh."
+        "explanation": "Theo giáo trình (trang X), sự thống nhất và đấu tranh của các mặt đối lập là hai mặt không thể tách rời nhau của một mâu thuẫn. Thống nhất là tiền đề của đấu tranh, và đấu tranh làm thay đổi sự thống nhất. Các đáp án khác sai vì: A, B cho rằng có thể có thống nhất mà không có đấu tranh hoặc ngược lại; D đánh giá sai tính chất của đấu tranh."
       },
       {
         "question": 141,
@@ -4497,7 +4497,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình (trang X), mâu thuẫn cơ bản là mâu thuẫn quy định bản chất của sự vật, hiện tượng, quyết định sự vận động và phát triển của nó trong một giai đoạn nhất định. Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, mâu thuẫn giữa thực trạng kinh tế thấp và mục tiêu phát triển cao là mâu thuẫn cơ bản, cần được giải quyết để thúc đẩy sự phát triển. Các đáp án khác sai vì: A, C, D không phản ánh vai trò quyết định của mâu thuẫn này."
+        "explanation": "Theo giáo trình (trang X), mâu thuẫn cơ bản là mâu thuẫn quy định bản chất của sự vật, hiện tượng, quyết định sự vận động và phát triển của nó trong một giai đoạn nhất định. Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, mâu thuẫn giữa thực trạng kinh tế thấp và mục tiêu phát triển cao là mâu thuẫn cơ bản, cần được giải quyết để thúc đẩy sự phát triển. Các đáp án khác sai vì: A, C, D không phản ánh vai trò quyết định của mâu thuẫn này."
       },
       {
         "question": 142,
@@ -4521,7 +4521,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình (trang X), mâu thuẫn đối kháng là mâu thuẫn giữa các lực lượng, giai cấp có lợi ích căn bản đối lập nhau, không thể điều hòa được. Sự chống phá của các thế lực thù địch là biểu hiện của mâu thuẫn đối kháng trong quá trình xây dựng chủ nghĩa xã hội. Các đáp án khác sai vì: A, C, D không phản ánh tính chất gay gắt và không thể điều hòa của mâu thuẫn này."
+        "explanation": "Theo giáo trình (trang X), mâu thuẫn đối kháng là mâu thuẫn giữa các lực lượng, giai cấp có lợi ích căn bản đối lập nhau, không thể điều hòa được. Sự chống phá của các thế lực thù địch là biểu hiện của mâu thuẫn đối kháng trong quá trình xây dựng chủ nghĩa xã hội. Các đáp án khác sai vì: A, C, D không phản ánh tính chất gay gắt và không thể điều hòa của mâu thuẫn này."
       },
       {
         "question": 143,
@@ -4545,7 +4545,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình Triết học Mác-Lênin, quy luật thống nhất và đấu tranh của các mặt đối lập chỉ ra rằng sự vận động và phát triển của mọi sự vật, hiện tượng là do sự đấu tranh giữa các mặt đối lập bên trong chúng. Câu nói của C.Mác nhấn mạnh rằng hạnh phúc không phải là trạng thái tĩnh tại mà là kết quả của quá trình đấu tranh không ngừng. Các đáp án còn lại không liên quan trực tiếp đến ý nghĩa của câu nói này.\n\nB. Sai, vì quy luật này nói về sự thay đổi dần dần về lượng dẫn đến sự thay đổi về chất, không trực tiếp liên quan đến ý nghĩa của câu nói.\nC. Sai, vì quy luật này nói về sự phủ định biện chứng, sự kế thừa và phát triển, không trực tiếp liên quan đến ý nghĩa của câu nói.\nD. Sai, vì quy luật thống nhất và đấu tranh của các mặt đối lập không chỉ giới hạn ở giới tự nhiên mà còn áp dụng cho cả xã hội và tư duy."
+        "explanation": "Theo giáo trình Triết học Mác-Lênin, quy luật thống nhất và đấu tranh của các mặt đối lập chỉ ra rằng sự vận động và phát triển của mọi sự vật, hiện tượng là do sự đấu tranh giữa các mặt đối lập bên trong chúng. Câu nói của C.Mác nhấn mạnh rằng hạnh phúc không phải là trạng thái tĩnh tại mà là kết quả của quá trình đấu tranh không ngừng. Các đáp án còn lại không liên quan trực tiếp đến ý nghĩa của câu nói này.\n\nB. Sai, vì quy luật này nói về sự thay đổi dần dần về lượng dẫn đến sự thay đổi về chất, không trực tiếp liên quan đến ý nghĩa của câu nói.\nC. Sai, vì quy luật này nói về sự phủ định biện chứng, sự kế thừa và phát triển, không trực tiếp liên quan đến ý nghĩa của câu nói.\nD. Sai, vì quy luật thống nhất và đấu tranh của các mặt đối lập không chỉ giới hạn ở giới tự nhiên mà còn áp dụng cho cả xã hội và tư duy."
       },
       {
         "question": 144,
@@ -4569,7 +4569,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Quy luật phủ định của phủ định mô tả khuynh hướng phát triển của sự vật theo đường xoáy ốc, trong đó mỗi lần phủ định sẽ đưa sự vật lên một trình độ cao hơn, đồng thời vẫn giữ lại những yếu tố tích cực của giai đoạn trước. Các đáp án còn lại không phản ánh đúng khuynh hướng phát triển này.\n\nA. Sai, vì quy luật này nói về sự thay đổi về lượng dẫn đến sự thay đổi về chất, không trực tiếp nói về khuynh hướng xoáy ốc.\nB. Sai, vì quy luật này nói về sự đấu tranh giữa các mặt đối lập, không trực tiếp nói về khuynh hướng xoáy ốc.\nD. Sai, vì mâu thuẫn là nguồn gốc của sự phát triển, nhưng không trực tiếp mô tả khuynh hướng xoáy ốc."
+        "explanation": "Quy luật phủ định của phủ định mô tả khuynh hướng phát triển của sự vật theo đường xoáy ốc, trong đó mỗi lần phủ định sẽ đưa sự vật lên một trình độ cao hơn, đồng thời vẫn giữ lại những yếu tố tích cực của giai đoạn trước. Các đáp án còn lại không phản ánh đúng khuynh hướng phát triển này.\n\nA. Sai, vì quy luật này nói về sự thay đổi về lượng dẫn đến sự thay đổi về chất, không trực tiếp nói về khuynh hướng xoáy ốc.\nB. Sai, vì quy luật này nói về sự đấu tranh giữa các mặt đối lập, không trực tiếp nói về khuynh hướng xoáy ốc.\nD. Sai, vì mâu thuẫn là nguồn gốc của sự phát triển, nhưng không trực tiếp mô tả khuynh hướng xoáy ốc."
       },
       {
         "question": 145,
@@ -4593,7 +4593,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo giáo trình, thực tiễn là toàn bộ hoạt động vật chất - cảm tính, có tính lịch sử - xã hội của con người nhằm cải tạo tự nhiên và xã hội phục vụ nhân loại tiến bộ. Các đáp án còn lại đưa ra những định nghĩa không đầy đủ hoặc không chính xác về thực tiễn.\n\nA. Sai, vì chỉ đề cập đến hiện thực khách quan mà không nhấn mạnh đến hoạt động của con người.\nB. Sai, vì chỉ đề cập đến hoạt động tinh thần mà bỏ qua hoạt động vật chất.\nC. Sai, vì hoạt động vật chất của thực tiễn phải mang tính khách quan, không chỉ chủ quan."
+        "explanation": "Theo giáo trình, thực tiễn là toàn bộ hoạt động vật chất - cảm tính, có tính lịch sử - xã hội của con người nhằm cải tạo tự nhiên và xã hội phục vụ nhân loại tiến bộ. Các đáp án còn lại đưa ra những định nghĩa không đầy đủ hoặc không chính xác về thực tiễn.\n\nA. Sai, vì chỉ đề cập đến hiện thực khách quan mà không nhấn mạnh đến hoạt động của con người.\nB. Sai, vì chỉ đề cập đến hoạt động tinh thần mà bỏ qua hoạt động vật chất.\nC. Sai, vì hoạt động vật chất của thực tiễn phải mang tính khách quan, không chỉ chủ quan."
       },
       {
         "question": 146,
@@ -4617,7 +4617,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo định nghĩa đầy đủ về thực tiễn trong giáo trình, cụm từ còn thiếu là 'tính lịch sử - xã hội'. Điều này nhấn mạnh rằng thực tiễn luôn gắn liền với điều kiện lịch sử cụ thể và mang tính xã hội của con người.\n\nA. Sai, vì 'có cơ sở' không đủ để diễn tả bản chất của thực tiễn.\nB. Sai, vì 'có động lực' không đủ để diễn tả bản chất của thực tiễn.\nD. Sai, vì 'có nguồn gốc, mang tính lịch sử - xã hội' không phải là cách diễn đạt chuẩn xác trong định nghĩa."
+        "explanation": "Theo định nghĩa đầy đủ về thực tiễn trong giáo trình, cụm từ còn thiếu là 'tính lịch sử - xã hội'. Điều này nhấn mạnh rằng thực tiễn luôn gắn liền với điều kiện lịch sử cụ thể và mang tính xã hội của con người.\n\nA. Sai, vì 'có cơ sở' không đủ để diễn tả bản chất của thực tiễn.\nB. Sai, vì 'có động lực' không đủ để diễn tả bản chất của thực tiễn.\nD. Sai, vì 'có nguồn gốc, mang tính lịch sử - xã hội' không phải là cách diễn đạt chuẩn xác trong định nghĩa."
       },
       {
         "question": 147,
@@ -4641,7 +4641,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo quan điểm của chủ nghĩa duy vật biện chứng, biểu tượng là hình thức cao nhất của giai đoạn nhận thức cảm tính, vì nó là sự tái hiện hình ảnh của sự vật khi sự vật đó không còn trực tiếp tác động vào giác quan của chúng ta. Các hình thức còn lại là các giai đoạn sơ khai hơn của nhận thức cảm tính.\n\nB. Sai, vì cảm giác là hình thức đầu tiên, đơn giản nhất của nhận thức cảm tính.\nC. Sai, vì tri giác là sự tổng hợp các cảm giác.\nD. Sai, vì phán đoán thuộc về giai đoạn nhận thức lý tính, không phải cảm tính."
+        "explanation": "Theo quan điểm của chủ nghĩa duy vật biện chứng, biểu tượng là hình thức cao nhất của giai đoạn nhận thức cảm tính, vì nó là sự tái hiện hình ảnh của sự vật khi sự vật đó không còn trực tiếp tác động vào giác quan của chúng ta. Các hình thức còn lại là các giai đoạn sơ khai hơn của nhận thức cảm tính.\n\nB. Sai, vì cảm giác là hình thức đầu tiên, đơn giản nhất của nhận thức cảm tính.\nC. Sai, vì tri giác là sự tổng hợp các cảm giác.\nD. Sai, vì phán đoán thuộc về giai đoạn nhận thức lý tính, không phải cảm tính."
       },
       {
         "question": 148,
@@ -4665,7 +4665,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Con đường biện chứng của quá trình nhận thức, theo chủ nghĩa duy vật biện chứng, phải diễn ra từ trực quan sinh động (nhận thức cảm tính) đến tư duy trừu tượng (nhận thức lý tính), và từ tư duy trừu tượng đến thực tiễn để kiểm nghiệm và bổ sung. Các đáp án còn lại đưa ra trình tự không chính xác.\n\nA. Sai, vì nhận thức phải bắt đầu từ cảm tính trước khi đến lý tính.\nC. Sai, vì thực tiễn là điểm cuối cùng để kiểm nghiệm, không phải là điểm bắt đầu.\nD. Sai, vì tư duy trừu tượng phải diễn ra trước khi quay trở lại thực tiễn."
+        "explanation": "Con đường biện chứng của quá trình nhận thức, theo chủ nghĩa duy vật biện chứng, phải diễn ra từ trực quan sinh động (nhận thức cảm tính) đến tư duy trừu tượng (nhận thức lý tính), và từ tư duy trừu tượng đến thực tiễn để kiểm nghiệm và bổ sung. Các đáp án còn lại đưa ra trình tự không chính xác.\n\nA. Sai, vì nhận thức phải bắt đầu từ cảm tính trước khi đến lý tính.\nC. Sai, vì thực tiễn là điểm cuối cùng để kiểm nghiệm, không phải là điểm bắt đầu.\nD. Sai, vì tư duy trừu tượng phải diễn ra trước khi quay trở lại thực tiễn."
       },
       {
         "question": 149,
@@ -4689,7 +4689,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Nguyên tắc thực tiễn yêu cầu gắn lý luận với thực tiễn, coi thực tiễn là cơ sở, động lực, mục đích của nhận thức và là tiêu chuẩn để kiểm tra tính đúng đắn của nhận thức. Các đáp án còn lại đi ngược lại nguyên tắc này.\n\nA. Sai, vì nguyên tắc thực tiễn đòi hỏi sự gắn bó mật thiết giữa lý luận và thực tiễn.\nB. Sai, vì thực tiễn là quan trọng nhất, lý luận phải phục vụ thực tiễn.\nC. Sai, vì lý luận và thực tiễn cần được coi trọng ngang nhau và gắn bó với nhau."
+        "explanation": "Nguyên tắc thực tiễn yêu cầu gắn lý luận với thực tiễn, coi thực tiễn là cơ sở, động lực, mục đích của nhận thức và là tiêu chuẩn để kiểm tra tính đúng đắn của nhận thức. Các đáp án còn lại đi ngược lại nguyên tắc này.\n\nA. Sai, vì nguyên tắc thực tiễn đòi hỏi sự gắn bó mật thiết giữa lý luận và thực tiễn.\nB. Sai, vì thực tiễn là quan trọng nhất, lý luận phải phục vụ thực tiễn.\nC. Sai, vì lý luận và thực tiễn cần được coi trọng ngang nhau và gắn bó với nhau."
       },
       {
         "question": 150,
@@ -4713,7 +4713,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Từ vai trò của thực tiễn đối với nhận thức, chúng ta phải rút ra nguyên tắc thực tiễn, đó là phải luôn xuất phát từ thực tiễn, coi trọng thực tiễn, lấy thực tiễn làm cơ sở, tiêu chuẩn để kiểm tra chân lý. Các nguyên tắc còn lại không trực tiếp xuất phát từ vai trò của thực tiễn đối với nhận thức.\n\nA. Sai, vì nguyên tắc phát triển nhấn mạnh sự vận động và biến đổi không ngừng của sự vật.\nB. Sai, vì nguyên tắc toàn diện yêu cầu xem xét sự vật trong mối liên hệ với các yếu tố khác.\nD. Sai, vì nguyên tắc kế thừa nhấn mạnh việc tiếp thu và phát triển những yếu tố tích cực từ quá khứ."
+        "explanation": "Từ vai trò của thực tiễn đối với nhận thức, chúng ta phải rút ra nguyên tắc thực tiễn, đó là phải luôn xuất phát từ thực tiễn, coi trọng thực tiễn, lấy thực tiễn làm cơ sở, tiêu chuẩn để kiểm tra chân lý. Các nguyên tắc còn lại không trực tiếp xuất phát từ vai trò của thực tiễn đối với nhận thức.\n\nA. Sai, vì nguyên tắc phát triển nhấn mạnh sự vận động và biến đổi không ngừng của sự vật.\nB. Sai, vì nguyên tắc toàn diện yêu cầu xem xét sự vật trong mối liên hệ với các yếu tố khác.\nD. Sai, vì nguyên tắc kế thừa nhấn mạnh việc tiếp thu và phát triển những yếu tố tích cực từ quá khứ."
       }
     ]
   },
@@ -4744,7 +4744,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo giáo trình Triết học Mác-Lênin, V.I.Lênin đã chỉ ra rằng chủ nghĩa Mác mở đường cho việc nghiên cứu rộng rãi và toàn diện quá trình phát sinh, phát triển và suy tàn của các hình thái kinh tế - xã hội. Các đáp án còn lại không phản ánh đầy đủ phạm vi nghiên cứu của chủ nghĩa Mác về sự phát triển của xã hội loài người.\n\nCác đáp án khác sai vì:\n- A: Chỉ đề cập đến giới tự nhiên, quá hẹp.\n- B: Thiếu tính toàn diện, không bao quát hết các khía cạnh.\n- C: Quá rộng, không nhấn mạnh vào khía cạnh kinh tế - xã hội."
+        "explanation": "Theo giáo trình Triết học Mác-Lênin, V.I.Lênin đã chỉ ra rằng chủ nghĩa Mác mở đường cho việc nghiên cứu rộng rãi và toàn diện quá trình phát sinh, phát triển và suy tàn của các hình thái kinh tế - xã hội. Các đáp án còn lại không phản ánh đầy đủ phạm vi nghiên cứu của chủ nghĩa Mác về sự phát triển của xã hội loài người.\n\nCác đáp án khác sai vì:\n- A: Chỉ đề cập đến giới tự nhiên, quá hẹp.\n- B: Thiếu tính toàn diện, không bao quát hết các khía cạnh.\n- C: Quá rộng, không nhấn mạnh vào khía cạnh kinh tế - xã hội."
       },
       {
         "question": 2,
@@ -4768,7 +4768,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Ph.Ăngghen đã đưa ra nhận định này để nhấn mạnh sự khác biệt cơ bản giữa xã hội loài người và xã hội loài vật, đó là khả năng sản xuất của con người. Loài vật chỉ có thể hái lượm những gì có sẵn trong tự nhiên, trong khi con người có thể tạo ra của cải vật chất thông qua lao động sản xuất.\n\nCác đáp án khác sai vì:\n- A: 'Biết sáng tạo' không đủ mạnh để diễn tả sự khác biệt căn bản.\n- C: C.Mác không đưa ra nhận định này.\n- D: Tư duy là yếu tố quan trọng, nhưng sản xuất mới là yếu tố quyết định."
+        "explanation": "Ph.Ăngghen đã đưa ra nhận định này để nhấn mạnh sự khác biệt cơ bản giữa xã hội loài người và xã hội loài vật, đó là khả năng sản xuất của con người. Loài vật chỉ có thể hái lượm những gì có sẵn trong tự nhiên, trong khi con người có thể tạo ra của cải vật chất thông qua lao động sản xuất.\n\nCác đáp án khác sai vì:\n- A: 'Biết sáng tạo' không đủ mạnh để diễn tả sự khác biệt căn bản.\n- C: C.Mác không đưa ra nhận định này.\n- D: Tư duy là yếu tố quan trọng, nhưng sản xuất mới là yếu tố quyết định."
       },
       {
         "question": 3,
@@ -4792,7 +4792,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Chủ nghĩa duy vật lịch sử khẳng định rằng sản xuất vật chất là nền tảng vật chất của xã hội, là cơ sở cho sự tồn tại và phát triển của xã hội. Mọi hoạt động khác của xã hội, như chính trị, văn hóa, tư tưởng, đều phải dựa trên nền tảng vật chất này.\n\nCác đáp án khác sai vì:\n- A: Kiến trúc thượng tầng bị quyết định bởi cơ sở hạ tầng (sản xuất vật chất).\n- C: Nền tảng tinh thần là kết quả của sự phát triển vật chất.\n- D: Kỹ thuật và công nghệ là một phần của lực lượng sản xuất, không phải là nền tảng của xã hội."
+        "explanation": "Chủ nghĩa duy vật lịch sử khẳng định rằng sản xuất vật chất là nền tảng vật chất của xã hội, là cơ sở cho sự tồn tại và phát triển của xã hội. Mọi hoạt động khác của xã hội, như chính trị, văn hóa, tư tưởng, đều phải dựa trên nền tảng vật chất này.\n\nCác đáp án khác sai vì:\n- A: Kiến trúc thượng tầng bị quyết định bởi cơ sở hạ tầng (sản xuất vật chất).\n- C: Nền tảng tinh thần là kết quả của sự phát triển vật chất.\n- D: Kỹ thuật và công nghệ là một phần của lực lượng sản xuất, không phải là nền tảng của xã hội."
       },
       {
         "question": 4,
@@ -4816,7 +4816,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo C.Mác, phương thức sản xuất (cách thức con người sản xuất ra của cải vật chất) là yếu tố căn bản để phân biệt các nền kinh tế khác nhau. Mỗi phương thức sản xuất có một trình độ phát triển nhất định của lực lượng sản xuất và một kiểu quan hệ sản xuất tương ứng.\n\nCác đáp án khác sai vì:\n- B: Đời sống tinh thần là một yếu tố quan trọng, nhưng không phải là nền tảng để phân biệt các nền kinh tế.\n- C: Mục đích tự nhiên của quá trình sản xuất không thay đổi nhiều giữa các nền kinh tế.\n- D: Kiến trúc thượng tầng phụ thuộc vào phương thức sản xuất."
+        "explanation": "Theo C.Mác, phương thức sản xuất (cách thức con người sản xuất ra của cải vật chất) là yếu tố căn bản để phân biệt các nền kinh tế khác nhau. Mỗi phương thức sản xuất có một trình độ phát triển nhất định của lực lượng sản xuất và một kiểu quan hệ sản xuất tương ứng.\n\nCác đáp án khác sai vì:\n- B: Đời sống tinh thần là một yếu tố quan trọng, nhưng không phải là nền tảng để phân biệt các nền kinh tế.\n- C: Mục đích tự nhiên của quá trình sản xuất không thay đổi nhiều giữa các nền kinh tế.\n- D: Kiến trúc thượng tầng phụ thuộc vào phương thức sản xuất."
       },
       {
         "question": 5,
@@ -4840,7 +4840,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Sự phát triển của lực lượng sản xuất (bao gồm người lao động và tư liệu sản xuất) là động lực sâu xa nhất của sự vận động và phát triển của xã hội. Khi lực lượng sản xuất phát triển đến một trình độ nhất định, nó sẽ mâu thuẫn với quan hệ sản xuất hiện có, dẫn đến sự thay đổi của phương thức sản xuất và toàn bộ xã hội.\n\nCác đáp án khác sai vì:\n- A: Kiến trúc thượng tầng phụ thuộc vào cơ sở hạ tầng.\n- B: Cơ sở hạ tầng là kết quả của sự phát triển của lực lượng sản xuất.\n- C: Quan hệ sản xuất là một yếu tố của phương thức sản xuất, không phải là nguồn gốc sâu xa của sự phát triển."
+        "explanation": "Sự phát triển của lực lượng sản xuất (bao gồm người lao động và tư liệu sản xuất) là động lực sâu xa nhất của sự vận động và phát triển của xã hội. Khi lực lượng sản xuất phát triển đến một trình độ nhất định, nó sẽ mâu thuẫn với quan hệ sản xuất hiện có, dẫn đến sự thay đổi của phương thức sản xuất và toàn bộ xã hội.\n\nCác đáp án khác sai vì:\n- A: Kiến trúc thượng tầng phụ thuộc vào cơ sở hạ tầng.\n- B: Cơ sở hạ tầng là kết quả của sự phát triển của lực lượng sản xuất.\n- C: Quan hệ sản xuất là một yếu tố của phương thức sản xuất, không phải là nguồn gốc sâu xa của sự phát triển."
       },
       {
         "question": 6,
@@ -4864,7 +4864,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo chủ nghĩa duy vật lịch sử, cơ sở sâu xa của các hiện tượng xã hội phải được tìm trong nền sản xuất vật chất của xã hội. Cách thức con người sản xuất ra của cải vật chất (phương thức sản xuất) quyết định cấu trúc kinh tế - xã hội và các hiện tượng xã hội khác.\n\nCác đáp án khác sai vì:\n- A: Tư tưởng, tinh thần, ý chí chủ quan của con người bị quy định bởi điều kiện vật chất.\n- C: Chủ trương, chính sách của nhà nước là sản phẩm của điều kiện kinh tế - xã hội.\n- D: Truyền thống văn hóa xã hội cũng chịu ảnh hưởng của điều kiện vật chất."
+        "explanation": "Theo chủ nghĩa duy vật lịch sử, cơ sở sâu xa của các hiện tượng xã hội phải được tìm trong nền sản xuất vật chất của xã hội. Cách thức con người sản xuất ra của cải vật chất (phương thức sản xuất) quyết định cấu trúc kinh tế - xã hội và các hiện tượng xã hội khác.\n\nCác đáp án khác sai vì:\n- A: Tư tưởng, tinh thần, ý chí chủ quan của con người bị quy định bởi điều kiện vật chất.\n- C: Chủ trương, chính sách của nhà nước là sản phẩm của điều kiện kinh tế - xã hội.\n- D: Truyền thống văn hóa xã hội cũng chịu ảnh hưởng của điều kiện vật chất."
       },
       {
         "question": 7,
@@ -4888,7 +4888,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. C.Mác cho rằng sản xuất vật chất là cơ sở quan trọng nhất của sự hình thành, biến đổi và phát triển của xã hội loài người. Cách thức con người sản xuất ra của cải vật chất (phương thức sản xuất) quyết định cấu trúc kinh tế - xã hội và sự tiến bộ của xã hội.\n\nCác đáp án khác sai vì:\n- A: Điều kiện tự nhiên, hoàn cảnh địa lý có ảnh hưởng, nhưng không phải là yếu tố quyết định.\n- B: Dân số và mật độ dân cư có vai trò, nhưng không phải là cơ sở quan trọng nhất.\n- D: Ý muốn chủ quan của con người không thể thay đổi quy luật khách quan của sự phát triển xã hội."
+        "explanation": "C.Mác cho rằng sản xuất vật chất là cơ sở quan trọng nhất của sự hình thành, biến đổi và phát triển của xã hội loài người. Cách thức con người sản xuất ra của cải vật chất (phương thức sản xuất) quyết định cấu trúc kinh tế - xã hội và sự tiến bộ của xã hội.\n\nCác đáp án khác sai vì:\n- A: Điều kiện tự nhiên, hoàn cảnh địa lý có ảnh hưởng, nhưng không phải là yếu tố quyết định.\n- B: Dân số và mật độ dân cư có vai trò, nhưng không phải là cơ sở quan trọng nhất.\n- D: Ý muốn chủ quan của con người không thể thay đổi quy luật khách quan của sự phát triển xã hội."
       },
       {
         "question": 8,
@@ -4912,7 +4912,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Phương thức sản xuất là khái niệm dùng để chỉ cách thức tiến hành sản xuất ra của cải vật chất trong một giai đoạn lịch sử nhất định của xã hội loài người. Nó bao gồm lực lượng sản xuất và quan hệ sản xuất.\n\nCác đáp án khác sai vì:\n- B: Quá trình sản xuất là một phần của phương thức sản xuất, không phải là định nghĩa đầy đủ.\n- C: Cơ chế vận hành kinh tế là một khía cạnh của phương thức sản xuất, không phải là định nghĩa đầy đủ.\n- D: Phương tiện sản xuất là một yếu tố của lực lượng sản xuất, không phải là định nghĩa của phương thức sản xuất."
+        "explanation": "Phương thức sản xuất là khái niệm dùng để chỉ cách thức tiến hành sản xuất ra của cải vật chất trong một giai đoạn lịch sử nhất định của xã hội loài người. Nó bao gồm lực lượng sản xuất và quan hệ sản xuất.\n\nCác đáp án khác sai vì:\n- B: Quá trình sản xuất là một phần của phương thức sản xuất, không phải là định nghĩa đầy đủ.\n- C: Cơ chế vận hành kinh tế là một khía cạnh của phương thức sản xuất, không phải là định nghĩa đầy đủ.\n- D: Phương tiện sản xuất là một yếu tố của lực lượng sản xuất, không phải là định nghĩa của phương thức sản xuất."
       },
       {
         "question": 9,
@@ -4936,7 +4936,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Hai yếu tố cơ bản của một phương thức sản xuất là lực lượng sản xuất (bao gồm người lao động và tư liệu sản xuất) và quan hệ sản xuất (quan hệ giữa người với người trong quá trình sản xuất).\n\nCác đáp án khác sai vì:\n- A, B, D: Chỉ đề cập đến một số yếu tố của lực lượng sản xuất, không bao gồm quan hệ sản xuất."
+        "explanation": "Hai yếu tố cơ bản của một phương thức sản xuất là lực lượng sản xuất (bao gồm người lao động và tư liệu sản xuất) và quan hệ sản xuất (quan hệ giữa người với người trong quá trình sản xuất).\n\nCác đáp án khác sai vì:\n- A, B, D: Chỉ đề cập đến một số yếu tố của lực lượng sản xuất, không bao gồm quan hệ sản xuất."
       },
       {
         "question": 10,
@@ -4960,7 +4960,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Các nhân tố cơ bản cấu thành lực lượng sản xuất là người lao động (với kỹ năng, kinh nghiệm, kiến thức) và tư liệu sản xuất (bao gồm công cụ lao động và đối tượng lao động).\n\nCác đáp án khác sai vì:\n- A: Thiếu đối tượng lao động.\n- B: Lao động, sản xuất là quá trình, không phải là yếu tố cấu thành.\n- D: Thiếu công cụ lao động."
+        "explanation": "Các nhân tố cơ bản cấu thành lực lượng sản xuất là người lao động (với kỹ năng, kinh nghiệm, kiến thức) và tư liệu sản xuất (bao gồm công cụ lao động và đối tượng lao động).\n\nCác đáp án khác sai vì:\n- A: Thiếu đối tượng lao động.\n- B: Lao động, sản xuất là quá trình, không phải là yếu tố cấu thành.\n- D: Thiếu công cụ lao động."
       },
       {
         "question": 11,
@@ -4984,7 +4984,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình Triết học Mác-Lênin, người lao động là nhân tố hàng đầu, giữ vai trò quyết định trong lực lượng sản xuất vì họ là chủ thể của quá trình lao động, sử dụng tư liệu sản xuất để tạo ra của cải vật chất. Các đáp án còn lại chỉ là các yếu tố cấu thành lực lượng sản xuất, nhưng không phải là yếu tố quyết định.\n\nĐáp án A sai vì tư liệu sản xuất chỉ là một bộ phận của lực lượng sản xuất.\nĐáp án C sai vì công cụ lao động là một bộ phận của tư liệu sản xuất, không phải yếu tố quyết định.\nĐáp án D sai vì đối tượng lao động chỉ là một bộ phận của tư liệu sản xuất, không phải yếu tố quyết định."
+        "explanation": "Theo giáo trình Triết học Mác-Lênin, người lao động là nhân tố hàng đầu, giữ vai trò quyết định trong lực lượng sản xuất vì họ là chủ thể của quá trình lao động, sử dụng tư liệu sản xuất để tạo ra của cải vật chất. Các đáp án còn lại chỉ là các yếu tố cấu thành lực lượng sản xuất, nhưng không phải là yếu tố quyết định.\n\nĐáp án A sai vì tư liệu sản xuất chỉ là một bộ phận của lực lượng sản xuất.\nĐáp án C sai vì công cụ lao động là một bộ phận của tư liệu sản xuất, không phải yếu tố quyết định.\nĐáp án D sai vì đối tượng lao động chỉ là một bộ phận của tư liệu sản xuất, không phải yếu tố quyết định."
       },
       {
         "question": 12,
@@ -5008,7 +5008,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo quan điểm của chủ nghĩa duy vật lịch sử, công cụ lao động là yếu tố động nhất, cách mạng nhất trong lực lượng sản xuất vì nó thường xuyên được cải tiến, đổi mới, thúc đẩy sự phát triển của toàn bộ lực lượng sản xuất. Các yếu tố khác ít có sự thay đổi nhanh chóng như công cụ lao động.\n\nĐáp án B sai vì đối tượng lao động có tính ổn định tương đối.\nĐáp án C sai vì phương tiện lao động bao gồm cả công cụ lao động và các yếu tố khác, nhưng công cụ lao động là yếu tố động nhất.\nĐáp án D sai vì đối tượng lao động và phương tiện lao động không phải là yếu tố động nhất."
+        "explanation": "Theo quan điểm của chủ nghĩa duy vật lịch sử, công cụ lao động là yếu tố động nhất, cách mạng nhất trong lực lượng sản xuất vì nó thường xuyên được cải tiến, đổi mới, thúc đẩy sự phát triển của toàn bộ lực lượng sản xuất. Các yếu tố khác ít có sự thay đổi nhanh chóng như công cụ lao động.\n\nĐáp án B sai vì đối tượng lao động có tính ổn định tương đối.\nĐáp án C sai vì phương tiện lao động bao gồm cả công cụ lao động và các yếu tố khác, nhưng công cụ lao động là yếu tố động nhất.\nĐáp án D sai vì đối tượng lao động và phương tiện lao động không phải là yếu tố động nhất."
       },
       {
         "question": 13,
@@ -5032,7 +5032,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo quan điểm của chủ nghĩa duy vật lịch sử, sự vận động của mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất là động lực cơ bản nhất của mọi quá trình phát triển trong xã hội. Mâu thuẫn này đòi hỏi phải có sự điều chỉnh, thay đổi để thúc đẩy xã hội tiến lên.\n\nĐáp án A sai vì sự phát triển của khoa học là một yếu tố quan trọng, nhưng không phải là động lực cơ bản nhất.\nĐáp án B sai vì sự phát triển của công nghệ là một yếu tố quan trọng, nhưng không phải là động lực cơ bản nhất.\nĐáp án D sai vì sự phát triển của đời sống tinh thần là một yếu tố quan trọng, nhưng không phải là động lực cơ bản nhất."
+        "explanation": "Theo quan điểm của chủ nghĩa duy vật lịch sử, sự vận động của mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất là động lực cơ bản nhất của mọi quá trình phát triển trong xã hội. Mâu thuẫn này đòi hỏi phải có sự điều chỉnh, thay đổi để thúc đẩy xã hội tiến lên.\n\nĐáp án A sai vì sự phát triển của khoa học là một yếu tố quan trọng, nhưng không phải là động lực cơ bản nhất.\nĐáp án B sai vì sự phát triển của công nghệ là một yếu tố quan trọng, nhưng không phải là động lực cơ bản nhất.\nĐáp án D sai vì sự phát triển của đời sống tinh thần là một yếu tố quan trọng, nhưng không phải là động lực cơ bản nhất."
       },
       {
         "question": 14,
@@ -5056,7 +5056,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Quan hệ sở hữu về tư liệu sản xuất là quan hệ kinh tế cơ bản, quyết định bản chất của các quan hệ sản xuất khác. Nó chi phối quan hệ tổ chức sản xuất và quan hệ phân phối sản phẩm.\n\nĐáp án A sai vì quan hệ về tổ chức sản xuất chịu sự chi phối của quan hệ sở hữu.\nĐáp án C sai vì quan hệ về phân phối kết quả sản phẩm chịu sự chi phối của quan hệ sở hữu.\nĐáp án D sai vì cả quan hệ về tổ chức sản xuất và phân phối kết quả sản phẩm đều chịu sự chi phối của quan hệ sở hữu."
+        "explanation": "Quan hệ sở hữu về tư liệu sản xuất là quan hệ kinh tế cơ bản, quyết định bản chất của các quan hệ sản xuất khác. Nó chi phối quan hệ tổ chức sản xuất và quan hệ phân phối sản phẩm.\n\nĐáp án A sai vì quan hệ về tổ chức sản xuất chịu sự chi phối của quan hệ sở hữu.\nĐáp án C sai vì quan hệ về phân phối kết quả sản phẩm chịu sự chi phối của quan hệ sở hữu.\nĐáp án D sai vì cả quan hệ về tổ chức sản xuất và phân phối kết quả sản phẩm đều chịu sự chi phối của quan hệ sở hữu."
       },
       {
         "question": 15,
@@ -5080,7 +5080,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Quan hệ sản xuất là cơ sở của xã hội, quyết định các quan hệ xã hội khác như quan hệ chính trị, văn hóa, tư tưởng. Bởi vì, để tồn tại và phát triển, con người trước hết phải sản xuất ra của cải vật chất.\n\nĐáp án A sai vì quan hệ chính trị là kiến trúc thượng tầng, được xây dựng trên cơ sở hạ tầng kinh tế (quan hệ sản xuất).\nĐáp án B sai vì quan hệ văn hóa là một bộ phận của kiến trúc thượng tầng, chịu sự chi phối của cơ sở hạ tầng kinh tế.\nĐáp án D sai vì quan hệ tình cảm không phải là quan hệ xã hội cơ bản, quyết định các quan hệ xã hội khác."
+        "explanation": "Quan hệ sản xuất là cơ sở của xã hội, quyết định các quan hệ xã hội khác như quan hệ chính trị, văn hóa, tư tưởng. Bởi vì, để tồn tại và phát triển, con người trước hết phải sản xuất ra của cải vật chất.\n\nĐáp án A sai vì quan hệ chính trị là kiến trúc thượng tầng, được xây dựng trên cơ sở hạ tầng kinh tế (quan hệ sản xuất).\nĐáp án B sai vì quan hệ văn hóa là một bộ phận của kiến trúc thượng tầng, chịu sự chi phối của cơ sở hạ tầng kinh tế.\nĐáp án D sai vì quan hệ tình cảm không phải là quan hệ xã hội cơ bản, quyết định các quan hệ xã hội khác."
       },
       {
         "question": 16,
@@ -5104,7 +5104,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo quan điểm của chủ nghĩa duy vật lịch sử, quan hệ sản xuất không chỉ bị lực lượng sản xuất quyết định mà còn tác động trở lại lực lượng sản xuất, có thể thúc đẩy hoặc kìm hãm sự phát triển của lực lượng sản xuất. Do đó, phương án A là sai.\n\nĐáp án B sai vì lực lượng sản xuất quyết định quan hệ sản xuất là một luận điểm đúng của chủ nghĩa duy vật lịch sử.\nĐáp án C sai vì mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất là một quy luật khách quan.\nĐáp án D sai vì nó lặp lại các luận điểm đúng."
+        "explanation": "Theo quan điểm của chủ nghĩa duy vật lịch sử, quan hệ sản xuất không chỉ bị lực lượng sản xuất quyết định mà còn tác động trở lại lực lượng sản xuất, có thể thúc đẩy hoặc kìm hãm sự phát triển của lực lượng sản xuất. Do đó, phương án A là sai.\n\nĐáp án B sai vì lực lượng sản xuất quyết định quan hệ sản xuất là một luận điểm đúng của chủ nghĩa duy vật lịch sử.\nĐáp án C sai vì mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất là một quy luật khách quan.\nĐáp án D sai vì nó lặp lại các luận điểm đúng."
       },
       {
         "question": 17,
@@ -5128,7 +5128,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Câu nói của C.Mác thể hiện vai trò quyết định của lực lượng sản xuất đối với quan hệ sản xuất. Sự thay đổi của công cụ sản xuất (từ cái cuối xay tay đến cối xay chạy bằng máy hơi nước) dẫn đến sự thay đổi của quan hệ sản xuất (từ xã hội phong kiến đến xã hội tư bản).\n\nĐáp án A sai vì câu nói này không nhấn mạnh vai trò quyết định của quan hệ sản xuất đối với lực lượng sản xuất.\nĐáp án C sai vì lực lượng sản xuất và quan hệ sản xuất có mối quan hệ biện chứng, tác động lẫn nhau, không tồn tại độc lập.\nĐáp án D sai vì chỉ có đáp án B là đúng."
+        "explanation": "Câu nói của C.Mác thể hiện vai trò quyết định của lực lượng sản xuất đối với quan hệ sản xuất. Sự thay đổi của công cụ sản xuất (từ cái cuối xay tay đến cối xay chạy bằng máy hơi nước) dẫn đến sự thay đổi của quan hệ sản xuất (từ xã hội phong kiến đến xã hội tư bản).\n\nĐáp án A sai vì câu nói này không nhấn mạnh vai trò quyết định của quan hệ sản xuất đối với lực lượng sản xuất.\nĐáp án C sai vì lực lượng sản xuất và quan hệ sản xuất có mối quan hệ biện chứng, tác động lẫn nhau, không tồn tại độc lập.\nĐáp án D sai vì chỉ có đáp án B là đúng."
       },
       {
         "question": 18,
@@ -5152,7 +5152,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Quan hệ sản xuất trở thành xiềng xích kìm hãm sự phát triển của lực lượng sản xuất khi nó không còn phù hợp với trình độ phát triển của lực lượng sản xuất, hoặc là quá lạc hậu, hoặc là quá tiên tiến so với trình độ đó.\n\nĐáp án A sai vì khi quan hệ sản xuất phản ánh đúng lực lượng sản xuất thì nó sẽ thúc đẩy sự phát triển của lực lượng sản xuất.\nĐáp án B sai vì khi quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất thì nó sẽ thúc đẩy sự phát triển của lực lượng sản xuất.\nĐáp án C sai vì quan hệ sản xuất được xây dựng trên nền tảng của lực lượng sản xuất là điều kiện cần, nhưng chưa đủ để đảm bảo sự phát triển."
+        "explanation": "Quan hệ sản xuất trở thành xiềng xích kìm hãm sự phát triển của lực lượng sản xuất khi nó không còn phù hợp với trình độ phát triển của lực lượng sản xuất, hoặc là quá lạc hậu, hoặc là quá tiên tiến so với trình độ đó.\n\nĐáp án A sai vì khi quan hệ sản xuất phản ánh đúng lực lượng sản xuất thì nó sẽ thúc đẩy sự phát triển của lực lượng sản xuất.\nĐáp án B sai vì khi quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất thì nó sẽ thúc đẩy sự phát triển của lực lượng sản xuất.\nĐáp án C sai vì quan hệ sản xuất được xây dựng trên nền tảng của lực lượng sản xuất là điều kiện cần, nhưng chưa đủ để đảm bảo sự phát triển."
       },
       {
         "question": 19,
@@ -5176,7 +5176,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Khi mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất diễn ra gay gắt, nó sẽ được giải quyết thông qua các cuộc cải cách hoặc cách mạng xã hội, dẫn đến sự thay đổi của quan hệ sản xuất để phù hợp với trình độ phát triển mới của lực lượng sản xuất.\n\nĐáp án A sai vì quan hệ sản xuất có thể thay đổi thông qua các cuộc cải cách và cách mạng.\nĐáp án B sai vì lực lượng sản xuất không tự điều chỉnh để phù hợp với quan hệ sản xuất, mà ngược lại, quan hệ sản xuất phải thay đổi để phù hợp với lực lượng sản xuất.\nĐáp án D sai vì cả hai mệnh đề trong đáp án đều sai."
+        "explanation": "Khi mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất diễn ra gay gắt, nó sẽ được giải quyết thông qua các cuộc cải cách hoặc cách mạng xã hội, dẫn đến sự thay đổi của quan hệ sản xuất để phù hợp với trình độ phát triển mới của lực lượng sản xuất.\n\nĐáp án A sai vì quan hệ sản xuất có thể thay đổi thông qua các cuộc cải cách và cách mạng.\nĐáp án B sai vì lực lượng sản xuất không tự điều chỉnh để phù hợp với quan hệ sản xuất, mà ngược lại, quan hệ sản xuất phải thay đổi để phù hợp với lực lượng sản xuất.\nĐáp án D sai vì cả hai mệnh đề trong đáp án đều sai."
       },
       {
         "question": 20,
@@ -5200,7 +5200,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo chủ nghĩa duy vật lịch sử, lực lượng sản xuất quyết định quan hệ sản xuất, chứ không phải ngược lại. Quan hệ sản xuất có thể tác động trở lại lực lượng sản xuất, nhưng không quyết định trình độ phát triển của nó.\n\nĐáp án A sai vì đây là một quan điểm đúng của chủ nghĩa duy vật lịch sử.\nĐáp án B sai vì đây là một quan điểm đúng của chủ nghĩa duy vật lịch sử.\nĐáp án D sai vì đây là một quan điểm đúng của chủ nghĩa duy vật lịch sử."
+        "explanation": "Theo chủ nghĩa duy vật lịch sử, lực lượng sản xuất quyết định quan hệ sản xuất, chứ không phải ngược lại. Quan hệ sản xuất có thể tác động trở lại lực lượng sản xuất, nhưng không quyết định trình độ phát triển của nó.\n\nĐáp án A sai vì đây là một quan điểm đúng của chủ nghĩa duy vật lịch sử.\nĐáp án B sai vì đây là một quan điểm đúng của chủ nghĩa duy vật lịch sử.\nĐáp án D sai vì đây là một quan điểm đúng của chủ nghĩa duy vật lịch sử."
       },
       {
         "question": 21,
@@ -5224,7 +5224,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo giáo trình, lực lượng sản xuất là nội dung, còn quan hệ sản xuất là hình thức của phương thức sản xuất. Sự phù hợp và mâu thuẫn giữa chúng là động lực của sự phát triển phương thức sản xuất. Các đáp án còn lại không phản ánh đúng mối quan hệ biện chứng này."
+        "explanation": "Theo giáo trình, lực lượng sản xuất là nội dung, còn quan hệ sản xuất là hình thức của phương thức sản xuất. Sự phù hợp và mâu thuẫn giữa chúng là động lực của sự phát triển phương thức sản xuất. Các đáp án còn lại không phản ánh đúng mối quan hệ biện chứng này."
       },
       {
         "question": 22,
@@ -5248,7 +5248,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo giáo trình, khi quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất, nó sẽ tạo điều kiện cho việc kết hợp hiệu quả các yếu tố của lực lượng sản xuất (A), năng suất lao động và hiệu quả sản xuất tăng lên (B), và đời sống vật chất, tinh thần của người lao động được nâng cao (D). Do đó, tất cả các đáp án đều đúng."
+        "explanation": "Theo giáo trình, khi quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất, nó sẽ tạo điều kiện cho việc kết hợp hiệu quả các yếu tố của lực lượng sản xuất (A), năng suất lao động và hiệu quả sản xuất tăng lên (B), và đời sống vật chất, tinh thần của người lao động được nâng cao (D). Do đó, tất cả các đáp án đều đúng."
       },
       {
         "question": 23,
@@ -5272,7 +5272,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình, quan hệ sở hữu về tư liệu sản xuất là yếu tố cơ bản nhất quy định địa vị kinh tế - xã hội của các tập đoàn người trong sản xuất. Nó quyết định ai là người nắm giữ các tư liệu sản xuất chủ yếu, từ đó quyết định vị trí của họ trong hệ thống sản xuất. Các đáp án còn lại (A, C, D) tuy quan trọng nhưng không mang tính quyết định như quan hệ sở hữu."
+        "explanation": "Theo giáo trình, quan hệ sở hữu về tư liệu sản xuất là yếu tố cơ bản nhất quy định địa vị kinh tế - xã hội của các tập đoàn người trong sản xuất. Nó quyết định ai là người nắm giữ các tư liệu sản xuất chủ yếu, từ đó quyết định vị trí của họ trong hệ thống sản xuất. Các đáp án còn lại (A, C, D) tuy quan trọng nhưng không mang tính quyết định như quan hệ sở hữu."
       },
       {
         "question": 24,
@@ -5296,7 +5296,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình, quan hệ về tổ chức quản lý sản xuất có vai trò quyết định trực tiếp đến quy mô, tốc độ, hiệu quả của nền sản xuất. Tổ chức quản lý tốt sẽ khai thác tối ưu các nguồn lực, thúc đẩy sản xuất phát triển. Các đáp án còn lại (B, C, D) có ảnh hưởng đến sản xuất, nhưng không trực tiếp và quyết định như quan hệ tổ chức quản lý."
+        "explanation": "Theo giáo trình, quan hệ về tổ chức quản lý sản xuất có vai trò quyết định trực tiếp đến quy mô, tốc độ, hiệu quả của nền sản xuất. Tổ chức quản lý tốt sẽ khai thác tối ưu các nguồn lực, thúc đẩy sản xuất phát triển. Các đáp án còn lại (B, C, D) có ảnh hưởng đến sản xuất, nhưng không trực tiếp và quyết định như quan hệ tổ chức quản lý."
       },
       {
         "question": 25,
@@ -5320,7 +5320,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình, quan hệ về phân phối sản phẩm lao động phản ánh cách thức và quy mô của cải vật chất mà các tập đoàn người được hưởng. Nó quyết định ai được hưởng nhiều, ai được hưởng ít, và ảnh hưởng trực tiếp đến đời sống của người lao động. Các đáp án còn lại (A, C, D) không trực tiếp thể hiện cách thức hưởng thụ của cải vật chất."
+        "explanation": "Theo giáo trình, quan hệ về phân phối sản phẩm lao động phản ánh cách thức và quy mô của cải vật chất mà các tập đoàn người được hưởng. Nó quyết định ai được hưởng nhiều, ai được hưởng ít, và ảnh hưởng trực tiếp đến đời sống của người lao động. Các đáp án còn lại (A, C, D) không trực tiếp thể hiện cách thức hưởng thụ của cải vật chất."
       },
       {
         "question": 26,
@@ -5344,7 +5344,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình, nội dung vật chất của quá trình sản xuất bao gồm hai nhân tố cơ bản: người lao động và tư liệu sản xuất. Người lao động là chủ thể của quá trình sản xuất, còn tư liệu sản xuất là những yếu tố vật chất mà người lao động sử dụng để tác động vào đối tượng lao động. Các đáp án còn lại chỉ liệt kê một phần của nội dung vật chất hoặc bao gồm đối tượng lao động, không đầy đủ và chính xác."
+        "explanation": "Theo giáo trình, nội dung vật chất của quá trình sản xuất bao gồm hai nhân tố cơ bản: người lao động và tư liệu sản xuất. Người lao động là chủ thể của quá trình sản xuất, còn tư liệu sản xuất là những yếu tố vật chất mà người lao động sử dụng để tác động vào đối tượng lao động. Các đáp án còn lại chỉ liệt kê một phần của nội dung vật chất hoặc bao gồm đối tượng lao động, không đầy đủ và chính xác."
       },
       {
         "question": 27,
@@ -5368,7 +5368,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình, quy luật quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất là quy luật cơ bản nhất chi phối toàn bộ quá trình vận động, phát triển của lịch sử xã hội loài người. Sự phù hợp và mâu thuẫn giữa hai yếu tố này là động lực của sự phát triển xã hội. Các đáp án còn lại (A, C, D) là những quy luật quan trọng khác, nhưng không cơ bản và chi phối toàn bộ như quy luật này."
+        "explanation": "Theo giáo trình, quy luật quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất là quy luật cơ bản nhất chi phối toàn bộ quá trình vận động, phát triển của lịch sử xã hội loài người. Sự phù hợp và mâu thuẫn giữa hai yếu tố này là động lực của sự phát triển xã hội. Các đáp án còn lại (A, C, D) là những quy luật quan trọng khác, nhưng không cơ bản và chi phối toàn bộ như quy luật này."
       },
       {
         "question": 28,
@@ -5392,7 +5392,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình, sự thay thế và phát triển của các phương thức sản xuất phản ánh xu hướng tất yếu khách quan của quá trình phát triển xã hội loài người từ trình độ thấp đến trình độ ngày càng cao hơn. Đó là một quá trình khách quan, tuân theo các quy luật kinh tế - xã hội, không phụ thuộc vào ý muốn chủ quan của bất kỳ giai cấp hay cá nhân nào. Các đáp án còn lại (B, C, D) nhấn mạnh yếu tố chủ quan, không phù hợp với quan điểm duy vật lịch sử."
+        "explanation": "Theo giáo trình, sự thay thế và phát triển của các phương thức sản xuất phản ánh xu hướng tất yếu khách quan của quá trình phát triển xã hội loài người từ trình độ thấp đến trình độ ngày càng cao hơn. Đó là một quá trình khách quan, tuân theo các quy luật kinh tế - xã hội, không phụ thuộc vào ý muốn chủ quan của bất kỳ giai cấp hay cá nhân nào. Các đáp án còn lại (B, C, D) nhấn mạnh yếu tố chủ quan, không phù hợp với quan điểm duy vật lịch sử."
       },
       {
         "question": 29,
@@ -5416,7 +5416,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo giáo trình, quy luật quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất là quy luật cơ bản nhất quyết định sự vận động và phát triển của xã hội. Sự phù hợp và mâu thuẫn giữa hai yếu tố này là động lực chính của sự phát triển xã hội. Các đáp án còn lại (A, B, C) là những quy luật quan trọng khác, nhưng không cơ bản và chi phối toàn bộ như quy luật này."
+        "explanation": "Theo giáo trình, quy luật quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất là quy luật cơ bản nhất quyết định sự vận động và phát triển của xã hội. Sự phù hợp và mâu thuẫn giữa hai yếu tố này là động lực chính của sự phát triển xã hội. Các đáp án còn lại (A, B, C) là những quy luật quan trọng khác, nhưng không cơ bản và chi phối toàn bộ như quy luật này."
       },
       {
         "question": 30,
@@ -5440,7 +5440,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình, lực lượng sản xuất có xu hướng biến đổi nhanh hơn so với quan hệ sản xuất. Điều này là do sự phát triển của khoa học, công nghệ và kỹ năng của người lao động. Quan hệ sản xuất có tính ổn định tương đối, thường biến đổi chậm hơn để phù hợp với trình độ phát triển của lực lượng sản xuất. Các đáp án còn lại không phản ánh đúng tốc độ biến đổi của hai yếu tố này."
+        "explanation": "Theo giáo trình, lực lượng sản xuất có xu hướng biến đổi nhanh hơn so với quan hệ sản xuất. Điều này là do sự phát triển của khoa học, công nghệ và kỹ năng của người lao động. Quan hệ sản xuất có tính ổn định tương đối, thường biến đổi chậm hơn để phù hợp với trình độ phát triển của lực lượng sản xuất. Các đáp án còn lại không phản ánh đúng tốc độ biến đổi của hai yếu tố này."
       },
       {
         "question": 31,
@@ -5464,7 +5464,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình Triết học Mác-Lênin, lực lượng sản xuất quyết định quan hệ sản xuất. Sự phát triển của lực lượng sản xuất đến một trình độ nhất định sẽ làm cho quan hệ sản xuất cũ trở nên lạc hậu, kìm hãm sự phát triển của lực lượng sản xuất, từ đó dẫn đến sự thay đổi quan hệ sản xuất cho phù hợp với trình độ phát triển mới của lực lượng sản xuất. Đồng thời, quan hệ sản xuất có tính độc lập tương đối và tác động trở lại lực lượng sản xuất, thúc đẩy hoặc kìm hãm sự phát triển của lực lượng sản xuất. Các đáp án còn lại sai vì đưa ra mối quan hệ ngược lại hoặc phủ nhận mối quan hệ biện chứng giữa lực lượng sản xuất và quan hệ sản xuất."
+        "explanation": "Theo giáo trình Triết học Mác-Lênin, lực lượng sản xuất quyết định quan hệ sản xuất. Sự phát triển của lực lượng sản xuất đến một trình độ nhất định sẽ làm cho quan hệ sản xuất cũ trở nên lạc hậu, kìm hãm sự phát triển của lực lượng sản xuất, từ đó dẫn đến sự thay đổi quan hệ sản xuất cho phù hợp với trình độ phát triển mới của lực lượng sản xuất. Đồng thời, quan hệ sản xuất có tính độc lập tương đối và tác động trở lại lực lượng sản xuất, thúc đẩy hoặc kìm hãm sự phát triển của lực lượng sản xuất. Các đáp án còn lại sai vì đưa ra mối quan hệ ngược lại hoặc phủ nhận mối quan hệ biện chứng giữa lực lượng sản xuất và quan hệ sản xuất."
       },
       {
         "question": 32,
@@ -5488,7 +5488,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Quan hệ sản xuất có thể thúc đẩy hoặc kìm hãm lực lượng sản xuất. Khi quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất, nó sẽ thúc đẩy lực lượng sản xuất phát triển. Ngược lại, khi quan hệ sản xuất lạc hậu so với trình độ phát triển của lực lượng sản xuất, nó sẽ kìm hãm sự phát triển của lực lượng sản xuất. Các đáp án A, B, và C đưa ra những khẳng định tuyệt đối, không phản ánh đúng tính biện chứng của mối quan hệ này."
+        "explanation": "Quan hệ sản xuất có thể thúc đẩy hoặc kìm hãm lực lượng sản xuất. Khi quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất, nó sẽ thúc đẩy lực lượng sản xuất phát triển. Ngược lại, khi quan hệ sản xuất lạc hậu so với trình độ phát triển của lực lượng sản xuất, nó sẽ kìm hãm sự phát triển của lực lượng sản xuất. Các đáp án A, B, và C đưa ra những khẳng định tuyệt đối, không phản ánh đúng tính biện chứng của mối quan hệ này."
       },
       {
         "question": 33,
@@ -5512,7 +5512,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Quan hệ sản xuất 'đi sau' hoặc 'vượt trước' trình độ phát triển của lực lượng sản xuất thể hiện sự không phù hợp của quan hệ sản xuất với lực lượng sản xuất. Khi quan hệ sản xuất lạc hậu so với lực lượng sản xuất (đi sau), nó kìm hãm sự phát triển của lực lượng sản xuất. Khi quan hệ sản xuất 'vượt trước', nó trở nên duy ý chí, không dựa trên cơ sở vật chất thực tế. Đáp án A sai vì nó thể hiện sự phù hợp, còn đáp án C và D không trực tiếp liên quan đến sự phù hợp hay không phù hợp."
+        "explanation": "Quan hệ sản xuất 'đi sau' hoặc 'vượt trước' trình độ phát triển của lực lượng sản xuất thể hiện sự không phù hợp của quan hệ sản xuất với lực lượng sản xuất. Khi quan hệ sản xuất lạc hậu so với lực lượng sản xuất (đi sau), nó kìm hãm sự phát triển của lực lượng sản xuất. Khi quan hệ sản xuất 'vượt trước', nó trở nên duy ý chí, không dựa trên cơ sở vật chất thực tế. Đáp án A sai vì nó thể hiện sự phù hợp, còn đáp án C và D không trực tiếp liên quan đến sự phù hợp hay không phù hợp."
       },
       {
         "question": 34,
@@ -5536,7 +5536,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo quan điểm của chủ nghĩa duy vật lịch sử, lịch sử xã hội loài người là lịch sử kế tiếp nhau của các phương thức sản xuất. Mỗi phương thức sản xuất bao gồm lực lượng sản xuất và quan hệ sản xuất, và sự thay đổi của phương thức sản xuất là động lực chính của sự phát triển xã hội. Các đáp án còn lại chỉ là các yếu tố cấu thành của lực lượng sản xuất, không phản ánh toàn bộ quá trình phát triển của xã hội."
+        "explanation": "Theo quan điểm của chủ nghĩa duy vật lịch sử, lịch sử xã hội loài người là lịch sử kế tiếp nhau của các phương thức sản xuất. Mỗi phương thức sản xuất bao gồm lực lượng sản xuất và quan hệ sản xuất, và sự thay đổi của phương thức sản xuất là động lực chính của sự phát triển xã hội. Các đáp án còn lại chỉ là các yếu tố cấu thành của lực lượng sản xuất, không phản ánh toàn bộ quá trình phát triển của xã hội."
       },
       {
         "question": 35,
@@ -5560,7 +5560,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Trong thực tiễn, để phát triển kinh tế, cần bắt đầu từ việc phát triển người lao động (nâng cao trình độ, kỹ năng) và công cụ lao động (cải tiến, hiện đại hóa). Đây là hai yếu tố cơ bản của lực lượng sản xuất. Các đáp án còn lại chỉ đề cập đến một hoặc một vài yếu tố của lực lượng sản xuất, không toàn diện."
+        "explanation": "Trong thực tiễn, để phát triển kinh tế, cần bắt đầu từ việc phát triển người lao động (nâng cao trình độ, kỹ năng) và công cụ lao động (cải tiến, hiện đại hóa). Đây là hai yếu tố cơ bản của lực lượng sản xuất. Các đáp án còn lại chỉ đề cập đến một hoặc một vài yếu tố của lực lượng sản xuất, không toàn diện."
       },
       {
         "question": 36,
@@ -5584,7 +5584,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Việc xóa bỏ một quan hệ sản xuất cũ và thiết lập một quan hệ sản xuất mới phải căn cứ vào trình độ phát triển của lực lượng sản xuất. Quan hệ sản xuất mới phải phù hợp với trình độ phát triển của lực lượng sản xuất thì mới có thể thúc đẩy sự phát triển kinh tế - xã hội. Các đáp án còn lại mang tính chủ quan, duy ý chí, hoặc dựa trên mệnh lệnh hành chính, không phù hợp với quy luật khách quan."
+        "explanation": "Việc xóa bỏ một quan hệ sản xuất cũ và thiết lập một quan hệ sản xuất mới phải căn cứ vào trình độ phát triển của lực lượng sản xuất. Quan hệ sản xuất mới phải phù hợp với trình độ phát triển của lực lượng sản xuất thì mới có thể thúc đẩy sự phát triển kinh tế - xã hội. Các đáp án còn lại mang tính chủ quan, duy ý chí, hoặc dựa trên mệnh lệnh hành chính, không phù hợp với quy luật khách quan."
       },
       {
         "question": 37,
@@ -5608,7 +5608,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án A đúng. Theo quy luật quan hệ sản xuất phù hợp với trình độ của lực lượng sản xuất, để phát triển kinh tế - xã hội, trước tiên cần phát triển lực lượng lao động (người lao động) và công cụ lao động. Đây là hai yếu tố động nhất và cách mạng nhất của lực lượng sản xuất. Các đáp án còn lại không đầy đủ hoặc không chính xác."
+        "explanation": "Theo quy luật quan hệ sản xuất phù hợp với trình độ của lực lượng sản xuất, để phát triển kinh tế - xã hội, trước tiên cần phát triển lực lượng lao động (người lao động) và công cụ lao động. Đây là hai yếu tố động nhất và cách mạng nhất của lực lượng sản xuất. Các đáp án còn lại không đầy đủ hoặc không chính xác."
       },
       {
         "question": 38,
@@ -5632,7 +5632,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Câu nói 'Muốn phát triển kinh tế thì trước tiên cần phải phát triển lực lượng lao động và công cụ lao động' thể hiện ý nghĩa cơ bản nhất của quy luật quan hệ sản xuất phù hợp với trình độ của lực lượng sản xuất. Quy luật này chỉ ra rằng sự phát triển của lực lượng sản xuất là tiền đề cho sự thay đổi và phát triển của quan hệ sản xuất. Các quy luật còn lại không trực tiếp đề cập đến mối quan hệ giữa lực lượng sản xuất và quan hệ sản xuất."
+        "explanation": "Câu nói 'Muốn phát triển kinh tế thì trước tiên cần phải phát triển lực lượng lao động và công cụ lao động' thể hiện ý nghĩa cơ bản nhất của quy luật quan hệ sản xuất phù hợp với trình độ của lực lượng sản xuất. Quy luật này chỉ ra rằng sự phát triển của lực lượng sản xuất là tiền đề cho sự thay đổi và phát triển của quan hệ sản xuất. Các quy luật còn lại không trực tiếp đề cập đến mối quan hệ giữa lực lượng sản xuất và quan hệ sản xuất."
       },
       {
         "question": 39,
@@ -5660,7 +5660,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo triết học Mác-Lênin, cơ sở hạ tầng là toàn bộ những quan hệ sản xuất của một xã hội trong sự vận động hiện thực của chúng, hợp thành cơ cấu kinh tế của xã hội đó. Nó là nền tảng kinh tế của xã hội, trên đó xây dựng nên kiến trúc thượng tầng. Các đáp án còn lại chỉ đề cập đến một phần của cơ sở hạ tầng hoặc nhầm lẫn với các khái niệm khác."
+        "explanation": "Theo triết học Mác-Lênin, cơ sở hạ tầng là toàn bộ những quan hệ sản xuất của một xã hội trong sự vận động hiện thực của chúng, hợp thành cơ cấu kinh tế của xã hội đó. Nó là nền tảng kinh tế của xã hội, trên đó xây dựng nên kiến trúc thượng tầng. Các đáp án còn lại chỉ đề cập đến một phần của cơ sở hạ tầng hoặc nhầm lẫn với các khái niệm khác."
       },
       {
         "question": 40,
@@ -5684,7 +5684,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Cơ sở hạ tầng, theo triết học Mác-Lênin, bao gồm toàn bộ những quan hệ sản xuất của một xã hội trong sự vận động hiện thực của chúng, hợp thành cơ cấu kinh tế của xã hội đó. Các đáp án còn lại hoặc chỉ đề cập đến yếu tố vật chất (như đất đai, máy móc) hoặc lẫn lộn với cơ sở hạ tầng kỹ thuật, hoặc không đầy đủ."
+        "explanation": "Cơ sở hạ tầng, theo triết học Mác-Lênin, bao gồm toàn bộ những quan hệ sản xuất của một xã hội trong sự vận động hiện thực của chúng, hợp thành cơ cấu kinh tế của xã hội đó. Các đáp án còn lại hoặc chỉ đề cập đến yếu tố vật chất (như đất đai, máy móc) hoặc lẫn lộn với cơ sở hạ tầng kỹ thuật, hoặc không đầy đủ."
       },
       {
         "question": 41,
@@ -5708,7 +5708,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng vì theo giáo trình, kiến trúc thượng tầng bao gồm toàn bộ những quan điểm, tư tưởng xã hội (chính trị, pháp luật, đạo đức, tôn giáo, nghệ thuật, triết học, khoa học...) với những thiết chế xã hội tương ứng (nhà nước, đảng phái, giáo hội, các tổ chức xã hội...) cùng những quan hệ nội tại của thượng tầng hình thành trên một cơ sở hạ tầng nhất định. Các đáp án A, B, và C chỉ đề cập đến một phần của kiến trúc thượng tầng, do đó không đầy đủ."
+        "explanation": "Vì theo giáo trình, kiến trúc thượng tầng bao gồm toàn bộ những quan điểm, tư tưởng xã hội (chính trị, pháp luật, đạo đức, tôn giáo, nghệ thuật, triết học, khoa học...) với những thiết chế xã hội tương ứng (nhà nước, đảng phái, giáo hội, các tổ chức xã hội...) cùng những quan hệ nội tại của thượng tầng hình thành trên một cơ sở hạ tầng nhất định. Các đáp án A, B, và C chỉ đề cập đến một phần của kiến trúc thượng tầng, do đó không đầy đủ."
       },
       {
         "question": 42,
@@ -5732,7 +5732,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng vì theo triết học Mác-Lênin, kiến trúc thượng tầng bao gồm các quan điểm, tư tưởng xã hội. Các đáp án khác không phù hợp: Quan hệ sản xuất thuộc cơ sở hạ tầng, tồn tại xã hội là phạm trù rộng hơn bao gồm cả cơ sở hạ tầng và kiến trúc thượng tầng."
+        "explanation": "Vì theo triết học Mác-Lênin, kiến trúc thượng tầng bao gồm các quan điểm, tư tưởng xã hội. Các đáp án khác không phù hợp: Quan hệ sản xuất thuộc cơ sở hạ tầng, tồn tại xã hội là phạm trù rộng hơn bao gồm cả cơ sở hạ tầng và kiến trúc thượng tầng."
       },
       {
         "question": 43,
@@ -5756,7 +5756,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng vì quan hệ sản xuất thống trị thể hiện bản chất của chế độ kinh tế, chi phối các quan hệ sản xuất khác. Các đáp án còn lại chỉ là những yếu tố thứ yếu hoặc đang hình thành, không mang tính đặc trưng."
+        "explanation": "Vì quan hệ sản xuất thống trị thể hiện bản chất của chế độ kinh tế, chi phối các quan hệ sản xuất khác. Các đáp án còn lại chỉ là những yếu tố thứ yếu hoặc đang hình thành, không mang tính đặc trưng."
       },
       {
         "question": 44,
@@ -5780,7 +5780,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng vì cơ sở hạ tầng là phương diện kinh tế (quan hệ sản xuất), còn kiến trúc thượng tầng là phương diện chính trị - xã hội (nhà nước, pháp luật, tư tưởng...). Các đáp án còn lại không phản ánh đúng bản chất của cơ sở hạ tầng và kiến trúc thượng tầng."
+        "explanation": "Vì cơ sở hạ tầng là phương diện kinh tế (quan hệ sản xuất), còn kiến trúc thượng tầng là phương diện chính trị - xã hội (nhà nước, pháp luật, tư tưởng...). Các đáp án còn lại không phản ánh đúng bản chất của cơ sở hạ tầng và kiến trúc thượng tầng."
       },
       {
         "question": 45,
@@ -5804,7 +5804,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng vì theo chủ nghĩa duy vật lịch sử, cơ sở hạ tầng quyết định kiến trúc thượng tầng, nhưng kiến trúc thượng tầng có tính độc lập tương đối và tác động trở lại cơ sở hạ tầng. Đáp án A sai vì cơ sở hạ tầng và kiến trúc thượng tầng có mối quan hệ biện chứng. Đáp án B và D sai vì kiến trúc thượng tầng bị quyết định bởi cơ sở hạ tầng, không phải ngược lại."
+        "explanation": "Vì theo chủ nghĩa duy vật lịch sử, cơ sở hạ tầng quyết định kiến trúc thượng tầng, nhưng kiến trúc thượng tầng có tính độc lập tương đối và tác động trở lại cơ sở hạ tầng. Đáp án A sai vì cơ sở hạ tầng và kiến trúc thượng tầng có mối quan hệ biện chứng. Đáp án B và D sai vì kiến trúc thượng tầng bị quyết định bởi cơ sở hạ tầng, không phải ngược lại."
       },
       {
         "question": 46,
@@ -5828,7 +5828,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng vì theo Mác-Lênin, giai cấp nào nắm quyền sở hữu tư liệu sản xuất chủ yếu thì giai cấp đó nắm quyền lực nhà nước, sử dụng nhà nước như công cụ để bảo vệ lợi ích của mình. Các đáp án còn lại không phải là yếu tố quyết định việc nắm quyền lực nhà nước."
+        "explanation": "Vì theo Mác-Lênin, giai cấp nào nắm quyền sở hữu tư liệu sản xuất chủ yếu thì giai cấp đó nắm quyền lực nhà nước, sử dụng nhà nước như công cụ để bảo vệ lợi ích của mình. Các đáp án còn lại không phải là yếu tố quyết định việc nắm quyền lực nhà nước."
       },
       {
         "question": 47,
@@ -5852,7 +5852,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng vì kiến trúc thượng tầng xã hội chủ nghĩa dựa trên nền tảng kinh tế xã hội chủ nghĩa, do đó có sự nhất trí về chính trị và tinh thần trong toàn xã hội, hướng tới mục tiêu chung là xây dựng xã hội xã hội chủ nghĩa. Các đáp án còn lại thể hiện sự chia rẽ, mâu thuẫn, không phù hợp với bản chất của xã hội xã hội chủ nghĩa."
+        "explanation": "Vì kiến trúc thượng tầng xã hội chủ nghĩa dựa trên nền tảng kinh tế xã hội chủ nghĩa, do đó có sự nhất trí về chính trị và tinh thần trong toàn xã hội, hướng tới mục tiêu chung là xây dựng xã hội xã hội chủ nghĩa. Các đáp án còn lại thể hiện sự chia rẽ, mâu thuẫn, không phù hợp với bản chất của xã hội xã hội chủ nghĩa."
       },
       {
         "question": 48,
@@ -5876,7 +5876,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng vì kiến trúc thượng tầng, mặc dù bị quyết định bởi cơ sở hạ tầng, nhưng có tính độc lập tương đối, có quy luật vận động riêng và tác động trở lại cơ sở hạ tầng. Đáp án A sai vì cơ sở hạ tầng quyết định kiến trúc thượng tầng. Đáp án C sai vì chúng có mối quan hệ biện chứng. Đáp án D sai vì kiến trúc thượng tầng có thể thúc đẩy hoặc kìm hãm sự phát triển của cơ sở hạ tầng, tùy thuộc vào tính chất của nó."
+        "explanation": "Vì kiến trúc thượng tầng, mặc dù bị quyết định bởi cơ sở hạ tầng, nhưng có tính độc lập tương đối, có quy luật vận động riêng và tác động trở lại cơ sở hạ tầng. Đáp án A sai vì cơ sở hạ tầng quyết định kiến trúc thượng tầng. Đáp án C sai vì chúng có mối quan hệ biện chứng. Đáp án D sai vì kiến trúc thượng tầng có thể thúc đẩy hoặc kìm hãm sự phát triển của cơ sở hạ tầng, tùy thuộc vào tính chất của nó."
       },
       {
         "question": 49,
@@ -5900,7 +5900,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng vì theo quan điểm của chủ nghĩa duy vật lịch sử, cơ sở hạ tầng quyết định kiến trúc thượng tầng. Các đáp án còn lại sai vì không phản ánh đúng mối quan hệ biện chứng giữa cơ sở hạ tầng và kiến trúc thượng tầng."
+        "explanation": "Vì theo quan điểm của chủ nghĩa duy vật lịch sử, cơ sở hạ tầng quyết định kiến trúc thượng tầng. Các đáp án còn lại sai vì không phản ánh đúng mối quan hệ biện chứng giữa cơ sở hạ tầng và kiến trúc thượng tầng."
       },
       {
         "question": 50,
@@ -5924,7 +5924,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án C đúng vì kiến trúc thượng tầng, mặc dù bị quyết định bởi cơ sở hạ tầng, nhưng có vai trò tác động trở lại cơ sở hạ tầng, có thể thúc đẩy hoặc kìm hãm sự phát triển của cơ sở hạ tầng. Đáp án A sai vì cơ sở hạ tầng quyết định kiến trúc thượng tầng. Đáp án B sai vì kiến trúc thượng tầng có vai trò nhất định. Đáp án D sai vì kiến trúc thượng tầng có thể tác động tích cực hoặc tiêu cực."
+        "explanation": "Vì kiến trúc thượng tầng, mặc dù bị quyết định bởi cơ sở hạ tầng, nhưng có vai trò tác động trở lại cơ sở hạ tầng, có thể thúc đẩy hoặc kìm hãm sự phát triển của cơ sở hạ tầng. Đáp án A sai vì cơ sở hạ tầng quyết định kiến trúc thượng tầng. Đáp án B sai vì kiến trúc thượng tầng có vai trò nhất định. Đáp án D sai vì kiến trúc thượng tầng có thể tác động tích cực hoặc tiêu cực."
       },
       {
         "question": 51,
@@ -5948,7 +5948,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo giáo trình Triết học Mác-Lênin, kiến trúc thượng tầng tác động trở lại cơ sở hạ tầng một cách biện chứng, có thể thúc đẩy hoặc kìm hãm sự phát triển của cơ sở hạ tầng. Do đó, sự tác động diễn ra theo cả chiều hướng tích cực và tiêu cực. Các đáp án A, B, và C đều sai vì chúng chỉ xét đến một chiều tác động duy nhất (hoặc luôn tích cực, hoặc luôn tiêu cực, hoặc tích cực nhiều hơn tiêu cực), không phản ánh tính biện chứng của mối quan hệ này."
+        "explanation": "Theo giáo trình Triết học Mác-Lênin, kiến trúc thượng tầng tác động trở lại cơ sở hạ tầng một cách biện chứng, có thể thúc đẩy hoặc kìm hãm sự phát triển của cơ sở hạ tầng. Do đó, sự tác động diễn ra theo cả chiều hướng tích cực và tiêu cực. Các đáp án A, B, và C đều sai vì chúng chỉ xét đến một chiều tác động duy nhất (hoặc luôn tích cực, hoặc luôn tiêu cực, hoặc tích cực nhiều hơn tiêu cực), không phản ánh tính biện chứng của mối quan hệ này."
       },
       {
         "question": 52,
@@ -5972,7 +5972,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Trong xã hội có giai cấp, tổ chức nhà nước là yếu tố cơ bản nhất của kiến trúc thượng tầng, có vai trò quan trọng trong việc bảo vệ và duy trì cơ sở hạ tầng kinh tế của giai cấp thống trị. Các đáp án B, C, và D sai vì tôn giáo và văn hóa có tác động đến cơ sở hạ tầng nhưng không trực tiếp và mạnh mẽ bằng nhà nước."
+        "explanation": "Trong xã hội có giai cấp, tổ chức nhà nước là yếu tố cơ bản nhất của kiến trúc thượng tầng, có vai trò quan trọng trong việc bảo vệ và duy trì cơ sở hạ tầng kinh tế của giai cấp thống trị. Các đáp án B, C, và D sai vì tôn giáo và văn hóa có tác động đến cơ sở hạ tầng nhưng không trực tiếp và mạnh mẽ bằng nhà nước."
       },
       {
         "question": 53,
@@ -5996,7 +5996,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo chủ nghĩa duy vật lịch sử, sự phát triển của lực lượng sản xuất là nguyên nhân sâu xa, cuối cùng làm biến đổi cơ sở hạ tầng và kiến trúc thượng tầng. Sự phát triển của lực lượng sản xuất đòi hỏi sự thay đổi trong quan hệ sản xuất, từ đó dẫn đến sự thay đổi của cơ sở hạ tầng và kiến trúc thượng tầng. Đáp án A sai vì quan hệ sản xuất là một bộ phận của cơ sở hạ tầng. Đáp án C và D sai vì ý muốn chủ quan không phải là nguyên nhân quyết định sự biến đổi của xã hội."
+        "explanation": "Theo chủ nghĩa duy vật lịch sử, sự phát triển của lực lượng sản xuất là nguyên nhân sâu xa, cuối cùng làm biến đổi cơ sở hạ tầng và kiến trúc thượng tầng. Sự phát triển của lực lượng sản xuất đòi hỏi sự thay đổi trong quan hệ sản xuất, từ đó dẫn đến sự thay đổi của cơ sở hạ tầng và kiến trúc thượng tầng. Đáp án A sai vì quan hệ sản xuất là một bộ phận của cơ sở hạ tầng. Đáp án C và D sai vì ý muốn chủ quan không phải là nguyên nhân quyết định sự biến đổi của xã hội."
       },
       {
         "question": 54,
@@ -6020,7 +6020,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. V.I.Lênin đã viết: \"Chính trị là sự biểu hiện tập trung của kinh tế.\" Điều này có nghĩa là chính trị, một bộ phận của kiến trúc thượng tầng, phản ánh và phục vụ cho các lợi ích kinh tế của giai cấp thống trị. Các đáp án A, C, và D sai vì không phản ánh đúng luận điểm của Lênin."
+        "explanation": "V.I.Lênin đã viết: \"Chính trị là sự biểu hiện tập trung của kinh tế.\" Điều này có nghĩa là chính trị, một bộ phận của kiến trúc thượng tầng, phản ánh và phục vụ cho các lợi ích kinh tế của giai cấp thống trị. Các đáp án A, C, và D sai vì không phản ánh đúng luận điểm của Lênin."
       },
       {
         "question": 55,
@@ -6044,7 +6044,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Trong thời kỳ quá độ lên chủ nghĩa xã hội, phát triển kinh tế thị trường định hướng xã hội chủ nghĩa là điều kiện tiên quyết để xây dựng cơ sở hạ tầng và kiến trúc thượng tầng xã hội chủ nghĩa. Kinh tế thị trường tạo ra của cải vật chất, là cơ sở để xây dựng các yếu tố khác của xã hội chủ nghĩa. Các đáp án A và B sai vì chủ quan, duy ý chí và nôn nóng sẽ dẫn đến sai lầm trong quá trình xây dựng chủ nghĩa xã hội. Đáp án D sai vì phát triển kinh tế là yếu tố quyết định."
+        "explanation": "Trong thời kỳ quá độ lên chủ nghĩa xã hội, phát triển kinh tế thị trường định hướng xã hội chủ nghĩa là điều kiện tiên quyết để xây dựng cơ sở hạ tầng và kiến trúc thượng tầng xã hội chủ nghĩa. Kinh tế thị trường tạo ra của cải vật chất, là cơ sở để xây dựng các yếu tố khác của xã hội chủ nghĩa. Các đáp án A và B sai vì chủ quan, duy ý chí và nôn nóng sẽ dẫn đến sai lầm trong quá trình xây dựng chủ nghĩa xã hội. Đáp án D sai vì phát triển kinh tế là yếu tố quyết định."
       },
       {
         "question": 56,
@@ -6068,7 +6068,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Cơ sở hạ tầng trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam gắn liền với cơ cấu kinh tế nhiều thành phần, trong đó kinh tế nhà nước giữ vai trò chủ đạo, là nền tảng để định hướng sự phát triển theo con đường xã hội chủ nghĩa. Các đáp án B, C, và D sai vì vai trò chủ đạo thuộc về kinh tế nhà nước, không phải kinh tế tư nhân hay kinh tế có vốn đầu tư nước ngoài."
+        "explanation": "Cơ sở hạ tầng trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam gắn liền với cơ cấu kinh tế nhiều thành phần, trong đó kinh tế nhà nước giữ vai trò chủ đạo, là nền tảng để định hướng sự phát triển theo con đường xã hội chủ nghĩa. Các đáp án B, C, và D sai vì vai trò chủ đạo thuộc về kinh tế nhà nước, không phải kinh tế tư nhân hay kinh tế có vốn đầu tư nước ngoài."
       },
       {
         "question": 57,
@@ -6092,7 +6092,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Để xây dựng cơ sở hạ tầng và kiến trúc thượng tầng xã hội chủ nghĩa ở Việt Nam, cần tránh khuynh hướng chủ quan duy ý chí, phải tuân theo các quy luật khách quan của sự phát triển kinh tế - xã hội. Các đáp án B, C, và D sai vì chủ quan duy ý chí, mệnh lệnh hành chính, tả khuynh, hữu khuynh đều dẫn đến sai lầm trong quá trình xây dựng chủ nghĩa xã hội."
+        "explanation": "Để xây dựng cơ sở hạ tầng và kiến trúc thượng tầng xã hội chủ nghĩa ở Việt Nam, cần tránh khuynh hướng chủ quan duy ý chí, phải tuân theo các quy luật khách quan của sự phát triển kinh tế - xã hội. Các đáp án B, C, và D sai vì chủ quan duy ý chí, mệnh lệnh hành chính, tả khuynh, hữu khuynh đều dẫn đến sai lầm trong quá trình xây dựng chủ nghĩa xã hội."
       },
       {
         "question": 58,
@@ -6116,7 +6116,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Xây dựng và hoàn thiện kiến trúc thượng tầng xã hội chủ nghĩa ở Việt Nam phải xuất phát từ những đòi hỏi khách quan của sự phát triển kinh tế - xã hội, tích cực khắc phục tàn dư của xã hội cũ, và đánh bại mọi âm mưu chống phá của các thế lực thù địch. Đáp án B sai vì khuynh hướng chủ quan duy ý chí là điều cần phải tránh."
+        "explanation": "Xây dựng và hoàn thiện kiến trúc thượng tầng xã hội chủ nghĩa ở Việt Nam phải xuất phát từ những đòi hỏi khách quan của sự phát triển kinh tế - xã hội, tích cực khắc phục tàn dư của xã hội cũ, và đánh bại mọi âm mưu chống phá của các thế lực thù địch. Đáp án B sai vì khuynh hướng chủ quan duy ý chí là điều cần phải tránh."
       },
       {
         "question": 59,
@@ -6140,7 +6140,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Kiến trúc thượng tầng xã hội chủ nghĩa mang hệ tư tưởng của giai cấp công nhân, thể hiện lợi ích của giai cấp công nhân và nhân dân lao động, hướng tới mục tiêu xây dựng một xã hội công bằng, dân chủ, văn minh. Các đáp án A, C, và D sai vì kiến trúc thượng tầng xã hội chủ nghĩa không mang hệ tư tưởng của giai cấp nông dân, tư sản, hay tất cả các giai cấp."
+        "explanation": "Kiến trúc thượng tầng xã hội chủ nghĩa mang hệ tư tưởng của giai cấp công nhân, thể hiện lợi ích của giai cấp công nhân và nhân dân lao động, hướng tới mục tiêu xây dựng một xã hội công bằng, dân chủ, văn minh. Các đáp án A, C, và D sai vì kiến trúc thượng tầng xã hội chủ nghĩa không mang hệ tư tưởng của giai cấp nông dân, tư sản, hay tất cả các giai cấp."
       },
       {
         "question": 60,
@@ -6164,7 +6164,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Kiến trúc thượng tầng xã hội chủ nghĩa ở Việt Nam có nhiều đặc điểm, bao gồm: có mầm mống từ cuộc đấu tranh của giai cấp vô sản, được củng cố và phát triển dựa trên cơ sở hạ tầng xã hội chủ nghĩa, và tích cực đấu tranh khắc phục tàn dư lạc hậu của xã hội cũ. Do đó, tất cả các đáp án đều đúng."
+        "explanation": "Kiến trúc thượng tầng xã hội chủ nghĩa ở Việt Nam có nhiều đặc điểm, bao gồm: có mầm mống từ cuộc đấu tranh của giai cấp vô sản, được củng cố và phát triển dựa trên cơ sở hạ tầng xã hội chủ nghĩa, và tích cực đấu tranh khắc phục tàn dư lạc hậu của xã hội cũ. Do đó, tất cả các đáp án đều đúng."
       },
       {
         "question": 61,
@@ -6188,7 +6188,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình, cơ sở hạ tầng xã hội chủ nghĩa ở Việt Nam hiện nay vẫn còn tồn tại những mâu thuẫn không đối kháng, đặc biệt là trong quá trình chuyển đổi và phát triển kinh tế nhiều thành phần. Sự khác biệt về lợi ích căn bản giữa các thành phần kinh tế vẫn còn tồn tại, mặc dù không mang tính đối kháng gay gắt như trong xã hội có giai cấp đối kháng.\n\nĐáp án B, C, D sai vì chúng phản ánh đúng thực trạng cơ sở hạ tầng xã hội chủ nghĩa ở Việt Nam, bao gồm sự tồn tại của nhiều thành phần kinh tế, sự đối lập về lợi ích (ở mức độ nhất định), và vai trò chủ đạo của thành phần kinh tế nhà nước."
+        "explanation": "Theo giáo trình, cơ sở hạ tầng xã hội chủ nghĩa ở Việt Nam hiện nay vẫn còn tồn tại những mâu thuẫn không đối kháng, đặc biệt là trong quá trình chuyển đổi và phát triển kinh tế nhiều thành phần. Sự khác biệt về lợi ích căn bản giữa các thành phần kinh tế vẫn còn tồn tại, mặc dù không mang tính đối kháng gay gắt như trong xã hội có giai cấp đối kháng.\n\nĐáp án B, C, D sai vì chúng phản ánh đúng thực trạng cơ sở hạ tầng xã hội chủ nghĩa ở Việt Nam, bao gồm sự tồn tại của nhiều thành phần kinh tế, sự đối lập về lợi ích (ở mức độ nhất định), và vai trò chủ đạo của thành phần kinh tế nhà nước."
       },
       {
         "question": 62,
@@ -6212,7 +6212,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Trong kiến trúc thượng tầng xã hội chủ nghĩa ở Việt Nam, hệ tư tưởng của giai cấp công nhân (chủ nghĩa Mác-Lênin) giữ vai trò chủ đạo, chứ không phải hệ tư tưởng của giai cấp tư sản.\n\nĐáp án A, C, D sai vì chúng đều là những đặc điểm đúng của kiến trúc thượng tầng xã hội chủ nghĩa ở Việt Nam: vai trò chủ đạo của hệ tư tưởng giai cấp công nhân, vai trò quản lý của nhà nước xã hội chủ nghĩa, và sự phát triển phong phú của các hình thái ý thức xã hội khác."
+        "explanation": "Trong kiến trúc thượng tầng xã hội chủ nghĩa ở Việt Nam, hệ tư tưởng của giai cấp công nhân (chủ nghĩa Mác-Lênin) giữ vai trò chủ đạo, chứ không phải hệ tư tưởng của giai cấp tư sản.\n\nĐáp án A, C, D sai vì chúng đều là những đặc điểm đúng của kiến trúc thượng tầng xã hội chủ nghĩa ở Việt Nam: vai trò chủ đạo của hệ tư tưởng giai cấp công nhân, vai trò quản lý của nhà nước xã hội chủ nghĩa, và sự phát triển phong phú của các hình thái ý thức xã hội khác."
       },
       {
         "question": 63,
@@ -6236,7 +6236,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Mối quan hệ biện chứng giữa cơ sở hạ tầng và kiến trúc thượng tầng thể hiện ở chỗ kinh tế (cơ sở hạ tầng) là yếu tố quyết định chính trị (kiến trúc thượng tầng), nhưng chính trị cũng có tác động trở lại đối với kinh tế, có thể thúc đẩy hoặc kìm hãm sự phát triển kinh tế.\n\nĐáp án B, C, D sai vì chúng thể hiện sự tuyệt đối hóa một trong hai yếu tố (kinh tế hoặc chính trị) và phủ nhận vai trò của yếu tố còn lại, đi ngược lại quan điểm duy vật biện chứng."
+        "explanation": "Mối quan hệ biện chứng giữa cơ sở hạ tầng và kiến trúc thượng tầng thể hiện ở chỗ kinh tế (cơ sở hạ tầng) là yếu tố quyết định chính trị (kiến trúc thượng tầng), nhưng chính trị cũng có tác động trở lại đối với kinh tế, có thể thúc đẩy hoặc kìm hãm sự phát triển kinh tế.\n\nĐáp án B, C, D sai vì chúng thể hiện sự tuyệt đối hóa một trong hai yếu tố (kinh tế hoặc chính trị) và phủ nhận vai trò của yếu tố còn lại, đi ngược lại quan điểm duy vật biện chứng."
       },
       {
         "question": 64,
@@ -6260,7 +6260,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Tuyệt đối hóa kinh tế, hạ thấp và phủ nhận yếu tố chính trị là biểu hiện của quan điểm duy vật tầm thường (hay còn gọi là chủ nghĩa duy kinh tế). Quan điểm này chỉ nhấn mạnh vai trò quyết định của kinh tế mà bỏ qua vai trò tác động trở lại của các yếu tố chính trị, tư tưởng, văn hóa.\n\nĐáp án A, B, C sai vì chúng là những quan điểm đúng đắn trong nhận thức và thực tiễn: quan điểm lịch sử-cụ thể, quan điểm phát triển, và quan điểm toàn diện."
+        "explanation": "Tuyệt đối hóa kinh tế, hạ thấp và phủ nhận yếu tố chính trị là biểu hiện của quan điểm duy vật tầm thường (hay còn gọi là chủ nghĩa duy kinh tế). Quan điểm này chỉ nhấn mạnh vai trò quyết định của kinh tế mà bỏ qua vai trò tác động trở lại của các yếu tố chính trị, tư tưởng, văn hóa.\n\nĐáp án A, B, C sai vì chúng là những quan điểm đúng đắn trong nhận thức và thực tiễn: quan điểm lịch sử-cụ thể, quan điểm phát triển, và quan điểm toàn diện."
       },
       {
         "question": 65,
@@ -6284,7 +6284,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo đường lối của Đảng Cộng sản Việt Nam, con đường đi lên chủ nghĩa xã hội ở Việt Nam là sự phát triển quá độ lên chủ nghĩa xã hội, bỏ qua chế độ tư bản chủ nghĩa. Điều này được khẳng định trong nhiều văn kiện của Đảng.\n\nĐáp án A, C, D sai vì Việt Nam không trải qua các chế độ phong kiến, cộng sản chủ nghĩa, hay chiếm hữu nô lệ trước khi lựa chọn con đường xã hội chủ nghĩa."
+        "explanation": "Theo đường lối của Đảng Cộng sản Việt Nam, con đường đi lên chủ nghĩa xã hội ở Việt Nam là sự phát triển quá độ lên chủ nghĩa xã hội, bỏ qua chế độ tư bản chủ nghĩa. Điều này được khẳng định trong nhiều văn kiện của Đảng.\n\nĐáp án A, C, D sai vì Việt Nam không trải qua các chế độ phong kiến, cộng sản chủ nghĩa, hay chiếm hữu nô lệ trước khi lựa chọn con đường xã hội chủ nghĩa."
       },
       {
         "question": 66,
@@ -6308,7 +6308,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. \"Bỏ qua chế độ tư bản chủ nghĩa\" ở đây được hiểu là bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa. Việt Nam không đi theo con đường phát triển tư bản chủ nghĩa rồi mới lên xã hội chủ nghĩa.\n\nĐáp án B sai vì Việt Nam kế thừa có chọn lọc những thành tựu của chủ nghĩa tư bản. Đáp án C sai vì Việt Nam không kế thừa tất cả các đặc điểm của chủ nghĩa tư bản, đặc biệt là những đặc điểm mang tính bóc lột và bất công. Đáp án D sai vì chỉ có A là đúng."
+        "explanation": "\"Bỏ qua chế độ tư bản chủ nghĩa\" ở đây được hiểu là bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa. Việt Nam không đi theo con đường phát triển tư bản chủ nghĩa rồi mới lên xã hội chủ nghĩa.\n\nĐáp án B sai vì Việt Nam kế thừa có chọn lọc những thành tựu của chủ nghĩa tư bản. Đáp án C sai vì Việt Nam không kế thừa tất cả các đặc điểm của chủ nghĩa tư bản, đặc biệt là những đặc điểm mang tính bóc lột và bất công. Đáp án D sai vì chỉ có A là đúng."
       },
       {
         "question": 67,
@@ -6332,7 +6332,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Sự tác động của kiến trúc thượng tầng đối với cơ sở hạ tầng trước hết và chủ yếu thông qua đường lối của Đảng và chính sách của nhà nước. Đường lối, chính sách là sự thể chế hóa hệ tư tưởng, quan điểm chính trị của giai cấp cầm quyền, và có vai trò định hướng, điều chỉnh sự phát triển của cơ sở hạ tầng.\n\nĐáp án B, C, D sai vì văn hóa xã hội, nghệ thuật, tôn giáo, và ý thức đạo đức cũng có tác động đến cơ sở hạ tầng, nhưng không phải là yếu tố tác động trực tiếp và chủ yếu như đường lối, chính sách."
+        "explanation": "Sự tác động của kiến trúc thượng tầng đối với cơ sở hạ tầng trước hết và chủ yếu thông qua đường lối của Đảng và chính sách của nhà nước. Đường lối, chính sách là sự thể chế hóa hệ tư tưởng, quan điểm chính trị của giai cấp cầm quyền, và có vai trò định hướng, điều chỉnh sự phát triển của cơ sở hạ tầng.\n\nĐáp án B, C, D sai vì văn hóa xã hội, nghệ thuật, tôn giáo, và ý thức đạo đức cũng có tác động đến cơ sở hạ tầng, nhưng không phải là yếu tố tác động trực tiếp và chủ yếu như đường lối, chính sách."
       },
       {
         "question": 68,
@@ -6356,7 +6356,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo chủ nghĩa duy vật lịch sử, hình thái kinh tế - xã hội là một hệ thống toàn diện, bao gồm lực lượng sản xuất và quan hệ sản xuất (hợp thành cơ cấu kinh tế của xã hội), và kiến trúc thượng tầng được xây dựng trên cơ sở hạ tầng kinh tế đó.\n\nĐáp án A, C, D sai vì chúng chỉ liệt kê một số yếu tố cấu thành hình thái kinh tế - xã hội mà bỏ qua các yếu tố khác, không phản ánh đầy đủ tính toàn diện của hình thái kinh tế - xã hội."
+        "explanation": "Theo chủ nghĩa duy vật lịch sử, hình thái kinh tế - xã hội là một hệ thống toàn diện, bao gồm lực lượng sản xuất và quan hệ sản xuất (hợp thành cơ cấu kinh tế của xã hội), và kiến trúc thượng tầng được xây dựng trên cơ sở hạ tầng kinh tế đó.\n\nĐáp án A, C, D sai vì chúng chỉ liệt kê một số yếu tố cấu thành hình thái kinh tế - xã hội mà bỏ qua các yếu tố khác, không phản ánh đầy đủ tính toàn diện của hình thái kinh tế - xã hội."
       },
       {
         "question": 69,
@@ -6380,7 +6380,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Câu nói của C.Mác khẳng định rằng sự phát triển của các hình thái kinh tế - xã hội diễn ra theo những quy luật khách quan, không phụ thuộc vào ý muốn chủ quan của con người. Quá trình này mang tính tất yếu, tương tự như quá trình phát triển của giới tự nhiên.\n\nĐáp án A sai vì sự phát triển của các hình thái kinh tế - xã hội không đồng nhất với sự phát triển của giới tự nhiên. Đáp án C sai vì phủ nhận tính khách quan của quy luật phát triển xã hội. Đáp án D sai vì sự phát triển của các hình thái kinh tế - xã hội chịu ảnh hưởng bởi điều kiện lịch sử cụ thể của mỗi quốc gia."
+        "explanation": "Câu nói của C.Mác khẳng định rằng sự phát triển của các hình thái kinh tế - xã hội diễn ra theo những quy luật khách quan, không phụ thuộc vào ý muốn chủ quan của con người. Quá trình này mang tính tất yếu, tương tự như quá trình phát triển của giới tự nhiên.\n\nĐáp án A sai vì sự phát triển của các hình thái kinh tế - xã hội không đồng nhất với sự phát triển của giới tự nhiên. Đáp án C sai vì phủ nhận tính khách quan của quy luật phát triển xã hội. Đáp án D sai vì sự phát triển của các hình thái kinh tế - xã hội chịu ảnh hưởng bởi điều kiện lịch sử cụ thể của mỗi quốc gia."
       },
       {
         "question": 70,
@@ -6404,7 +6404,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Quy luật khách quan, đặc biệt là quy luật về sự phù hợp của quan hệ sản xuất với trình độ phát triển của lực lượng sản xuất, là nhân tố quyết định nhất đến xu hướng phát triển của các hình thái kinh tế - xã hội. Các hình thái kinh tế - xã hội vận động và phát triển theo những quy luật vốn có của nó.\n\nĐáp án A, B, D sai vì ý thức chủ quan của giai cấp nắm quyền lực nhà nước, ý chí của nhân dân, và sự tác động của tình hình quốc tế cũng có ảnh hưởng đến sự phát triển của các hình thái kinh tế - xã hội, nhưng không phải là yếu tố quyết định nhất."
+        "explanation": "Quy luật khách quan, đặc biệt là quy luật về sự phù hợp của quan hệ sản xuất với trình độ phát triển của lực lượng sản xuất, là nhân tố quyết định nhất đến xu hướng phát triển của các hình thái kinh tế - xã hội. Các hình thái kinh tế - xã hội vận động và phát triển theo những quy luật vốn có của nó.\n\nĐáp án A, B, D sai vì ý thức chủ quan của giai cấp nắm quyền lực nhà nước, ý chí của nhân dân, và sự tác động của tình hình quốc tế cũng có ảnh hưởng đến sự phát triển của các hình thái kinh tế - xã hội, nhưng không phải là yếu tố quyết định nhất."
       },
       {
         "question": 71,
@@ -6428,7 +6428,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình, cách viết chính xác và đầy đủ là \"Hình thái kinh tế - xã hội\". Các đáp án còn lại sử dụng các cách viết không chính xác hoặc đảo lộn trật tự."
+        "explanation": "Theo giáo trình, cách viết chính xác và đầy đủ là \"Hình thái kinh tế - xã hội\". Các đáp án còn lại sử dụng các cách viết không chính xác hoặc đảo lộn trật tự."
       },
       {
         "question": 72,
@@ -6452,7 +6452,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Phạm trù hình thái kinh tế - xã hội được sử dụng để phân tích và so sánh các xã hội trong từng giai đoạn lịch sử cụ thể, giúp nhận diện đặc trưng của mỗi giai đoạn. Các đáp án còn lại chỉ đề cập đến một số hình thái cụ thể, không bao quát được phạm vi của phạm trù."
+        "explanation": "Phạm trù hình thái kinh tế - xã hội được sử dụng để phân tích và so sánh các xã hội trong từng giai đoạn lịch sử cụ thể, giúp nhận diện đặc trưng của mỗi giai đoạn. Các đáp án còn lại chỉ đề cập đến một số hình thái cụ thể, không bao quát được phạm vi của phạm trù."
       },
       {
         "question": 73,
@@ -6476,7 +6476,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo quan điểm của chủ nghĩa duy vật lịch sử, lịch sử loài người trải qua các hình thái kinh tế - xã hội theo trình tự: Cộng sản nguyên thủy, Chiếm hữu nô lệ, Phong kiến, Tư bản chủ nghĩa, Cộng sản chủ nghĩa. Các đáp án còn lại đưa ra trình tự sai lệch."
+        "explanation": "Theo quan điểm của chủ nghĩa duy vật lịch sử, lịch sử loài người trải qua các hình thái kinh tế - xã hội theo trình tự: Cộng sản nguyên thủy, Chiếm hữu nô lệ, Phong kiến, Tư bản chủ nghĩa, Cộng sản chủ nghĩa. Các đáp án còn lại đưa ra trình tự sai lệch."
       },
       {
         "question": 74,
@@ -6500,7 +6500,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Sự ra đời của hình thái kinh tế - xã hội cộng sản chủ nghĩa đòi hỏi lực lượng sản xuất phát triển ở trình độ cao, mang tính xã hội hóa sâu sắc, và giai cấp vô sản phải là lực lượng tiên tiến, cách mạng. Các đáp án còn lại đề cập đến tính chất tư nhân hóa của lực lượng sản xuất hoặc vai trò của giai cấp tư sản, điều này không phù hợp với bản chất của chủ nghĩa cộng sản."
+        "explanation": "Sự ra đời của hình thái kinh tế - xã hội cộng sản chủ nghĩa đòi hỏi lực lượng sản xuất phát triển ở trình độ cao, mang tính xã hội hóa sâu sắc, và giai cấp vô sản phải là lực lượng tiên tiến, cách mạng. Các đáp án còn lại đề cập đến tính chất tư nhân hóa của lực lượng sản xuất hoặc vai trò của giai cấp tư sản, điều này không phù hợp với bản chất của chủ nghĩa cộng sản."
       },
       {
         "question": 75,
@@ -6524,7 +6524,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Con đường phát triển quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa ở Việt Nam phù hợp với tính quy luật khách quan của sự phát triển xã hội, trong đó có khả năng bỏ qua một hoặc vài hình thái kinh tế - xã hội nhất định trong những điều kiện lịch sử cụ thể. Các đáp án còn lại không liên quan trực tiếp đến vấn đề này."
+        "explanation": "Con đường phát triển quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa ở Việt Nam phù hợp với tính quy luật khách quan của sự phát triển xã hội, trong đó có khả năng bỏ qua một hoặc vài hình thái kinh tế - xã hội nhất định trong những điều kiện lịch sử cụ thể. Các đáp án còn lại không liên quan trực tiếp đến vấn đề này."
       },
       {
         "question": 76,
@@ -6548,7 +6548,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Nguyên nhân trực tiếp dẫn đến sự ra đời của giai cấp là sự xuất hiện chế độ tư hữu về tư liệu sản xuất. Khi một bộ phận xã hội chiếm hữu tư liệu sản xuất, sẽ hình thành giai cấp thống trị và giai cấp bị trị. Các đáp án còn lại chỉ là những yếu tố gián tiếp hoặc hệ quả."
+        "explanation": "Nguyên nhân trực tiếp dẫn đến sự ra đời của giai cấp là sự xuất hiện chế độ tư hữu về tư liệu sản xuất. Khi một bộ phận xã hội chiếm hữu tư liệu sản xuất, sẽ hình thành giai cấp thống trị và giai cấp bị trị. Các đáp án còn lại chỉ là những yếu tố gián tiếp hoặc hệ quả."
       },
       {
         "question": 77,
@@ -6572,7 +6572,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Nguyên nhân sâu xa của sự ra đời giai cấp là do sự phát triển của lực lượng sản xuất. Khi lực lượng sản xuất phát triển đến một trình độ nhất định, năng suất lao động tăng lên, tạo ra của cải dư thừa, dẫn đến sự phân hóa giàu nghèo và hình thành các giai cấp. Các đáp án còn lại chỉ là những yếu tố bề mặt hoặc hệ quả."
+        "explanation": "Nguyên nhân sâu xa của sự ra đời giai cấp là do sự phát triển của lực lượng sản xuất. Khi lực lượng sản xuất phát triển đến một trình độ nhất định, năng suất lao động tăng lên, tạo ra của cải dư thừa, dẫn đến sự phân hóa giàu nghèo và hình thành các giai cấp. Các đáp án còn lại chỉ là những yếu tố bề mặt hoặc hệ quả."
       },
       {
         "question": 78,
@@ -6596,7 +6596,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Nguyên nhân sâu xa của sự xuất hiện giai cấp trong xã hội là do sự phát triển của lực lượng sản xuất. Sự phát triển này dẫn đến sự thay đổi trong quan hệ sản xuất, tạo ra của cải dư thừa và sự phân công lao động, từ đó hình thành các giai cấp khác nhau trong xã hội. Các đáp án còn lại không phải là nguyên nhân gốc rễ."
+        "explanation": "Nguyên nhân sâu xa của sự xuất hiện giai cấp trong xã hội là do sự phát triển của lực lượng sản xuất. Sự phát triển này dẫn đến sự thay đổi trong quan hệ sản xuất, tạo ra của cải dư thừa và sự phân công lao động, từ đó hình thành các giai cấp khác nhau trong xã hội. Các đáp án còn lại không phải là nguyên nhân gốc rễ."
       },
       {
         "question": 79,
@@ -6620,7 +6620,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo triết học Mác-Lênin, đấu tranh của giai cấp vô sản trải qua hai giai đoạn cơ bản: trước khi giành chính quyền (đấu tranh để lật đổ chế độ cũ) và sau khi giành chính quyền (đấu tranh để xây dựng và bảo vệ chế độ mới). Các đáp án còn lại chỉ đề cập đến một khía cạnh cụ thể của đấu tranh giai cấp."
+        "explanation": "Theo triết học Mác-Lênin, đấu tranh của giai cấp vô sản trải qua hai giai đoạn cơ bản: trước khi giành chính quyền (đấu tranh để lật đổ chế độ cũ) và sau khi giành chính quyền (đấu tranh để xây dựng và bảo vệ chế độ mới). Các đáp án còn lại chỉ đề cập đến một khía cạnh cụ thể của đấu tranh giai cấp."
       },
       {
         "question": 80,
@@ -6644,7 +6644,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Mâu thuẫn đối kháng giữa các giai cấp xuất phát từ sự đối lập về lợi ích cơ bản, đặc biệt là lợi ích kinh tế. Các giai cấp khác nhau có vị trí khác nhau trong quan hệ sản xuất, dẫn đến lợi ích kinh tế đối lập và xung đột. Các đáp án còn lại chỉ là những yếu tố thứ yếu hoặc biểu hiện của mâu thuẫn giai cấp."
+        "explanation": "Mâu thuẫn đối kháng giữa các giai cấp xuất phát từ sự đối lập về lợi ích cơ bản, đặc biệt là lợi ích kinh tế. Các giai cấp khác nhau có vị trí khác nhau trong quan hệ sản xuất, dẫn đến lợi ích kinh tế đối lập và xung đột. Các đáp án còn lại chỉ là những yếu tố thứ yếu hoặc biểu hiện của mâu thuẫn giai cấp."
       },
       {
         "question": 81,
@@ -6668,7 +6668,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình, thực chất của quan hệ giai cấp trong xã hội có giai cấp đối kháng là quan hệ giữa giai cấp bóc lột và giai cấp bị bóc lột, dựa trên sự chiếm đoạt giá trị thặng dư do giai cấp bị bóc lột tạo ra (Giáo trình Triết học Mác-Lênin, chương về Học thuyết giai cấp và đấu tranh giai cấp). Các đáp án còn lại sai vì: B chỉ đề cập đến sự khác biệt về kinh tế mà không nói rõ bản chất bóc lột; C và D không phản ánh đúng mối quan hệ đối kháng cơ bản trong xã hội có giai cấp."
+        "explanation": "Theo giáo trình, thực chất của quan hệ giai cấp trong xã hội có giai cấp đối kháng là quan hệ giữa giai cấp bóc lột và giai cấp bị bóc lột, dựa trên sự chiếm đoạt giá trị thặng dư do giai cấp bị bóc lột tạo ra (Giáo trình Triết học Mác-Lênin, chương về Học thuyết giai cấp và đấu tranh giai cấp). Các đáp án còn lại sai vì: B chỉ đề cập đến sự khác biệt về kinh tế mà không nói rõ bản chất bóc lột; C và D không phản ánh đúng mối quan hệ đối kháng cơ bản trong xã hội có giai cấp."
       },
       {
         "question": 82,
@@ -6692,7 +6692,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo chủ nghĩa duy vật lịch sử, quần chúng nhân dân là lực lượng cơ bản tạo nên lịch sử, bởi vì họ là người trực tiếp sản xuất ra của cải vật chất và tinh thần, đồng thời là động lực chính của các cuộc cách mạng xã hội (Giáo trình Triết học Mác-Lênin, chương về Vai trò của quần chúng nhân dân và cá nhân trong lịch sử). Các đáp án còn lại sai vì: A và D đề cao vai trò của thiểu số; B không đủ chính xác vì chỉ đề cập đến một số cá nhân."
+        "explanation": "Theo chủ nghĩa duy vật lịch sử, quần chúng nhân dân là lực lượng cơ bản tạo nên lịch sử, bởi vì họ là người trực tiếp sản xuất ra của cải vật chất và tinh thần, đồng thời là động lực chính của các cuộc cách mạng xã hội (Giáo trình Triết học Mác-Lênin, chương về Vai trò của quần chúng nhân dân và cá nhân trong lịch sử). Các đáp án còn lại sai vì: A và D đề cao vai trò của thiểu số; B không đủ chính xác vì chỉ đề cập đến một số cá nhân."
       },
       {
         "question": 83,
@@ -6716,7 +6716,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Sự phân chia giai cấp bắt đầu từ xã hội chiếm hữu nô lệ, khi có sự xuất hiện của tư hữu và sự phân công lao động xã hội dẫn đến một bộ phận chiếm đoạt sức lao động của bộ phận khác (Giáo trình Triết học Mác-Lênin, chương về Nguồn gốc và bản chất của giai cấp). Các đáp án còn lại sai vì: A là xã hội chưa có giai cấp; C và D là các hình thái xã hội đã có giai cấp."
+        "explanation": "Sự phân chia giai cấp bắt đầu từ xã hội chiếm hữu nô lệ, khi có sự xuất hiện của tư hữu và sự phân công lao động xã hội dẫn đến một bộ phận chiếm đoạt sức lao động của bộ phận khác (Giáo trình Triết học Mác-Lênin, chương về Nguồn gốc và bản chất của giai cấp). Các đáp án còn lại sai vì: A là xã hội chưa có giai cấp; C và D là các hình thái xã hội đã có giai cấp."
       },
       {
         "question": 84,
@@ -6740,7 +6740,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Đấu tranh giai cấp là một động lực quan trọng của sự phát triển xã hội trong xã hội có giai cấp đối kháng, vì nó thúc đẩy sự thay đổi về kinh tế, chính trị và xã hội (Giáo trình Triết học Mác-Lênin, chương về Đấu tranh giai cấp). Các đáp án còn lại sai vì: A quá chung chung; C chỉ đề cập đến một khía cạnh; D chỉ là một kết quả có thể có của đấu tranh giai cấp."
+        "explanation": "Đấu tranh giai cấp là một động lực quan trọng của sự phát triển xã hội trong xã hội có giai cấp đối kháng, vì nó thúc đẩy sự thay đổi về kinh tế, chính trị và xã hội (Giáo trình Triết học Mác-Lênin, chương về Đấu tranh giai cấp). Các đáp án còn lại sai vì: A quá chung chung; C chỉ đề cập đến một khía cạnh; D chỉ là một kết quả có thể có của đấu tranh giai cấp."
       },
       {
         "question": 85,
@@ -6764,7 +6764,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Hình thức đấu tranh đầu tiên của giai cấp vô sản chống giai cấp tư sản là đấu tranh kinh tế, thể hiện qua các cuộc đình công, bãi công đòi tăng lương, giảm giờ làm (Giáo trình Triết học Mác-Lênin, chương về Đấu tranh giai cấp của giai cấp vô sản). Các đáp án còn lại sai vì: A, C và D là các hình thức đấu tranh phát triển hơn, đòi hỏi giai cấp vô sản phải có trình độ giác ngộ và tổ chức cao hơn."
+        "explanation": "Hình thức đấu tranh đầu tiên của giai cấp vô sản chống giai cấp tư sản là đấu tranh kinh tế, thể hiện qua các cuộc đình công, bãi công đòi tăng lương, giảm giờ làm (Giáo trình Triết học Mác-Lênin, chương về Đấu tranh giai cấp của giai cấp vô sản). Các đáp án còn lại sai vì: A, C và D là các hình thức đấu tranh phát triển hơn, đòi hỏi giai cấp vô sản phải có trình độ giác ngộ và tổ chức cao hơn."
       },
       {
         "question": 86,
@@ -6788,7 +6788,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Bộ tộc là hình thức cộng đồng người xuất hiện khi xã hội loài người đã bắt đầu có sự phân chia thành giai cấp, là sự liên kết của nhiều bộ lạc có chung nguồn gốc, ngôn ngữ và văn hóa (Giáo trình Triết học Mác-Lênin, chương về Dân tộc). Các đáp án còn lại sai vì: A và B là các hình thức cộng đồng người thời kỳ công xã nguyên thủy; D là hình thức cộng đồng người phát triển cao hơn."
+        "explanation": "Bộ tộc là hình thức cộng đồng người xuất hiện khi xã hội loài người đã bắt đầu có sự phân chia thành giai cấp, là sự liên kết của nhiều bộ lạc có chung nguồn gốc, ngôn ngữ và văn hóa (Giáo trình Triết học Mác-Lênin, chương về Dân tộc). Các đáp án còn lại sai vì: A và B là các hình thức cộng đồng người thời kỳ công xã nguyên thủy; D là hình thức cộng đồng người phát triển cao hơn."
       },
       {
         "question": 87,
@@ -6812,7 +6812,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, nội dung của cuộc đấu tranh giai cấp bao gồm tất cả các khía cạnh: độc lập dân tộc, xây dựng xã hội dân giàu, nước mạnh, dân chủ, công bằng, văn minh, và hướng tới mục tiêu chủ nghĩa xã hội (Giáo trình Triết học Mác-Lênin, chương về Thời kỳ quá độ lên chủ nghĩa xã hội)."
+        "explanation": "Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, nội dung của cuộc đấu tranh giai cấp bao gồm tất cả các khía cạnh: độc lập dân tộc, xây dựng xã hội dân giàu, nước mạnh, dân chủ, công bằng, văn minh, và hướng tới mục tiêu chủ nghĩa xã hội (Giáo trình Triết học Mác-Lênin, chương về Thời kỳ quá độ lên chủ nghĩa xã hội)."
       },
       {
         "question": 88,
@@ -6836,7 +6836,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Thứ tự phát triển của các hình thức cộng đồng người trong lịch sử là: Thị tộc - Bộ lạc - Bộ tộc - Dân tộc. Thị tộc là hình thức cộng đồng người đầu tiên, dựa trên quan hệ huyết thống; bộ lạc là sự liên kết của nhiều thị tộc; bộ tộc là sự liên kết của nhiều bộ lạc; dân tộc là hình thức cộng đồng người phát triển cao nhất, dựa trên sự thống nhất về lãnh thổ, kinh tế, văn hóa, ngôn ngữ (Giáo trình Triết học Mác-Lênin, chương về Dân tộc)."
+        "explanation": "Thứ tự phát triển của các hình thức cộng đồng người trong lịch sử là: Thị tộc - Bộ lạc - Bộ tộc - Dân tộc. Thị tộc là hình thức cộng đồng người đầu tiên, dựa trên quan hệ huyết thống; bộ lạc là sự liên kết của nhiều thị tộc; bộ tộc là sự liên kết của nhiều bộ lạc; dân tộc là hình thức cộng đồng người phát triển cao nhất, dựa trên sự thống nhất về lãnh thổ, kinh tế, văn hóa, ngôn ngữ (Giáo trình Triết học Mác-Lênin, chương về Dân tộc)."
       },
       {
         "question": 89,
@@ -6860,7 +6860,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Tính chất của dân tộc được quy định bởi phương thức sản xuất thống trị, vì phương thức sản xuất quyết định cơ cấu kinh tế - xã hội, văn hóa, và hệ tư tưởng của dân tộc (Giáo trình Triết học Mác-Lênin, chương về Dân tộc). Các đáp án còn lại sai vì: B, C và D chỉ là các yếu tố ảnh hưởng đến sự hình thành và phát triển của dân tộc, chứ không quyết định tính chất của nó."
+        "explanation": "Tính chất của dân tộc được quy định bởi phương thức sản xuất thống trị, vì phương thức sản xuất quyết định cơ cấu kinh tế - xã hội, văn hóa, và hệ tư tưởng của dân tộc (Giáo trình Triết học Mác-Lênin, chương về Dân tộc). Các đáp án còn lại sai vì: B, C và D chỉ là các yếu tố ảnh hưởng đến sự hình thành và phát triển của dân tộc, chứ không quyết định tính chất của nó."
       },
       {
         "question": 90,
@@ -6884,7 +6884,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Cộng đồng kinh tế là hình thức liên hệ quan trọng nhất quy định đặc trưng của cộng đồng dân tộc, vì nó tạo ra sự thống nhất về lợi ích kinh tế, sự phân công lao động xã hội, và sự trao đổi hàng hóa, dịch vụ trong phạm vi dân tộc (Giáo trình Triết học Mác-Lênin, chương về Dân tộc). Các đáp án còn lại sai vì: A, C và D là các yếu tố cần thiết nhưng không đủ để tạo nên đặc trưng của dân tộc."
+        "explanation": "Cộng đồng kinh tế là hình thức liên hệ quan trọng nhất quy định đặc trưng của cộng đồng dân tộc, vì nó tạo ra sự thống nhất về lợi ích kinh tế, sự phân công lao động xã hội, và sự trao đổi hàng hóa, dịch vụ trong phạm vi dân tộc (Giáo trình Triết học Mác-Lênin, chương về Dân tộc). Các đáp án còn lại sai vì: A, C và D là các yếu tố cần thiết nhưng không đủ để tạo nên đặc trưng của dân tộc."
       },
       {
         "question": 91,
@@ -6908,7 +6908,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình Triết học Mác-Lênin, nguyên nhân sâu xa của sự xuất hiện nhà nước là do sự phát triển của lực lượng sản xuất, dẫn đến chế độ tư hữu và phân chia giai cấp. Các đáp án khác (B, C, D) chỉ là những biểu hiện hoặc hệ quả của nguyên nhân sâu xa này. Cụ thể, mâu thuẫn giai cấp và đấu tranh giai cấp (B, C) là kết quả của chế độ tư hữu (D), mà chế độ tư hữu lại bắt nguồn từ sự phát triển của lực lượng sản xuất (A)."
+        "explanation": "Theo giáo trình Triết học Mác-Lênin, nguyên nhân sâu xa của sự xuất hiện nhà nước là do sự phát triển của lực lượng sản xuất, dẫn đến chế độ tư hữu và phân chia giai cấp. Các đáp án khác (B, C, D) chỉ là những biểu hiện hoặc hệ quả của nguyên nhân sâu xa này. Cụ thể, mâu thuẫn giai cấp và đấu tranh giai cấp (B, C) là kết quả của chế độ tư hữu (D), mà chế độ tư hữu lại bắt nguồn từ sự phát triển của lực lượng sản xuất (A)."
       },
       {
         "question": 92,
@@ -6932,7 +6932,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Bản chất của nhà nước, theo quan điểm Mác-Lênin, là một tổ chức chính trị của một giai cấp thống trị về mặt kinh tế, nhằm bảo vệ trật tự hiện hành và đàn áp sự phản kháng của các giai cấp khác. Các đáp án khác (A, C, D) không đầy đủ hoặc chính xác. Đáp án A thiếu yếu tố giai cấp thống trị về kinh tế. Đáp án C sai vì nhà nước không đàn áp *tất cả* sự phản kháng, mà chủ yếu là sự phản kháng đe dọa trật tự do giai cấp thống trị thiết lập. Đáp án D quá chung chung, không thể hiện bản chất giai cấp."
+        "explanation": "Bản chất của nhà nước, theo quan điểm Mác-Lênin, là một tổ chức chính trị của một giai cấp thống trị về mặt kinh tế, nhằm bảo vệ trật tự hiện hành và đàn áp sự phản kháng của các giai cấp khác. Các đáp án khác (A, C, D) không đầy đủ hoặc chính xác. Đáp án A thiếu yếu tố giai cấp thống trị về kinh tế. Đáp án C sai vì nhà nước không đàn áp *tất cả* sự phản kháng, mà chủ yếu là sự phản kháng đe dọa trật tự do giai cấp thống trị thiết lập. Đáp án D quá chung chung, không thể hiện bản chất giai cấp."
       },
       {
         "question": 93,
@@ -6956,7 +6956,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Cách mạng xã hội, theo nghĩa rộng, là sự biến đổi có tính chất bước ngoặt và căn bản về chất trong toàn bộ các lĩnh vực của đời sống xã hội, là phương thức chuyển từ một hình thái kinh tế - xã hội lỗi thời lên một hình thái kinh tế - xã hội mới ở trình độ phát triển cao hơn. Các đáp án khác (A, B, D) chỉ đề cập đến những thay đổi cục bộ hoặc phiến diện, không phản ánh bản chất toàn diện và sâu sắc của cách mạng xã hội."
+        "explanation": "Cách mạng xã hội, theo nghĩa rộng, là sự biến đổi có tính chất bước ngoặt và căn bản về chất trong toàn bộ các lĩnh vực của đời sống xã hội, là phương thức chuyển từ một hình thái kinh tế - xã hội lỗi thời lên một hình thái kinh tế - xã hội mới ở trình độ phát triển cao hơn. Các đáp án khác (A, B, D) chỉ đề cập đến những thay đổi cục bộ hoặc phiến diện, không phản ánh bản chất toàn diện và sâu sắc của cách mạng xã hội."
       },
       {
         "question": 94,
@@ -6980,7 +6980,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo chủ nghĩa duy vật lịch sử, đối tượng của cách mạng xã hội là những giai cấp và những lực lượng đối lập cần phải đánh đổ của cách mạng. Đây là những lực lượng cản trở sự phát triển của xã hội và cần bị thay thế bằng một lực lượng tiến bộ hơn. Các đáp án khác (A, B, D) không chính xác vì không phản ánh đúng vai trò của đối tượng cách mạng trong việc thay đổi trật tự xã hội."
+        "explanation": "Theo chủ nghĩa duy vật lịch sử, đối tượng của cách mạng xã hội là những giai cấp và những lực lượng đối lập cần phải đánh đổ của cách mạng. Đây là những lực lượng cản trở sự phát triển của xã hội và cần bị thay thế bằng một lực lượng tiến bộ hơn. Các đáp án khác (A, B, D) không chính xác vì không phản ánh đúng vai trò của đối tượng cách mạng trong việc thay đổi trật tự xã hội."
       },
       {
         "question": 95,
@@ -7004,7 +7004,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Vào nửa đầu thế kỷ XX, đối tượng mà cách mạng Việt Nam cần phải lật đổ là thực dân Pháp và địa chủ phong kiến. Đây là hai lực lượng áp bức, bóc lột chính, kìm hãm sự phát triển của xã hội Việt Nam. Các đáp án khác (B, C, D) không chính xác vì xác định sai đối tượng chính của cách mạng."
+        "explanation": "Vào nửa đầu thế kỷ XX, đối tượng mà cách mạng Việt Nam cần phải lật đổ là thực dân Pháp và địa chủ phong kiến. Đây là hai lực lượng áp bức, bóc lột chính, kìm hãm sự phát triển của xã hội Việt Nam. Các đáp án khác (B, C, D) không chính xác vì xác định sai đối tượng chính của cách mạng."
       },
       {
         "question": 96,
@@ -7028,7 +7028,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Sau khi phân tích về quy luật phát triển không đồng đều của các nước đế quốc đầu thế kỷ XX, Lenin đã chỉ ra rằng cách mạng xã hội có thể xảy ra và thành công ở các nước tư bản trung bình, thậm chí chưa trải qua tư bản chủ nghĩa, nơi mà mâu thuẫn xã hội gay gắt nhất. Các đáp án khác (A, C, D) không chính xác vì giới hạn phạm vi cách mạng chỉ ở các nước tư bản phát triển cao hoặc một số khu vực nhất định."
+        "explanation": "Sau khi phân tích về quy luật phát triển không đồng đều của các nước đế quốc đầu thế kỷ XX, Lenin đã chỉ ra rằng cách mạng xã hội có thể xảy ra và thành công ở các nước tư bản trung bình, thậm chí chưa trải qua tư bản chủ nghĩa, nơi mà mâu thuẫn xã hội gay gắt nhất. Các đáp án khác (A, C, D) không chính xác vì giới hạn phạm vi cách mạng chỉ ở các nước tư bản phát triển cao hoặc một số khu vực nhất định."
       },
       {
         "question": 97,
@@ -7052,7 +7052,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Bản chất của nhà nước xã hội chủ nghĩa Việt Nam là của nhân dân, do nhân dân và vì nhân dân. Điều này thể hiện tính dân chủ và phục vụ lợi ích của toàn xã hội. Các đáp án khác (B, C, D) không chính xác vì chỉ đề cập đến lợi ích của một giai cấp hoặc một nhóm người nhất định."
+        "explanation": "Bản chất của nhà nước xã hội chủ nghĩa Việt Nam là của nhân dân, do nhân dân và vì nhân dân. Điều này thể hiện tính dân chủ và phục vụ lợi ích của toàn xã hội. Các đáp án khác (B, C, D) không chính xác vì chỉ đề cập đến lợi ích của một giai cấp hoặc một nhóm người nhất định."
       },
       {
         "question": 98,
@@ -7076,7 +7076,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Tư tưởng \"trọng nam khinh nữ\" hiện nay ở nước ta thể hiện tính lạc hậu của ý thức xã hội. Đây là một tàn dư của xã hội cũ, đi ngược lại với sự tiến bộ và bình đẳng giới. Các đáp án khác (B, C, D) không phù hợp vì không phản ánh đúng bản chất của hiện tượng này."
+        "explanation": "Tư tưởng \"trọng nam khinh nữ\" hiện nay ở nước ta thể hiện tính lạc hậu của ý thức xã hội. Đây là một tàn dư của xã hội cũ, đi ngược lại với sự tiến bộ và bình đẳng giới. Các đáp án khác (B, C, D) không phù hợp vì không phản ánh đúng bản chất của hiện tượng này."
       },
       {
         "question": 99,
@@ -7100,7 +7100,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Ý thức xã hội thông thường là những tri thức, những quan niệm hình thành một cách trực tiếp trong đời sống hàng ngày, từ kinh nghiệm và thực tiễn sinh hoạt của con người. Các đáp án khác (B, C, D) mô tả ý thức lý luận, là trình độ cao hơn của ý thức xã hội."
+        "explanation": "Ý thức xã hội thông thường là những tri thức, những quan niệm hình thành một cách trực tiếp trong đời sống hàng ngày, từ kinh nghiệm và thực tiễn sinh hoạt của con người. Các đáp án khác (B, C, D) mô tả ý thức lý luận, là trình độ cao hơn của ý thức xã hội."
       },
       {
         "question": 100,
@@ -7124,7 +7124,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Ý thức lý luận là những tri thức có khả năng phản ánh hiện thực khách quan một cách sâu sắc và vạch ra những mối liên hệ, bản chất của sự vật, hiện tượng. Nó được xây dựng trên cơ sở tổng hợp, hệ thống hóa và khái quát hóa kinh nghiệm thực tiễn. Các đáp án khác (A, B, D) mô tả ý thức xã hội thông thường hoặc so sánh không chính xác giữa hai loại ý thức này."
+        "explanation": "Ý thức lý luận là những tri thức có khả năng phản ánh hiện thực khách quan một cách sâu sắc và vạch ra những mối liên hệ, bản chất của sự vật, hiện tượng. Nó được xây dựng trên cơ sở tổng hợp, hệ thống hóa và khái quát hóa kinh nghiệm thực tiễn. Các đáp án khác (A, B, D) mô tả ý thức xã hội thông thường hoặc so sánh không chính xác giữa hai loại ý thức này."
       },
       {
         "question": 101,
@@ -7148,7 +7148,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình Triết học Mác-Lênin, tâm lý xã hội là hình thái ý thức xã hội phản ánh trực tiếp và tự phát những điều kiện sinh hoạt hàng ngày của con người, bao gồm toàn bộ tư tưởng, tình cảm, thói quen... (Giáo trình, chương về Ý thức xã hội). Các đáp án khác sai vì: A phản ánh không đầy đủ, C nói về ý thức lý luận, và D sai vì tâm lý xã hội không tồn tại độc lập với hệ tư tưởng."
+        "explanation": "Theo giáo trình Triết học Mác-Lênin, tâm lý xã hội là hình thái ý thức xã hội phản ánh trực tiếp và tự phát những điều kiện sinh hoạt hàng ngày của con người, bao gồm toàn bộ tư tưởng, tình cảm, thói quen... (Giáo trình, chương về Ý thức xã hội). Các đáp án khác sai vì: A phản ánh không đầy đủ, C nói về ý thức lý luận, và D sai vì tâm lý xã hội không tồn tại độc lập với hệ tư tưởng."
       },
       {
         "question": 102,
@@ -7172,7 +7172,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo quan điểm của chủ nghĩa duy vật lịch sử, phương thức sản xuất (bao gồm lực lượng sản xuất và quan hệ sản xuất) là yếu tố quyết định nhất trong kết cấu của tồn tại xã hội. (Giáo trình, chương về Tồn tại xã hội và Ý thức xã hội). Các đáp án khác sai vì: A và C chỉ là những yếu tố ảnh hưởng, nhưng không quyết định."
+        "explanation": "Theo quan điểm của chủ nghĩa duy vật lịch sử, phương thức sản xuất (bao gồm lực lượng sản xuất và quan hệ sản xuất) là yếu tố quyết định nhất trong kết cấu của tồn tại xã hội. (Giáo trình, chương về Tồn tại xã hội và Ý thức xã hội). Các đáp án khác sai vì: A và C chỉ là những yếu tố ảnh hưởng, nhưng không quyết định."
       },
       {
         "question": 103,
@@ -7196,7 +7196,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Chủ nghĩa duy tâm cho rằng ý thức (ý thức xã hội) quyết định sự tồn tại (tồn tại xã hội). (Giáo trình, chương về Tồn tại xã hội và Ý thức xã hội, phần phê phán quan điểm duy tâm). Các đáp án khác sai vì: A là quan điểm của chủ nghĩa duy vật lịch sử, C và D chỉ là những yếu tố ảnh hưởng, không mang tính quyết định theo duy tâm."
+        "explanation": "Chủ nghĩa duy tâm cho rằng ý thức (ý thức xã hội) quyết định sự tồn tại (tồn tại xã hội). (Giáo trình, chương về Tồn tại xã hội và Ý thức xã hội, phần phê phán quan điểm duy tâm). Các đáp án khác sai vì: A là quan điểm của chủ nghĩa duy vật lịch sử, C và D chỉ là những yếu tố ảnh hưởng, không mang tính quyết định theo duy tâm."
       },
       {
         "question": 104,
@@ -7220,7 +7220,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Chủ nghĩa duy vật siêu hình thường quan niệm ý thức xã hội chỉ là sự phản ánh thụ động và hoàn toàn phụ thuộc vào tồn tại xã hội, phủ nhận tính độc lập tương đối của nó. (Giáo trình, chương về Tồn tại xã hội và Ý thức xã hội, phần phân biệt các trường phái triết học). Các đáp án khác sai vì: A và D thừa nhận tính độc lập tương đối của ý thức xã hội, B thì cho ý thức quyết định tồn tại."
+        "explanation": "Chủ nghĩa duy vật siêu hình thường quan niệm ý thức xã hội chỉ là sự phản ánh thụ động và hoàn toàn phụ thuộc vào tồn tại xã hội, phủ nhận tính độc lập tương đối của nó. (Giáo trình, chương về Tồn tại xã hội và Ý thức xã hội, phần phân biệt các trường phái triết học). Các đáp án khác sai vì: A và D thừa nhận tính độc lập tương đối của ý thức xã hội, B thì cho ý thức quyết định tồn tại."
       },
       {
         "question": 105,
@@ -7244,7 +7244,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Chủ nghĩa duy vật lịch sử khẳng định tồn tại xã hội quyết định ý thức xã hội, nhưng đồng thời ý thức xã hội có tính độc lập tương đối, tác động trở lại tồn tại xã hội. (Giáo trình, chương về Tồn tại xã hội và Ý thức xã hội). Các đáp án khác sai vì: A cho ý thức quyết định tồn tại, C phủ nhận tính độc lập tương đối của ý thức."
+        "explanation": "Chủ nghĩa duy vật lịch sử khẳng định tồn tại xã hội quyết định ý thức xã hội, nhưng đồng thời ý thức xã hội có tính độc lập tương đối, tác động trở lại tồn tại xã hội. (Giáo trình, chương về Tồn tại xã hội và Ý thức xã hội). Các đáp án khác sai vì: A cho ý thức quyết định tồn tại, C phủ nhận tính độc lập tương đối của ý thức."
       },
       {
         "question": 106,
@@ -7268,7 +7268,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Ý thức cá nhân là sự phản ánh thế giới khách quan thông qua lăng kính chủ quan của mỗi cá nhân, và nó là một hình thức biểu hiện của ý thức xã hội. (Giáo trình, chương về Ý thức xã hội). Các đáp án khác sai vì: A và B đều không đúng với quan điểm của chủ nghĩa duy vật lịch sử."
+        "explanation": "Ý thức cá nhân là sự phản ánh thế giới khách quan thông qua lăng kính chủ quan của mỗi cá nhân, và nó là một hình thức biểu hiện của ý thức xã hội. (Giáo trình, chương về Ý thức xã hội). Các đáp án khác sai vì: A và B đều không đúng với quan điểm của chủ nghĩa duy vật lịch sử."
       },
       {
         "question": 107,
@@ -7292,7 +7292,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Ý thức xã hội thường lạc hậu hơn so với tồn tại xã hội do nhiều nguyên nhân: tính bảo thủ của thói quen, truyền thống, tập quán, sự khác biệt về lợi ích giữa các giai cấp, và bản chất phản ánh của ý thức xã hội. (Giáo trình, chương về Tồn tại xã hội và Ý thức xã hội, phần tính độc lập tương đối của ý thức xã hội)."
+        "explanation": "Ý thức xã hội thường lạc hậu hơn so với tồn tại xã hội do nhiều nguyên nhân: tính bảo thủ của thói quen, truyền thống, tập quán, sự khác biệt về lợi ích giữa các giai cấp, và bản chất phản ánh của ý thức xã hội. (Giáo trình, chương về Tồn tại xã hội và Ý thức xã hội, phần tính độc lập tương đối của ý thức xã hội)."
       },
       {
         "question": 108,
@@ -7316,7 +7316,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Đặc điểm cơ bản là tồn tại xã hội quyết định sự biến đổi của ý thức xã hội. Khi tồn tại xã hội thay đổi, ý thức xã hội cũng sẽ thay đổi theo. (Giáo trình, chương về Tồn tại xã hội và Ý thức xã hội). Các đáp án khác sai vì: A phủ nhận tính độc lập tương đối, C đảo ngược mối quan hệ, D thiếu sự tác động ngược trở lại của ý thức xã hội."
+        "explanation": "Đặc điểm cơ bản là tồn tại xã hội quyết định sự biến đổi của ý thức xã hội. Khi tồn tại xã hội thay đổi, ý thức xã hội cũng sẽ thay đổi theo. (Giáo trình, chương về Tồn tại xã hội và Ý thức xã hội). Các đáp án khác sai vì: A phủ nhận tính độc lập tương đối, C đảo ngược mối quan hệ, D thiếu sự tác động ngược trở lại của ý thức xã hội."
       },
       {
         "question": 109,
@@ -7340,7 +7340,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Chủ nghĩa duy vật lịch sử khẳng định tồn tại xã hội quyết định ý thức xã hội, nhưng đồng thời ý thức xã hội có tính độc lập tương đối và tác động trở lại tồn tại xã hội. (Giáo trình, chương về Tồn tại xã hội và Ý thức xã hội). Các đáp án khác sai vì: B cho ý thức quyết định tồn tại, C phủ nhận tính độc lập tương đối của ý thức."
+        "explanation": "Chủ nghĩa duy vật lịch sử khẳng định tồn tại xã hội quyết định ý thức xã hội, nhưng đồng thời ý thức xã hội có tính độc lập tương đối và tác động trở lại tồn tại xã hội. (Giáo trình, chương về Tồn tại xã hội và Ý thức xã hội). Các đáp án khác sai vì: B cho ý thức quyết định tồn tại, C phủ nhận tính độc lập tương đối của ý thức."
       },
       {
         "question": 110,
@@ -7364,7 +7364,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Ý thức xã hội chỉ có thể tác động trở lại tồn tại xã hội thông qua hoạt động thực tiễn của con người. Ý thức phải được vật chất hóa thông qua hành động. (Giáo trình, chương về Tồn tại xã hội và Ý thức xã hội, phần vai trò của ý thức xã hội). Các đáp án khác sai vì: A, C, và D không phải là điều kiện cơ bản nhất."
+        "explanation": "Ý thức xã hội chỉ có thể tác động trở lại tồn tại xã hội thông qua hoạt động thực tiễn của con người. Ý thức phải được vật chất hóa thông qua hành động. (Giáo trình, chương về Tồn tại xã hội và Ý thức xã hội, phần vai trò của ý thức xã hội). Các đáp án khác sai vì: A, C, và D không phải là điều kiện cơ bản nhất."
       },
       {
         "question": 111,
@@ -7388,7 +7388,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình Triết học Mác-Lênin, tồn tại xã hội là toàn bộ sinh hoạt vật chất và những điều kiện sinh hoạt vật chất của xã hội, bao gồm phương thức sản xuất, điều kiện tự nhiên, hoàn cảnh địa lý và dân cư. Các đáp án còn lại chỉ đề cập đến các khía cạnh thuộc ý thức xã hội hoặc văn hóa, không phản ánh đầy đủ nội dung của tồn tại xã hội theo quan điểm của chủ nghĩa duy vật lịch sử.\n\nB: Sai vì đây là ý thức xã hội.\nC: Sai vì đây là một phần của văn hóa tinh thần, thuộc ý thức xã hội.\nD: Sai vì đây là các yếu tố thuộc kiến trúc thượng tầng, thuộc ý thức xã hội."
+        "explanation": "Theo giáo trình Triết học Mác-Lênin, tồn tại xã hội là toàn bộ sinh hoạt vật chất và những điều kiện sinh hoạt vật chất của xã hội, bao gồm phương thức sản xuất, điều kiện tự nhiên, hoàn cảnh địa lý và dân cư. Các đáp án còn lại chỉ đề cập đến các khía cạnh thuộc ý thức xã hội hoặc văn hóa, không phản ánh đầy đủ nội dung của tồn tại xã hội theo quan điểm của chủ nghĩa duy vật lịch sử.\n\nB: Sai vì đây là ý thức xã hội.\nC: Sai vì đây là một phần của văn hóa tinh thần, thuộc ý thức xã hội.\nD: Sai vì đây là các yếu tố thuộc kiến trúc thượng tầng, thuộc ý thức xã hội."
       },
       {
         "question": 112,
@@ -7412,7 +7412,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình Triết học Mác-Lênin, ý thức xã hội là mặt tinh thần của đời sống xã hội, bao gồm tư tưởng, tình cảm, tâm trạng, quan điểm, lý luận... phản ánh tồn tại xã hội. Các đáp án còn lại không chính xác vì chúng hoặc đề cập đến tồn tại xã hội, hoặc đánh giá sai vai trò của ý thức xã hội.\n\nB: Sai vì đây là tồn tại xã hội.\nC: Sai vì tồn tại xã hội mới là nền tảng.\nD: Sai vì ý thức xã hội có tác động trở lại tồn tại xã hội."
+        "explanation": "Theo giáo trình Triết học Mác-Lênin, ý thức xã hội là mặt tinh thần của đời sống xã hội, bao gồm tư tưởng, tình cảm, tâm trạng, quan điểm, lý luận... phản ánh tồn tại xã hội. Các đáp án còn lại không chính xác vì chúng hoặc đề cập đến tồn tại xã hội, hoặc đánh giá sai vai trò của ý thức xã hội.\n\nB: Sai vì đây là tồn tại xã hội.\nC: Sai vì tồn tại xã hội mới là nền tảng.\nD: Sai vì ý thức xã hội có tác động trở lại tồn tại xã hội."
       },
       {
         "question": 113,
@@ -7436,7 +7436,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Tính kế thừa của ý thức xã hội thể hiện ở chỗ các tư tưởng, lý luận của thời đại sau thường dựa trên những tiền đề tư tưởng đã có từ các giai đoạn lịch sử trước đó, có sự chọn lọc, cải biến và phát triển. Các đáp án còn lại không phản ánh đúng bản chất của tính kế thừa.\n\nA: Sai vì đây là tính độc lập tương đối của ý thức xã hội.\nC: Sai vì ý thức xã hội có tính kế thừa, không phủ định sạch trơn.\nD: Sai vì đây là tính vượt trước của ý thức xã hội."
+        "explanation": "Tính kế thừa của ý thức xã hội thể hiện ở chỗ các tư tưởng, lý luận của thời đại sau thường dựa trên những tiền đề tư tưởng đã có từ các giai đoạn lịch sử trước đó, có sự chọn lọc, cải biến và phát triển. Các đáp án còn lại không phản ánh đúng bản chất của tính kế thừa.\n\nA: Sai vì đây là tính độc lập tương đối của ý thức xã hội.\nC: Sai vì ý thức xã hội có tính kế thừa, không phủ định sạch trơn.\nD: Sai vì đây là tính vượt trước của ý thức xã hội."
       },
       {
         "question": 114,
@@ -7460,7 +7460,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Ý thức tôn giáo là một hình thái ý thức xã hội phản ánh một cách hư ảo, sai lệch hiện thực khách quan, thường gán sức mạnh siêu nhiên cho các lực lượng tự nhiên và xã hội. Các đáp án còn lại không phản ánh sự hư ảo này.\n\nB, C, D: Sai vì đây là các hình thái ý thức xã hội khác, phản ánh hiện thực khách quan ở các mức độ và khía cạnh khác nhau."
+        "explanation": "Ý thức tôn giáo là một hình thái ý thức xã hội phản ánh một cách hư ảo, sai lệch hiện thực khách quan, thường gán sức mạnh siêu nhiên cho các lực lượng tự nhiên và xã hội. Các đáp án còn lại không phản ánh sự hư ảo này.\n\nB, C, D: Sai vì đây là các hình thái ý thức xã hội khác, phản ánh hiện thực khách quan ở các mức độ và khía cạnh khác nhau."
       },
       {
         "question": 115,
@@ -7484,7 +7484,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo C.Mác, ý thức triết học, đặc biệt là triết học duy vật biện chứng, đóng vai trò quan trọng trong việc định hướng tư tưởng, xây dựng thế giới quan khoa học, và trở thành linh hồn sống của văn hóa. Các đáp án còn lại không thể hiện vai trò này một cách toàn diện.\n\nB, C, D: Sai vì đây là các hình thái ý thức xã hội khác, có vai trò riêng nhưng không phải là 'linh hồn sống' của văn hóa theo quan điểm của C.Mác."
+        "explanation": "Theo C.Mác, ý thức triết học, đặc biệt là triết học duy vật biện chứng, đóng vai trò quan trọng trong việc định hướng tư tưởng, xây dựng thế giới quan khoa học, và trở thành linh hồn sống của văn hóa. Các đáp án còn lại không thể hiện vai trò này một cách toàn diện.\n\nB, C, D: Sai vì đây là các hình thái ý thức xã hội khác, có vai trò riêng nhưng không phải là 'linh hồn sống' của văn hóa theo quan điểm của C.Mác."
       },
       {
         "question": 116,
@@ -7508,7 +7508,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Ý thức nghệ thuật, đặc biệt là các hình thức nghệ thuật nguyên thủy, xuất hiện từ rất sớm trong lịch sử loài người, thậm chí trước khi xã hội phân chia giai cấp. Các đáp án còn lại thường gắn liền với sự phát triển của xã hội có giai cấp.\n\nB, C, D: Sai vì đây là các hình thái ý thức xã hội xuất hiện muộn hơn, gắn liền với sự phân chia giai cấp và sự phát triển của nhà nước."
+        "explanation": "Ý thức nghệ thuật, đặc biệt là các hình thức nghệ thuật nguyên thủy, xuất hiện từ rất sớm trong lịch sử loài người, thậm chí trước khi xã hội phân chia giai cấp. Các đáp án còn lại thường gắn liền với sự phát triển của xã hội có giai cấp.\n\nB, C, D: Sai vì đây là các hình thái ý thức xã hội xuất hiện muộn hơn, gắn liền với sự phân chia giai cấp và sự phát triển của nhà nước."
       },
       {
         "question": 117,
@@ -7532,7 +7532,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Tính độc lập tương đối của ý thức xã hội đòi hỏi chúng ta phải coi trọng vai trò của kinh tế, nhưng đồng thời cũng phải nhận thức rõ vai trò tích cực của ý thức xã hội trong việc tác động trở lại kinh tế, thúc đẩy hoặc kìm hãm sự phát triển kinh tế. Các đáp án còn lại đều rơi vào cực đoan, hoặc tuyệt đối hóa vai trò của kinh tế, hoặc tuyệt đối hóa vai trò của ý thức xã hội.\n\nA, B, C: Sai vì đây là các cách tiếp cận phiến diện, hoặc tuyệt đối hóa vai trò của kinh tế, hoặc tuyệt đối hóa vai trò của ý thức xã hội."
+        "explanation": "Tính độc lập tương đối của ý thức xã hội đòi hỏi chúng ta phải coi trọng vai trò của kinh tế, nhưng đồng thời cũng phải nhận thức rõ vai trò tích cực của ý thức xã hội trong việc tác động trở lại kinh tế, thúc đẩy hoặc kìm hãm sự phát triển kinh tế. Các đáp án còn lại đều rơi vào cực đoan, hoặc tuyệt đối hóa vai trò của kinh tế, hoặc tuyệt đối hóa vai trò của ý thức xã hội.\n\nA, B, C: Sai vì đây là các cách tiếp cận phiến diện, hoặc tuyệt đối hóa vai trò của kinh tế, hoặc tuyệt đối hóa vai trò của ý thức xã hội."
       },
       {
         "question": 118,
@@ -7556,7 +7556,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Câu nói của C.Mác và Ph.Ăngghen thể hiện rõ đặc điểm tính kế thừa của ý thức xã hội, khi chủ nghĩa cộng sản kế thừa và phát triển từ chủ nghĩa duy vật Pháp. Các đáp án còn lại không liên quan trực tiếp đến nội dung câu nói.\n\nA, C, D: Sai vì câu nói không đề cập đến tính lạc hậu, tính vượt trước hay tính tác động trở lại của ý thức xã hội."
+        "explanation": "Câu nói của C.Mác và Ph.Ăngghen thể hiện rõ đặc điểm tính kế thừa của ý thức xã hội, khi chủ nghĩa cộng sản kế thừa và phát triển từ chủ nghĩa duy vật Pháp. Các đáp án còn lại không liên quan trực tiếp đến nội dung câu nói.\n\nA, C, D: Sai vì câu nói không đề cập đến tính lạc hậu, tính vượt trước hay tính tác động trở lại của ý thức xã hội."
       },
       {
         "question": 119,
@@ -7580,7 +7580,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Dự báo của C.Mác về 'tri thức trở thành lực lượng sản xuất trực tiếp' và sự thật này đang diễn ra trong thế kỷ XXI chứng minh cho tính tác động trở lại của ý thức xã hội (cụ thể là tri thức khoa học) đối với tồn tại xã hội (cụ thể là lực lượng sản xuất). Các đáp án còn lại không phù hợp.\n\nA, B, C: Sai vì sự kiện này không liên quan đến tính lạc hậu, tính vượt trước hay tính kế thừa của ý thức xã hội."
+        "explanation": "Dự báo của C.Mác về 'tri thức trở thành lực lượng sản xuất trực tiếp' và sự thật này đang diễn ra trong thế kỷ XXI chứng minh cho tính tác động trở lại của ý thức xã hội (cụ thể là tri thức khoa học) đối với tồn tại xã hội (cụ thể là lực lượng sản xuất). Các đáp án còn lại không phù hợp.\n\nA, B, C: Sai vì sự kiện này không liên quan đến tính lạc hậu, tính vượt trước hay tính kế thừa của ý thức xã hội."
       },
       {
         "question": 120,
@@ -7604,7 +7604,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Để xây dựng đời sống tinh thần ở Việt Nam hiện nay, cần kế thừa và phát huy những giá trị tốt đẹp của đạo đức truyền thống, đồng thời tiếp thu có chọn lọc những tinh hoa văn hóa của nhân loại. Các đáp án còn lại hoặc quá cực đoan, hoặc hạ thấp vai trò của văn hóa, đạo đức.\n\nB: Sai vì không phải tất cả văn hóa truyền thống đều phù hợp với xã hội hiện đại.\nC: Sai vì cần có sự chọn lọc khi tiếp thu văn hóa nhân loại.\nD: Sai vì giáo dục đạo đức, văn hóa là nhiệm vụ quan trọng."
+        "explanation": "Để xây dựng đời sống tinh thần ở Việt Nam hiện nay, cần kế thừa và phát huy những giá trị tốt đẹp của đạo đức truyền thống, đồng thời tiếp thu có chọn lọc những tinh hoa văn hóa của nhân loại. Các đáp án còn lại hoặc quá cực đoan, hoặc hạ thấp vai trò của văn hóa, đạo đức.\n\nB: Sai vì không phải tất cả văn hóa truyền thống đều phù hợp với xã hội hiện đại.\nC: Sai vì cần có sự chọn lọc khi tiếp thu văn hóa nhân loại.\nD: Sai vì giáo dục đạo đức, văn hóa là nhiệm vụ quan trọng."
       },
       {
         "question": 121,
@@ -7628,7 +7628,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình, xây dựng đời sống tinh thần ở Việt Nam hiện nay đòi hỏi phải đấu tranh loại bỏ những yếu tố lạc hậu, bảo thủ, đồng thời phát huy những giá trị tốt đẹp của dân tộc. Các đáp án khác sai vì: B thể hiện sự chủ quan, nóng vội; C thể hiện sự tiếp thu một cách thụ động, thiếu chọn lọc; D hạ thấp vai trò của văn hóa."
+        "explanation": "Theo giáo trình, xây dựng đời sống tinh thần ở Việt Nam hiện nay đòi hỏi phải đấu tranh loại bỏ những yếu tố lạc hậu, bảo thủ, đồng thời phát huy những giá trị tốt đẹp của dân tộc. Các đáp án khác sai vì: B thể hiện sự chủ quan, nóng vội; C thể hiện sự tiếp thu một cách thụ động, thiếu chọn lọc; D hạ thấp vai trò của văn hóa."
       },
       {
         "question": 122,
@@ -7652,7 +7652,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Việc xóa bỏ tất cả các giá trị văn hóa truyền thống là hoàn toàn sai lầm và đi ngược lại với chủ trương của Đảng và Nhà nước ta. Các đáp án khác đều là những biện pháp đúng đắn để xây dựng đời sống tinh thần ở Việt Nam hiện nay."
+        "explanation": "Việc xóa bỏ tất cả các giá trị văn hóa truyền thống là hoàn toàn sai lầm và đi ngược lại với chủ trương của Đảng và Nhà nước ta. Các đáp án khác đều là những biện pháp đúng đắn để xây dựng đời sống tinh thần ở Việt Nam hiện nay."
       },
       {
         "question": 123,
@@ -7676,7 +7676,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Tư tưởng \"Một người làm quan cả họ được nhờ\" thể hiện tính chất cục bộ, địa phương, dòng họ, trái với nguyên tắc công bằng, dân chủ, thể hiện sự lạc hậu của ý thức xã hội so với tồn tại xã hội. Các đáp án khác không phù hợp vì B, C, D không phản ánh đúng bản chất của hiện tượng này."
+        "explanation": "Tư tưởng \"Một người làm quan cả họ được nhờ\" thể hiện tính chất cục bộ, địa phương, dòng họ, trái với nguyên tắc công bằng, dân chủ, thể hiện sự lạc hậu của ý thức xã hội so với tồn tại xã hội. Các đáp án khác không phù hợp vì B, C, D không phản ánh đúng bản chất của hiện tượng này."
       },
       {
         "question": 124,
@@ -7700,7 +7700,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình, quần chúng nhân dân là khái niệm chỉ một tập hợp người có chung mục đích, lợi ích, và hoạt động trong một giai đoạn lịch sử nhất định. Các đáp án khác sai vì: B quá rộng, bao gồm cả những lực lượng phản động; C và D quá hẹp, chỉ giới hạn ở một số thành phần nhất định."
+        "explanation": "Theo giáo trình, quần chúng nhân dân là khái niệm chỉ một tập hợp người có chung mục đích, lợi ích, và hoạt động trong một giai đoạn lịch sử nhất định. Các đáp án khác sai vì: B quá rộng, bao gồm cả những lực lượng phản động; C và D quá hẹp, chỉ giới hạn ở một số thành phần nhất định."
       },
       {
         "question": 125,
@@ -7724,7 +7724,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo quan điểm của chủ nghĩa duy vật lịch sử, quần chúng nhân dân bao gồm tất cả những thành phần có vai trò thúc đẩy sự tiến bộ của xã hội, bao gồm người lao động, những người chống lại áp bức, và các giai cấp, tầng lớp tiến bộ. Do đó, tất cả các đáp án A, B, và C đều đúng và là các bộ phận cấu thành quần chúng nhân dân."
+        "explanation": "Theo quan điểm của chủ nghĩa duy vật lịch sử, quần chúng nhân dân bao gồm tất cả những thành phần có vai trò thúc đẩy sự tiến bộ của xã hội, bao gồm người lao động, những người chống lại áp bức, và các giai cấp, tầng lớp tiến bộ. Do đó, tất cả các đáp án A, B, và C đều đúng và là các bộ phận cấu thành quần chúng nhân dân."
       },
       {
         "question": 126,
@@ -7748,7 +7748,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo triết học Mác-Lênnin, quần chúng nhân dân là lực lượng cơ bản, quyết định sự phát triển của lịch sử, là người sáng tạo ra của cải vật chất và tinh thần. Các đáp án B và C cũng đúng nhưng chưa đầy đủ bằng đáp án A. Đáp án A bao hàm ý nghĩa rộng lớn hơn, thể hiện vai trò quyết định của quần chúng nhân dân."
+        "explanation": "Theo triết học Mác-Lênnin, quần chúng nhân dân là lực lượng cơ bản, quyết định sự phát triển của lịch sử, là người sáng tạo ra của cải vật chất và tinh thần. Các đáp án B và C cũng đúng nhưng chưa đầy đủ bằng đáp án A. Đáp án A bao hàm ý nghĩa rộng lớn hơn, thể hiện vai trò quyết định của quần chúng nhân dân."
       },
       {
         "question": 127,
@@ -7772,7 +7772,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án C đúng. Quần chúng nhân dân là lực lượng sản xuất cơ bản, trực tiếp tạo ra của cải vật chất và tinh thần cho xã hội. Các đáp án A, B, và D có vai trò quan trọng nhưng không phải là chủ thể trực tiếp sản xuất ra của cải vật chất."
+        "explanation": "Quần chúng nhân dân là lực lượng sản xuất cơ bản, trực tiếp tạo ra của cải vật chất và tinh thần cho xã hội. Các đáp án A, B, và D có vai trò quan trọng nhưng không phải là chủ thể trực tiếp sản xuất ra của cải vật chất."
       },
       {
         "question": 128,
@@ -7796,7 +7796,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án A đúng. Quần chúng nhân dân là lực lượng quyết định sự phát triển của xã hội, lãnh tụ có vai trò quan trọng nhưng không thể thay thế vai trò của quần chúng. Các đáp án B, C, và D đều sai vì phủ nhận hoặc đánh giá sai lệch vai trò của quần chúng nhân dân."
+        "explanation": "Quần chúng nhân dân là lực lượng quyết định sự phát triển của xã hội, lãnh tụ có vai trò quan trọng nhưng không thể thay thế vai trò của quần chúng. Các đáp án B, C, và D đều sai vì phủ nhận hoặc đánh giá sai lệch vai trò của quần chúng nhân dân."
       },
       {
         "question": 129,
@@ -7820,7 +7820,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án A đúng. Lãnh tụ có vai trò quan trọng trong việc nắm bắt xu thế lịch sử, đề ra đường lối, chính sách đúng đắn và tổ chức, dẫn dắt quần chúng nhân dân thực hiện. Các đáp án B và C nhấn mạnh quá mức vai trò của lãnh tụ, có thể dẫn đến tuyệt đối hóa vai trò cá nhân."
+        "explanation": "Lãnh tụ có vai trò quan trọng trong việc nắm bắt xu thế lịch sử, đề ra đường lối, chính sách đúng đắn và tổ chức, dẫn dắt quần chúng nhân dân thực hiện. Các đáp án B và C nhấn mạnh quá mức vai trò của lãnh tụ, có thể dẫn đến tuyệt đối hóa vai trò cá nhân."
       },
       {
         "question": 130,
@@ -7844,7 +7844,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án C đúng. Quan điểm của Đảng Cộng sản Việt Nam là phát huy vai trò làm chủ của nhân dân, mọi chủ trương, chính sách phải xuất phát từ lợi ích của nhân dân và dựa vào sức mạnh của nhân dân. Các đáp án A, B, và D đều sai vì đi ngược lại với quan điểm này."
+        "explanation": "Quan điểm của Đảng Cộng sản Việt Nam là phát huy vai trò làm chủ của nhân dân, mọi chủ trương, chính sách phải xuất phát từ lợi ích của nhân dân và dựa vào sức mạnh của nhân dân. Các đáp án A, B, và D đều sai vì đi ngược lại với quan điểm này."
       },
       {
         "question": 131,
@@ -7868,7 +7868,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B sai. Theo giáo trình Triết học Mác-Lênin, mối quan hệ giữa tồn tại xã hội và ý thức xã hội cho thấy ý thức xã hội là sự phản ánh tồn tại xã hội. Ý nghĩa phương pháp luận rút ra là phải xuất phát từ tồn tại xã hội để giải thích ý thức xã hội, chứ không phải đề cao chủ nghĩa cá nhân. Các đáp án A, C, và D đều liên quan đến các khía cạnh khác của đời sống xã hội nhưng không trực tiếp phản ánh mối quan hệ giữa tồn tại xã hội và ý thức xã hội."
+        "explanation": "Theo giáo trình Triết học Mác-Lênin, mối quan hệ giữa tồn tại xã hội và ý thức xã hội cho thấy ý thức xã hội là sự phản ánh tồn tại xã hội. Ý nghĩa phương pháp luận rút ra là phải xuất phát từ tồn tại xã hội để giải thích ý thức xã hội, chứ không phải đề cao chủ nghĩa cá nhân. Các đáp án A, C, và D đều liên quan đến các khía cạnh khác của đời sống xã hội nhưng không trực tiếp phản ánh mối quan hệ giữa tồn tại xã hội và ý thức xã hội."
       },
       {
         "question": 132,
@@ -7892,7 +7892,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "D",
-        "explanation": "Đáp án D đúng. Theo giáo trình, mối quan hệ giữa lãnh tụ và quần chúng nhân dân là mối quan hệ biện chứng, trong đó cả hai đều có vai trò quan trọng. Cần phải kết hợp hài hòa và khoa học vai trò của cả hai để đảm bảo sự phát triển của xã hội. Các đáp án A, B, và C đều là những cách tiếp cận cực đoan, không phản ánh đúng quan điểm của chủ nghĩa Mác-Lênin về vai trò của lãnh tụ và quần chúng."
+        "explanation": "Theo giáo trình, mối quan hệ giữa lãnh tụ và quần chúng nhân dân là mối quan hệ biện chứng, trong đó cả hai đều có vai trò quan trọng. Cần phải kết hợp hài hòa và khoa học vai trò của cả hai để đảm bảo sự phát triển của xã hội. Các đáp án A, B, và C đều là những cách tiếp cận cực đoan, không phản ánh đúng quan điểm của chủ nghĩa Mác-Lênin về vai trò của lãnh tụ và quần chúng."
       },
       {
         "question": 133,
@@ -7916,7 +7916,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "A",
-        "explanation": "Đáp án A đúng. Theo giáo trình, tuyệt đối hóa vai trò của lãnh tụ sẽ dẫn đến tệ sùng bái cá nhân, làm mất đi tính khách quan và khoa học trong việc đánh giá vai trò của lãnh tụ. Các đáp án B, C, và D đều là những kết quả tích cực, trái ngược với hậu quả của việc sùng bái cá nhân."
+        "explanation": "Theo giáo trình, tuyệt đối hóa vai trò của lãnh tụ sẽ dẫn đến tệ sùng bái cá nhân, làm mất đi tính khách quan và khoa học trong việc đánh giá vai trò của lãnh tụ. Các đáp án B, C, và D đều là những kết quả tích cực, trái ngược với hậu quả của việc sùng bái cá nhân."
       },
       {
         "question": 134,
@@ -7940,7 +7940,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình, nếu tuyệt đối hóa vai trò của quần chúng nhân dân, sẽ dẫn đến xem nhẹ vai trò của các cá nhân và lãnh tụ, làm mất đi sự cân bằng và hài hòa trong mối quan hệ giữa quần chúng và lãnh đạo. Các đáp án A, C, và D không phản ánh đúng hậu quả của việc tuyệt đối hóa vai trò của quần chúng."
+        "explanation": "Theo giáo trình, nếu tuyệt đối hóa vai trò của quần chúng nhân dân, sẽ dẫn đến xem nhẹ vai trò của các cá nhân và lãnh tụ, làm mất đi sự cân bằng và hài hòa trong mối quan hệ giữa quần chúng và lãnh đạo. Các đáp án A, C, và D không phản ánh đúng hậu quả của việc tuyệt đối hóa vai trò của quần chúng."
       },
       {
         "question": 135,
@@ -7964,7 +7964,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo giáo trình, quá trình 'Lịch sử - tự nhiên' của sự phát triển các hình thái kinh tế - xã hội là quá trình phát triển theo các quy luật khách quan của xã hội, không phụ thuộc vào ý muốn chủ quan của con người. Đáp án A chỉ đúng một phần, vì quy luật tự nhiên chỉ là một yếu tố trong các quy luật khách quan của xã hội. Đáp án B sai vì phủ nhận tính khách quan của quá trình này. Đáp án D sai vì không chính xác."
+        "explanation": "Theo giáo trình, quá trình 'Lịch sử - tự nhiên' của sự phát triển các hình thái kinh tế - xã hội là quá trình phát triển theo các quy luật khách quan của xã hội, không phụ thuộc vào ý muốn chủ quan của con người. Đáp án A chỉ đúng một phần, vì quy luật tự nhiên chỉ là một yếu tố trong các quy luật khách quan của xã hội. Đáp án B sai vì phủ nhận tính khách quan của quá trình này. Đáp án D sai vì không chính xác."
       },
       {
         "question": 142,
@@ -7988,7 +7988,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo quan niệm của chủ nghĩa Mác - Lênin, nhà nước vô sản dựa trên chế độ công hữu về tư liệu sản xuất, nhằm xóa bỏ sự bóc lột và bất công trong xã hội. Đáp án A sai vì chế độ tư hữu là nền tảng của nhà nước tư sản. Đáp án C sai vì đi ngược lại mục tiêu của chủ nghĩa xã hội. Đáp án D sai vì không chính xác."
+        "explanation": "Theo quan niệm của chủ nghĩa Mác - Lênin, nhà nước vô sản dựa trên chế độ công hữu về tư liệu sản xuất, nhằm xóa bỏ sự bóc lột và bất công trong xã hội. Đáp án A sai vì chế độ tư hữu là nền tảng của nhà nước tư sản. Đáp án C sai vì đi ngược lại mục tiêu của chủ nghĩa xã hội. Đáp án D sai vì không chính xác."
       },
       {
         "question": 143,
@@ -8012,7 +8012,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Trong quá trình đổi mới đất nước, Việt Nam xác định đổi mới kinh tế là nhiệm vụ trọng tâm, nhằm tạo ra cơ sở vật chất vững chắc cho sự phát triển của xã hội. Các đáp án A, C, và D đều quan trọng, nhưng không phải là trọng tâm trong giai đoạn hiện nay."
+        "explanation": "Trong quá trình đổi mới đất nước, Việt Nam xác định đổi mới kinh tế là nhiệm vụ trọng tâm, nhằm tạo ra cơ sở vật chất vững chắc cho sự phát triển của xã hội. Các đáp án A, C, và D đều quan trọng, nhưng không phải là trọng tâm trong giai đoạn hiện nay."
       },
       {
         "question": 144,
@@ -8036,7 +8036,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "B",
-        "explanation": "Đáp án B đúng. Theo giáo trình, quy luật quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất là một trong những quy luật cơ bản của sự phát triển xã hội. Việc vận dụng đúng quy luật này sẽ giúp thúc đẩy sự phát triển kinh tế - xã hội. Các đáp án A, C, và D đều không chính xác hoặc không đầy đủ."
+        "explanation": "Theo giáo trình, quy luật quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất là một trong những quy luật cơ bản của sự phát triển xã hội. Việc vận dụng đúng quy luật này sẽ giúp thúc đẩy sự phát triển kinh tế - xã hội. Các đáp án A, C, và D đều không chính xác hoặc không đầy đủ."
       },
       {
         "question": 145,
@@ -8060,7 +8060,7 @@ window.QUIZ_DATA = {
           }
         ],
         "correct_answer": "C",
-        "explanation": "Đáp án C đúng. Theo giáo trình, quy luật quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất là quy luật nền tảng nhất, vì nó quyết định sự vận động và phát triển của xã hội. Việc đề ra chủ trương, đường lối của Đảng phải dựa trên sự phân tích đúng đắn về trình độ phát triển của lực lượng sản xuất và quan hệ sản xuất hiện tại. Các đáp án A, B, và D đều quan trọng, nhưng không phải là nền tảng nhất."
+        "explanation": "Theo giáo trình, quy luật quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất là quy luật nền tảng nhất, vì nó quyết định sự vận động và phát triển của xã hội. Việc đề ra chủ trương, đường lối của Đảng phải dựa trên sự phân tích đúng đắn về trình độ phát triển của lực lượng sản xuất và quan hệ sản xuất hiện tại. Các đáp án A, B, và D đều quan trọng, nhưng không phải là nền tảng nhất."
       }
     ]
   }
