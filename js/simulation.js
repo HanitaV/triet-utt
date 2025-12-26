@@ -22,7 +22,7 @@ let simConfig = {
 let simulationConfig, simulationExam, simulationResult;
 let simTotalQuestions, simCh1Percent, simCh2Percent, simCh3Percent;
 let simCh1Count, simCh2Count, simCh3Count, simTotalPercent, distWarning;
-let simTimeLimit, simShuffleQuestions, simShuffleAnswers, simShowAnswerImmediately;
+let simTimeLimit, simShuffleQuestions, simShuffleAnswers, simShowAnswerImmediately, simShowAIExplanation;
 let startSimulationBtn, simTimerEl, simTimerValue, simCurrentSpan, simTotalSpan;
 let simSubmitBtn, simProgress, simQuestionNav, simQuestionContainer;
 let simQuestionNumber, simQuestionText, simOptions, simExplanation;
@@ -55,6 +55,7 @@ function initSimulationElements() {
     simShuffleQuestions = document.getElementById('sim-shuffle-questions');
     simShuffleAnswers = document.getElementById('sim-shuffle-answers');
     simShowAnswerImmediately = document.getElementById('sim-show-answer-immediately');
+    simShowAIExplanation = document.getElementById('sim-show-ai-explanation');
     startSimulationBtn = document.getElementById('start-simulation-btn');
 
     simTimerEl = document.getElementById('sim-timer');
@@ -133,7 +134,8 @@ function startSimulation() {
         timeLimit: parseInt(simTimeLimit?.value) || 60,
         shuffleQuestions: simShuffleQuestions?.checked ?? true,
         shuffleAnswers: simShuffleAnswers?.checked ?? true,
-        showAnswerImmediately: simShowAnswerImmediately?.checked ?? false
+        showAnswerImmediately: simShowAnswerImmediately?.checked ?? false,
+        showAIExplanation: simShowAIExplanation?.checked ?? true
     };
 
     const sum = simConfig.ch1Percent + simConfig.ch2Percent + simConfig.ch3Percent;
@@ -309,7 +311,7 @@ function renderSimQuestion() {
 
     // Show explanation if feedback enabled
     if (simExplanation) {
-        if (showFeedback && userAnswer !== correctAnswer && q.explanation) {
+        if (showFeedback && userAnswer !== correctAnswer && q.explanation && simConfig.showAIExplanation) {
             simExplanation.innerHTML = `
                 <div class="explanation-box">
                     <div class="explanation-header">

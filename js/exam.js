@@ -289,8 +289,11 @@ function selectExamAnswer(letter) {
     examAnswers[examIndex] = letter;
     updateStats({ studiedToday: 1, totalAnswered: 1 });
 
-    // Show explanation if incorrect
-    if (!isCorrect && examExplanation) {
+    // Show explanation if incorrect AND AI toggle is checked
+    const aiToggle = document.getElementById('ai-explanation-toggle');
+    const showAI = aiToggle ? aiToggle.checked : true;
+
+    if (!isCorrect && examExplanation && showAI) {
         const explanationText = q.explanation || "Không có giải thích chi tiết cho câu hỏi này.";
         examExplanation.innerHTML = `
             <div class="explanation-box">
