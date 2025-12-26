@@ -243,97 +243,28 @@ class QuizApp {
         }
     }
 
-    // ===== STUDY TAB DATA =====
-    studyTopics = [
-        {
-            sectionTitle: "Phần 1: Khái luận về Triết học",
-            chapter: 1,
-            topics: [
-                {
-                    title: "Triết học & Vấn đề cơ bản",
-                    videoId: "pI4Ofd4nWkU",
-                    theory: "<b>Triết học:</b> Hệ thống tri thức lý luận chung nhất về thế giới.<br><b>Vấn đề cơ bản:</b> Mối quan hệ giữa Tư duy và Tồn tại (Vật chất & Ý thức).<br><ul><li>Mặt 1 (Bản thể luận): Cái nào có trước? (Duy vật vs Duy tâm)</li><li>Mặt 2 (Nhận thức luận): Con người có nhận thức được thế giới không? (Khả tri vs Bất khả tri)</li></ul>",
-                    tips: ["🧠 <b>VĐCB:</b> Tư duy - Tồn tại.", "📌 <b>2 Mặt:</b> Cái nào trước? - Nhận thức được không?"],
-                    keywords: ["vấn đề cơ bản", "tư duy", "tồn tại", "bản thể luận", "nhận thức luận"]
-                },
-                {
-                    title: "Triết học Mác - Lênin",
-                    videoId: "pI4Ofd4nWkU",
-                    theory: "Ra đời những năm 40 thế kỷ XIX. Kế thừa tinh hoa của: Triết học cổ điển Đức, Kinh tế chính trị Anh, CNXH không tưởng Pháp.<br><b>Thực chất:</b> Cuộc cách mạng trong triết học (Thống nhất DVBC & DVLS).",
-                    tips: ["📌 <b>Tiền đề:</b> Đức (Triết) - Anh (Kinh tế) - Pháp (CNXH)."],
-                    keywords: ["triết học mác", "nguồn gốc", "tiền đề", "đức", "anh", "pháp"]
-                }
-            ]
-        },
-        {
-            sectionTitle: "Phần 2: Chủ nghĩa Duy vật Biện chứng",
-            chapter: 2,
-            topics: [
-                {
-                    title: "I. Vật chất & Ý thức",
-                    videoId: "nlmtgzotDBc",
-                    theory: "<b>Vật chất (Lênin):</b> Thực tại khách quan, được cảm giác chép lại, chụp lại.<br><b>Ý thức:</b> Hình ảnh chủ quan của thế giới khách quan.<br><b>Mối quan hệ:</b> VC quyết định YT; YT tác động ngược lại VC thông qua thực tiễn.",
-                    tips: ["🧠 <b>Vật chất:</b> Thực tại khách quan.", "🧠 <b>Ý thức:</b> Hình ảnh chủ quan."],
-                    keywords: ["vật chất", "ý thức", "thực tại khách quan", "phản ánh", "quyết định", "tác động"]
-                },
-                {
-                    title: "II. Hai nguyên lý của PBC",
-                    videoId: "JmBGkW6vhZs",
-                    theory: "<b>1. Nguyên lý về mối liên hệ phổ biến:</b> Mọi sự vật đều liên hệ, quy định lẫn nhau.<br><b>2. Nguyên lý về sự phát triển:</b> Khuynh hướng đi lên, từ thấp đến cao, kế thừa cái cũ.",
-                    tips: ["🧠 <b>Liên hệ:</b> Không tách rời.", "🧠 <b>Phát triển:</b> Đường xoắn ốc."],
-                    keywords: ["nguyên lý", "liên hệ phổ biến", "phát triển"]
-                },
-                {
-                    title: "III. Các quy luật cơ bản",
-                    videoId: "I7aj5tjiqA4",
-                    theory: "<b>1. Lượng - Chất:</b> Tích lũy về lượng dẫn đến thay đổi về chất.<br><b>2. Mâu thuẫn:</b> Đấu tranh giữa các mặt đối lập là nguồn gốc sự phát triển.<br><b>3. Phủ định của phủ định:</b> Cái mới ra đời thay thế cái cũ, dường như lặp lại cái cũ nhưng ở trình độ cao hơn.",
-                    tips: ["📌 <b>Lượng-Chất:</b> Cách thức.", "📌 <b>Mâu thuẫn:</b> Nguồn gốc, động lực.", "📌 <b>PĐCPD:</b> Khuynh hướng."],
-                    keywords: ["quy luật", "lượng chất", "mâu thuẫn", "phủ định"]
-                },
-                {
-                    title: "IV. 6 Cặp phạm trù cơ bản",
-                    videoId: "ig4Sx3ZGLiU", // NNHL: Cái riêng và Cái chung (Intro to 6 categories)
-                    theory: "<ul><li><b>Cái chung - Cái riêng:</b> CC chỉ tồn tại trong CR.</li><li><b>Nguyên nhân - Kết quả:</b> NN sinh ra KQ.</li><li><b>Tất nhiên - Ngẫu nhiên:</b> TN là cái phải xảy ra.</li><li><b>Nội dung - Hình thức:</b> ND quyết định HT.</li><li><b>Bản chất - Hiện tượng:</b> BC là cái bên trong.</li><li><b>Khả năng - Hiện thực:</b> KN là cái chưa có.</li></ul>",
-                    tips: ["🧠 <b>R-C; NN-KQ; TN-NN; ND-HT; BC-HT; KN-HT</b>"],
-                    keywords: ["cặp phạm trù", "cái riêng", "cái chung", "nguyên nhân", "kết quả", "tất nhiên", "ngẫu nhiên"]
-                },
-                {
-                    title: "V. Lý luận nhận thức",
-                    videoId: "I7aj5tjiqA4", // Dialectics video
-                    theory: "<b>Con đường nhận thức (Lênin):</b> Từ trực quan sinh động (Cảm tính) → Tư duy trừu tượng (Lý tính) → Thực tiễn.<br><b>Thực tiễn:</b> Là cơ sở, động lực, mục đích và tiêu chuẩn của chân lý.",
-                    tips: ["📌 <b>2 Giai đoạn:</b> Cảm tính (Cảm giác, Tri giác, Biểu tượng) & Lý tính (Khái niệm, Phán đoán, Suy luận)."],
-                    keywords: ["lý luận nhận thức", "thực tiễn", "cảm tính", "lý tính", "chân lý"]
-                }
-            ]
-        },
-        {
-            sectionTitle: "Phần 3: Chủ nghĩa Duy vật Lịch sử",
-            chapter: 3,
-            topics: [
-                {
-                    title: "Học thuyết Hình thái KT-XH",
-                    videoId: "d1KpG4q1q7M",
-                    theory: "<b>LLSX & QHSX:</b> LLSX quyết định QHSX.<br><b>CSHT & KTTT:</b> CSHT (Kinh tế) quyết định KTTT (Chính trị).<br><b>Sự phát triển:</b> Là quá trình lịch sử - tự nhiên.",
-                    tips: ["🧠 <b>Kinh tế</b> quyết định <b>Chính trị</b>."],
-                    keywords: ["lực lượng sản xuất", "quan hệ sản xuất", "cơ sở hạ tầng", "kiến trúc thượng tầng"]
-                },
-                {
-                    title: "Giai cấp & Nhà nước",
-                    videoId: "d1KpG4q1q7M",
-                    theory: "<b>Giai cấp:</b> Ra đời do chế độ tư hữu. Đấu tranh giai cấp là động lực phát triển xã hội có giai cấp.<br><b>Nhà nước:</b> Công cụ chuyên chính của giai cấp thống trị.",
-                    tips: ["📌 <b>Nguồn gốc:</b> Kinh tế (Tư hữu) + Xã hội (Phân công lao động)."],
-                    keywords: ["giai cấp", "nhà nước", "nguồn gốc", "bản chất"]
-                }
-            ]
-        }
-    ];
-
     // ===== STUDY TAB METHODS =====
-    initStudyTab() {
+    async initStudyTab() {
         this.studyChapterSelect = document.getElementById('study-chapter-select');
         this.topicsContainer = document.getElementById('topics-container');
 
         this.studyChapterSelect?.addEventListener('change', () => this.renderStudyTopics());
+
+        await this.loadStudyData();
+    }
+
+    async loadStudyData() {
+        try {
+            const response = await fetch('study_data.json');
+            if (!response.ok) throw new Error('Failed to load study data');
+            this.studyTopics = await response.json();
+            this.renderStudyTopics();
+        } catch (error) {
+            console.error('Error loading study data:', error);
+            if (this.topicsContainer) {
+                this.topicsContainer.innerHTML = '<p class="error-text">Lỗi tải dữ liệu bài học.</p>';
+            }
+        }
     }
 
     renderStudyTopics() {
@@ -361,7 +292,16 @@ class QuizApp {
                                 <h3 class="topic-title">${topic.title}</h3>
                             </div>
 
-                            ${topic.videoId ? `
+                            ${topic.localPath ? `
+                            <div class="topic-video">
+                                <div class="video-container local-video">
+                                    <video controls width="100%">
+                                        <source src="${topic.localPath}" type="video/mp4">
+                                        Trình duyệt của bạn không hỗ trợ thẻ video.
+                                    </video>
+                                </div>
+                            </div>
+                            ` : topic.videoId ? `
                             <div class="topic-video">
                                 <div class="video-container">
                                     <iframe src="https://www.youtube.com/embed/${topic.videoId}" title="${topic.title}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
