@@ -1,136 +1,160 @@
-// ===== Study Page =====
+// ===== Study Page with NotebookLM Topics =====
 
 let studyTopics = [];
-let topicsContainer, studyTabs;
+let topicsContainer;
 
 async function initStudy() {
     await loadAllData();
     await loadStudyData();
 
     topicsContainer = document.getElementById('topics-container');
-    studyTabs = document.querySelectorAll('.study-tab');
+    studyTopics = quizData.studyTopics || [];
 
-    studyTabs.forEach(tab => {
-        tab.addEventListener('click', () => {
-            studyTabs.forEach(t => t.classList.remove('active'));
-            tab.classList.add('active');
-            renderStudyTopics();
-        });
-    });
-
-    studyTopics = quizData.studyTopics;
     renderStudyTopics();
 }
 
 function renderStudyTopics() {
-    const activeTab = document.querySelector('.study-tab.active');
-    const chapterFilter = activeTab ? activeTab.dataset.chapter : '1';
-    let sections = studyTopics;
-
-    if (chapterFilter !== 'all') {
-        sections = sections.filter(s => s.chapter === parseInt(chapterFilter));
-    }
-
     if (!topicsContainer) return;
 
-    if (sections.length === 0) {
-        topicsContainer.innerHTML = '<p class="loading-text">Không có nội dung cho chương này.</p>';
+    if (!studyTopics || studyTopics.length === 0) {
+        topicsContainer.innerHTML = '<p class="loading-text">Không có nội dung học tập.</p>';
         return;
     }
 
-    topicsContainer.innerHTML = sections.map((section, sIdx) => `
-        <div class="study-section">
-            <h2 class="section-title">${section.sectionTitle}</h2>
-            <div class="section-content">
-                ${section.topics.map((topic, tIdx) => {
-        const relatedQuestions = findRelatedQuestions(topic, section.chapter);
+    topicsContainer.innerHTML = studyTopics.map((topic, idx) => {
+        const relatedQuestions = findRelatedQuestions(topic);
+        const totalQuestions = relatedQuestions.length;
+
         return `
-                        <div class="topic-card" data-chapter="${section.chapter}">
-                            <div class="topic-header">
-                                <h3 class="topic-title">${topic.title}</h3>
-                            </div>
-
-                            ${topic.localPath ? `
-                            <div class="topic-video">
-                                <div class="video-container local-video">
-                                    <video controls width="100%">
-                                        <source src="${topic.localPath}" type="video/mp4">
-                                        Trình duyệt của bạn không hỗ trợ thẻ video.
-                                    </video>
-                                </div>
-                            </div>
-                            ` : topic.videoId ? `
-                            <div class="topic-video">
-                                <div class="video-container">
-                                    <iframe src="https://www.youtube.com/embed/${topic.videoId}" title="${topic.title}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                                </div>
-                            </div>
-                            ` : ''}
-                            
-                            <div class="topic-theory">
-                                <h4>📚 Lý thuyết</h4>
-                                <div class="theory-content">${topic.theory}</div>
-                            </div>
-                            
-                            <div class="topic-tips">
-                                <h4>💡 Mẹo ghi nhớ</h4>
-                                <ul>
-                                    ${topic.tips.map(tip => `<li>${tip}</li>`).join('')}
-                                </ul>
-                            </div>
-                            
-                            <div class="topic-questions">
-                                <h4>📝 Câu hỏi liên quan (${relatedQuestions.length} câu)</h4>
-                                ${relatedQuestions.length > 0 ? `
-                                    <button class="practice-btn" data-section-idx="${sIdx}" data-topic-idx="${tIdx}">
-                                        🎯 Luyện tập ${relatedQuestions.length} câu này
-                                    </button>
-                                ` : '<p class="no-questions">Không tìm thấy câu hỏi liên quan</p>'}
-                            </div>
+            <div class="topic-card" data-topic-id="${topic.id}">
+                <div class="topic-header">
+                    <span class="topic-icon">${topic.icon || '📚'}</span>
+                    <div class="topic-header-content">
+                        <h3 class="topic-title">${topic.title}</h3>
+                        <div class="topic-meta">
+                            <span class="topic-chapter">Chương ${topic.chapters.join(', ')}</span>
+                            <span class="topic-questions-count">${totalQuestions} câu hỏi</span>
                         </div>
-                    `;
-    }).join('')}
+                    </div>
+                </div>
+
+                ${topic.videos && topic.videos.length > 0 ? `
+                <div class="topic-videos">
+                    <h4>🎬 Video bài giảng (${topic.videos.length})</h4>
+                    <div class="videos-list">
+                        ${topic.videos.map((video, vIdx) => `
+                            <div class="video-item">
+                                <div class="video-thumbnail" onclick="playVideo('${video.videoId}', ${idx}, ${vIdx})">
+                                    <img src="https://img.youtube.com/vi/${video.videoId}/mqdefault.jpg" 
+                                         alt="${video.title}"
+                                         onerror="this.src='https://via.placeholder.com/320x180?text=Video'">
+                                    <div class="play-overlay">▶</div>
+                                </div>
+                                <div class="video-info">
+                                    <p class="video-title">${video.title}</p>
+                                    <p class="video-desc">${video.description || ''}</p>
+                                </div>
+                            </div>
+                        `).join('')}
+                    </div>
+                    <div class="video-player" id="video-player-${idx}" style="display: none;">
+                        <div class="video-container">
+                            <iframe id="video-iframe-${idx}" src="" frameborder="0" 
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                                    allowfullscreen></iframe>
+                        </div>
+                        <button class="close-video-btn" onclick="closeVideo(${idx})">✕ Đóng video</button>
+                    </div>
+                </div>
+                ` : ''}
+                
+                <div class="topic-content">
+                    <h4>📚 Nội dung lý thuyết</h4>
+                    <div class="theory-content">${topic.content}</div>
+                </div>
+
+                <div class="topic-goals">
+                    <h4>🎯 Mục tiêu học tập</h4>
+                    <ul class="goals-list">
+                        ${topic.goals.map(goal => `<li>${goal}</li>`).join('')}
+                    </ul>
+                </div>
+                
+                <div class="topic-tips">
+                    <h4>💡 Mẹo ghi nhớ</h4>
+                    <ul>
+                        ${topic.tips.map(tip => `<li>${tip}</li>`).join('')}
+                    </ul>
+                </div>
+                
+                <div class="topic-practice">
+                    <h4>📝 Luyện tập (${totalQuestions} câu)</h4>
+                    <div class="practice-actions">
+                        ${totalQuestions > 0 ? `
+                            <button class="practice-btn" onclick="startTopicPractice(${idx})">
+                                🎯 Luyện tập ${totalQuestions} câu hỏi liên quan
+                            </button>
+                        ` : '<p class="no-questions">Không có câu hỏi liên quan</p>'}
+                        ${topic.notebookUrl ? `
+                            <a href="${topic.notebookUrl}" target="_blank" class="notebook-btn">
+                                📓 Mở NotebookLM
+                            </a>
+                        ` : ''}
+                    </div>
+                </div>
             </div>
-        </div>
-    `).join('');
-
-    // Add event listeners for practice buttons
-    topicsContainer.querySelectorAll('.practice-btn').forEach(btn => {
-        btn.addEventListener('click', (e) => {
-            const sIdx = parseInt(e.target.dataset.sectionIdx);
-            const tIdx = parseInt(e.target.dataset.topicIdx);
-            startTopicPractice(sIdx, tIdx);
-        });
-    });
+        `;
+    }).join('');
 }
 
-function findRelatedQuestions(topic, chapter) {
-    let questions = quizData.questions;
+function findRelatedQuestions(topic) {
+    if (!quizData.questions || !topic.questionIds) return [];
 
-    if (chapter) {
-        questions = questions.filter(q => q.chapter === parseInt(chapter));
+    let questions = [];
+
+    // questionIds is an object with chapter keys
+    for (const [chapter, ids] of Object.entries(topic.questionIds)) {
+        const chapterNum = parseInt(chapter);
+        const chapterQuestions = quizData.questions.filter(q =>
+            q.chapter === chapterNum && ids.includes(q.question)
+        );
+        questions = questions.concat(chapterQuestions);
     }
 
-    if (topic.questionIds && topic.questionIds.length > 0) {
-        return questions.filter(q => topic.questionIds.includes(q.question));
-    }
-
-    return questions.filter(q => {
-        const questionText = (q.text + ' ' + q.options.map(o => o.text).join(' ')).toLowerCase();
-        return topic.keywords.some(keyword => questionText.includes(keyword.toLowerCase()));
-    });
+    return questions;
 }
 
-function startTopicPractice(sIdx, tIdx) {
-    const section = studyTopics[sIdx];
-    const topic = section?.topics[tIdx];
+function playVideo(videoId, topicIdx, videoIdx) {
+    const player = document.getElementById(`video-player-${topicIdx}`);
+    const iframe = document.getElementById(`video-iframe-${topicIdx}`);
+
+    if (player && iframe) {
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        player.style.display = 'block';
+        player.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+}
+
+function closeVideo(topicIdx) {
+    const player = document.getElementById(`video-player-${topicIdx}`);
+    const iframe = document.getElementById(`video-iframe-${topicIdx}`);
+
+    if (player && iframe) {
+        iframe.src = '';
+        player.style.display = 'none';
+    }
+}
+
+function startTopicPractice(topicIdx) {
+    const topic = studyTopics[topicIdx];
     if (!topic) return;
 
-    const relatedQuestions = findRelatedQuestions(topic, section.chapter);
+    const relatedQuestions = findRelatedQuestions(topic);
     if (relatedQuestions.length === 0) return;
 
     // Store questions in sessionStorage and redirect to exam
     sessionStorage.setItem('practiceQuestions', JSON.stringify(relatedQuestions));
+    sessionStorage.setItem('practiceTopicName', topic.title);
     window.location.href = 'exam.html?practice=true';
 }
 
