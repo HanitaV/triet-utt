@@ -42,6 +42,10 @@ async function initExam() {
     initExamEventListeners();
 
     // Check URL params
+    const urlParams = new URLSearchParams(window.location.search);
+    const isPractice = urlParams.get('practice') === 'true';
+    const chapter = urlParams.get('chapter') || 'all';
+
     if (isPractice) {
         const practiceQuestionsStr = localStorage.getItem('practiceQuestions');
         const practiceTopicName = localStorage.getItem('practiceTopicName');
