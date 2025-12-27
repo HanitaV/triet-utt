@@ -17,7 +17,10 @@ let examProgress, examExplanation, examQuestionContainer;
 
 // Modal Elements
 let resultModal, resultEmoji, resultScoreDisplay, resultDetail, resultMessage;
-let reviewWrongBtn, modalRestartBtn;
+let reviewWrongBtn, modalRestartBtn, backToStudyBtn;
+
+// Practice mode flag
+let isPracticeMode = false;
 
 async function initExam() {
     await loadAllData();
@@ -26,18 +29,20 @@ async function initExam() {
 
     // Check URL params
     const urlParams = new URLSearchParams(window.location.search);
-    const isPractice = urlParams.get('practice') === 'true';
+    // Also check localStorage in case server redirect stripped the query param
+    const isPractice = urlParams.get('practice') === 'true' || localStorage.getItem('practiceSource') === 'study';
     const chapter = urlParams.get('chapter') || 'all';
 
-    // Practice mode - load questions from sessionStorage
+    // Practice mode - load questions from localStorage
     if (isPractice) {
-        const practiceQuestionsStr = sessionStorage.getItem('practiceQuestions');
-        const practiceTopicName = sessionStorage.getItem('practiceTopicName');
+        const practiceQuestionsStr = localStorage.getItem('practiceQuestions');
+        const practiceTopicName = localStorage.getItem('practiceTopicName');
 
         if (practiceQuestionsStr) {
             try {
                 const practiceQuestions = JSON.parse(practiceQuestionsStr);
                 if (practiceQuestions.length > 0) {
+                    isPracticeMode = true;
                     // Update title
                     const examTitle = document.getElementById('exam-title');
                     if (examTitle && practiceTopicName) {
@@ -90,6 +95,7 @@ function initExamElements() {
     resultMessage = document.getElementById('result-message');
     reviewWrongBtn = document.getElementById('review-wrong-btn');
     modalRestartBtn = document.getElementById('modal-restart-btn');
+    backToStudyBtn = document.getElementById('back-to-study-btn');
 }
 
 function initExamEventListeners() {
@@ -117,6 +123,7 @@ function initExamEventListeners() {
         closeModal();
         restartExam();
     });
+    backToStudyBtn?.addEventListener('click', goBackToStudy);
 
     // Keyboard shortcuts
     document.addEventListener('keydown', handleKeyboard);
@@ -390,11 +397,32 @@ function showResultModal() {
     if (resultDetail) resultDetail.textContent = `Đúng: ${correct} / ${total} câu`;
     if (resultMessage) resultMessage.textContent = message;
 
+    // Show back to study button if in practice mode from study page
+    if (backToStudyBtn) {
+        const practiceSource = localStorage.getItem('practiceSource');
+        if (isPracticeMode && practiceSource === 'study') {
+            backToStudyBtn.classList.remove('hidden');
+        } else {
+            backToStudyBtn.classList.add('hidden');
+        }
+    }
+
     resultModal?.classList.add('active');
 }
 
 function closeModal() {
     resultModal?.classList.remove('active');
+}
+
+function goBackToStudy() {
+    // Clear practice session data
+    localStorage.removeItem('practiceQuestions');
+    localStorage.removeItem('practiceTopicName');
+    localStorage.removeItem('practiceSource');
+    localStorage.removeItem('practiceTopicIdx');
+
+    // Navigate back to study page
+    window.location.href = 'study.html';
 }
 
 function restartExam() {

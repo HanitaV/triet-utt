@@ -260,9 +260,11 @@ function startVideoPractice(topicIdx, videoIdx) {
         return;
     }
 
-    // Store questions in sessionStorage and redirect to exam
-    sessionStorage.setItem('practiceQuestions', JSON.stringify(relatedQuestions));
-    sessionStorage.setItem('practiceTopicName', video.title);
+    // Store questions in localStorage and redirect to exam
+    localStorage.setItem('practiceQuestions', JSON.stringify(relatedQuestions));
+    localStorage.setItem('practiceTopicName', video.title);
+    localStorage.setItem('practiceSource', 'study');
+    localStorage.setItem('practiceTopicIdx', topicIdx.toString());
     window.location.href = 'exam.html?practice=true';
 }
 
@@ -307,9 +309,11 @@ function startTopicPractice(topicIdx) {
         return;
     }
 
-    // Store questions in sessionStorage and redirect to exam
-    sessionStorage.setItem('practiceQuestions', JSON.stringify(relatedQuestions));
-    sessionStorage.setItem('practiceTopicName', topic.title);
+    // Store questions in localStorage and redirect to exam
+    localStorage.setItem('practiceQuestions', JSON.stringify(relatedQuestions));
+    localStorage.setItem('practiceTopicName', topic.title);
+    localStorage.setItem('practiceSource', 'study');
+    localStorage.setItem('practiceTopicIdx', topicIdx.toString());
     window.location.href = 'exam.html?practice=true';
 }
 
