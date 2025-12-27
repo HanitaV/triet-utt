@@ -13,21 +13,29 @@ let notebookBtn, practiceAllBtn;
 let sidebar, sidebarToggle;
 
 async function initStudy() {
+    // Ensure subject config is loaded first
+    await loadSubjectsList();
+    await loadCurrentSubjectConfig();
+
     await loadAllData();
 
-    // Load study topics
+    // Load study topics from subject folder
     try {
-        const response = await fetch(`study_data.json?v=${new Date().getTime()}`);
+        const subject = subjectsData.find(s => s.id === getCurrentSubjectId());
+        const studyDataPath = subject ? `${subject.path}/study_data.json` : 'study_data.json';
+        const response = await fetch(`${studyDataPath}?v=${Date.now()}`);
         studyTopics = await response.json();
     } catch (err) {
         console.error('Error loading study data:', err);
         return;
     }
 
+
     initStudyElements();
     initStudyEventListeners();
     renderTopicList();
 }
+
 
 function initStudyElements() {
     topicList = document.getElementById('topic-list');
@@ -52,18 +60,40 @@ function initStudyElements() {
 
     sidebar = document.getElementById('study-sidebar');
     sidebarToggle = document.getElementById('sidebar-toggle');
+
+    // Render dynamic chapter tabs
+    renderChapterTabs();
 }
+
+function renderChapterTabs() {
+    const tabsContainer = document.querySelector('.chapter-tabs');
+    if (!tabsContainer || !currentSubjectData || !currentSubjectData.chapters) return;
+
+    const chapters = currentSubjectData.chapters;
+    let html = '<button class="chapter-tab active" data-chapter="all">Tất cả</button>';
+
+    chapters.forEach(ch => {
+        html += `<button class="chapter-tab" data-chapter="${ch.id}">${ch.name.startsWith('Chương') ? '' : '📘 '} ${ch.name}</button>`;
+    });
+
+    tabsContainer.innerHTML = html;
+}
+
 
 function initStudyEventListeners() {
     // Chapter tabs
-    document.querySelectorAll('.chapter-tab').forEach(tab => {
-        tab.addEventListener('click', () => {
-            document.querySelectorAll('.chapter-tab').forEach(t => t.classList.remove('active'));
-            tab.classList.add('active');
-            currentChapter = tab.dataset.chapter;
-            renderTopicList();
-        });
+    // Chapter tabs (using delegation)
+    const tabsContainer = document.querySelector('.chapter-tabs');
+    tabsContainer?.addEventListener('click', (e) => {
+        const tab = e.target.closest('.chapter-tab');
+        if (!tab) return;
+
+        document.querySelectorAll('.chapter-tab').forEach(t => t.classList.remove('active'));
+        tab.classList.add('active');
+        currentChapter = tab.dataset.chapter;
+        renderTopicList();
     });
+
 
     // Sidebar toggle (mobile)
     sidebarToggle?.addEventListener('click', () => {

@@ -1,0 +1,4038 @@
+{
+    "title": "CHƯƠNG 1",
+    "total_questions": 168,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Theo quan điểm của chủ nghĩa Mác-Lênin thì nguyên nhân chủ yếu làm xuất hiện Nhànước là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Do có sự phân hóa lao động trong xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Do có sự phân hóa giai cấp và đấu tranh giai cấp trong xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Do địa hình, khí hậu không thuận lợi nên con người phải hợp sức lại để phát triển sản xuất"
+                },
+                {
+                    "id": "D",
+                    "content": "Do các thành viên trong xã hội lập ra"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 2,
+            "question": "Nhà nước chưa tồn tại trong hình thái kinh tế - xã hội nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hình thái kinh tế - xã hội Công xã nguyên thủy"
+                },
+                {
+                    "id": "B",
+                    "content": "Hình thái kinh tế - xã hội Cộng sản nguyên thủy"
+                },
+                {
+                    "id": "C",
+                    "content": "Hình thái kinh tế - xã hội Cộng sản chủ nghĩa"
+                },
+                {
+                    "id": "D",
+                    "content": "Hình thái kinh tế - xã hội Chiếm hữu nô lệ"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 3,
+            "question": "Tổ chức thị tộc trong xã hội Cộng sản nguyên thủy là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Một tổ chức kinh tế"
+                },
+                {
+                    "id": "B",
+                    "content": "Một tập đoàn người có cùng quan hệ huyết thống"
+                },
+                {
+                    "id": "C",
+                    "content": "Một xã hội độc lập"
+                },
+                {
+                    "id": "D",
+                    "content": "Một đơn vị độc lập"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 4,
+            "question": "Khi nghiên cứu về tổ chức thị tộc thì khẳng định nào sau đây là đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thị tộc là gia đình trong xã hội Cộng sản nguyên thủy"
+                },
+                {
+                    "id": "B",
+                    "content": "Trong thị tộc đã có sự phân công lao động chuyên môn hóa ngành nghề"
+                },
+                {
+                    "id": "C",
+                    "content": "Thị tộc là đơn vị kinh tế đầu tiên của xã hội cộng sản nguyên thủy"
+                },
+                {
+                    "id": "D",
+                    "content": "Tổ chức thị tộc gắn liền với nền kinh tế sản xuất"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 5,
+            "question": "Theo quan điểm của chủ nghĩa Mác-Lênin về Nhà nước thì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước là hiện tượng tự nhiên"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước là hiện tượng xã hội mang tính lịch sử"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước là hiện tượng xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà nước là hiện tượng xuất hiện và tồn tại cùng với sự xuất hiện, tồn tại của lịch sử xã hộiloài người"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 6,
+            "question": "Dân cư trong xã hội cộng sản nguyên thủy được phân bố theo?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tôn giáo"
+                },
+                {
+                    "id": "B",
+                    "content": "Quan hệ huyết thống"
+                },
+                {
+                    "id": "C",
+                    "content": "Đơn vị hành chính lãnh thổ"
+                },
+                {
+                    "id": "D",
+                    "content": "Hội đồng thị tộc, hội đồng bộ lạc"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 7,
+            "question": "Khi nghiên cứu về nguồn gốc Nhà nước, xem Nhà nước là hiện tượng siêu nhiên, vĩnhcửu, đó là quan điểm của?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thuyết thần học"
+                },
+                {
+                    "id": "B",
+                    "content": "Thuyết gia trưởng"
+                },
+                {
+                    "id": "C",
+                    "content": "Thuyết khế ước xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Thuyết bạo lực"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 8,
+            "question": "Khi nghiên cứu về tổ chức thị tộc thì khẳng định nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thị tộc là đơn vị kinh tế đầu tiên của xã hội cộng sản nguyên thủy"
+                },
+                {
+                    "id": "B",
+                    "content": "Trong thị tộc đã hình thành hội đồng thị tộc"
+                },
+                {
+                    "id": "C",
+                    "content": "Trong thị tộc đã hình thành các giai cấp khác nhau"
+                },
+                {
+                    "id": "D",
+                    "content": "Thị tộc tồn tại gắn liền với nền kinh tế tự nhiên"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 9,
+            "question": "Những quy phạm xã hội tồn tại trong xã hội cộng sản nguyên thủy là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đạo đức, tập quán, pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Tập quán, tín điều tôn giáo, luật pháp"
+                },
+                {
+                    "id": "C",
+                    "content": "Tín điều tôn giáo, tập quán pháp"
+                },
+                {
+                    "id": "D",
+                    "content": "Đạo đức, tập quán, tín điều tôn giáo"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 10,
+            "question": "Trong các quan điểm phi mácxít về nguồn gốc Nhà nước thì quan điểm nào được coilà tiến bộ nhất?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quan điểm của những nhà nghiên cứu theo thuyết thần học"
+                },
+                {
+                    "id": "B",
+                    "content": "Quan điểm của những nhà nghiên cứu theo thuyết gia trưởng"
+                },
+                {
+                    "id": "C",
+                    "content": "Quan điểm của những nhà nghiên cứu theo thuyết khế ước xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Quan điểm của những nhà nghiên cứu theo thuyết bạo lực"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 11,
+            "question": "C.Mác và Ăngghen đã khái quát hóa quá trình tồn tại, phát triển, thay đổi của xã hộiloài người trải qua..... lần phân công lao động?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hai"
+                },
+                {
+                    "id": "B",
+                    "content": "Ba"
+                },
+                {
+                    "id": "C",
+                    "content": "Bốn"
+                },
+                {
+                    "id": "D",
+                    "content": "Năm"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 12,
+            "question": "Đề cập đến quá trình phát triển, thay đổi của xã hội loài người, nhận định nào sauđây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lần phân công lao động thứ nhất: ngành chăn nuôi ra đời"
+                },
+                {
+                    "id": "B",
+                    "content": "Lần phân công lao động thứ hai: ngành trồng trọt và tiểu thủ công nghiệp ra đời"
+                },
+                {
+                    "id": "C",
+                    "content": "Lần phân công lao động thứ ba: ngành thương nghiệp ra đời"
+                },
+                {
+                    "id": "D",
+                    "content": "Lần phân công lao động thứ ba làm cho những mâu thuẫn trong xã hội ngày càng trở nêngay gắt"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 13,
+            "question": "Đề cập đến quá trình phát triển, thay đổi của xã hội loài người, nhận định nào sauđây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lần phân công lao động thứ nhất: ngành chăn nuôi ra đời"
+                },
+                {
+                    "id": "B",
+                    "content": "Lần phân công lao động thứ hai: ngành tiểu thủ công nghiệp ra đời"
+                },
+                {
+                    "id": "C",
+                    "content": "Lần phân công lao động thứ ba: ngành thương nghiệp ra đời"
+                },
+                {
+                    "id": "D",
+                    "content": "Lần phân công lao động thứ tư: Nhà nước ra đời"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 14,
+            "question": "Nhận định nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hội đồng thị tộc là tổ chức quyền lực cao nhất của thị tộc"
+                },
+                {
+                    "id": "B",
+                    "content": "Cơ sở kinh tế đặc trưng của xã hội cộng sản nguyên thủy là chế độ sở hữu chung về tư liệusản xuất và sản phẩm lao động"
+                },
+                {
+                    "id": "C",
+                    "content": "Xã hội cộng sản nguyên thủy đã tồn tại quyền lực Nhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Quyền lực trong xã hội cộng sản nguyên thủy là quyền lực xã hội, chưa mang tính giai cấp"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 15,
+            "question": "Quyền lực trong xã hội cộng sản nguyên thủy mới chỉ là quyền lực xã hội vì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chưa mang tính giai cấp"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyền lực gắn liền với xã hội, hòa nhập với xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Do toàn xã hội tổ chức ra và phục vụ lợi ích cho cả cộng đồng"
+                },
+                {
+                    "id": "D",
+                    "content": "Bao gồm các đáp án"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 16,
+            "question": "Nhà nước là hiện tượng xã hội mang tính lịch sử, đây là khẳng định về nguồn gốc Nhànước theo quan điểm của?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Aristote"
+                },
+                {
+                    "id": "B",
+                    "content": "J.J.Rousseau"
+                },
+                {
+                    "id": "C",
+                    "content": "E.Duyring"
+                },
+                {
+                    "id": "D",
+                    "content": "Mác-Lênin"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 17,
+            "question": "Khi nghiên cứu về nguồn gốc Nhà nước, khẳng định nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước ra đời trong điều kiện xã hội có giai cấp và đấu tranh giai cấp"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước chưa xuất hiện trong chế độ cộng sản nguyên thủy"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước ra đời, tồn tại cùng với lịch sử xã hội loài người"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà nước là hiện tượng xã hội mang tính lịch sử"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 18,
+            "question": "Khẳng định nào sau đây đúng khi đề cập về bản chất Nhà nước?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước nào cũng chỉ mang bản chất xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Mọi Nhà nước đều là bộ máy dùng để duy trì sự thống trị của giai cấp này đối với giai cấpkhác"
+                },
+                {
+                    "id": "C",
+                    "content": "Bất cứ Nhà nước nào cũng thể hiện bản chất xã hội rõ nét hơn bản chất giai cấp"
+                },
+                {
+                    "id": "D",
+                    "content": "Bất cứ Nhà nước nào cũng đều mang bản chất giai cấp và bản chất xã hội"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 19,
+            "question": "Bản chất giai cấp của Nhà nước được thể hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước là công cụ bảo vệ lợi ích của nhân dân lao động"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước là một bộ máy trấn áp đặc biệt của giai cấp này đối với giai cấp khác"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước là công cụ để tổ chức, quản lý xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều đúng"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 20,
+            "question": "Bản chất xã hội của Nhà nước được thể hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước là công cụ sắc bén để duy trì sự thống trị giai cấp"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước là một bộ máy trấn áp đặc biệt của giai cấp này đối với giai cấp khác"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước bảo đảm trật tự an toàn xã hội và giải quyết công việc chung của xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà nước là một bộ máy cưỡng chế đặc biệt nằm trong tay giai cấp cầm quyền"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 21,
+            "question": "Với bản chất là chuyên chính vô sản, “nó” không còn là Nhà nước theo đúng nghĩanữa mà chỉ còn là “một nửa Nhà nước” - “nó” đó là Nhà nước?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước chủ nô"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước phong kiến"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước tư sản"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà nước xã hội chủ nghĩa"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 22,
+            "question": "Nhà nước có mấy thuộc tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2"
+                },
+                {
+                    "id": "B",
+                    "content": "3"
+                },
+                {
+                    "id": "C",
+                    "content": "4"
+                },
+                {
+                    "id": "D",
+                    "content": "5"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 23,
+            "question": "Thuộc tính của Nhà nước được thể hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước thiết lập một quyền lực xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước có quyền ban hành những nội quy, điều lệ"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước có lãnh thổ và thực hiện sự phân chia dân cư thành các đơn vị hành chính lãnhthổ"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà nước có quyền quản lý mọi mặt đời sống xã hội"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 24,
+            "question": "Nhà nước nào cũng có chức năng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bảo đảm an ninh chính trị"
+                },
+                {
+                    "id": "B",
+                    "content": "Phát triển kinh tế"
+                },
+                {
+                    "id": "C",
+                    "content": "Đối nội và đối ngoại"
+                },
+                {
+                    "id": "D",
+                    "content": "Ký kết điều ước quốc tế"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 25,
+            "question": "Đề cập về mối quan hệ giữa các chức năng của Nhà nước, thì khẳng định nào sau đâylà sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chức năng đối nội và chức năng đối ngoại không liên quan đến nhau"
+                },
+                {
+                    "id": "B",
+                    "content": "Chức năng đối nội là cơ sở cho việc thực hiện chức năng đối ngoại"
+                },
+                {
+                    "id": "C",
+                    "content": "Kết quả của việc thực hiện chức năng đối ngoại có tác động đến việc thực hiện chức năngđối nội"
+                },
+                {
+                    "id": "D",
+                    "content": "Chức năng đối nội có vai trò quan trọng hơn chức năng đối ngoại"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 26,
+            "question": "Đối nội và đối ngoại là những mặt hoạt động chủ yếu của Nhà nước, đó chính là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bản chất Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Đặc trưng cơ bản của Nhà nước"
+                },
+                {
+                    "id": "C",
+                    "content": "Cách thức tồn tại của Nhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Chức năng của Nhà nước"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 27,
+            "question": "Việt Nam phối hợp với lực lượng an ninh các quốc gia trong khu vực giải quyết vấnđề tội phạm xuyên quốc gia, đây là hoạt động thể hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chức năng của Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Chức năng đối ngoại của Nhà nước"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhiệm vụ của Nhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Mối quan hệ của Nhà nước Việt Nam"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 28,
+            "question": "Đẩy mạnh cải cách thủ tục hành chính, tăng cường hiệu quả hoạt động của bộ máyNhà nước, đặc biệt trong giai đoạn hiện nay là nội dung thuộc về?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chức năng đối nội của Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyền hạn của Nhà nước"
+                },
+                {
+                    "id": "C",
+                    "content": "Chức năng Nhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhiệm vụ của Nhà nước"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 29,
+            "question": "Nguyên nhân dẫn đến sự thay thế các kiểu Nhà nước trong lịch sử là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Do ý chí của giai cấp thống trị xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Do sự phát triển tự nhiên của xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Do mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất trong xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Do sự vận động, phát triển, thay thế các hình thái kinh tế - xã hội mà nhân tố làm nên sựthay thế đó là các cuộc cách mạng xã hội"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 30,
+            "question": "Khi nghiên cứu về các kiểu Nhà nước trong lịch sử, khẳng định nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tương ứng với mỗi hình thái kinh tế - xã hội trong lịch sử thì có một kiểu Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Cơ sở để xác định kiểu Nhà nước là các yếu tố kinh tế - xã hội tồn tại trong một giai đoạnlịch sử nhất định"
+                },
+                {
+                    "id": "C",
+                    "content": "Nguyên nhân dẫn đến sự thay thế các kiểu Nhà nước trong lịch sử là do sự vận động, thaythế các hình thái kinh tế - xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Kiểu Nhà nước sau bao giờ cũng tiến bộ hơn kiểu Nhà nước trước"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 31,
+            "question": "Kiểu Nhà nước đầu tiên trong lịch sử là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước cộng sản nguyên thủy"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước chủ nô"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước phong kiến"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà nước tư sản"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 32,
+            "question": "Hình thức chính thể của Nhà nước bao gồm các loại?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chính thể quân chủ và cộng hòa dân chủ"
+                },
+                {
+                    "id": "B",
+                    "content": "Chính thể quân chủ và cộng hòa"
+                },
+                {
+                    "id": "C",
+                    "content": "Chính thể cộng hòa tổng thống và cộng hòa đại nghị"
+                },
+                {
+                    "id": "D",
+                    "content": "Chính thể quân chủ tuyệt đối và quân chủ tương đối"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 33,
+            "question": "Chính thể quân chủ tuyệt đối thường xuất hiện ở chế độ xã hội nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cộng sản nguyên thủy"
+                },
+                {
+                    "id": "B",
+                    "content": "Phong kiến"
+                },
+                {
+                    "id": "C",
+                    "content": "Chiếm hữu nô lệ"
+                },
+                {
+                    "id": "D",
+                    "content": "Tư bản chủ nghĩa"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 34,
+            "question": "Hình thức chính thể nào là phổ biến trên thế giới?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cộng hòa tổng thống"
+                },
+                {
+                    "id": "B",
+                    "content": "Quân chủ lập hiến"
+                },
+                {
+                    "id": "C",
+                    "content": "Cộng hòa đại nghị"
+                },
+                {
+                    "id": "D",
+                    "content": "Cộng hòa dân chủ"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 35,
+            "question": "Hình thức Nhà nước được tạo thành từ các yếu tố?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hình thức kinh tế; chế độ kinh tế - chính trị; cấu trúc lãnh thổ"
+                },
+                {
+                    "id": "B",
+                    "content": "Chế độ chính trị; chế độ kinh tế; chế độ văn hóa"
+                },
+                {
+                    "id": "C",
+                    "content": "Hình thức chính thể; hình thức cấu trúc Nhà nước; chế độ chính trị"
+                },
+                {
+                    "id": "D",
+                    "content": "Hình thức cấu trúc; hình thức chính thể; chế độ kinh tế - chính trị"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 36,
+            "question": "Trong một quốc gia, tổ chức duy nhất được quyền phát hành tiền?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quốc hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Chính phủ"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Các tổ chức chính trị - xã hội"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 37,
+            "question": "Lịch sử xã hội loài người đã tồn tại..... kiểu Nhà nước, bao gồm các kiểu Nhà nước là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "4: Chủ nô - Phong kiến - Tư hữu - XHCN"
+                },
+                {
+                    "id": "B",
+                    "content": "4: Chủ nô - Phong kiến - Tư sản - XHCN"
+                },
+                {
+                    "id": "C",
+                    "content": "4: Chủ nô - Chiếm hữu nô lệ - Tư bản - XHCN"
+                },
+                {
+                    "id": "D",
+                    "content": "4: Địa chủ - Nông nô, phong kiến - Tư bản - XHCN"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 38,
+            "question": "Hình thức Nhà nước là cách tổ chức bộ máy quyền lực Nhà nước và phương phápthực hiện quyền lực Nhà nước. Hình thức Nhà nước được thể hiện chủ yếu ở..... khíacạnh; đó là......?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "3 - hình thức chính thể, hình thức cấu trúc Nhà nước và chế độ KT - XH"
+                },
+                {
+                    "id": "B",
+                    "content": "3 - hình thức chính thể, hình thức cấu trúc Nhà nước và chế độ chính trị"
+                },
+                {
+                    "id": "C",
+                    "content": "3 - hình thức chuyên chính, hình thức cấu trúc Nhà nước và chế độ KT - XH"
+                },
+                {
+                    "id": "D",
+                    "content": "3 - hình thức chuyên chính, hình thức cấu trúc Nhà nước và chế độ chính trị"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 39,
+            "question": "Chức năng nào dưới đây không phải là chức năng chính của Quốc hội?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chức năng lập pháp"
+                },
+                {
+                    "id": "B",
+                    "content": "Chức năng giám sát tối cao"
+                },
+                {
+                    "id": "C",
+                    "content": "Chức năng quyết định các vấn đề quan trọng của đất nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Chức năng công tố"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 40,
+            "question": "Quyền lập pháp được hiểu là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quyền ban hành và triển khai thực hiện pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Thiết lập Hiến pháp"
+                },
+                {
+                    "id": "C",
+                    "content": "Soạn thảo và ban hành pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Thực hiện pháp luật"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 41,
+            "question": "Quyền hành pháp được hiểu là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quyền ban hành và triển khai thực hiện pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyền ban hành pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Quyền bảo vệ pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Quyền tổ chức thực hiện pháp luật"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 42,
+            "question": "Quyền tư pháp được hiểu là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quyền xét xử"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyền ban hành pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Quyền tổ chức thực hiện pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Quyền bảo vệ pháp luật"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 43,
+            "question": "Theo quan điểm của chủ nghĩa Mác-Lênin thì nguyên nhân chủ yếu làm xuất hiện Nhànước là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Do có sự phân hóa lao động trong xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Do có sự phân hóa giai cấp và đấu tranh giai cấp trong xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Do địa hình, khí hậu không thuận lợi nên con người phải hợp sức lại để phát triển sản xuất"
+                },
+                {
+                    "id": "D",
+                    "content": "Do các thành viên trong xã hội lập ra"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 44,
+            "question": "Nhà nước chưa tồn tại trong hình thái kinh tế - xã hội nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hình thái kinh tế - xã hội Công xã nguyên thủy"
+                },
+                {
+                    "id": "B",
+                    "content": "Hình thái kinh tế - xã hội Cộng sản nguyên thủy"
+                },
+                {
+                    "id": "C",
+                    "content": "Hình thái kinh tế - xã hội Cộng sản chủ nghĩa"
+                },
+                {
+                    "id": "D",
+                    "content": "Hình thái kinh tế - xã hội Chiếm hữu nô lệ"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 45,
+            "question": "Tổ chức thị tộc trong xã hội Cộng sản nguyên thủy là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Một tổ chức kinh tế"
+                },
+                {
+                    "id": "B",
+                    "content": "Một tập đoàn người có cùng quan hệ huyết thống"
+                },
+                {
+                    "id": "C",
+                    "content": "Một xã hội độc lập"
+                },
+                {
+                    "id": "D",
+                    "content": "Một đơn vị độc lập"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 46,
+            "question": "Khi nghiên cứu về tổ chức thị tộc thì khẳng định nào sau đây là đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thị tộc là gia đình trong xã hội Cộng sản nguyên thủy"
+                },
+                {
+                    "id": "B",
+                    "content": "Trong thị tộc đã có sự phân công lao động chuyên môn hóa ngành nghề"
+                },
+                {
+                    "id": "C",
+                    "content": "Thị tộc là đơn vị kinh tế đầu tiên của xã hội cộng sản nguyên thủy"
+                },
+                {
+                    "id": "D",
+                    "content": "Tổ chức thị tộc gắn liền với nền kinh tế sản xuất"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 47,
+            "question": "Theo quan điểm của chủ nghĩa Mác-Lênin về Nhà nước thì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước là hiện tượng tự nhiên"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước là hiện tượng xã hội mang tính lịch sử"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước là hiện tượng xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà nước là hiện tượng xuất hiện và tồn tại cùng với sự xuất hiện, tồn tại của lịch sử xã hộiloài người"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 48,
+            "question": "Dân cư trong xã hội cộng sản nguyên thủy được phân bố theo?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tôn giáo"
+                },
+                {
+                    "id": "B",
+                    "content": "Quan hệ huyết thống"
+                },
+                {
+                    "id": "C",
+                    "content": "Đơn vị hành chính lãnh thổ"
+                },
+                {
+                    "id": "D",
+                    "content": "Hội đồng thị tộc, hội đồng bộ lạc"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 49,
+            "question": "Khi nghiên cứu về nguồn gốc Nhà nước, xem Nhà nước là hiện tượng siêu nhiên, vĩnhcửu, đó là quan điểm của?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thuyết thần học"
+                },
+                {
+                    "id": "B",
+                    "content": "Thuyết gia trưởng"
+                },
+                {
+                    "id": "C",
+                    "content": "Thuyết khế ước xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Thuyết bạo lực"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 50,
+            "question": "Khi nghiên cứu về tổ chức thị tộc thì khẳng định nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thị tộc là đơn vị kinh tế đầu tiên của xã hội cộng sản nguyên thủy"
+                },
+                {
+                    "id": "B",
+                    "content": "Trong thị tộc đã hình thành hội đồng thị tộc"
+                },
+                {
+                    "id": "C",
+                    "content": "Trong thị tộc đã hình thành các giai cấp khác nhau"
+                },
+                {
+                    "id": "D",
+                    "content": "Thị tộc tồn tại gắn liền với nền kinh tế tự nhiên"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 51,
+            "question": "Những quy phạm xã hội tồn tại trong xã hội cộng sản nguyên thủy là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đạo đức, tập quán, pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Tập quán, tín điều tôn giáo, luật pháp"
+                },
+                {
+                    "id": "C",
+                    "content": "Tín điều tôn giáo, tập quán pháp"
+                },
+                {
+                    "id": "D",
+                    "content": "Đạo đức, tập quán, tín điều tôn giáo"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 52,
+            "question": "Trong các quan điểm phi mácxít về nguồn gốc Nhà nước thì quan điểm nào được coilà tiến bộ nhất?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quan điểm của những nhà nghiên cứu theo thuyết thần học"
+                },
+                {
+                    "id": "B",
+                    "content": "Quan điểm của những nhà nghiên cứu theo thuyết gia trưởng"
+                },
+                {
+                    "id": "C",
+                    "content": "Quan điểm của những nhà nghiên cứu theo thuyết khế ước xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Quan điểm của những nhà nghiên cứu theo thuyết bạo lực"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 53,
+            "question": "C.Mác và Ăngghen đã khái quát hóa quá trình tồn tại, phát triển, thay đổi của xã hộiloài người trải qua..... lần phân công lao động?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hai"
+                },
+                {
+                    "id": "B",
+                    "content": "Ba"
+                },
+                {
+                    "id": "C",
+                    "content": "Bốn"
+                },
+                {
+                    "id": "D",
+                    "content": "Năm"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 54,
+            "question": "Đề cập đến quá trình phát triển, thay đổi của xã hội loài người, nhận định nào sauđây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lần phân công lao động thứ nhất: ngành chăn nuôi ra đời"
+                },
+                {
+                    "id": "B",
+                    "content": "Lần phân công lao động thứ hai: ngành trồng trọt và tiểu thủ công nghiệp ra đời"
+                },
+                {
+                    "id": "C",
+                    "content": "Lần phân công lao động thứ ba: ngành thương nghiệp ra đời"
+                },
+                {
+                    "id": "D",
+                    "content": "Lần phân công lao động thứ ba làm cho những mâu thuẫn trong xã hội ngày càng trở nêngay gắt"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 55,
+            "question": "Đề cập đến quá trình phát triển, thay đổi của xã hội loài người, nhận định nào sauđây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lần phân công lao động thứ nhất: ngành chăn nuôi ra đời"
+                },
+                {
+                    "id": "B",
+                    "content": "Lần phân công lao động thứ hai: ngành tiểu thủ công nghiệp ra đời"
+                },
+                {
+                    "id": "C",
+                    "content": "Lần phân công lao động thứ ba: ngành thương nghiệp ra đời"
+                },
+                {
+                    "id": "D",
+                    "content": "Lần phân công lao động thứ tư: Nhà nước ra đời"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 56,
+            "question": "Nhận định nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hội đồng thị tộc là tổ chức quyền lực cao nhất của thị tộc"
+                },
+                {
+                    "id": "B",
+                    "content": "Cơ sở kinh tế đặc trưng của xã hội cộng sản nguyên thủy là chế độ sở hữu chung về tư liệusản xuất và sản phẩm lao động"
+                },
+                {
+                    "id": "C",
+                    "content": "Xã hội cộng sản nguyên thủy đã tồn tại quyền lực Nhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Quyền lực trong xã hội cộng sản nguyên thủy là quyền lực xã hội, chưa mang tính giai cấp"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 57,
+            "question": "Quyền lực trong xã hội cộng sản nguyên thủy mới chỉ là quyền lực xã hội vì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chưa mang tính giai cấp"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyền lực gắn liền với xã hội, hòa nhập với xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Do toàn xã hội tổ chức ra và phục vụ lợi ích cho cả cộng đồng"
+                },
+                {
+                    "id": "D",
+                    "content": "Bao gồm các đáp án"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 58,
+            "question": "Nhà nước là hiện tượng xã hội mang tính lịch sử, đây là khẳng định về nguồn gốc Nhànước theo quan điểm của?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Aristote"
+                },
+                {
+                    "id": "B",
+                    "content": "J.J.Rousseau"
+                },
+                {
+                    "id": "C",
+                    "content": "E.Duyring"
+                },
+                {
+                    "id": "D",
+                    "content": "Mác-Lênin"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 59,
+            "question": "Khi nghiên cứu về nguồn gốc Nhà nước, khẳng định nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước ra đời trong điều kiện xã hội có giai cấp và đấu tranh giai cấp"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước chưa xuất hiện trong chế độ cộng sản nguyên thủy"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước ra đời, tồn tại cùng với lịch sử xã hội loài người"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà nước là hiện tượng xã hội mang tính lịch sử"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 60,
+            "question": "Khẳng định nào sau đây đúng khi đề cập về bản chất Nhà nước?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước nào cũng chỉ mang bản chất xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Mọi Nhà nước đều là bộ máy dùng để duy trì sự thống trị của giai cấp này đối với giai cấpkhác"
+                },
+                {
+                    "id": "C",
+                    "content": "Bất cứ Nhà nước nào cũng thể hiện bản chất xã hội rõ nét hơn bản chất giai cấp"
+                },
+                {
+                    "id": "D",
+                    "content": "Bất cứ Nhà nước nào cũng đều mang bản chất giai cấp và bản chất xã hội"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 61,
+            "question": "Bản chất giai cấp của Nhà nước được thể hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước là công cụ bảo vệ lợi ích của nhân dân lao động"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước là một bộ máy trấn áp đặc biệt của giai cấp này đối với giai cấp khác"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước là công cụ để tổ chức, quản lý xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều đúng"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 62,
+            "question": "Bản chất xã hội của Nhà nước được thể hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước là công cụ sắc bén để duy trì sự thống trị giai cấp"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước là một bộ máy trấn áp đặc biệt của giai cấp này đối với giai cấp khác"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước bảo đảm trật tự an toàn xã hội và giải quyết công việc chung của xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà nước là một bộ máy cưỡng chế đặc biệt nằm trong tay giai cấp cầm quyền"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 63,
+            "question": "Với bản chất là chuyên chính vô sản, “nó” không còn là Nhà nước theo đúng nghĩanữa mà chỉ còn là “một nửa Nhà nước” - “nó” đó là Nhà nước?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước chủ nô"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước phong kiến"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước tư sản"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà nước xã hội chủ nghĩa"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 64,
+            "question": "Nhà nước có mấy thuộc tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2"
+                },
+                {
+                    "id": "B",
+                    "content": "3"
+                },
+                {
+                    "id": "C",
+                    "content": "4"
+                },
+                {
+                    "id": "D",
+                    "content": "5"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 65,
+            "question": "Thuộc tính của Nhà nước được thể hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước thiết lập một quyền lực xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước có quyền ban hành những nội quy, điều lệ"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước có lãnh thổ và thực hiện sự phân chia dân cư thành các đơn vị hành chính lãnhthổ"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà nước có quyền quản lý mọi mặt đời sống xã hội"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 66,
+            "question": "Nhà nước nào cũng có chức năng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bảo đảm an ninh chính trị"
+                },
+                {
+                    "id": "B",
+                    "content": "Phát triển kinh tế"
+                },
+                {
+                    "id": "C",
+                    "content": "Đối nội và đối ngoại"
+                },
+                {
+                    "id": "D",
+                    "content": "Ký kết điều ước quốc tế"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 67,
+            "question": "Đề cập về mối quan hệ giữa các chức năng của Nhà nước, thì khẳng định nào sau đâylà sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chức năng đối nội và chức năng đối ngoại không liên quan đến nhau"
+                },
+                {
+                    "id": "B",
+                    "content": "Chức năng đối nội là cơ sở cho việc thực hiện chức năng đối ngoại"
+                },
+                {
+                    "id": "C",
+                    "content": "Kết quả của việc thực hiện chức năng đối ngoại có tác động đến việc thực hiện chức năngđối nội"
+                },
+                {
+                    "id": "D",
+                    "content": "Chức năng đối nội có vai trò quan trọng hơn chức năng đối ngoại"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 68,
+            "question": "Đối nội và đối ngoại là những mặt hoạt động chủ yếu của Nhà nước, đó chính là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bản chất Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Đặc trưng cơ bản của Nhà nước"
+                },
+                {
+                    "id": "C",
+                    "content": "Cách thức tồn tại của Nhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Chức năng của Nhà nước"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 69,
+            "question": "Việt Nam phối hợp với lực lượng an ninh các quốc gia trong khu vực giải quyết vấnđề tội phạm xuyên quốc gia, đây là hoạt động thể hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chức năng của Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Chức năng đối ngoại của Nhà nước"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhiệm vụ của Nhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Mối quan hệ của Nhà nước Việt Nam"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 70,
+            "question": "Đẩy mạnh cải cách thủ tục hành chính, tăng cường hiệu quả hoạt động của bộ máyNhà nước, đặc biệt trong giai đoạn hiện nay là nội dung thuộc về?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chức năng đối nội của Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyền hạn của Nhà nước"
+                },
+                {
+                    "id": "C",
+                    "content": "Chức năng Nhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhiệm vụ của Nhà nước"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 71,
+            "question": "Nguyên nhân dẫn đến sự thay thế các kiểu Nhà nước trong lịch sử là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Do ý chí của giai cấp thống trị xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Do sự phát triển tự nhiên của xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Do mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất trong xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Do sự vận động, phát triển, thay thế các hình thái kinh tế - xã hội mà nhân tố làm nên sựthay thế đó là các cuộc cách mạng xã hội"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 72,
+            "question": "Khi nghiên cứu về các kiểu Nhà nước trong lịch sử, khẳng định nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tương ứng với mỗi hình thái kinh tế - xã hội trong lịch sử thì có một kiểu Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Cơ sở để xác định kiểu Nhà nước là các yếu tố kinh tế - xã hội tồn tại trong một giai đoạnlịch sử nhất định"
+                },
+                {
+                    "id": "C",
+                    "content": "Nguyên nhân dẫn đến sự thay thế các kiểu Nhà nước trong lịch sử là do sự vận động, thaythế các hình thái kinh tế - xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Kiểu Nhà nước sau bao giờ cũng tiến bộ hơn kiểu Nhà nước trước"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 73,
+            "question": "Kiểu Nhà nước đầu tiên trong lịch sử là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước cộng sản nguyên thủy"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước chủ nô"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước phong kiến"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà nước tư sản"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 74,
+            "question": "Hình thức chính thể của Nhà nước bao gồm các loại?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chính thể quân chủ và cộng hòa dân chủ"
+                },
+                {
+                    "id": "B",
+                    "content": "Chính thể quân chủ và cộng hòa"
+                },
+                {
+                    "id": "C",
+                    "content": "Chính thể cộng hòa tổng thống và cộng hòa đại nghị"
+                },
+                {
+                    "id": "D",
+                    "content": "Chính thể quân chủ tuyệt đối và quân chủ tương đối"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 75,
+            "question": "Chính thể quân chủ tuyệt đối thường xuất hiện ở chế độ xã hội nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cộng sản nguyên thủy"
+                },
+                {
+                    "id": "B",
+                    "content": "Phong kiến"
+                },
+                {
+                    "id": "C",
+                    "content": "Chiếm hữu nô lệ"
+                },
+                {
+                    "id": "D",
+                    "content": "Tư bản chủ nghĩa"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 76,
+            "question": "Hình thức chính thể nào là phổ biến trên thế giới?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cộng hòa tổng thống"
+                },
+                {
+                    "id": "B",
+                    "content": "Quân chủ lập hiến"
+                },
+                {
+                    "id": "C",
+                    "content": "Cộng hòa đại nghị"
+                },
+                {
+                    "id": "D",
+                    "content": "Cộng hòa dân chủ"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 77,
+            "question": "Hình thức Nhà nước được tạo thành từ các yếu tố?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hình thức kinh tế; chế độ kinh tế - chính trị; cấu trúc lãnh thổ"
+                },
+                {
+                    "id": "B",
+                    "content": "Chế độ chính trị; chế độ kinh tế; chế độ văn hóa"
+                },
+                {
+                    "id": "C",
+                    "content": "Hình thức chính thể; hình thức cấu trúc Nhà nước; chế độ chính trị"
+                },
+                {
+                    "id": "D",
+                    "content": "Hình thức cấu trúc; hình thức chính thể; chế độ kinh tế - chính trị"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 78,
+            "question": "Trong một quốc gia, tổ chức duy nhất được quyền phát hành tiền?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quốc hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Chính phủ"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Các tổ chức chính trị - xã hội"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 79,
+            "question": "Lịch sử xã hội loài người đã tồn tại..... kiểu Nhà nước, bao gồm các kiểu Nhà nước là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "4: Chủ nô - Phong kiến - Tư hữu - XHCN"
+                },
+                {
+                    "id": "B",
+                    "content": "4: Chủ nô - Phong kiến - Tư sản - XHCN"
+                },
+                {
+                    "id": "C",
+                    "content": "4: Chủ nô - Chiếm hữu nô lệ - Tư bản - XHCN"
+                },
+                {
+                    "id": "D",
+                    "content": "4: Địa chủ - Nông nô, phong kiến - Tư bản - XHCN"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 80,
+            "question": "Hình thức Nhà nước là cách tổ chức bộ máy quyền lực Nhà nước và phương phápthực hiện quyền lực Nhà nước. Hình thức Nhà nước được thể hiện chủ yếu ở..... khíacạnh; đó là......?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "3 - hình thức chính thể, hình thức cấu trúc Nhà nước và chế độ KT - XH"
+                },
+                {
+                    "id": "B",
+                    "content": "3 - hình thức chính thể, hình thức cấu trúc Nhà nước và chế độ chính trị"
+                },
+                {
+                    "id": "C",
+                    "content": "3 - hình thức chuyên chính, hình thức cấu trúc Nhà nước và chế độ KT - XH"
+                },
+                {
+                    "id": "D",
+                    "content": "3 - hình thức chuyên chính, hình thức cấu trúc Nhà nước và chế độ chính trị"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 81,
+            "question": "Chức năng nào dưới đây không phải là chức năng chính của Quốc hội?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chức năng lập pháp"
+                },
+                {
+                    "id": "B",
+                    "content": "Chức năng giám sát tối cao"
+                },
+                {
+                    "id": "C",
+                    "content": "Chức năng quyết định các vấn đề quan trọng của đất nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Chức năng công tố"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 82,
+            "question": "Quyền lập pháp được hiểu là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quyền ban hành và triển khai thực hiện pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Thiết lập Hiến pháp"
+                },
+                {
+                    "id": "C",
+                    "content": "Soạn thảo và ban hành pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Thực hiện pháp luật"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 83,
+            "question": "Quyền hành pháp được hiểu là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quyền ban hành và triển khai thực hiện pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyền ban hành pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Quyền bảo vệ pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Quyền tổ chức thực hiện pháp luật"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 84,
+            "question": "Quyền tư pháp được hiểu là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quyền xét xử"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyền ban hành pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Quyền tổ chức thực hiện pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Quyền bảo vệ pháp luật"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 85,
+            "question": "Theo quan điểm của chủ nghĩa Mác-Lênin thì nguyên nhân chủ yếu làm xuất hiện Nhànước là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Do có sự phân hóa lao động trong xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Do có sự phân hóa giai cấp và đấu tranh giai cấp trong xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Do địa hình, khí hậu không thuận lợi nên con người phải hợp sức lại để phát triển sản xuất"
+                },
+                {
+                    "id": "D",
+                    "content": "Do các thành viên trong xã hội lập ra"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 86,
+            "question": "Nhà nước chưa tồn tại trong hình thái kinh tế - xã hội nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hình thái kinh tế - xã hội Công xã nguyên thủy"
+                },
+                {
+                    "id": "B",
+                    "content": "Hình thái kinh tế - xã hội Cộng sản nguyên thủy"
+                },
+                {
+                    "id": "C",
+                    "content": "Hình thái kinh tế - xã hội Cộng sản chủ nghĩa"
+                },
+                {
+                    "id": "D",
+                    "content": "Hình thái kinh tế - xã hội Chiếm hữu nô lệ"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 87,
+            "question": "Tổ chức thị tộc trong xã hội Cộng sản nguyên thủy là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Một tổ chức kinh tế"
+                },
+                {
+                    "id": "B",
+                    "content": "Một tập đoàn người có cùng quan hệ huyết thống"
+                },
+                {
+                    "id": "C",
+                    "content": "Một xã hội độc lập"
+                },
+                {
+                    "id": "D",
+                    "content": "Một đơn vị độc lập"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 88,
+            "question": "Khi nghiên cứu về tổ chức thị tộc thì khẳng định nào sau đây là đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thị tộc là gia đình trong xã hội Cộng sản nguyên thủy"
+                },
+                {
+                    "id": "B",
+                    "content": "Trong thị tộc đã có sự phân công lao động chuyên môn hóa ngành nghề"
+                },
+                {
+                    "id": "C",
+                    "content": "Thị tộc là đơn vị kinh tế đầu tiên của xã hội cộng sản nguyên thủy"
+                },
+                {
+                    "id": "D",
+                    "content": "Tổ chức thị tộc gắn liền với nền kinh tế sản xuất"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 89,
+            "question": "Theo quan điểm của chủ nghĩa Mác-Lênin về Nhà nước thì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước là hiện tượng tự nhiên"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước là hiện tượng xã hội mang tính lịch sử"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước là hiện tượng xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà nước là hiện tượng xuất hiện và tồn tại cùng với sự xuất hiện, tồn tại của lịch sử xã hộiloài người"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 90,
+            "question": "Dân cư trong xã hội cộng sản nguyên thủy được phân bố theo?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tôn giáo"
+                },
+                {
+                    "id": "B",
+                    "content": "Quan hệ huyết thống"
+                },
+                {
+                    "id": "C",
+                    "content": "Đơn vị hành chính lãnh thổ"
+                },
+                {
+                    "id": "D",
+                    "content": "Hội đồng thị tộc, hội đồng bộ lạc"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 91,
+            "question": "Khi nghiên cứu về nguồn gốc Nhà nước, xem Nhà nước là hiện tượng siêu nhiên, vĩnhcửu, đó là quan điểm của?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thuyết thần học"
+                },
+                {
+                    "id": "B",
+                    "content": "Thuyết gia trưởng"
+                },
+                {
+                    "id": "C",
+                    "content": "Thuyết khế ước xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Thuyết bạo lực"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 92,
+            "question": "Khi nghiên cứu về tổ chức thị tộc thì khẳng định nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thị tộc là đơn vị kinh tế đầu tiên của xã hội cộng sản nguyên thủy"
+                },
+                {
+                    "id": "B",
+                    "content": "Trong thị tộc đã hình thành hội đồng thị tộc"
+                },
+                {
+                    "id": "C",
+                    "content": "Trong thị tộc đã hình thành các giai cấp khác nhau"
+                },
+                {
+                    "id": "D",
+                    "content": "Thị tộc tồn tại gắn liền với nền kinh tế tự nhiên"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 93,
+            "question": "Những quy phạm xã hội tồn tại trong xã hội cộng sản nguyên thủy là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đạo đức, tập quán, pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Tập quán, tín điều tôn giáo, luật pháp"
+                },
+                {
+                    "id": "C",
+                    "content": "Tín điều tôn giáo, tập quán pháp"
+                },
+                {
+                    "id": "D",
+                    "content": "Đạo đức, tập quán, tín điều tôn giáo"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 94,
+            "question": "Trong các quan điểm phi mácxít về nguồn gốc Nhà nước thì quan điểm nào được coilà tiến bộ nhất?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quan điểm của những nhà nghiên cứu theo thuyết thần học"
+                },
+                {
+                    "id": "B",
+                    "content": "Quan điểm của những nhà nghiên cứu theo thuyết gia trưởng"
+                },
+                {
+                    "id": "C",
+                    "content": "Quan điểm của những nhà nghiên cứu theo thuyết khế ước xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Quan điểm của những nhà nghiên cứu theo thuyết bạo lực"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 95,
+            "question": "C.Mác và Ăngghen đã khái quát hóa quá trình tồn tại, phát triển, thay đổi của xã hộiloài người trải qua..... lần phân công lao động?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hai"
+                },
+                {
+                    "id": "B",
+                    "content": "Ba"
+                },
+                {
+                    "id": "C",
+                    "content": "Bốn"
+                },
+                {
+                    "id": "D",
+                    "content": "Năm"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 96,
+            "question": "Đề cập đến quá trình phát triển, thay đổi của xã hội loài người, nhận định nào sauđây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lần phân công lao động thứ nhất: ngành chăn nuôi ra đời"
+                },
+                {
+                    "id": "B",
+                    "content": "Lần phân công lao động thứ hai: ngành trồng trọt và tiểu thủ công nghiệp ra đời"
+                },
+                {
+                    "id": "C",
+                    "content": "Lần phân công lao động thứ ba: ngành thương nghiệp ra đời"
+                },
+                {
+                    "id": "D",
+                    "content": "Lần phân công lao động thứ ba làm cho những mâu thuẫn trong xã hội ngày càng trở nêngay gắt"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 97,
+            "question": "Đề cập đến quá trình phát triển, thay đổi của xã hội loài người, nhận định nào sauđây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lần phân công lao động thứ nhất: ngành chăn nuôi ra đời"
+                },
+                {
+                    "id": "B",
+                    "content": "Lần phân công lao động thứ hai: ngành tiểu thủ công nghiệp ra đời"
+                },
+                {
+                    "id": "C",
+                    "content": "Lần phân công lao động thứ ba: ngành thương nghiệp ra đời"
+                },
+                {
+                    "id": "D",
+                    "content": "Lần phân công lao động thứ tư: Nhà nước ra đời"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 98,
+            "question": "Nhận định nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hội đồng thị tộc là tổ chức quyền lực cao nhất của thị tộc"
+                },
+                {
+                    "id": "B",
+                    "content": "Cơ sở kinh tế đặc trưng của xã hội cộng sản nguyên thủy là chế độ sở hữu chung về tư liệusản xuất và sản phẩm lao động"
+                },
+                {
+                    "id": "C",
+                    "content": "Xã hội cộng sản nguyên thủy đã tồn tại quyền lực Nhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Quyền lực trong xã hội cộng sản nguyên thủy là quyền lực xã hội, chưa mang tính giai cấp"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 99,
+            "question": "Quyền lực trong xã hội cộng sản nguyên thủy mới chỉ là quyền lực xã hội vì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chưa mang tính giai cấp"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyền lực gắn liền với xã hội, hòa nhập với xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Do toàn xã hội tổ chức ra và phục vụ lợi ích cho cả cộng đồng"
+                },
+                {
+                    "id": "D",
+                    "content": "Bao gồm các đáp án"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 100,
+            "question": "Nhà nước là hiện tượng xã hội mang tính lịch sử, đây là khẳng định về nguồn gốc Nhànước theo quan điểm của?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Aristote"
+                },
+                {
+                    "id": "B",
+                    "content": "J.J.Rousseau"
+                },
+                {
+                    "id": "C",
+                    "content": "E.Duyring"
+                },
+                {
+                    "id": "D",
+                    "content": "Mác-Lênin"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 101,
+            "question": "Khi nghiên cứu về nguồn gốc Nhà nước, khẳng định nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước ra đời trong điều kiện xã hội có giai cấp và đấu tranh giai cấp"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước chưa xuất hiện trong chế độ cộng sản nguyên thủy"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước ra đời, tồn tại cùng với lịch sử xã hội loài người"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà nước là hiện tượng xã hội mang tính lịch sử"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 102,
+            "question": "Khẳng định nào sau đây đúng khi đề cập về bản chất Nhà nước?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước nào cũng chỉ mang bản chất xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Mọi Nhà nước đều là bộ máy dùng để duy trì sự thống trị của giai cấp này đối với giai cấpkhác"
+                },
+                {
+                    "id": "C",
+                    "content": "Bất cứ Nhà nước nào cũng thể hiện bản chất xã hội rõ nét hơn bản chất giai cấp"
+                },
+                {
+                    "id": "D",
+                    "content": "Bất cứ Nhà nước nào cũng đều mang bản chất giai cấp và bản chất xã hội"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 103,
+            "question": "Bản chất giai cấp của Nhà nước được thể hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước là công cụ bảo vệ lợi ích của nhân dân lao động"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước là một bộ máy trấn áp đặc biệt của giai cấp này đối với giai cấp khác"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước là công cụ để tổ chức, quản lý xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều đúng"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 104,
+            "question": "Bản chất xã hội của Nhà nước được thể hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước là công cụ sắc bén để duy trì sự thống trị giai cấp"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước là một bộ máy trấn áp đặc biệt của giai cấp này đối với giai cấp khác"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước bảo đảm trật tự an toàn xã hội và giải quyết công việc chung của xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà nước là một bộ máy cưỡng chế đặc biệt nằm trong tay giai cấp cầm quyền"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 105,
+            "question": "Với bản chất là chuyên chính vô sản, “nó” không còn là Nhà nước theo đúng nghĩanữa mà chỉ còn là “một nửa Nhà nước” - “nó” đó là Nhà nước?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước chủ nô"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước phong kiến"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước tư sản"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà nước xã hội chủ nghĩa"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 106,
+            "question": "Nhà nước có mấy thuộc tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2"
+                },
+                {
+                    "id": "B",
+                    "content": "3"
+                },
+                {
+                    "id": "C",
+                    "content": "4"
+                },
+                {
+                    "id": "D",
+                    "content": "5"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 107,
+            "question": "Thuộc tính của Nhà nước được thể hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước thiết lập một quyền lực xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước có quyền ban hành những nội quy, điều lệ"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước có lãnh thổ và thực hiện sự phân chia dân cư thành các đơn vị hành chính lãnhthổ"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà nước có quyền quản lý mọi mặt đời sống xã hội"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 108,
+            "question": "Nhà nước nào cũng có chức năng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bảo đảm an ninh chính trị"
+                },
+                {
+                    "id": "B",
+                    "content": "Phát triển kinh tế"
+                },
+                {
+                    "id": "C",
+                    "content": "Đối nội và đối ngoại"
+                },
+                {
+                    "id": "D",
+                    "content": "Ký kết điều ước quốc tế"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 109,
+            "question": "Đề cập về mối quan hệ giữa các chức năng của Nhà nước, thì khẳng định nào sau đâylà sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chức năng đối nội và chức năng đối ngoại không liên quan đến nhau"
+                },
+                {
+                    "id": "B",
+                    "content": "Chức năng đối nội là cơ sở cho việc thực hiện chức năng đối ngoại"
+                },
+                {
+                    "id": "C",
+                    "content": "Kết quả của việc thực hiện chức năng đối ngoại có tác động đến việc thực hiện chức năngđối nội"
+                },
+                {
+                    "id": "D",
+                    "content": "Chức năng đối nội có vai trò quan trọng hơn chức năng đối ngoại"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 110,
+            "question": "Đối nội và đối ngoại là những mặt hoạt động chủ yếu của Nhà nước, đó chính là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bản chất Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Đặc trưng cơ bản của Nhà nước"
+                },
+                {
+                    "id": "C",
+                    "content": "Cách thức tồn tại của Nhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Chức năng của Nhà nước"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 111,
+            "question": "Việt Nam phối hợp với lực lượng an ninh các quốc gia trong khu vực giải quyết vấnđề tội phạm xuyên quốc gia, đây là hoạt động thể hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chức năng của Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Chức năng đối ngoại của Nhà nước"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhiệm vụ của Nhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Mối quan hệ của Nhà nước Việt Nam"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 112,
+            "question": "Đẩy mạnh cải cách thủ tục hành chính, tăng cường hiệu quả hoạt động của bộ máyNhà nước, đặc biệt trong giai đoạn hiện nay là nội dung thuộc về?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chức năng đối nội của Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyền hạn của Nhà nước"
+                },
+                {
+                    "id": "C",
+                    "content": "Chức năng Nhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhiệm vụ của Nhà nước"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 113,
+            "question": "Nguyên nhân dẫn đến sự thay thế các kiểu Nhà nước trong lịch sử là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Do ý chí của giai cấp thống trị xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Do sự phát triển tự nhiên của xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Do mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất trong xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Do sự vận động, phát triển, thay thế các hình thái kinh tế - xã hội mà nhân tố làm nên sựthay thế đó là các cuộc cách mạng xã hội"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 114,
+            "question": "Khi nghiên cứu về các kiểu Nhà nước trong lịch sử, khẳng định nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tương ứng với mỗi hình thái kinh tế - xã hội trong lịch sử thì có một kiểu Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Cơ sở để xác định kiểu Nhà nước là các yếu tố kinh tế - xã hội tồn tại trong một giai đoạnlịch sử nhất định"
+                },
+                {
+                    "id": "C",
+                    "content": "Nguyên nhân dẫn đến sự thay thế các kiểu Nhà nước trong lịch sử là do sự vận động, thaythế các hình thái kinh tế - xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Kiểu Nhà nước sau bao giờ cũng tiến bộ hơn kiểu Nhà nước trước"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 115,
+            "question": "Kiểu Nhà nước đầu tiên trong lịch sử là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước cộng sản nguyên thủy"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước chủ nô"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước phong kiến"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà nước tư sản"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 116,
+            "question": "Hình thức chính thể của Nhà nước bao gồm các loại?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chính thể quân chủ và cộng hòa dân chủ"
+                },
+                {
+                    "id": "B",
+                    "content": "Chính thể quân chủ và cộng hòa"
+                },
+                {
+                    "id": "C",
+                    "content": "Chính thể cộng hòa tổng thống và cộng hòa đại nghị"
+                },
+                {
+                    "id": "D",
+                    "content": "Chính thể quân chủ tuyệt đối và quân chủ tương đối"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 117,
+            "question": "Chính thể quân chủ tuyệt đối thường xuất hiện ở chế độ xã hội nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cộng sản nguyên thủy"
+                },
+                {
+                    "id": "B",
+                    "content": "Phong kiến"
+                },
+                {
+                    "id": "C",
+                    "content": "Chiếm hữu nô lệ"
+                },
+                {
+                    "id": "D",
+                    "content": "Tư bản chủ nghĩa"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 118,
+            "question": "Hình thức chính thể nào là phổ biến trên thế giới?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cộng hòa tổng thống"
+                },
+                {
+                    "id": "B",
+                    "content": "Quân chủ lập hiến"
+                },
+                {
+                    "id": "C",
+                    "content": "Cộng hòa đại nghị"
+                },
+                {
+                    "id": "D",
+                    "content": "Cộng hòa dân chủ"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 119,
+            "question": "Hình thức Nhà nước được tạo thành từ các yếu tố?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hình thức kinh tế; chế độ kinh tế - chính trị; cấu trúc lãnh thổ"
+                },
+                {
+                    "id": "B",
+                    "content": "Chế độ chính trị; chế độ kinh tế; chế độ văn hóa"
+                },
+                {
+                    "id": "C",
+                    "content": "Hình thức chính thể; hình thức cấu trúc Nhà nước; chế độ chính trị"
+                },
+                {
+                    "id": "D",
+                    "content": "Hình thức cấu trúc; hình thức chính thể; chế độ kinh tế - chính trị"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 120,
+            "question": "Trong một quốc gia, tổ chức duy nhất được quyền phát hành tiền?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quốc hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Chính phủ"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Các tổ chức chính trị - xã hội"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 121,
+            "question": "Lịch sử xã hội loài người đã tồn tại..... kiểu Nhà nước, bao gồm các kiểu Nhà nước là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "4: Chủ nô - Phong kiến - Tư hữu - XHCN"
+                },
+                {
+                    "id": "B",
+                    "content": "4: Chủ nô - Phong kiến - Tư sản - XHCN"
+                },
+                {
+                    "id": "C",
+                    "content": "4: Chủ nô - Chiếm hữu nô lệ - Tư bản - XHCN"
+                },
+                {
+                    "id": "D",
+                    "content": "4: Địa chủ - Nông nô, phong kiến - Tư bản - XHCN"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 122,
+            "question": "Hình thức Nhà nước là cách tổ chức bộ máy quyền lực Nhà nước và phương phápthực hiện quyền lực Nhà nước. Hình thức Nhà nước được thể hiện chủ yếu ở..... khíacạnh; đó là......?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "3 - hình thức chính thể, hình thức cấu trúc Nhà nước và chế độ KT - XH"
+                },
+                {
+                    "id": "B",
+                    "content": "3 - hình thức chính thể, hình thức cấu trúc Nhà nước và chế độ chính trị"
+                },
+                {
+                    "id": "C",
+                    "content": "3 - hình thức chuyên chính, hình thức cấu trúc Nhà nước và chế độ KT - XH"
+                },
+                {
+                    "id": "D",
+                    "content": "3 - hình thức chuyên chính, hình thức cấu trúc Nhà nước và chế độ chính trị"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 123,
+            "question": "Chức năng nào dưới đây không phải là chức năng chính của Quốc hội?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chức năng lập pháp"
+                },
+                {
+                    "id": "B",
+                    "content": "Chức năng giám sát tối cao"
+                },
+                {
+                    "id": "C",
+                    "content": "Chức năng quyết định các vấn đề quan trọng của đất nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Chức năng công tố"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 124,
+            "question": "Quyền lập pháp được hiểu là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quyền ban hành và triển khai thực hiện pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Thiết lập Hiến pháp"
+                },
+                {
+                    "id": "C",
+                    "content": "Soạn thảo và ban hành pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Thực hiện pháp luật"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 125,
+            "question": "Quyền hành pháp được hiểu là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quyền ban hành và triển khai thực hiện pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyền ban hành pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Quyền bảo vệ pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Quyền tổ chức thực hiện pháp luật"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 126,
+            "question": "Quyền tư pháp được hiểu là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quyền xét xử"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyền ban hành pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Quyền tổ chức thực hiện pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Quyền bảo vệ pháp luật"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 127,
+            "question": "Theo quan điểm của chủ nghĩa Mác-Lênin thì nguyên nhân chủ yếu làm xuất hiện Nhà nước là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Do có sự phân hóa lao động trong xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Do có sự phân hóa giai cấp và đấu tranh giai cấp trong xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Do địa hình, khí hậu không thuận lợi nên con người phải hợp sức lại để phát triển sản xuất"
+                },
+                {
+                    "id": "D",
+                    "content": "Do các thành viên trong xã hội lập ra"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 128,
+            "question": "Nhà nước chưa tồn tại trong hình thái kinh tế - xã hội nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hình thái kinh tế - xã hội Công xã nguyên thủy"
+                },
+                {
+                    "id": "B",
+                    "content": "Hình thái kinh tế - xã hội Cộng sản nguyên thủy"
+                },
+                {
+                    "id": "C",
+                    "content": "Hình thái kinh tế - xã hội Cộng sản chủ nghĩa"
+                },
+                {
+                    "id": "D",
+                    "content": "Hình thái kinh tế - xã hội Chiếm hữu nô lệ"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 129,
+            "question": "Tổ chức thị tộc trong xã hội Cộng sản nguyên thủy là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Một tổ chức kinh tế"
+                },
+                {
+                    "id": "B",
+                    "content": "Một tập đoàn người có cùng quan hệ huyết thống"
+                },
+                {
+                    "id": "C",
+                    "content": "Một xã hội độc lập"
+                },
+                {
+                    "id": "D",
+                    "content": "Một đơn vị độc lập"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 130,
+            "question": "Khi nghiên cứu về tổ chức thị tộc thì khẳng định nào sau đây là đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thị tộc là gia đình trong xã hội Cộng sản nguyên thủy"
+                },
+                {
+                    "id": "B",
+                    "content": "Trong thị tộc đã có sự phân công lao động chuyên môn hóa ngành nghề"
+                },
+                {
+                    "id": "C",
+                    "content": "Thị tộc là đơn vị kinh tế đầu tiên của xã hội cộng sản nguyên thủy"
+                },
+                {
+                    "id": "D",
+                    "content": "Tổ chức thị tộc gắn liền với nền kinh tế sản xuất"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 131,
+            "question": "Theo quan điểm của chủ nghĩa Mác-Lênin về Nhà nước thì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước là hiện tượng tự nhiên"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước là hiện tượng xã hội mang tính lịch sử"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước là hiện tượng xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà nước là hiện tượng xuất hiện và tồn tại cùng với sự xuất hiện, tồn tại của lịch sử xã hộiloài người"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 132,
+            "question": "Dân cư trong xã hội cộng sản nguyên thủy được phân bố theo?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tôn giáo"
+                },
+                {
+                    "id": "B",
+                    "content": "Quan hệ huyết thống"
+                },
+                {
+                    "id": "C",
+                    "content": "Đơn vị hành chính lãnh thổ"
+                },
+                {
+                    "id": "D",
+                    "content": "Hội đồng thị tộc, hội đồng bộ lạc"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 133,
+            "question": "Khi nghiên cứu về nguồn gốc Nhà nước, xem Nhà nước là hiện tượng siêu nhiên, vĩnhcửu, đó là quan điểm của?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thuyết thần học"
+                },
+                {
+                    "id": "B",
+                    "content": "Thuyết gia trưởng"
+                },
+                {
+                    "id": "C",
+                    "content": "Thuyết khế ước xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Thuyết bạo lực"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 134,
+            "question": "Khi nghiên cứu về tổ chức thị tộc thì khẳng định nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thị tộc là đơn vị kinh tế đầu tiên của xã hội cộng sản nguyên thủy"
+                },
+                {
+                    "id": "B",
+                    "content": "Trong thị tộc đã hình thành hội đồng thị tộc"
+                },
+                {
+                    "id": "C",
+                    "content": "Trong thị tộc đã hình thành các giai cấp khác nhau"
+                },
+                {
+                    "id": "D",
+                    "content": "Thị tộc tồn tại gắn liền với nền kinh tế tự nhiên"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 135,
+            "question": "Những quy phạm xã hội tồn tại trong xã hội cộng sản nguyên thủy là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đạo đức, tập quán, pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Tập quán, tín điều tôn giáo, luật pháp"
+                },
+                {
+                    "id": "C",
+                    "content": "Tín điều tôn giáo, tập quán pháp"
+                },
+                {
+                    "id": "D",
+                    "content": "Đạo đức, tập quán, tín điều tôn giáo"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 136,
+            "question": "Trong các quan điểm phi mácxít về nguồn gốc Nhà nước thì quan điểm nào được coilà tiến bộ nhất?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quan điểm của những nhà nghiên cứu theo thuyết thần học"
+                },
+                {
+                    "id": "B",
+                    "content": "Quan điểm của những nhà nghiên cứu theo thuyết gia trưởng"
+                },
+                {
+                    "id": "C",
+                    "content": "Quan điểm của những nhà nghiên cứu theo thuyết khế ước xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Quan điểm của những nhà nghiên cứu theo thuyết bạo lực"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 137,
+            "question": "C.Mác và Ăngghen đã khái quát hóa quá trình tồn tại, phát triển, thay đổi của xã hộiloài người trải qua..... lần phân công lao động?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hai"
+                },
+                {
+                    "id": "B",
+                    "content": "Ba"
+                },
+                {
+                    "id": "C",
+                    "content": "Bốn"
+                },
+                {
+                    "id": "D",
+                    "content": "Năm"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 138,
+            "question": "Đề cập đến quá trình phát triển, thay đổi của xã hội loài người, nhận định nào sauđây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lần phân công lao động thứ nhất: ngành chăn nuôi ra đời"
+                },
+                {
+                    "id": "B",
+                    "content": "Lần phân công lao động thứ hai: ngành trồng trọt và tiểu thủ công nghiệp ra đời"
+                },
+                {
+                    "id": "C",
+                    "content": "Lần phân công lao động thứ ba: ngành thương nghiệp ra đời"
+                },
+                {
+                    "id": "D",
+                    "content": "Lần phân công lao động thứ ba làm cho những mâu thuẫn trong xã hội ngày càng trở nêngay gắt"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 139,
+            "question": "Đề cập đến quá trình phát triển, thay đổi của xã hội loài người, nhận định nào sauđây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lần phân công lao động thứ nhất: ngành chăn nuôi ra đời"
+                },
+                {
+                    "id": "B",
+                    "content": "Lần phân công lao động thứ hai: ngành tiểu thủ công nghiệp ra đời"
+                },
+                {
+                    "id": "C",
+                    "content": "Lần phân công lao động thứ ba: ngành thương nghiệp ra đời"
+                },
+                {
+                    "id": "D",
+                    "content": "Lần phân công lao động thứ tư: Nhà nước ra đời"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 140,
+            "question": "Nhận định nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hội đồng thị tộc là tổ chức quyền lực cao nhất của thị tộc"
+                },
+                {
+                    "id": "B",
+                    "content": "Cơ sở kinh tế đặc trưng của xã hội cộng sản nguyên thủy là chế độ sở hữu chung về tư liệusản xuất và sản phẩm lao động"
+                },
+                {
+                    "id": "C",
+                    "content": "Xã hội cộng sản nguyên thủy đã tồn tại quyền lực Nhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Quyền lực trong xã hội cộng sản nguyên thủy là quyền lực xã hội, chưa mang tính giai cấp"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 141,
+            "question": "Quyền lực trong xã hội cộng sản nguyên thủy mới chỉ là quyền lực xã hội vì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chưa mang tính giai cấp"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyền lực gắn liền với xã hội, hòa nhập với xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Do toàn xã hội tổ chức ra và phục vụ lợi ích cho cả cộng đồng"
+                },
+                {
+                    "id": "D",
+                    "content": "Bao gồm các đáp án"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 142,
+            "question": "Nhà nước là hiện tượng xã hội mang tính lịch sử, đây là khẳng định về nguồn gốc Nhànước theo quan điểm của?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Aristote"
+                },
+                {
+                    "id": "B",
+                    "content": "J.J.Rousseau"
+                },
+                {
+                    "id": "C",
+                    "content": "E.Duyring"
+                },
+                {
+                    "id": "D",
+                    "content": "Mác-Lênin"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 143,
+            "question": "Khi nghiên cứu về nguồn gốc Nhà nước, khẳng định nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước ra đời trong điều kiện xã hội có giai cấp và đấu tranh giai cấp"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước chưa xuất hiện trong chế độ cộng sản nguyên thủy"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước ra đời, tồn tại cùng với lịch sử xã hội loài người"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà nước là hiện tượng xã hội mang tính lịch sử"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 144,
+            "question": "Khẳng định nào sau đây đúng khi đề cập về bản chất Nhà nước?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước nào cũng chỉ mang bản chất xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Mọi Nhà nước đều là bộ máy dùng để duy trì sự thống trị của giai cấp này đối với giai cấpkhác"
+                },
+                {
+                    "id": "C",
+                    "content": "Bất cứ Nhà nước nào cũng thể hiện bản chất xã hội rõ nét hơn bản chất giai cấp"
+                },
+                {
+                    "id": "D",
+                    "content": "Bất cứ Nhà nước nào cũng đều mang bản chất giai cấp và bản chất xã hội"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 145,
+            "question": "Bản chất giai cấp của Nhà nước được thể hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước là công cụ bảo vệ lợi ích của nhân dân lao động"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước là một bộ máy trấn áp đặc biệt của giai cấp này đối với giai cấp khác"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước là công cụ để tổ chức, quản lý xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều đúng"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 146,
+            "question": "Bản chất xã hội của Nhà nước được thể hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước là công cụ sắc bén để duy trì sự thống trị giai cấp"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước là một bộ máy trấn áp đặc biệt của giai cấp này đối với giai cấp khác"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước bảo đảm trật tự an toàn xã hội và giải quyết công việc chung của xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà nước là một bộ máy cưỡng chế đặc biệt nằm trong tay giai cấp cầm quyền"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 147,
+            "question": "Với bản chất là chuyên chính vô sản, “nó” không còn là Nhà nước theo đúng nghĩanữa mà chỉ còn là “một nửa Nhà nước” - “nó” đó là Nhà nước?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước chủ nô"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước phong kiến"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước tư sản"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà nước xã hội chủ nghĩa"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 148,
+            "question": "Nhà nước có mấy thuộc tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2"
+                },
+                {
+                    "id": "B",
+                    "content": "3"
+                },
+                {
+                    "id": "C",
+                    "content": "4"
+                },
+                {
+                    "id": "D",
+                    "content": "5"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 149,
+            "question": "Thuộc tính của Nhà nước được thể hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước thiết lập một quyền lực xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước có quyền ban hành những nội quy, điều lệ"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước có lãnh thổ và thực hiện sự phân chia dân cư thành các đơn vị hành chính lãnhthổ"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà nước có quyền quản lý mọi mặt đời sống xã hội"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 150,
+            "question": "Nhà nước nào cũng có chức năng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bảo đảm an ninh chính trị"
+                },
+                {
+                    "id": "B",
+                    "content": "Phát triển kinh tế"
+                },
+                {
+                    "id": "C",
+                    "content": "Đối nội và đối ngoại"
+                },
+                {
+                    "id": "D",
+                    "content": "Ký kết điều ước quốc tế"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 151,
+            "question": "Đề cập về mối quan hệ giữa các chức năng của Nhà nước, thì khẳng định nào sau đâylà sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chức năng đối nội và chức năng đối ngoại không liên quan đến nhau"
+                },
+                {
+                    "id": "B",
+                    "content": "Chức năng đối nội là cơ sở cho việc thực hiện chức năng đối ngoại"
+                },
+                {
+                    "id": "C",
+                    "content": "Kết quả của việc thực hiện chức năng đối ngoại có tác động đến việc thực hiện chức năngđối nội"
+                },
+                {
+                    "id": "D",
+                    "content": "Chức năng đối nội có vai trò quan trọng hơn chức năng đối ngoại"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 152,
+            "question": "Đối nội và đối ngoại là những mặt hoạt động chủ yếu của Nhà nước, đó chính là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bản chất Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Đặc trưng cơ bản của Nhà nước"
+                },
+                {
+                    "id": "C",
+                    "content": "Cách thức tồn tại của Nhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Chức năng của Nhà nước"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 153,
+            "question": "Việt Nam phối hợp với lực lượng an ninh các quốc gia trong khu vực giải quyết vấnđề tội phạm xuyên quốc gia, đây là hoạt động thể hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chức năng của Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Chức năng đối ngoại của Nhà nước"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhiệm vụ của Nhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Mối quan hệ của Nhà nước Việt Nam"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 154,
+            "question": "Đẩy mạnh cải cách thủ tục hành chính, tăng cường hiệu quả hoạt động của bộ máyNhà nước, đặc biệt trong giai đoạn hiện nay là nội dung thuộc về?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chức năng đối nội của Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyền hạn của Nhà nước"
+                },
+                {
+                    "id": "C",
+                    "content": "Chức năng Nhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhiệm vụ của Nhà nước"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 155,
+            "question": "Nguyên nhân dẫn đến sự thay thế các kiểu Nhà nước trong lịch sử là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Do ý chí của giai cấp thống trị xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Do sự phát triển tự nhiên của xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Do mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất trong xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Do sự vận động, phát triển, thay thế các hình thái kinh tế - xã hội mà nhân tố làm nên sựthay thế đó là các cuộc cách mạng xã hội"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 156,
+            "question": "Khi nghiên cứu về các kiểu Nhà nước trong lịch sử, khẳng định nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tương ứng với mỗi hình thái kinh tế - xã hội trong lịch sử thì có một kiểu Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Cơ sở để xác định kiểu Nhà nước là các yếu tố kinh tế - xã hội tồn tại trong một giai đoạnlịch sử nhất định"
+                },
+                {
+                    "id": "C",
+                    "content": "Nguyên nhân dẫn đến sự thay thế các kiểu Nhà nước trong lịch sử là do sự vận động, thaythế các hình thái kinh tế - xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Kiểu Nhà nước sau bao giờ cũng tiến bộ hơn kiểu Nhà nước trước"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 157,
+            "question": "Kiểu Nhà nước đầu tiên trong lịch sử là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước cộng sản nguyên thủy"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước chủ nô"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước phong kiến"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà nước tư sản"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 158,
+            "question": "Hình thức chính thể của Nhà nước bao gồm các loại?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chính thể quân chủ và cộng hòa dân chủ"
+                },
+                {
+                    "id": "B",
+                    "content": "Chính thể quân chủ và cộng hòa"
+                },
+                {
+                    "id": "C",
+                    "content": "Chính thể cộng hòa tổng thống và cộng hòa đại nghị"
+                },
+                {
+                    "id": "D",
+                    "content": "Chính thể quân chủ tuyệt đối và quân chủ tương đối"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 159,
+            "question": "Chính thể quân chủ tuyệt đối thường xuất hiện ở chế độ xã hội nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cộng sản nguyên thủy"
+                },
+                {
+                    "id": "B",
+                    "content": "Phong kiến"
+                },
+                {
+                    "id": "C",
+                    "content": "Chiếm hữu nô lệ"
+                },
+                {
+                    "id": "D",
+                    "content": "Tư bản chủ nghĩa"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 160,
+            "question": "Hình thức chính thể nào là phổ biến trên thế giới?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cộng hòa tổng thống"
+                },
+                {
+                    "id": "B",
+                    "content": "Quân chủ lập hiến"
+                },
+                {
+                    "id": "C",
+                    "content": "Cộng hòa đại nghị"
+                },
+                {
+                    "id": "D",
+                    "content": "Cộng hòa dân chủ"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 161,
+            "question": "Hình thức Nhà nước được tạo thành từ các yếu tố?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hình thức kinh tế; chế độ kinh tế - chính trị; cấu trúc lãnh thổ"
+                },
+                {
+                    "id": "B",
+                    "content": "Chế độ chính trị; chế độ kinh tế; chế độ văn hóa"
+                },
+                {
+                    "id": "C",
+                    "content": "Hình thức chính thể; hình thức cấu trúc Nhà nước; chế độ chính trị"
+                },
+                {
+                    "id": "D",
+                    "content": "Hình thức cấu trúc; hình thức chính thể; chế độ kinh tế - chính trị"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 162,
+            "question": "Trong một quốc gia, tổ chức duy nhất được quyền phát hành tiền?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quốc hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Chính phủ"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Các tổ chức chính trị - xã hội"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 163,
+            "question": "Lịch sử xã hội loài người đã tồn tại..... kiểu Nhà nước, bao gồm các kiểu Nhà nước là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "4: Chủ nô - Phong kiến - Tư hữu - XHCN"
+                },
+                {
+                    "id": "B",
+                    "content": "4: Chủ nô - Phong kiến - Tư sản - XHCN"
+                },
+                {
+                    "id": "C",
+                    "content": "4: Chủ nô - Chiếm hữu nô lệ - Tư bản - XHCN"
+                },
+                {
+                    "id": "D",
+                    "content": "4: Địa chủ - Nông nô, phong kiến - Tư bản - XHCN"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 164,
+            "question": "Hình thức Nhà nước là cách tổ chức bộ máy quyền lực Nhà nước và phương phápthực hiện quyền lực Nhà nước. Hình thức Nhà nước được thể hiện chủ yếu ở..... khíacạnh; đó là......?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "3 - hình thức chính thể, hình thức cấu trúc Nhà nước và chế độ KT - XH"
+                },
+                {
+                    "id": "B",
+                    "content": "3 - hình thức chính thể, hình thức cấu trúc Nhà nước và chế độ chính trị"
+                },
+                {
+                    "id": "C",
+                    "content": "3 - hình thức chuyên chính, hình thức cấu trúc Nhà nước và chế độ KT - XH"
+                },
+                {
+                    "id": "D",
+                    "content": "3 - hình thức chuyên chính, hình thức cấu trúc Nhà nước và chế độ chính trị"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 165,
+            "question": "Chức năng nào dưới đây không phải là chức năng chính của Quốc hội?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chức năng lập pháp"
+                },
+                {
+                    "id": "B",
+                    "content": "Chức năng giám sát tối cao"
+                },
+                {
+                    "id": "C",
+                    "content": "Chức năng quyết định các vấn đề quan trọng của đất nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Chức năng công tố"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 166,
+            "question": "Quyền lập pháp được hiểu là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quyền ban hành và triển khai thực hiện pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Thiết lập Hiến pháp"
+                },
+                {
+                    "id": "C",
+                    "content": "Soạn thảo và ban hành pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Thực hiện pháp luật"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 167,
+            "question": "Quyền hành pháp được hiểu là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quyền ban hành và triển khai thực hiện pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyền ban hành pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Quyền bảo vệ pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Quyền tổ chức thực hiện pháp luật"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 168,
+            "question": "Quyền tư pháp được hiểu là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quyền xét xử"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyền ban hành pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Quyền tổ chức thực hiện pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Quyền bảo vệ pháp luật"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        }
+    ]
+}

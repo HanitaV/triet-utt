@@ -1,0 +1,798 @@
+{
+    "title": "CHƯƠNG 4",
+    "total_questions": 33,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Tên gọi Liên minh châu Âu (EU) có từ năm nào sau đây?</p>",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1963."
+                },
+                {
+                    "id": "B",
+                    "content": "B. 1973"
+                },
+                {
+                    "id": "C",
+                    "content": "C. 1983."
+                },
+                {
+                    "id": "D",
+                    "content": "D. 28."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 2,
+            "question": "Những quan hệ nảy sinh trong đời sống xã hội, được các quy phạm pháp luật điềuchỉnh trong đó các chủ thể có những quyền và nghĩa vụ pháp lý nhất định, các quan hệnày là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quan hệ pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Quan hệ xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Vi phạm pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Quan hệ kinh tế"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 3,
+            "question": "Quan hệ pháp luật là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quan hệ nảy sinh trong xã hội được các quy phạm pháp luật điều chỉnh"
+                },
+                {
+                    "id": "B",
+                    "content": "Quan hệ xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Những quan hệ phát sinh khi có hành vi vi phạm pháp luật xảy ra"
+                },
+                {
+                    "id": "D",
+                    "content": "Quan hệ kinh tế, quan hệ chính trị, quan hệ gia đình"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 4,
+            "question": "Quan hệ pháp luật là hình thức đặc biệt của?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quan hệ lao động"
+                },
+                {
+                    "id": "B",
+                    "content": "Quan hệ xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Quy phạm pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Quan hệ chính trị"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 5,
+            "question": "Quan hệ xã hội và quan hệ pháp luật có điểm giống nhau là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đều là những quan hệ được pháp luật điều chỉnh"
+                },
+                {
+                    "id": "B",
+                    "content": "Đều là những quan hệ nảy sinh trong đời sống xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Đều là những quan hệ nảy sinh trong lĩnh vực kinh tế, văn hóa"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều đúng"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 6,
+            "question": "Để quan hệ xã hội trở thành quan hệ pháp luật cần phải có?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quy phạm pháp luật và sự kiện pháp lý"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyền và nghĩa vụ quy định trong quy phạm pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Chủ thể và khách thể quan hệ pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Sự điều chỉnh của pháp luật"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 7,
+            "question": "Quan hệ nào sau đây là quan hệ pháp luật?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quan hệ tình yêu nam nữ"
+                },
+                {
+                    "id": "B",
+                    "content": "Quan hệ vợ chồng"
+                },
+                {
+                    "id": "C",
+                    "content": "Quan hệ bạn bè"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều đúng"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 8,
+            "question": "Đặc điểm của quan hệ pháp luật là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các quan hệ trong cuộc sống"
+                },
+                {
+                    "id": "B",
+                    "content": "Quan hệ mang tính ý chí"
+                },
+                {
+                    "id": "C",
+                    "content": "Các quan hệ trong sản xuất và kinh doanh"
+                },
+                {
+                    "id": "D",
+                    "content": "Quan hệ do Nhà nước quy định"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 9,
+            "question": "Quan hệ pháp luật là quan hệ xã hội có ý chí, ý chí đó là của?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước và các chủ thể tham gia vào quan hệ pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Cá nhân và tổ chức"
+                },
+                {
+                    "id": "D",
+                    "content": "Các đáp án đều sai"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 10,
+            "question": "Quan hệ pháp luật là quan hệ xã hội được điều chỉnh bởi?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Quy tắc tôn giáo"
+                },
+                {
+                    "id": "D",
+                    "content": "Nghị quyết của Đảng"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 11,
+            "question": "Quy phạm pháp luật chỉ có thể làm nảy sinh quan hệ pháp luật giữa các chủ thể khigắn liền với?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Sự kiện pháp lý"
+                },
+                {
+                    "id": "C",
+                    "content": "Nghĩa vụ pháp lý"
+                },
+                {
+                    "id": "D",
+                    "content": "Bao gồm các đáp án"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 12,
+            "question": "Quan hệ pháp luật phát sinh, thay đổi, chấm dứt dưới tác động của?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quy phạm pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Năng lực chủ thể"
+                },
+                {
+                    "id": "C",
+                    "content": "Sự kiện pháp lý"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều đúng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 13,
+            "question": "Nội dung của quan hệ pháp luật được thể hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chủ thể tham gia thực hiện quyền theo quy định của pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Chủ thể tham gia là các cá nhân hoặc tổ chức có đủ tư cách pháp lý"
+                },
+                {
+                    "id": "C",
+                    "content": "Chủ thể tham gia có những quyền và nghĩa vụ do pháp luật quy định"
+                },
+                {
+                    "id": "D",
+                    "content": "Chủ thể tham gia phải thực hiện nghĩa vụ theo quy định của pháp luật"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 14,
+            "question": "Một cá nhân trở thành chủ thể của quan hệ pháp luật cần phải?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thực hiện nghĩa vụ pháp lý do pháp luật quy định"
+                },
+                {
+                    "id": "B",
+                    "content": "Không mắc bệnh tâm thần"
+                },
+                {
+                    "id": "C",
+                    "content": "Có năng lực pháp luật và năng lực hành vi"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều đúng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 15,
+            "question": "Cấu trúc pháp lý của một quan hệ pháp luật gồm các yếu tố cơ bản như sau?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quyền và nghĩa vụ của các bên"
+                },
+                {
+                    "id": "B",
+                    "content": "Chủ thể, khách thể và nội dung"
+                },
+                {
+                    "id": "C",
+                    "content": "Năng lực pháp luật và năng lực hành vi"
+                },
+                {
+                    "id": "D",
+                    "content": "Bao gồm cả a, b, c"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 16,
+            "question": "Chủ thể của quan hệ pháp luật là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước, tất cả mọi cá nhân và tổ chức trong xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Những tổ chức có tiềm lực kinh tế"
+                },
+                {
+                    "id": "C",
+                    "content": "Cá nhân hay tổ chức có năng lực chủ thể tham gia vào quan hệ pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Những cá nhân từ đủ 18 tuổi trở lên và có trí óc bình thường"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 17,
+            "question": "Năng lực pháp luật của cá nhân xuất hiện từ khi?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cá nhân đủ 18 tuổi"
+                },
+                {
+                    "id": "B",
+                    "content": "Cá nhân sinh ra"
+                },
+                {
+                    "id": "C",
+                    "content": "Cá nhân tham gia vào quan hệ pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Cá nhân có khả năng nhận thức và điều khiển hành vi của mình"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 18,
+            "question": "Khi nghiên cứu về năng lực chủ thể quan hệ pháp luật, thì khẳng định nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Năng lực pháp luật là tiền đề cho năng lực hành vi"
+                },
+                {
+                    "id": "B",
+                    "content": "Năng lực pháp luật là khả năng có quyền và nghĩa vụ pháp lý mà nhà nước quy định chocác tổ chức, cá nhân nhất định"
+                },
+                {
+                    "id": "C",
+                    "content": "Năng lực pháp luật của người thành niên thì rộng hơn người chưa thành niên"
+                },
+                {
+                    "id": "D",
+                    "content": "Năng lực pháp luật của cá nhân chỉ được quy định trong các văn bản luật"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 19,
+            "question": "Khi nghiên cứu về năng lực chủ thể của quan hệ pháp luật, thì khẳng định nào sauđây là đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cá nhân có năng lực pháp luật thì cũng có năng lực hành vi"
+                },
+                {
+                    "id": "B",
+                    "content": "Cá nhân có năng lực hành vi thì cũng có năng lực pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Cá nhân không có năng lực hành vi thì cũng không có năng lực pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 20,
+            "question": "Năng lực hành vi của cá nhân chỉ xuất hiện khi?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cá nhân đủ 18 tuổi, không mắc bệnh tâm thần"
+                },
+                {
+                    "id": "B",
+                    "content": "Cá nhân đủ 16 tuổi, có trí óc bình thường"
+                },
+                {
+                    "id": "C",
+                    "content": "Cá nhân đã đến độ tuổi nhất định và có những điều kiện nhất định"
+                },
+                {
+                    "id": "D",
+                    "content": "Được Nhà nước quy định"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 21,
+            "question": "Một tổ chức có tư cách pháp nhân khi có điều kiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Được thành lập hợp pháp, có cơ cấu tổ chức chặt chẽ"
+                },
+                {
+                    "id": "B",
+                    "content": "Có tài sản độc lập với cá nhân, tổ chức khác"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhân danh mình tham gia các quan hệ pháp luật một cách độc lập"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 22,
+            "question": "Khi nghiên cứu về chủ thể quan hệ pháp luật thì khẳng định nào sau đây là đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tất cả mọi cá nhân đều có thể trở thành chủ thể của quan hệ pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Tất cả mọi tổ chức đều có thể trở thành chủ thể của quan hệ pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Tất cả mọi cá nhân và tổ chức có đủ những điều kiện do pháp luật quy định đều có thể trởthành chủ thể của quan hệ pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các cơ quan, đơn vị, tổ chức và cá nhân trong xã hội đều có thể trở thành chủ thể củaquan hệ pháp luật"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 23,
+            "question": "Khi nghiên cứu về quyền chủ thể trong quan hệ pháp luật, thì khẳng định nào sau đâylà đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khả năng được lựa chọn những xử sự theo ý muốn chủ quan của mình"
+                },
+                {
+                    "id": "B",
+                    "content": "Khả năng yêu cầu các chủ thể khác thực hiện nghĩa vụ để bảo đảm việc thực hiện quyềncủa mình"
+                },
+                {
+                    "id": "C",
+                    "content": "Khả năng yêu cầu cơ quan Nhà nước có thẩm quyền bảo vệ quyền của mình khi bị phía chủthể bên kia vi phạm"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 24,
+            "question": "Nghĩa vụ pháp lý của chủ thể gồm có?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chủ thể phải tiến hành một số hành vi nhất định do pháp luật quy định"
+                },
+                {
+                    "id": "B",
+                    "content": "Chủ thể phải tự kiềm chế, không được thực hiện một số hành vi nhất định"
+                },
+                {
+                    "id": "C",
+                    "content": "Chủ thể phải chịu trách nhiệm pháp lý khi không thực hiện theo cách xử sự bắt buộc màpháp luật đã quy định"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 25,
+            "question": "Khách thể của quan hệ pháp luật là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các lợi ích vật chất hoặc tinh thần"
+                },
+                {
+                    "id": "B",
+                    "content": "Các quy định của cơ quan Nhà nước"
+                },
+                {
+                    "id": "C",
+                    "content": "Lợi ích vật chất mà các chủ thể của quan hệ đó hướng tới khi tham gia quan hệ"
+                },
+                {
+                    "id": "D",
+                    "content": "Yếu tố thúc đẩy chủ thể tham gia quan hệ pháp luật"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 26,
+            "question": "Sự kiện pháp lý là những sự kiện xảy ra?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Từ hành vi xử sự của con người"
+                },
+                {
+                    "id": "B",
+                    "content": "Từ thực tiễn đời sống xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Trong thực tiễn đời sống mà sự xuất hiện hay mất đi của nó được pháp luật gắn với việchình thành, thay đổi hay chấm dứt quan hệ pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều đúng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 27,
+            "question": "Khi nghiên cứu về chủ thể quan hệ pháp luật thì khẳng định nào sau đây là đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mọi cá nhân đều có năng lực hành vi như nhau"
+                },
+                {
+                    "id": "B",
+                    "content": "Mọi cá nhân đạt độ tuổi do luật định được tham gia vào tất cả quan hệ pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Mọi tổ chức đều được tham gia vào tất cả quan hệ pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Mọi chủ thể tham gia vào quan hệ pháp luật đều có quyền và nghĩa vụ nhất định"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 28,
+            "question": "Khi nghiên cứu về đặc điểm của quan hệ pháp luật thì khẳng định nào sau đây làsai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quan hệ pháp luật là loại quan hệ có ý chí"
+                },
+                {
+                    "id": "B",
+                    "content": "Quan hệ pháp luật xuất hiện dựa trên cơ sở quy phạm pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Quan hệ pháp luật do Nhà nước quy định"
+                },
+                {
+                    "id": "D",
+                    "content": "Quan hệ pháp luật luôn gắn liền với sự kiện pháp lý"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 29,
+            "question": "Khả năng chủ thể có quyền hoặc có nghĩa vụ pháp lý do Nhà nước quy định, gọi là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khả năng pháp lý"
+                },
+                {
+                    "id": "B",
+                    "content": "Năng lực pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Năng lực hành vi"
+                },
+                {
+                    "id": "D",
+                    "content": "Bao gồm các đáp án"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 30,
+            "question": "Khả năng Nhà nước thừa nhận cho chủ thể bằng hành vi của mình có thể xác lập vàthực hiện quyền hoặc nghĩa vụ pháp lý, gọi là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khả năng hành vi"
+                },
+                {
+                    "id": "B",
+                    "content": "Năng lực pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Năng lực hành vi"
+                },
+                {
+                    "id": "D",
+                    "content": "Năng lực pháp lý"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 31,
+            "question": "Năng lực pháp luật và năng lực hành vi là những thuộc tính không tách rời của mỗicá nhân, đều do Nhà nước thừa nhận cho họ nên gọi là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thuộc tính tự nhiên"
+                },
+                {
+                    "id": "B",
+                    "content": "Năng lực pháp lý"
+                },
+                {
+                    "id": "C",
+                    "content": "Thuộc tính pháp lý"
+                },
+                {
+                    "id": "D",
+                    "content": "Bao gồm các đáp án"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 32,
+            "question": "Khẳng định nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Năng lực pháp luật là tiền đề của năng lực hành vi"
+                },
+                {
+                    "id": "B",
+                    "content": "Năng lực hành vi đầy đủ chỉ có ở những chủ thể đáp ứng đầy đủ các điều kiện do pháp luậtquy định"
+                },
+                {
+                    "id": "C",
+                    "content": "Năng lực pháp luật và năng lực hành vi là những thuộc tính tự nhiên của mỗi cá nhân, cósẵn khi cá nhân sinh ra"
+                },
+                {
+                    "id": "D",
+                    "content": "Năng lực chủ thể pháp luật luôn mang tính giai cấp"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 33,
+            "question": "Chủ thể phổ biến nhất tham gia vào quan hệ pháp luật là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cá nhân"
+                },
+                {
+                    "id": "B",
+                    "content": "Pháp nhân"
+                },
+                {
+                    "id": "C",
+                    "content": "Tổ chức"
+                },
+                {
+                    "id": "D",
+                    "content": "Hộ gia đình"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        }
+    ]
+}

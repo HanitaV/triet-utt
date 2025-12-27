@@ -23,9 +23,15 @@ let reviewWrongBtn, modalRestartBtn, backToStudyBtn;
 let isPracticeMode = false;
 
 async function initExam() {
+    // Ensure subject config is loaded first
+    await loadSubjectsList();
+    await loadCurrentSubjectConfig();
+
     await loadAllData();
     initExamElements();
+    populateChapterSelect(); // Populate dropdown dynamically based on subject
     initExamEventListeners();
+
 
     // Check URL params
     const urlParams = new URLSearchParams(window.location.search);
@@ -63,11 +69,61 @@ async function initExam() {
     }
 
     if (examChapterSelect) {
-        examChapterSelect.value = chapter === 'all' ? 'all' : `exam/chuong_${chapter}.json`;
+        examChapterSelect.value = chapter === 'all' ? 'all' : getChapterFileValue(chapter);
     }
 
     startExam(chapter);
 }
+
+// Populate chapter dropdown based on current subject
+function populateChapterSelect() {
+    if (!examChapterSelect) return;
+
+    const subjectId = getCurrentSubjectId();
+
+    // Clear existing options
+    examChapterSelect.innerHTML = '';
+
+    // Add "All chapters" option
+    const totalQuestions = quizData.questions.length;
+    const allOption = document.createElement('option');
+    allOption.value = 'all';
+    allOption.textContent = `📚 Tất cả chương (${totalQuestions} câu)`;
+    examChapterSelect.appendChild(allOption);
+
+    // Add chapter options based on loaded data
+    if (currentSubjectData && currentSubjectData.chapters) {
+        const basePath = getExamFilesPath();
+        currentSubjectData.chapters.forEach((ch, idx) => {
+            const chapterQuestions = quizData.chapters.find(c => c.chapter === ch.id)?.questions?.length || 0;
+            const option = document.createElement('option');
+            option.value = `${basePath}/${ch.file}`;
+            const icon = ['📘', '📗', '📙', '📕', '📓', '📒', '📔'][idx % 7];
+            option.textContent = `${icon} Chương ${ch.id}: ${ch.name} (${chapterQuestions} câu)`;
+            examChapterSelect.appendChild(option);
+        });
+    } else {
+        // Fallback for legacy Triet Mac Lenin
+        quizData.chapters.forEach((ch, idx) => {
+            const option = document.createElement('option');
+            option.value = ch.file;
+            const icon = ['📘', '📗', '📙'][idx % 3];
+            option.textContent = `${icon} Chương ${ch.chapter} (${ch.questions.length} câu)`;
+            examChapterSelect.appendChild(option);
+        });
+    }
+}
+
+// Helper to get chapter file value from chapter number
+function getChapterFileValue(chapter) {
+    if (!currentSubjectData || !currentSubjectData.chapters) return null;
+    const ch = currentSubjectData.chapters.find(c => c.id === parseInt(chapter));
+    if (!ch) return null;
+    const basePath = getExamFilesPath();
+    return `${basePath}/${ch.file}`;
+}
+
+
 
 function initExamElements() {
     examChapterSelect = document.getElementById('exam-chapter-select');
@@ -101,9 +157,11 @@ function initExamElements() {
 function initExamEventListeners() {
     examChapterSelect?.addEventListener('change', () => {
         const value = examChapterSelect.value;
-        const chapter = value === 'all' ? 'all' : value.match(/chuong_(\d+)/)?.[1] || 'all';
+        // Extract chapter number from both formats: chuong_X.json and X.json
+        const chapter = value === 'all' ? 'all' : (value.match(/chuong_(\d+)/)?.[1] || value.match(/\/(\d+)\.json$/)?.[1] || 'all');
         startExam(chapter);
     });
+
 
     shuffleAnswersToggle?.addEventListener('change', () => {
         shuffleAnswers = shuffleAnswersToggle.checked;

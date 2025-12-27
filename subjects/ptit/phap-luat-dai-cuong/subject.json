@@ -1,0 +1,80 @@
+{
+    "id": "phap-luat-dai-cuong",
+    "name": "Pháp luật đại cương",
+    "shortName": "Pháp luật",
+    "icon": "⚖️",
+    "school": "Học viện Công nghệ Bưu chính Viễn thông",
+    "shortSchool": "PTIT",
+    "examPath": "exam",
+    "chapters": [
+        {
+            "id": 1,
+            "name": "Những vấn đề cơ bản về Nhà nước",
+            "file": "1.json"
+        },
+        {
+            "id": 2,
+            "name": "Những vấn đề cơ bản về Pháp luật",
+            "file": "2.json"
+        },
+        {
+            "id": 3,
+            "name": "Quy phạm pháp luật và Quan hệ pháp luật",
+            "file": "3.json"
+        },
+        {
+            "id": 4,
+            "name": "Thực hiện pháp luật và Vi phạm pháp luật",
+            "file": "4.json"
+        },
+        {
+            "id": 5,
+            "name": "Ý thức pháp luật và Pháp chế XHCN",
+            "file": "5.json"
+        },
+        {
+            "id": 6,
+            "name": "Nhà nước pháp quyền",
+            "file": "6.json"
+        },
+        {
+            "id": 7,
+            "name": "Một số ngành luật trong hệ thống PLVN",
+            "file": "7.json"
+        }
+    ],
+    "simulationConfig": {
+        "totalQuestions": 60,
+        "timeMinutes": 60,
+        "distribution": [
+            {
+                "chapter": 1,
+                "percent": 25
+            },
+            {
+                "chapter": 2,
+                "percent": 20
+            },
+            {
+                "chapter": 3,
+                "percent": 10
+            },
+            {
+                "chapter": 4,
+                "percent": 10
+            },
+            {
+                "chapter": 5,
+                "percent": 15
+            },
+            {
+                "chapter": 6,
+                "percent": 5
+            },
+            {
+                "chapter": 7,
+                "percent": 15
+            }
+        ]
+    }
+}

@@ -1,0 +1,1154 @@
+{
+    "title": "CHƯƠNG 3",
+    "total_questions": 48,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Vùng biển Bắc cực được luật lệ Công pháp quốc tế xác định theo phương án nào sau đây ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các quốc gia giáp với vùng Bắc cực có được một phần nội thủy và lãnh hải có chiều rộng 12 hải lý tính từ ranh giới quốc gia hướng tới Bắc cực;"
+                },
+                {
+                    "id": "B",
+                    "content": "Các quốc gia vành đai giáp với Bắc cực có được một phần lãnh thổ theo quy tắc phù hợp với Công pháp quốc tế tính từ mốc quốc giới ngoài cùng của quốc gia hướng tới tâm Bắc cực;"
+                },
+                {
+                    "id": "C",
+                    "content": "Các quốc gia vành đai giáp với vùng Bắc cực có được một phần lãnh thổ mở rộng có chiều dài 200 hải lý tính từ ranh giới quốc gia hướng tới Bắc cực;"
+                },
+                {
+                    "id": "D",
+                    "content": "Các quốc gia vành đai giáp với vùng Bắc cực có được các vùng nước nội thủy, lãnh hải, tiếp giáp lãnh hải, đặc quyền kinh tế, thềm lục địa như các vùng biển khác."
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 2,
+            "question": "Việt Nam áp dụng quy tắc nào của Công pháp quốc tế để xác định đường cơ sở dùng để tính chiều rộng lãnh hải ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dựa vào mực nước biển thấp nhất giáp với bờ biển và chạy dọc theo bờ biển, đường nối những điểm nhô ra nhất của bờ biển và tất cả các đảo ven bờ ở mực nước thấp nhất;"
+                },
+                {
+                    "id": "B",
+                    "content": "Theo Tuyên bố ngày 12 tháng 5 năm 1977 của Chính phủ nước Cộng hoà xã hội Chủ nghĩa Việt Nam về đường cơ sở dùng để tính chiều rộng lãnh hải Việt Nam;"
+                },
+                {
+                    "id": "C",
+                    "content": "Quy tắc đường gãy khúc nối liền các điểm nhô ra dọc bờ biển và các đảo gần bờ do Chính phủ nước Cộng hoà xã hội Chủ nghĩa Việt Nam xác định và công bố;"
+                },
+                {
+                    "id": "D",
+                    "content": "Đường ngấn nước thuỷ triều thấp nhất được chọn dùng để tính chiều rộng lãnh hải của theo tuyên bố của Chính phủ."
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 3,
+            "question": "“Nguyên tắc tự do biển cả”trong Công pháp quốc tế được hình thành trong thời kỳ nào sau đây ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thời kỳ Chiếm hữu nô lệ;"
+                },
+                {
+                    "id": "B",
+                    "content": "Thời kỳ Phong kiến;"
+                },
+                {
+                    "id": "C",
+                    "content": "Thời kỳ Tư bản chủ nghĩa;"
+                },
+                {
+                    "id": "D",
+                    "content": "Mới được hình thành trong giai đoạn sau Đại chiến thế giới lần thứ nhất."
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 4,
+            "question": "Công pháp quốc tế hiện đại có các chủ thể chủ yếu nào ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quốc gia và dân tộc"
+                },
+                {
+                    "id": "B",
+                    "content": "Quốc gia, dân tộc và tổ chức quốc tế"
+                },
+                {
+                    "id": "C",
+                    "content": "Quốc gia, dân tộc đang đấu tranh giành quyền dân tộc tự quyết; tổ chức quốc tế liên chính phủ và các chủ thể đặc biệt"
+                },
+                {
+                    "id": "D",
+                    "content": "Các chủ thể đặc biệt."
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 5,
+            "question": "Đến nay Công pháp quốc tế đã trải qua mấy thời kỳ phát triển ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Công pháp quốc tế thời kỳ cổ đại và hiện đại"
+                },
+                {
+                    "id": "B",
+                    "content": "Công pháp quốc tế thời kỳ cổ đại, trung đại, cận đại, hiện đại"
+                },
+                {
+                    "id": "C",
+                    "content": "Công pháp quốc tế thời kỳ cổ đại, trung cận đại và hiện đại"
+                },
+                {
+                    "id": "D",
+                    "content": "Công pháp quốc tế thời kỳ cổ đại, trung đại, cận đại, hiện đại và hậu hiện đại"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 6,
+            "question": "82. Các đáp án sau đều là quy phạm pháp luật, ngoại trừ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nghị quyết của Quốc hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyết định của Chủ tịch nước"
+                },
+                {
+                    "id": "C",
+                    "content": "Điều lệ Đoàn Thanh niên Cộng sản Hồ Chí Minh"
+                },
+                {
+                    "id": "D",
+                    "content": "Nghị quyết của Hội đồng nhân dân"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 7,
+            "question": "Quốc gia ven biển có các vùng biển nào thuộc chủ quyền quốc gia ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "A. Vùng nội thủy, vùng lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế, thềm lục địa, biển cả (biển quốc tế), và vùng đáy biển và vùng đất dưới đáy biển;"
+                },
+                {
+                    "id": "B",
+                    "content": "B. Vùng nội thủy, vùng lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa;"
+                },
+                {
+                    "id": "C",
+                    "content": "C. Vùng nội thủy, vùng lãnh hải, vùng tiếp giáp lãnh hải và vùng đặc quyền kinh tế;"
+                },
+                {
+                    "id": "D",
+                    "content": "D. Vùng nội thủy và vùng lãnh hải."
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 8,
+            "question": "83. Các đáp án sau đều là quy phạm pháp luật, ngoại trừ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quyết định của Thủ tướng Chính phủ"
+                },
+                {
+                    "id": "B",
+                    "content": "Thông tư của Bộ trưởng Bộ Tài chính"
+                },
+                {
+                    "id": "C",
+                    "content": "Điều lệ Hội Cựu chiến binh"
+                },
+                {
+                    "id": "D",
+                    "content": "Nghị quyết Ủy ban Thường vụ Quốc hội"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 9,
+            "question": "Các đáp án sau đều là quy phạm pháp luật, ngoại trừ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nghị quyết của Hội đồng Thẩm phán Tòa án nhân dân Tối cao"
+                },
+                {
+                    "id": "B",
+                    "content": "Nghị quyết của Hội đồng nhân dân Tp. Hồ Chí Minh"
+                },
+                {
+                    "id": "C",
+                    "content": "Nghị quyết của Đảng Cộng sản"
+                },
+                {
+                    "id": "D",
+                    "content": "Nghị quyết Ủy ban Thường vụ Quốc hội"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 10,
+            "question": "Quy phạm pháp luật là quy tắc xử sự mang tính..... do..... ban hành và bảo đảm thựchiện, thể hiện ý chí và bảo vệ lợi ích của giai cấp thống trị để điều chỉnh các.....?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bắt buộc chung - Nhà nước - quan hệ pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Bắt buộc - Nhà nước - quan hệ xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Bắt buộc chung - Quốc hội - quan hệ xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Bắt buộc chung - Nhà nước - quan hệ xã hội"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 11,
+            "question": "Những quy tắc xử sự chung do Nhà nước ban hành và bảo đảm thực hiện để điềuchỉnh các quan hệ xã hội theo định hướng và nhằm đạt được những mục đích nhất định,các quy tắc đó gọi là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quy phạm luật pháp"
+                },
+                {
+                    "id": "B",
+                    "content": "Vi phạm pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Quy phạm pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Văn bản pháp luật"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 12,
+            "question": "Quy phạm pháp luật tồn tại trong xã hội nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xã hội có giai cấp"
+                },
+                {
+                    "id": "B",
+                    "content": "Xã hội có Nhà nước"
+                },
+                {
+                    "id": "C",
+                    "content": "Các đáp án đều đúng"
+                },
+                {
+                    "id": "D",
+                    "content": "Xã hội có tư hữu"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 13,
+            "question": "Quy phạm pháp luật là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quy tắc xử sự chung tồn tại từ xã hội nguyên thủy đến nay để điều chỉnh các quan hệ xãhội"
+                },
+                {
+                    "id": "B",
+                    "content": "Các quy phạm xã hội được lưu truyền từ xưa đến nay để điều chỉnh các quan hệ xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Quy tắc được hình thành dựa trên nhận thức về các quy luật tự nhiên, điều chỉnh mối quanhệ giữa người và máy móc"
+                },
+                {
+                    "id": "D",
+                    "content": "Những quy tắc xử sự chung do Nhà nước ban hành và bảo đảm thực hiện để điều chỉnh cácquan hệ xã hội theo định hướng và nhằm đạt được những mục đích nhất định"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 14,
+            "question": "Quy phạm pháp luật và quy phạm xã hội?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là hai khái niệm đồng nhất"
+                },
+                {
+                    "id": "B",
+                    "content": "Hoàn toàn giống nhau"
+                },
+                {
+                    "id": "C",
+                    "content": "Hoàn toàn khác nhau"
+                },
+                {
+                    "id": "D",
+                    "content": "Vừa có điểm giống nhau, vừa có điểm khác nhau"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 15,
+            "question": "Trong xã hội có giai cấp, quy phạm nào sau đây có vai trò quan trọng nhất đối vớiviệc duy trì trật tự xã hội?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quy phạm tập quán"
+                },
+                {
+                    "id": "B",
+                    "content": "Quy phạm tôn giáo"
+                },
+                {
+                    "id": "C",
+                    "content": "Quy phạm pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Quy phạm đạo đức"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 16,
+            "question": "Đặc điểm khác biệt nhất của quy phạm pháp luật so với các quy phạm xã hội khác là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quy phạm pháp luật là quy tắc xử sự chung"
+                },
+                {
+                    "id": "B",
+                    "content": "Quy phạm pháp luật có tính hệ thống"
+                },
+                {
+                    "id": "C",
+                    "content": "Quy phạm pháp luật do các cơ quan Nhà nước có thẩm quyền ban hành và bảo đảm thựchiện"
+                },
+                {
+                    "id": "D",
+                    "content": "Nội dung của quy phạm pháp luật quy định quyền và nghĩa vụ pháp lý của các bên thamgia quan hệ xã hội mà nó điều chỉnh"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 17,
+            "question": "Cấu trúc pháp lý của một quy phạm pháp luật thông thường gồm có các bộ phận?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giả định"
+                },
+                {
+                    "id": "B",
+                    "content": "Quy định"
+                },
+                {
+                    "id": "C",
+                    "content": "Chế tài"
+                },
+                {
+                    "id": "D",
+                    "content": "Bao gồm các đáp án"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 18,
+            "question": "Chọn phương án đúng nhất điền vào chỗ trống: .....của quy phạm pháp luật chứađựng mệnh lệnh của Nhà nước?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bộ phận giả định"
+                },
+                {
+                    "id": "B",
+                    "content": "Bộ phận quy định"
+                },
+                {
+                    "id": "C",
+                    "content": "Bộ phận chế tài"
+                },
+                {
+                    "id": "D",
+                    "content": "Bộ phận quy định và bộ phận chế tài"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 19,
+            "question": "Những điều kiện, hoàn cảnh có thể xảy ra trong thực tế cuộc sống mà Nhà nước dựliệu và dùng pháp luật tác động, được ghi nhận tại bộ phận..... của quy phạm pháp luật?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giả định"
+                },
+                {
+                    "id": "B",
+                    "content": "Giả thuyết"
+                },
+                {
+                    "id": "C",
+                    "content": "Quy định"
+                },
+                {
+                    "id": "D",
+                    "content": "Giả định và quy định"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 20,
+            "question": "Bộ phận nào sau đây không thể thiếu trong một quy phạm pháp luật?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bộ phận giả định và bộ phận chế tài"
+                },
+                {
+                    "id": "B",
+                    "content": "Bộ phận giả định"
+                },
+                {
+                    "id": "C",
+                    "content": "Bộ phận quy định"
+                },
+                {
+                    "id": "D",
+                    "content": "Bộ phận chế tài"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 21,
+            "question": "Trong một quy phạm pháp luật, bộ phận quan trọng nhất là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bộ phận quy định và bộ phận chế tài"
+                },
+                {
+                    "id": "B",
+                    "content": "Bộ phận giả định"
+                },
+                {
+                    "id": "C",
+                    "content": "Bộ phận quy định"
+                },
+                {
+                    "id": "D",
+                    "content": "Bộ phận chế tài"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 22,
+            "question": "Bộ phận nào của quy phạm pháp luật nhằm bảo đảm cho pháp luật được thực hiệnnghiêm chỉnh?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giả định"
+                },
+                {
+                    "id": "B",
+                    "content": "Quy định"
+                },
+                {
+                    "id": "C",
+                    "content": "Chế tài"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều đúng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 23,
+            "question": "Giới hạn Nhà nước đưa ra cho phép, cấm đoán, bắt buộc các chủ thể thực hiện hànhvi hoặc tiến hành một công việc nhất định được ghi nhận tại bộ phận..... của quy phạmpháp luật?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giả định"
+                },
+                {
+                    "id": "B",
+                    "content": "Chế định"
+                },
+                {
+                    "id": "C",
+                    "content": "Quy định"
+                },
+                {
+                    "id": "D",
+                    "content": "Chế tài"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 24,
+            "question": "Giả định nêu lên nhiều điều kiện, hoàn cảnh và giữa chúng có mối liên hệ với nhau,gọi là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giả định đơn giản"
+                },
+                {
+                    "id": "B",
+                    "content": "Giả định phức hợp"
+                },
+                {
+                    "id": "C",
+                    "content": "Giả định phức tạp"
+                },
+                {
+                    "id": "D",
+                    "content": "Giả thuyết phức tạp"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 25,
+            "question": "Những biện pháp cưỡng chế Nhà nước dự liệu áp dụng đối với chủ thể không thựchiện đúng pháp luật được ghi nhận tại bộ phận..... của quy phạm pháp luật?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giả định"
+                },
+                {
+                    "id": "B",
+                    "content": "Quy định"
+                },
+                {
+                    "id": "C",
+                    "content": "Chế định"
+                },
+                {
+                    "id": "D",
+                    "content": "Chế tài"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 26,
+            "question": "Một quy phạm pháp luật thông thường cấu trúc gồm có các bộ phận?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giả định, chế định, chế tài"
+                },
+                {
+                    "id": "B",
+                    "content": "Giả thuyết, quy định, chế tài"
+                },
+                {
+                    "id": "C",
+                    "content": "Giả định, chế tài"
+                },
+                {
+                    "id": "D",
+                    "content": "Giả định, quy định, chế tài"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 27,
+            "question": "Chọn phương án đúng nhất điền vào chỗ trống: .....là tổng thể các quy phạm phápluật có mối liên hệ nội tại thống nhất với nhau, được phân thành các chế định pháp luật,các ngành luật và được thể hiện trong các văn bản quy phạm pháp luật do Nhà nước banhành?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quan hệ pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Hệ thống pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Quy phạm pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Ngành luật"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 28,
+            "question": "Cấu trúc của hệ thống pháp luật được thể hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cấu trúc bên trong gồm: quy phạm pháp luật, chế định pháp luật và ngành luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Cấu trúc bên trong và hình thức biểu hiện bên ngoài"
+                },
+                {
+                    "id": "C",
+                    "content": "Hệ thống các văn bản do cơ quan nhà nước có thẩm quyền ban hành"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 29,
+            "question": "Cấu trúc bên trong của hệ thống pháp luật được hợp thành từ những yếu tố nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quy phạm pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Chế định pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Ngành luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Bao gồm cả a, b, c"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 30,
+            "question": "Hình thức biểu hiện bên ngoài của hệ thống pháp luật là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các quy phạm pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Các loại văn bản luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Các văn bản quy phạm pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Các ngành luật"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 31,
+            "question": "Chọn phương án đúng nhất điền vào chỗ trống: .....là đơn vị nhỏ nhất cấu thành nênhệ thống pháp luật",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ngành luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Văn bản pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Chế định pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Quy phạm pháp luật"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 32,
+            "question": "Chọn phương án đúng nhất điền vào chỗ trống: .....là một nhóm các quy phạm phápluật có đặc điểm chung, cùng điều chỉnh một nhóm quan hệ xã hội có cùng tính chất?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ngành luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Chế định pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Quan hệ pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Quy phạm pháp luật"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 33,
+            "question": "Chọn phương án đúng nhất điền vào chỗ trống: .....là hệ thống các quy phạm phápluật điều chỉnh các quan hệ cùng loại trong một lĩnh vực nhất định của đời sống xã hội?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hệ thống pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Quan hệ pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Ngành luật"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 34,
+            "question": "Văn bản quy phạm pháp luật là văn bản do?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quốc hội ban hành"
+                },
+                {
+                    "id": "B",
+                    "content": "Chủ tịch nước ban hành"
+                },
+                {
+                    "id": "C",
+                    "content": "Chính phủ ban hành"
+                },
+                {
+                    "id": "D",
+                    "content": "Cơ quan Nhà nước có thẩm quyền ban hành"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 35,
+            "question": "Tính thứ bậc của các loại văn bản pháp luật được xác định theo thứ tự?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hiến pháp - Pháp lệnh - Các bộ luật, đạo luật - Các văn bản dưới luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Hiến pháp - Các bộ luật, đạo luật - Các văn bản dưới luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Các bộ luật, đạo luật - Hiến pháp - Pháp lệnh - Các văn bản dưới luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Pháp lệnh - Hiến pháp - Các bộ luật, đạo luật - Các văn bản dưới luật"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 36,
+            "question": "Tiêu chuẩn xác định một hệ thống pháp luật hoàn thiện là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tính toàn diện, tính đồng bộ"
+                },
+                {
+                    "id": "B",
+                    "content": "Tính phù hợp"
+                },
+                {
+                    "id": "C",
+                    "content": "Trình độ kỹ thuật pháp lý cao"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 37,
+            "question": "Trình tự trình bày các bộ phận giả định, quy định, chế tài của quy phạm pháp luậtlà?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giả định - Quy định - Chế tài"
+                },
+                {
+                    "id": "B",
+                    "content": "Quy định - Chế tài - Giả định"
+                },
+                {
+                    "id": "C",
+                    "content": "Giả định - Chế tài - Quy định"
+                },
+                {
+                    "id": "D",
+                    "content": "Không nhất thiết phải như a, b, c"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 38,
+            "question": "Các cơ quan được phép ban hành Nghị quyết?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quốc hội; Ủy ban Thường vụ Quốc hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Chính phủ, Quốc hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Quốc hội; Hội đồng nhân dân"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 39,
+            "question": "Chủ tịch nước được quyền ban hành?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lệnh, Quyết định"
+                },
+                {
+                    "id": "B",
+                    "content": "Lệnh; Nghị quyết"
+                },
+                {
+                    "id": "C",
+                    "content": "Nghị quyết; Nghị định"
+                },
+                {
+                    "id": "D",
+                    "content": "Quyết định; Chỉ thị; Thông tư"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 40,
+            "question": "Bộ trưởng có quyền ban hành?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quyết định; Nghị quyết; Chỉ thị"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyết định; Chỉ thị; Lệnh"
+                },
+                {
+                    "id": "C",
+                    "content": "Quyết định; Chỉ thị; Thông tư"
+                },
+                {
+                    "id": "D",
+                    "content": "Thông tư"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 41,
+            "question": "Văn bản quy phạm pháp luật do Hội đồng nhân dân ban hành?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quyết định; Nghị quyết"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyết định; Chỉ thị"
+                },
+                {
+                    "id": "C",
+                    "content": "Nghị quyếtd) Quyết định; Thông tư"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 42,
+            "question": "Viện trưởng Viện Kiểm sát nhân dân tối cao không có quyền ban hành?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nghị quyết"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyết định; chỉ thị; thông tư"
+                },
+                {
+                    "id": "C",
+                    "content": "Thông tư"
+                },
+                {
+                    "id": "D",
+                    "content": "Nghị quyết; thông tư"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 43,
+            "question": "Thủ tướng Chính phủ không có quyền ban hành?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nghị quyết; Quyết định; Chỉ thị"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyết định"
+                },
+                {
+                    "id": "C",
+                    "content": "Quyết định; chỉ thị"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều sai"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 44,
+            "question": "Theo quy định pháp luật, văn bản quy phạm pháp luật chỉ có hiệu lực thi hành khi?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Văn bản quy phạm pháp luật đã được đăng công báo, trừ một số trường hợp đặc biệt đượcpháp luật quy định"
+                },
+                {
+                    "id": "B",
+                    "content": "Sau khi văn bản quy phạm pháp luật được công bố"
+                },
+                {
+                    "id": "C",
+                    "content": "Sau khi văn bản quy phạm pháp luật được ban hành"
+                },
+                {
+                    "id": "D",
+                    "content": "Sau khi văn bản quy phạm pháp luật được thông qua"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 45,
+            "question": "Thời điểm có hiệu lực của văn bản quy phạm pháp luật?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Được quy định trong văn bản quy phạm pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Được quy định trong văn bản quy phạm pháp luật nhưng không sớm hơn bốn mươi lămngày, kể từ ngày công bố hoặc ký ban hành"
+                },
+                {
+                    "id": "C",
+                    "content": "Kể từ ngày công bố văn bản quy phạm pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Kể từ ngày ký ban hành văn bản quy phạm pháp luật"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 46,
+            "question": "Trường hợp Chính phủ ban hành một Nghị định mới thay thế cho một Nghị định đãđược ban hành trước đó thì Nghị định đã ban hành trước đây sẽ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phát sinh hiệu lực"
+                },
+                {
+                    "id": "B",
+                    "content": "Tiếp tục có hiệu lực"
+                },
+                {
+                    "id": "C",
+                    "content": "Chấm dứt hiệu lực"
+                },
+                {
+                    "id": "D",
+                    "content": "Ngưng hiệu lực"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 47,
+            "question": "Khẳng định nào sau đây là đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hiệu lực hồi tố của văn bản quy phạm pháp luật được Nhà nước thừa nhận và áp dụng phổbiến"
+                },
+                {
+                    "id": "B",
+                    "content": "Hiệu lực hồi tố của văn bản quy phạm pháp luật cho phép quy định trách nhiệm pháp lýmới đối với hành vi mà vào thời điểm thực hiện hành vi đó pháp luật không quy định tráchnhiệm pháp lý"
+                },
+                {
+                    "id": "C",
+                    "content": "Trong mọi trường hợp đều không áp dụng hiệu lực hồi tố của văn bản quy phạm pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Trong những trường hợp thật cần thiết, phù hợp với nguyên tắc nhân đạo XHCN, Nhà nướccho phép sử dụng hiệu lực hồi tố trong một số quy phạm cụ thể."
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 48,
+            "question": "Một hệ thống pháp luật hoàn thiện được xác định dựa trên các tiêu chí nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tính thống nhất, tính toàn diện, tính phù hợp"
+                },
+                {
+                    "id": "B",
+                    "content": "Tính toàn diện, tính đồng bộ, tính phù hợp, trình độ kỹ thuật pháp lý cao"
+                },
+                {
+                    "id": "C",
+                    "content": "Tính đầy đủ, tính hợp lý, tính thống nhất, trình độ kỹ thuật pháp lý cao"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, c đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        }
+    ]
+}

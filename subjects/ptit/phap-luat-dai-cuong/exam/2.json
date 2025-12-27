@@ -1,0 +1,2934 @@
+{
+    "title": "CHƯƠNG 2",
+    "total_questions": 122,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Đạo luật nào dưới đây quy định một cách cơ bản về chế độ chính trị, chế độ kinh tế, văn hóa, xã hội và tổ chức bộ máy nhà nước:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Luật tổ chức Quốc hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Luật tổ chức Chính phủ"
+                },
+                {
+                    "id": "C",
+                    "content": "Luật tổ chức Hội đồng nhân dân và UBND"
+                },
+                {
+                    "id": "D",
+                    "content": "Hiến pháp"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 2,
+            "question": "Thuộc tính nào là thuộc tính pháp luật:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tính bắt buộc chung (hay tính quy phạm phổ biến)"
+                },
+                {
+                    "id": "B",
+                    "content": "Tính xác định chặt chẽ về mặt hình thức"
+                },
+                {
+                    "id": "C",
+                    "content": "Tính cưỡng chế"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 3,
+            "question": "Nhà nước và pháp luật là hai hiện tượng xã hội thuộc:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cơ sở hạ tầng."
+                },
+                {
+                    "id": "B",
+                    "content": "Kiến trúc thượng tầng."
+                },
+                {
+                    "id": "C",
+                    "content": "Quan hệ sản xuất."
+                },
+                {
+                    "id": "D",
+                    "content": "Lực lượng sản xuất."
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 4,
+            "question": "Nhà nước và pháp luật là hai hiện tượng xã hội thuộc:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cơ sở hạ tầng."
+                },
+                {
+                    "id": "B",
+                    "content": "Kiến trúc thượng tầng."
+                },
+                {
+                    "id": "C",
+                    "content": "Quan hệ sản xuất."
+                },
+                {
+                    "id": "D",
+                    "content": "Lực lượng sản xuất."
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 5,
+            "question": "Khẳng định nào sau đây là đúng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chỉ có Nhà nước mới có quyền ban hành pháp luật để quản lý xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Không chỉ nhà nước mà cả Tổ chức xã hội cũng có quyền ban hành pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Tổ chức xã hội chỉ có quyền ban hành pháp luật khi được nhà nước trao quyền"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất các đáp án đều đúng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 6,
+            "question": "Khẳng định nào đúng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quy phạm pháp luật có tính bắt buộc chung."
+                },
+                {
+                    "id": "B",
+                    "content": "Quy phạm pháp luật không có tính bắt buộc chung."
+                },
+                {
+                    "id": "C",
+                    "content": "Quy phạm xã hội có tính bắt buộc chung."
+                },
+                {
+                    "id": "D",
+                    "content": "Tất các đáp án đều đúng."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 7,
+            "question": "Trong một Quy phạm pháp luật phải có ít nhất bao nhiêu bộ phận:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Luôn có đầy đủ cả ba bộ phận"
+                },
+                {
+                    "id": "B",
+                    "content": "Có thể chỉ có hai bộ phận"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ có một một bộ phận"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều đúng"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 8,
+            "question": "Quy phạm pháp luật là cách xử sự do nhà nước quy định để:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Áp dụng trong một hoàn cảnh cụ thể"
+                },
+                {
+                    "id": "B",
+                    "content": "Áp dụng trong nhiều hoàn cảnh"
+                },
+                {
+                    "id": "C",
+                    "content": "Áp dụng trong một số hoàn cảnh"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều đúng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 9,
+            "question": "Hoạt động áp dụng tương tự quy phạm là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khi không có Quy phạm pháp luật áp dụng cho trường hợp đó"
+                },
+                {
+                    "id": "B",
+                    "content": "Khi có cả Quy phạm pháp luật áp dụng cho trường hợp đó và cả Quy phạm pháp luật áp dụng cho trường hợp tương tự"
+                },
+                {
+                    "id": "C",
+                    "content": "Khi không có Quy phạm pháp luật áp dụng cho trường hợp đó và không có Quy phạm pháp luật áp dụng cho trường hợp tương tự"
+                },
+                {
+                    "id": "D",
+                    "content": "Khi không có Quy phạm pháp luật áp dụng cho trường hợp đó nhưng có Quy phạm pháp luật áp dụng cho trường hợp tương tự"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 10,
+            "question": "Văn bản pháp luật nào do Ủy ban Thường vụ Quốc hội ban hành:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Luật, nghị quyết"
+                },
+                {
+                    "id": "B",
+                    "content": "Luật, pháp lệnh"
+                },
+                {
+                    "id": "C",
+                    "content": "Pháp lệnh, nghị quyết"
+                },
+                {
+                    "id": "D",
+                    "content": "Pháp lệnh, nghị quyết, nghị định"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 11,
+            "question": "UBND các cấp có quyền ban hành những loại Quy phạm pháp luật nào:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quyết định, thông tư"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyết định"
+                },
+                {
+                    "id": "C",
+                    "content": "Quyết định, chỉ thị"
+                },
+                {
+                    "id": "D",
+                    "content": "Nghị định, nghị quyết, quyết định"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 12,
+            "question": "Cơ quan có quyền ban hành Hiến pháp và luật là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quốc hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Chủ tịch nước"
+                },
+                {
+                    "id": "C",
+                    "content": "Tổng bí thư"
+                },
+                {
+                    "id": "D",
+                    "content": "Chính phủ"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 13,
+            "question": "Một Văn bản QPPL chấm dứt hiệu lực trong những trường hợp nào:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ban hành mới Văn bản QPPL"
+                },
+                {
+                    "id": "B",
+                    "content": "Sửa đổi, bổ sung các Văn bản QPPL hiện hành"
+                },
+                {
+                    "id": "C",
+                    "content": "Đình chỉ, bãi bỏ các Văn bản QPPL hiện hành"
+                },
+                {
+                    "id": "D",
+                    "content": "Ban hành mới, sửa đổi, bổ sung các Văn bản QPPL"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 14,
+            "question": "Hội đồng nhân dân các cấp có quyền ban hành loại Văn bản pháp luật nào:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nghị quyết"
+                },
+                {
+                    "id": "B",
+                    "content": "Nghị định"
+                },
+                {
+                    "id": "C",
+                    "content": "Nghị quyết, nghị định"
+                },
+                {
+                    "id": "D",
+                    "content": "Nghị quyết, nghị định, quyết định"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 15,
+            "question": "Văn bản nào có hiệu lực cao nhất trong trong số các loại văn bản sau:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quyết định"
+                },
+                {
+                    "id": "B",
+                    "content": "Nghị định"
+                },
+                {
+                    "id": "C",
+                    "content": "Thông tư"
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ thị"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 16,
+            "question": "Đặc điểm của Quy phạm pháp luật khác so với quy phạm xã hội.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thể hiện ý chí của giai cấp thống trị"
+                },
+                {
+                    "id": "B",
+                    "content": "Có tính bắt buộc chung, tính hệ thống và thống nhất cao"
+                },
+                {
+                    "id": "C",
+                    "content": "Được bảo đảm thực hiện bằng nhà nước, chủ yếu bởi sự cưỡng chế"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất các đáp án đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 17,
+            "question": "Chế tài của một Quy phạm pháp luật là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hình phạt nghiêm khắc của nhà nước đối với người có hành vi vi phạm pháp luật."
+                },
+                {
+                    "id": "B",
+                    "content": "Những hậu quả pháp lý bất lợi có thể áp dụng đối với người không thực hiện hoặc thực hiện không đúng quy định của QPPL."
+                },
+                {
+                    "id": "C",
+                    "content": "Biện pháp cưỡng chế nhà nước áp dụng đối với chủ thể có hành vi trái pháp luật."
+                },
+                {
+                    "id": "D",
+                    "content": "Tất các đáp án đều sai."
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 18,
+            "question": "Loại nguồn được công nhận trong Hệ thống pháp luật Việt Nam:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Văn bản quy phạm pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Văn bản quy phạm pháp luật và tập quán pháp"
+                },
+                {
+                    "id": "C",
+                    "content": "Văn bản quy phạm pháp luật, tập quán pháp và tiền lệ pháp"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất các đáp án đều đúng."
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 19,
+            "question": "Văn bản nào sau đây là văn bản quy phạm pháp luật:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quyết định của Tổng kiểm toán Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyết định của Chủ tịch Hội đồng quản trị tập đoàn Điện lực."
+                },
+                {
+                    "id": "C",
+                    "content": "Quyết định của Hiểu trưởng Đại học Điện lực"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất các đáp án đều đúng."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 20,
+            "question": "Văn bản Quy phạm pháp luật nào do Bộ trưởng ban hành:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nghị định"
+                },
+                {
+                    "id": "B",
+                    "content": "Nghị định, thông tư"
+                },
+                {
+                    "id": "C",
+                    "content": "Nghị định, quyết định"
+                },
+                {
+                    "id": "D",
+                    "content": "Thông tư"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 21,
+            "question": "Việc hạn chế Năng lực hành vi của cá nhân do cơ quan nào có thẩm quyết tuyên:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Viện kiểm sát nhân dân"
+                },
+                {
+                    "id": "B",
+                    "content": "Tòa án nhân dân"
+                },
+                {
+                    "id": "C",
+                    "content": "Hội đồng nhân dân; UBND"
+                },
+                {
+                    "id": "D",
+                    "content": "Quốc hội"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 22,
+            "question": "Những yếu tố nào sau đây là thành phần của Quan hệ pháp luật:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chủ thể, khách thể, mặt chủ quan, mặt khách quan"
+                },
+                {
+                    "id": "B",
+                    "content": "Quy phạm pháp luật, Chủ thể, sự kiện pháp lý"
+                },
+                {
+                    "id": "C",
+                    "content": "Quy phạm pháp luật, khách thể, chủ thể"
+                },
+                {
+                    "id": "D",
+                    "content": "Chủ thể, khách thể, nội dung, sự kiện pháp lý"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 23,
+            "question": "Theo quy định của Hệ thống Pháp luật Việt nam thì:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Năng lực pháp luật của cá nhân là giống nhau"
+                },
+                {
+                    "id": "B",
+                    "content": "Năng lực pháp luật của cá nhân là khác nhau"
+                },
+                {
+                    "id": "C",
+                    "content": "Năng lực pháp luật của cá nhân có thể giống nhau, có thể khác nhau, tùy theo từng trường hợp cụ thể"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều sai"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 24,
+            "question": "Khẳng định nào sau đây là đúng về Quan hệ pháp luật (QHPL)",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chủ thể QHPL là chủ thể có năng lực pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Chủ thể QHPL là chủ thể có năng lực hành vi"
+                },
+                {
+                    "id": "C",
+                    "content": "Chủ thể QHPL là chủ thể có năng lực chủ thể"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp đều sai"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 25,
+            "question": "Điều kiện để làm phát sinh, thay đổi hay chấm dứt một Quan hệ pháp luật:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khi có Quan hệ pháp luật điều chỉnh QHXH tương ứng"
+                },
+                {
+                    "id": "B",
+                    "content": "Khi xuất hiện chủ thể pháp luật trong trường hợp cụ thể"
+                },
+                {
+                    "id": "C",
+                    "content": "Khi xảy ra Sự kiện pháp lý"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất các đáp án đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 26,
+            "question": "Quan hệ pháp luật hình thành do:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ý chí của cá nhân kinh doanh"
+                },
+                {
+                    "id": "B",
+                    "content": "Ý chí của Nhà nước"
+                },
+                {
+                    "id": "C",
+                    "content": "Ý chí của doanh nghiệp"
+                },
+                {
+                    "id": "D",
+                    "content": "Ý chí của tổ chức xã hội"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 27,
+            "question": "Năng lực pháp luật xuất hiện ở cá nhân khi:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Có khả năng nhận thức"
+                },
+                {
+                    "id": "B",
+                    "content": "Được sinh ra"
+                },
+                {
+                    "id": "C",
+                    "content": "Đạt đến độ tuổi nhất định"
+                },
+                {
+                    "id": "D",
+                    "content": "Đạt đến độ tuổi nhất định và có khả năng nhận thức, khả năng điều khiển hành vi"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 28,
+            "question": "Năng lực hành vi xuất hiện ở cá nhân khi:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Có khả năng nhận thức"
+                },
+                {
+                    "id": "B",
+                    "content": "Được sinh ra"
+                },
+                {
+                    "id": "C",
+                    "content": "Đạt đến độ tuổi nhất định"
+                },
+                {
+                    "id": "D",
+                    "content": "Đạt đến độ tuổi nhất định và có khả năng nhận thức, khả năng điều khiển hành vi"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 29,
+            "question": "Năng lực hành vi của pháp nhân xuất hiện khi nào:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khi được cấp con dấu"
+                },
+                {
+                    "id": "B",
+                    "content": "Khi được cấp mã số thuế"
+                },
+                {
+                    "id": "C",
+                    "content": "Khi có quyết định thành lập pháp nhân hoặc các giấy tờ tương đương"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều đúng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 30,
+            "question": "Sự biến pháp lý được hiểu là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Không phản ánh ý chí của con người"
+                },
+                {
+                    "id": "B",
+                    "content": "Phản ánh ý chí của con người"
+                },
+                {
+                    "id": "C",
+                    "content": "Được pháp luật quy định"
+                },
+                {
+                    "id": "D",
+                    "content": "Sự kiện xảy ra không phụ thuộc vào ý chí của con người và đựơc pháp luật quy định"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 31,
+            "question": "Năng lực hành vi dân sự của cá nhân chưa đầy đủ khi cá nhân đó:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Không có khả năng nhận thức"
+                },
+                {
+                    "id": "B",
+                    "content": "Đủ 6 tuổi đến chưa đủ 18 tuổi"
+                },
+                {
+                    "id": "C",
+                    "content": "Bị nghiện ma tuý"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều sai"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 32,
+            "question": "Cá nhân không có năng lực hành vi dân sự khi:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nghiện rượu"
+                },
+                {
+                    "id": "B",
+                    "content": "Bị Toà án tuyên bố hạn chế năng lực hành vi dân sự"
+                },
+                {
+                    "id": "C",
+                    "content": "Nghiện ma túy hoặc các chất kích thích khác mà không nhận thức được hành vi"
+                },
+                {
+                    "id": "D",
+                    "content": "Chưa đủ 6 tuổi"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 33,
+            "question": "Năng lực hành vi là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khả năng của chủ thể có được các quyền chủ thể và mang các nghĩa vụ pháp lý mà nhà nước thừa nhận."
+                },
+                {
+                    "id": "B",
+                    "content": "Khả năng của chủ thể được nhà nước thừa nhận, bằng các hành vi của mình thực hiện các quyền chủ thể và nghĩa vụ pháp lý, tham gia vào các QHPL."
+                },
+                {
+                    "id": "C",
+                    "content": "Là chủ thể đủ độ tuổi theo quy định của pháp luật."
+                },
+                {
+                    "id": "D",
+                    "content": "Tất các đáp án đều đúng."
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 34,
+            "question": "Một quan hệ pháp luật có bao nhiêu yếu tố cấu thành",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "3 yếu tố"
+                },
+                {
+                    "id": "B",
+                    "content": "6 yếu tố"
+                },
+                {
+                    "id": "C",
+                    "content": "6 yếu tố"
+                },
+                {
+                    "id": "D",
+                    "content": "7 yếu tố"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 35,
+            "question": "Những nội dung nào sau đây là yếu tố cấu thành một quan hệ pháp luật",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chủ thể, khách thể, nội dung, sự kiện pháp lý"
+                },
+                {
+                    "id": "B",
+                    "content": "Chủ thể, khách thể, mặt khách quan"
+                },
+                {
+                    "id": "C",
+                    "content": "Khách thể, mặt chủ quan, mặt khách quan"
+                },
+                {
+                    "id": "D",
+                    "content": "Chủ thể, khách thể, mặt chủ quan"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 36,
+            "question": "Hình thức trách nhiệm pháp lý nghiêm khắc nhất theo quy định của pháp luật Việt Nam là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trách nhiệm hành chính"
+                },
+                {
+                    "id": "B",
+                    "content": "Trách nhiệm hình sự"
+                },
+                {
+                    "id": "C",
+                    "content": "Trách nhiệm dân sự"
+                },
+                {
+                    "id": "D",
+                    "content": "Trách nhiệm kỹ luật"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 37,
+            "question": "Cấu thành của một vi phạm pháp luật bao gồm:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chủ thể, khách thể, mặt chủ quan, mặt khách quan"
+                },
+                {
+                    "id": "B",
+                    "content": "Quy phạm pháp luật, Chủ thể, sự kiện pháp lý"
+                },
+                {
+                    "id": "C",
+                    "content": "Quy phạm pháp luật, khách thể, chủ thể"
+                },
+                {
+                    "id": "D",
+                    "content": "Chủ thể, khách thể, nội dung, sự kiện pháp lý"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 38,
+            "question": "Nội dung nào không liên quan đến mối quan hệ nhân quả giữa Vi phạm pháp luật và sự thiệt hại thực tế của xã hội",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hành vi trái pháp luật là nguyên nhân trực tiếp"
+                },
+                {
+                    "id": "B",
+                    "content": "Sự thiệt hại của xã hội là kết quả tất yếu"
+                },
+                {
+                    "id": "C",
+                    "content": "Hậu quả của vi phạm pháp luật phù hợp với mục đích của chủ thể"
+                },
+                {
+                    "id": "D",
+                    "content": "Hành vi xảy ra trước sự thiệt hại"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 39,
+            "question": "Nội dung của trách nhiệm pháp lý thể hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quyền và nghĩa vụ của các chủ thể tham gia."
+                },
+                {
+                    "id": "B",
+                    "content": "Thời hiệu truy cứu trách nhiệm pháp lý."
+                },
+                {
+                    "id": "C",
+                    "content": "Căn cứ truy cứu trách nhiệm pháp lý."
+                },
+                {
+                    "id": "D",
+                    "content": "Việc chủ thể vi phạm pháp luật có nghĩa vụ gánh chịu hậu quả bất lợi"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 40,
+            "question": "Năng lực pháp luật của pháp nhân chấm dứt khi nào:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Không hoàn thành nghĩa vụ theo hợp đồng"
+                },
+                {
+                    "id": "B",
+                    "content": "Bị giải thể"
+                },
+                {
+                    "id": "C",
+                    "content": "Bị yêu cầu tuyên bố phá sản"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 41,
+            "question": "Cơ quan thực hiện chức năng thực hành quyền công tố và kiểm sát các hoạt động tư pháp:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quốc hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Chính phủ"
+                },
+                {
+                    "id": "C",
+                    "content": "Cơ quan Tòa án nhân dân"
+                },
+                {
+                    "id": "D",
+                    "content": "Cơ quan Viện kiểm sát"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 42,
+            "question": "Theo Hiến pháp Việt Nam 2013, thì:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cá nhân, tổ chức, hộ gia đình, tổ hợp tác chỉ có quyền sử dụng đối với đất đai"
+                },
+                {
+                    "id": "B",
+                    "content": "Cá nhân, tổ chức, hộ gia đình, tổ hợp tác có quyền sử dụng và quyền định đoạt đối với đất đai"
+                },
+                {
+                    "id": "C",
+                    "content": "Cá nhân, tổ chức, hộ gia đình, tổ hợp tác vừa có quyền sử dụng, vừa có quyền sở hữu đối với đất đai"
+                },
+                {
+                    "id": "D",
+                    "content": "Cá nhân, tổ chức, hộ gia đình, tổ hợp tác vừa có quyền sử dụng, vừa có quyền chiếm hữu và định đoạt đối với đất đai"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 43,
+            "question": "Ngành luật nào không phải là ngành luật trong Hệ thống pháp luật Việt Nam:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ngành luật đất đai"
+                },
+                {
+                    "id": "B",
+                    "content": "Ngành luật lao động"
+                },
+                {
+                    "id": "C",
+                    "content": "Ngành luật tư pháp quốc tế"
+                },
+                {
+                    "id": "D",
+                    "content": "Ngành luật đầu tư"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 44,
+            "question": "Ngành luật nào không phải là ngành luật trong Hệ thống pháp luật Việt Nam:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ngành luật kinh tế"
+                },
+                {
+                    "id": "B",
+                    "content": "Ngành luật hành chính"
+                },
+                {
+                    "id": "C",
+                    "content": "Ngành luật công pháp quốc tế"
+                },
+                {
+                    "id": "D",
+                    "content": "Ngành luật cạnh tranh"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 45,
+            "question": "Chế định “Văn hóa, giáo dục, khoa học, công nghệ” do ngành luật nào điều chỉnh:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ngành luật hành chính"
+                },
+                {
+                    "id": "B",
+                    "content": "Ngành luật dân sự"
+                },
+                {
+                    "id": "C",
+                    "content": "Ngành luật quốc tế"
+                },
+                {
+                    "id": "D",
+                    "content": "Ngành luật nhà nước"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 46,
+            "question": "Chế định “Giao dịch dân sự” do ngành luật nào điều chỉnh:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ngành luật kinh tế"
+                },
+                {
+                    "id": "B",
+                    "content": "Ngành luật tài chính"
+                },
+                {
+                    "id": "C",
+                    "content": "Ngành luật đất đai"
+                },
+                {
+                    "id": "D",
+                    "content": "Ngành luật dân sự"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 47,
+            "question": "Chủ tịch nước CHXHCN Việt Nam đã tổ chức cuộc họp báo về việc ban hành ……………, công bố các luật đã được thông qua tại kỳ họp thứ 3 Quốc hội khóa XII.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lệnh"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyết định"
+                },
+                {
+                    "id": "C",
+                    "content": "Nghị quyết"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp đều sai"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 48,
+            "question": "Công dân có quyền ứng cửa vào Quốc Hội và Hội đồng nhân dân theo quy định của pháp luật khi:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đủ 21 tuổi trở lên"
+                },
+                {
+                    "id": "B",
+                    "content": "Đủ 20 tuổi trở lên"
+                },
+                {
+                    "id": "C",
+                    "content": "Đủ 16 tuổi trở lên"
+                },
+                {
+                    "id": "D",
+                    "content": "Đủ 18 tuổi trở lên"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 49,
+            "question": "Bộ máy quản lý hành chính của Nhà nước CHXHCN Việt Nam hiện nay có bao nhiêu bộ:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "16 Bộ"
+                },
+                {
+                    "id": "B",
+                    "content": "17 Bộ"
+                },
+                {
+                    "id": "C",
+                    "content": "18 Bộ"
+                },
+                {
+                    "id": "D",
+                    "content": "15 Bộ"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 50,
+            "question": "Bộ máy quản lý hành chính của Nhà nước CHXHCN Việt Nam hiện nay có bao nhiêu cơ quan ngang bộ:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2 cơ quan"
+                },
+                {
+                    "id": "B",
+                    "content": "3 cơ quan"
+                },
+                {
+                    "id": "C",
+                    "content": "4 cơ quan"
+                },
+                {
+                    "id": "D",
+                    "content": "5 cơ quan"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 51,
+            "question": "Cơ quan nào sau đây là cơ quan ngang bộ:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bộ tư pháp"
+                },
+                {
+                    "id": "B",
+                    "content": "Tổng cục thuế"
+                },
+                {
+                    "id": "C",
+                    "content": "Thanh tra chính phủ"
+                },
+                {
+                    "id": "D",
+                    "content": "Tập đoàn Than khoáng sản Việt Nam"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 52,
+            "question": "Cơ quan nào sau đây là cơ quan ngang bộ:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bộ ngoại giao"
+                },
+                {
+                    "id": "B",
+                    "content": "Văn phòng chính phủ"
+                },
+                {
+                    "id": "C",
+                    "content": "Tổng cục thuế"
+                },
+                {
+                    "id": "D",
+                    "content": "Tập đoàn Điện lực Việt Nam"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 53,
+            "question": "Cơ quan ngang Bộ là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ủy ban thể dục, thể thao"
+                },
+                {
+                    "id": "B",
+                    "content": "Ủy ban dân số gia đình và trẻ em"
+                },
+                {
+                    "id": "C",
+                    "content": "Văn phòng chính phủ"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất các đáp án đều đúng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 54,
+            "question": "Cơ quan hành chính Nhà nước cao nhất của nước CHXNCN Việt Nam:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chủ tịch nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Chính phủ"
+                },
+                {
+                    "id": "C",
+                    "content": "Quốc hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Tòa án nhân dân và Viện kiểm sát nhân dân"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 55,
+            "question": "Các biện pháp xử phạt chính của tránh nhiệm hành chính là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phạt tiền, tước quyền sử dụng giấy phép"
+                },
+                {
+                    "id": "B",
+                    "content": "Phạt tiền, tịch thu tang vật, phương tiện vi phạm"
+                },
+                {
+                    "id": "C",
+                    "content": "Tước quyền sử dụng giấy phép, tịch thu tang vật, phương tiện vi phạm"
+                },
+                {
+                    "id": "D",
+                    "content": "Cảnh cáo, phạt tiền"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 56,
+            "question": "Các biện pháp xử phạt bổ sung của tránh nhiệm hành chính là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cảnh cáo, phạt tiền"
+                },
+                {
+                    "id": "B",
+                    "content": "Cảnh cáo, tịch thu tang vật, phương tiện vi phạm"
+                },
+                {
+                    "id": "C",
+                    "content": "Tước quyền sử dụng giấy phép, tịch thu tang vật, phương tiện vi phạm"
+                },
+                {
+                    "id": "D",
+                    "content": "Phạt tiền, tước quyền sử dụng giấy phép"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 57,
+            "question": "Nguyên tắc xử phạt hành chính:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Áp dụng biện pháp xử phạt chính và biện pháp xử phạt bổ sung một cách độc lập"
+                },
+                {
+                    "id": "B",
+                    "content": "Áp dụng độc lập biện pháp xử phạt chính và áp dụng phụ thuộc các biện pháp xử phạt bổ sung"
+                },
+                {
+                    "id": "C",
+                    "content": "Áp dụng độc lập các biện pháp xử phạt bổ sung, và áp dụng phụ thuộc các biện pháp xử phạt chính"
+                },
+                {
+                    "id": "D",
+                    "content": "Áp dụng phụ thuộc cả biện pháp xử phạt chính và cả biện pháp xử phạt bổ sung"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 58,
+            "question": "Những biện pháp nào sau đây là biện pháp cưỡng chế Hành chính:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhóm các biện pháp xử phạt vi phạm hành chính"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhóm các biện pháp ngăn chặn và bảo đảm xử lý vi phạm hành chính"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhóm các biện pháp phòng ngừa hành chính"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 59,
+            "question": "Trách nhiệm Hành chính là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là sự áp dụng những biện pháp cưỡng chế hành chính mang tính chất xử phạt hoặc khôi phục lại những quyền lợi bị xâm hại đối với những chủ thể thực hiện hành vi vi phạm Hành chính"
+                },
+                {
+                    "id": "B",
+                    "content": "Là sự áp dụng những biện pháp cưỡng chế hành chính mang tính chất trừng phạt hoặc khôi phục lại những quyền lợi bị xâm hại đối với những chủ thể thực hiện hành vi vi phạm Hành chính"
+                },
+                {
+                    "id": "C",
+                    "content": "Là sự áp dụng những biện pháp cưỡng chế hành chính mang tính chất khôi phục lại những quyền lợi bị xâm hại đối với những chủ thể thực hiện hành vi vi phạm Hành chính"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất các đáp án đều đúng"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 60,
+            "question": "Độ tuổi để một cá nhân có thể bị áp dụng các biện pháp cưỡng chế Hành chính là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đủ từ 14 tuổi trở lên"
+                },
+                {
+                    "id": "B",
+                    "content": "Đủ từ 15 tuổi trở lên"
+                },
+                {
+                    "id": "C",
+                    "content": "Đủ từ 16 tuổi trở lên"
+                },
+                {
+                    "id": "D",
+                    "content": "Đủ từ 17 tuổi trở lên"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 61,
+            "question": "Hình thức xử phạt bổ sung trong các hình thức xử phạt hành chính:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cảnh cáo và tịch thu tang vật, phương tiện vi phạm"
+                },
+                {
+                    "id": "B",
+                    "content": "Cảnh cáo và tước quyền sử dụng giấy phép"
+                },
+                {
+                    "id": "C",
+                    "content": "Phạt tiền và tước quyền sử dụng giấy phép"
+                },
+                {
+                    "id": "D",
+                    "content": "Tước quyền sử dụng giấy phép và tịch thu tang vật, phương tiện vi phạm"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 62,
+            "question": "Đặc điểm nào sau đây của Quan hệ pháp luật Hành chính là đúng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phát sinh do yêu cầu hợp pháp của bất kỳ bên nào, sự thoả thuận của bên kia không phải là điều kiện bắt buộc phải có."
+                },
+                {
+                    "id": "B",
+                    "content": "Có ít nhất một chủ thể mang quyền lực nhà nước, nhân danh nhà nước và để thực hiện quyền lực của nhà nước."
+                },
+                {
+                    "id": "C",
+                    "content": "Phần lớn các tranh chấp được giải quyết theo một trình tự, thủ tục của pháp luật Hành chính hoặc của Toà án hành chính."
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 63,
+            "question": "Đặc điểm: “Bên vi phạm phải chịu trách nhiệm pháp lý trước nhà nước” là đặc điểm của Quan hệ pháp luật nào:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quan hệ pháp luật Hành chính"
+                },
+                {
+                    "id": "B",
+                    "content": "Quan hệ pháp luật Dân sự"
+                },
+                {
+                    "id": "C",
+                    "content": "Quan hệ pháp luật Hôn nhân và gia đình"
+                },
+                {
+                    "id": "D",
+                    "content": "Quan hệ pháp luật lao động"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 64,
+            "question": "Đặc điểm: “Quan hệ phát sinh do yêu cầu hợp pháp của bất kỳ bên nào, sự thoả thuận của bên kia không phải là điều kiện bắt buộc phải có” là đặc điểm của Quan hệ pháp luật nào:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quan hệ pháp luật Hành chính"
+                },
+                {
+                    "id": "B",
+                    "content": "Quan hệ pháp luật Dân sự"
+                },
+                {
+                    "id": "C",
+                    "content": "Quan hệ pháp luật Hôn nhân và gia đình"
+                },
+                {
+                    "id": "D",
+                    "content": "Quan hệ pháp luật lao động"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 65,
+            "question": "Đặc điểm: “Quyền và nghĩa vụ của các bên tham gia luôn gắn liền với hoạt động chấp hành và điều hành của các cơ quan quản lý nhà nước” là đặc điểm của Quan hệ pháp luật nào:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quan hệ pháp luật Hôn nhân và gia đình"
+                },
+                {
+                    "id": "B",
+                    "content": "Quan hệ pháp luật lao động"
+                },
+                {
+                    "id": "C",
+                    "content": "Quan hệ pháp luật Hành chính"
+                },
+                {
+                    "id": "D",
+                    "content": "Quan hệ pháp luật Dân sự"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 66,
+            "question": "Cơ quan nào có quyền xét xử tội phạm và tuyên bản án hình sự:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tòa kinh tế có thẩm quyền"
+                },
+                {
+                    "id": "B",
+                    "content": "Tòa hành chính có thẩm quyền"
+                },
+                {
+                    "id": "C",
+                    "content": "Tòa dân sự có thẩm quyền"
+                },
+                {
+                    "id": "D",
+                    "content": "Tòa hình sự có thẩm quyền"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 67,
+            "question": "Bộ luật hình sự được ban hành năm nào sau đây là bộ luật đang có hiệu lực:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bộ luật ban hành năm 1999"
+                },
+                {
+                    "id": "B",
+                    "content": "Bộ luật ban hành năm 2000"
+                },
+                {
+                    "id": "C",
+                    "content": "Bộ luật ban hành năm 2015"
+                },
+                {
+                    "id": "D",
+                    "content": "Bộ luật ban hành năm 2016"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 68,
+            "question": "Chế định “Khởi tố bị can và hỏi cung bị can” do ngành luật nào điều chỉnh:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ngành luật dân sự."
+                },
+                {
+                    "id": "B",
+                    "content": "Ngành luật tố tụng dân sự"
+                },
+                {
+                    "id": "C",
+                    "content": "Ngành luật tố tụng hình sự"
+                },
+                {
+                    "id": "D",
+                    "content": "Ngành luật hành chính"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 69,
+            "question": "Chế định “Điều tra” do ngành luật nào điều chỉnh:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ngành luật tố tụng hình sự"
+                },
+                {
+                    "id": "B",
+                    "content": "Ngành luật tố tụng dân sự"
+                },
+                {
+                    "id": "C",
+                    "content": "Ngành luật hình sự"
+                },
+                {
+                    "id": "D",
+                    "content": "Ngành luật dân sự"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 70,
+            "question": "Nguyên tắc nào sau đây là nguyên tắc cơ bản của Luật Hình sự:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Pháp chế XHCN"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhân đạo XHCN"
+                },
+                {
+                    "id": "C",
+                    "content": "Tất cả các đáp án đều đúng"
+                },
+                {
+                    "id": "D",
+                    "content": "Dân chủ XHCN"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 71,
+            "question": "Nguyên tắc nào sau đây là nguyên tắc cơ bản của Luật Hình sự:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Pháp chế XHCN"
+                },
+                {
+                    "id": "B",
+                    "content": "Tất cả các đáp án đều đúng"
+                },
+                {
+                    "id": "C",
+                    "content": "Kết hợp hài hòa giữa chủ nghĩa yêu nước và tinh thần quốc tế"
+                },
+                {
+                    "id": "D",
+                    "content": "Dân chủ XHCN"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 72,
+            "question": "Nguyên tắc nào sau đây là nguyên tắc cơ bản của Luật Hình sự:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhân đạo XHCN"
+                },
+                {
+                    "id": "B",
+                    "content": "Tất cả các đáp án đều đúng"
+                },
+                {
+                    "id": "C",
+                    "content": "Kết hợp hài hòa giữa chủ nghĩa yêu nước và tinh thần quốc tế"
+                },
+                {
+                    "id": "D",
+                    "content": "Dân chủ XHCN"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 73,
+            "question": "Nguyên tắc áp dụng hình phạt là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Có thể áp dụng nhiều hình phạt chính và nhiều hình phạt bổ sung"
+                },
+                {
+                    "id": "B",
+                    "content": "Chỉ có thể áp dụng một hình phạt chính và có thể áp dụng một hoặc nhiều nhiều hình phạt bổ sung cho một loại tội phạm"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ có thể áp dụng một hình phạt bổ sung và có thể áp dụng một hoặc nhiều nhiều hình phạt chính"
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ có thể áp dụng một hình phạt chính và một hình phạt bổ sung"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 74,
+            "question": "Bộ luật Hình sự quy định, có:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Có 10 hình phạt chính và 10 hình phạt bổ sung"
+                },
+                {
+                    "id": "B",
+                    "content": "Có 9 hình phạt chính và 9 hình phạt bổ sung"
+                },
+                {
+                    "id": "C",
+                    "content": "Có 8 hình phạt chính và 8 hình phạt bổ sung"
+                },
+                {
+                    "id": "D",
+                    "content": "Có 7 hình phạt chính và 7 hình phạt bổ sung"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 75,
+            "question": "Trong các hình phạt của trách nhiệm hình sự:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phạt tiền là hình phạt chính"
+                },
+                {
+                    "id": "B",
+                    "content": "Phạt tiền là hình phạt bổ sung"
+                },
+                {
+                    "id": "C",
+                    "content": "Phạt tiền vừa là hình thức xử phạt chính vừa là hình thức xử phạt bổ sung"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp đều sai"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 76,
+            "question": "Tịch thu tài sản:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là hình phạt chính"
+                },
+                {
+                    "id": "B",
+                    "content": "Là hình phạt bổ sung"
+                },
+                {
+                    "id": "C",
+                    "content": "Vừa là hình phạt chính, vừa là hình phạt bổ sung"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp đều đúng"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 77,
+            "question": "Hình phạt cấm đảm nhiệm chức vụ, làm những nghề hoặc công việc nhất định:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là hình phạt chính"
+                },
+                {
+                    "id": "B",
+                    "content": "Là hình phạt bổ sung"
+                },
+                {
+                    "id": "C",
+                    "content": "Vừa là hình phạt chính, vừa là hình phạt bổ sung"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp đều đúng"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 78,
+            "question": "Trong các hình phạt của trách nhiệm hình sự:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hình phạt cải tạo không giam giữ chính là án phạt tù treo"
+                },
+                {
+                    "id": "B",
+                    "content": "Hình phạt cải tạo không giam giữ chính là hình phạt cảnh cáo"
+                },
+                {
+                    "id": "C",
+                    "content": "Hình phạt cải tạo không giam giữ vừa là hình phạt chính vừa là hình phạt bổ sung"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp đều sai"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 79,
+            "question": "Tội phạm theo quy định của Bộ luật Hình sự 2015 bao gồm:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cá nhân và pháp nhân thương mại"
+                },
+                {
+                    "id": "B",
+                    "content": "Cá nhân và tổ chức"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ có thể là cá nhân"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều đúng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 80,
+            "question": "Chủ thể của Tội phạm bao gồm:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chủ thể, khách thể,"
+                },
+                {
+                    "id": "B",
+                    "content": "Cá nhân và pháp nhân thương mại"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ có thể là cá nhân"
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ có thể là pháp nhân thương mại"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 81,
+            "question": "Cấu thành của tội phạm bao gồm:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chủ thể, khách thể, mặt chủ quan, mặt khách quan"
+                },
+                {
+                    "id": "B",
+                    "content": "Quy phạm pháp luật, Chủ thể, sự kiện pháp lý"
+                },
+                {
+                    "id": "C",
+                    "content": "Quy phạm pháp luật, khách thể, chủ thể"
+                },
+                {
+                    "id": "D",
+                    "content": "Chủ thể, khách thể, nội dung, sự kiện pháp lý"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 82,
+            "question": "Trong các vụ án hình sự:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Không bao giờ liên quan đến phần Dân sự"
+                },
+                {
+                    "id": "B",
+                    "content": "Đa số liên quan đến phần Hành chính"
+                },
+                {
+                    "id": "C",
+                    "content": "Có thể liên quan đến phần Dân sự"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp đều đúng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 83,
+            "question": "Khung hình phạt tù có thời hạn cao nhất được quy định trong Bộ luật Hình sự năm 2015 cho một cá nhân một lúc phạm nhiều tội là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "20 năm"
+                },
+                {
+                    "id": "B",
+                    "content": "30 năm"
+                },
+                {
+                    "id": "C",
+                    "content": "35 năm"
+                },
+                {
+                    "id": "D",
+                    "content": "50 năm"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 84,
+            "question": "Hình phạt tù có thời hạn cao nhất đối với cá nhân phạm một tội theo quy định của Bộ luật Hình sự 2015 là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "20 năm"
+                },
+                {
+                    "id": "B",
+                    "content": "30 năm"
+                },
+                {
+                    "id": "C",
+                    "content": "35 năm"
+                },
+                {
+                    "id": "D",
+                    "content": "50 năm"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 85,
+            "question": "TB>:] Hình phạt đựơc áp dụng khi:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bản án có hiệu lực pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Chấp hành xong án phạt tù"
+                },
+                {
+                    "id": "C",
+                    "content": "Khi tòa đã tuyên án"
+                },
+                {
+                    "id": "D",
+                    "content": "Được hưởng án treo"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 86,
+            "question": "Trình tự tố tụng Hình sự đựơc sắp xếp theo thứ tự nào sau đây:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Điều tra - khởi tố - truy tố - xét xử."
+                },
+                {
+                    "id": "B",
+                    "content": "Khởi tố - truy tố - điều tra – xét xử."
+                },
+                {
+                    "id": "C",
+                    "content": "Truy tố - điều tra - khởi tố - xét xử."
+                },
+                {
+                    "id": "D",
+                    "content": "Khởi tố - điều tra – truy tố - xét xử."
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 87,
+            "question": "Cơ quan nào là cơ quan hành chính Nhà nước:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hội đồng nhân dân"
+                },
+                {
+                    "id": "B",
+                    "content": "Viện Kiểm sát nhân dân"
+                },
+                {
+                    "id": "C",
+                    "content": "Toà án nhân dân"
+                },
+                {
+                    "id": "D",
+                    "content": "Bộ tư pháp"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 88,
+            "question": "Hình phạt cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định đựơc áp dụng khi:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chấp hành xong hình phạt chính"
+                },
+                {
+                    "id": "B",
+                    "content": "Từ ngày bản án có hiệu lực pháp luật nếu hình phạt là cảnh cáo"
+                },
+                {
+                    "id": "C",
+                    "content": "Từ ngày bản án có hiệu lực pháp luật nếu hình phạt là cải tạo không giam giữ"
+                },
+                {
+                    "id": "D",
+                    "content": "Từ ngày đựơc hưởng án treo"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 89,
+            "question": "Hình phạt nào là hình phạt chính trong các hình phạt sau đây:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cải tạo không giam giữ"
+                },
+                {
+                    "id": "B",
+                    "content": "Án treo"
+                },
+                {
+                    "id": "C",
+                    "content": "Cấm cư trú"
+                },
+                {
+                    "id": "D",
+                    "content": "Tước một số quyền công dân"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 90,
+            "question": "Hình phạt nào là hình phạt chính trong các hình phạt sau đây:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cải tạo tại gia"
+                },
+                {
+                    "id": "B",
+                    "content": "Án treo"
+                },
+                {
+                    "id": "C",
+                    "content": "Chung thân"
+                },
+                {
+                    "id": "D",
+                    "content": "Tước một số quyền công dân"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 91,
+            "question": "Hình phạt nào là hình phạt bổ sung trong các hình phạt sau đây:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cảnh cáo"
+                },
+                {
+                    "id": "B",
+                    "content": "Án treo"
+                },
+                {
+                    "id": "C",
+                    "content": "Tù có thời hạn"
+                },
+                {
+                    "id": "D",
+                    "content": "Tước một số quyền công dân"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 92,
+            "question": "Trục xuất là hình phạt không áp dụng với chủ thể Tội phạm nào:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Người không có quốc tịch"
+                },
+                {
+                    "id": "B",
+                    "content": "Công dân Việt Nam"
+                },
+                {
+                    "id": "C",
+                    "content": "Người nước ngoài"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều sai"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 93,
+            "question": "Tử hình là hình phạt:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hạn chế quyền công dân của tội phạm"
+                },
+                {
+                    "id": "B",
+                    "content": "Tước quyền sống của tội phạm"
+                },
+                {
+                    "id": "C",
+                    "content": "Cách ly tội phạm ra khỏi xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều đúng"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 94,
+            "question": "Hình phạt được quy định trong Bộ luật Hình sự là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giáo dục tại xã, phường, thị trấn"
+                },
+                {
+                    "id": "B",
+                    "content": "Cải tạo không giam giữ"
+                },
+                {
+                    "id": "C",
+                    "content": "Án treo"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 95,
+            "question": "Biện pháp cưỡng chế nào sau đây là hình phạt:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phạt tiền"
+                },
+                {
+                    "id": "B",
+                    "content": "Bắt tạm giam"
+                },
+                {
+                    "id": "C",
+                    "content": "Đưa vào trường giáo dưỡng"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều sai"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 96,
+            "question": "Tòa án có thẩm quyền xét xử chủ thể Vi phạm hình sự là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tòa hình sự có thẩm quyền"
+                },
+                {
+                    "id": "B",
+                    "content": "Tòa kinh tế có thẩm quyền"
+                },
+                {
+                    "id": "C",
+                    "content": "Tòa hành chính có thẩm quyền"
+                },
+                {
+                    "id": "D",
+                    "content": "Tòa dân sự có thẩm quyền"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 97,
+            "question": "Theo quy định của Bộ luật Dân sự 2015 thì cá nhân chưa thành niên là người:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chưa đủ 18 tuổi"
+                },
+                {
+                    "id": "B",
+                    "content": "Từ đủ 6 tuổi đến dưới 18 tuổi"
+                },
+                {
+                    "id": "C",
+                    "content": "Từ đủ 15 tuổi đến dưới 18 tuổi"
+                },
+                {
+                    "id": "D",
+                    "content": "Dưới 21 tuổi"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 98,
+            "question": "Người nhận cầm cố tài sản có quyền gì đối với tài sản?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quyền sở hữu"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyền chiếm hữu"
+                },
+                {
+                    "id": "C",
+                    "content": "Quyền sử dụng."
+                },
+                {
+                    "id": "D",
+                    "content": "Quyền định đoạt"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 99,
+            "question": "Khi một cá nhân chết thì người thuộc hàng thừa kế thứ nhất là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vợ"
+                },
+                {
+                    "id": "B",
+                    "content": "Con"
+                },
+                {
+                    "id": "C",
+                    "content": "Bố đẻ, mẹ đẻ"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 100,
+            "question": "Người thừa kế tài sản là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Người đủ 18 tuổi vào thời điểm mở thừa kế"
+                },
+                {
+                    "id": "B",
+                    "content": "Người còn sống vào thời điểm mở thừa kế"
+                },
+                {
+                    "id": "C",
+                    "content": "Người không có tài sản"
+                },
+                {
+                    "id": "D",
+                    "content": "Là công dân Việt Nam"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 101,
+            "question": "Hình thức chia thừa kế theo pháp luật được áp dụng khi:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phần tài sản không định đoạt theo di chúc"
+                },
+                {
+                    "id": "B",
+                    "content": "Phần di sản theo di chúc của người thừa kế chết trước hoặc chết cùng thời điểm với người để lại thừa kế"
+                },
+                {
+                    "id": "C",
+                    "content": "Người thừa kế theo di chúc từ chối nhận di sản"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 102,
+            "question": "Người được hưởng thừa kế không phụ thuộc vào nội dung của di chúc là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Con chưa thành niên"
+                },
+                {
+                    "id": "B",
+                    "content": "Cháu đích tôn"
+                },
+                {
+                    "id": "C",
+                    "content": "Con trưởng"
+                },
+                {
+                    "id": "D",
+                    "content": "Con thứ"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 103,
+            "question": "Người được hưởng thừa kế không phụ thuộc vào nội dung của di chúc là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vợ hoặc chồng"
+                },
+                {
+                    "id": "B",
+                    "content": "Ông bà nội ngoại"
+                },
+                {
+                    "id": "C",
+                    "content": "Con trưởng"
+                },
+                {
+                    "id": "D",
+                    "content": "Cháu ruột"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 104,
+            "question": "Người được hưởng thừa kế không phụ thuộc vào nội dung của di chúc là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Con đã thành niên"
+                },
+                {
+                    "id": "B",
+                    "content": "Cháu đích tôn"
+                },
+                {
+                    "id": "C",
+                    "content": "Cha, mẹ"
+                },
+                {
+                    "id": "D",
+                    "content": "Con thứ"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 105,
+            "question": "Người được hưởng thừa kế không phụ thuộc vào nội dung của di chúc là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Con trưởng"
+                },
+                {
+                    "id": "B",
+                    "content": "Cháu đích tôn"
+                },
+                {
+                    "id": "C",
+                    "content": "Con đã thành niên nhưng không có khả năng lao động"
+                },
+                {
+                    "id": "D",
+                    "content": "Con thứ"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 106,
+            "question": "Di chúc mằng miệng có hiệu lực trong thời gian tối đa …. tháng. Sau thời gian này nếu người để lại di sản vẫn còn sống và minh mẫn thì di chúc này hết hiệu lực:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2"
+                },
+                {
+                    "id": "B",
+                    "content": "3"
+                },
+                {
+                    "id": "C",
+                    "content": "4"
+                },
+                {
+                    "id": "D",
+                    "content": "5"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 107,
+            "question": "Những người được hưởng thừa kế ở hàng thứ nhất theo quy định của Bộ luật Dân sự bao gồm:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi"
+                },
+                {
+                    "id": "B",
+                    "content": "Con đẻ, con nuôi"
+                },
+                {
+                    "id": "C",
+                    "content": "Vợ hoặc chồng"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 108,
+            "question": "Cá nhân có Năng lực hành vi dân sự đầy đủ khi có khả năng nhận thức, có khả năng điều khiển hành vi và khi:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đủ từ 16 tuổi trở lên"
+                },
+                {
+                    "id": "B",
+                    "content": "Đủ từ 18 tuổi trở lên"
+                },
+                {
+                    "id": "C",
+                    "content": "Đủ từ 21 tuổi trở lên"
+                },
+                {
+                    "id": "D",
+                    "content": "Đủ từ 25 tuổi trở lên"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 109,
+            "question": "Giai cấp thống trị trong kiểu nhà nước chủ nô là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giai cấp Nô lệ."
+                },
+                {
+                    "id": "B",
+                    "content": "Giai cấp Nông dân."
+                },
+                {
+                    "id": "C",
+                    "content": "Giai cấp Tư sản."
+                },
+                {
+                    "id": "D",
+                    "content": "Giai cấp Chủ nô."
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 110,
+            "question": "Giai cấp thống trị trong kiểu nhà nước phong kiến là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giai cấp Nô lệ."
+                },
+                {
+                    "id": "B",
+                    "content": "Giai cấp Nông dân."
+                },
+                {
+                    "id": "C",
+                    "content": "Giai cấp Tư sản."
+                },
+                {
+                    "id": "D",
+                    "content": "Giai cấp Địa chủ."
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 111,
+            "question": "Giai cấp thống trị trong kiểu nhà nước Tư bản chủ nghĩa là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giai cấp Nô lệ."
+                },
+                {
+                    "id": "B",
+                    "content": "Giai cấp Nông dân."
+                },
+                {
+                    "id": "C",
+                    "content": "Giai cấp Tư sản."
+                },
+                {
+                    "id": "D",
+                    "content": "Giai cấp Chủ nô."
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 112,
+            "question": "Giai cấp thống trị trong kiểu nhà nước Chủ nghĩa xã hội là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giai cấp Công nhân."
+                },
+                {
+                    "id": "B",
+                    "content": "Giai cấp Nông dân."
+                },
+                {
+                    "id": "C",
+                    "content": "Giai cấp Tư sản."
+                },
+                {
+                    "id": "D",
+                    "content": "Giai cấp Chủ nô."
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 113,
+            "question": "Giai cấp bị trị trong kiểu nhà nước Chủ nô là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giai cấp Nô lệ."
+                },
+                {
+                    "id": "B",
+                    "content": "Giai cấp Nông dân."
+                },
+                {
+                    "id": "C",
+                    "content": "Giai cấp Tư sản."
+                },
+                {
+                    "id": "D",
+                    "content": "Giai cấp Chủ nô."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 114,
+            "question": "Giai cấp bị trị trong kiểu nhà nước Phong kiến là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giai cấp Công nhân."
+                },
+                {
+                    "id": "B",
+                    "content": "Giai cấp Nông dân."
+                },
+                {
+                    "id": "C",
+                    "content": "Giai cấp Tư sản."
+                },
+                {
+                    "id": "D",
+                    "content": "Giai cấp Chủ nô."
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 115,
+            "question": "Giai cấp bị trị trong kiểu nhà nước Tư bản chủ nghĩa là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giai cấp Nô lệ."
+                },
+                {
+                    "id": "B",
+                    "content": "Giai cấp Nông dân."
+                },
+                {
+                    "id": "C",
+                    "content": "Giai cấp Tư sản."
+                },
+                {
+                    "id": "D",
+                    "content": "Giai cấp Công nhân."
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 116,
+            "question": "Pháp luật của kiểu nhà nước Chủ nô là ý chí của giai cấp nào:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giai cấp Công nhân."
+                },
+                {
+                    "id": "B",
+                    "content": "Giai cấp Nông dân."
+                },
+                {
+                    "id": "C",
+                    "content": "Giai cấp Tư sản."
+                },
+                {
+                    "id": "D",
+                    "content": "Giai cấp Chủ nô."
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 117,
+            "question": "Pháp luật của kiểu nhà nước Phong kiến là ý chí của giai cấp nào:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giai cấp Địa chủ."
+                },
+                {
+                    "id": "B",
+                    "content": "Giai cấp Nông dân."
+                },
+                {
+                    "id": "C",
+                    "content": "Giai cấp Tư sản."
+                },
+                {
+                    "id": "D",
+                    "content": "Giai cấp Chủ nô."
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 118,
+            "question": "Pháp luật của kiểu nhà nước Tư bản chủ nghĩa là ý chí của giai cấp nào:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giai cấp Công nhân."
+                },
+                {
+                    "id": "B",
+                    "content": "Giai cấp Nông dân."
+                },
+                {
+                    "id": "C",
+                    "content": "Giai cấp Tư sản."
+                },
+                {
+                    "id": "D",
+                    "content": "Giai cấp Chủ nô."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 119,
+            "question": "Nhà nước chỉ ra đời và tồn tại trong xã hội có:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giai cấp và đấu tranh giai cấp."
+                },
+                {
+                    "id": "B",
+                    "content": "Nhiều cuộc bạo động."
+                },
+                {
+                    "id": "C",
+                    "content": "Nhiều tội phạm."
+                },
+                {
+                    "id": "D",
+                    "content": "Sự phát triển kinh tế hàng hóa."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 120,
+            "question": "Pháp luật chỉ ra đời và tồn tại trong xã hội có:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giai cấp và đấu tranh giai cấp."
+                },
+                {
+                    "id": "B",
+                    "content": "Nhiều cuộc bạo động."
+                },
+                {
+                    "id": "C",
+                    "content": "Nhiều tội phạm."
+                },
+                {
+                    "id": "D",
+                    "content": "Sự phát triển kinh tế hàng hóa."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 121,
+            "question": "Nhà nước chỉ diệt vong trong xã hội có:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhiều gia đình bị tan vỡ."
+                },
+                {
+                    "id": "B",
+                    "content": "Không có giai cấp và không có đấu tranh giai cấp."
+                },
+                {
+                    "id": "C",
+                    "content": "Nhiều tội phạm."
+                },
+                {
+                    "id": "D",
+                    "content": "Sự phát triển kinh tế hàng hóa."
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 122,
+            "question": "Pháp luật chỉ diệt vong trong xã hội có:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhiều gia đình bị tan vỡ."
+                },
+                {
+                    "id": "B",
+                    "content": "Không có giai cấp và không có đấu tranh giai cấp."
+                },
+                {
+                    "id": "C",
+                    "content": "Nhiều tội phạm."
+                },
+                {
+                    "id": "D",
+                    "content": "Sự phát triển kinh tế hàng hóa."
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        }
+    ]
+}
