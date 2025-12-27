@@ -4,9 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ôn Thi Pháp Luật Đại Cương</title>
-    <meta name="description"
-        content="Ứng dụng ôn thi trắc nghiệm Pháp luật đại cương - Học tập cùng AI, Flashcard, Thi thử, Giả lập.">
+    <title id="page-title">Ôn Thi Trắc Nghiệm</title>
+    <meta id="meta-desc" name="description"
+        content="Ứng dụng ôn thi trắc nghiệm - Học tập cùng AI, Flashcard, Thi thử, Giả lập.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -18,7 +18,7 @@
     <!-- Header Navigation -->
     <header class="main-header">
         <div class="header-content">
-            <a href="index.html" class="logo">⚖️ Pháp Luật Đại Cương</a>
+            <a href="index.html" class="logo" id="header-logo">📚 Môn học</a>
             <button class="menu-toggle" id="menu-toggle" title="Menu">☰</button>
             <nav class="main-nav">
                 <a href="index.html" class="nav-tab active">
@@ -50,7 +50,7 @@
 
     <main class="main-content home-main">
         <div class="home-hero">
-            <h1>Chinh phục Pháp Luật Đại Cương</h1>
+            <h1 id="hero-title">Chinh phục Kiến thức</h1>
             <p class="hero-subtitle">Nền tảng ôn thi toàn diện với sự hỗ trợ của AI, Flashcard và Đề thi chuẩn</p>
             <div class="hero-stats">
                 <div class="stat-item">
@@ -59,7 +59,7 @@
                 </div>
                 <div class="stat-divider"></div>
                 <div class="stat-item">
-                    <span class="stat-num">7</span>
+                    <span class="stat-num" id="hero-topic-count">--</span>
                     <span class="stat-label">Chủ đề trọng tâm</span>
                 </div>
                 <div class="stat-divider"></div>
@@ -77,7 +77,8 @@
                     <div class="feature-icon">📖</div>
                     <div class="feature-content">
                         <h3>Học tập cùng AI</h3>
-                        <p>Hệ thống bài giảng video, lý thuyết tóm tắt và câu hỏi ôn tập theo từng chủ đề với sự hỗ trợ
+                        <p id="study-feature-desc">Hệ thống bài giảng video, lý thuyết tóm tắt và câu hỏi ôn tập theo
+                            từng chủ đề với sự hỗ trợ
                             của NotebookLM.</p>
                         <span class="feature-link">Bắt đầu học &rarr;</span>
                     </div>
@@ -88,7 +89,8 @@
                     <div class="feature-icon">🎴</div>
                     <div class="feature-content">
                         <h3>Flashcard Ghi nhớ</h3>
-                        <p>Công cụ ôn tập nhanh giúp ghi nhớ các khái niệm, định nghĩa quan trọng qua phương pháp lặp
+                        <p id="flashcard-feature-desc">Công cụ ôn tập nhanh giúp ghi nhớ các khái niệm, định nghĩa quan
+                            trọng qua phương pháp lặp
                             lại ngắt quãng.</p>
                         <span class="feature-link">Lật thẻ ngay &rarr;</span>
                     </div>
@@ -99,7 +101,8 @@
                     <div class="feature-icon">📝</div>
                     <div class="feature-content">
                         <h3>Thi thử Trắc nghiệm</h3>
-                        <p>Kho ngân hàng câu hỏi phong phú chia theo 7 chương. Chế độ luyện tập, xem giải thích chi tiết
+                        <p id="exam-feature-desc">Kho ngân hàng câu hỏi phong phú. Chế độ luyện tập, xem giải thích chi
+                            tiết
                             và gợi ý từ AI.</p>
                         <span class="feature-link">Làm bài thi &rarr;</span>
                     </div>
@@ -135,8 +138,7 @@
 
     <footer class="main-footer">
         <div class="footer-content">
-            <p>Ôn tập miễn phí do sinh viên Học viện Công nghệ Bưu chính Viễn thông tạo
-                ❤️</p>
+            <p id="footer-school-info">Ôn tập miễn phí do sinh viên tạo ❤️</p>
             <p class="footer-disclaimer">Gemini có thể mắc sai lầm, các câu hỏi, đáp án và nội dung lý thuyết nên dừng
                 lại ở tham khảo</p>
             <div style="margin-top: 12px;">
