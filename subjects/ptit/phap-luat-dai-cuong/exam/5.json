@@ -816,7 +816,7 @@
                 }
             ],
             "answer": "B",
-            "explain": "Chủ thể vi phạm cần có Năng lực trách nhiệm pháp lý (theo lý thuyết chuẩn). Đáp án B chọn Năng lực pháp luật (là điều kiện cần)."
+            "explain": "Chủ thể vi phạm pháp luật cần phải có Năng lực trách nhiệm pháp lý (bao gồm độ tuổi và khả năng nhận thức). Năng lực pháp luật là tiền đề cần thiết."
         },
         {
             "id": 35,
@@ -960,7 +960,7 @@
                 }
             ],
             "answer": "D",
-            "explain": "Theo BLHS 2015, Pháp nhân thương mại cũng chịu TNHS. Tuy nhiên đáp án D (Sai hết) có thể do đề cũ hoặc hiểu Tổ chức chung chung là sai."
+            "explain": "Theo Bộ luật Hình sự 2015, Pháp nhân thương mại cũng phải chịu trách nhiệm hình sự. Tuy nhiên, theo quan điểm truyền thống trước đây, trách nhiệm hình sự thường gắn liền với cá nhân."
         },
         {
             "id": 41,
@@ -1416,7 +1416,7 @@
                 }
             ],
             "answer": "C",
-            "explain": "Đáp án C 'Chỉ áp dụng với cá nhân' là sai theo luật hiện hành (Tổ chức cũng bị). Có thể đề cũ hoặc lỗi."
+            "explain": "Theo quy định hiện hành, tổ chức cũng có thể là đối tượng bị truy cứu trách nhiệm pháp lý (ví dụ: vi phạm hành chính, dân sự, hình sự đối với pháp nhân thương mại)."
         },
         {
             "id": 60,
@@ -1440,7 +1440,7 @@
                 }
             ],
             "answer": "D",
-            "explain": "Thời hiệu thường tính từ thời điểm vi phạm kết thúc (với vi phạm liên tục) hoặc thời điểm thực hiện hành vi. Đáp án D có thể đúng nếu các mốc A, B, C không chính xác hoàn toàn."
+            "explain": "Thời hiệu truy cứu trách nhiệm pháp lý thường được tính từ ngày chấm dứt hành vi vi phạm (đối với vi phạm liên tục/kéo dài) hoặc từ ngày thực hiện hành vi vi phạm."
         }
     ]
 }
