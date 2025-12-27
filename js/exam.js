@@ -42,6 +42,10 @@ async function initExam() {
     initExamEventListeners();
 
     // Check URL params
+    const urlParams = new URLSearchParams(window.location.search);
+    const isPractice = urlParams.get('practice') === 'true';
+    const chapter = urlParams.get('chapter') || 'all';
+
     if (isPractice) {
         const practiceQuestionsStr = localStorage.getItem('practiceQuestions');
         const practiceTopicName = localStorage.getItem('practiceTopicName');
@@ -87,7 +91,7 @@ function populateChapterSelect() {
     examChapterSelect.innerHTML = '';
 
     // Add "All chapters" option
-    const totalQuestions = quizData.questions.length;
+    const totalQuestions = window.quizData.questions.length;
     const allOption = document.createElement('option');
     allOption.value = 'all';
     allOption.textContent = `📚 Tất cả chương (${totalQuestions} câu)`;
@@ -97,7 +101,7 @@ function populateChapterSelect() {
     if (currentSubjectData && currentSubjectData.chapters) {
         const basePath = getExamFilesPath();
         currentSubjectData.chapters.forEach((ch, idx) => {
-            const chapterQuestions = quizData.chapters.find(c => c.chapter === ch.id)?.questions?.length || 0;
+            const chapterQuestions = window.quizData.chapters.find(c => c.chapter === ch.id)?.questions?.length || 0;
             const option = document.createElement('option');
             option.value = `${basePath}/${ch.file}`;
             const icon = ['📘', '📗', '📙', '📕', '📓', '📒', '📔'][idx % 7];
@@ -106,7 +110,7 @@ function populateChapterSelect() {
         });
     } else {
         // Fallback for legacy Triet Mac Lenin
-        quizData.chapters.forEach((ch, idx) => {
+        window.quizData.chapters.forEach((ch, idx) => {
             const option = document.createElement('option');
             option.value = ch.file;
             const icon = ['📘', '📗', '📙'][idx % 3];
@@ -214,7 +218,7 @@ function startPracticeExam(questions) {
 }
 
 function startExam(chapter) {
-    if (quizData.questions.length === 0) {
+    if (window.quizData.questions.length === 0) {
         setTimeout(() => startExam(chapter), 100);
         return;
     }

@@ -128,7 +128,7 @@ function createSubjectSelector() {
 }
 
 // Data Loading
-const quizData = {
+window.quizData = {
     chapters: [],
     questions: [],
     studyTopics: []
@@ -137,13 +137,16 @@ const quizData = {
 
 async function loadAllData() {
     const files = getChapterFiles();
-
+    console.log('Loading files:', files);
 
     for (const file of files) {
         try {
             let data;
-            if (window.QUIZ_DATA && window.QUIZ_DATA[file]) {
-                data = window.QUIZ_DATA[file];
+            // Normalize file path for key lookup if needed (remove leading slash if present)
+            const lookupKey = file.startsWith('/') ? file.substring(1) : file;
+
+            if (window.QUIZ_DATA && window.QUIZ_DATA[lookupKey]) {
+                data = window.QUIZ_DATA[lookupKey];
             } else {
                 // Add timestamp to prevent caching
                 const response = await fetch(`${file}?v=${new Date().getTime()}`);
@@ -165,12 +168,12 @@ async function loadAllData() {
                 if (fileMatch) chapterNum = parseInt(fileMatch[1]);
             }
 
-            quizData.chapters.push({
+            window.quizData.chapters.push({
                 file,
                 chapter: chapterNum,
                 questions: data.questions
             });
-            quizData.questions.push(...data.questions.map(q => ({
+            window.quizData.questions.push(...data.questions.map(q => ({
                 ...q,
                 // Normalize: support both 'text' and 'question' for question text
                 text: q.text || q.question,
@@ -187,20 +190,23 @@ async function loadAllData() {
                 file
             })));
 
+            console.log(`Loaded ${file}: ${data.questions.length} questions`);
+
         } catch (error) {
             console.error(`Error loading ${file}:`, error);
+            alert(`Không thể tải dữ liệu câu hỏi: ${file}\nLỗi: ${error.message}`);
         }
     }
 
-    return quizData;
+    return window.quizData;
 }
 
 async function loadStudyData() {
     try {
         const response = await fetch(`study_data.json?v=${new Date().getTime()}`);
         if (!response.ok) throw new Error('Failed to load study data');
-        quizData.studyTopics = await response.json();
-        return quizData.studyTopics;
+        window.quizData.studyTopics = await response.json();
+        return window.quizData.studyTopics;
     } catch (error) {
         console.error('Error loading study data:', error);
         return [];
@@ -209,7 +215,7 @@ async function loadStudyData() {
 
 function getQuestionsByChapter(chapter) {
     if (!chapter || chapter === 'all') {
-        return quizData.questions;
+        return window.quizData.questions;
     }
 
     let chapterNum = parseInt(chapter);
@@ -221,10 +227,10 @@ function getQuestionsByChapter(chapter) {
     }
 
     if (!isNaN(chapterNum) && chapterNum > 0) {
-        return quizData.questions.filter(q => q.chapter === chapterNum);
+        return window.quizData.questions.filter(q => q.chapter === chapterNum);
     }
 
-    return quizData.questions.filter(q => q.file === chapter);
+    return window.quizData.questions.filter(q => q.file === chapter);
 }
 
 // Utility Functions
