@@ -42,9 +42,11 @@ async function loadAllData() {
                 data = await response.json();
             }
 
-            const chapterNum = typeof data.chapter === 'string'
-                ? parseInt(data.chapter.match(/\d+/)[0])
-                : data.chapter;
+            // Extract chapter number from 'chapter' or 'title' field
+            const chapterSource = data.chapter || data.title || '';
+            const chapterNum = typeof chapterSource === 'string'
+                ? parseInt((chapterSource.match(/\d+/) || ['0'])[0])
+                : chapterSource;
 
             quizData.chapters.push({
                 file,
