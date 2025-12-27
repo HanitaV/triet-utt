@@ -213,14 +213,14 @@ function startSimulation() {
         const targetCount = Math.round((totalQ * dist.percent) / 100);
         if (targetCount <= 0) return;
 
-        // Find chapter data in quizData
-        // quizData.questions should effectively be all questions flattened or we prefer structure
-        // loadAllData populates quizData.questions for single exam? 
-        // No, loadAllData populates individual chapter files into quizData.chapters usually or combines them?
+        // Find chapter data in window.quizData
+        // window.quizData.questions should effectively be all questions flattened or we prefer structure
+        // loadAllData populates window.quizData.questions for single exam? 
+        // No, loadAllData populates individual chapter files into window.quizData.chapters usually or combines them?
         // Let's check loadAllData implementation in common.js to be sure. 
-        // Assuming quizData has chapters array as per previous logic
+        // Assuming window.quizData has chapters array as per previous logic
 
-        const chData = quizData.chapters.find(c => c.id === dist.chapter || c.chapter === dist.chapter);
+        const chData = window.quizData.chapters.find(c => c.id === dist.chapter || c.chapter === dist.chapter);
         if (!chData || !chData.questions) return;
 
         // Prepare questions
