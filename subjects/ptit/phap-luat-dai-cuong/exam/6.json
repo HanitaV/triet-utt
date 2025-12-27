@@ -1,0 +1,54 @@
+{
+    "title": "CHƯƠNG 6",
+    "total_questions": 2,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Tìm đáp án sai trong các nhận định sau?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Pháp luật và pháp chế có mối quan hệ mật thiết với nhau"
+                },
+                {
+                    "id": "B",
+                    "content": "Trong mối quan hệ giữa pháp luật với pháp chế thì pháp luật là yếu tố tìền đề"
+                },
+                {
+                    "id": "C",
+                    "content": "Pháp chế đồng nghĩa với cưỡng chế"
+                },
+                {
+                    "id": "D",
+                    "content": "Tôn trọng tính tối cao của Hiến pháp và pháp luật là một trong những yêu cầu của pháp chếXHCN"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 2,
+            "question": "“Quyền lực Nhà nước là thống nhất, có sự phân công và phối hợp chặt chẽ giữa cáccơ quan Nhà nước trong việc thực hiện các quyền lập pháp, hành pháp và tư pháp” làmột trong những đặc trưng của?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước pháp quyền TBCN"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà nước dân chủ"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà nước pháp quyền XHCN Việt Nam"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 Nhà nước trên"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        }
+    ]
+}

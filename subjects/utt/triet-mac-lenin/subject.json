@@ -1,0 +1,44 @@
+{
+    "id": "triet-mac-lenin",
+    "name": "Triết học Mác-Lênin",
+    "shortName": "Triết học",
+    "icon": "📚",
+    "school": "Đại học Công nghệ GTVT",
+    "shortSchool": "UTT",
+    "examPath": "exam",
+    "chapters": [
+        {
+            "id": 1,
+            "name": "Triết học và Vấn đề cơ bản",
+            "file": "chuong_1.json"
+        },
+        {
+            "id": 2,
+            "name": "Phép biện chứng duy vật",
+            "file": "chuong_2.json"
+        },
+        {
+            "id": 3,
+            "name": "Chủ nghĩa duy vật lịch sử",
+            "file": "chuong_3.json"
+        }
+    ],
+    "simulationConfig": {
+        "totalQuestions": 80,
+        "timeMinutes": 60,
+        "distribution": [
+            {
+                "chapter": 1,
+                "percent": 20
+            },
+            {
+                "chapter": 2,
+                "percent": 40
+            },
+            {
+                "chapter": 3,
+                "percent": 40
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+[
+    {
+        "id": "triet-mac-lenin",
+        "name": "Triết học Mác-Lênin",
+        "shortName": "Triết học",
+        "icon": "📚",
+        "school": "Đại học Công nghệ GTVT",
+        "shortSchool": "UTT",
+        "path": "subjects/utt/triet-mac-lenin"
+    },
+    {
+        "id": "phap-luat-dai-cuong",
+        "name": "Pháp luật đại cương",
+        "shortName": "Pháp luật",
+        "icon": "⚖️",
+        "school": "Học viện Công nghệ Bưu chính Viễn thông",
+        "shortSchool": "PTIT",
+        "path": "subjects/ptit/phap-luat-dai-cuong"
+    }
+]

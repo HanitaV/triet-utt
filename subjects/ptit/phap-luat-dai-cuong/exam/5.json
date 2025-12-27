@@ -1,0 +1,1446 @@
+{
+    "title": "CHƯƠNG 5",
+    "total_questions": 60,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Quá trình hoạt động có mục đích nhằm đưa pháp luật vào cuộc sống, trở thànhhành vi thực tế hợp pháp của các chủ thể pháp luật, gọi là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Áp dụng pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Thực thi pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Thực hiện pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Thi hành pháp luật"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 2,
+            "question": "Hãy xác định khẳng định nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hành vi thực hiện pháp luật của chủ thể rất phong phú, đa dạng"
+                },
+                {
+                    "id": "B",
+                    "content": "Chủ thể thực hiện pháp luật biểu hiện bằng hành vi hành động hoặc không hành động"
+                },
+                {
+                    "id": "C",
+                    "content": "Việc thực hiện pháp luật biểu hiện bằng hành vi hành động hoặc không hành động, hành vihợp pháp hoặc không hợp pháp"
+                },
+                {
+                    "id": "D",
+                    "content": "Quá trình thực hiện pháp luật thể hiện nhận thức và thái độ của chủ thể trước pháp luật"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 3,
+            "question": "Hoạt động áp dụng pháp luật được tiến hành trong các trường hợp?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khi cần áp dụng các biện pháp cưỡng chế Nhà nước đối với những chủ thể có hành vi viphạm pháp luật."
+                },
+                {
+                    "id": "B",
+                    "content": "Khi cần có sự tham gia của Nhà nước để làm phát sinh quyền và nghĩa vụ pháp lý của cácchủ thể pháp luật."
+                },
+                {
+                    "id": "C",
+                    "content": "Khi xảy ra tranh chấp về quyền và nghĩa vụ pháp lý giữa các bên tham gia quan hệ phápluật mà các bên không tự giải quyết được."
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 4,
+            "question": "Có...... hình thức thực hiện pháp luật, bao gồm?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "4 - Tuân thủ pháp luật, thực thi pháp luật, thi hành pháp luật, áp dụng pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "4- Tuân thủ pháp luật, thực thi pháp luật, sử dụng pháp luật, áp dụng pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "4- Tuân thủ pháp luật, thi hành pháp luật, sử dụng pháp luật, áp dụng pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "4- Tuân theo pháp luật, thi hành pháp luật, sử dụng pháp luật, áp dụng pháp luật"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 5,
+            "question": "Các chủ thể pháp luật kiềm chế không tiến hành những hành vi mà pháp luật ngăncấm, đây là hình thức thực hiện pháp luật nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tuân theo pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Chấp hành pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Tuân thủ pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Tuân thủ và chấp hành pháp luật"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 6,
+            "question": "Loại quy phạm pháp luật nào được thực hiện trong hình thức tuân thủ pháp luật?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cho phép"
+                },
+                {
+                    "id": "B",
+                    "content": "Ngăn ngừa"
+                },
+                {
+                    "id": "C",
+                    "content": "Cấm đoán"
+                },
+                {
+                    "id": "D",
+                    "content": "Bắt buộc"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 7,
+            "question": "Tuân thủ pháp luật là hình thức thực hiện pháp luật mang tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chủ động"
+                },
+                {
+                    "id": "B",
+                    "content": "Bất động"
+                },
+                {
+                    "id": "C",
+                    "content": "Thụ động"
+                },
+                {
+                    "id": "D",
+                    "content": "Năng động"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 8,
+            "question": "So với tuân thủ pháp luật, thi hành pháp luật là hình thức thực hiện pháp luật mangtính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Biến động"
+                },
+                {
+                    "id": "B",
+                    "content": "Bất động"
+                },
+                {
+                    "id": "C",
+                    "content": "Chủ động"
+                },
+                {
+                    "id": "D",
+                    "content": "Bị động"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 9,
+            "question": "Khẳng định nào sai khi nghiên cứu về hình thức thi hành pháp luật?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Việc thi hành pháp luật phụ thuộc chủ thể muốn hay không mong muốn thực hiện"
+                },
+                {
+                    "id": "B",
+                    "content": "Tương ứng với hình thức thi hành pháp luật, có loại quy phạm pháp luật bắt buộc"
+                },
+                {
+                    "id": "C",
+                    "content": "Chủ thể thực hiện pháp luật mang tính tích cực, chủ động"
+                },
+                {
+                    "id": "D",
+                    "content": "Thi hành pháp luật là chủ thể pháp luật phải thực hiện nghĩa vụ pháp lý của mình bằnghành động tích cực"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 10,
+            "question": "Khẳng định nào sai khi nghiên cứu về hình thức sử dụng pháp luật?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chủ thể pháp luật có thể thực hiện hoặc không thực hiện quyền pháp luật quy định"
+                },
+                {
+                    "id": "B",
+                    "content": "Tương ứng với hình thức sử dụng pháp luật là loại quy phạm pháp luật bắt buộc"
+                },
+                {
+                    "id": "C",
+                    "content": "Việc sử dụng pháp luật phụ thuộc rất lớn vào năng lực hành vi của chủ thể"
+                },
+                {
+                    "id": "D",
+                    "content": "Chủ thể sử dụng pháp luật để hiện thực hóa các quyền và lợi ích của mình được pháp luậtcho phép"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 11,
+            "question": "Hoạt động áp dụng pháp luật được tiến hành bởi?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tất cả các chủ thể"
+                },
+                {
+                    "id": "B",
+                    "content": "Các cơ quan Nhà nước có thẩm quyền"
+                },
+                {
+                    "id": "C",
+                    "content": "Công dân, người nước ngoài"
+                },
+                {
+                    "id": "D",
+                    "content": "Các tổ chức tôn giáo"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 12,
+            "question": "Quyết định áp dụng pháp luật?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nội dung phải đúng thẩm quyền cơ quan và người ký (ban hành) phải là người có thẩmquyền ký"
+                },
+                {
+                    "id": "B",
+                    "content": "Phải phù hợp với văn bản của cấp trên"
+                },
+                {
+                    "id": "C",
+                    "content": "Phải phù hợp với lợi ích của Nhà nước và lợi ích hợp pháp của công dân"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các phương án đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 13,
+            "question": "Hoạt động áp dụng pháp luật?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là hoạt động mang tính cá biệt - cụ thể và không thể hiện quyền lực Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Là hoạt động không mang tính cá biệt - cụ thể nhưng thể hiện quyền lực Nhà nước"
+                },
+                {
+                    "id": "C",
+                    "content": "Là hoạt động vừa mang tính cá biệt - cụ thể, vừa thể hiện quyền lực Nhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các phương án đều đúng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 14,
+            "question": "Văn bản áp dụng pháp luật được ban hành trong hoạt động?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thi hành pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Áp dụng pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Tuân thủ pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Sử dụng pháp luật"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 15,
+            "question": "Khẳng định nào sai khi nghiên cứu về hình thức áp dụng pháp luật?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Áp dụng pháp luật là hình thức thực hiện pháp luật đồng thời còn là hoạt động của cơ quanNhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Trong hình thức áp dụng pháp luật, các chủ thể pháp luật tự mình thực hiện quyền và nghĩavụ pháp lý do pháp luật quy định"
+                },
+                {
+                    "id": "C",
+                    "content": "Hoạt động áp dụng pháp luật luôn mang tính quyền lực Nhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Văn bản áp dụng pháp luật có tính chất cá biệt, áp dụng một lần đối với cá nhân, tổ chức cụthể trong những trường hợp cụ thể"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 16,
+            "question": "Tìm đáp án đúng điền vào chỗ trống trong câu sau: .....là hành vi trái pháp luật, cólỗi, do chủ thể có năng lực trách nhiệm pháp lí thực hiện, xâm hại đến các quan hệ xã hộiđược pháp luật bảo vệ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quy phạm pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Hành vi bất hợp pháp"
+                },
+                {
+                    "id": "C",
+                    "content": "Tội phạm"
+                },
+                {
+                    "id": "D",
+                    "content": "Vi phạm pháp luật"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 17,
+            "question": "Hành vi nào sau đây là hành vi trái pháp luật?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hành vi vi phạm Nghị quyết Đảng"
+                },
+                {
+                    "id": "B",
+                    "content": "Hành vi vi phạm Điều lệ Hội Phụ nữ"
+                },
+                {
+                    "id": "C",
+                    "content": "Sao chép bài của người khác trong giờ thi học kỳ"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều đúng"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 18,
+            "question": "Vi phạm pháp luật là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tàn dư của xã hội cũ"
+                },
+                {
+                    "id": "B",
+                    "content": "Hiện tượng xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Hiện tượng chủ quan"
+                },
+                {
+                    "id": "D",
+                    "content": "Hiện tượng nhất thời"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 19,
+            "question": "Hành vi trái pháp luật nào sau đây là dạng hành vi không hành động?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giúp người khác tự sát"
+                },
+                {
+                    "id": "B",
+                    "content": "Tàng trữ vũ khí"
+                },
+                {
+                    "id": "C",
+                    "content": "Không tố giác người phạm tội"
+                },
+                {
+                    "id": "D",
+                    "content": "Môi giới mại dâm"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 20,
+            "question": "Ông A vận chuyển gia cầm bị bệnh, bị cơ quan có thẩm quyền phát hiện và buộcphải tiêu hủy hết số gia cầm bị bệnh này. Đây là biện pháp chế tài?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dân sự"
+                },
+                {
+                    "id": "B",
+                    "content": "Hình sự"
+                },
+                {
+                    "id": "C",
+                    "content": "Hành chính"
+                },
+                {
+                    "id": "D",
+                    "content": "Kỷ luật"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 21,
+            "question": "Hãy xác định câu sai ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vi phạm pháp luật là hành vi xác định của con người, hành vi đó đã thể hiện ra thực tếkhách quan"
+                },
+                {
+                    "id": "B",
+                    "content": "Chủ thể thực hiện hành vi trái pháp luật phải có năng lực pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Vi phạm pháp luật là hành vi trái pháp luật, xâm hại các quan hệ xã hội được pháp luật xáclập và bảo vệ"
+                },
+                {
+                    "id": "D",
+                    "content": "Chủ thể thực hiện hành vi trái pháp luật phải có lỗi"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 22,
+            "question": "Hãy xác định câu sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quy phạm pháp luật là hành vi xác định của con người, hành vi đó đã thể hiện ra thực tếkhách quan"
+                },
+                {
+                    "id": "B",
+                    "content": "Chủ thể thực hiện hành vi trái pháp luật phải có năng lực trách nhiệm pháp lý"
+                },
+                {
+                    "id": "C",
+                    "content": "Vi phạm pháp luật là hành vi trái pháp luật, xâm hại các quan hệ xã hội được pháp luật xáclập và bảo vệ"
+                },
+                {
+                    "id": "D",
+                    "content": "Chủ thể thực hiện hành vi trái pháp luật phải có lỗi"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 23,
+            "question": "Chủ thể có năng lực trách nhiệm pháp lý khi có đủ điều kiện sau?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đạt độ tuổi do pháp luật quy định, có khả năng nhận thức và điều khiển hành vi"
+                },
+                {
+                    "id": "B",
+                    "content": "Đạt độ tuổi do pháp luật quy định, có năng lực pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Có năng lực pháp luật và năng lực hành vi"
+                },
+                {
+                    "id": "D",
+                    "content": "Từ 18 tuổi trở lên và có trí óc bình thường"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 24,
+            "question": "Các hành vi sau đều trái pháp luật, ngoại trừ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tổ chức đánh bạc"
+                },
+                {
+                    "id": "B",
+                    "content": "Đổ rác thải xuống kênh rạch"
+                },
+                {
+                    "id": "C",
+                    "content": "Không thực hiện nghĩa vụ quân sự"
+                },
+                {
+                    "id": "D",
+                    "content": "Không cho bạn mượn xe đạp"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 25,
+            "question": "Hãy xác định câu sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vi phạm pháp luật là hành vi xác định của con người, hành vi đó đã thể hiện ra thực tếkhách quan"
+                },
+                {
+                    "id": "B",
+                    "content": "Chủ thể thực hiện hành vi trái pháp luật phải có năng lực trách nhiệm pháp lý"
+                },
+                {
+                    "id": "C",
+                    "content": "Vi phạm pháp luật là hành vi trái pháp luật, xâm hại các quan hệ xã hội được pháp luật xáclập và bảo vệ"
+                },
+                {
+                    "id": "D",
+                    "content": "Chủ thể thực hiện hành vi trái pháp luật phải có lỗi"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 26,
+            "question": "Hành vi nào sau đây không là hành vi vi phạm pháp luật?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Anh A chia tay người yêu"
+                },
+                {
+                    "id": "B",
+                    "content": "A ngược đãi cha mẹ"
+                },
+                {
+                    "id": "C",
+                    "content": "A ép buộc con gái kết hôn"
+                },
+                {
+                    "id": "D",
+                    "content": "A hành hung vợ"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 27,
+            "question": "Những biểu hiện ra bên ngoài của vi phạm pháp luật gọi là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mặt khách quan của vi phạm pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Dấu hiệu của vi phạm pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Hành vi vi phạm pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Hậu quả của hành vi vi phạm pháp luật"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 28,
+            "question": "Các yếu tố cấu thành vi phạm pháp luật bao gồm?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chủ thể, mặt khách thể, mặt khách quan, chủ quan"
+                },
+                {
+                    "id": "B",
+                    "content": "Chủ thể, khách thể, mặt khách quan, mặt chủ quan"
+                },
+                {
+                    "id": "C",
+                    "content": "Chủ thể, chủ quan, khách thể, khách quan"
+                },
+                {
+                    "id": "D",
+                    "content": "Chủ thể, mặt chủ quan, khách thể, khách quan"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 29,
+            "question": "Mặt khách quan của hành vi vi phạm pháp luật bao gồm?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hành vi trái pháp luật và hậu quả do hành vi trái pháp luật gây ra"
+                },
+                {
+                    "id": "B",
+                    "content": "Mối quan hệ nhân quả giữa hành vi trái pháp luật và thiệt hại gây ra cho xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Thời gian, địa điểm, công cụ, phương tiện thực hiện hành vi vi phạm pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Bao gồm các đáp án"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 30,
+            "question": "Những biểu hiện, diễn biến tâm lý bên trong của chủ thể vi phạm pháp luật gọi là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mặt chủ quan của vi phạm pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhận thức, thái độ của chủ thể"
+                },
+                {
+                    "id": "C",
+                    "content": "Chủ thể vi phạm pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Bao gồm các đáp án"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 31,
+            "question": "Các yếu tố thuộc mặt chủ quan của vi phạm pháp luật bao gồm?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lỗi, động cơ, mục đích"
+                },
+                {
+                    "id": "B",
+                    "content": "Lỗi, động cơ, kết quả"
+                },
+                {
+                    "id": "C",
+                    "content": "Lỗi, động cơ, mục tiêu"
+                },
+                {
+                    "id": "D",
+                    "content": "Các đáp án đều sai"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 32,
+            "question": "Khẳng định nào sai khi nghiên cứu về mặt chủ quan của vi phạm pháp luật?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chỉ khi nào hành vi trái pháp luật được chủ thể thực hiện một cách cố ý thì mới có thể làhành vi vi phạm pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Lỗi là một trong những căn cứ để xác định mức độ trách nhiệm pháp lý đối với chủ thể viphạm pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Lỗi là thái độ tâm lý của chủ thể đối với hành vi trái pháp luật mà mình đã thực hiện và hậuquả do hành vi gây ra"
+                },
+                {
+                    "id": "D",
+                    "content": "Động cơ là cái thúc đẩy chủ thể thực hiện hành vi vi phạm pháp luật"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 33,
+            "question": "Khẳng định nào đúng khi nghiên cứu về mặt chủ quan của vi phạm pháp luật?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tùy thuộc vào trách nhiệm pháp lý áp dụng đối với chủ thể để xác định lỗi của chủ thể viphạm pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Mục đích của hành vi vi phạm pháp luật là yếu tố bắt buộc trong mọi cấu thành vi phạmpháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Mục đích là cái mốc đạt đến của chủ thể thực hiện hành vi vi phạm pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Lỗi là thái độ tâm lý của chủ thể đối với hành vi trái pháp luật mà mình đã thực hiện"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 34,
+            "question": "Chọn đáp án phù hợp: Chủ thể vi phạm pháp luật là cá nhân hoặc tổ chức có...... đãthực hiện hành vi vi phạm pháp luật?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khả năng"
+                },
+                {
+                    "id": "B",
+                    "content": "Năng lực pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Năng lực trách nhiệm pháp lý"
+                },
+                {
+                    "id": "D",
+                    "content": "Năng lực hành vi"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 35,
+            "question": "Chọn đáp án phù hợp: Khách thể của vi phạm pháp luật là những...... được phápluật xác lập, bảo vệ nhưng đã bị xâm hại bởi hành vi vi phạm pháp luật?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quan hệ pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Quan hệ tài sản"
+                },
+                {
+                    "id": "C",
+                    "content": "Quan hệ xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Đối tượng"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 36,
+            "question": "Xác định đáp án sai trong các khẳng định sau?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khách thể của vi phạm pháp luật là những quan hệ xã hội được pháp luật xác lập, bảo vệnhưng đã bị xâm hại bởi hành vi vi phạm pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Cá nhân không có năng lực trách nhiệm pháp lý thì không trở thành chủ thể của vi phạmpháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Tính chất và tầm quan trọng của khách thể bị xâm hại không liên quan đến việc xác địnhtrách nhiệm pháp lý của chủ thể đã vi phạm pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Khách thể của vi phạm pháp luật là yếu tố bắt buộc trong mọi cấu thành vi phạm pháp luật"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 37,
+            "question": "Nguyên nhân của vi phạm pháp luật?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mâu thuẫn giữa quan hệ sản xuất và lực lượng sản xuất"
+                },
+                {
+                    "id": "B",
+                    "content": "Tàn dư, tập tục đã lỗi thời của xã hội cũ còn rơi rớt lại"
+                },
+                {
+                    "id": "C",
+                    "content": "Trình độ dân trí và ý thức pháp luật thấp của nhiều tầng lớp dân cư"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các phương án đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 38,
+            "question": "Khẳng định nào sau đây là đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trách nhiệm hình sự là trách nhiệm thuộc về cá nhân người phạm tội, phải do chính họgánh chịu một cách trực tiếp, chứ không thể chuyển hay ủy thác cho người khác"
+                },
+                {
+                    "id": "B",
+                    "content": "Trách nhiệm hình sự là trách nhiệm thuộc về cá nhân người phạm tội, họ có thể chuyển hayủy thác cho người khác thực hiện"
+                },
+                {
+                    "id": "C",
+                    "content": "Trách nhiệm hình sự là trách nhiệm thuộc về cá nhân người phạm tội, họ có thể chuyển hayủy thác cho người khác thực hiện khi được Tòa án cho phép"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các phương án đều sai"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 39,
+            "question": "Khẳng định nào sau đây là đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chỉ có vi phạm pháp luật mới phải chịu trách nhiệm pháp lý"
+                },
+                {
+                    "id": "B",
+                    "content": "Các vi phạm pháp luật, vi phạm đạo đức, vi phạm quy tắc tôn giáo, vi phạm tập quán... đềuphải chịu trách nhiệm pháp lý"
+                },
+                {
+                    "id": "C",
+                    "content": "Cả a và b đều đúng"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a và b đều sai"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 40,
+            "question": "Khẳng định nào sau đây là đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trách nhiệm hình sự chỉ áp dụng đối với cá nhân thực hiện hành vi phạm tội"
+                },
+                {
+                    "id": "B",
+                    "content": "Trách nhiệm hình sự chỉ áp dụng đối với tổ chức thực hiện hành vi phạm tội"
+                },
+                {
+                    "id": "C",
+                    "content": "Trách nhiệm hình sự vừa áp dụng đối với cá nhân, vừa áp dụng đối với tổ chức có hành viphạm tội"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các phương án đều sai"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 41,
+            "question": "Vi phạm pháp luật hình sự là hành vi vi phạm nguy hiểm cho xã hội được quy địnhtrong?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Pháp luật của Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Văn bản quy phạm pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Bộ luật Hình sự"
+                },
+                {
+                    "id": "D",
+                    "content": "Quy phạm pháp luật"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 42,
+            "question": "Vi phạm pháp luật hình sự còn được gọi là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tội trạng"
+                },
+                {
+                    "id": "B",
+                    "content": "Tội danh"
+                },
+                {
+                    "id": "C",
+                    "content": "Tội phạm"
+                },
+                {
+                    "id": "D",
+                    "content": "Các đáp án đều đúng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 43,
+            "question": "Vi phạm pháp luật hành chính là hành vi do cá nhân, tổ chức thực hiện một cách cốý hoặc vô ý, xâm phạm đến các?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quy tắc xử sự"
+                },
+                {
+                    "id": "B",
+                    "content": "Quy phạm pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Quy tắc quản lý Nhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Quy định pháp luật"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 44,
+            "question": "Chọn đáp án phù hợp: Vi phạm pháp luật dân sự là hành vi trái pháp luật, có lỗi, docá nhân, tổ chức thực hiện, xâm phạm đến các..... được pháp luật..... điều chỉnh?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quan hệ xã hội - pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Quan hệ pháp luật - tác động"
+                },
+                {
+                    "id": "C",
+                    "content": "Quan hệ tài sản và quan hệ nhân thân - dân sự"
+                },
+                {
+                    "id": "D",
+                    "content": "Quan hệ tài sản và quan hệ thân nhân - dân sự"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 45,
+            "question": "Yếu tố không thuộc mặt chủ quan của vi phạm pháp luật?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đối tượng của hành vi vi phạm pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Lỗi"
+                },
+                {
+                    "id": "C",
+                    "content": "Động cơ"
+                },
+                {
+                    "id": "D",
+                    "content": "Mục đích"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 46,
+            "question": "Chọn đáp án đúng: .....là loại trách nhiệm pháp lí nghiêm khắc nhất, do..... áp dụngcho chủ thể đã thực hiện hành vi phạm tội?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trách nhiệm pháp lý hình sự - Tòa án"
+                },
+                {
+                    "id": "B",
+                    "content": "Trách nhiệm pháp lý hình sự - Viện Kiểm sát"
+                },
+                {
+                    "id": "C",
+                    "content": "Trách nhiệm pháp lý hình sự - Công an"
+                },
+                {
+                    "id": "D",
+                    "content": "Trách nhiệm pháp lý hình sự - Cơ quan Nhà nước có thẩm quyền"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 47,
+            "question": "Chọn đáp án đúng cho chỗ trống trong câu sau: ..... do..... áp dụng đối với cá nhân,tổ chức đã vi phạm pháp luật dân sự?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trách nhiệm pháp lý dân sự - Tòa án"
+                },
+                {
+                    "id": "B",
+                    "content": "Trách nhiệm pháp lý hình sự - Viện Kiểm sát"
+                },
+                {
+                    "id": "C",
+                    "content": "Trách nhiệm pháp lý dân sự - Công an"
+                },
+                {
+                    "id": "D",
+                    "content": "Trách nhiệm pháp lý dân sự - Cơ quan Nhà nước có thẩm quyền"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 48,
+            "question": "Chọn đáp án đúng cho chỗ trống trong câu sau: ..... do..... áp dụng đối với cá nhân,tổ chức đã vi phạm pháp luật hành chính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trách nhiệm pháp lí hành chính - Tòa án"
+                },
+                {
+                    "id": "B",
+                    "content": "Trách nhiệm pháp lí hành chính - Viện Kiểm sát"
+                },
+                {
+                    "id": "C",
+                    "content": "Trách nhiệm pháp lý dân sự - Công an"
+                },
+                {
+                    "id": "D",
+                    "content": "Trách nhiệm pháp lí hành chính - Cơ quan quản lí Nhà nước có thẩm quyền"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 49,
+            "question": "Chọn đáp án đúng cho chỗ trống trong câu sau: ..... do..... áp dụng đối với học sinh,sinh viên, cán bộ của nhà trường đã vi phạm nội quy, quy chế của nhà trường?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trách nhiệm kỷ luật - Bộ trưởng"
+                },
+                {
+                    "id": "B",
+                    "content": "Trách nhiệm kỷ luật - Hiệu trưởng"
+                },
+                {
+                    "id": "C",
+                    "content": "Trách nhiệm kỷ luật - Trưởng phòng"
+                },
+                {
+                    "id": "D",
+                    "content": "Trách nhiệm kỷ luật - Giám đốc xí nghiệp"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 50,
+            "question": "Hành vi vi phạm pháp luật?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Không bao giờ vi phạm đạo đức"
+                },
+                {
+                    "id": "B",
+                    "content": "Có thể đồng thời là vi phạm đạo đức"
+                },
+                {
+                    "id": "C",
+                    "content": "Cả a và b đều đúng"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a và b đều sai"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 51,
+            "question": "Chủ thể phải chịu trách nhiệm pháp lý về hành vi vi phạm pháp luật của mình khi?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chủ thể đó đủ 18 tuổi và không mắc bệnh tâm thần"
+                },
+                {
+                    "id": "B",
+                    "content": "Chủ thể đó đủ 16 tuổi và có trí óc bình thường"
+                },
+                {
+                    "id": "C",
+                    "content": "Chủ thể đó đã đạt đến độ tuổi nhất định và có khả năng nhận thức và điều khiển hành vicủa mình"
+                },
+                {
+                    "id": "D",
+                    "content": "Thông thường là 18 tuổi và không mắc bệnh tâm thần"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 52,
+            "question": "Khi nghiên cứu về đặc điểm của trách nhiệm pháp lý thì khẳng định nào sau đây làsai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cơ sở của trách nhiệm pháp lý là vi phạm pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Trong mọi trường hợp, trách nhiệm pháp lý luôn gắn liền với những biện pháp cưỡng chếNhà nước đối với chủ thể đã vi phạm pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Việc truy cứu trách nhiệm pháp lý chỉ do các cơ quan Nhà nước hay nhà chức trách cóthẩm quyền tiến hành đối với chủ thể vi phạm pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Truy cứu trách nhiệm pháp lý là một quá trình hoạt động phức tạp của các cơ quan Nhànước, nhà chức trách có thẩm quyền"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 53,
+            "question": "Mặt chủ quan của vi phạm pháp luật gồm?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lỗi cố ý và lỗi vô ý"
+                },
+                {
+                    "id": "B",
+                    "content": "Cố ý trực tiếp và cố ý gián tiếp; vô ý vì quá tự tin và vô ý vì quá cẩu thả"
+                },
+                {
+                    "id": "C",
+                    "content": "Lỗi; động cơ; mục đích"
+                },
+                {
+                    "id": "D",
+                    "content": "Hành vi trái pháp luật và hậu quả nguy hiểm cho xã hội"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 54,
+            "question": "Chủ thể thực hiện hành vi trái pháp luật bị coi là có lỗi khi?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhận thức rất rõ về hành vi mình thực hiện là trái pháp luật và có thể gây ra hậu quảnghiêm trọng cho xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Có khả năng nhận thức về hành vi mình thực hiện là trái pháp luật và có thể gây ra hậu quảnguy hiểm cho xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Do vô ý nên không có khả năng nhận thức về hành vi mình đã thực hiện là trái pháp luật vàcó thể gây ra hậu quả nguy hiểm cho xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Cố ý thực hiện hành vi trái pháp luật"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 55,
+            "question": "Hành vi nào sau đây là vi phạm pháp luật hành chính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vượt đèn đỏ gây chết người"
+                },
+                {
+                    "id": "B",
+                    "content": "Cướp tài sản"
+                },
+                {
+                    "id": "C",
+                    "content": "Buôn bán gia cầm nhiễm cúm"
+                },
+                {
+                    "id": "D",
+                    "content": "Sử dụng tài liệu khi làm bài thi"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 56,
+            "question": "Hành vi nào sau đây là vi phạm pháp luật hình sự?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Điều khiển xe máy chạy lấn tuyến"
+                },
+                {
+                    "id": "B",
+                    "content": "Bán hàng lấn chiếm lòng, lề đường"
+                },
+                {
+                    "id": "C",
+                    "content": "Chứa chấp hoạt động mại dâm"
+                },
+                {
+                    "id": "D",
+                    "content": "Điều khiển xe gắn máy không có bằng lái xe"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 57,
+            "question": "Hành vi nào sau đây là vi phạm pháp luật dân sự?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kinh doanh sai ngành nghề đã đăng ký"
+                },
+                {
+                    "id": "B",
+                    "content": "Buôn bán phụ nữ"
+                },
+                {
+                    "id": "C",
+                    "content": "Tuyên truyền văn hóa phẩm đồi trụy"
+                },
+                {
+                    "id": "D",
+                    "content": "Không trả tiền thuê nhà"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 58,
+            "question": "Để truy cứu trách nhiệm pháp lý cần xác định?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Có hành vi vi phạm pháp luật xảy ra, còn thời hiệu truy cứu trách nhiệm pháp lý"
+                },
+                {
+                    "id": "B",
+                    "content": "Lỗi của chủ thể vi phạm pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Hành vi trái pháp luật của chủ thể"
+                },
+                {
+                    "id": "D",
+                    "content": "Hậu quả gây thiệt hại cho xã hội"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 59,
+            "question": "Nguyên tắc truy cứu trách nhiệm pháp lý là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Việc truy cứu trách nhiệm pháp lý luôn cần phải áp dụng biện pháp cưỡng chế Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Việc truy cứu trách nhiệm pháp lý phải được tiến hành trên cơ sở quy định của pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Việc truy cứu trách nhiệm pháp lý chỉ được áp dụng đối với cá nhân vi phạm pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Việc truy cứu trách nhiệm pháp lý chỉ được áp dụng đối với tổ chức vi phạm pháp luật"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 60,
+            "question": "Đối với các trường hợp áp dụng thời hiệu truy cứu trách nhiệm pháp lý, thời hiệu đóđược tính từ thời điểm nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thời điểm cơ quan Nhà nước có thẩm quyền phát hiện hành vi vi phạm"
+                },
+                {
+                    "id": "B",
+                    "content": "Thời điểm chủ thể người phạm tội ra đầu thú"
+                },
+                {
+                    "id": "C",
+                    "content": "Thời điểm vi phạm pháp luật được thực hiện"
+                },
+                {
+                    "id": "D",
+                    "content": "Các đáp án đều sai"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        }
+    ]
+}

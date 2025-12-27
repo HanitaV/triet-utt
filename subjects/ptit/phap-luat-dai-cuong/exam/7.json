@@ -1,0 +1,894 @@
+{
+    "title": "CHƯƠNG 7",
+    "total_questions": 37,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Luật Hiến pháp là một ngành luật chủ đạo trong hệ thống pháp luật Việt Nam vì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Do Quốc hội - cơ quan quyền lực Nhà nước cao nhất ban hành"
+                },
+                {
+                    "id": "B",
+                    "content": "Quy định về những vấn đề cơ bản nhất, quan trọng nhất của Nhà nước"
+                },
+                {
+                    "id": "C",
+                    "content": "Có giá trị pháp lý cao nhất"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 2,
+            "question": "Độ tuổi được ứng cử vào Quốc hội và Hội đồng nhân dân các cấp theo quy định củapháp luật ở nước ta là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đủ 18 tuổi trở lên"
+                },
+                {
+                    "id": "B",
+                    "content": "Đủ 19 tuổi trở lên"
+                },
+                {
+                    "id": "C",
+                    "content": "Đủ 20 tuổi trở lên"
+                },
+                {
+                    "id": "D",
+                    "content": "Đủ 21 tuổi trở lên"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 3,
+            "question": "Hiến pháp có những đặc trưng, khác với các văn bản pháp luật khác ở chỗ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hiến pháp chỉ quy định những vấn đề cơ bản nhất, quan trọng nhất của một Nhà nước, mộtxã hội làm cơ sở nền tảng cho hệ thống pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Hiến pháp có một phạm vi điều chỉnh rất rộng, trên tất cả các lĩnh vực, các văn bản phápluật khác có phạm vi điều chỉnh hẹp hơn"
+                },
+                {
+                    "id": "C",
+                    "content": "Hiến pháp có hiệu lực pháp lý cao nhất và có thủ tục làm mới và sửa đổi đặc biệt là thủ tụclập hiến"
+                },
+                {
+                    "id": "D",
+                    "content": "Bao gồm cả a, b, c"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 4,
+            "question": "Pháp luật nước ta quy định người nào có quyền bầu cử ra cơ quan Quốc hội và Hộiđồng nhân dân các cấp?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tất cả công dân Việt Nam"
+                },
+                {
+                    "id": "B",
+                    "content": "Công dân Việt Nam 18 từ tuổi trở lên"
+                },
+                {
+                    "id": "C",
+                    "content": "Công dân Việt Nam 16 từ tuổi trở lên"
+                },
+                {
+                    "id": "D",
+                    "content": "Công dân Việt Nam 21 từ tuổi trở lên"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 5,
+            "question": "Văn bản pháp luật nào quy định về quyền và nghĩa vụ cơ bản của công dân?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Luật Hành chính"
+                },
+                {
+                    "id": "B",
+                    "content": "Luật Dân sự"
+                },
+                {
+                    "id": "C",
+                    "content": "Luật Lao động"
+                },
+                {
+                    "id": "D",
+                    "content": "Luật Hiến pháp"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 6,
+            "question": "Những quyền và nghĩa vụ của công dân được quy định trong?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Rất nhiều văn bản pháp luật khác nhau"
+                },
+                {
+                    "id": "B",
+                    "content": "Luật Dân sự"
+                },
+                {
+                    "id": "C",
+                    "content": "Luật Lao động"
+                },
+                {
+                    "id": "D",
+                    "content": "Hiến pháp"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 7,
+            "question": "Hiến pháp Nhà nước ta quy định: Công dân đủ 21 tuổi trở lên có quyền ứng cử vàocơ quan nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chính phủ"
+                },
+                {
+                    "id": "B",
+                    "content": "Quốc hội và Hội đồng nhân dân các cấp"
+                },
+                {
+                    "id": "C",
+                    "content": "Ủy ban nhân dân các cấp"
+                },
+                {
+                    "id": "D",
+                    "content": "Ủy ban nhân dân cấp tỉnh và tương đương"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 8,
+            "question": "Lịch sử lập hiến Việt Nam đã có những bản Hiến pháp nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hiến pháp 1946 - Hiến pháp 1959 - Hiến pháp 1980 - Hiến pháp 1992 – Hiến pháp 2013"
+                },
+                {
+                    "id": "B",
+                    "content": "Hiến pháp 1959 - Hiến pháp 1980 - Hiến pháp 1992"
+                },
+                {
+                    "id": "C",
+                    "content": "Hiến pháp 1946 - Hiến pháp 1959 - Hiến pháp 1980 - Hiến pháp 1992"
+                },
+                {
+                    "id": "D",
+                    "content": "Hiến pháp 1946 - Hiến pháp 1980 - Hiến pháp 1992"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 9,
+            "question": "Hiến pháp đang có hiệu lực thi hành ở Việt Nam hiện nay được ban hành năm nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Năm 1980"
+                },
+                {
+                    "id": "B",
+                    "content": "Năm 1959"
+                },
+                {
+                    "id": "C",
+                    "content": "Năm 1992"
+                },
+                {
+                    "id": "D",
+                    "content": "Năm 2013"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 10,
+            "question": "Các quan hệ xã hội cơ bản được Luật Hiến pháp điều chỉnh là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chế độ chính trị"
+                },
+                {
+                    "id": "B",
+                    "content": "Chế độ kinh tế, văn hóa, xã hội, giáo dục, khoa học, công nghệ..."
+                },
+                {
+                    "id": "C",
+                    "content": "Quyền và nghĩa vụ cơ bản của công dân, tổ chức và hoạt động của bộ máy Nhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 11,
+            "question": "Hiến pháp 1992 đã được thay thế bằng hiến pháp năm nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Năm 1996"
+                },
+                {
+                    "id": "B",
+                    "content": "Năm 1998"
+                },
+                {
+                    "id": "C",
+                    "content": "Năm 2001"
+                },
+                {
+                    "id": "D",
+                    "content": "Năm 2013"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 12,
+            "question": "Hiến pháp được thông qua khi ít nhất có?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Một phần hai tổng số đại biểu Quốc hội biểu quyết tán thành"
+                },
+                {
+                    "id": "B",
+                    "content": "Hai phần ba tổng số đại biểu Quốc hội biểu quyết tán thành"
+                },
+                {
+                    "id": "C",
+                    "content": "Ba phần tư tổng số đại biểu Quốc hội biểu quyết tán thành"
+                },
+                {
+                    "id": "D",
+                    "content": "Một trăm phần trăm tổng số đại biểu Quốc hội biểu quyết tán thành"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 13,
+            "question": "Những chức danh nào sau đây bắt buộc phải là đại biểu Quốc hội?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phó Thủ tướng Chính phủ"
+                },
+                {
+                    "id": "B",
+                    "content": "Thủ tướng Chính phủ"
+                },
+                {
+                    "id": "C",
+                    "content": "Bộ trưởng"
+                },
+                {
+                    "id": "D",
+                    "content": "Chủ tịch UBND tỉnh, thành phố trực thuộc Trung ương"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 14,
+            "question": "Cơ cấu bộ máy Nhà nước Cộng hòa XHCN Việt Nam bao gồm?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quốc hội, Chính phủ, Ủy ban nhân dân các cấp"
+                },
+                {
+                    "id": "B",
+                    "content": "Quốc hội, Viện Kiểm sát nhân dân, Tòa án nhân dân các cấp"
+                },
+                {
+                    "id": "C",
+                    "content": "Hệ thống cơ quan quyền lực, hệ thống cơ quan quản lý Nhà nước, hệ thống cơ quan kiểmsát, hệ thống cơ quan xét xử"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều sai"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 15,
+            "question": "Hệ thống cơ quan quyền lực Nhà nước bao gồm?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quốc hội, Chính phủ"
+                },
+                {
+                    "id": "B",
+                    "content": "Quốc hội, Ủy ban nhân dân các cấp"
+                },
+                {
+                    "id": "C",
+                    "content": "Chính phủ, Ủy ban nhân dân các cấp"
+                },
+                {
+                    "id": "D",
+                    "content": "Quốc hội, Hội đồng nhân dân các cấp"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 16,
+            "question": "Vị trí của Chủ tịch nước Cộng hòa XHCN Việt Nam?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là nguyên thủ quốc gia, có quyền quyết định những vấn đề quan trọng nhất của đất nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Là người đứng đầu Nhà nước"
+                },
+                {
+                    "id": "C",
+                    "content": "Thay mặt Nhà nước về đối nội và đối ngoại"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả b và c"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 17,
+            "question": "Chính phủ nước Cộng hòa XHCN Việt Nam?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là cơ quan trung tâm của Nhà nước, có thẩm quyền trong cả 3 lĩnh vực lập pháp, hànhpháp, tư pháp"
+                },
+                {
+                    "id": "B",
+                    "content": "Là cơ quan Hành chính Nhà nước cao nhất, thực hiện quyền hành pháp, tư pháp"
+                },
+                {
+                    "id": "C",
+                    "content": "Là cơ quan chấp hành của Quốc hội, cơ quan Hành chính Nhà nước cao nhất, thực hiệnquyền hành pháp"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều sai"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 18,
+            "question": "Chức năng của Viện Kiểm sát nhân dân các cấp?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kiểm sát hoạt động của tất cả các cơ quan Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Kiểm sát hoạt động tư pháp"
+                },
+                {
+                    "id": "C",
+                    "content": "Thực hành quyền công tố theo quy định của pháp luật"
+                },
+                {
+                    "id": "D",
+                    "content": "Gồm b và c"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 19,
+            "question": "Tìm đáp án sai trong nhận định sau: Quan hệ xã hội mà Luật Hành chính điềuchỉnh có đặc trưng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quyền lực phục tùng"
+                },
+                {
+                    "id": "B",
+                    "content": "Các bên tham gia quan hệ pháp luật hành chính có địa vị pháp lý ngang nhau"
+                },
+                {
+                    "id": "C",
+                    "content": "Không có sự bình đẳng về mặt ý chí giữa các bên tham gia quan hệ"
+                },
+                {
+                    "id": "D",
+                    "content": "Một bên có quyền nhân danh Nhà nước đơn phương đưa ra quyết định quản lý và phía bênkia có nghĩa vụ chấp hành các quyết định đơn phương đó"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 20,
+            "question": "Phương pháp điều chỉnh của Luật Hành chính là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phương pháp bình đẳng, thỏa thuận"
+                },
+                {
+                    "id": "B",
+                    "content": "Phương pháp độc lập, tự định đoạt"
+                },
+                {
+                    "id": "C",
+                    "content": "Phương pháp mệnh lệnh đơn phương"
+                },
+                {
+                    "id": "D",
+                    "content": "Phương pháp quyền uy và phương pháp thông qua hoạt động của tổ chức công đoàn"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 21,
+            "question": "Tìm đáp án sai trong nhận định sau: Các cơ quan Hành chính Nhà nước ở Trungương bao gồm?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chính phủ"
+                },
+                {
+                    "id": "B",
+                    "content": "Cơ quan thuộc Chính phủ"
+                },
+                {
+                    "id": "C",
+                    "content": "Cơ quan ngang Bộ"
+                },
+                {
+                    "id": "D",
+                    "content": "Bộ"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 22,
+            "question": "Cơ quan Hành chính Nhà nước cấp tỉnh bao gồm?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ủy ban nhân dân tỉnh, các Sở, phòng, ban thuộc Ủy ban nhân dân tỉnh"
+                },
+                {
+                    "id": "B",
+                    "content": "Ủy ban nhân dân tỉnh, Hội đồng nhân dân tỉnh"
+                },
+                {
+                    "id": "C",
+                    "content": "Hội đồng nhân dân, Ủy ban nhân dân, các Sở, phòng, ban cấp tỉnh"
+                },
+                {
+                    "id": "D",
+                    "content": "Ủy ban nhân dân, Hội đồng nhân dân, các tổ chức Đảng, đoàn thể cấp tỉnh"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 23,
+            "question": "Đảng lãnh đạo cơ quan Hành chính Nhà nước bằng phương pháp?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thuyết phục"
+                },
+                {
+                    "id": "B",
+                    "content": "Cưỡng chế"
+                },
+                {
+                    "id": "C",
+                    "content": "Thuyết phục và cưỡng chế"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả đều sai"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 24,
+            "question": "Tìm đáp án đúng trong nhận định sau: Một trong những đặc trưng cơ bản của quanhệ pháp luật hành chính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các bên tham gia quan hệ pháp luật hành chính luôn luôn lệ thuộc nhau về mặt tổ chức"
+                },
+                {
+                    "id": "B",
+                    "content": "Các bên tham gia quan hệ pháp luật hành chính đều là chủ thể được sử dụng quyền lực Nhànước"
+                },
+                {
+                    "id": "C",
+                    "content": "Một bên tham gia quan hệ pháp luật hành chính phải là chủ thể được sử dụng quyền lựcNhà nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Các bên tham gia quan hệ pháp luật hành chính không bắt buộc phải là chủ thể được sửdụng quyền lực Nhà nước"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 25,
+            "question": "Đặc điểm cơ bản của vi phạm hành chính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hành vi trái pháp luật xâm phạm các quy tắc quản lý Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Hành vi có lỗi do cá nhân, tổ chức thực hiện"
+                },
+                {
+                    "id": "C",
+                    "content": "Hành vi đó không phải là tội phạm và theo quy định của pháp luật phải bị xử lý hành chính"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 26,
+            "question": "Trường hợp nào sau đây không bị xử lý vi phạm hành chính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phòng vệ chính đáng, tình thế cấp thiết"
+                },
+                {
+                    "id": "B",
+                    "content": "Vi phạm khi đang mắc các chứng bệnh làm mất khả năng nhận thức cũng như khả năngđiều khiển hành vi"
+                },
+                {
+                    "id": "C",
+                    "content": "Sự kiện bất ngờ"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 27,
+            "question": "Tìm đáp án đúng trong nhận định sau: Hình thức xử phạt chính vi phạm hành chínhlà?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khiển trách"
+                },
+                {
+                    "id": "B",
+                    "content": "Phạt tiền"
+                },
+                {
+                    "id": "C",
+                    "content": "Cảnh cáo"
+                },
+                {
+                    "id": "D",
+                    "content": "Cảnh cáo và phạt tiền"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 28,
+            "question": "Độ tuổi bắt đầu chịu trách nhiệm hành chính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "14 tuổi"
+                },
+                {
+                    "id": "B",
+                    "content": "15 tuổi"
+                },
+                {
+                    "id": "C",
+                    "content": "16 tuổi"
+                },
+                {
+                    "id": "D",
+                    "content": "18 tuổi"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 29,
+            "question": "A 15 tuổi thực hiện hành vi vi phạm hành chính với lỗi cố ý. Trách nhiệm hành chínhđối với A như thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Có thể phạt cảnh cáo hoặc phạt tiền theo quy định của pháp luật"
+                },
+                {
+                    "id": "B",
+                    "content": "Chỉ có thể phạt cảnh cáo theo quy định của pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Cha mẹ hoặc người giám hộ của A phải chịu trách nhiệm thay vì A chưa thành niên"
+                },
+                {
+                    "id": "D",
+                    "content": "A dưới 16 tuổi nên chưa phải chịu trách nhiệm hành chính"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 30,
+            "question": "Tìm đáp án đúng trong nhận định sau: C là người chưa thành niên thực hiện hànhvi vi phạm hành chính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "C sẽ phải chịu trách nhiệm hành chính do lỗi cố ý nếu tuổi C từ đủ 14 đến dưới 16. Nếu Ctừ đủ 16 tuổi trở lên, có thể phải chịu trách nhiệm hành chính trong mọi trường hợp vi phạm"
+                },
+                {
+                    "id": "B",
+                    "content": "C không phải chịu trách nhiệm hành chính"
+                },
+                {
+                    "id": "C",
+                    "content": "C phải chịu trách nhiệm hành chính trong mọi trường hợp vi phạm"
+                },
+                {
+                    "id": "D",
+                    "content": "C chỉ phải chịu trách nhiệm hành chính khi C đủ 16 tuổi trở lên"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 31,
+            "question": "Tìm đáp án đúng trong nhận định sau: T 17 tuổi thực hiện hành vi vi phạm hànhchính và bị xử phạt tiền?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mức tiền phạt đối với T giống như mức phạt đối với người thành niên"
+                },
+                {
+                    "id": "B",
+                    "content": "Mức tiền phạt đối với T không được quá 1/2 mức phạt đối với người thành niên. Trườnghợp T không có tiền nộp phạt thì cha mẹ hoặc người giám hộ T phải nộp phạt thay"
+                },
+                {
+                    "id": "C",
+                    "content": "Trong mọi trường hợp, cha mẹ hoặc người giám hộ T phải nộp thay"
+                },
+                {
+                    "id": "D",
+                    "content": "Trường hợp T không có tiền nộp phạt thì áp dụng hình thức phạt cảnh cáo với T"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 32,
+            "question": "Đối tượng điều chỉnh của Luật Lao động?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quan hệ lao động"
+                },
+                {
+                    "id": "B",
+                    "content": "Quan hệ việc làm"
+                },
+                {
+                    "id": "C",
+                    "content": "Các quan hệ liên quan đến quan hệ lao động"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a và c"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 33,
+            "question": "Quan hệ học nghề là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quan hệ lao động"
+                },
+                {
+                    "id": "B",
+                    "content": "Quan hệ về quản lý lao động"
+                },
+                {
+                    "id": "C",
+                    "content": "Quan hệ liên quan đến quan hệ lao động"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều sai"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 34,
+            "question": "Việc làm là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mọi hoạt động lao động trong cơ quan Nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Mọi hoạt động lao động tạo ra thu nhập"
+                },
+                {
+                    "id": "C",
+                    "content": "Mọi hoạt động lao động tạo ra nguồn thu nhập không bị pháp luật cấm"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c đều đúng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 35,
+            "question": "Các chế định của Bộ luật Lao động điều chỉnh?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quan hệ lao động giữa người làm công ăn lương với người sử dụng lao động"
+                },
+                {
+                    "id": "B",
+                    "content": "Các quan hệ liên quan đến lao động"
+                },
+                {
+                    "id": "C",
+                    "content": "Cả a và b đều đúng"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a và b đều sai"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 36,
+            "question": "Tiền lương là một chế định của ngành luật?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dân sự"
+                },
+                {
+                    "id": "B",
+                    "content": "Hành chính"
+                },
+                {
+                    "id": "C",
+                    "content": "Bảo hiểm xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Lao động"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 37,
+            "question": "Hợp đồng lao động phải có nội dung chủ yếu nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Công việc phải làm, thời giờ làm việc, nghỉ ngơi"
+                },
+                {
+                    "id": "B",
+                    "content": "Tiền lương, địa điểm làm việc, thời hạn hợp đồng"
+                },
+                {
+                    "id": "C",
+                    "content": "Điều kiện về an toàn lao động, vệ sinh lao động và bảo hiểm xã hội đối với người lao động"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả a, b, c"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        }
+    ]
+}

@@ -21,6 +21,112 @@ function toggleTheme() {
     updateThemeIcon(next);
 }
 
+// ===== Subject Management (Multi-Subject Support) =====
+let subjectsData = [];
+let currentSubjectData = null;
+
+function getCurrentSubjectId() {
+    return localStorage.getItem('current-subject') || 'triet-mac-lenin';
+}
+
+function setCurrentSubject(subjectId) {
+    localStorage.setItem('current-subject', subjectId);
+    window.location.reload();
+}
+
+async function loadSubjectsList() {
+    try {
+        const response = await fetch('subjects.json?v=' + Date.now());
+        subjectsData = await response.json();
+        return subjectsData;
+    } catch (error) {
+        console.error('Error loading subjects:', error);
+        return [];
+    }
+}
+
+async function loadCurrentSubjectConfig() {
+    const subjectId = getCurrentSubjectId();
+    const subject = subjectsData.find(s => s.id === subjectId);
+    if (!subject) return null;
+    try {
+        const response = await fetch(`${subject.path}/subject.json?v=${Date.now()}`);
+        currentSubjectData = await response.json();
+        return currentSubjectData;
+    } catch (error) {
+        console.error('Error loading subject config:', error);
+        return null;
+    }
+}
+
+function getExamFilesPath() {
+    if (!currentSubjectData) return 'exam';
+    const subject = subjectsData.find(s => s.id === currentSubjectData.id);
+    const examPath = currentSubjectData.examPath || 'exam';
+    return subject ? `${subject.path}/${examPath}` : 'exam';
+}
+
+function getChapterFiles() {
+    if (!currentSubjectData || !currentSubjectData.chapters) return [];
+    const basePath = getExamFilesPath();
+    return currentSubjectData.chapters.map(ch => `${basePath}/${ch.file}`);
+}
+
+
+function updateHeaderWithSubject() {
+    const subjectId = getCurrentSubjectId();
+    const subject = subjectsData.find(s => s.id === subjectId);
+    if (!subject) return;
+    const logo = document.querySelector('.logo');
+    if (logo) {
+        logo.innerHTML = `${subject.icon} ${subject.shortName}`;
+        logo.title = `${subject.name} - ${subject.school}`;
+    }
+}
+
+function createSubjectSelector() {
+    const headerContent = document.querySelector('.header-content');
+    if (!headerContent || subjectsData.length < 2) return;
+    const currentSubjectId = getCurrentSubjectId();
+    const currentSubject = subjectsData.find(s => s.id === currentSubjectId);
+
+    const selector = document.createElement('div');
+    selector.className = 'subject-selector';
+    selector.innerHTML = `
+        <button class="subject-btn" title="Chọn môn học">
+            <span class="subject-icon">${currentSubject?.icon || '📚'}</span>
+            <span class="subject-name-short">${currentSubject?.shortName || 'Môn học'}</span>
+            <span class="dropdown-arrow">▼</span>
+        </button>
+        <div class="subject-dropdown">
+            ${subjectsData.map(s => `
+                <div class="subject-option ${s.id === currentSubjectId ? 'active' : ''}" data-subject="${s.id}">
+                    <span class="opt-icon">${s.icon}</span>
+                    <div class="opt-info">
+                        <span class="opt-name">${s.name}</span>
+                        <span class="opt-school">${s.shortSchool}</span>
+                    </div>
+                </div>
+            `).join('')}
+        </div>
+    `;
+
+    const themeToggle = headerContent.querySelector('.theme-toggle');
+    if (themeToggle) headerContent.insertBefore(selector, themeToggle);
+    else headerContent.appendChild(selector);
+
+    const btn = selector.querySelector('.subject-btn');
+    const dropdown = selector.querySelector('.subject-dropdown');
+    btn.addEventListener('click', (e) => { e.stopPropagation(); dropdown.classList.toggle('active'); });
+    selector.querySelectorAll('.subject-option').forEach(opt => {
+        opt.addEventListener('click', () => {
+            const subjectId = opt.dataset.subject;
+            if (subjectId !== currentSubjectId) setCurrentSubject(subjectId);
+        });
+    });
+    document.addEventListener('click', () => dropdown.classList.remove('active'));
+}
+
 // Data Loading
 const quizData = {
     chapters: [],
@@ -28,8 +134,10 @@ const quizData = {
     studyTopics: []
 };
 
+
 async function loadAllData() {
-    const files = ['exam/chuong_1.json', 'exam/chuong_2.json', 'exam/chuong_3.json'];
+    const files = getChapterFiles();
+
 
     for (const file of files) {
         try {
@@ -194,11 +302,17 @@ function initMobileMenu() {
 }
 
 // Initialize common functionality
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', async () => {
     initTheme();
     checkDailyReset();
     highlightCurrentNav();
     initMobileMenu();
+
+    // Initialize multi-subject support
+    await loadSubjectsList();
+    await loadCurrentSubjectConfig();
+    updateHeaderWithSubject();
+    createSubjectSelector();
 
     // Theme toggle
     const themeToggle = document.getElementById('theme-toggle');
@@ -206,6 +320,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     initSupportFeature();
 });
+
 
 /* Support Feature */
 function initSupportFeature() {

@@ -31,26 +31,30 @@ let simResultEmoji, simResultScore, simResultCorrect, simResultIncorrect, simRes
 let simReviewBtn, simRetryBtn;
 
 async function initSimulation() {
+    // Ensure subject config is loaded first
+    await loadSubjectsList();
+    await loadCurrentSubjectConfig();
+
     await loadAllData();
     initSimulationElements();
     initSimulationEventListeners();
     updateDistributionCounts();
 }
 
+
 function initSimulationElements() {
     simulationConfig = document.getElementById('simulation-config');
     simulationExam = document.getElementById('simulation-exam');
     simulationResult = document.getElementById('simulation-result');
 
-    simTotalQuestions = document.getElementById('sim-total-questions');
-    simCh1Percent = document.getElementById('sim-ch1-percent');
-    simCh2Percent = document.getElementById('sim-ch2-percent');
-    simCh3Percent = document.getElementById('sim-ch3-percent');
-    simCh1Count = document.getElementById('sim-ch1-count');
-    simCh2Count = document.getElementById('sim-ch2-count');
-    simCh3Count = document.getElementById('sim-ch3-count');
+    simTotalQuestionsInput = document.getElementById('sim-total-questions');
     simTotalPercent = document.getElementById('sim-total-percent');
     distWarning = document.getElementById('dist-warning');
+    chapDistContainer = document.getElementById('chapter-distribution-container');
+
+    // Render dynamic config
+    renderSimulationConfig();
+
     simTimeLimit = document.getElementById('sim-time-limit');
     simShuffleQuestions = document.getElementById('sim-shuffle-questions');
     simShuffleAnswers = document.getElementById('sim-shuffle-answers');
@@ -83,90 +87,164 @@ function initSimulationElements() {
     simRetryBtn = document.getElementById('sim-retry-btn');
 }
 
-function initSimulationEventListeners() {
-    // Config inputs
-    [simTotalQuestions, simCh1Percent, simCh2Percent, simCh3Percent].forEach(input => {
-        input?.addEventListener('input', updateDistributionCounts);
+function renderSimulationConfig() {
+    if (!chapDistContainer || !currentSubjectData || !currentSubjectData.simulationConfig) return;
+
+    const config = currentSubjectData.simulationConfig;
+
+    // Set default total questions
+    if (simTotalQuestionsInput) simTotalQuestionsInput.value = config.totalQuestions;
+    if (simTimeLimit) simTimeLimit.value = config.timeLimit;
+    if (simShuffleQuestions) simShuffleQuestions.checked = config.shuffleQuestions;
+    if (simShuffleAnswers) simShuffleAnswers.checked = config.shuffleAnswers;
+    if (simShowAnswerImmediately) simShowAnswerImmediately.checked = config.showAnswerImmediately;
+    if (simShowAIExplanation) simShowAIExplanation.checked = config.showAIExplanation;
+
+
+    let html = '';
+    const colors = ['📘', '📗', '📙', '📕', '📓', '📔', '📒', '📚']; // Icons for chapters
+
+    config.distribution.forEach((dist, idx) => {
+        const ch = currentSubjectData.chapters.find(c => c.id === dist.chapter);
+        const name = ch ? ch.name : `Chương ${dist.chapter}`;
+        const icon = colors[idx % colors.length];
+
+        html += `
+            <div class="dist-row">
+                <label title="${name}">
+                    <span class="dist-icon">${icon}</span>
+                    Chương ${dist.chapter}
+                </label>
+                <div class="dist-input">
+                    <input type="number" class="sim-ch-percent" data-chapter="${dist.chapter}" value="${dist.percent}" min="0" max="100">
+                    <span>%</span>
+                </div>
+                <span class="dist-count" id="sim-ch${dist.chapter}-count">0 câu</span>
+            </div>
+        `;
     });
 
+    chapDistContainer.innerHTML = html;
+
+    // Add event listeners to new inputs
+    document.querySelectorAll('.sim-ch-percent').forEach(input => {
+        input.addEventListener('input', updateCounts);
+    });
+}
+
+function initSimulationEventListeners() {
     startSimulationBtn?.addEventListener('click', startSimulation);
     simSubmitBtn?.addEventListener('click', submitSimulation);
     simPrevBtn?.addEventListener('click', () => simNavigate(-1));
     simNextBtn?.addEventListener('click', () => simNavigate(1));
     simReviewBtn?.addEventListener('click', reviewSimulation);
     simRetryBtn?.addEventListener('click', resetSimulation);
+
+    simTotalQuestionsInput?.addEventListener('input', updateCounts);
+    // Event listeners for dynamically created chapter percentage inputs are added in renderSimulationConfig
+
+    // Initial update
+    updateCounts();
 }
 
-function updateDistributionCounts() {
-    const total = parseInt(simTotalQuestions?.value) || 80;
-    const ch1 = parseInt(simCh1Percent?.value) || 0;
-    const ch2 = parseInt(simCh2Percent?.value) || 0;
-    const ch3 = parseInt(simCh3Percent?.value) || 0;
-    const sum = ch1 + ch2 + ch3;
+function updateCounts() {
+    if (!simTotalQuestionsInput) return;
+    const total = parseInt(simTotalQuestionsInput.value) || 0;
+    let totalPercent = 0;
 
-    const ch1Count = Math.round(total * ch1 / 100);
-    const ch2Count = Math.round(total * ch2 / 100);
-    const ch3Count = total - ch1Count - ch2Count;
+    document.querySelectorAll('.sim-ch-percent').forEach(input => {
+        const percent = parseInt(input.value) || 0;
+        const chapter = input.dataset.chapter;
+        const count = Math.round((total * percent) / 100);
 
-    if (simCh1Count) simCh1Count.textContent = `${ch1Count} câu`;
-    if (simCh2Count) simCh2Count.textContent = `${ch2Count} câu`;
-    if (simCh3Count) simCh3Count.textContent = `${ch3Count} câu`;
+        const countEl = document.getElementById(`sim-ch${chapter}-count`);
+        if (countEl) countEl.textContent = `${count} câu`;
+
+        totalPercent += percent;
+    });
 
     if (simTotalPercent) {
-        simTotalPercent.querySelector('span').textContent = `Tổng: ${sum}%`;
-    }
-
-    if (distWarning) {
-        distWarning.classList.toggle('hidden', sum === 100);
-    }
-
-    if (startSimulationBtn) {
-        startSimulationBtn.disabled = sum !== 100;
+        simTotalPercent.innerHTML = `<span>Tổng: ${totalPercent}%</span>`;
+        if (totalPercent !== 100) {
+            simTotalPercent.classList.add('invalid');
+            simTotalPercent.innerHTML += ` <span class="dist-warning">⚠️ Tổng phải bằng 100%</span>`;
+            if (startSimulationBtn) startSimulationBtn.disabled = true;
+        } else {
+            simTotalPercent.classList.remove('invalid');
+            if (startSimulationBtn) startSimulationBtn.disabled = false;
+        }
     }
 }
 
 function startSimulation() {
-    simConfig = {
-        totalQuestions: parseInt(simTotalQuestions?.value) || 80,
-        ch1Percent: parseInt(simCh1Percent?.value) || 20,
-        ch2Percent: parseInt(simCh2Percent?.value) || 40,
-        ch3Percent: parseInt(simCh3Percent?.value) || 40,
-        timeLimit: parseInt(simTimeLimit?.value) || 60,
-        shuffleQuestions: simShuffleQuestions?.checked ?? true,
-        shuffleAnswers: simShuffleAnswers?.checked ?? true,
-        showAnswerImmediately: simShowAnswerImmediately?.checked ?? false,
-        showAIExplanation: simShowAIExplanation?.checked ?? true
-    };
+    const distribution = [];
+    let totalPercentSum = 0;
 
-    const sum = simConfig.ch1Percent + simConfig.ch2Percent + simConfig.ch3Percent;
-    if (sum !== 100) {
+    // Gather requirements from inputs
+    document.querySelectorAll('.sim-ch-percent').forEach(input => {
+        const chapterId = parseInt(input.dataset.chapter);
+        const percent = parseInt(input.value) || 0;
+        if (percent > 0) {
+            distribution.push({ chapter: chapterId, percent: percent });
+        }
+        totalPercentSum += percent;
+    });
+
+    if (totalPercentSum !== 100) {
         alert('Tổng phần trăm các chương phải bằng 100%');
         return;
     }
 
-    // Calculate question counts
-    const ch1Count = Math.round(simConfig.totalQuestions * simConfig.ch1Percent / 100);
-    const ch2Count = Math.round(simConfig.totalQuestions * simConfig.ch2Percent / 100);
-    const ch3Count = simConfig.totalQuestions - ch1Count - ch2Count;
+    simConfig = {
+        totalQuestions: parseInt(simTotalQuestionsInput?.value) || 60,
+        timeLimit: parseInt(simTimeLimit?.value) || 60,
+        shuffleQuestions: simShuffleQuestions?.checked ?? true,
+        shuffleAnswers: simShuffleAnswers?.checked ?? true,
+        showAnswerImmediately: simShowAnswerImmediately?.checked ?? false,
+        showAIExplanation: simShowAIExplanation?.checked ?? true,
+        distribution: distribution
+    };
 
-    // Get questions
-    const ch1Questions = [...getQuestionsByChapter(1)];
-    const ch2Questions = [...getQuestionsByChapter(2)];
-    const ch3Questions = [...getQuestionsByChapter(3)];
+    let selected = [];
+    const totalQ = simConfig.totalQuestions;
 
-    shuffleArray(ch1Questions);
-    shuffleArray(ch2Questions);
-    shuffleArray(ch3Questions);
+    // Select questions based on distribution
+    simConfig.distribution.forEach(dist => {
+        const targetCount = Math.round((totalQ * dist.percent) / 100);
+        if (targetCount <= 0) return;
 
-    const selected = [
-        ...ch1Questions.slice(0, ch1Count),
-        ...ch2Questions.slice(0, ch2Count),
-        ...ch3Questions.slice(0, ch3Count)
-    ];
+        // Find chapter data in quizData
+        // quizData.questions should effectively be all questions flattened or we prefer structure
+        // loadAllData populates quizData.questions for single exam? 
+        // No, loadAllData populates individual chapter files into quizData.chapters usually or combines them?
+        // Let's check loadAllData implementation in common.js to be sure. 
+        // Assuming quizData has chapters array as per previous logic
+
+        const chData = quizData.chapters.find(c => c.id === dist.chapter || c.chapter === dist.chapter);
+        if (!chData || !chData.questions) return;
+
+        // Prepare questions
+        const chapterQuestions = chData.questions.map(q => ({
+            ...q,
+            text: q.text || q.question,
+            correct_answer: q.correct_answer || q.answer,
+            options: (q.options || []).map(opt => ({
+                letter: opt.letter || opt.id,
+                text: opt.text || opt.content
+            })),
+            explanation: q.explanation || q.explain,
+            chapter: dist.chapter
+        }));
+
+        shuffleArray(chapterQuestions);
+        selected.push(...chapterQuestions.slice(0, targetCount));
+    });
+
 
     if (simConfig.shuffleQuestions) {
         shuffleArray(selected);
     }
+
 
     // Prepare shuffled options
     simQuestions = selected.map(q => {

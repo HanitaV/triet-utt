@@ -10,11 +10,32 @@ let flashcardAnswer, flashcardProgress, flashcardCurrent, flashcardTotal;
 let forgotBtn, rememberedBtn, shuffleFlashcardsBtn;
 
 async function initFlashcard() {
+    await loadSubjectsList();
+    await loadCurrentSubjectConfig();
     await loadAllData();
     initFlashcardElements();
+    populateChapterSelect();
     initFlashcardEventListeners();
     loadFlashcards();
 }
+
+function populateChapterSelect() {
+    if (!flashcardChapterSelect || !currentSubjectData || !currentSubjectData.chapters) return;
+
+    // Clear existing options except first
+    while (flashcardChapterSelect.options.length > 1) {
+        flashcardChapterSelect.remove(1);
+    }
+
+    const basePath = getExamFilesPath();
+    currentSubjectData.chapters.forEach(ch => {
+        const option = document.createElement('option');
+        option.value = `${basePath}/${ch.file}`;
+        option.textContent = ch.name;
+        flashcardChapterSelect.appendChild(option);
+    });
+}
+
 
 function initFlashcardElements() {
     flashcardChapterSelect = document.getElementById('flashcard-chapter-select');

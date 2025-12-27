@@ -1,0 +1,596 @@
+[
+    {
+        "id": 1,
+        "title": "Nguồn gốc và Đặc trưng của Nhà nước",
+        "icon": "🏛️",
+        "content": "<b>Nguồn gốc Nhà nước (Theo Mác-Lênin):</b><br><br><b>2 Tiền đề hình thành:</b><ul><li><b>Tiền đề kinh tế:</b> Chế độ tư hữu tài sản xuất hiện thay thế công hữu</li><li><b>Tiền đề xã hội:</b> Xã hội phân hóa thành các giai cấp đối kháng với mâu thuẫn không thể điều hòa</li></ul><br><b>5 Đặc trưng cơ bản của Nhà nước:</b><ol><li>Tổ chức quyền lực chính trị công cộng đặc biệt</li><li>Quản lý dân cư theo lãnh thổ</li><li>Có chủ quyền quốc gia</li><li>Độc quyền ban hành pháp luật và quản lý bắt buộc</li><li>Quy định và thu thuế bắt buộc</li></ol>",
+        "goals": [
+            "Nắm vững nguyên nhân ra đời của Nhà nước",
+            "Phân biệt được 5 đặc trưng cơ bản"
+        ],
+        "tips": [
+            "🧠 <b>2 Tiền đề:</b> Tư hữu + Phân hóa giai cấp",
+            "📌 <b>5 Đặc trưng:</b> Quyền lực | Lãnh thổ | Chủ quyền | Pháp luật | Thuế"
+        ],
+        "keywords": [
+            "nhà nước",
+            "nguồn gốc",
+            "đặc trưng",
+            "quyền lực",
+            "lãnh thổ",
+            "chủ quyền",
+            "thuế",
+            "giai cấp"
+        ],
+        "chapters": [
+            1
+        ],
+        "questionIds": {
+            "1": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "title": "Bản chất, Kiểu và Hình thức Nhà nước",
+        "icon": "⚙️",
+        "content": "<b>Bản chất của Nhà nước:</b><ul><li><b>Tính giai cấp:</b> Công cụ trấn áp của giai cấp thống trị</li><li><b>Tính xã hội:</b> Đại diện cho toàn xã hội (y tế, giáo dục, chống thiên tai...)</li></ul><br><b>4 Kiểu Nhà nước:</b> Chủ nô → Phong kiến → Tư sản → XHCN<br><br><b>Hình thức Nhà nước gồm 3 yếu tố:</b><ul><li><b>Chính thể:</b> Quân chủ (tuyệt đối, lập hiến) | Cộng hòa (đại nghị, tổng thống, hỗn hợp)</li><li><b>Cấu trúc:</b> Đơn nhất | Liên bang</li><li><b>Chế độ chính trị:</b> Dân chủ | Phản dân chủ</li></ul>",
+        "goals": [
+            "Hiểu hai mặt bản chất của Nhà nước",
+            "Phân biệt được các kiểu và hình thức Nhà nước"
+        ],
+        "tips": [
+            "🧠 <b>Bản chất:</b> Giai cấp + Xã hội",
+            "📌 <b>4 Kiểu:</b> Chủ nô → Phong kiến → Tư sản → XHCN",
+            "📌 <b>Hình thức:</b> Chính thể | Cấu trúc | Chế độ CT"
+        ],
+        "keywords": [
+            "bản chất",
+            "kiểu nhà nước",
+            "hình thức",
+            "chính thể",
+            "quân chủ",
+            "cộng hòa",
+            "liên bang",
+            "đơn nhất"
+        ],
+        "chapters": [
+            1
+        ],
+        "questionIds": {
+            "1": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "title": "Nhà nước CHXHCN Việt Nam và Bộ máy Nhà nước",
+        "icon": "🇻🇳",
+        "content": "<b>Bản chất:</b> Nhà nước của nhân dân, do nhân dân, vì nhân dân<br><br><b>Hệ thống chính trị (3 thành tố):</b><ul><li><b>Đảng Cộng sản:</b> Lãnh đạo</li><li><b>Nhà nước:</b> Quản lý, điều hành (trung tâm)</li><li><b>Mặt trận Tổ quốc & đoàn thể:</b> Giám sát, phản biện</li></ul><br><b>Bộ máy Nhà nước:</b><ul><li><b>Cơ quan quyền lực:</b> Quốc hội (cao nhất), HĐND các cấp</li><li><b>Cơ quan hành chính:</b> Chính phủ (cao nhất), Bộ, UBND</li><li><b>Cơ quan xét xử:</b> Tòa án nhân dân</li><li><b>Cơ quan kiểm sát:</b> Viện kiểm sát nhân dân</li><li><b>Chủ tịch nước:</b> Nguyên thủ quốc gia</li></ul>",
+        "goals": [
+            "Hiểu bản chất Nhà nước CHXHCN Việt Nam",
+            "Nắm được cơ cấu bộ máy Nhà nước"
+        ],
+        "tips": [
+            "🧠 <b>3 Thành tố:</b> Đảng | Nhà nước | Mặt trận",
+            "📌 <b>Quốc hội:</b> Cơ quan quyền lực cao nhất",
+            "📌 <b>Chính phủ:</b> Cơ quan hành chính cao nhất"
+        ],
+        "keywords": [
+            "việt nam",
+            "quốc hội",
+            "chính phủ",
+            "chủ tịch nước",
+            "HĐND",
+            "UBND",
+            "tòa án",
+            "viện kiểm sát",
+            "bộ máy"
+        ],
+        "chapters": [
+            1
+        ],
+        "questionIds": {
+            "1": [
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "title": "Khái niệm và Thuộc tính của Pháp luật",
+        "icon": "📜",
+        "content": "<b>Khái niệm Pháp luật:</b><br>Hệ thống quy tắc xử sự chung do nhà nước ban hành/thừa nhận, thể hiện ý chí giai cấp thống trị, được đảm bảo bằng cưỡng chế nhà nước.<br><br><b>3 Thuộc tính của Pháp luật:</b><ol><li><b>Tính quy phạm phổ biến:</b> Áp dụng chung cho mọi người</li><li><b>Tính xác định chặt chẽ về hình thức:</b> Được thể hiện bằng văn bản rõ ràng</li><li><b>Tính được đảm bảo bằng Nhà nước:</b> Có tính cưỡng chế</li></ol>",
+        "goals": [
+            "Định nghĩa được Pháp luật",
+            "Nắm vững 3 thuộc tính cơ bản"
+        ],
+        "tips": [
+            "🧠 <b>Pháp luật:</b> Quy tắc + Nhà nước + Cưỡng chế",
+            "📌 <b>3 Thuộc tính:</b> Phổ biến | Hình thức | Đảm bảo NN"
+        ],
+        "keywords": [
+            "pháp luật",
+            "quy tắc xử sự",
+            "thuộc tính",
+            "quy phạm",
+            "cưỡng chế",
+            "nhà nước"
+        ],
+        "chapters": [
+            2
+        ],
+        "questionIds": {
+            "2": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "title": "Quy phạm Pháp luật: Cấu thành và Phân loại",
+        "icon": "📋",
+        "content": "<b>Quy phạm pháp luật</b> là đơn vị nhỏ nhất của hệ thống pháp luật.<br><br><b>Cấu thành từ 3 bộ phận:</b><ul><li><b>Giả định:</b> Ai? Khi nào? Trong hoàn cảnh nào?</li><li><b>Quy định:</b> Được làm gì? Phải làm gì? Cấm làm gì?</li><li><b>Chế tài:</b> Hậu quả pháp lý bất lợi nếu vi phạm</li></ul><br><i>Lưu ý: Không phải quy phạm nào cũng có đủ 3 bộ phận</i>",
+        "goals": [
+            "Phân biệt được 3 bộ phận của quy phạm pháp luật",
+            "Xác định được từng bộ phận trong quy phạm cụ thể"
+        ],
+        "tips": [
+            "🧠 <b>3 Bộ phận:</b> Giả định | Quy định | Chế tài",
+            "📌 <b>Giả định:</b> AI + KHI NÀO",
+            "📌 <b>Quy định:</b> PHẢI LÀM / CẤM LÀM",
+            "📌 <b>Chế tài:</b> HẬU QUẢ"
+        ],
+        "keywords": [
+            "quy phạm",
+            "giả định",
+            "quy định",
+            "chế tài",
+            "hậu quả pháp lý"
+        ],
+        "chapters": [
+            2,
+            3
+        ],
+        "questionIds": {
+            "2": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "3": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "title": "Quan hệ Pháp luật và Sự kiện Pháp lý",
+        "icon": "🔗",
+        "content": "<b>Quan hệ pháp luật</b> là quan hệ xã hội được pháp luật điều chỉnh.<br><br><b>3 Yếu tố phát sinh/thay đổi/chấm dứt quan hệ PL:</b><ol><li><b>Quy phạm pháp luật:</b> Cơ sở pháp lý</li><li><b>Chủ thể:</b> Có năng lực chủ thể (năng lực pháp luật + năng lực hành vi)</li><li><b>Sự kiện pháp lý:</b> Sự kiện thực tế làm phát sinh hậu quả pháp lý</li></ol><br><b>Phân loại sự kiện pháp lý:</b><ul><li><b>Sự biến pháp lý:</b> Không phụ thuộc ý chí (thiên tai, sinh tử...)</li><li><b>Hành vi pháp lý:</b> Phụ thuộc ý chí con người</li></ul>",
+        "goals": [
+            "Hiểu các yếu tố cấu thành quan hệ pháp luật",
+            "Phân biệt sự biến và hành vi pháp lý"
+        ],
+        "tips": [
+            "🧠 <b>3 Yếu tố:</b> Quy phạm + Chủ thể + Sự kiện",
+            "📌 <b>Sự biến:</b> Không ý chí | <b>Hành vi:</b> Có ý chí"
+        ],
+        "keywords": [
+            "quan hệ pháp luật",
+            "sự kiện pháp lý",
+            "sự biến",
+            "hành vi",
+            "năng lực",
+            "chủ thể"
+        ],
+        "chapters": [
+            2,
+            3
+        ],
+        "questionIds": {
+            "2": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "3": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "title": "Vi phạm Pháp luật: Khái niệm và Cấu thành",
+        "icon": "⚠️",
+        "content": "<b>Vi phạm pháp luật:</b> Hành vi trái luật, có lỗi, do chủ thể có năng lực thực hiện, xâm hại quan hệ xã hội.<br><br><b>Cấu thành vi phạm (4 yếu tố):</b><ul><li><b>Mặt khách quan:</b> Hành vi, hậu quả, mối quan hệ nhân quả, thời gian, địa điểm, công cụ</li><li><b>Mặt chủ quan:</b> Lỗi (cố ý/vô ý), động cơ, mục đích</li><li><b>Chủ thể:</b> Cá nhân/tổ chức có năng lực trách nhiệm</li><li><b>Khách thể:</b> Quan hệ xã hội bị xâm hại</li></ul><br><b>Phân loại Lỗi:</b><ul><li><b>Cố ý trực tiếp:</b> Biết hậu quả, mong muốn xảy ra</li><li><b>Cố ý gián tiếp:</b> Biết hậu quả, để mặc xảy ra</li><li><b>Vô ý vì quá tự tin:</b> Nghĩ có thể ngăn ngừa được</li><li><b>Vô ý vì cẩu thả:</b> Không thấy trước hậu quả</li></ul>",
+        "goals": [
+            "Xác định được 4 yếu tố cấu thành vi phạm PL",
+            "Phân biệt được các loại lỗi"
+        ],
+        "tips": [
+            "🧠 <b>4 Yếu tố:</b> Khách quan | Chủ quan | Chủ thể | Khách thể",
+            "📌 <b>Lỗi:</b> Cố ý (trực tiếp/gián tiếp) | Vô ý (tự tin/cẩu thả)"
+        ],
+        "keywords": [
+            "vi phạm",
+            "cấu thành",
+            "lỗi",
+            "cố ý",
+            "vô ý",
+            "mặt khách quan",
+            "mặt chủ quan",
+            "chủ thể",
+            "khách thể"
+        ],
+        "chapters": [
+            3,
+            4
+        ],
+        "questionIds": {
+            "3": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "4": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "title": "Trách nhiệm Pháp lý: 4 Loại cơ bản",
+        "icon": "⚖️",
+        "content": "<b>Trách nhiệm pháp lý</b> là hậu quả bất lợi mà chủ thể vi phạm phải gánh chịu.<br><br><b>4 Loại trách nhiệm pháp lý:</b><ul><li><b>Hình sự:</b> Áp dụng cho <b>Tội phạm</b> (nghiêm trọng nhất)</li><li><b>Hành chính:</b> Áp dụng cho <b>vi phạm hành chính</b> (quản lý nhà nước)</li><li><b>Dân sự:</b> Áp dụng cho <b>vi phạm nghĩa vụ dân sự</b> (bồi thường)</li><li><b>Kỷ luật:</b> Áp dụng cho cán bộ, công chức, viên chức, người lao động</li></ul>",
+        "goals": [
+            "Phân biệt được 4 loại trách nhiệm pháp lý",
+            "Biết khi nào áp dụng loại trách nhiệm nào"
+        ],
+        "tips": [
+            "📌 <b>Hình sự:</b> Tội phạm → Hình phạt",
+            "📌 <b>Hành chính:</b> Vi phạm HC → Phạt tiền, cảnh cáo",
+            "📌 <b>Dân sự:</b> Vi phạm DS → Bồi thường",
+            "📌 <b>Kỷ luật:</b> Nội bộ cơ quan"
+        ],
+        "keywords": [
+            "trách nhiệm pháp lý",
+            "hình sự",
+            "hành chính",
+            "dân sự",
+            "kỷ luật",
+            "tội phạm"
+        ],
+        "chapters": [
+            3,
+            4
+        ],
+        "questionIds": {
+            "3": [
+                19,
+                20,
+                21,
+                22,
+                23,
+                24
+            ],
+            "4": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "title": "Luật Hiến pháp - Nền tảng Hệ thống Pháp luật",
+        "icon": "📕",
+        "content": "<b>Vị trí:</b> Ngành luật chủ đạo, nền tảng của hệ thống pháp luật VN<br><br><b>Nội dung cơ bản:</b><ul><li><b>Chế độ chính trị:</b> Quyền lực thuộc về nhân dân, Đảng lãnh đạo</li><li><b>Quyền con người/công dân:</b> Các quyền chính trị, dân sự, kinh tế... đi đôi với nghĩa vụ</li><li><b>Bộ máy nhà nước:</b> Quy định nhiệm vụ, quyền hạn của Quốc hội, Chủ tịch nước, Chính phủ, Tòa án, Viện kiểm sát</li></ul><br><b>Đặc điểm Hiến pháp:</b><ul><li>Có hiệu lực pháp lý cao nhất</li><li>Thủ tục làm mới và sửa đổi đặc biệt (lập hiến)</li><li>Phạm vi điều chỉnh rộng nhất</li></ul>",
+        "goals": [
+            "Hiểu vị trí đặc biệt của Luật Hiến pháp",
+            "Nắm được nội dung cơ bản của Hiến pháp"
+        ],
+        "tips": [
+            "🧠 <b>Hiến pháp:</b> Hiệu lực cao nhất, phạm vi rộng nhất",
+            "📌 <b>Nội dung:</b> Chế độ CT | Quyền CD | Bộ máy NN"
+        ],
+        "keywords": [
+            "hiến pháp",
+            "ngành luật chủ đạo",
+            "quyền công dân",
+            "quyền con người",
+            "hiệu lực pháp lý"
+        ],
+        "chapters": [
+            4,
+            5
+        ],
+        "questionIds": {
+            "4": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "5": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        }
+    },
+    {
+        "id": 10,
+        "title": "Luật Hành chính - Quản lý Nhà nước",
+        "icon": "🏢",
+        "content": "<b>Đối tượng điều chỉnh:</b> Quan hệ phát sinh trong hoạt động chấp hành và điều hành (quản lý hành chính nhà nước)<br><br><b>Phương pháp:</b> Mệnh lệnh - Phục tùng (Quyền uy). Một bên ra quyết định, bên kia phải thi hành.<br><br><b>Xử lý vi phạm hành chính:</b><ul><li><b>Phạt chính:</b> Cảnh cáo, Phạt tiền</li><li><b>Phạt bổ sung:</b> Tước giấy phép, tịch thu tang vật, trục xuất</li><li><b>Khắc phục hậu quả:</b> Khôi phục hiện trạng, tháo dỡ, tiêu hủy...</li></ul>",
+        "goals": [
+            "Hiểu đặc trưng của Luật Hành chính",
+            "Nắm được các hình thức xử phạt hành chính"
+        ],
+        "tips": [
+            "🧠 <b>Phương pháp:</b> Mệnh lệnh - Phục tùng",
+            "📌 <b>Phạt chính:</b> Cảnh cáo | Phạt tiền",
+            "📌 <b>Bổ sung:</b> Tước GP, Tịch thu, Trục xuất"
+        ],
+        "keywords": [
+            "hành chính",
+            "quản lý nhà nước",
+            "mệnh lệnh",
+            "phục tùng",
+            "phạt tiền",
+            "cảnh cáo",
+            "công chức"
+        ],
+        "chapters": [
+            5
+        ],
+        "questionIds": {
+            "5": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ]
+        }
+    },
+    {
+        "id": 11,
+        "title": "Luật Dân sự - Quan hệ Tài sản và Nhân thân",
+        "icon": "📝",
+        "content": "<b>Đối tượng:</b> Quan hệ tài sản và quan hệ nhân thân<br><br><b>Phương pháp:</b> Bình đẳng, thỏa thuận, tự định đoạt, tự chịu trách nhiệm<br><br><b>Các chế định chính:</b><ul><li><b>Quyền sở hữu:</b> Chiếm hữu, Sử dụng, Định đoạt</li><li><b>Thừa kế:</b> Theo di chúc hoặc Theo pháp luật (Hàng 1: vợ/chồng, cha mẹ, con)</li><li><b>Hợp đồng:</b> Thỏa thuận xác lập, thay đổi, chấm dứt quyền/nghĩa vụ</li></ul><br><b>Tố tụng dân sự:</b> Khởi kiện → Thụ lý → Hòa giải → Xét xử (Sơ thẩm/Phúc thẩm) → Thi hành án",
+        "goals": [
+            "Phân biệt Luật Dân sự với các ngành luật khác",
+            "Nắm được các quyền sở hữu và thừa kế cơ bản"
+        ],
+        "tips": [
+            "🧠 <b>Phương pháp:</b> Bình đẳng, Thỏa thuận",
+            "📌 <b>Sở hữu:</b> Chiếm hữu | Sử dụng | Định đoạt",
+            "📌 <b>Thừa kế Hàng 1:</b> Vợ/Chồng, Cha mẹ, Con"
+        ],
+        "keywords": [
+            "dân sự",
+            "tài sản",
+            "nhân thân",
+            "sở hữu",
+            "thừa kế",
+            "hợp đồng",
+            "bình đẳng",
+            "di chúc"
+        ],
+        "chapters": [
+            6
+        ],
+        "questionIds": {
+            "6": [
+                1,
+                2
+            ]
+        }
+    },
+    {
+        "id": 12,
+        "title": "Luật Hình sự - Tội phạm và Hình phạt",
+        "icon": "⚔️",
+        "content": "<b>Tội phạm:</b> Hành vi nguy hiểm cho xã hội được quy định trong Bộ luật Hình sự<br><br><b>Phân loại tội phạm (4 loại):</b><ul><li>Ít nghiêm trọng (≤ 3 năm tù)</li><li>Nghiêm trọng (≤ 7 năm)</li><li>Rất nghiêm trọng (≤ 15 năm)</li><li>Đặc biệt nghiêm trọng (> 15 năm, chung thân, tử hình)</li></ul><br><b>Hình phạt:</b><ul><li><b>Chính:</b> Cảnh cáo, Phạt tiền, Cải tạo không giam giữ, Trục xuất, Tù có thời hạn, Chung thân, Tử hình</li><li><b>Bổ sung:</b> Cấm hành nghề, tịch thu tài sản...</li></ul><br><b>Loại trừ trách nhiệm:</b> Phòng vệ chính đáng, Tình thế cấp thiết, Bắt giữ người phạm tội...",
+        "goals": [
+            "Phân loại được các mức độ tội phạm",
+            "Nắm được hệ thống hình phạt"
+        ],
+        "tips": [
+            "📌 <b>4 Loại:</b> Ít nghiêm trọng → Đặc biệt nghiêm trọng",
+            "📌 <b>Hình phạt nặng nhất:</b> Tử hình",
+            "🧠 <b>Loại trừ TN:</b> Phòng vệ, Cấp thiết"
+        ],
+        "keywords": [
+            "hình sự",
+            "tội phạm",
+            "hình phạt",
+            "tù",
+            "tử hình",
+            "phòng vệ chính đáng",
+            "cấp thiết"
+        ],
+        "chapters": [
+            7
+        ],
+        "questionIds": {
+            "7": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        }
+    },
+    {
+        "id": 13,
+        "title": "Luật Lao động - Quan hệ Lao động",
+        "icon": "👷",
+        "content": "<b>Hợp đồng lao động (HĐLĐ):</b> Thỏa thuận việc làm có trả công. Phải bằng văn bản (trừ việc tạm < 1 tháng)<br><br><b>Kỷ luật lao động (từ nhẹ đến nặng):</b><ol><li>Khiển trách</li><li>Kéo dài thời hạn nâng lương (< 6 tháng)</li><li>Cách chức</li><li>Sa thải (Nặng nhất)</li></ol><br><b>Bảo hiểm xã hội:</b> Bù đắp thu nhập khi ốm đau, thai sản, tai nạn, hưu trí, tử tuất",
+        "goals": [
+            "Hiểu các hình thức hợp đồng lao động",
+            "Nắm được các mức kỷ luật lao động"
+        ],
+        "tips": [
+            "🧠 <b>HĐLĐ:</b> Văn bản (trừ < 1 tháng)",
+            "📌 <b>Kỷ luật:</b> Khiển trách → Kéo dài lương → Cách chức → Sa thải"
+        ],
+        "keywords": [
+            "lao động",
+            "hợp đồng",
+            "kỷ luật",
+            "sa thải",
+            "bảo hiểm xã hội",
+            "khiển trách"
+        ],
+        "chapters": [
+            7
+        ],
+        "questionIds": {
+            "7": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ]
+        }
+    },
+    {
+        "id": 14,
+        "title": "Luật Sở hữu Trí tuệ",
+        "icon": "💡",
+        "content": "<b>Đối tượng bảo hộ:</b><ul><li><b>Quyền tác giả:</b> Văn học, nghệ thuật, khoa học (<i>phát sinh tự động</i>)</li><li><b>Quyền sở hữu công nghiệp:</b> Sáng chế, nhãn hiệu, kiểu dáng (<i>thường phải đăng ký</i>)</li><li><b>Quyền đối với giống cây trồng</b></li></ul><br><b>Xử lý xâm phạm:</b><ul><li><b>Dân sự:</b> Chấm dứt hành vi, xin lỗi, bồi thường</li><li><b>Hành chính:</b> Phạt tiền, tịch thu hàng, đình chỉ kinh doanh</li><li><b>Hình sự:</b> Truy cứu nếu quy mô thương mại hoặc thu lợi lớn</li></ul>",
+        "goals": [
+            "Phân biệt Quyền tác giả và Quyền sở hữu công nghiệp",
+            "Biết các hình thức xử lý vi phạm SHTT"
+        ],
+        "tips": [
+            "🧠 <b>Quyền tác giả:</b> Tự động phát sinh",
+            "🧠 <b>Sở hữu công nghiệp:</b> Phải đăng ký",
+            "📌 <b>Xử lý:</b> Dân sự | Hành chính | Hình sự"
+        ],
+        "keywords": [
+            "sở hữu trí tuệ",
+            "quyền tác giả",
+            "sáng chế",
+            "nhãn hiệu",
+            "bản quyền",
+            "kiểu dáng"
+        ],
+        "chapters": [
+            7
+        ],
+        "questionIds": {
+            "7": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30
+            ]
+        }
+    }
+]
