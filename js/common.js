@@ -150,19 +150,26 @@ async function loadAllData() {
                 if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
                 data = await response.json();
             }
+            // Extract chapter number from 'chapter' or 'title' field, or fallback to filename
+            let chapterNum = 0;
+            if (data.chapter) {
+                chapterNum = data.chapter;
+            } else if (data.title) {
+                const match = data.title.match(/\d+/);
+                if (match) chapterNum = parseInt(match[0]);
+            }
 
-            // Extract chapter number from 'chapter' or 'title' field
-            const chapterSource = data.chapter || data.title || '';
-            const chapterNum = typeof chapterSource === 'string'
-                ? parseInt((chapterSource.match(/\d+/) || ['0'])[0])
-                : chapterSource;
+            // Fallback to filename (e.g., "1.json")
+            if (!chapterNum || chapterNum === 0) {
+                const fileMatch = file.match(/\/(\d+)\.json$/) || file.match(/^(\d+)\.json$/);
+                if (fileMatch) chapterNum = parseInt(fileMatch[1]);
+            }
 
             quizData.chapters.push({
                 file,
                 chapter: chapterNum,
                 questions: data.questions
             });
-
             quizData.questions.push(...data.questions.map(q => ({
                 ...q,
                 // Normalize: support both 'text' and 'question' for question text
