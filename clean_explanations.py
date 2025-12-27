@@ -32,20 +32,47 @@ def clean_explanations():
         count = 0
         
         for q in data['questions']:
-            if 'explanation' in q and q['explanation']:
-                original = q['explanation']
-                cleaned = pattern.sub("", original)
+            if 'explain' in q and q['explain']:
+                original = q['explain']
+                # Remove "Đáp án X", "Chọn X", "Phương án X" at start
+                # Matches: "Đáp án A", "Đáp án đúng là A", "Câu trả lời là B", "Chọn C"
+                cleaned = re.sub(r"^(Đáp án|Phương án|Câu|Chọn|Câu trả lời)(\s+(đúng|là|của bạn|sẽ|chính xác|nhất|cần chọn|trong câu hỏi này))*\s*[:.,-]?\s*[A-D]\s*([.:,;-]|\s+là\s+đúng|\s+đúng)?\s*", "", original, flags=re.IGNORECASE)
                 
+                # Remove intermediate sentences like "Vì vậy chọn A." or "Do đó đáp án B là đúng."
+                cleaned = re.sub(r"(Vì vậy|Do đó|Suy ra|Tóm lại|Như vậy),?\s*(chọn|đáp án|phương án|câu trả lời)(\s+(đúng|là))?\s*[:.,-]?\s*[A-D]\s*(\.|là đúng\.?)?", "", cleaned, flags=re.IGNORECASE)
+
+                # Remove standalone references like "(A)" or "A." if they seem to be labels
+                cleaned = re.sub(r"^\s*[A-D]\.\s*", "", cleaned)
+
+                # Fix double spaces and trimming
+                cleaned = re.sub(r"\s+", " ", cleaned).strip()
+
                 # Capitalize first letter of cleaned text if needed
                 if cleaned and cleaned[0].islower():
                     cleaned = cleaned[0].upper() + cleaned[1:]
                     
                 if original != cleaned:
-                    q['explanation'] = cleaned
+                    q['explain'] = cleaned
                     count += 1
         
         save_json(filepath, data)
+
         print(f"  Cleaned {count} explanations in {filename}")
+
+    # Verification
+    print("\nVerifying...")
+    for filename in CHAPTER_FILES:
+        filepath = os.path.join(EXAM_DIR, filename)
+        if not os.path.exists(filepath): continue
+        data = load_json(filepath)
+        found = 0
+        for q in data['questions']:
+            if 'explain' in q and q['explain']:
+                if re.search(r"\b(đáp án|phương án|chọn)\s+[A-D]\b", q['explain'], re.IGNORECASE):
+                    print(f"  [WARNING] Possible leftover in {filename} ID {q.get('id')}: {q['explain'][:50]}...")
+                    found += 1
+        if found == 0:
+            print(f"  {filename}: Clean.")
 
 if __name__ == "__main__":
     clean_explanations()
