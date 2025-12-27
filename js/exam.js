@@ -23,23 +23,25 @@ let reviewWrongBtn, modalRestartBtn, backToStudyBtn;
 let isPracticeMode = false;
 
 async function initExam() {
-    // Ensure subject config is loaded first
+    // Wait for common.js initialization to complete if possible, 
+    // but better to just ensure we have data we need using the shared functions.
+    // They handle being called multiple times generally (caching might be needed if they don't).
+
+    // Actually, loadSubjectsList and loadCurrentSubjectConfig in common.js DO NOT cache the promise, 
+    // they just overwrite the global variables. 
+    // Since common.js runs on DOMContentLoaded, and this also runs on DOMContentLoaded,
+    // we have a race condition on who modifies 'subjectsData' and 'currentSubjectData'.
+    // BUT since they are setting the SAME data, it might be fine, just wasteful.
+
     await loadSubjectsList();
     await loadCurrentSubjectConfig();
 
     await loadAllData();
     initExamElements();
-    populateChapterSelect(); // Populate dropdown dynamically based on subject
+    populateChapterSelect();
     initExamEventListeners();
 
-
     // Check URL params
-    const urlParams = new URLSearchParams(window.location.search);
-    // Also check localStorage in case server redirect stripped the query param
-    const isPractice = urlParams.get('practice') === 'true' || localStorage.getItem('practiceSource') === 'study';
-    const chapter = urlParams.get('chapter') || 'all';
-
-    // Practice mode - load questions from localStorage
     if (isPractice) {
         const practiceQuestionsStr = localStorage.getItem('practiceQuestions');
         const practiceTopicName = localStorage.getItem('practiceTopicName');
