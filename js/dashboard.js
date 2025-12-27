@@ -55,7 +55,7 @@ function updateHomeContent() {
     // Update Footer
     const footerSchoolInfo = document.getElementById('footer-school-info');
     if (footerSchoolInfo) {
-        footerSchoolInfo.innerHTML = `Ôn tập miễn phí do sinh viên ${currentSubjectData.school} tạo ❤️`;
+        footerSchoolInfo.innerHTML = `Ôn tập miễn phí do sinh viên trường Đại học Công nghệ Giao thông vận tải tạo và Học viện Công nghệ Bưu chính Viễn thông hỗ trợ nội dung ❤️`;
     }
 }
 
