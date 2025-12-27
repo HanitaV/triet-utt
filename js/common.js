@@ -54,6 +54,17 @@ async function loadAllData() {
 
             quizData.questions.push(...data.questions.map(q => ({
                 ...q,
+                // Normalize: support both 'text' and 'question' for question text
+                text: q.text || q.question,
+                // Normalize: support both 'correct_answer' and 'answer'
+                correct_answer: q.correct_answer || q.answer,
+                // Normalize options: support both {letter, text} and {id, content}
+                options: (q.options || []).map(opt => ({
+                    letter: opt.letter || opt.id,
+                    text: opt.text || opt.content
+                })),
+                // Normalize explanation
+                explanation: q.explanation || q.explain,
                 chapter: chapterNum,
                 file
             })));
