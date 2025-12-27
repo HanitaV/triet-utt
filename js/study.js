@@ -17,7 +17,7 @@ async function initStudy() {
 
     // Load study topics
     try {
-        const response = await fetch('study_data.json');
+        const response = await fetch(`study_data.json?v=${new Date().getTime()}`);
         studyTopics = await response.json();
     } catch (err) {
         console.error('Error loading study data:', err);

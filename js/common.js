@@ -37,7 +37,8 @@ async function loadAllData() {
             if (window.QUIZ_DATA && window.QUIZ_DATA[file]) {
                 data = window.QUIZ_DATA[file];
             } else {
-                const response = await fetch(file);
+                // Add timestamp to prevent caching
+                const response = await fetch(`${file}?v=${new Date().getTime()}`);
                 if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
                 data = await response.json();
             }
@@ -81,7 +82,7 @@ async function loadAllData() {
 
 async function loadStudyData() {
     try {
-        const response = await fetch('study_data.json');
+        const response = await fetch(`study_data.json?v=${new Date().getTime()}`);
         if (!response.ok) throw new Error('Failed to load study data');
         quizData.studyTopics = await response.json();
         return quizData.studyTopics;
