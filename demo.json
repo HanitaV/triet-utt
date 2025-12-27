@@ -1,0 +1,164 @@
+{
+  "chuong_1": {
+    "title": "CHƯƠNG 1",
+    "total_questions": 50,
+    "sample_questions": [
+      {
+        "id": 1,
+        "question": "Triết học ra đời vào thời gian nào?",
+        "options": [
+          {
+            "id": "A",
+            "content": "Thế kỷ thứ VIII \\- VI Trước Công nguyên"
+          },
+          {
+            "id": "B",
+            "content": "Thế kỷ thứ III- Sau Công nguyên"
+          },
+          {
+            "id": "C",
+            "content": "Vào những năm 40 của thế kỷ XIX"
+          },
+          {
+            "id": "D",
+            "content": "Thế kỷ thứ VIII- VI sau Công nguyên"
+          }
+        ],
+        "answer": "A",
+        "explain": ""
+      },
+      {
+        "id": 2,
+        "question": "Triết học ra đời sớm nhất ở đâu?",
+        "options": [
+          {
+            "id": "A",
+            "content": "Trung Quốc, Ấn Độ, Nga"
+          },
+          {
+            "id": "B",
+            "content": "Ấn Độ, Trung Quốc, Hy Lạp \\- La Mã"
+          },
+          {
+            "id": "C",
+            "content": "Hy Lạp \\- La Mã, Ấn Độ, Nga"
+          },
+          {
+            "id": "D",
+            "content": "Trung Quốc, Hy Lạp, Ai Cập"
+          }
+        ],
+        "answer": "B",
+        "explain": ""
+      }
+    ]
+  },
+  "chuong_2": {
+    "title": "CHƯƠNG 2",
+    "total_questions": 148,
+    "sample_questions": [
+      {
+        "id": 1,
+        "question": "Quan điểm nào đồng nhất vật chất với một vài dạng cụ thể như nước, lửa, không khí?",
+        "options": [
+          {
+            "id": "A",
+            "content": "Chủ nghĩa duy tâm"
+          },
+          {
+            "id": "B",
+            "content": "Chủ nghĩa duy vật thời cổ đại"
+          },
+          {
+            "id": "C",
+            "content": "Chủ nghĩa duy vật thế kỷ XVII-XVIII"
+          },
+          {
+            "id": "D",
+            "content": "Chủ nghĩa duy vật biện chứng"
+          }
+        ],
+        "answer": "B",
+        "explain": ""
+      },
+      {
+        "id": 2,
+        "question": "Nhà triết học nào quan niệm vật chất là nguyên tử?",
+        "options": [
+          {
+            "id": "A",
+            "content": "Thales"
+          },
+          {
+            "id": "B",
+            "content": "Anaximens"
+          },
+          {
+            "id": "C",
+            "content": "Đêmôcrit"
+          },
+          {
+            "id": "D",
+            "content": "Heraclit"
+          }
+        ],
+        "answer": "C",
+        "explain": ""
+      }
+    ]
+  },
+  "chuong_3": {
+    "title": "CHƯƠNG 3",
+    "total_questions": 150,
+    "sample_questions": [
+      {
+        "id": 1,
+        "question": "Điền thêm từ để hoàn thiện nhận định sau đây của V.I.Lênin: “Chủ nghĩa Mác đã mở đường cho việc nghiên cứu rộng rãi và toàn diện quá trình phát sinh, phát triển và suy tàn của…”?",
+        "options": [
+          {
+            "id": "A",
+            "content": "Các hệ thống vật chất trong giới tự nhiên"
+          },
+          {
+            "id": "B",
+            "content": "Các quá trình kinh tế và chính trị \\- tự nhiên"
+          },
+          {
+            "id": "C",
+            "content": "Các sự vật, hiện tượng trong thế giới tự nhiên, xã hội và tư duy"
+          },
+          {
+            "id": "D",
+            "content": "Các hình thái kinh tế- xã hội"
+          }
+        ],
+        "answer": "D",
+        "explain": ""
+      },
+      {
+        "id": 2,
+        "question": "Chỉ ra nguồn gốc sâu xa của sự vận động phát triển của xã hội?",
+        "options": [
+          {
+            "id": "A",
+            "content": "Sự phát triển của kiến trúc thượng tầng"
+          },
+          {
+            "id": "B",
+            "content": "Sự phát triển của cơ sở hạ tầng"
+          },
+          {
+            "id": "C",
+            "content": "Sự phát triển của quan hệ sản xuất"
+          },
+          {
+            "id": "D",
+            "content": "Sự phát triển của lực lượng sản xuất"
+          }
+        ],
+        "answer": "D",
+        "explain": ""
+      }
+    ]
+  }
+}

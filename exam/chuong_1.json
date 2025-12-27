@@ -1,1135 +1,1210 @@
 {
-    "chapter": "Chương 1",
-    "title": "Triết học Mác-Lênin",
-    "total_questions": 46,
-    "questions": [
+  "title": "CHƯƠNG 1",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Triết học ra đời vào thời gian nào?",
+      "options": [
         {
-            "question": 1,
-            "text": "Triết học ra đời vào thời gian nào?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Thế kỷ thứ VIII - VI Trước Công nguyên"
-                },
-                {
-                    "letter": "B",
-                    "text": "Thế kỷ thứ III - Sau Công nguyên"
-                },
-                {
-                    "letter": "C",
-                    "text": "Vào những năm 40 của thế kỷ XIX"
-                },
-                {
-                    "letter": "D",
-                    "text": "Thế kỷ thứ VIII - VI sau Công nguyên"
-                }
-            ],
-            "correct_answer": "A",
-            "explanation": "Triết học, hiểu như một hình thái ý thức xã hội độc lập, phân biệt với tư duy huyền thoại và tôn giáo, nảy sinh trong giai đoạn chuyển tiếp khi tư duy lý tính bắt đầu chiếm ưu thế. Giai đoạn này, thế kỷ thứ VIII đến thế kỷ VI Trước Công nguyên, chứng kiến sự chín muồi của các tiền đề kinh tế, xã hội, chính trị, văn hóa và đặc biệt là sự phát triển của tư duy ở các trung tâm văn minh lớn như Hy Lạp cổ đại, Ấn Độ và Trung Quốc, từ đó tạo điều kiện cho sự hình thành các hệ thống triết học sơ khai.\n\nCác mốc thời gian khác không phản ánh chính xác thời điểm ra đời của triết học. Một mốc thời gian đề cập đến giai đoạn sau, khi triết học chịu ảnh hưởng sâu sắc của thần học, đặc trưng cho triết học Trung Cổ. Một mốc thời gian khác lại chỉ thời kỳ xuất hiện triết học Mác-Lênin vào thế kỷ XIX, dựa trên những điều kiện kinh tế - xã hội và khoa học cụ thể của thời đại đó. Cuối cùng, việc xác định thời điểm ra đời của triết học vào sau Công nguyên là không chính xác về mặt lịch sử, vì triết học đã tồn tại và phát triển nhiều thế kỷ trước đó."
+          "id": "A",
+          "content": "Thế kỷ thứ VIII \\- VI Trước Công nguyên"
         },
         {
-            "question": 2,
-            "text": "Triết học ra đời sớm nhất ở đâu?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Trung Quốc, Ấn Độ, Nga"
-                },
-                {
-                    "letter": "B",
-                    "text": "Ấn Độ, Trung Quốc, Hy Lạp - La Mã"
-                },
-                {
-                    "letter": "C",
-                    "text": "Hy Lạp - La Mã, Ấn Độ, Nga"
-                },
-                {
-                    "letter": "D",
-                    "text": "Trung Quốc, Hy Lạp, Ai Cập"
-                }
-            ],
-            "correct_answer": "B",
-            "explanation": "Sự ra đời của triết học, hiểu như một hình thái ý thức xã hội độc lập, có tính hệ thống và lý luận, diễn ra đồng thời tại một số trung tâm văn minh cổ đại, trong đó nổi bật là khu vực Ấn Độ, Trung Quốc và Hy Lạp - La Mã. Tại những nơi này, các điều kiện kinh tế - xã hội, văn hóa và nhận thức đã đạt đến độ chín muồi, tạo tiền đề cho sự hình thành các hệ thống tư tưởng triết học sơ khai. Các nền văn minh này có đặc điểm chung là trình độ phát triển kinh tế nhất định, sự phân hóa giai cấp sâu sắc, và một nền tảng tri thức khoa học, toán học, thiên văn học đủ để thúc đẩy tư duy trừu tượng, khái quát.\n\nCác khu vực khác như Nga hay Ai Cập, mặc dù có những thành tựu văn minh đáng kể, nhưng tư duy triết học của họ vẫn còn gắn bó chặt chẽ với các yếu tố thần thoại, tôn giáo và chưa đạt đến trình độ khái quát, trừu tượng hóa cao. Tư tưởng tại những khu vực này thường mang tính kinh nghiệm, trực quan và gắn liền với các hoạt động thực tiễn, thiếu sự phân tích lý luận sâu sắc về các vấn đề cơ bản của tồn tại và tư duy. Do đó, các khu vực này không được coi là những cái nôi của triết học theo nghĩa chặt chẽ của thuật ngữ này, mà thường được xem là thuộc về các giai đoạn tư duy tiền triết học hoặc có những đặc trưng tư tưởng khác biệt."
+          "id": "B",
+          "content": "Thế kỷ thứ III- Sau Công nguyên"
         },
         {
-            "question": 3,
-            "text": "Chọn đáp án đúng nhất về khái niệm triết học?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Là tri thức về giới tự nhiên"
-                },
-                {
-                    "letter": "B",
-                    "text": "Là tri thức về xã hội"
-                },
-                {
-                    "letter": "C",
-                    "text": "Là tri thức về tư duy con người"
-                },
-                {
-                    "letter": "D",
-                    "text": "Là hệ thống tri thức lý luận chung nhất của con người về thế giới và vị trí của con người trong thế giới ấy"
-                }
-            ],
-            "correct_answer": "D",
-            "explanation": "Triết học, trong bản chất của nó, tìm cách xây dựng một hệ thống tri thức lý luận toàn diện và khái quát nhất. Hệ thống này không chỉ đơn thuần mô tả các sự vật, hiện tượng riêng lẻ mà còn tập trung vào việc khám phá những quy luật phổ quát, các mối liên hệ bản chất và những nguyên tắc nền tảng chi phối sự vận động và phát triển của toàn bộ thế giới, đồng thời xem xét vị trí, vai trò của con người trong tương quan với thế giới đó.\n\nQuan niệm cho rằng triết học chỉ là tri thức về giới tự nhiên, xã hội, hoặc tư duy là chưa đầy đủ và mang tính phiến diện. Mặc dù triết học có liên hệ mật thiết với các lĩnh vực này, nhưng phạm vi của nó vượt ra ngoài giới hạn của từng lĩnh vực cụ thể. Nghiên cứu chuyên sâu về giới tự nhiên thuộc về khoa học tự nhiên, nghiên cứu về xã hội thuộc về khoa học xã hội, và nghiên cứu về tư duy chỉ là một bộ phận cấu thành của triết học. Việc đồng nhất triết học với một trong các lĩnh vực này thường thấy ở các quan điểm triết học trước đây, đặc biệt là trong giai đoạn mà sự phân hóa giữa triết học và các ngành khoa học khác chưa rõ ràng."
+          "id": "C",
+          "content": "Vào những năm 40 của thế kỷ XIX"
         },
         {
-            "question": 4,
-            "text": "Chọn đáp án đúng nhất, triết học ra đời trong điều kiện nào?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Xã hội chưa có sự phân chia giai cấp"
-                },
-                {
-                    "letter": "B",
-                    "text": "Nhận thức của con người mới đạt ở trình độ cảm tính"
-                },
-                {
-                    "letter": "C",
-                    "text": "Xã hội chưa có sự phân công lao động"
-                },
-                {
-                    "letter": "D",
-                    "text": "Khi tư duy của con người đạt trình độ trừu tượng, khái quát hóa cao và xuất hiện tầng lớp lao động trí óc có khả năng hệ thống tri thức của con người"
-                }
-            ],
-            "correct_answer": "D",
-            "explanation": "Triết học nảy sinh khi năng lực tư duy của con người đạt đến ngưỡng có thể thực hiện các thao tác trừu tượng hóa và khái quát hóa ở mức độ cao. Điều này có nghĩa, nhận thức không còn bị giới hạn trong phạm vi kinh nghiệm trực tiếp, cụ thể, mà đã vươn tới khả năng suy xét, nghiền ngẫm về các vấn đề mang tính nền tảng, phổ quát của tồn tại và tư duy. Đồng thời, sự xuất hiện của một bộ phận xã hội chuyên trách về lao động trí óc, có khả năng hệ thống hóa tri thức, đóng vai trò then chốt. Nhóm người này có đủ điều kiện về thời gian, phương pháp luận và tri thức nền tảng để xây dựng, phát triển các hệ thống tư tưởng triết học chặt chẽ, sử dụng các phạm trù, khái niệm, nguyên tắc và quy luật.\n\nCác điều kiện khác như một xã hội chưa phân chia giai cấp, hoặc khi nhận thức con người còn giới hạn ở trình độ cảm tính, hay một xã hội chưa có sự phân công lao động, đều không phải là tiền đề cho sự hình thành triết học. Bởi lẽ, sự ra đời của triết học đòi hỏi một trình độ phát triển nhất định của lực lượng sản xuất và quan hệ sản xuất, thể hiện qua sự phân công lao động xã hội và sự hình thành tầng lớp trí thức chuyên nghiệp. Những điều kiện này cho phép con người có thời gian và nguồn lực để suy tư, nghiên cứu và hệ thống hóa tri thức một cách sâu sắc. Nếu xã hội chưa đạt đến trình độ này, thì các hình thái ý thức xã hội khác như tín ngưỡng, tôn giáo, hoặc tri thức kinh nghiệm đơn thuần sẽ chiếm ưu thế, thay vì triết học."
-        },
-        {
-            "question": 5,
-            "text": "\"Triết học tự nhiên\" là thuật ngữ dùng để chỉ đặc trưng của triết học ở thời kỳ nào?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Thời kỳ Cổ đại"
-                },
-                {
-                    "letter": "B",
-                    "text": "Thời kỳ Trung cổ"
-                },
-                {
-                    "letter": "C",
-                    "text": "Thời kỳ Phục hưng"
-                },
-                {
-                    "letter": "D",
-                    "text": "Triết học Mác - Lênin vào nửa cuối thế kỷ XIX đầu thế kỷ XX"
-                }
-            ],
-            "correct_answer": "A",
-            "explanation": "Thuật ngữ \"triết học tự nhiên\" phản ánh đặc điểm cốt lõi của giai đoạn sơ khai trong lịch sử triết học, khi các nhà tư tưởng nỗ lực giải thích thế giới thông qua quan sát trực tiếp và suy luận từ các hiện tượng tự nhiên. Giai đoạn này tập trung vào vũ trụ, vật chất, nguồn gốc sự sống và các vấn đề tương tự, tiếp cận chúng một cách trực quan, dựa trên những quan sát có được từ tự nhiên. Đặc trưng của giai đoạn này là chưa có sự phân hóa rõ ràng giữa triết học và các bộ môn khoa học cụ thể khác.\n\nCác giai đoạn lịch sử khác không thể hiện đúng đặc trưng \"triết học tự nhiên\" vì những lý do sau:\n\n*   Trong giai đoạn sau đó, tư tưởng tôn giáo chiếm ưu thế, đặc biệt là Kitô giáo, hướng triết học vào các vấn đề thần học, siêu hình học và mối quan hệ giữa con người với thần linh.\n*   Một giai đoạn khác lại nhấn mạnh sự trỗi dậy của chủ nghĩa nhân văn, đề cao giá trị con người, lý trí và tiềm năng sáng tạo, chuyển hướng từ các vấn đề thần học sang các vấn đề thế tục và xã hội.\n*   Một trào lưu triết học khác, ra đời muộn hơn, lại mang tính duy vật biện chứng và duy vật lịch sử, tập trung vào phân tích các quy luật vận động và phát triển của xã hội, đặc biệt là quy luật đấu tranh giai cấp và sự thay đổi các hình thái kinh tế - xã hội."
-        },
-        {
-            "question": 6,
-            "text": "\"Triết học Kinh viện\" là thuật ngữ dùng để chỉ đặc điểm của triết học ở thời kỳ nào?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Thời kỳ Cổ đại"
-                },
-                {
-                    "letter": "B",
-                    "text": "Thời kỳ Trung cổ"
-                },
-                {
-                    "letter": "C",
-                    "text": "Thời kỳ Phục hưng"
-                },
-                {
-                    "letter": "D",
-                    "text": "Triết học Mác - Lênin vào nửa cuối thế kỷ XIX, đầu thế kỷ XX"
-                }
-            ],
-            "correct_answer": "B",
-            "explanation": "Triết học Kinh viện đặc trưng cho giai đoạn Trung cổ, khi các học giả tìm cách hòa hợp đức tin tôn giáo với lý trí, hệ thống hóa và biện minh cho các giáo lý bằng các phương pháp luận chặt chẽ. Họ sử dụng logic và biện chứng để giải thích và củng cố các tín điều, tạo ra một hệ thống triết học đặc thù phục vụ mục đích thần học.\n\nCác giai đoạn khác không phù hợp vì:\n\nThời kỳ Cổ đại tập trung vào việc khám phá bản chất của thế giới, vũ trụ, đạo đức và chính trị mà ít bị ràng buộc bởi các hệ thống tín ngưỡng tôn giáo. Các nhà triết học cổ đại tìm kiếm chân lý thông qua lý luận và quan sát, hướng đến sự hiểu biết về tự nhiên và xã hội.\n\nThời kỳ Phục hưng lại chứng kiến sự trỗi dậy của chủ nghĩa nhân văn, đề cao giá trị con người và tự do tư tưởng. Các nhà tư tưởng Phục hưng quay trở lại với các giá trị cổ điển, đặt nền móng cho sự phát triển của khoa học và triết học hiện đại, thoát khỏi sự chi phối của tôn giáo.\n\nTriết học Mác-Lênin, xuất hiện vào nửa cuối thế kỷ XIX và đầu thế kỷ XX, là một hệ thống tư tưởng duy vật biện chứng và duy vật lịch sử. Nó tập trung vào việc phân tích sự phát triển của xã hội loài người thông qua các quy luật kinh tế - xã hội và đấu tranh giai cấp, khác biệt hoàn toàn với mục tiêu và phương pháp luận của triết học Kinh viện."
-        },
-        {
-            "question": 7,
-            "text": "Đâu là học thuyết triết học cuối cùng thể hiện tham vọng của triết học muốn đóng vai trò là \"khoa học của mọi khoa học\"?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Triết học của Platon"
-                },
-                {
-                    "letter": "B",
-                    "text": "Triết học Hegel"
-                },
-                {
-                    "letter": "C",
-                    "text": "Triết học thời Trung cổ"
-                },
-                {
-                    "letter": "D",
-                    "text": "Triết học của V.I.Lênin"
-                }
-            ],
-            "correct_answer": "B",
-            "explanation": "Học thuyết này, thông qua biện chứng duy tâm tuyệt đối, đã nỗ lực xây dựng một hệ thống tri thức phổ quát, bao trùm mọi lĩnh vực của tồn tại và tư duy. Nó tìm cách giải thích và hệ thống hóa toàn bộ hiện thực như là sự tự vận động của Ý niệm tuyệt đối, qua đó thể hiện tham vọng trở thành \"khoa học của mọi khoa học\".\n\nCác học thuyết khác không có tham vọng này. Một trường phái triết học tập trung vào thế giới ý niệm thuần túy và sự phản ánh của nó trong thế giới vật chất, mà không tìm cách bao quát toàn bộ các lĩnh vực khoa học. Một hệ thống triết học khác lại đặt mình dưới sự chi phối của thần học, coi triết học như một công cụ để củng cố đức tin tôn giáo, chứ không phải là một hệ thống tri thức độc lập và toàn diện. Một sự phát triển khác của triết học Mác-xít, dù có những đóng góp quan trọng trong việc phân tích chủ nghĩa đế quốc và con đường giải phóng giai cấp vô sản, nhưng không đặt mục tiêu thay thế hoặc bao trùm toàn bộ các ngành khoa học khác."
-        },
-        {
-            "question": 8,
-            "text": "Mặt thứ hai trong \"Vấn đề cơ bản của triết học\" là gì?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Con người có khả năng nhận thức được thế giới không?"
-                },
-                {
-                    "letter": "B",
-                    "text": "Nguồn gốc của thế giới là vật chất hay ý thức"
-                },
-                {
-                    "letter": "C",
-                    "text": "Vai trò của vật chất đối với ý thức như thế nào"
-                },
-                {
-                    "letter": "D",
-                    "text": "Ý thức có vai trò như thế nào đối với vật chất"
-                }
-            ],
-            "correct_answer": "A",
-            "explanation": "Mặt thứ hai của vấn đề cơ bản trong triết học tập trung vào việc xem xét khả năng nhận thức của con người đối với thế giới khách quan. Câu hỏi cốt lõi đặt ra là: liệu con người có thể đạt được tri thức chân thực về thế giới, có khả năng phản ánh đúng đắn hiện thực khách quan hay không. Việc khẳng định khả năng này là nền tảng cho mọi hoạt động nhận thức và thực tiễn của con người. Nếu phủ nhận khả năng nhận thức, mọi nỗ lực tìm hiểu và cải tạo thế giới sẽ trở nên vô nghĩa.\n\nNhững nội dung liên quan đến nguồn gốc của thế giới, vai trò quyết định giữa vật chất và ý thức, cũng như ảnh hưởng của ý thức đối với vật chất, thuộc về mặt thứ nhất của vấn đề cơ bản trong triết học, tức là bản thể luận. Bản thể luận đi sâu vào việc xác định cơ sở tồn tại của thế giới, cái gì có trước và cái gì quyết định cái gì. Trong lịch sử triết học, cách tiếp cận này đã tạo ra sự phân biệt giữa chủ nghĩa duy vật, chủ nghĩa duy tâm, nhị nguyên luận và thuyết không thể biết. Mỗi trường phái đều có những luận điểm riêng về bản chất của tồn tại và mối quan hệ giữa vật chất và ý thức."
-        },
-        {
-            "question": 9,
-            "text": "\"Vấn đề cơ bản lớn của mọi triết học, đặc biệt là của triết học hiện đại, là vấn đề quan hệ giữa tư duy và tồn tại\" là câu nói của nhà triết học nào?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "C. Mác"
-                },
-                {
-                    "letter": "B",
-                    "text": "Ph. Ăngghen"
-                },
-                {
-                    "letter": "C",
-                    "text": "V.I. Lênin"
-                },
-                {
-                    "letter": "D",
-                    "text": "Hêghel"
-                }
-            ],
-            "correct_answer": "B",
-            "explanation": "Vấn đề về mối quan hệ giữa tư duy và tồn tại, được xem là hòn đá thử vàng để phân biệt các trường phái triết học duy vật và duy tâm, cũng như đánh giá khả năng nhận thức của con người, đã được một trong những nhà sáng lập chủ nghĩa Mác trình bày một cách hệ thống. Ông làm rõ điều này trong các tác phẩm kinh điển, đặc biệt là khi phê bình Ludwig Feuerbach và phân tích sự cáo chung của triết học cổ điển Đức, từ đó xác lập nền tảng cho triết học duy vật biện chứng và duy vật lịch sử.\n\nMặc dù có sự cộng tác chặt chẽ và cùng xây dựng triết học Mác, người còn lại trong bộ đôi sáng lập chủ nghĩa Mác tập trung nghiên cứu sâu sắc về kinh tế chính trị và phê phán xã hội tư bản. Người kế thừa và phát triển chủ nghĩa Mác trong bối cảnh chủ nghĩa đế quốc và cách mạng vô sản, lại dành sự quan tâm chủ yếu cho các vấn đề chính trị, chiến lược cách mạng vô sản và xây dựng chủ nghĩa xã hội. Trong khi đó, nhà triết học duy tâm khách quan Đức, mặc dù có ảnh hưởng lớn đến cả hai nhà sáng lập chủ nghĩa Mác, lại tiếp cận mối quan hệ giữa tư duy và tồn tại từ lập trường duy tâm, với ý niệm tuyệt đối giữ vai trò quyết định."
-        },
-        {
-            "question": 10,
-            "text": "Trường phái triết học nào phủ nhận sự tồn tại của thế giới vật chất?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Chủ nghĩa duy vật biện chứng"
-                },
-                {
-                    "letter": "B",
-                    "text": "Chủ nghĩa duy vật siêu hình"
-                },
-                {
-                    "letter": "C",
-                    "text": "Chủ nghĩa duy tâm"
-                },
-                {
-                    "letter": "D",
-                    "text": "Chủ nghĩa duy vật thời Cổ đại"
-                }
-            ],
-            "correct_answer": "C",
-            "explanation": "Quan điểm triết học khẳng định chỉ có ý thức, tinh thần, hoặc ý niệm tồn tại độc lập, tuyệt đối, còn thế giới vật chất hoặc không tồn tại, hoặc chỉ là thứ yếu và phụ thuộc vào ý thức. Quan điểm này có thể biểu hiện dưới nhiều hình thức, từ việc coi ý thức cá nhân là nền tảng (duy tâm chủ quan) đến việc thừa nhận một thực thể tinh thần phổ quát chi phối mọi sự (duy tâm khách quan).\n\nNgược lại, các trường phái triết học duy vật đều thống nhất ở việc khẳng định sự tồn tại khách quan của thế giới vật chất, không phụ thuộc vào ý thức. Duy vật biện chứng, ngoài việc thừa nhận tính khách quan của vật chất, còn nhấn mạnh sự vận động, biến đổi không ngừng của nó thông qua các quy luật nội tại. Duy vật siêu hình, dù cũng thừa nhận vai trò của vật chất, nhưng lại xem xét nó một cách tĩnh tại, ít biến đổi và tách rời khỏi các mối liên hệ phổ biến. Duy vật thời Cổ đại, mặc dù có khuynh hướng vật chất, song thường mang tính trực quan, cảm tính và thiếu tính hệ thống trong lý luận so với các giai đoạn phát triển sau này của chủ nghĩa duy vật."
-        },
-        {
-            "question": 11,
-            "text": "Thừa nhận con người có khả năng nhận thức được thế giới là nội dung của học thuyết nào?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Bất khả tri luận"
-                },
-                {
-                    "letter": "B",
-                    "text": "Khả tri luận"
-                },
-                {
-                    "letter": "C",
-                    "text": "Hoài nghi luận và bất khả tri luận"
-                },
-                {
-                    "letter": "D",
-                    "text": "Tất cả các đáp án"
-                }
-            ],
-            "correct_answer": "B",
-            "explanation": "Học thuyết khẳng định khả năng nhận thức thế giới của con người dựa trên cơ sở thế giới vật chất tồn tại khách quan, và các quy luật vận động của nó có thể được con người nhận thức thông qua thực tiễn, quan sát, thí nghiệm và tư duy. Học thuyết này tin rằng chủ thể có năng lực nắm bắt và phản ánh hiện thực khách quan một cách chân thực hoặc gần đúng chân thực.\n\nNhững quan điểm khác không phù hợp vì có một trường phái triết học phủ nhận khả năng nhận thức thế giới một cách triệt để, cho rằng bản chất của sự vật, hiện tượng là không thể nắm bắt được. Một trường phái khác lại chủ trương hoài nghi về tính xác thực của mọi tri thức, cho rằng không có gì có thể được biết một cách chắc chắn và cần phải xét lại mọi nhận định. Việc kết hợp các quan điểm này không tạo ra một hệ thống lý luận nhận thức hoàn chỉnh và nhất quán về khả năng nhận thức thế giới của con người."
-        },
-        {
-            "question": 12,
-            "text": "Con người không có khả năng nhận thức được thế giới là nội dung của học thuyết nào?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Khả tri luận"
-                },
-                {
-                    "letter": "B",
-                    "text": "Hoài nghi luận"
-                },
-                {
-                    "letter": "C",
-                    "text": "Bất khả tri luận"
-                },
-                {
-                    "letter": "D",
-                    "text": "Khả tri và hoài nghi luận"
-                }
-            ],
-            "correct_answer": "C",
-            "explanation": "Quan điểm cho rằng con người không thể đạt tới tri thức chân thực về thế giới thuộc về trường phái triết học mà ở đó, sự hiểu biết của con người về thế giới bị giới hạn một cách căn bản. Trường phái này khẳng định rằng dù thế giới tồn tại khách quan, bản chất và quy luật vận động của nó nằm ngoài khả năng nhận thức của giác quan và lý trí con người. Theo đó, mọi tri thức mà chúng ta có được chỉ là những biểu hiện bề ngoài, không thể nắm bắt được thực tại khách quan.\n\nCác quan điểm khác không phù hợp vì:\n\nCó một trường phái triết học đối lập trực tiếp với quan điểm trên, khẳng định khả năng nhận thức thế giới của con người, cho rằng con người có thể đạt tới tri thức khách quan về thế giới.\n\nMột trường phái khác không phủ nhận hoàn toàn khả năng nhận thức, mà chỉ nghi ngờ tính xác thực và độ tin cậy của tri thức, đặc biệt là tri thức cảm tính. Họ nhấn mạnh sự cần thiết của việc kiểm chứng nghiêm ngặt trước khi chấp nhận một điều gì đó là chân lý, nhưng không loại trừ khả năng nhận thức chân lý.\n\nCuối cùng, việc kết hợp hai quan điểm trên tạo ra một lập trường không nhất quán và mâu thuẫn, vì một bên khẳng định khả năng nhận thức, trong khi bên còn lại nghi ngờ chính khả năng đó."
-        },
-        {
-            "question": 13,
-            "text": "Nâng hoài nghi lên thành nguyên tắc trong việc xem xét tri thức đã đạt được và cho rằng con người không thể đạt đến chân lý khách quan là nội dung của học thuyết nào?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Khả tri luận"
-                },
-                {
-                    "letter": "B",
-                    "text": "Hoài nghi luận"
-                },
-                {
-                    "letter": "C",
-                    "text": "Bất khả tri luận"
-                },
-                {
-                    "letter": "D",
-                    "text": "Thuyết không thể biết"
-                }
-            ],
-            "correct_answer": "B",
-            "explanation": "Bởi vì, học thuyết này xem xét sự hoài nghi như một phương pháp luận căn bản và tối quan trọng. Mọi kiến thức, mọi khẳng định đều phải được thẩm định bằng thái độ hoài nghi triệt để, và kết luận rằng con người không thể đạt được chân lý tuyệt đối, khách quan.\n\nCác học thuyết khác không phù hợp vì:\n\nHọc thuyết thừa nhận khả năng nhận thức thế giới của con người, tin rằng chúng ta có thể đạt đến tri thức chân thực, là một quan điểm đối lập hoàn toàn.\n\nHọc thuyết phủ nhận khả năng nhận thức đầy đủ thế giới, nhưng không xem sự hoài nghi là nguyên tắc chủ đạo, mà chỉ đơn thuần tuyên bố về giới hạn của nhận thức, là một cách tiếp cận khác.\n\nHọc thuyết tập trung vào giới hạn nhận thức của con người, chứ không phải là một hệ thống triết học xây dựng trên nguyên tắc hoài nghi, cũng là một hướng đi khác."
-        },
-        {
-            "question": 14,
-            "text": "Phù nhận sự tồn tại khách quan của hiện thực và coi cảm giác là tồn tại duy nhất thuộc nội dung của trường phái triết học nào?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Chủ nghĩa duy tâm chủ quan"
-                },
-                {
-                    "letter": "B",
-                    "text": "Chủ nghĩa duy tâm khách quan"
-                },
-                {
-                    "letter": "C",
-                    "text": "Chủ nghĩa duy vật siêu hình"
-                },
-                {
-                    "letter": "D",
-                    "text": "Chủ nghĩa duy vật biện chứng"
-                }
-            ],
-            "correct_answer": "A",
-            "explanation": "Trường phái triết học mà nội dung câu hỏi đề cập đến xem cảm giác là yếu tố duy nhất có tồn tại và phủ nhận sự tồn tại khách quan của hiện thực bên ngoài ý thức. Đây là biểu hiện đặc trưng của một quan điểm triết học, trong đó mọi sự vật, hiện tượng được xem là hoàn toàn phụ thuộc vào chủ thể nhận thức và trải nghiệm của cá nhân.\n\nCác quan điểm triết học khác không phù hợp với nội dung này vì:\n\n*   Một trường phái khác thừa nhận sự tồn tại của một thực thể tinh thần độc lập, phổ quát, chi phối thế giới vật chất và ý thức con người.\n*   Có một trường phái triết học xuất phát từ việc khẳng định sự tồn tại khách quan của vật chất, xem vật chất là nguồn gốc của ý thức. Tuy nhiên, nếu quan niệm vật chất một cách cứng nhắc, bất biến, thì lại rơi vào một cách tiếp cận khác, không phản ánh đúng tính biện chứng của thế giới.\n*   Ngược lại, một trường phái khác cũng khẳng định tính khách quan của vật chất, nhưng nhấn mạnh rằng vật chất luôn vận động, biến đổi và phát triển theo những quy luật vốn có của nó."
-        },
-        {
-            "question": 15,
-            "text": "Tìm câu trả lời đúng nhất, mặt tích cực nhất của quan niệm về vật chất thời Cổ đại?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Đồng nhất vật chất với vật thể"
-                },
-                {
-                    "letter": "B",
-                    "text": "Làm nền tảng cho quan niệm duy tâm phát triển"
-                },
-                {
-                    "letter": "C",
-                    "text": "Kìm hãm sự phát triển tư tưởng khoa học về thế giới"
-                },
-                {
-                    "letter": "D",
-                    "text": "Chống quan niệm duy tâm tôn giáo và thúc đẩy sự phát triển tư tưởng khoa học về thế giới"
-                }
-            ],
-            "correct_answer": "D",
-            "explanation": "Quan niệm về vật chất thời cổ đại có giá trị to lớn ở việc đặt nền móng cho thế giới quan duy vật, phản bác các lý giải duy tâm, tôn giáo vốn chi phối nhận thức về thế giới. Điều này tạo điều kiện cho sự phát triển của tư duy khoa học, hướng con người tìm kiếm nguyên nhân và quy luật của tự nhiên trong chính bản thân tự nhiên, thay vì gán cho các lực lượng siêu nhiên."
-        },
-        {
-            "question": 16,
-            "text": "Trường phái triết học nào mang nặng tính trực quan, chất phác?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Chủ nghĩa duy tâm chủ quan"
-                },
-                {
-                    "letter": "B",
-                    "text": "Chủ nghĩa duy tâm khách quan"
-                },
-                {
-                    "letter": "C",
-                    "text": "Chủ nghĩa duy vật siêu hình"
-                },
-                {
-                    "letter": "D",
-                    "text": "Chủ nghĩa duy vật biện chứng"
-                }
-            ],
-            "correct_answer": "A",
-            "explanation": "Chủ nghĩa duy vật thời kỳ cổ đại thể hiện đặc điểm trực quan, chất phác do chịu sự chi phối bởi trình độ nhận thức và kinh nghiệm thực tiễn còn hạn chế. Các nhà triết học thường quy vật chất về những dạng tồn tại vật chất cụ thể, hữu hình và dễ dàng tri giác được như nước, lửa, không khí hoặc các yếu tố nguyên thủy khác."
-        },
-        {
-            "question": 17,
-            "text": "Trường phái triết học nào mang nặng tính trực quan, chất phác?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Chú nghĩa duy vật thời Cổ đại"
-                },
-                {
-                    "letter": "B",
-                    "text": "Chú nghĩa duy vật siêu hình thế kỷ XVII, XVIII"
-                },
-                {
-                    "letter": "C",
-                    "text": "Chú nghĩa duy vật biện chứng"
-                },
-                {
-                    "letter": "D",
-                    "text": "Chú nghĩa duy tâm khách quan"
-                }
-            ],
-            "correct_answer": "A",
-            "explanation": "Chủ nghĩa duy vật thời kỳ cổ đại thể hiện đặc điểm trực quan, chất phác do chịu sự chi phối bởi trình độ nhận thức và kinh nghiệm thực tiễn còn hạn chế. Các nhà triết học thường quy vật chất về những dạng tồn tại vật chất cụ thể, hữu hình và dễ dàng tri giác được như nước, lửa, không khí hoặc các yếu tố nguyên thủy khác, do đó thiếu tính khái quát và trừu tượng cần thiết.\n\nCác trường phái triết học khác không phù hợp vì: Chủ nghĩa duy vật siêu hình thế kỷ XVII, XVIII, dù vẫn khẳng định bản chất vật chất của thế giới, nhưng lại giải thích thế giới theo phương pháp máy móc, bất biến và tách biệt các sự vật, hiện tượng. Chủ nghĩa duy vật biện chứng, dựa trên cơ sở các thành tựu khoa học hiện đại, đã vượt qua được những hạn chế của tính trực quan, chất phác và mang tính hệ thống, biện chứng sâu sắc. Ngược lại, chủ nghĩa duy tâm khách quan lại khởi nguồn từ ý thức, tinh thần, đề cao quá mức vai trò của chúng và xem thế giới vật chất là sản phẩm của ý thức, do đó không phản ánh được tính trực quan vốn có của thế giới vật chất."
-        },
-        {
-            "question": 18,
-            "text": "Đồng nhất vật chất với một số dạng cụ thể của vật chất là đặc điểm của học thuyết nào?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Chú nghĩa duy vật thời Cổ đại"
-                },
-                {
-                    "letter": "B",
-                    "text": "Chú nghĩa duy vật siêu hình thế kỷ XVII, XVIII"
-                },
-                {
-                    "letter": "C",
-                    "text": "Chú nghĩa duy vật của triết học Cổ điển Đức"
-                },
-                {
-                    "letter": "D",
-                    "text": "Chú nghĩa duy vật biện chứng"
-                }
-            ],
-            "correct_answer": "A",
-            "explanation": "Quan điểm cho rằng vật chất đồng nhất với một số dạng vật chất cụ thể tiêu biểu cho giai đoạn sơ khai trong lịch sử phát triển của tư duy duy vật. Ở thời kỳ này, các nhà triết học thường quy vật chất về một hoặc một vài yếu tố vật chất hữu hình, coi chúng là bản nguyên của thế giới.\n\nCác học thuyết duy vật sau này đã khắc phục hạn chế này. Quan điểm duy vật giai đoạn thế kỷ XVII-XVIII có xu hướng xem xét vật chất thông qua các thuộc tính cơ học và giới hạn ở cấu trúc nguyên tử. Trường phái duy vật thuộc triết học Cổ điển Đức tuy tiến bộ hơn về tính hệ thống và khả năng biện chứng, nhưng vẫn chưa đạt đến sự khái quát trừu tượng cần thiết. Trong khi đó, học thuyết duy vật biện chứng đã đưa ra một định nghĩa khoa học, trừu tượng và bao quát hơn về vật chất, vượt qua sự đồng nhất với các dạng tồn tại vật chất cụ thể."
-        },
-        {
-            "question": 19,
-            "text": "Trường phái triết học nào đồng nhất vật chất với khối lượng?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Chú nghĩa duy tâm chủ quan"
-                },
-                {
-                    "letter": "B",
-                    "text": "Chú nghĩa duy vật siêu hình"
-                },
-                {
-                    "letter": "C",
-                    "text": "Chú nghĩa duy vật biện chứng"
-                },
-                {
-                    "letter": "D",
-                    "text": "Chú nghĩa duy tâm khách quan"
-                }
-            ],
-            "correct_answer": "B",
-            "explanation": "Quan điểm triết học cho rằng vật chất đồng nhất với khối lượng là một biểu hiện của lối tư duy duy vật thời kỳ trước Mác. Nó bị ảnh hưởng sâu sắc bởi cơ học cổ điển Newton, xem thế giới như một cỗ máy khổng lồ, nơi mọi vật thể được quy về các thuộc tính vật lý đơn giản như khối lượng, kích thước và vị trí. Cách tiếp cận này mang tính máy móc, giản lược, bỏ qua tính đa dạng, phức tạp và vận động không ngừng của thế giới vật chất.\n\nCác trường phái triết học khác không phù hợp vì:\n\n*   Một trường phái phủ nhận sự tồn tại khách quan của thế giới vật chất bên ngoài ý thức con người, coi mọi sự vật, hiện tượng chỉ là những cảm giác, ý niệm chủ quan.\n*   Một trường phái khác xem xét vật chất trong mối liên hệ phổ biến, vận động và phát triển không ngừng, vượt qua các đặc tính tĩnh tại như khối lượng. Nó nhấn mạnh tính biện chứng, sự thống nhất và đấu tranh giữa các mặt đối lập bên trong sự vật.\n*   Một trường phái khác lại thừa nhận sự tồn tại khách quan của một thực thể tinh thần, ý thức (như \"ý niệm tuyệt đối\", \"tinh thần thế giới\"), độc lập với con người và thế giới vật chất."
-        },
-        {
-            "question": 20,
-            "text": "Phương pháp siêu hình có đặc điểm như thế nào?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Nhận thức đối tượng ở trạng thái vận động"
-                },
-                {
-                    "letter": "B",
-                    "text": "Nhận thức đối tượng ở trạng thái phát triển"
-                },
-                {
-                    "letter": "C",
-                    "text": "Nhận thức đối tượng trong các mối liên hệ phổ biến"
-                },
-                {
-                    "letter": "D",
-                    "text": "Nhận thức đối tượng ở trạng thái cô lập, tĩnh tại"
-                }
-            ],
-            "correct_answer": "D",
-            "explanation": "Phương pháp siêu hình, về bản chất, là phương pháp tư duy xem xét các sự vật, hiện tượng một cách riêng rẽ, tách biệt khỏi môi trường và các liên hệ qua lại giữa chúng. Nó nhấn mạnh việc nắm bắt đối tượng tại một thời điểm cố định, xem nhẹ quá trình vận động, biến đổi nội tại của nó.\n\nNgược lại, việc nhận thức đối tượng trong quá trình vận động, phát triển và trong sự liên hệ phổ biến là đặc trưng của phương pháp biện chứng duy vật. Phương pháp này xem xét sự vật, hiện tượng trong sự biến đổi không ngừng, sự tương tác và ảnh hưởng lẫn nhau trong một chỉnh thể thống nhất. Việc nhấn mạnh sự vận động, phát triển và mối liên hệ phổ biến là phù hợp với quan điểm duy vật biện chứng, thừa nhận rằng mọi sự vật đều nằm trong quá trình biến đổi và tác động qua lại."
-        },
-        {
-            "question": 21,
-            "text": "Phương pháp tư duy nào chỉ phối nhận thức của con người ở thế kỷ XVII - XVIII?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Phép biện chứng duy tâm"
-                },
-                {
-                    "letter": "B",
-                    "text": "Phép biện chứng duy vật"
-                },
-                {
-                    "letter": "C",
-                    "text": "Phương pháp siêu hình máy móc"
-                },
-                {
-                    "letter": "D",
-                    "text": "Phép biện chứng duy vật; phép siêu hình máy móc"
-                }
-            ],
-            "correct_answer": "C",
-            "explanation": "Trong giai đoạn thế kỷ XVII-XVIII, phương pháp tư duy mang tính chất siêu hình, máy móc chiếm ưu thế trong nhận thức của con người. Quan điểm này bắt nguồn từ ảnh hưởng sâu rộng của cơ học Newton, cùng với những thành tựu nổi bật của khoa học tự nhiên thời kỳ đó. Thế giới được nhìn nhận như một cỗ máy khổng lồ, vận hành theo những quy luật cố định, không thay đổi, có thể phân tích thành các bộ phận tách rời để nghiên cứu.\n\nCác phương pháp khác không phù hợp vì:\n\n*   Một quan điểm xem xét thế giới thông qua sự vận động và phát triển của ý thức, tinh thần, thuộc phạm trù duy tâm, chỉ phát triển mạnh vào cuối thế kỷ XVIII và đầu thế kỷ XIX, đặc biệt trong triết học cổ điển Đức.\n*   Một trường phái triết học khác, tiếp cận thế giới thông qua sự vận động và phát triển của vật chất, mang tính duy vật, chỉ xuất hiện vào giữa thế kỷ XIX với sự ra đời của triết học Mác-Lênin."
-        },
-        {
-            "question": 22,
-            "text": "Chỉ ra đặc điểm của phương pháp biện chứng?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Nhận thức đối tượng ở trạng thái cô lập"
-                },
-                {
-                    "letter": "B",
-                    "text": "Nhận thức đối tượng trong các mối liên hệ phổ biến, ràng buộc, quy định và ảnh hưởng lẫn nhau"
-                },
-                {
-                    "letter": "C",
-                    "text": "Tách rời đối tượng ra khỏi các mối quan hệ"
-                },
-                {
-                    "letter": "D",
-                    "text": "Nhận thức đối tượng ở trạng thái tĩnh"
-                }
-            ],
-            "correct_answer": "B",
-            "explanation": "Phương pháp biện chứng yêu cầu chúng ta tiếp cận sự vật, hiện tượng trong sự vận động và tương tác không ngừng. Điều này xuất phát từ quan điểm thế giới tồn tại như một hệ thống chỉnh thể, nơi mọi yếu tố đều có mối liên hệ, ràng buộc, quy định và ảnh hưởng lẫn nhau. Để hiểu đúng bản chất của một đối tượng, cần phải xem xét nó trong mạng lưới các mối quan hệ này, nắm bắt được sự tác động qua lại giữa nó và môi trường xung quanh.\n\nNgược lại, việc xem xét đối tượng một cách tách biệt, không xét đến các mối liên hệ xung quanh, hoặc chỉ nhìn nhận nó ở một trạng thái cố định, là đặc trưng của phương pháp siêu hình. Cách tiếp cận này không phản ánh đúng tính chất khách quan của thế giới, bỏ qua quá trình vận động và phát triển của sự vật, hiện tượng. Phương pháp siêu hình thường gắn liền với lối tư duy phiến diện, một chiều, hoặc phản ánh trình độ nhận thức còn hạn chế trong lịch sử, trước khi có sự phát triển của khoa học và phương pháp luận biện chứng."
-        },
-        {
-            "question": 23,
-            "text": "Phương pháp biện chứng có đặc điểm gì?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Chỉ nhìn thấy cây mà không nhìn thấy rừng"
-                },
-                {
-                    "letter": "B",
-                    "text": "Không những nhìn thấy cây mà còn nhìn thấy cả rừng"
-                },
-                {
-                    "letter": "C",
-                    "text": "Nguyên nhân của sự biến đổi nằm bên ngoài sự vật, hiện tượng"
-                },
-                {
-                    "letter": "D",
-                    "text": "Nhận thức đối tượng ở trạng thái tách rời"
-                }
-            ],
-            "correct_answer": "B",
-            "explanation": "Phương pháp biện chứng đòi hỏi nhận thức phải bao quát, toàn diện, không chỉ dừng lại ở các yếu tố đơn lẻ mà phải thấy được mối liên hệ qua lại, sự tác động lẫn nhau giữa chúng trong một chỉnh thể thống nhất. Sự vật, hiện tượng luôn tồn tại trong một hệ thống các quan hệ, và chỉ khi nắm bắt được hệ thống đó, ta mới có thể hiểu đúng bản chất của sự vật, hiện tượng.\n\nQuan điểm chỉ chú trọng đến cái riêng, bỏ qua cái chung, không thấy được tính hệ thống và sự tác động qua lại giữa các yếu tố, là biểu hiện của tư duy phiến diện, siêu hình, vốn là đặc trưng của phương pháp tư duy trước biện chứng. Việc cho rằng nguyên nhân biến đổi nằm ngoài sự vật, hiện tượng là quan điểm duy tâm, siêu hình, phủ nhận tính tự thân vận động, phát triển của thế giới khách quan. Việc nhận thức đối tượng một cách tách rời, cô lập với các mối liên hệ xung quanh là đi ngược lại nguyên tắc về mối liên hệ phổ biến, một trong những nguyên tắc cơ bản của phép biện chứng duy vật."
-        },
-        {
-            "question": 24,
-            "text": "Lịch sử phép biện chứng tuần tự trải qua những hình thức nào?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Phép biện chứng tự phát, phép biện chứng duy tâm, phép biện chứng duy vật"
-                },
-                {
-                    "letter": "B",
-                    "text": "Phép biện chứng tự phát, phép biện chứng duy vật, phép biện chứng duy tâm"
-                },
-                {
-                    "letter": "C",
-                    "text": "Phép biện chứng duy tâm, phép biện chứng tự phát, phép biện chứng duy vật"
-                },
-                {
-                    "letter": "D",
-                    "text": "Phép biện chứng duy vật, phép biện chứng tự phát, phép biện chứng duy tâm"
-                }
-            ],
-            "correct_answer": "A",
-            "explanation": "Lịch sử phép biện chứng trải qua ba hình thức phát triển chính, mỗi hình thức đánh dấu một bước tiến quan trọng trong sự hiểu biết của con người về tính biện chứng của thế giới.\n\nHình thức sơ khai nhất là phép biện chứng tự phát, xuất hiện trong tư duy của các nhà triết học cổ đại. Đặc trưng của giai đoạn này là sự nhận thức về tính biến đổi và liên hệ của các sự vật, hiện tượng, nhưng còn mang tính trực quan, cảm tính và dựa trên những quan sát giản đơn, chưa có hệ thống lý luận chặt chẽ.\n\nTiếp theo là phép biện chứng duy tâm, đạt đến đỉnh cao trong triết học Hegel. Biện chứng duy tâm xây dựng một hệ thống lý luận sâu sắc về sự vận động và phát triển, nhưng lại đặt trên nền tảng duy tâm. \"Ý niệm tuyệt đối\" được coi là nguồn gốc và động lực của mọi sự vận động, còn thế giới vật chất chỉ là sự biểu hiện của ý niệm đó.\n\nHình thức cuối cùng là phép biện chứng duy vật, do Mác và Engels xây dựng. Nó kế thừa những yếu tố hợp lý của phép biện chứng Hegel, đồng thời khắc phục triệt để tính duy tâm. Phép biện chứng duy vật xem xét thế giới vật chất trong sự liên hệ phổ biến, vận động và phát triển không ngừng theo các quy luật khách quan vốn có của nó, hoàn toàn độc lập với ý thức con người.\n\nNhững trình tự sắp xếp khác là không chính xác vì chúng không phản ánh đúng quá trình phát triển của tư tưởng biện chứng. Phép biện chứng duy vật không thể có trước phép biện chứng duy tâm, và cả hai đều không thể xuất hiện trước khi con người có những quan sát tự phát về thế giới xung quanh. Sự ra đời của phép biện chứng duy vật là kết quả của một quá trình kế thừa, phê phán và phát triển các hình thức biện chứng trước đó, chứ không thể đảo ngược hay bỏ qua bất kỳ giai đoạn nào."
-        },
-        {
-            "question": 25,
-            "text": "Câu nói: \"Các triết gia không mọc lên như nấm từ trái đất; họ là sản phẩm của thời đại của mình, của dân tộc mình, mà dòng sữa tinh tế nhất, quý giá và vô hình được tập trung lại trong những tư tưởng triết học\" của ai?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "C. Mác"
-                },
-                {
-                    "letter": "B",
-                    "text": "Ph. Ảngghen"
-                },
-                {
-                    "letter": "C",
-                    "text": "V.I. Lênin"
-                },
-                {
-                    "letter": "D",
-                    "text": "Ph. Hêghen"
-                }
-            ],
-            "correct_answer": "A",
-            "explanation": "Câu nói trên thể hiện quan điểm duy vật lịch sử, nhấn mạnh tính tất yếu khách quan, nguồn gốc xã hội của triết học. Triết học không hình thành một cách tự phát mà là sự phản ánh tập trung những đặc trưng kinh tế, chính trị, văn hóa của một thời đại và dân tộc cụ thể. Tư tưởng triết học là sự kết tinh những yếu tố tinh túy nhất của tồn tại xã hội.\n\nNhững nhà tư tưởng khác không phải là tác giả của câu nói này vì:\n\n*   Một người, dù là đồng tác giả của nhiều công trình lý luận quan trọng cùng với tác giả câu nói, nhưng văn phong và tư tưởng trong câu nói này không thuộc về ông.\n*   Một người là nhà lãnh đạo cách mạng, người đã phát triển học thuyết triết học trong bối cảnh mới, song đây không phải là quan điểm nguyên gốc của ông về nguồn gốc của triết học.\n*   Một người là nhà triết học duy tâm, người có những đóng góp lớn cho phép biện chứng, nhưng lý luận về sự hình thành và phát triển của ý thức hệ mang tính chủ quan, duy tâm, khác biệt với nội dung câu nói trên."
-        },
-        {
-            "question": 26,
-            "text": "Quan điểm triết học nào đồng nhất vật chất với một vài dạng cụ thể của vật chất?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Chủ nghĩa duy tâm"
-                },
-                {
-                    "letter": "B",
-                    "text": "Chủ nghĩa duy vật thời cổ đại"
-                },
-                {
-                    "letter": "C",
-                    "text": "Chủ nghĩa duy vật thế kỷ XVII-XVIII"
-                },
-                {
-                    "letter": "D",
-                    "text": "Chủ nghĩa duy vật biện chứng"
-                }
-            ],
-            "correct_answer": "B",
-            "explanation": "Giải thích:\n\nQuan điểm triết học đồng nhất vật chất với một hoặc một vài dạng tồn tại cụ thể là đặc trưng của tư duy duy vật thời kỳ sơ khai. Các nhà triết học duy vật thời cổ đại, do hạn chế về mặt nhận thức và trình độ khoa học đương thời, thường quy vật chất về một số yếu tố vật chất cụ thể, hữu hình và dễ cảm nhận như nước, lửa, không khí, hay nguyên tử. Họ chưa có khả năng khái quát hóa vật chất thành một phạm trù triết học trừu tượng, bao quát toàn bộ thế giới khách quan.\n\nCác quan điểm khác không phù hợp vì:\n\n*   Một trường phái triết học phủ nhận tính khách quan của vật chất, cho rằng ý thức, tinh thần là cái có trước và quyết định vật chất.\n\n*   Một trường phái khác, mặc dù có bước tiến so với tư tưởng duy vật cổ đại, song vẫn còn mang tính trực quan, siêu hình, máy móc. Trong đó, vật chất được xem xét như một khối vật chất bất biến, thụ động, và thường gắn liền với các thuộc tính cơ học. Quan điểm này thể hiện trình độ nhận thức của một giai đoạn lịch sử khác.\n\n*   Một trường phái khác nữa quan niệm vật chất là một phạm trù triết học, dùng để chỉ thực tại khách quan, tồn tại độc lập với ý thức và được ý thức phản ánh. Vật chất không đồng nhất với bất kỳ dạng cụ thể nào, mà là cái chung của mọi tồn tại vật chất. Đồng thời, trường phái này xem xét vật chất trong mối liên hệ, vận động và phát triển không ngừng, đánh dấu một bước phát triển cao hơn trong tư duy triết học."
-        },
-        {
-            "question": 27,
-            "text": "Quan điểm: \"Bản chất thế giới là ý thức\" là của trường phái triết học nào?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Chủ nghĩa duy vật siêu hình"
-                },
-                {
-                    "letter": "B",
-                    "text": "Chủ nghĩa duy tâm"
-                },
-                {
-                    "letter": "C",
-                    "text": "Nhị nguyên"
-                },
-                {
-                    "letter": "D",
-                    "text": "Chủ nghĩa duy vật biện chứng"
-                }
-            ],
-            "correct_answer": "B",
-            "explanation": "Quan điểm cho rằng bản chất thế giới là ý thức thể hiện lập trường của chủ nghĩa duy tâm. Triết học duy tâm khẳng định vai trò quyết định của ý thức, tinh thần, hoặc một thực thể phi vật chất trong việc hình thành và quy định thế giới vật chất.\n\nCác trường phái triết học khác có quan điểm khác biệt. Chủ nghĩa duy vật siêu hình, với phương pháp xem xét thế giới tĩnh tại, tách rời các sự vật, hiện tượng, xác định vật chất có trước và quyết định ý thức. Nhị nguyên luận, dù thừa nhận sự tồn tại song song của cả vật chất và ý thức, song không xem ý thức là yếu tố tiên quyết. Chủ nghĩa duy vật biện chứng, kế thừa và phát triển chủ nghĩa duy vật, cũng khẳng định nguồn gốc vật chất của thế giới, xem ý thức là sự phản ánh năng động của vật chất và có khả năng tác động trở lại vật chất."
-        },
-        {
-            "question": 28,
-            "text": "Mặt thứ hai trong “Vấn đề cơ bản của triết học” là gì?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Còn người có khả năng nhận thức được thế giới không?"
-                },
-                {
-                    "letter": "B",
-                    "text": "Nguồn gốc của thế giới là vật chất hay ý thức"
-                },
-                {
-                    "letter": "C",
-                    "text": "Vai trò của vật chất đối với ý thức như thế nào"
-                },
-                {
-                    "letter": "D",
-                    "text": "Ý thức có vai trò như thế nào đối với vật chất"
-                }
-            ],
-            "correct_answer": "A",
-            "explanation": "Mặt thứ hai của vấn đề cơ bản trong triết học đi sâu vào năng lực nhận thức của con người, đặt ra câu hỏi cốt lõi về khả năng phản ánh và nắm bắt thế giới khách quan. Nó truy vấn liệu con người, thông qua các giác quan và lý tính, có thể đạt đến sự hiểu biết đúng đắn về bản chất của tồn tại hay không.\n\nCác phương án khác bàn về nguồn gốc của thế giới (vật chất hay ý thức), vai trò của vật chất trong việc quyết định ý thức, và sự tác động trở lại của ý thức đối với vật chất. Những nội dung này thuộc phạm trù bản thể luận, tức là mặt thứ nhất của vấn đề cơ bản trong triết học. Chúng tập trung vào mối quan hệ giữa tồn tại và tư duy, xác định cái nào có trước, cái nào quyết định cái nào. Chúng không trực tiếp liên quan đến việc con người có khả năng nhận thức thế giới một cách khách quan và chính xác hay không."
-        },
-        {
-            "question": 29,
-            "text": "Triết học Mác - Lênin do ai sáng lập và phát triển?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "V.I. Lênin sáng lập, C.Mác phát triển"
-                },
-                {
-                    "letter": "B",
-                    "text": "C.Mác sáng lập và V.I. Lênin phát triển"
-                },
-                {
-                    "letter": "C",
-                    "text": "V.I. Lênin sáng lập và Ph. Ăngghen phát triển"
-                },
-                {
-                    "letter": "D",
-                    "text": "C.Mác và Ph. Ăngghen sáng lập, V.I.Lênin phát triển"
-                }
-            ],
-            "correct_answer": "D",
-            "explanation": "Triết học Mác-Lênin là kết quả của một quá trình kế thừa và phát triển biện chứng. Hai nhà tư tưởng C.Mác và Ph.Ăngghen là những người đã xây dựng nền tảng, hệ thống lý luận cơ bản của triết học này. V.I.Lênin, trên cơ sở kế thừa di sản của Mác và Ăngghen, đã vận dụng và phát triển nó trong điều kiện lịch sử mới, cụ thể là trong giai đoạn chủ nghĩa tư bản chuyển sang giai đoạn đế quốc chủ nghĩa và trong thực tiễn cách mạng vô sản ở Nga.\n\nViệc xác định V.I.Lênin là người sáng lập là không chính xác, bởi điều này phủ nhận vai trò đặt nền móng và xây dựng hệ thống lý luận ban đầu của C.Mác và Ph.Ăngghen. Ngược lại, việc cho rằng C.Mác (hoặc Ph.Ăngghen) là người phát triển triết học này sau đó cũng không phản ánh đúng lịch sử, vì chính V.I.Lênin mới là người đã có những đóng góp quan trọng trong việc bổ sung và làm giàu thêm triết học Mác trong bối cảnh lịch sử mới. Tóm lại, quá trình hình thành và phát triển của triết học Mác-Lênin là một quá trình liên tục, biện chứng, không thể tách rời hay gán ghép công lao một cách tùy tiện cho từng nhà tư tưởng."
-        },
-        {
-            "question": 30,
-            "text": "Triết học Mác ra đời vào khoảng thời gian nào?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Những năm 20 của thế kỷ XX"
-                },
-                {
-                    "letter": "B",
-                    "text": "Những năm 20 của thế kỷ XIX"
-                },
-                {
-                    "letter": "C",
-                    "text": "Những năm 40 của thế kỷ XIX"
-                },
-                {
-                    "letter": "D",
-                    "text": "Những năm 40 của thế kỷ XX"
-                }
-            ],
-            "correct_answer": "C",
-            "explanation": "Triết học Mác được hình thành và phát triển trong giai đoạn mà chủ nghĩa tư bản đang trên đà phát triển mạnh mẽ, kéo theo sự gia tăng mâu thuẫn giai cấp và phong trào công nhân lớn mạnh ở các nước Âu-Mỹ. Đồng thời, những đột phá trong khoa học tự nhiên thời kỳ này đã cung cấp cơ sở lý luận và thực tiễn vững chắc cho sự ra đời của một hệ thống triết học mới.\n\nCác mốc thời gian khác không chính xác vì: thập niên đầu của thế kỷ XIX chưa chứng kiến sự phát triển đủ độ chín của các tiền đề kinh tế-xã hội và lý luận cần thiết cho sự hình thành triết học Mác. Trong khi đó, những năm đầu thế kỷ XX lại là thời kỳ đánh dấu sự phát triển của chủ nghĩa Mác-Lênin trong bối cảnh chủ nghĩa đế quốc và phong trào cách mạng vô sản. Mốc thời gian giữa thế kỷ XX, dù có những biến động lớn về chính trị, xã hội và sự phát triển của chủ nghĩa xã hội, nhưng không phải là giai đoạn sản sinh ra những nguyên lý cơ bản của triết học Mác."
-        },
-        {
-            "question": 31,
-            "text": "Triết học Mác - Lênin ra đời trong điều kiện kinh tế - xã hội nào?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Phương thức sản xuất tư bản chủ nghĩa đã trở thành phương thức sản xuất thống trị"
-                },
-                {
-                    "letter": "B",
-                    "text": "Phương thức sản xuất tư bản chủ nghĩa mới xuất hiện"
-                },
-                {
-                    "letter": "C",
-                    "text": "Chủ nghĩa tư bản trở thành chủ nghĩa đế quốc"
-                },
-                {
-                    "letter": "D",
-                    "text": "Phương thức sản xuất tư bản chủ nghĩa suy tàn"
-                }
-            ],
-            "correct_answer": "A",
-            "explanation": "Sự hình thành triết học Mác-Lênin diễn ra vào thời điểm phương thức sản xuất tư bản chủ nghĩa đã xác lập vị thế áp đảo trong xã hội. Giai đoạn này chứng kiến sự bành trướng mạnh mẽ của chủ nghĩa tư bản, thay thế các hình thái kinh tế xã hội tiền tư bản và gây ra những biến đổi căn bản trong cấu trúc xã hội, đặc biệt là sự ra đời và phát triển của giai cấp công nhân. Chính sự thống trị này đã làm lộ rõ những mâu thuẫn nội tại của chủ nghĩa tư bản, thúc đẩy sự ra đời của một hệ thống lý luận mới nhằm lý giải và giải quyết những mâu thuẫn ấy.\n\nCác nội dung khác không phù hợp với bối cảnh lịch sử này. Việc phương thức sản xuất tư bản chủ nghĩa chỉ mới xuất hiện thể hiện giai đoạn phôi thai, chưa đủ sức tạo ra những xung đột xã hội sâu sắc. Quan điểm chủ nghĩa tư bản chuyển sang giai đoạn đế quốc chủ nghĩa mô tả một giai đoạn phát triển sau đó của chủ nghĩa tư bản, không phải là bối cảnh khi triết học Mác-Lênin hình thành. Tương tự, nội dung phương thức sản xuất tư bản chủ nghĩa suy yếu thuộc về một giai đoạn lịch sử về sau, khi những mâu thuẫn bên trong của nó đã đạt đến đỉnh điểm và tạo ra những dấu hiệu khủng hoảng."
-        },
-        {
-            "question": 32,
-            "text": "Hãy chỉ ra nguồn gốc lý luận của triết học Mác - Lênin?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Định luật bảo toàn và chuyển hóa năng lượng"
-                },
-                {
-                    "letter": "B",
-                    "text": "Triết học cổ điển Đức, kinh tế chính trị cổ điển Anh, chủ nghĩa xã hội không tưởng của Pháp"
-                },
-                {
-                    "letter": "C",
-                    "text": "Kinh tế chính trị cổ điển Anh, triết học cổ điển Đức, học thuyết tiến hóa"
-                },
-                {
-                    "letter": "D",
-                    "text": "Định luật bảo toàn và chuyển hóa năng lượng, thuyết tiến hóa, kinh tế chính trị cổ điển Anh"
-                }
-            ],
-            "correct_answer": "B",
-            "explanation": "Triết học Mác-Lênin, với tư cách là một hệ thống lý luận hoàn chỉnh, được hình thành trên nền tảng kế thừa và phát triển biện chứng những thành tựu tư tưởng đỉnh cao của nhân loại. Ba dòng chảy tư tưởng chủ yếu hợp thành nguồn gốc lý luận trực tiếp của hệ thống này.\n\nThứ nhất, **Triết học cổ điển Đức**, đặc biệt là di sản của Hegel và Feuerbach, đóng vai trò then chốt. Mác và Engels đã tiếp thu và cải biến phép biện chứng từ Hegel, gạt bỏ yếu tố duy tâm để xây dựng phép biện chứng duy vật. Đồng thời, các ông kế thừa chủ nghĩa duy vật của Feuerbach, khắc phục những hạn chế siêu hình và trừu tượng, từ đó phát triển chủ nghĩa duy vật lịch sử.\n\nThứ hai, **Kinh tế chính trị cổ điển Anh**, với những đại diện xuất sắc như Adam Smith và David Ricardo, cung cấp nền tảng lý luận để Mác phân tích sâu sắc các phạm trù kinh tế cơ bản như giá trị, giá trị thặng dư, và các quy luật vận động của nền kinh tế tư bản chủ nghĩa. Sự phân tích này đã vạch trần bản chất bóc lột của chủ nghĩa tư bản và là cơ sở cho sự ra đời của học thuyết về cách mạng xã hội chủ nghĩa.\n\nThứ ba, **Chủ nghĩa xã hội không tưởng Pháp**, tiêu biểu là Saint-Simon, Fourier, và Owen, tuy còn mang tính chất duy tâm và không tưởng, song đã thể hiện sự phê phán sâu sắc đối với những bất công và mâu thuẫn của xã hội tư bản, đồng thời đề xuất những mô hình xã hội lý tưởng, cung cấp những tiền đề và gợi ý quan trọng cho sự hình thành chủ nghĩa xã hội khoa học.\n\nCác yếu tố khác như Định luật bảo toàn và chuyển hóa năng lượng, thuyết tiến hóa, hay các ngành khoa học kinh tế khác, mặc dù có vai trò quan trọng trong việc cung cấp những tiền đề khoa học cho sự ra đời của triết học Mác-Lênin, đặc biệt là chủ nghĩa duy vật biện chứng, nhưng không cấu thành nguồn gốc lý luận trực tiếp. Chúng thuộc về phạm trù khoa học tự nhiên hoặc các lĩnh vực nghiên cứu cụ thể, không mang tính khái quát và hệ thống như ba dòng chảy tư tưởng kể trên."
-        },
-        {
-            "question": 33,
-            "text": "Hãy chỉ ra tiền đề khoa học tự nhiên cho sự ra đời của triết học Mác - Lênin?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Học thuyết tế bào, thuyết tiến hóa, định luật bảo toàn và chuyển hóa năng lượng"
-                },
-                {
-                    "letter": "B",
-                    "text": "Học thuyết tế bào, thuyết nguyên tử"
-                },
-                {
-                    "letter": "C",
-                    "text": "Định luật bảo toàn và chuyển hóa năng lượng, thuyết nguyên tử"
-                },
-                {
-                    "letter": "D",
-                    "text": "Thuyết tiến hóa, thuyết nguyên tử"
-                }
-            ],
-            "correct_answer": "A",
-            "explanation": "Triết học Mác-Lênin được xây dựng trên nền tảng vững chắc của những khám phá khoa học tự nhiên mang tính đột phá trong thế kỷ XIX. Việc mọi sinh vật đều được cấu tạo từ tế bào, như được chứng minh bởi học thuyết tế bào, đã thống nhất giới hữu cơ, loại bỏ các quan điểm duy tâm về sự sống và tạo ra một cái nhìn duy vật về thế giới sống. Thuyết tiến hóa của Darwin, giải thích sự biến đổi và thích nghi của các loài thông qua chọn lọc tự nhiên, đã bác bỏ các quan điểm siêu hình về nguồn gốc bất biến của sinh vật, cung cấp cơ sở cho quan điểm duy vật biện chứng về sự phát triển không ngừng của thế giới sinh vật. Định luật bảo toàn và chuyển hóa năng lượng, một phát hiện mang tính cách mạng trong vật lý học, đã chứng minh tính thống nhất và mối liên hệ phổ biến giữa vật chất và năng lượng, khẳng định thế giới vật chất luôn vận động và biến đổi. Ba phát kiến này đã thay đổi căn bản cách chúng ta nhìn nhận thế giới tự nhiên và tạo ra cơ sở khoa học cho việc xây dựng thế giới quan duy vật biện chứng và phương pháp luận khoa học của triết học Mác-Lênin.\n\nCác phương án khác không hoàn toàn chính xác do thiếu một hoặc nhiều tiền đề khoa học tự nhiên cốt yếu, hoặc bao gồm các lý thuyết khoa học không đóng vai trò then chốt trong việc đặt nền móng cho sự ra đời của hệ tư tưởng này. Ví dụ, thuyết nguyên tử, dù là một thành tựu quan trọng của khoa học, nhưng không trực tiếp cung cấp những luận cứ mang tính nền tảng cho triết học Mác-Lênin như ba thành tựu kể trên đã làm. Hoặc, việc chỉ tập trung vào một số thuyết mà bỏ qua các phát kiến khác sẽ không phản ánh đầy đủ bức tranh toàn diện về những tiền đề khoa học tự nhiên đã góp phần hình thành triết học Mác-Lênin. Việc thiếu yếu tố quan trọng hoặc đưa vào yếu tố chưa phù hợp làm cho các phương án đó không thể hiện đầy đủ và chính xác các tiền đề khoa học tự nhiên cho sự ra đời của triết học Mác-Lênin."
-        },
-        {
-            "question": 34,
-            "text": "Hãy chỉ ra đặc điểm của triết học Mác - Lênin?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Là sự thống nhất của thế giới quan duy vật và phương pháp luận siêu hình"
-                },
-                {
-                    "letter": "B",
-                    "text": "Là sự thống nhất của thế giới quan duy tâm và phương pháp luận biện chứng"
-                },
-                {
-                    "letter": "C",
-                    "text": "Là sự thống nhất của thế giới quan duy vật và phương pháp luận biện chứng"
-                },
-                {
-                    "letter": "D",
-                    "text": "Là sự thống nhất của thế giới quan duy tâm và phương pháp luận siêu hình"
-                }
-            ],
-            "correct_answer": "C",
-            "explanation": "Triết học Mác-Lênin nổi bật bởi sự kết hợp chặt chẽ giữa thế giới quan duy vật triệt để và phương pháp luận biện chứng khoa học. Thế giới quan duy vật khẳng định tính thứ nhất của vật chất, tính thứ hai của ý thức, thừa nhận vật chất là cơ sở của mọi tồn tại và ý thức chỉ là sự phản ánh thế giới vật chất. Phương pháp luận biện chứng, trái lại, cung cấp công cụ lý luận để nhận thức thế giới trong sự vận động, biến đổi không ngừng, trong mối liên hệ phổ biến và tác động qua lại lẫn nhau. Sự thống nhất này cho phép triết học Mác-Lênin phản ánh hiện thực khách quan một cách toàn diện, sâu sắc và vạch ra những quy luật vận động, phát triển của tự nhiên, xã hội và tư duy.\n\nCác phương án khác không phản ánh đúng bản chất của triết học Mác-Lênin vì:\n\n*   **Sự kết hợp giữa thế giới quan duy vật và phương pháp luận siêu hình:** Phương pháp luận siêu hình xem xét sự vật, hiện tượng một cách cô lập, tĩnh tại, phủ nhận sự vận động và mối liên hệ phổ biến. Điều này mâu thuẫn với nguyên tắc cơ bản của chủ nghĩa duy vật biện chứng, vốn luôn nhấn mạnh sự vận động và biến đổi không ngừng của vật chất. Quan điểm này thường thấy trong tư duy trước Mác, hoặc ở các trường phái duy vật máy móc, tầm thường.\n\n*   **Sự kết hợp giữa thế giới quan duy tâm và phương pháp luận biện chứng:** Thế giới quan duy tâm cho rằng ý thức, tinh thần là cái có trước và quyết định vật chất. Điều này trái ngược hoàn toàn với nền tảng duy vật của triết học Mác-Lênin. Dù phương pháp luận biện chứng có thể được sử dụng để phân tích sự phát triển của ý thức, nhưng không thể chấp nhận quan điểm ý thức là nguồn gốc của tồn tại.\n\n*   **Sự kết hợp giữa thế giới quan duy tâm và phương pháp luận siêu hình:** Đây là một sự kết hợp thiếu nhất quán và không phản ánh bất kỳ hệ thống triết học chính thống nào được thừa nhận rộng rãi. Nó kết hợp những hạn chế của cả hai trường phái: sự đảo ngược vai trò giữa vật chất và ý thức của chủ nghĩa duy tâm, và sự cứng nhắc, phiến diện của phương pháp luận siêu hình."
-        },
-        {
-            "question": 35,
-            "text": "Tìm đáp án đúng nhất về chức năng của triết học Mác - Lênin?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Cung cấp thế giới quan duy vật và phương pháp luận biện chứng"
-                },
-                {
-                    "letter": "B",
-                    "text": "Cung cấp tri thức về tự nhiên cho con người"
-                },
-                {
-                    "letter": "C",
-                    "text": "Cung cấp phương pháp tư duy cho con người"
-                },
-                {
-                    "letter": "D",
-                    "text": "Cung cấp tri thức về xã hội cho con người"
-                }
-            ],
-            "correct_answer": "A",
-            "explanation": "Triết học Mác-Lênin đóng vai trò định hướng căn bản cho nhận thức và hoạt động thực tiễn thông qua việc xây dựng hệ thống quan điểm duy vật về thế giới, đồng thời cung cấp phương pháp luận biện chứng để nghiên cứu và giải quyết vấn đề. Thế giới quan duy vật giúp nhận thức thế giới khách quan tồn tại độc lập với ý thức con người, trong khi phương pháp luận biện chứng trang bị các nguyên tắc, quy luật để phân tích sự vật, hiện tượng trong sự vận động, biến đổi và mối liên hệ phổ quát. Sự thống nhất này tạo ra một công cụ lý luận sắc bén, giúp con người hiểu đúng bản chất thế giới và định hướng hành động hiệu quả.\n\nViệc cung cấp tri thức về tự nhiên hay xã hội thuộc phạm vi nghiên cứu của các khoa học chuyên ngành, không phải là chức năng chủ yếu của triết học Mác-Lênin. Việc cung cấp phương pháp tư duy là chức năng chung của nhiều hệ thống triết học, trong khi triết học Mác-Lênin đặc biệt nhấn mạnh phương pháp luận biện chứng duy vật như một thể thống nhất với thế giới quan duy vật, tạo nên đặc trưng riêng biệt của nó."
-        },
-        {
-            "question": 36,
-            "text": "Quan hệ giữa quy luật của triết học và quy luật của khoa học chuyên ngành thể hiện mối quan hệ của cặp phạm trù nào?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Cái chung và cái riêng"
-                },
-                {
-                    "letter": "B",
-                    "text": "Nguyên nhân và kết quả"
-                },
-                {
-                    "letter": "C",
-                    "text": "Hiện tượng và bản chất"
-                },
-                {
-                    "letter": "D",
-                    "text": "Tất nhiên và ngẫu nhiên"
-                }
-            ],
-            "correct_answer": "A",
-            "explanation": "Mối liên hệ giữa quy luật triết học và quy luật khoa học chuyên ngành là biểu hiện sinh động của mối quan hệ biện chứng giữa tính phổ quát và tính đặc thù. Các quy luật triết học, với tư cách là những nguyên lý nền tảng và khái quát nhất, phản ánh những đặc tính, liên hệ phổ biến, bản chất chung nhất của toàn bộ thế giới hiện thực. Ngược lại, các quy luật khoa học chuyên ngành, với phạm vi nghiên cứu hẹp hơn, tập trung làm sáng tỏ những quy luật vận động cụ thể, đặc thù, mang tính chuyên biệt của từng lĩnh vực, đối tượng riêng lẻ. Do đó, quy luật triết học chính là biểu hiện của tính phổ quát, còn quy luật khoa học chuyên ngành thể hiện tính đặc thù. Tính đặc thù này tồn tại trong tính phổ quát, chịu sự chi phối của tính phổ quát, đồng thời làm phong phú, cụ thể hóa tính phổ quát.\n\nCác cặp phạm trù khác như \"nguyên nhân và kết quả\", \"hiện tượng và bản chất\", \"tất nhiên và ngẫu nhiên\" không phản ánh được đầy đủ và chính xác mối quan hệ bao trùm giữa quy luật triết học và quy luật khoa học chuyên ngành. \"Nguyên nhân và kết quả\" tập trung vào mối quan hệ tác động và sinh thành; \"hiện tượng và bản chất\" nhấn mạnh sự biểu hiện ra bên ngoài và chiều sâu bản chất bên trong của sự vật; \"tất nhiên và ngẫu nhiên\" làm nổi bật tính quy định và tính không quy định trong quá trình vận động. Mặc dù các phạm trù này có vai trò quan trọng trong nhận thức và thực tiễn, song chúng không trực tiếp thể hiện mối quan hệ về phạm vi và mức độ khái quát giữa quy luật triết học và quy luật khoa học chuyên ngành như phạm trù \"cái chung và cái riêng\". Việc sử dụng các cặp phạm trù này có thể phù hợp trong các phân tích khác, nhưng không phù hợp khi xem xét mối quan hệ giữa quy luật triết học và quy luật khoa học chuyên ngành."
-        },
-        {
-            "question": 37,
-            "text": "Điền vào chỗ trống, C. Mác và Ph. Ăngghen viết: \"..., trong quá trình thống trị giai cấp chưa đầy một thế kỷ, đã tạo ra những lực lượng sản xuất nhiều hơn và đồ sộ hơn lực lượng sản xuất của tất cả các thế hệ trước kia gộp lại\"",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Giai cấp nông dân"
-                },
-                {
-                    "letter": "B",
-                    "text": "Giai cấp địa chủ"
-                },
-                {
-                    "letter": "C",
-                    "text": "Giai cấp công nhân"
-                },
-                {
-                    "letter": "D",
-                    "text": "Giai cấp tư sản"
-                }
-            ],
-            "correct_answer": "D",
-            "explanation": "Đoạn trích dẫn này đề cập đến một tập đoàn người mà trong một thời gian ngắn đã có thể tạo ra những biến đổi to lớn về kinh tế và kỹ thuật. Tập đoàn người phù hợp nhất với mô tả này là tập đoàn người nắm giữ các nguồn lực sản xuất chính trong hệ thống tư bản chủ nghĩa, sử dụng lao động làm thuê để sinh lời và liên tục tìm cách cải tiến quy trình sản xuất.\n\nCác tập đoàn người khác không phù hợp vì những lý do sau:\n\n*   Tập đoàn người sống chủ yếu bằng nghề nông thường gắn liền với các phương pháp canh tác truyền thống, năng suất thấp và ít có khả năng tạo ra những thay đổi lớn trong sản xuất.\n*   Tập đoàn người sở hữu đất đai đại diện cho hệ thống phong kiến, dựa trên việc thu tô và duy trì các quan hệ sản xuất cũ.\n*   Tập đoàn người làm công ăn lương, mặc dù là lực lượng lao động chính trong xã hội tư bản, nhưng không sở hữu hoặc kiểm soát các công cụ sản xuất, vì vậy không phải là chủ thể được nhắc đến trong đoạn trích dẫn về việc tạo ra những lực lượng sản xuất to lớn."
-        },
-        {
-            "question": 38,
-            "text": "Trong lịch sử hình thành và phát triển của triết học Mác - Lênin, giai đoạn (1841-1844) có đặc điểm gì?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Là thời kỳ hình thành tư tưởng triết học với bước quá độ từ chủ nghĩa duy tâm và dân chủ cách mạng sang chủ nghĩa duy vật và chủ nghĩa cộng sản"
-                },
-                {
-                    "letter": "B",
-                    "text": "Là thời kỳ đề xuất những nguyên lý triết học"
-                },
-                {
-                    "letter": "C",
-                    "text": "Là thời kỳ bổ sung và phát triển toàn diện lý luận triết học"
-                },
-                {
-                    "letter": "D",
-                    "text": "Là thời kỳ đề xuất và bổ sung, phát triển toàn diện lý luận triết học"
-                }
-            ],
-            "correct_answer": "A",
-            "explanation": "Giai đoạn 1841-1844 là thời điểm then chốt trong quá trình chuyển biến tư tưởng của Mác và Ăngghen. Trong giai đoạn này, các ông đã từng bước đoạn tuyệt với ảnh hưởng của triết học duy tâm Hegel và những quan điểm dân chủ cách mạng còn mang tính chủ quan, duy tâm. Thay vào đó, Mác và Ăngghen bắt đầu nghiên cứu sâu sắc các trào lưu triết học duy vật, đặc biệt là chủ nghĩa duy vật của Feuerbach, đồng thời tiếp cận các vấn đề kinh tế - chính trị - xã hội từ lập trường của giai cấp vô sản, hình thành những tư tưởng sơ khai về chủ nghĩa cộng sản khoa học. Chính sự chuyển biến này đã đặt nền móng cho việc xây dựng hệ thống triết học duy vật biện chứng và duy vật lịch sử sau này.\n\nCác nội dung khác không phản ánh chính xác đặc điểm của giai đoạn này. Việc \"đề xuất những nguyên lý triết học\" là một quá trình chung, diễn ra trong nhiều giai đoạn, không đặc trưng cho sự chuyển biến tư tưởng cụ thể của Mác và Ăngghen trong những năm 1841-1844. Còn việc \"bổ sung và phát triển toàn diện lý luận triết học\" là đặc điểm của các giai đoạn sau, khi triết học Mác-Lênin đã được hình thành cơ bản và được các nhà tư tưởng kế thừa, phát triển trong những điều kiện lịch sử mới."
-        },
-        {
-            "question": 39,
-            "text": "Trong lịch sử hình thành và phát triển của triết học Mác - Lênin, giai đoạn (1844-1847) có đặc điểm gì?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Là thời kỳ hình thành tư tưởng triết học"
-                },
-                {
-                    "letter": "B",
-                    "text": "Là thời kỳ đề xuất những nguyên lý triết học duy vật biện chứng và duy vật lịch sử"
-                },
-                {
-                    "letter": "C",
-                    "text": "Là thời kỳ bổ sung và phát triển toàn diện lý luận triết học"
-                },
-                {
-                    "letter": "D",
-                    "text": "Là thời kỳ hình thành tư tưởng với bước quá độ từ chủ nghĩa duy vật sang chủ nghĩa duy tâm"
-                }
-            ],
-            "correct_answer": "B",
-            "explanation": "Giai đoạn 1844-1847 là giai đoạn bản lề, trong đó Mác và Ăngghen, bằng việc phê phán và kế thừa có chọn lọc các trào lưu triết học trước đó, đã đặt nền móng cho triết học Mác với hai bộ phận cấu thành là duy vật biện chứng và duy vật lịch sử. Đây là thời điểm ra đời những luận điểm cơ bản, mang tính khai phá, tạo nên sự khác biệt căn bản của triết học Mác so với các hệ thống triết học trước đó.\n\nCác phát biểu khác không chính xác vì:\n\n*   Việc cho rằng đây là \"thời kỳ hình thành tư tưởng triết học\" là một nhận định quá rộng, không phản ánh được tính đặc thù của giai đoạn này. Tư tưởng triết học đã xuất hiện từ rất sớm trong lịch sử, nhưng chỉ đến giai đoạn này, những nguyên lý cốt lõi của triết học duy vật biện chứng và duy vật lịch sử mới được hình thành một cách rõ nét.\n*   Mô tả đây là \"thời kỳ bổ sung và phát triển toàn diện lý luận triết học\" phù hợp hơn với giai đoạn sau đó, đặc biệt là thời kỳ Lênin phát triển triết học Mác trong điều kiện lịch sử mới.\n*   Nhận định \"thời kỳ hình thành tư tưởng với bước quá độ từ chủ nghĩa duy vật sang chủ nghĩa duy tâm\" là hoàn toàn trái ngược với bản chất của triết học Mác. Ngay từ khi ra đời, triết học Mác đã kiên định lập trường duy vật, phê phán chủ nghĩa duy tâm dưới mọi hình thức."
-        },
-        {
-            "question": 40,
-            "text": "Trong lịch sử hình thành và phát triển của triết học Mác - Lênin, giai đoạn (1848-1895) có đặc điểm gì?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Là thời kỳ đề xuất những nguyên lý triết học"
-                },
-                {
-                    "letter": "B",
-                    "text": "Là thời kỳ chuyển từ chủ nghĩa duy vật sang chủ nghĩa duy tâm"
-                },
-                {
-                    "letter": "C",
-                    "text": "Là thời kỳ bổ sung và phát triển toàn diện lý luận triết học"
-                },
-                {
-                    "letter": "D",
-                    "text": "Là thời kỳ chuyển từ chủ nghĩa duy vật sang chủ nghĩa duy tâm và phát triển toàn diện lý luận triết học"
-                }
-            ],
-            "correct_answer": "C",
-            "explanation": "Giai đoạn từ 1848 đến 1895, trong tiến trình phát triển triết học Mác - Lênin, được đánh dấu bằng sự tập trung cao độ vào việc hệ thống hóa, hoàn thiện và phát triển sâu rộng những nguyên lý cơ bản đã được đặt nền móng trước đó. Trong giai đoạn này, Mác và Ăngghen tiến hành vận dụng một cách triệt để các nguyên lý triết học vào việc phân tích, lý giải những biến động xã hội to lớn, đặc biệt là các cuộc cách mạng 1848-1849, sự phát triển mạnh mẽ của chủ nghĩa tư bản và sự trỗi dậy của phong trào công nhân. Sự kiểm nghiệm và vận dụng này đã dẫn đến việc bổ sung những luận điểm mới, làm phong phú và sâu sắc hơn nội dung của chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử, tạo thành một hệ thống lý luận chặt chẽ và toàn diện.\n\nCác nhận định khác không chính xác vì những lý do sau:\n\n*   Việc đề xuất các nguyên lý triết học cơ bản thuộc về giai đoạn trước năm 1848, giai đoạn hình thành và phát triển ban đầu tư tưởng của Mác và Ăngghen, gắn liền với quá trình phê phán các trào lưu triết học đương thời.\n*   Không có bất kỳ giai đoạn nào trong lịch sử triết học Mác - Lênin chứng kiến sự chuyển đổi từ chủ nghĩa duy vật sang chủ nghĩa duy tâm. Bản chất của triết học Mác - Lênin là chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử, luôn kiên định lập trường duy vật trong việc giải thích thế giới.\n*   Sự kết hợp giữa \"chuyển từ chủ nghĩa duy vật sang chủ nghĩa duy tâm\" và \"phát triển toàn diện lý luận triết học\" là một điều phi lý. Bởi lẽ, một hệ thống triết học không thể đồng thời phản bội những nguyên tắc nền tảng của mình và phát triển một cách toàn diện."
-        },
-        {
-            "question": 41,
-            "text": "Trong lịch sử hình thành, phát triển của triết học Mác - Lênin, thời kỳ nào đánh dấu sự hình thành tư tưởng triết học với bước quá độ từ chủ nghĩa duy tâm và dân chủ cách mạng sang chủ nghĩa duy vật và chủ nghĩa cộng sản?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Giai đoạn (1841 - 1844)"
-                },
-                {
-                    "letter": "B",
-                    "text": "Giai đoạn (1844 - 1847)"
-                },
-                {
-                    "letter": "C",
-                    "text": "Giai đoạn (1848 - 1895)"
-                },
-                {
-                    "letter": "D",
-                    "text": "Giai đoạn (1841 - 1847)"
-                }
-            ],
-            "correct_answer": "A",
-            "explanation": "Giai đoạn từ năm 1841 đến 1844 là thời kỳ có ý nghĩa quyết định trong sự hình thành triết học Mác. Đây là giai đoạn chứng kiến sự phê phán mạnh mẽ triết học Hegel, một sự đoạn tuyệt với chủ nghĩa duy tâm và những ảo tưởng về dân chủ cách mạng. Đồng thời, giai đoạn này cũng đánh dấu sự tiếp thu những yếu tố duy vật từ triết học Feuerbach và những nỗ lực đầu tiên trong việc xây dựng các nguyên lý của chủ nghĩa duy vật lịch sử, đặt nền móng cho sự ra đời của triết học Mác sau này. Có thể nói, đây là giai đoạn bản lề, thể hiện sự chuyển mình căn bản trong thế giới quan của Mác và Engels.\n\nCác khoảng thời gian khác không thể hiện chính xác bước ngoặt mang tính quyết định này. Giai đoạn 1844-1847 là thời kỳ mà các luận điểm triết học, kinh tế chính trị và chủ nghĩa xã hội khoa học của Mác và Engels được phát triển và hoàn thiện thêm, sau khi những nguyên tắc cơ bản đã được xác lập trong giai đoạn trước. Thời kỳ 1848-1895 là giai đoạn Mác và Engels tập trung vào việc tổng kết kinh nghiệm thực tiễn cách mạng, bổ sung và phát triển một cách toàn diện các bộ phận cấu thành chủ nghĩa Mác, đặc biệt là sau thất bại của Công xã Paris. Cuối cùng, khoảng thời gian 1841-1847 bao gồm cả giai đoạn hình thành ban đầu (1841-1844) và giai đoạn phát triển tiếp theo (1844-1847), do đó không làm nổi bật được điểm then chốt của sự chuyển biến về chất trong tư tưởng của Mác và Engels."
-        },
-        {
-            "question": 42,
-            "text": "Trong lịch sử hình thành và phát triển của triết học Mác - Lênin, thời kỳ nào đánh dấu sự bổ sung, phát triển toàn diện lý luận triết học Mác - Lênin?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Giai đoạn (1841 - 1844);"
-                },
-                {
-                    "letter": "B",
-                    "text": "Giai đoạn (1844 - 1847)"
-                },
-                {
-                    "letter": "C",
-                    "text": "Giai đoạn (1848 - 1895)"
-                },
-                {
-                    "letter": "D",
-                    "text": "Giai đoạn (1841 - 1847)"
-                }
-            ],
-            "correct_answer": "C",
-            "explanation": "Giai đoạn từ năm 1848 đến năm 1895 là thời kỳ triết học Mác được bổ sung và phát triển toàn diện. Trong giai đoạn này, những nguyên lý cơ bản đã được xác lập trước đó được hệ thống hóa, cụ thể hóa và vận dụng vào phân tích những vấn đề kinh tế - xã hội đương thời, đặc biệt là sự phát triển của chủ nghĩa tư bản. Sau khi Mác qua đời, Ăng-ghen đã tiếp tục sự nghiệp của Mác, hoàn thiện và truyền bá rộng rãi những tư tưởng triết học Mác.\n\nCác mốc thời gian khác không chính xác vì:\n\n*   Giai đoạn từ năm 1841 đến năm 1844 là thời kỳ Mác và Ăng-ghen bắt đầu hình thành tư tưởng triết học, chủ yếu thông qua việc phê phán triết học Hegel và các nhà triết học Hậu Hegel. Đây là giai đoạn chuyển biến về thế giới quan, chưa phải giai đoạn phát triển có hệ thống.\n*   Giai đoạn từ năm 1844 đến năm 1847 là thời kỳ Mác và Ăng-ghen chuyển từ chủ nghĩa duy tâm sang chủ nghĩa duy vật, đồng thời xây dựng những nguyên lý cơ bản của chủ nghĩa duy vật lịch sử. Tuy nhiên, những nguyên lý này còn ở dạng sơ khai và cần được phát triển thêm. Giai đoạn này đánh dấu sự hình thành những yếu tố cốt lõi, nhưng chưa đạt đến sự phát triển toàn diện như giai đoạn sau.\n*   Tương tự, giai đoạn từ năm 1841 đến năm 1847 bao gồm cả hai giai đoạn vừa nêu, do đó cũng không phản ánh đầy đủ quá trình bổ sung và phát triển toàn diện của triết học Mác."
-        },
-        {
-            "question": 43,
-            "text": "Trong lịch sử hình thành và phát triển của triết học Mác- Lênin, thời kỳ nào đề xuất những nguyên lý triết học duy vật biện chứng và duy vật lịch sử?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Giai đoạn (1841 - 1844)"
-                },
-                {
-                    "letter": "B",
-                    "text": "Giai đoạn (1844 - 1847)"
-                },
-                {
-                    "letter": "C",
-                    "text": "Giai đoạn (1848 - 1895)"
-                },
-                {
-                    "letter": "D",
-                    "text": "Giai đoạn những năm đầu thế kỷ XX"
-                }
-            ],
-            "correct_answer": "B",
-            "explanation": "Giai đoạn từ năm 1844 đến năm 1847 là thời kỳ có tính bước ngoặt, trong đó Mác và Ăng-ghen đã chuyển từ lập trường triết học trước đó sang xây dựng các nguyên lý cơ bản của triết học duy vật biện chứng và duy vật lịch sử. Trong giai đoạn này, các tác phẩm như \"Bản thảo kinh tế - triết học năm 1844\", \"Gia đình thần thánh\", và \"Hệ tư tưởng Đức\" đã hình thành những yếu tố cốt lõi của phương pháp biện chứng duy vật và quan điểm duy vật về lịch sử, đánh dấu sự đoạn tuyệt với triết học duy tâm của Hê-ghen và chủ nghĩa duy vật siêu hình của Feuerbach.\n\nCác mốc thời gian khác không phản ánh đúng quá trình này vì: giai đoạn từ 1841 đến 1844 là thời kỳ Mác và Ăng-ghen vẫn còn chịu ảnh hưởng của triết học Hê-ghen và Feuerbach; giai đoạn từ 1848 đến 1895 là giai đoạn triết học Mác đã được hệ thống hóa và phát triển sâu rộng hơn, đặc biệt là bởi Ăng-ghen sau khi Mác mất; còn giai đoạn những năm đầu thế kỷ XX liên quan đến sự phát triển của chủ nghĩa Mác trong bối cảnh chủ nghĩa đế quốc và các cuộc cách mạng vô sản, gắn liền với tên tuổi của Lênin."
-        },
-        {
-            "question": 44,
-            "text": "Trong giai đoạn V.I.Lênin phát triển triết học Mác, thời kỳ 1893 - 1907 có đặc điểm gì?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Thời kỳ V.I.Lênin bảo vệ và phát triển triết học Mác nhằm thành lập đảng Mác - xít ở Nga và chuẩn bị cho cuộc cách mạng dân chủ tư sản lần thứ nhất"
-                },
-                {
-                    "letter": "B",
-                    "text": "Thời kỳ V.I.Lênin phát triển toàn diện triết học Mác và lãnh đạo phong trào công nhân Nga"
-                },
-                {
-                    "letter": "C",
-                    "text": "Thời kỳ hoàn thiện triết học Mác, gắn liền với việc nghiên cứu các vấn đề xây dựng chủ nghĩa xã hội"
-                },
-                {
-                    "letter": "D",
-                    "text": "Thời kỳ tổng kết thành tựu của cách mạng tháng Mười"
-                }
-            ],
-            "correct_answer": "A",
-            "explanation": "Trong giai đoạn từ năm 1893 đến 1907, trọng tâm hoạt động của V.I.Lênin là kiên định bảo vệ và phát triển các nguyên lý cơ bản của triết học Mác. Bối cảnh lịch sử lúc bấy giờ đặt ra yêu cầu cấp thiết phải đấu tranh chống lại các trào lưu tư tưởng cơ hội chủ nghĩa, xét lại, diễn giải sai lệch học thuyết Mác. Đồng thời, Lênin vận dụng sáng tạo triết học Mác vào điều kiện cụ thể của nước Nga, phát triển nhiều luận điểm mới làm cơ sở lý luận cho việc thành lập một chính đảng vô sản kiểu mới. Mục tiêu then chốt là xây dựng đảng Mác-xít vững mạnh, tập hợp lực lượng cách mạng, đặc biệt là giai cấp công nhân, để chuẩn bị cho cuộc cách mạng dân chủ tư sản lần thứ nhất ở Nga.\n\nCác nhận định khác không phản ánh chính xác đặc điểm giai đoạn này vì:\n\n*   Quan điểm cho rằng V.I.Lênin phát triển *toàn diện* triết học Mác và lãnh đạo phong trào công nhân Nga là đặc trưng của giai đoạn sau đó (1907-1917), khi đảng Bolshevik đã lớn mạnh và giữ vai trò lãnh đạo quần chúng đấu tranh cho các mục tiêu chính trị cụ thể.\n*   Luận điểm về sự hoàn thiện triết học Mác gắn liền với nghiên cứu xây dựng chủ nghĩa xã hội thuộc về giai đoạn sau Cách mạng Tháng Mười (1917-1924), khi Lênin và đảng Bolshevik phải giải quyết những vấn đề thực tiễn của công cuộc xây dựng một xã hội mới.\n*   Việc tổng kết thành tựu Cách mạng Tháng Mười là một quá trình liên tục và lâu dài sau năm 1917, không phải là đặc điểm riêng của giai đoạn 1893-1907."
-        },
-        {
-            "question": 45,
-            "text": "Trong giai đoạn V.I.Lênin phát triển triết học Mác, thời kỳ 1907-1917 có đặc điểm gì?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Thời kỳ V.I.Lênin bảo vệ và phát triển triết học Mác"
-                },
-                {
-                    "letter": "B",
-                    "text": "Thời kỳ phát triển oàn diện triết học Mác và lãnh đạo phong trào công gnhana Nga, chuẩn bị cho cách mạng xã hội chủ nghĩa"
-                },
-                {
-                    "letter": "C",
-                    "text": "Thời kỳ hoàn thiện triết học Mác, gắn liền với việc nghiên cứu các vấn đề xây dựng chủ nghĩa xã hội."
-                },
-                {
-                    "letter": "D",
-                    "text": "Thời kỳ tổng kết thành tựu của cách mạng tháng Mười"
-                }
-            ],
-            "correct_answer": "B",
-            "explanation": "Trong giai đoạn từ 1907 đến 1917, V.I. Lênin đã có những đóng góp mang tính then chốt vào sự phát triển của triết học Mác. Đây là giai đoạn Lênin tập trung phát triển một cách toàn diện các nguyên lý, phạm trù cơ bản của chủ nghĩa Mác, đồng thời vận dụng sáng tạo những nguyên lý đó vào điều kiện cụ thể của nước Nga. Không chỉ dừng lại ở phương diện lý luận, Lênin còn lãnh đạo trực tiếp phong trào công nhân Nga, biến những nguyên lý của chủ nghĩa Mác thành kim chỉ nam cho hành động cách mạng, chuẩn bị những điều kiện cần thiết cho cuộc cách mạng xã hội chủ nghĩa.\n\nCác nhận định khác không phản ánh đúng đặc điểm của giai đoạn này. Việc bảo vệ và phát triển triết học Mác của V.I. Lênin diễn ra mạnh mẽ nhất vào thời kỳ trước năm 1907, khi chủ nghĩa Mác bị công kích và xuyên tạc. Quá trình hoàn thiện triết học Mác, đặc biệt là gắn liền với việc nghiên cứu các vấn đề xây dựng chủ nghĩa xã hội, là nhiệm vụ chủ yếu sau năm 1917, khi Cách mạng Tháng Mười Nga đã thành công và đặt ra những yêu cầu mới về lý luận và thực tiễn. Tương tự, việc tổng kết các thành tựu của Cách mạng Tháng Mười cũng là một quá trình được thực hiện sau khi cuộc cách mạng này đã diễn ra và chứng minh được những thành quả của mình."
-        },
-        {
-            "question": 46,
-            "text": "Trong giai đoạn V.I.Lênin phát triển triết học Mác, thời kỳ 1917-1924 có đặc điểm gì?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Thời kỳ V.I.Lênin bảo vệ triết học Mác và chuẩn bị cho cách mạng tháng Mười"
-                },
-                {
-                    "letter": "B",
-                    "text": "Thời kỳ phát triển triết học Mác và lãnh đạo Cách mạng tháng Mười"
-                },
-                {
-                    "letter": "C",
-                    "text": "Thời kỳ tổng kết kinh nghiệm thực tiễn cách mạng, bổ sung, hoàn thiện triết học Mác, gắn liền với nghiên cứu các vấn đề xây dựng chủ nghĩa xã hội"
-                },
-                {
-                    "letter": "D",
-                    "text": "Thời kỳ chuyển từ lập trường chủ nghĩa duy vật sang chủ nghĩa duy tâm"
-                }
-            ],
-            "correct_answer": "C",
-            "explanation": "Giai đoạn từ năm 1917 đến 1924 trong sự nghiệp phát triển triết học Mác của V.I.Lênin được đặc trưng bởi việc tổng kết sâu sắc những kinh nghiệm thực tiễn từ cuộc cách mạng vô sản thành công ở Nga và những nỗ lực ban đầu trong việc kiến thiết xã hội mới. Trong giai đoạn này, Lênin đã vận dụng một cách sáng tạo các nguyên tắc cốt lõi của chủ nghĩa Mác vào bối cảnh lịch sử cụ thể của nước Nga, đồng thời làm phong phú và hoàn thiện triết học Mác dựa trên những kinh nghiệm thực tiễn đó. Các vấn đề lý luận trọng yếu như chuyên chính vô sản, bản chất và vai trò của nhà nước xã hội chủ nghĩa, các quy luật vận động đặc thù của thời kỳ quá độ lên chủ nghĩa xã hội... đã được Lênin nghiên cứu một cách hệ thống và làm sáng tỏ, từ đó cung cấp những định hướng lý luận cho công cuộc xây dựng chủ nghĩa xã hội ở nước Nga Xô viết.\n\nCác nội dung khác không mô tả chính xác giai đoạn lịch sử này. Một nội dung khác gắn với giai đoạn từ năm 1893 đến 1907, thời kỳ Lênin tập trung bảo vệ các nguyên tắc cơ bản của triết học Mác trước sự phê phán và xuyên tạc, đồng thời chuẩn bị về mặt lý luận và tổ chức cho một cuộc cách mạng. Một nội dung khác phản ánh giai đoạn từ năm 1907 đến 1917, giai đoạn chứng kiến sự phát triển mạnh mẽ của triết học Mác trong bối cảnh cách mạng Nga đang diễn ra, với đỉnh cao là việc Lênin vận dụng lý luận Mác-xít để lãnh đạo cuộc Cách mạng Tháng Mười thành công. Hoàn toàn không có bất kỳ giai đoạn nào mà Lênin từ bỏ lập trường duy vật biện chứng và duy vật lịch sử để chuyển sang chủ nghĩa duy tâm; ông luôn kiên định với thế giới quan và phương pháp luận khoa học của chủ nghĩa Mác."
-        },
-        {
-            "question": 47,
-            "text": "Thời kỳ V.I.Lênin bảo vệ và phát triển triết học Mác-Lênin nhằm thành lập đảng Mác – xít ở Nga và chuẩn bị cho cuộc cách mạng dân chủ tư sản lần thứ nhất diễn ra vào thời gian nào?",
-            "options": [
-                {
-                    "letter": "A",
-                    "text": "Giai đoạn (1893-1907)"
-                },
-                {
-                    "letter": "B",
-                    "text": "Giai đoạn (1907-1917)"
-                },
-                {
-                    "letter": "C",
-                    "text": "Giai đoạn (1917-1924)"
-                },
-                {
-                    "letter": "D",
-                    "text": "Giai đoạn sau chiến tranh thế giới thứ I"
-                }
-            ],
-            "correct_answer": "A",
-            "explanation": "Giai đoạn 1893-1907 đánh dấu thời kỳ Lênin dồn tâm huyết vào việc nghiên cứu, hệ thống hóa và phát triển triết học Mác. Mục tiêu chính của hoạt động này là xây dựng nền tảng lý luận vững chắc cho sự ra đời của một chính đảng vô sản kiểu mới tại Nga. Trong bối cảnh đó, Lênin tiến hành cuộc đấu tranh không khoan nhượng chống lại các khuynh hướng tư tưởng cơ hội chủ nghĩa và xét lại chủ nghĩa Mác, đồng thời giải quyết các vấn đề lý luận và thực tiễn nảy sinh từ phong trào công nhân Nga. Nỗ lực này đóng vai trò then chốt trong việc chuẩn bị về tư tưởng, chính trị và tổ chức cho cuộc cách mạng dân chủ tư sản lần thứ nhất (1905-1907) tại Nga.\n\nCác mốc thời gian khác không tương ứng với giai đoạn Lênin tập trung vào việc xây dựng nền móng lý luận cho phong trào Mác-xít ở Nga. Cụ thể, giai đoạn 1907-1917 tập trung vào việc chuẩn bị cho cuộc cách mạng xã hội chủ nghĩa. Giai đoạn 1917-1924 là thời kỳ Lênin lãnh đạo công cuộc xây dựng và bảo vệ nhà nước xã hội chủ nghĩa sau Cách mạng Tháng Mười. Giai đoạn sau Chiến tranh thế giới thứ nhất, dù chứng kiến sự phát triển của phong trào cộng sản quốc tế, không phải là giai đoạn Lênin trực tiếp xây dựng nền móng cho phong trào Mác-xít ở Nga thông qua việc bảo vệ và phát triển triết học Mác."
+          "id": "D",
+          "content": "Thế kỷ thứ VIII- VI sau Công nguyên"
         }
-    ]
+      ],
+      "answer": "A",
+      "explain": "Theo Giáo trình Triết học Mác-Lênin, triết học ra đời vào khoảng từ thế kỷ VIII đến thế kỷ VI trước Công nguyên tại các trung tâm văn minh lớn của nhân loại thời Cổ đại."
+    },
+    {
+      "id": 2,
+      "question": "Triết học ra đời sớm nhất ở đâu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Trung Quốc, Ấn Độ, Nga"
+        },
+        {
+          "id": "B",
+          "content": "Ấn Độ, Trung Quốc, Hy Lạp \\- La Mã"
+        },
+        {
+          "id": "C",
+          "content": "Hy Lạp \\- La Mã, Ấn Độ, Nga"
+        },
+        {
+          "id": "D",
+          "content": "Trung Quốc, Hy Lạp, Ai Cập"
+        }
+      ],
+      "answer": "B",
+      "explain": "Triết học ra đời sớm nhất ở phương Đông (Ấn Độ, Trung Quốc) và phương Tây (Hy Lạp - La Mã)."
+    },
+    {
+      "id": 3,
+      "question": "Chọn đáp án đúng nhất, triết học là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Là tri thức về giới tự nhiên"
+        },
+        {
+          "id": "B",
+          "content": "Là tri thức về xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Là tri thức về tư duy con người"
+        },
+        {
+          "id": "D",
+          "content": "Là hệ thống tri thức lý luận chung nhất của con người về thế giới và vị trí của con người trong thế giới ấy."
+        }
+      ],
+      "answer": "D",
+      "explain": "Triết học là hệ thống tri thức lý luận chung nhất của con người về thế giới và vị trí của con người trong thế giới đó."
+    },
+    {
+      "id": 4,
+      "question": "Chọn đáp án đúng nhất, triết học ra đời trong điều kiện nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chưa có sự phân chia giai cấp"
+        },
+        {
+          "id": "B",
+          "content": "Nhận thức của con người mới đạt ở trình độ cảm tính"
+        },
+        {
+          "id": "C",
+          "content": "Chưa có sự phân công lao động"
+        },
+        {
+          "id": "D",
+          "content": "Khi tư duy của con người đạt trình độ trừu tượng, khái quát hóa cao và xuất hiện tầng lớp lao động trí óc có khả năng hệ thống tri thức của con người."
+        }
+      ],
+      "answer": "D",
+      "explain": "Triết học ra đời khi có hai điều kiện: tư duy của con người đạt trình độ trừu tượng hóa, khái quát hóa cao và xã hội có sự phân chia lao động chân tay và lao động trí óc."
+    },
+    {
+      "id": 5,
+      "question": "“Triết học tự nhiên” là thuật ngữ dùng để chỉ đặc trưng của triết học ở thời kỳ nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Thời kỳ Cổ đại"
+        },
+        {
+          "id": "B",
+          "content": "Thời kỳ Trung cổ"
+        },
+        {
+          "id": "C",
+          "content": "Thời kỳ Phục hưng"
+        },
+        {
+          "id": "D",
+          "content": "Triết học Mác – Lênin vào nửa cuối thế kỷ XIX, đầu thế kỷ XX"
+        }
+      ],
+      "answer": "A",
+      "explain": "Thời kỳ Cổ đại, triết học bao gồm mọi tri thức của nhân loại, nên được gọi là 'Triết học tự nhiên' hay 'Khoa học của mọi khoa học'."
+    },
+    {
+      "id": 6,
+      "question": "“Triết học Kinh viện” là thuật ngữ dùng để chỉ đặc điểm của triết học ở thời kỳ nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Thời kỳ Cổ đại"
+        },
+        {
+          "id": "B",
+          "content": "Thời kỳ Trung cổ"
+        },
+        {
+          "id": "C",
+          "content": "Thời kỳ Phục hưng"
+        },
+        {
+          "id": "D",
+          "content": "Triết học Mác – Lênin vào nửa cuối thế kỷ XIX, đầu thế kỷ XX"
+        }
+      ],
+      "answer": "B",
+      "explain": "Thời kỳ Trung cổ (thế kỷ V-XIV) ở Tây Âu, triết học bị chi phối bởi thần học Kitô giáo, mang tính chất Kinh viện, xa rời thực tế."
+    },
+    {
+      "id": 7,
+      "question": "“Vấn đề cơ bản lớn của mọi triết học, đặc biệt là của triết học hiện đại, là vấn đề quan hệ giữa tư duy và tồn tại” là câu nói của nhà triết học nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "C.Mác"
+        },
+        {
+          "id": "B",
+          "content": "Ph.Ăngghen"
+        },
+        {
+          "id": "C",
+          "content": "V.I.Lênin"
+        },
+        {
+          "id": "D",
+          "content": "Hêghel"
+        }
+      ],
+      "answer": "B",
+      "explain": "Ph.Ăngghen đã định nghĩa: 'Vấn đề cơ bản lớn của mọi triết học, đặc biệt là của triết học hiện đại, là vấn đề quan hệ giữa tư duy và tồn tại'."
+    },
+    {
+      "id": 8,
+      "question": "Bắt đầu đến thời kỳ nào triết học không còn được coi là “Khoa học của mọi khoa học”?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Thời Cổ đại"
+        },
+        {
+          "id": "B",
+          "content": "Thời Phục hưng"
+        },
+        {
+          "id": "C",
+          "content": "Thời Trung cổ"
+        },
+        {
+          "id": "D",
+          "content": "Thời kỳ sơ khai"
+        }
+      ],
+      "answer": "B",
+      "explain": "Đến thời kỳ Phục hưng và Cận đại, các bộ môn khoa học chuyên ngành dần tách ra khỏi triết học, chấm dứt quan niệm triết học là 'Khoa học của mọi khoa học'."
+    },
+    {
+      "id": 9,
+      "question": "Phủ nhận sự tồn tại khách quan của hiện thực và coi cảm giác là tồn tại duy nhất thuộc nội dung của trường phái triết học nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chủ nghĩa duy tâm chủ quan"
+        },
+        {
+          "id": "B",
+          "content": "Chủ nghĩa duy tâm khách quan"
+        },
+        {
+          "id": "C",
+          "content": "Chủ nghĩa duy vật siêu hình"
+        },
+        {
+          "id": "D",
+          "content": "Chủ nghĩa duy vật biện chứng"
+        }
+      ],
+      "answer": "A",
+      "explain": "Chủ nghĩa duy tâm chủ quan phủ nhận sự tồn tại khách quan của hiện thực, coi sự vật là phức hợp của các cảm giác."
+    },
+    {
+      "id": 10,
+      "question": "Thừa nhận tính thứ nhất của ý thức và coi đó là thứ tinh thần khách quan có trước, tồn tại độc lập với con người là nội dung của:m,",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chủ nghĩa duy tâm chủ quan"
+        },
+        {
+          "id": "B",
+          "content": "Chủ nghĩa duy tâm khách quan"
+        },
+        {
+          "id": "C",
+          "content": "Chủ nghĩa duy vật siêu hình"
+        },
+        {
+          "id": "D",
+          "content": "Chủ nghĩa duy vật biện chứng"
+        }
+      ],
+      "answer": "B",
+      "explain": "Chủ nghĩa duy tâm khách quan thừa nhận tính thứ nhất của ý thức nhưng đó là thứ tinh thần khách quan (Ý niệm tuyệt đối, Tinh thần thế giới) có trước và tồn tại độc lập với con người."
+    },
+    {
+      "id": 11,
+      "question": "Trường phái triết học nào mang nặng tính trực quan, ngây thơ, chất phác:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chủ nghĩa duy vật thời Cổ đại"
+        },
+        {
+          "id": "B",
+          "content": "Chủ nghĩa duy vật siêu hình thế kỷ XVII, XVIII"
+        },
+        {
+          "id": "C",
+          "content": "Chủ nghĩa duy vật biện chứng"
+        },
+        {
+          "id": "D",
+          "content": "Chủ nghĩa duy tâm khách quangyjnb"
+        }
+      ],
+      "answer": "A",
+      "explain": "Chủ nghĩa duy vật thời Cổ đại mang tính trực quan, cảm tính, ngây thơ, chất phác, đồng nhất vật chất với vật thể cụ thể."
+    },
+    {
+      "id": 12,
+      "question": "Đồng nhất vật chất với một hay một số chất cụ thể của vật chất là đặc điểm của:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chủ nghĩa duy vật thời Cổ đại"
+        },
+        {
+          "id": "B",
+          "content": "Chủ nghĩa duy vật siêu hình thế kỷ XVII, XVIII"
+        },
+        {
+          "id": "C",
+          "content": "Chủ nghĩa duy vật của triết học Cổ điển Đức"
+        },
+        {
+          "id": "D",
+          "content": "Chủ nghĩa duy vật biện chứng"
+        }
+      ],
+      "answer": "A",
+      "explain": "Đặc điểm của Chủ nghĩa duy vật thời Cổ đại là đồng nhất vật chất với một hay một số chất cụ thể (nước, lửa, không khí...)."
+    },
+    {
+      "id": 13,
+      "question": "Xem vật chất và ý thức là hai bản nguyên, quyết định sự vận động của thế giới là quan điểm của:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chủ nghĩa duy vật siêu hình"
+        },
+        {
+          "id": "B",
+          "content": "Chủ nghĩa duy tâm"
+        },
+        {
+          "id": "C",
+          "content": "Thuyết nhị nguyên"
+        },
+        {
+          "id": "D",
+          "content": ""
+        },
+        {
+          "id": "5",
+          "content": "Chủ nghĩa duy vật biện chứng"
+        }
+      ],
+      "answer": "C",
+      "explain": "Thuyết nhị nguyên xem vật chất và ý thức là hai bản nguyên song song tồn tại, cùng quyết định sự vận động của thế giới."
+    },
+    {
+      "id": 14,
+      "question": "Mặt thứ hai trong “Vấn đề cơ bản của triết học” là?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Con người có khả năng nhận thức được thế giới không?"
+        },
+        {
+          "id": "B",
+          "content": "Nguồn gốc của thế giới là vật chất hay ý thức?"
+        },
+        {
+          "id": "C",
+          "content": "Vai trò của vật chất đối với ý thức như thế nào?"
+        },
+        {
+          "id": "D",
+          "content": "Vai trò của ý thức đối với vật chất như thế nào?"
+        }
+      ],
+      "answer": "A",
+      "explain": "Vấn đề cơ bản của triết học có hai mặt: Mặt thứ nhất là Bản thể luận (Vật chất hay ý thức có trước?), Mặt thứ hai là Nhận thức luận (Con người có khả năng nhận thức thế giới không?)."
+    },
+    {
+      "id": 15,
+      "question": "Thừa nhận con người có khả năng nhận thức được thế giới là nội dung của:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Bất khả tri luận"
+        },
+        {
+          "id": "B",
+          "content": "Khả tri luận"
+        },
+        {
+          "id": "C",
+          "content": "Thuyết không thể biết"
+        },
+        {
+          "id": "D",
+          "content": "Bất khả tri, hoài nghi luận, khả tri luận"
+        }
+      ],
+      "answer": "B",
+      "explain": "Khả tri luận (Thuyết có thể biết) thừa nhận con người có khả năng nhận thức được thế giới."
+    },
+    {
+      "id": 16,
+      "question": "Con người không có khả năng nhận thức được thế giới là nội dung của :",
+      "options": [
+        {
+          "id": "A",
+          "content": "Khả tri luận"
+        },
+        {
+          "id": "B",
+          "content": "Hoài nghi luận"
+        },
+        {
+          "id": "C",
+          "content": "Bất khả tri luận"
+        },
+        {
+          "id": "D",
+          "content": "Khả tri và hoài nghi luận"
+        }
+      ],
+      "answer": "C",
+      "explain": "Bất khả tri luận (Thuyết không thể biết) cho rằng con người không thể nhận thức được bản chất thực sự của thế giới."
+    },
+    {
+      "id": 17,
+      "question": "Nâng hoài nghi lên thành nguyên tắc trong việc xem xét tri thức đã đạt được và cho rằng con người không thể đạt đến chân lý khách quan là nội dung của:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Khả tri luận"
+        },
+        {
+          "id": "B",
+          "content": "Hoài nghi luận"
+        },
+        {
+          "id": "C",
+          "content": "Bất khả tri luận"
+        },
+        {
+          "id": "D",
+          "content": "Thuyết không thể biết"
+        }
+      ],
+      "answer": "B",
+      "explain": "Hoài nghi luận nghi ngờ khả năng đạt được chân lý khách quan của con người, thường nâng sự hoài nghi lên thành nguyên tắc."
+    },
+    {
+      "id": 18,
+      "question": "Phương pháp siêu hình là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nhận thức đối tượng ở trạng thái vận động"
+        },
+        {
+          "id": "B",
+          "content": "Nhận thức đối tượng ở trạng thái phát triển"
+        },
+        {
+          "id": "C",
+          "content": "Nhận thức đối tượng trong các mối liên hệ phổ biến"
+        },
+        {
+          "id": "D",
+          "content": "Nhận thức đối tượng ở trạng thái cô lập, tĩnh tại"
+        }
+      ],
+      "answer": "D",
+      "explain": "Phương pháp siêu hình nhận thức đối tượng ở trạng thái cô lập, tĩnh tại, không vận động, không phát triển."
+    },
+    {
+      "id": 19,
+      "question": "Phương pháp tư duy nào chi phối nhận thức của con người ở thế kỷ XVII – XVIII?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Phương pháp biện chứng duy tâm"
+        },
+        {
+          "id": "B",
+          "content": "Phương pháp biện chứng duy vật"
+        },
+        {
+          "id": "C",
+          "content": "Phương pháp siêu hình máy móc"
+        },
+        {
+          "id": "D",
+          "content": "Phương pháp biện chứng duy vật; Phương pháp siêu hình máy móc"
+        }
+      ],
+      "answer": "C",
+      "explain": "Thế kỷ XVII-XVIII, phương pháp siêu hình máy móc thống trị trong tư duy triết học và khoa học tự nhiên."
+    },
+    {
+      "id": 20,
+      "question": "Phương pháp siêu hình là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chỉ nhìn thấy cây mà không nhìn thấy rừng"
+        },
+        {
+          "id": "B",
+          "content": "Không những nhìn thấy cây mà còn nhìn thấy cả rừng"
+        },
+        {
+          "id": "C",
+          "content": "Nhận thức đối tượng ở trạng thái vận động"
+        },
+        {
+          "id": "D",
+          "content": "Khẳng định nguyên nhân của sự biến đối là nằm ở bên trong sự vật"
+        }
+      ],
+      "answer": "A",
+      "explain": "Phương pháp siêu hình chỉ nhìn thấy cây mà không thấy rừng, xem xét sự vật trong trạng thái cô lập."
+    },
+    {
+      "id": 21,
+      "question": "Phương pháp biện chứng là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nhận thức đối tượng ở trạng thái cô lập"
+        },
+        {
+          "id": "B",
+          "content": "Nhận thức đối tượng trong các mối liên hệ phổ biến, ràng buộc, quy định và ảnh hưởng lẫn nhau"
+        },
+        {
+          "id": "C",
+          "content": "Tách rời đối tượng ra khỏi các mối quan hệ"
+        },
+        {
+          "id": "D",
+          "content": "Nhận thức đối tượng ở trạng thái tĩnh"
+        }
+      ],
+      "answer": "B",
+      "explain": "Phương pháp biện chứng nhận thức đối tượng trong các mối liên hệ phổ biến, vận động và phát triển không ngừng."
+    },
+    {
+      "id": 22,
+      "question": "Phương pháp biện chứng có đặc điểm gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chỉ nhìn thấy cây mà không nhìn thấy rừng"
+        },
+        {
+          "id": "B",
+          "content": "Không những nhìn thấy cây mà còn nhìn thấy cả rừng"
+        },
+        {
+          "id": "C",
+          "content": "Nguyên nhân của sự biến đối nằm bên ngoài sự vật, hiện tượng"
+        },
+        {
+          "id": "D",
+          "content": "Nhận thức đối tượng ở trạng thái tách rời"
+        }
+      ],
+      "answer": "B",
+      "explain": "Phương pháp biện chứng không những nhìn thấy cây mà còn nhìn thấy cả rừng, thấy mối liên hệ biện chứng giữa các sự vật."
+    },
+    {
+      "id": 23,
+      "question": "Lịch sử phép biện chứng tuần tự trải qua những hình thức nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Phép biện chứng tự phát, phép biện chứng duy tâm, phép biện chứng duy vật"
+        },
+        {
+          "id": "B",
+          "content": "Phép biện chứng tự phát, phép biện chứng duy vật, phép biện chứng duy tâm"
+        },
+        {
+          "id": "C",
+          "content": "Phép biện chứng duy tâm, phép biện chứng tự phát, phép biện chứng duy vật"
+        },
+        {
+          "id": "D",
+          "content": "Phép biện chứng duy vật, phép biện chứng tự phát, phép biện chứng duy tâm"
+        }
+      ],
+      "answer": "A",
+      "explain": "Lịch sử phép biện chứng trải qua 3 hình thức: Phép biện chứng chất phác thời Cổ đại -> Phép biện chứng duy tâm (Cổ điển Đức) -> Phép biện chứng duy vật (Mác-Lênin)."
+    },
+    {
+      "id": 24,
+      "question": "Nguồn gốc lý luận của triết học Mác – Lênin?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Định luật bảo toàn và chuyển hóa năng lượng"
+        },
+        {
+          "id": "B",
+          "content": "Kinh tế chính trị cổ điển Anh, triết học cổ điển Đức, chủ nghĩa xã hội không tưởng của Pháp"
+        },
+        {
+          "id": "C",
+          "content": "Kinh tế chính trị cổ điển Anh, triết học cổ điển Đức, học thuyết tiến hóa"
+        },
+        {
+          "id": "D",
+          "content": "Định luật bảo toàn và chuyển hóa năng lượng, thuyết tiến hóa, kinh tế chính trị cổ điển Anh"
+        }
+      ],
+      "answer": "B",
+      "explain": "Nguồn gốc lý luận của triết học Mác-Lênin gồm: Triết học cổ điển Đức, Kinh tế chính trị cổ điển Anh, và Chủ nghĩa xã hội không tưởng Pháp."
+    },
+    {
+      "id": 25,
+      "question": "Tiền đề khoa học tự nhiên của triết học Mác – Lênin?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Học thuyết tế bào, thuyết tiến hóa, định luật bảo toàn và chuyển hóa năng lượng"
+        },
+        {
+          "id": "B",
+          "content": "Học thuyết tế bào, thuyết nguyên tử"
+        },
+        {
+          "id": "C",
+          "content": "Định luật bảo toàn và chuyển hóa năng lượng, thuyết nguyên tử"
+        },
+        {
+          "id": "D",
+          "content": "Thuyết tiến hóa, thuyết nguyên tử"
+        }
+      ],
+      "answer": "A",
+      "explain": "Ba tiền đề khoa học tự nhiên: Định luật bảo toàn và chuyển hóa năng lượng, Học thuyết tế bào, và Học thuyết tiến hóa của Đác-uyn."
+    },
+    {
+      "id": 26,
+      "question": "Chỉ ra chức năng của triết học Mác-Lênin?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Cung cấp thế giới quan duy vật và phương pháp luận biện chứng"
+        },
+        {
+          "id": "B",
+          "content": "Cung cấp thế giới quan duy tâm và phương pháp luận biện chứng"
+        },
+        {
+          "id": "C",
+          "content": "Cung cấp thế giới quan duy vật và phương pháp luận siêu hình"
+        },
+        {
+          "id": "D",
+          "content": "Cung cấp thế giới quan duy tâm và phương pháp luận siệu hình"
+        }
+      ],
+      "answer": "A",
+      "explain": "Chức năng cơ bản của triết học Mác-Lênin là cung cấp thế giới quan duy vật biện chứng và phương pháp luận biện chứng duy vật."
+    },
+    {
+      "id": 27,
+      "question": "Trường phái triết học nào phủ nhận sự tồn tại của thế giới vật chất?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chủ nghĩa duy vật biện chứng"
+        },
+        {
+          "id": "B",
+          "content": "Chủ nghĩa duy vật siêu hình"
+        },
+        {
+          "id": "C",
+          "content": "Chủ nghĩa duy tâm"
+        },
+        {
+          "id": "D",
+          "content": "chủ nghĩa duy vật thời Cổ đại"
+        }
+      ],
+      "answer": "C",
+      "explain": "Chủ nghĩa duy tâm cho rằng ý thức có trước, vật chất có sau, nên phủ nhận tính khách quan của thế giới vật chất."
+    },
+    {
+      "id": 28,
+      "question": "Tìm câu trả lời đúng nhất, mặt tích cực nhất của quan niệm về vật chất thời cổ đại?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đồng nhất vật chất với vật thể"
+        },
+        {
+          "id": "B",
+          "content": "Làm nền tảng cho quan niệm duy tâm phát triển"
+        },
+        {
+          "id": "C",
+          "content": "Kìm hãm sự phát triển tư tưởng khoa học về thế giới."
+        },
+        {
+          "id": "D",
+          "content": "Chống quan niệm duy tâm tôn giáo và thúc đẩy sự phát triển tư tưởng khoa học về thế giới."
+        }
+      ],
+      "answer": "D",
+      "explain": "Mặt tích cực của CNDV Cổ đại là chống lại quan điểm duy tâm tôn giáo, đặt nền móng cho sự phát triển của tư tưởng khoa học."
+    },
+    {
+      "id": 29,
+      "question": "Trường phái triết học nào đồng nhất vật chất với khối lượng?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chủ nghĩa duy tâm chủ quan"
+        },
+        {
+          "id": "B",
+          "content": "Chủ nghĩa duy vật siêu hình"
+        },
+        {
+          "id": "C",
+          "content": "Chủ nghĩa duy vật biện chứng"
+        },
+        {
+          "id": "D",
+          "content": "Chủ nghĩa duy tâm khách quan"
+        }
+      ],
+      "answer": "B",
+      "explain": "Chủ nghĩa duy vật siêu hình thế kỷ XVII-XVIII thường đồng nhất vật chất với khối lượng."
+    },
+    {
+      "id": 30,
+      "question": "Triết học Mác \\- Lênin do ai sáng lập và phát triển?",
+      "options": [
+        {
+          "id": "A",
+          "content": "V.I. Lênin sáng lập, C.Mác phát triển"
+        },
+        {
+          "id": "B",
+          "content": "C.Mác sáng lập và V.I. Lênin phát triển"
+        },
+        {
+          "id": "C",
+          "content": "V.I. Lênin sáng lập và Ph.Ăngghen phát triển"
+        },
+        {
+          "id": "D",
+          "content": "C.Mác và Ph.Ăngghen sáng lập, V.I.Lênin phát triển"
+        }
+      ],
+      "answer": "D",
+      "explain": "C.Mác và Ph.Ăngghen là những người sáng lập, còn V.I.Lênin là người bảo vệ và phát triển triết học Mác."
+    },
+    {
+      "id": 31,
+      "question": "Triết học Mác ra đời vào khoảng thời gian nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Những năm 20 của thế kỷ XX"
+        },
+        {
+          "id": "B",
+          "content": "Những năm 20 của thế kỷ  XIX"
+        },
+        {
+          "id": "C",
+          "content": "Những năm 40 của thế kỷ XIX"
+        },
+        {
+          "id": "D",
+          "content": "Những năm 40 của thế kỷ XX"
+        }
+      ],
+      "answer": "C",
+      "explain": "Triết học Mác ra đời vào những năm 40 của thế kỷ XIX."
+    },
+    {
+      "id": 32,
+      "question": "Triết học Mác- Lênin ra đời trong điều kiện kinh tế \\-  xã hội nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Phương thức sản xuất tư bản chủ nghĩa đã trở thành phương thức sản xuất thống trị"
+        },
+        {
+          "id": "B",
+          "content": "Phương thức sản xuất tư bản chủ nghĩa mới xuất hiện"
+        },
+        {
+          "id": "C",
+          "content": "Chủ nghĩa tư bản trở thành chủ nghĩa đế quốc"
+        },
+        {
+          "id": "D",
+          "content": "Phương thức sản xuất tư bản chủ nghĩa suy tàn"
+        }
+      ],
+      "answer": "A",
+      "explain": "Điều kiện kinh tế - xã hội: Phương thức sản xuất tư bản chủ nghĩa đã phát triển mạnh mẽ và bộc lộ mâu thuẫn, giai cấp vô sản đã bước lên vũ đài lịch sử."
+    },
+    {
+      "id": 33,
+      "question": "Câu nói: “Các triết gia không mọc lên như nấm từ trái đất; họ là sản phẩm của thời đại của mình, của dân tộc mình, mà dòng sữa tinh tế nhất, quý giá và vô hình được tập trung lại trong những tư tưởng triết học” của ai?",
+      "options": [
+        {
+          "id": "A",
+          "content": "C.Mác"
+        },
+        {
+          "id": "B",
+          "content": "Ph.Ăngghen"
+        },
+        {
+          "id": "C",
+          "content": "V.I.Lênin"
+        },
+        {
+          "id": "D",
+          "content": "Ph.Hêghen"
+        }
+      ],
+      "answer": "A",
+      "explain": "Câu nói này của C.Mác khẳng định triết học là sản phẩm của thời đại."
+    },
+    {
+      "id": 34,
+      "question": "Quan hệ giữa quy luật của triết học và quy luật của khoa học cụ thể là mối quan hệ giữa:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Cái chung và cái riêng"
+        },
+        {
+          "id": "B",
+          "content": "Nguyên nhân và kết quả"
+        },
+        {
+          "id": "C",
+          "content": "Hiện tượng và bản chất"
+        },
+        {
+          "id": "D",
+          "content": "Tất nhiên và ngẫu nhiên"
+        }
+      ],
+      "answer": "A",
+      "explain": "Quan hệ giữa quy luật triết học và quy luật khoa học cụ thể là quan hệ giữa cái chung (triết học) và cái riêng (khoa học cụ thể)."
+    },
+    {
+      "id": 35,
+      "question": "Triết học Mác \\- Lênin là sự thống nhất hữu cơ của:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Thế giới quan duy vật và phương pháp luận siêu hình"
+        },
+        {
+          "id": "B",
+          "content": "Thế giới quan duy tâm và phương pháp luận biện chứng"
+        },
+        {
+          "id": "C",
+          "content": "Thế giới quan duy vật và phương pháp luận biện chứng"
+        },
+        {
+          "id": "D",
+          "content": "Thế giới quan duy tâm và phương pháp luận biện chứng"
+        }
+      ],
+      "answer": "C",
+      "explain": "Triết học Mác-Lênin là sự thống nhất hữu cơ giữa thế giới quan duy vật và phương pháp luận biện chứng."
+    },
+    {
+      "id": 36,
+      "question": "Tìm đáp án đúng nhất về chức năng của triết học Mác- Lênin:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Cung cấp thế giới quan và phương pháp luận"
+        },
+        {
+          "id": "B",
+          "content": "Cung cấp tri thức về tự nhiên cho con người"
+        },
+        {
+          "id": "C",
+          "content": "Cung cấp phương pháp tư duy cho con người"
+        },
+        {
+          "id": "D",
+          "content": "Cung cấp tri thức về xã hội cho con người"
+        }
+      ],
+      "answer": "A",
+      "explain": "Chức năng thế giới quan và phương pháp luận là hai chức năng cơ bản nhất."
+    },
+    {
+      "id": 37,
+      "question": "Điền vào chỗ trống, C.Mác và Ph.Ăngghen viết: “…, trong quá trình thống trị giai cấp chưa đầy một thế kỷ, đã tạo ra những lực lượng sản xuất nhiều hơn và đồ sộ hơn lực lượng sản xuất của tất cả các thế hệ trước kia gộp lại”.",
+      "options": [
+        {
+          "id": "A",
+          "content": "Giai cấp nông dân"
+        },
+        {
+          "id": "B",
+          "content": "Giai cấp địa chủ"
+        },
+        {
+          "id": "C",
+          "content": "Giai cấp công nhân"
+        },
+        {
+          "id": "D",
+          "content": "Giai cấp tư sản"
+        }
+      ],
+      "answer": "D",
+      "explain": "Trong Tuyên ngôn của Đảng Cộng sản, Mác và Ăngghen ca ngợi vai trò lịch sử của Giai cấp tư sản trong việc phát triển lực lượng sản xuất."
+    },
+    {
+      "id": 38,
+      "question": "Trong lịch sử hình thành và phát triển của triết học Mác \\- Lênin, giai đoạn (1841-1844) là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Thời kỳ hình thành tư tưởng triết học với bước quá độ từ chủ nghĩa duy tâm và dân chủ cách mạng sang chủ nghĩa duy vật và chủ nghĩa cộng sản"
+        },
+        {
+          "id": "B",
+          "content": "Thời kỳ đề xuất những nguyên lý triết học"
+        },
+        {
+          "id": "C",
+          "content": "Thời kỳ bổ sung và phát triển toàn diện lý luận triết học"
+        },
+        {
+          "id": "D",
+          "content": "Thời kỳ đề xuất và bổ sung, phát triển toàn diện lý luận triết học"
+        }
+      ],
+      "answer": "A",
+      "explain": "Giai đoạn 1841-1844 là thời kỳ hình thành tư tưởng triết học của Mác và Ăngghen, chuyển từ duy tâm sang duy vật, từ dân chủ cách mạng sang cộng sản chủ nghĩa."
+    },
+    {
+      "id": 39,
+      "question": "Trong lịch sử hình thành và phát triển của triết học Mác \\- Lênin, giai đoạn (1844-1847) là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Thời kỳ hình thành tư tưởng triết học"
+        },
+        {
+          "id": "B",
+          "content": "Thời kỳ đề xuất những nguyên lý triết học duy vật biện chứng và duy vật lịch sử"
+        },
+        {
+          "id": "C",
+          "content": "Thời kỳ bổ sung và phát triển toàn diện lý luận triết học"
+        },
+        {
+          "id": "D",
+          "content": "Thời kỳ hình thành tư tưởng với bước quá độ từ chủ nghĩa duy vật sang chủ nghĩa duy tâm"
+        }
+      ],
+      "answer": "B",
+      "explain": "Giai đoạn 1844-1847 là thời kỳ đề xuất những nguyên lý cơ bản của triết học duy vật biện chứng và duy vật lịch sử."
+    },
+    {
+      "id": 40,
+      "question": "Trong lịch sử hình thành và phát triển của triết học Mác- Lênin, giai đoạn (1848- 1895\\) là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Thời kỳ đề xuất những nguyên lý triết học"
+        },
+        {
+          "id": "B",
+          "content": "Thời kỳ chuyển từ chủ nghĩa duy vật sang chủ nghĩa duy tâm"
+        },
+        {
+          "id": "C",
+          "content": "Thời kỳ bổ sung và phát triển toàn diện lý luận triết học"
+        },
+        {
+          "id": "D",
+          "content": "Thời kỳ chuyển từ chủ nghĩa duy vật sang chủ nghĩa duy tâm và phát triển toàn diện lý luận triết học"
+        }
+      ],
+      "answer": "C",
+      "explain": "Giai đoạn 1848-1895 là thời kỳ bổ sung và phát triển toàn diện lý luận triết học mác-xít thông qua thực tiễn cách mạng."
+    },
+    {
+      "id": 41,
+      "question": "Trong lịch sử hình thành và phát triển của triết học Mác \\- Lênin, thời kỳ hình thành tư tưởng triết học với bước quá độ từ chủ nghĩa duy tâm và dân chủ cách mạng sang chủ nghĩa duy vật và chủ nghĩa cộng sản là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Giai đoạn (1841 \\- 1844\\)"
+        },
+        {
+          "id": "B",
+          "content": "Giai đoạn (1844 \\- 1847\\)"
+        },
+        {
+          "id": "C",
+          "content": "Giai đoạn (1848 \\-1895)"
+        },
+        {
+          "id": "D",
+          "content": "Giai đoạn (1841 \\- 1847\\)"
+        }
+      ],
+      "answer": "A",
+      "explain": "Đây là giai đoạn khởi đầu (1841-1844) trong quá trình hình thành triết học Mác."
+    },
+    {
+      "id": 42,
+      "question": "Trong lịch sử hình thành và phát triển của triết học Mác \\- Lênin, thời kỳ bổ sung, phát triển toàn diện lý luận triết học Mác – Lênin là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Giai đoạn (1841 \\- 1844\\)"
+        },
+        {
+          "id": "B",
+          "content": "Giai đoạn (1844 \\- 1847\\)"
+        },
+        {
+          "id": "C",
+          "content": "Giai đoạn (1848 \\- 1895\\)"
+        },
+        {
+          "id": "D",
+          "content": "Giai đoạn (1841 \\- 1847\\)"
+        }
+      ],
+      "answer": "C",
+      "explain": "Giai đoạn 1848-1895 gắn liền với việc tổng kết kinh nghiệm các cuộc cách mạng ở châu Âu."
+    },
+    {
+      "id": 43,
+      "question": "Trong lịch sử hình thành và phát triển của triết học Mác- Lênin, thời kỳ đề xuất những nguyên lý triết học duy vật biện chứng và duy vật lịch sử là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Giai đoạn (1841 \\- 1844\\)"
+        },
+        {
+          "id": "B",
+          "content": "Giai đoạn (1844 \\- 1847\\)"
+        },
+        {
+          "id": "C",
+          "content": "Giai đoạn (1848 \\- 1895\\)"
+        },
+        {
+          "id": "D",
+          "content": "Giai đoạn những năm đầu thế kỷ XX"
+        }
+      ],
+      "answer": "B",
+      "explain": "Các tác phẩm như 'Bản thảo kinh tế - triết học 1844', 'Hệ tư tưởng Đức'... ra đời trong giai đoạn 1844-1847."
+    },
+    {
+      "id": 44,
+      "question": "Trong giai đoạn V.I.Lênin phát triển triết học Mác, thời kỳ 1893 – 1907 là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Thời kỳ V.I.Lênin bảo vệ và phát triển triết học Mác nhằm thành lập đảng Mác – xít ở Nga và chuẩn bị cho cuộc cách mạng dân chủ tư sản lần thứ nhất"
+        },
+        {
+          "id": "B",
+          "content": "Thời kỳ V.I.Lênin phát triển toàn diện triết học Mác và lãnh đạo phong trào công nhân Nga"
+        },
+        {
+          "id": "C",
+          "content": "Thời kỳ hoàn thiện triết học Mác, gắn liền với việc nghiên cứu các vấn đề xây dựng chủ nghĩa xã hội"
+        },
+        {
+          "id": "D",
+          "content": "Thời kỳ tổng kết thành tựu của cách mạng tháng Mười"
+        }
+      ],
+      "answer": "A",
+      "explain": "Thời kỳ 1893-1907: Lênin bảo vệ và phát triển triết học Mác trong cuộc đấu tranh chống phái Dân túy và chuẩn bị thành lập Đảng vô sản kiểu mới."
+    },
+    {
+      "id": 45,
+      "question": "Trong giai đoạn V.I.Lênin phát triển triết học Mác, thời kỳ 1907- 1917 là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Thời kỳ V.I.Lênin bảo vệ và phát triển triết học Mác"
+        },
+        {
+          "id": "B",
+          "content": "Thời kỳ phát triển toàn diện triết học Mác và lãnh đạo phong trào công nhân Nga, chuẩn bị cho cách mạng xã hội chủ nghĩa"
+        },
+        {
+          "id": "C",
+          "content": "Thời kỳ hoàn thiện triết học Mác, gắn liền với việc nghiên cứu các vấn đề xây dựng chủ nghĩa xã hội"
+        },
+        {
+          "id": "D",
+          "content": "Thời kỳ tổng kết thành tựu của cách mạng tháng Mười"
+        }
+      ],
+      "answer": "B",
+      "explain": "Thời kỳ 1907-1917: Lênin phát triển toàn diện triết học Mác trong bối cảnh chuẩn bị cho Cách mạng Tháng Mười Nga."
+    },
+    {
+      "id": 46,
+      "question": "Trong giai đoạn V.I.Lênin phát triển triết học Mác, thời kỳ 1917- 1924 là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Thời kỳ V.I.Lênin bảo vệ triết học Mác và chuẩn bị cho cách mạng tháng Mười"
+        },
+        {
+          "id": "B",
+          "content": "Thời kỳ phát triển triết học Mác và lãnh đạo Cách mạng tháng Mười"
+        },
+        {
+          "id": "C",
+          "content": "Thời kỳ tổng kết kinh nghiệm thực tiễn cách mạng, bổ sung, hoàn thiện triết học Mác, gắn liền với nghiên cứu các vấn đề xây dựng chủ nghĩa xã hội"
+        },
+        {
+          "id": "D",
+          "content": "Thời kỳ chuyển từ lập trường chủ nghĩa duy vật sang chủ nghĩa duy tâm"
+        }
+      ],
+      "answer": "C",
+      "explain": "Thời kỳ 1917-1924: Tổng kết thực tiễn Cách mạng Tháng Mười và xây dựng CNXH."
+    },
+    {
+      "id": 47,
+      "question": "Thời kỳ V.I.Lênin bảo vệ và phát triển triết học Mác-Lênin nhằm thành lập đảng Mác – xít ở Nga và chuẩn bị cho cuộc cách mạng dân chủ tư sản lần thứ nhất diễn ra vào thời gian nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Giai đoạn (1893- 1907\\)"
+        },
+        {
+          "id": "B",
+          "content": "Giai đoạn (1907- 1917\\)"
+        },
+        {
+          "id": "C",
+          "content": "Giai đoạn (1917- 1924\\)"
+        },
+        {
+          "id": "D",
+          "content": "Giai đoạn sau chiến tranh thế giới thứ I"
+        }
+      ],
+      "answer": "A",
+      "explain": "Giai đoạn 1893-1907 là thời kỳ đấu tranh thành lập Đảng."
+    },
+    {
+      "id": 48,
+      "question": "Thời kỳ V.I.Lênin phát triển toàn diện triết học Mác và lãnh đạo phong trào công nhân Nga, chuẩn bị cho cách mạng tháng Mười",
+      "options": [
+        {
+          "id": "A",
+          "content": "Giai đoạn (1893 – 1907\\)"
+        },
+        {
+          "id": "B",
+          "content": "Giai đoạn (1907 – 1917\\)"
+        },
+        {
+          "id": "C",
+          "content": "Giai đoạn (1917 – 1924\\)"
+        },
+        {
+          "id": "D",
+          "content": "Giai đoạn sau chiến tranh thế giới thứ I"
+        }
+      ],
+      "answer": "B",
+      "explain": "Giai đoạn 1907-1917 gắn liền với sự chuẩn bị trực tiếp cho Cách mạng xã hội chủ nghĩa."
+    },
+    {
+      "id": 49,
+      "question": "Tìm đáp án đúng nhất, đối tượng nghiên cứu của triết học Mác \\- Lênin:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đạo đức của con người"
+        },
+        {
+          "id": "B",
+          "content": "Giải quyết mối quan hệ giữa vật chất và ý thức trên lập trường duy vật biện chứng và nghiên cứu những quy luật vận động, phát triển chung nhất của tự nhiên, xã hội và tư duy."
+        },
+        {
+          "id": "C",
+          "content": "Sự cấu tạo, biến đổi của giới tự nhiên"
+        },
+        {
+          "id": "D",
+          "content": "Những quy luật phát triển của xã hội"
+        }
+      ],
+      "answer": "B",
+      "explain": "Đối tượng của triết học Mác-Lênin là giải quyết mối quan hệ vật chất - ý thức và nghiên cứu những quy luật chung nhất của tự nhiên, xã hội và tư duy."
+    },
+    {
+      "id": 50,
+      "question": "Tôn giáo thường sử dụng học thuyết nào làm cơ sở lý luận để luận chứng cho các quan điểm của mình?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chủ nghĩa duy tâm"
+        },
+        {
+          "id": "B",
+          "content": "Chủ nghĩa duy vật siêu hình"
+        },
+        {
+          "id": "C",
+          "content": "Chủ nghĩa duy vật biện chứng"
+        },
+        {
+          "id": "D",
+          "content": "Chủ nghĩa duy vật cổ đại"
+        }
+      ],
+      "answer": "A",
+      "explain": "Tôn giáo thường dựa trên cơ sở lý luận của Chủ nghĩa duy tâm để giải thích thế giới theo hướng thần thánh hóa."
+    }
+  ]
 }

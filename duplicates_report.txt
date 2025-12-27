@@ -1,0 +1,105 @@
+DEBUG: DUPLICATE CHECK REPORT
+=============================
+
+--- CHƯƠNG 1 ---
+[DUPLICATE FOUND]
+  Duplicate ID: 20
+  Original ID : 18
+  Question Text: Phương pháp siêu hình là:
+  Compare Options:
+    Orig: ['Nhận thức đối tượng ở trạng thái vận động', 'Nhận thức đối tượng ở trạng thái phát triển', 'Nhận thức đối tượng trong các mối liên hệ phổ biến', 'Nhận thức đối tượng ở trạng thái cô lập, tĩnh tại']
+    Dupe: ['Chỉ nhìn thấy cây mà không nhìn thấy rừng', 'Không những nhìn thấy cây mà còn nhìn thấy cả rừng', 'Nhận thức đối tượng ở trạng thái vận động', 'Khẳng định nguyên nhân của sự biến đối là nằm ở bên trong sự vật']
+---------------------------------------------------
+
+--- CHƯƠNG 2 ---
+[DUPLICATE FOUND]
+  Duplicate ID: 16
+  Original ID : 15
+  Question Text: Đâu là quan điểm của chủ nghĩa duy vật biện chứng về bản chất của ý thức?
+  Compare Options:
+    Orig: ['Là sự phản ánh hiện thực khách quan vào đầu óc con người một cách năng động, sáng tạo.', 'Là hình ảnh chủ quan của thế giới khách quan.', 'Là một hiện tượng xã hội và mang bản chất xã hội.', 'Tất cả các phương án']
+    Dupe: ['Ý thức là hình ảnh chủ quan của thế giới khách quan', 'Ý thức là sự phản ánh nguyên vẹn về thế giới khách quan', 'Ý thức là sự phản ánh chính xác về thế giới khách quan', 'Ý thức là hình ảnh khách quan của thế giới']
+---------------------------------------------------
+[DUPLICATE FOUND]
+  Duplicate ID: 55
+  Original ID : 9
+  Question Text: Đâu là quan điểm của chủ nghĩa duy vật biện chứng?
+  Compare Options:
+    Orig: ['Ý thức của con người do cảm giác sinh ra', 'Ý thức quyết định sự tồn tại, biến đổi của thế giới vật chất', 'Ý thức là một dạng vật chất đặc biệt', 'Ý thức là hình ảnh chủ quan của thế giới khách quan']
+    Dupe: ['Không gian và thời gian là hình thức tồn tại của vật chất, không tách rời vật chất', 'Không gian và thời gian phụ thuộc với cảm giác của con người', 'Không gian thuần túy ngoài vật chất', 'Thời gian tồn tại thuần túy ngoài vật chất']
+---------------------------------------------------
+[DUPLICATE FOUND]
+  Duplicate ID: 64
+  Original ID : 9
+  Question Text: Đâu là quan điểm của chủ nghĩa duy vật biện chứng?
+  Compare Options:
+    Orig: ['Ý thức của con người do cảm giác sinh ra', 'Ý thức quyết định sự tồn tại, biến đổi của thế giới vật chất', 'Ý thức là một dạng vật chất đặc biệt', 'Ý thức là hình ảnh chủ quan của thế giới khách quan']
+    Dupe: ['Tuyệt đối hoá vai trò của ý thức', 'Tuyệt đối hoá vai trò của vật chất, phủ nhận tính độc lập tương đối của ý thức', 'Khẳng định vật chất quyết định nội dung, hình thức và bản chất của ý thức', 'Phủ nhận tính độc lập tương đối của ý thức']
+---------------------------------------------------
+[DUPLICATE FOUND]
+  Duplicate ID: 78
+  Original ID : 56
+  Question Text: Đâu không phải là quan điểm của chủ nghĩa duy vật biện chứng?
+  Compare Options:
+    Orig: ['Chỉ có một thế giới duy nhất là thế giới vật chất', 'Mọi bộ phận của thế giới vật chất đều liên hệ, chuyển hoá lẫn nhau', 'Thế giới vật chất tồn tại khách quan, vĩnh viễn, vô hạn, vô tận, không do ai sinh ra và không mất đi', 'Thế giới vật chất bao gồm những bộ phận riêng biệt nhau']
+    Dupe: ['Chất là phạm trù triết học', 'Chất chỉ tính quy định khách quan vốn có của sự vật', 'Chất là sự thống nhất hữu cơ của những thuộc tính làm cho sự vật là nó chứ không phải cái khác', 'Chất biến đổi nhanh, lượng biến đổi chậm']
+---------------------------------------------------
+[DUPLICATE FOUND]
+  Duplicate ID: 80
+  Original ID : 9
+  Question Text: Đâu là quan điểm của chủ nghĩa duy vật biện chứng?
+  Compare Options:
+    Orig: ['Ý thức của con người do cảm giác sinh ra', 'Ý thức quyết định sự tồn tại, biến đổi của thế giới vật chất', 'Ý thức là một dạng vật chất đặc biệt', 'Ý thức là hình ảnh chủ quan của thế giới khách quan']
+    Dupe: ['Mâu thuẫn chỉ tồn tại trong giới tự nhiên', 'Mâu thuẫn chỉ tồn tại trong xã hội', 'Mâu thuẫn tồn tại trong cả tự nhiên, xã hội, tư duy', 'Mâu thuẫn chỉ tồn tại trong tư duy']
+---------------------------------------------------
+[DUPLICATE FOUND]
+  Duplicate ID: 83
+  Original ID : 9
+  Question Text: Đâu là quan điểm của chủ nghĩa duy vật biện chứng?
+  Compare Options:
+    Orig: ['Ý thức của con người do cảm giác sinh ra', 'Ý thức quyết định sự tồn tại, biến đổi của thế giới vật chất', 'Ý thức là một dạng vật chất đặc biệt', 'Ý thức là hình ảnh chủ quan của thế giới khách quan']
+    Dupe: ['Mâu thuẫn biện chứng là sự thống nhất và đấu tranh của các mặt đối lập giữa các sự vật, hiện tượng', 'Mâu thuẫn biện chứng phụ thuộc ý muốn con người', 'Mâu thuẫn biện chứng là sự thống nhất và đấu tranh của các mặt đối lập trong một sự vật và giữa các sự vật với nhau', 'Mâu thuẫn biện chứng là có nguyên nhân từ bên ngoài']
+---------------------------------------------------
+[DUPLICATE FOUND]
+  Duplicate ID: 84
+  Original ID : 9
+  Question Text: Đâu là quan điểm của chủ nghĩa duy vật biện chứng?
+  Compare Options:
+    Orig: ['Ý thức của con người do cảm giác sinh ra', 'Ý thức quyết định sự tồn tại, biến đổi của thế giới vật chất', 'Ý thức là một dạng vật chất đặc biệt', 'Ý thức là hình ảnh chủ quan của thế giới khách quan']
+    Dupe: ['Các mặt đối lập vừa thống nhất vừa đấu tranh với nhau', 'Các mặt đối lập không đấu tranh mà luôn thống nhất với nhau', 'Các mặt đối lập không đấu tranh và thống nhất với nhau', 'Các mặt đối lập không đấu tranh mà luôn thống nhất với nhau']
+---------------------------------------------------
+[DUPLICATE FOUND]
+  Duplicate ID: 126
+  Original ID : 56
+  Question Text: Đâu không phải là quan điểm của chủ nghĩa duy vật biện chứng?
+  Compare Options:
+    Orig: ['Chỉ có một thế giới duy nhất là thế giới vật chất', 'Mọi bộ phận của thế giới vật chất đều liên hệ, chuyển hoá lẫn nhau', 'Thế giới vật chất tồn tại khách quan, vĩnh viễn, vô hạn, vô tận, không do ai sinh ra và không mất đi', 'Thế giới vật chất bao gồm những bộ phận riêng biệt nhau']
+    Dupe: ['Cần phải căn cứ vào cái tất nhiên chứ không thể dựa vào ngẫu nhiên', 'Có thể chỉ ra tất nhiên bằng cách nghiên cứu những ngẫu nhiên mà tất nhiên phải đi qua', 'Không nên bỏ qua ngẫu nhiên mà phải có những phương án dự phòng trường hợp các sự cố ngẫu nhiên bất ngờ xuất hiện', 'Tất nhiên tồn tại độc lập với ngẫu nhiên']
+---------------------------------------------------
+[DUPLICATE FOUND]
+  Duplicate ID: 146
+  Original ID : 56
+  Question Text: Đâu không phải là quan điểm của chủ nghĩa duy vật biện chứng?
+  Compare Options:
+    Orig: ['Chỉ có một thế giới duy nhất là thế giới vật chất', 'Mọi bộ phận của thế giới vật chất đều liên hệ, chuyển hoá lẫn nhau', 'Thế giới vật chất tồn tại khách quan, vĩnh viễn, vô hạn, vô tận, không do ai sinh ra và không mất đi', 'Thế giới vật chất bao gồm những bộ phận riêng biệt nhau']
+    Dupe: ['Nhận thức là quá trình tạo thành tri thức về thế giới khách quan trong bộ óc con người', 'Nhận thức là quá trình phản ánh hiện thực khách quan vào bộ óc người', 'Nhận thức là quá trình phản ánh nguyên xi sự vật, hiện tượng vào trong đầu óc con người', 'Nhận thức là một quá trình biện chứng có vận động và phát triển']
+---------------------------------------------------
+
+--- CHƯƠNG 3 ---
+[DUPLICATE FOUND]
+  Duplicate ID: 83
+  Original ID : 81
+  Question Text: Theo chủ nghĩa duy vật lịch sử, quan điểm nào sai?
+  Compare Options:
+    Orig: ['Tồn tại xã hội quyết định ý thức xã hội', 'Ý thức xã hội có tính độc lập tương đối', 'Ý thức xã hội quyết định tồn tại xã hội', 'Tồn tại xã hội quyết định nội dung, đặc điểm của ý thức xã hội']
+    Dupe: ['Tồn tại xã hội quyết định xu hướng vận động, phát triển của ý thức xã hội', 'Tồn tại xã hội có mối quan hệ biện chứng với ý thức xã hội', 'Ý thức xã hội hoàn toàn thụ động trước tồn tại xã hội', 'Ý thức xã hội có tính độc lập tương đối ANSER: C', 'Khi nào bản chất xã hội của con người được thể hiện?', 'Khi tồn tại trong các quan hệ xã hội', 'Khi thoát ly khỏi điều kiện lịch sử', 'Khi tách rời khỏi môi trường xã hội', 'Khi tồn tại trong mối quan hệ với tự nhiên']
+---------------------------------------------------
+[DUPLICATE FOUND]
+  Duplicate ID: 89
+  Original ID : 81
+  Question Text: Theo chủ nghĩa duy vật lịch sử, quan điểm nào sai?
+  Compare Options:
+    Orig: ['Tồn tại xã hội quyết định ý thức xã hội', 'Ý thức xã hội có tính độc lập tương đối', 'Ý thức xã hội quyết định tồn tại xã hội', 'Tồn tại xã hội quyết định nội dung, đặc điểm của ý thức xã hội']
+    Dupe: ['Ý thức xã hội thường lạc hậu hơn tồn tại xã hội', 'Ý thức xã hội có thể vượt trước tồn tại xã hội', 'Ý thức xã hội có tính kế thừa', 'Ý thức xã hội quyết định tồn tại xã hội']
+---------------------------------------------------
+
