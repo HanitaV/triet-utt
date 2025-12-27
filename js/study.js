@@ -240,7 +240,7 @@ function findVideoQuestions(video) {
     for (const [chapter, ids] of Object.entries(video.questionIds)) {
         const chapterNum = parseInt(chapter);
         const chapterQuestions = quizData.questions.filter(q =>
-            q.chapter === chapterNum && ids.includes(q.question)
+            q.chapter === chapterNum && ids.includes(q.id)
         );
         questions = questions.concat(chapterQuestions);
     }
@@ -274,7 +274,7 @@ function findRelatedQuestions(topic) {
     for (const [chapter, ids] of Object.entries(topic.questionIds)) {
         const chapterNum = parseInt(chapter);
         const chapterQuestions = quizData.questions.filter(q =>
-            q.chapter === chapterNum && ids.includes(q.question)
+            q.chapter === chapterNum && ids.includes(q.id)
         );
         questions = questions.concat(chapterQuestions);
     }
