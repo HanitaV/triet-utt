@@ -34,6 +34,34 @@ async function initStudy() {
     initStudyElements();
     initStudyEventListeners();
     renderTopicList();
+
+    // Check URL for auto-select
+    const urlParams = new URLSearchParams(window.location.search);
+    const preSelectedTopic = urlParams.get('topic');
+    const preSelectedVideo = urlParams.get('video'); // New param
+
+    if (preSelectedTopic !== null) {
+        const idx = parseInt(preSelectedTopic);
+        if (!isNaN(idx) && idx >= 0 && idx < studyTopics.length) {
+            // Scroll to view
+            setTimeout(() => {
+                selectTopic(idx);
+                document.getElementById('topic-detail')?.scrollIntoView({ behavior: 'smooth' });
+
+                // If specific video requested
+                if (preSelectedVideo !== null) {
+                    const vIdx = parseInt(preSelectedVideo);
+                    const topic = studyTopics[idx];
+                    if (topic && topic.videos && topic.videos[vIdx]) {
+                        setTimeout(() => {
+                            playVideo(topic.videos[vIdx].videoId);
+                            // Update URL to be clean? No, maybe keep it.
+                        }, 500);
+                    }
+                }
+            }, 100);
+        }
+    }
 }
 
 
@@ -125,12 +153,12 @@ function renderTopicList() {
 
     const filteredTopics = studyTopics.filter(topic => {
         if (currentChapter === 'all') return true;
-        // Support string comparison for subjects like English (e.g. "unit-1")
-        // Check exact match (string or number)
         return topic.chapters.some(c => c == currentChapter);
     });
 
     document.getElementById('topic-count').textContent = `${filteredTopics.length} chủ đề`;
+
+    const subjectId = getCurrentSubjectId();
 
     topicList.innerHTML = filteredTopics.map((topic, idx) => {
         const originalIdx = studyTopics.indexOf(topic);
@@ -138,14 +166,38 @@ function renderTopicList() {
         const chapterText = topic.chapters.map(c => `C${c}`).join(', ');
         const isActive = currentTopicIdx === originalIdx;
 
+        // Progress check
+        const stats = ProgressManager.getTopicStats(subjectId, originalIdx, topic);
+        let statusIcon = topic.icon || '📚';
+        let progressHtml = '';
+
+        if (stats && (stats.attempts > 0 || stats.completion > 0)) {
+            if (stats.completion >= 100 && stats.accuracy >= 80) statusIcon = '✅';
+
+            progressHtml = `
+                <div class="topic-progress-container">
+                    <div class="progress-row">
+                        <span class="progress-label">Hoàn thành: ${stats.completion}%</span>
+                        <div class="progress-bar-bg">
+                            <div class="progress-bar-fill" style="width: ${stats.completion}%"></div>
+                        </div>
+                    </div>
+                    <div class="progress-row">
+                         <span class="progress-label">Đúng: ${stats.accuracy}%</span>
+                         <span class="progress-badge ${stats.accuracy >= 80 ? 'good' : 'average'}">${stats.accuracy}%</span>
+                    </div>
+                </div>
+             `;
+        }
+
         return `
             <div class="topic-item ${isActive ? 'active' : ''}" data-idx="${originalIdx}" onclick="selectTopic(${originalIdx})">
-                <span class="topic-item-icon">${topic.icon || '📚'}</span>
+                <span class="topic-item-icon">${statusIcon}</span>
                 <div class="topic-item-info">
                     <div class="topic-item-title">${topic.title}</div>
                     <div class="topic-item-meta">${chapterText} • ${topic.videos?.length || 0} video</div>
+                    ${progressHtml}
                 </div>
-                <span class="topic-item-count">${questionCount}</span>
             </div>
         `;
     }).join('');
@@ -185,10 +237,21 @@ function renderTopicDetail(topic) {
     if (detailChapter) detailChapter.textContent = chapterText;
     if (detailQuestions) detailQuestions.textContent = `${questionCount} câu hỏi`;
 
+    const subjectId = getCurrentSubjectId();
+
     // Videos
     if (videoGrid && topic.videos) {
         videoGrid.innerHTML = topic.videos.map((video, vIdx) => {
             const videoQuestionCount = getVideoQuestionCount(video);
+
+            // Get Video Progress
+            const vProg = ProgressManager.getVideoProgress(subjectId, currentTopicIdx, vIdx);
+            let badge = '';
+            if (vProg) {
+                const isGood = vProg.lastScore >= 80;
+                badge = `<span class="video-score-badge ${isGood ? 'good' : 'average'}">${vProg.lastScore}%</span>`;
+            }
+
             return `
             <div class="video-card">
                 <div class="video-thumbnail" onclick="playVideo('${video.videoId}')">
@@ -196,6 +259,7 @@ function renderTopicDetail(topic) {
                          alt="${video.title}"
                          onerror="this.src='https://via.placeholder.com/320x180?text=Video'">
                     <div class="play-overlay">▶</div>
+                    ${badge}
                 </div>
                 <div class="video-card-info">
                     <div class="video-card-title">${video.title}</div>
@@ -297,6 +361,7 @@ function startVideoPractice(topicIdx, videoIdx) {
     localStorage.setItem('practiceTopicName', video.title);
     localStorage.setItem('practiceSource', 'study');
     localStorage.setItem('practiceTopicIdx', topicIdx.toString());
+    localStorage.setItem('practiceVideoIdx', videoIdx.toString()); // New: Track video
     window.location.href = 'exam.html?practice=true';
 }
 

@@ -10,7 +10,19 @@ if "%COMMIT_MSG%"=="" set "COMMIT_MSG=Update site"
 
 echo 🚀 Starting deployment...
 
-:: Check if there are changes to commit
+:: 1. Auto-update version info
+echo 🔄 Updating version info...
+call node update_version.js
+
+:: 2. Pull latest changes to avoid conflicts
+echo 📥 Pulling from main...
+git pull origin main
+if %errorlevel% neq 0 (
+    echo ❌ Error pulling from main. Please resolve conflicts first.
+    exit /b %errorlevel%
+)
+
+:: 3. Check if there are changes to commit (now including version.json)
 git status -s > nul 2>&1
 for /f %%i in ('git status -s') do set HAS_CHANGES=1
 

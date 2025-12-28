@@ -16,12 +16,27 @@
 .home-hero h1 {
     font-size: 2.5rem;
     font-weight: 800;
-    margin-bottom: 16px;
-    background: var(--accent-gradient);
+    margin-bottom: 8px;
+    background: linear-gradient(to right, var(--text-primary), var(--accent));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
+    color: transparent;
     line-height: 1.2;
+}
+
+.hero-version-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    padding: 4px 12px;
+    border-radius: var(--radius-full);
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+    margin-bottom: 16px;
+    font-family: monospace;
 }
 
 .hero-subtitle {
@@ -159,6 +174,81 @@
 .feature-card.simulation:hover .feature-icon {
     color: #ef4444;
     background: rgba(239, 68, 68, 0.1);
+}
+
+/* Suggestions Section */
+.suggestions-container {
+    max-width: 800px;
+    margin: 0 auto 40px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 24px;
+}
+
+.suggestions-container h3 {
+    margin-bottom: 16px;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.suggestion-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.suggestion-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px;
+    background: var(--bg-secondary);
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    transition: var(--transition);
+    cursor: pointer;
+}
+
+.suggestion-item:hover {
+    border-color: var(--accent);
+    background: var(--bg-card);
+}
+
+.suggestion-info {
+    flex: 1;
+}
+
+.suggestion-title {
+    font-weight: 600;
+    color: var(--text-primary);
+    margin-bottom: 4px;
+}
+
+.suggestion-reason {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.priority-badge {
+    font-size: 0.75rem;
+    padding: 2px 8px;
+    border-radius: 12px;
+    background: var(--accent-light);
+    color: var(--accent);
+    font-weight: 600;
+}
+
+.suggestion-action {
+    color: var(--accent);
+    font-weight: 500;
+    font-size: 0.9rem;
+    margin-left: 16px;
 }
 
 /* Progress Section */
