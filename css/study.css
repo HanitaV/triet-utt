@@ -170,6 +170,52 @@
     margin-top: 4px;
 }
 
+.topic-progress-container {
+    margin-top: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.progress-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 0.7rem;
+    color: var(--text-muted);
+}
+
+.progress-bar-bg {
+    width: 60px;
+    height: 4px;
+    background: var(--border);
+    border-radius: 2px;
+    overflow: hidden;
+}
+
+.progress-bar-fill {
+    height: 100%;
+    background: var(--accent);
+    border-radius: 2px;
+}
+
+.progress-badge {
+    font-weight: 700;
+    padding: 0 4px;
+    border-radius: 3px;
+    font-size: 0.7rem;
+}
+
+.progress-badge.good {
+    color: var(--correct);
+    background: rgba(34, 197, 94, 0.1);
+}
+
+.progress-badge.average {
+    color: var(--warning);
+    background: rgba(234, 179, 8, 0.1);
+}
+
 .topic-item-count {
     display: inline-flex;
     align-items: center;
@@ -181,6 +227,27 @@
     border-radius: var(--radius-full);
     margin-left: auto;
     flex-shrink: 0;
+}
+
+.topic-score {
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 2px 6px;
+    border-radius: 4px;
+    margin-left: auto;
+    /* Push to right if no count */
+}
+
+.topic-score.good {
+    color: var(--correct);
+    background: var(--correct-bg);
+    border: 1px solid var(--correct);
+}
+
+.topic-score.average {
+    color: var(--warning);
+    background: var(--warning-bg);
+    border: 1px solid var(--warning);
 }
 
 /* Sidebar Toggle (Mobile) */
@@ -375,6 +442,28 @@
 .video-card:hover .play-overlay {
     background: var(--accent);
     transform: translate(-50%, -50%) scale(1.1);
+}
+
+.video-score-badge {
+    position: absolute;
+    bottom: 8px;
+    right: 8px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 2px 8px;
+    border-radius: 4px;
+    z-index: 2;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.video-score-badge.good {
+    background: var(--correct);
+    color: white;
+}
+
+.video-score-badge.average {
+    background: var(--warning);
+    color: black;
 }
 
 .video-card-info {

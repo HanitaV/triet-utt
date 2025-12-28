@@ -51,6 +51,7 @@
     <main class="main-content home-main">
         <div class="home-hero">
             <h1 id="hero-title">Chinh phục Kiến thức</h1>
+            <div id="hero-version" class="hero-version-badge"></div>
             <p class="hero-subtitle">Nền tảng ôn thi toàn diện với sự hỗ trợ của AI, Flashcard và Đề thi chuẩn</p>
             <div class="hero-stats">
                 <div class="stat-item">
@@ -120,6 +121,14 @@
                 </a>
             </div>
 
+            <!-- Suggestions Section -->
+            <div id="suggestions-section" class="suggestions-container hidden">
+                <h3>💡 Gợi ý học tập hôm nay</h3>
+                <div class="suggestion-list" id="suggestion-list">
+                    <!-- Suggestions will be populated here -->
+                </div>
+            </div>
+
             <div class="quick-progress-section">
                 <h3>📊 Tiến độ học tập của bạn</h3>
                 <div class="progress-stats">
@@ -132,6 +141,25 @@
                         <span class="p-label">Tỷ lệ chính xác</span>
                     </div>
                 </div>
+            </div>
+
+            <!-- Data Management Section -->
+            <div class="data-mgmt-section"
+                style="margin-top: 24px; padding-top: 24px; border-top: 1px solid var(--border);">
+                <h3 style="font-size: 1rem; margin-bottom: 12px;">💾 Quản lý dữ liệu</h3>
+                <div style="display: flex; gap: 12px;">
+                    <button onclick="exportData()" class="btn-action secondary" style="font-size: 0.9rem;">
+                        ⬇️ Sao lưu
+                    </button>
+                    <button onclick="document.getElementById('import-file').click()" class="btn-action secondary"
+                        style="font-size: 0.9rem;">
+                        ⬆️ Khôi phục
+                    </button>
+                    <input type="file" id="import-file" style="display: none" onchange="importData(this)">
+                </div>
+                <p style="font-size: 0.8rem; color: var(--text-muted); margin-top: 8px;">
+                    Dữ liệu được lưu trên trình duyệt. Hãy sao lưu thường xuyên để tránh mất mát.
+                </p>
             </div>
         </div>
     </main>
@@ -156,6 +184,7 @@
         </div>
     </footer>
 
+    <script src="js/progress.js"></script>
     <script src="js/common.js"></script>
     <script src="js/dashboard.js"></script>
 </body>

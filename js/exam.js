@@ -576,6 +576,34 @@ function showResultModal() {
         }
     }
 
+    // Save Progress
+    const subjectId = getCurrentSubjectId();
+    const correctCount = Object.values(examAnswers).filter((ans, idx) => {
+        const q = examQuestions[idx];
+        return q && ans === q.correct;
+    }).length;
+    const totalCount = examQuestions.length;
+
+    if (isPracticeMode) {
+        const topicIdx = localStorage.getItem('practiceTopicIdx');
+        const videoIdx = localStorage.getItem('practiceVideoIdx');
+
+        if (topicIdx !== null) {
+            // Save Topic Result (General)
+            ProgressManager.saveTopicResult(subjectId, topicIdx, correctCount, totalCount);
+
+            // Save Video Result (Specific)
+            if (videoIdx !== null) {
+                ProgressManager.saveVideoResult(subjectId, topicIdx, videoIdx, correctCount, totalCount);
+            }
+        }
+    } else {
+        const chapter = examChapterSelect?.value;
+        if (chapter && chapter !== 'all') {
+            ProgressManager.saveChapterResult(subjectId, chapter, correctCount, totalCount);
+        }
+    }
+
     resultModal?.classList.add('active');
 }
 
@@ -589,6 +617,7 @@ function goBackToStudy() {
     localStorage.removeItem('practiceTopicName');
     localStorage.removeItem('practiceSource');
     localStorage.removeItem('practiceTopicIdx');
+    localStorage.removeItem('practiceVideoIdx');
 
     // Navigate back to study page
     window.location.href = 'study.html';
