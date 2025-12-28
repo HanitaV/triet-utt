@@ -75,7 +75,8 @@ async function initExam() {
     }
 
     if (examChapterSelect) {
-        examChapterSelect.value = chapter === 'all' ? 'all' : getChapterFileValue(chapter);
+        // Set value directly. If it's a chapter ID (unit-1), it will match the option values.
+        examChapterSelect.value = chapter;
     }
 
     startExam(chapter);
@@ -103,7 +104,7 @@ function populateChapterSelect() {
         currentSubjectData.chapters.forEach((ch, idx) => {
             const chapterQuestions = window.quizData.chapters.find(c => c.chapter === ch.id)?.questions?.length || 0;
             const option = document.createElement('option');
-            option.value = `${basePath}/${ch.file}`;
+            option.value = ch.id; // Use Chapter ID (e.g. "unit-1")
             const icon = ['📘', '📗', '📙', '📕', '📓', '📒', '📔'][idx % 7];
             option.textContent = `${icon} Chương ${ch.id}: ${ch.name} (${chapterQuestions} câu)`;
             examChapterSelect.appendChild(option);
@@ -123,7 +124,8 @@ function populateChapterSelect() {
 // Helper to get chapter file value from chapter number
 function getChapterFileValue(chapter) {
     if (!currentSubjectData || !currentSubjectData.chapters) return null;
-    const ch = currentSubjectData.chapters.find(c => c.id === parseInt(chapter));
+    // Support string IDs
+    const ch = currentSubjectData.chapters.find(c => c.id == chapter);
     if (!ch) return null;
     const basePath = getExamFilesPath();
     return `${basePath}/${ch.file}`;
@@ -163,8 +165,10 @@ function initExamElements() {
 function initExamEventListeners() {
     examChapterSelect?.addEventListener('change', () => {
         const value = examChapterSelect.value;
-        // Extract chapter number from both formats: chuong_X.json and X.json
-        const chapter = value === 'all' ? 'all' : (value.match(/chuong_(\d+)/)?.[1] || value.match(/\/(\d+)\.json$/)?.[1] || 'all');
+        // Check if value is 'all' or a valid file path, just pass it directly.
+        // Old regex extraction was for legacy numbered files.
+        // Now we use the full value from the option which is the file path.
+        const chapter = value;
         startExam(chapter);
     });
 
@@ -197,6 +201,13 @@ function initExamEventListeners() {
 function startPracticeExam(questions) {
     examQuestions = [...questions];
 
+    // Clear previous shuffle data
+    examQuestions.forEach(q => {
+        delete q._shuffledOptions;
+        delete q._shuffledCorrect;
+        delete q._type;
+    });
+
     if (examQuestions.length === 0) {
         if (examQuestionText) examQuestionText.textContent = 'Không có câu hỏi để luyện tập.';
         if (examOptions) examOptions.innerHTML = '';
@@ -224,6 +235,13 @@ function startExam(chapter) {
     }
 
     examQuestions = [...getQuestionsByChapter(chapter)];
+
+    // Clear previous shuffle data
+    examQuestions.forEach(q => {
+        delete q._shuffledOptions;
+        delete q._shuffledCorrect;
+        delete q._type;
+    });
 
     if (examQuestions.length === 0) {
         if (examQuestionText) examQuestionText.textContent = 'Không tìm thấy câu hỏi. Vui lòng chọn chương khác.';
@@ -260,31 +278,55 @@ function renderExamQuestion() {
     waitingForContinue = false;
 
     if (examQuestionNumber) examQuestionNumber.textContent = `Câu ${examIndex + 1}`;
-    if (examQuestionText) examQuestionText.innerHTML = q.text;
 
-    // Prepare options
-    let options = [...q.options];
-    let correctLetter = q.correct_answer;
+    // Check type
+    const type = q.type || 'multiple_choice';
+    q._type = type; // Store for valid checking
 
-    if (shuffleAnswers) {
-        shuffleArray(options);
-        const letters = ['A', 'B', 'C', 'D'];
-        options = options.map((opt, i) => ({
-            ...opt,
-            originalLetter: opt.letter,
-            letter: letters[i]
-        }));
-        correctLetter = options.find(o => o.originalLetter === q.correct_answer)?.letter || q.correct_answer;
+    // Render Question Text
+    let questionHtml = q.text || q.question;
+    // For fill in blank, we might need to modify the text if placeholders are distinct
+    if (type === 'fill_blank' || type === 'rewrite') {
+        // Automatically convert text like "______" or "..." into input fields if specifically marked??
+        // Current JSON has "question" including placeholders.
     }
 
-    q._shuffledOptions = options;
-    q._shuffledCorrect = correctLetter;
+    if (examQuestionText) examQuestionText.innerHTML = questionHtml;
 
     const answered = examAnswers[examIndex] !== undefined;
+    let optionsHtml = '';
 
-    if (examOptions) {
-        examOptions.innerHTML = options.map(opt => {
-            let classes = 'option';
+    // RENDER: Multiple Choice & True/False
+    if (type === 'multiple_choice' || type === 'true_false') {
+        // Normalize options
+        let options = (q.options || []).map(o => ({
+            ...o,
+            letter: o.letter || o.id,
+            text: o.text || o.content
+        }));
+
+        let correctLetter = q.correct_answer;
+
+        if (shuffleAnswers && type === 'multiple_choice') {
+            if (!q._shuffledOptions) {
+                let optsToShuffle = [...options];
+                shuffleArray(optsToShuffle);
+                const letters = ['A', 'B', 'C', 'D'];
+                optsToShuffle = optsToShuffle.map((opt, i) => ({
+                    ...opt,
+                    originalLetter: opt.letter,
+                    letter: letters[i]
+                }));
+
+                q._shuffledOptions = optsToShuffle;
+                q._shuffledCorrect = optsToShuffle.find(o => o.originalLetter === q.correct_answer)?.letter || q.correct_answer;
+            }
+            options = q._shuffledOptions;
+            correctLetter = q._shuffledCorrect;
+        }
+
+        optionsHtml = options.map(opt => {
+            let classes = type === 'true_false' ? 'tf-btn' : 'option';
             let icon = '';
 
             if (answered) {
@@ -296,11 +338,21 @@ function renderExamQuestion() {
                 } else if (opt.letter === userAnswer) {
                     classes += ' incorrect';
                     icon = '<span class="option-icon">✗</span>';
+                } else if (type === 'true_false' && opt.letter === userAnswer) {
+                    classes += ' selected'; // Just separate style if needed
                 }
             }
 
+            if (type === 'true_false') {
+                return `
+                    <div class="${classes}" onclick="selectExamAnswer('${opt.letter}')">
+                        ${opt.text}
+                    </div>
+                `;
+            }
+
             return `
-                <div class="${classes}" data-letter="${opt.letter}">
+                <div class="${classes}" data-letter="${opt.letter}" onclick="selectExamAnswer('${opt.letter}')">
                     <span class="option-letter">${opt.letter}</span>
                     <span class="option-text">${opt.text}</span>
                     ${icon}
@@ -308,74 +360,119 @@ function renderExamQuestion() {
             `;
         }).join('');
 
-        if (!answered) {
-            examOptions.querySelectorAll('.option').forEach(opt => {
-                opt.addEventListener('click', () => selectExamAnswer(opt.dataset.letter));
-            });
+        if (type === 'true_false') optionsHtml = `<div class="tf-container">${optionsHtml}</div>`;
+    }
+    // RENDER: Fill in Blank / Rewrite
+    else if (type === 'fill_blank' || type === 'rewrite') {
+        const userAnswer = examAnswers[examIndex] || '';
+        const isCorrect = answered && userAnswer.trim().toLowerCase() === (q._shuffledCorrect || q.correct_answer).toLowerCase();
+        const correctAns = q._shuffledCorrect || q.correct_answer; // Usually in metadata
+
+        // Try to find the Answer from explanation or metadata if missing in dedicated field
+        // For now assume q.correct_answer holds the text.
+
+        let inputClass = 'fill-input';
+        if (answered) {
+            inputClass += isCorrect ? ' correct' : ' incorrect';
         }
+
+        optionsHtml = `
+            <div class="fill-blank-container">
+                <input type="text" class="${inputClass}" 
+                    value="${userAnswer}" 
+                    placeholder="Type your answer..." 
+                    ${answered ? 'disabled' : ''}
+                    onkeydown="if(event.key==='Enter') selectExamAnswer(this.value)"
+                />
+                ${answered && !isCorrect ? `<div class="key-hint" style="margin-top:10px; color:var(--correct)">key: ${correctAns}</div>` : ''}
+                ${!answered ? `<button class="continue-btn" style="margin-top:16px; width:auto; padding: 8px 24px;" onclick="selectExamAnswer(this.previousElementSibling.value || this.parentNode.querySelector('input').value)">Check</button>` : ''}
+            </div>
+         `;
+        // Note: We injected a Check button for convenience
+    }
+    // RENDER: Inline Choice
+    else if (type === 'inline_choice') {
+        // Expect q.question to contain " / "
+        // We might need to parse the question text DYNAMICALLY if it's not pre-parsed.
+        // For now, let's treat it as a list of pills if options are provided.
+
+        // If JSON options exist:
+        let options = q.options || [];
+        let correctLetter = q.correct_answer;
+
+        // If generic options A/B/C/D representing the choices in text:
+        // We display them as clickable pills.
+
+        optionsHtml = `<div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center; margin-top:20px;">`;
+        options.forEach(opt => {
+            let classes = 'inline-choice-select';
+            if (answered) {
+                // classes += ' disabled'; // Prevent clicks handled by logic
+                const userAnswer = examAnswers[examIndex];
+                if (opt.letter === correctLetter) classes += ' correct';
+                else if (opt.letter === userAnswer) classes += ' incorrect';
+            }
+            optionsHtml += `<div class="${classes}" onclick="selectExamAnswer('${opt.letter}')">${opt.text}</div>`;
+        });
+        optionsHtml += `</div>`;
+    }
+
+    if (examOptions) {
+        examOptions.innerHTML = optionsHtml;
     }
 
     updateExamProgress();
 }
 
-function updateExamProgress() {
-    const total = examQuestions.length;
-    const current = examIndex + 1;
-    const progress = (current / total) * 100;
-
-    if (examProgress) examProgress.style.width = `${progress}%`;
-    if (examCurrentSpan) examCurrentSpan.textContent = current;
-    if (examTotalSpan) examTotalSpan.textContent = total;
-}
-
-function updateExamStats() {
-    let correct = 0, incorrect = 0;
-
-    Object.keys(examAnswers).forEach(idx => {
-        const q = examQuestions[idx];
-        const userAnswer = examAnswers[idx];
-        const correctAnswer = q._shuffledCorrect || q.correct_answer;
-        if (userAnswer === correctAnswer) correct++;
-        else incorrect++;
-    });
-
-    if (examCorrectSpan) examCorrectSpan.textContent = correct;
-    if (examIncorrectSpan) examIncorrectSpan.textContent = incorrect;
-    if (examScoreSpan) examScoreSpan.textContent = correct * 10;
-
-    // Also update progress section stats
-    const correctStat = document.getElementById('exam-correct-stat');
-    const incorrectStat = document.getElementById('exam-incorrect-stat');
-    if (correctStat) correctStat.textContent = correct;
-    if (incorrectStat) incorrectStat.textContent = incorrect;
-}
-
-function selectExamAnswer(letter) {
+function selectExamAnswer(answerInput) {
     if (examAnswers[examIndex] !== undefined) return;
 
+    // Normalize input
+    let userAnswer = answerInput;
+    if (typeof userAnswer === 'string') userAnswer = userAnswer.trim();
+
     const q = examQuestions[examIndex];
-    const correctAnswer = q._shuffledCorrect || q.correct_answer;
-    const isCorrect = letter === correctAnswer;
+    let isCorrect = false;
+    let correctAnswer = q.correct_answer; // Default
 
-    examAnswers[examIndex] = letter;
-    updateStats({ studiedToday: 1, totalAnswered: 1 });
+    // Logic per type
+    const type = q._type || 'multiple_choice';
 
-    // Show explanation if incorrect AND AI toggle is checked
-    const aiToggle = document.getElementById('ai-explanation-toggle');
-    const showAI = aiToggle ? aiToggle.checked : true;
-
-    if (!isCorrect && examExplanation && showAI) {
-        const explanationText = q.explanation || "Không có giải thích chi tiết cho câu hỏi này.";
-        examExplanation.innerHTML = `
-            <div class="explanation-box">
-                <div class="explanation-header">
-                    <span class="gemini-badge">Gemini 3.0 PRO</span>
-                </div>
-                <div class="explanation-text">${explanationText}</div>
-            </div>
-        `;
-        examExplanation.classList.remove('hidden');
+    if (type === 'multiple_choice' || type === 'true_false' || type === 'inline_choice') {
+        correctAnswer = q._shuffledCorrect || q.correct_answer;
+        isCorrect = userAnswer === correctAnswer;
     }
+    else if (type === 'fill_blank' || type === 'rewrite') {
+        // Loose comparison
+        // We need to fetch the REAL text answer. 
+        // In generated JSON, correct_answer often holds "A". Wait.
+        // Fill blank answers in generated JSON need to be checked.
+        // Currently generated JSON has ` "correct_answer": "A" ` for EVERYTHING because parser defaulted to MC logic for 'final_q' if no items!
+        // Or generic logic.
+
+        // Assuming we fixed data or will fix data:
+        // For now, let's use explanation key extraction as fallback if needed?
+        // Or just strictly compare.
+
+        // If the user hasn't typed anything, don't submit?
+        if (!userAnswer) return;
+
+        // Hack for current data state: If correct_answer is "A" and options[0] is the text...
+        if (correctAnswer === "A" && q.options && q.options.length > 0) {
+            correctAnswer = q.options[0].text;
+        }
+
+        // Remove punctuation for comparison
+        const cleanUser = userAnswer.toLowerCase().replace(/[.,!?;]/g, '');
+        const cleanKey = correctAnswer.toLowerCase().replace(/[.,!?;]/g, '');
+        isCorrect = cleanUser === cleanKey;
+
+        // Update q._shuffledCorrect for display use
+        q._shuffledCorrect = correctAnswer;
+    }
+
+    examAnswers[examIndex] = userAnswer;
+    updateStats({ studiedToday: 1, totalAnswered: 1 });
 
     if (isCorrect) {
         examScore += 10;
@@ -388,17 +485,25 @@ function selectExamAnswer(letter) {
         }, 500);
     }
 
-    // Mark options
-    examOptions?.querySelectorAll('.option').forEach(opt => {
-        opt.classList.add('disabled');
-        if (opt.dataset.letter === correctAnswer) {
-            opt.classList.add('correct');
-            opt.innerHTML += '<span class="option-icon">✓</span>';
-        } else if (opt.dataset.letter === letter && !isCorrect) {
-            opt.classList.add('incorrect');
-            opt.innerHTML += '<span class="option-icon">✗</span>';
-        }
-    });
+    // Re-render to show state
+    renderExamQuestion();
+
+    // Show explanation if incorrect AND AI toggle is checked
+    const aiToggle = document.getElementById('ai-explanation-toggle');
+    const showAI = aiToggle ? aiToggle.checked : true;
+
+    if (!isCorrect && examExplanation && showAI) {
+        const explanationText = q.explanation || q.explain || "Không có giải thích chi tiết cho câu hỏi này.";
+        examExplanation.innerHTML = `
+            <div class="explanation-box">
+                <div class="explanation-header">
+                    <span class="gemini-badge">Gemini 3.0 PRO</span>
+                </div>
+                <div class="explanation-text">${explanationText}</div>
+            </div>
+        `;
+        examExplanation.classList.remove('hidden');
+    }
 
     waitingForContinue = true;
     examContinueBtn?.classList.remove('hidden');
@@ -492,8 +597,8 @@ function goBackToStudy() {
 function restartExam() {
     closeModal();
     const chapter = examChapterSelect?.value || 'all';
-    const chapterNum = chapter === 'all' ? 'all' : chapter.match(/chuong_(\d+)/)?.[1] || 'all';
-    startExam(chapterNum);
+    // Use raw value (file path or 'all')
+    startExam(chapter);
 }
 
 function startReviewWrong() {
@@ -539,6 +644,39 @@ function handleKeyboard(e) {
     if ((e.key === 'h' || e.key === 'H') && !hintUsed) {
         e.preventDefault();
         showHint();
+    }
+}
+
+
+function updateExamStats() {
+    if (examQuestions.length === 0) return;
+
+    if (examCurrentSpan) examCurrentSpan.textContent = examIndex + 1;
+    if (examTotalSpan) examTotalSpan.textContent = examQuestions.length;
+
+    let correct = 0;
+    let incorrect = 0;
+
+    Object.keys(examAnswers).forEach(idx => {
+        const q = examQuestions[idx];
+        const ans = examAnswers[idx];
+        const correctAns = q._shuffledCorrect || q.correct_answer;
+        if (ans === correctAns) {
+            correct++;
+        } else {
+            incorrect++;
+        }
+    });
+
+    if (examCorrectSpan) examCorrectSpan.textContent = correct;
+    if (examIncorrectSpan) examIncorrectSpan.textContent = incorrect;
+    if (examScoreSpan) examScoreSpan.textContent = examScore;
+}
+
+function updateExamProgress() {
+    if (examProgress && examQuestions.length > 0) {
+        const percent = ((examIndex + 1) / examQuestions.length) * 100;
+        examProgress.style.width = `${percent}%`;
     }
 }
 

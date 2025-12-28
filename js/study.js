@@ -125,7 +125,9 @@ function renderTopicList() {
 
     const filteredTopics = studyTopics.filter(topic => {
         if (currentChapter === 'all') return true;
-        return topic.chapters.includes(parseInt(currentChapter));
+        // Support string comparison for subjects like English (e.g. "unit-1")
+        // Check exact match (string or number)
+        return topic.chapters.some(c => c == currentChapter);
     });
 
     document.getElementById('topic-count').textContent = `${filteredTopics.length} chủ đề`;
@@ -268,9 +270,9 @@ function findVideoQuestions(video) {
     let questions = [];
 
     for (const [chapter, ids] of Object.entries(video.questionIds)) {
-        const chapterNum = parseInt(chapter);
+        // Support string chapter IDs
         const chapterQuestions = window.quizData.questions.filter(q =>
-            q.chapter === chapterNum && ids.includes(q.id)
+            (q.chapter == chapter) && ids.includes(q.id)
         );
         questions = questions.concat(chapterQuestions);
     }
@@ -304,9 +306,9 @@ function findRelatedQuestions(topic) {
     let questions = [];
 
     for (const [chapter, ids] of Object.entries(topic.questionIds)) {
-        const chapterNum = parseInt(chapter);
+        // Support string chapter IDs
         const chapterQuestions = window.quizData.questions.filter(q =>
-            q.chapter === chapterNum && ids.includes(q.id)
+            (q.chapter == chapter) && ids.includes(q.id)
         );
         questions = questions.concat(chapterQuestions);
     }
