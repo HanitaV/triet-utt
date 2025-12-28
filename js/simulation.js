@@ -91,6 +91,7 @@ function renderSimulationConfig() {
     if (!chapDistContainer || !currentSubjectData || !currentSubjectData.simulationConfig) return;
 
     const config = currentSubjectData.simulationConfig;
+    const isRegexMode = config.distributionType === 'regex';
 
     // Set default total questions
     if (simTotalQuestionsInput) simTotalQuestionsInput.value = config.totalQuestions;
@@ -102,24 +103,36 @@ function renderSimulationConfig() {
 
 
     let html = '';
-    const colors = ['📘', '📗', '📙', '📕', '📓', '📔', '📒', '📚']; // Icons for chapters
+    const colors = ['📘', '📗', '📙', '📕', '📓', '📔', '📒', '📚'];
 
     config.distribution.forEach((dist, idx) => {
-        const ch = currentSubjectData.chapters.find(c => c.id === dist.chapter);
-        const name = ch ? ch.name : `Chương ${dist.chapter}`;
+        let name, id;
+
+        if (isRegexMode) {
+            name = dist.name; // e.g. "Reading", "Grammar"
+            id = dist.name.replace(/\s+/g, '-');
+        } else {
+            const ch = currentSubjectData.chapters.find(c => c.id === dist.chapter);
+            name = ch ? ch.name : `Chương ${dist.chapter}`;
+            id = dist.chapter; // e.g. 1, 2, "unit-1"
+        }
+
         const icon = colors[idx % colors.length];
 
         html += `
             <div class="dist-row">
                 <label title="${name}">
                     <span class="dist-icon">${icon}</span>
-                    Chương ${dist.chapter}
+                    ${name}
                 </label>
                 <div class="dist-input">
-                    <input type="number" class="sim-ch-percent" data-chapter="${dist.chapter}" value="${dist.percent}" min="0" max="100">
+                    <input type="number" class="sim-ch-percent" 
+                           data-chapter="${id}" 
+                           data-index="${idx}"
+                           value="${dist.percent}" min="0" max="100">
                     <span>%</span>
                 </div>
-                <span class="dist-count" id="sim-ch${dist.chapter}-count">0 câu</span>
+                <span class="dist-count" id="sim-ch-${idx}-count">0 câu</span>
             </div>
         `;
     });
@@ -154,10 +167,10 @@ function updateCounts() {
 
     document.querySelectorAll('.sim-ch-percent').forEach(input => {
         const percent = parseInt(input.value) || 0;
-        const chapter = input.dataset.chapter;
+        const idx = input.dataset.index; // Use index for reliable identifying
         const count = Math.round((total * percent) / 100);
 
-        const countEl = document.getElementById(`sim-ch${chapter}-count`);
+        const countEl = document.getElementById(`sim-ch-${idx}-count`);
         if (countEl) countEl.textContent = `${count} câu`;
 
         totalPercent += percent;
@@ -179,14 +192,18 @@ function updateCounts() {
 function startSimulation() {
     const distribution = [];
     let totalPercentSum = 0;
+    const sourceDist = currentSubjectData.simulationConfig.distribution;
 
     // Gather requirements from inputs
     document.querySelectorAll('.sim-ch-percent').forEach(input => {
-        const chapterId = parseInt(input.dataset.chapter);
+        const idx = parseInt(input.dataset.index);
         const percent = parseInt(input.value) || 0;
-        if (percent > 0) {
-            distribution.push({ chapter: chapterId, percent: percent });
+
+        if (sourceDist && sourceDist[idx]) {
+            const distItem = { ...sourceDist[idx], percent: percent };
+            distribution.push(distItem);
         }
+
         totalPercentSum += percent;
     });
 
@@ -213,19 +230,30 @@ function startSimulation() {
         const targetCount = Math.round((totalQ * dist.percent) / 100);
         if (targetCount <= 0) return;
 
-        // Find chapter data in window.quizData
-        // window.quizData.questions should effectively be all questions flattened or we prefer structure
-        // loadAllData populates window.quizData.questions for single exam? 
-        // No, loadAllData populates individual chapter files into window.quizData.chapters usually or combines them?
-        // Let's check loadAllData implementation in common.js to be sure. 
-        // Assuming window.quizData has chapters array as per previous logic
+        let availableQuestions = [];
 
-        const chData = window.quizData.chapters.find(c => c.id === dist.chapter || c.chapter === dist.chapter);
-        if (!chData || !chData.questions) return;
+        // MODE 1: Regex-based distribution (for Skills)
+        if (simConfig.distributionType === 'regex' && dist.regex) {
+            const regex = new RegExp(dist.regex, 'i');
+            // Search across ALL chapters in window.quizData.questions
+            // Note: window.quizData.questions is a flat array of all loaded questions
+            availableQuestions = window.quizData.questions.filter(q => regex.test(q.id));
+        }
+        // MODE 2: Chapter-based distribution (Default)
+        else {
+            const chapterId = dist.chapter;
+            // Find chapter data in window.quizData.chapters first for efficiency if structured, 
+            // OR filter flat array if chapters are flattened.
+            // getQuestionsByChapter helper handles both usually.
+            availableQuestions = getQuestionsByChapter(chapterId);
+        }
 
-        // Prepare questions
-        const chapterQuestions = chData.questions.map(q => ({
+        if (availableQuestions.length === 0) return;
+
+        // Prepare questions (deep copy)
+        const chapterQuestions = availableQuestions.map(q => ({
             ...q,
+            // Ensure compatibility
             text: q.text || q.question,
             correct_answer: q.correct_answer || q.answer,
             options: (q.options || []).map(opt => ({
@@ -233,7 +261,8 @@ function startSimulation() {
                 text: opt.text || opt.content
             })),
             explanation: q.explanation || q.explain,
-            chapter: dist.chapter
+            // Tag with source info if needed
+            _sourceDist: dist.name || dist.chapter
         }));
 
         shuffleArray(chapterQuestions);

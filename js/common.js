@@ -218,6 +218,11 @@ function getQuestionsByChapter(chapter) {
         return window.quizData.questions;
     }
 
+    // 1. Try direct match (String ID or File Path)
+    const directMatch = window.quizData.questions.filter(q => q.file === chapter || q.chapter == chapter);
+    if (directMatch.length > 0) return directMatch;
+
+    // 2. Legacy: Try to extract number (for old Triet/PhapLuat if needed)
     let chapterNum = parseInt(chapter);
     if (isNaN(chapterNum) && typeof chapter === 'string') {
         const match = chapter.match(/chuong_(\d+)/i) || chapter.match(/(\d+)/);
@@ -230,7 +235,7 @@ function getQuestionsByChapter(chapter) {
         return window.quizData.questions.filter(q => q.chapter === chapterNum);
     }
 
-    return window.quizData.questions.filter(q => q.file === chapter);
+    return [];
 }
 
 // Utility Functions
