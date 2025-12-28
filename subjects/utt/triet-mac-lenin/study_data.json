@@ -180,9 +180,6 @@
                 "videoId": "nlmtgzotDBc",
                 "description": "Phân tích định nghĩa vật chất là thực tại khách quan, bản chất của ý thức và vai trò quyết định của vật chất đối với ý thức",
                 "questionIds": {
-                    "1": [
-                        4
-                    ],
                     "2": [
                         1,
                         2,
@@ -244,9 +241,6 @@
             }
         ],
         "questionIds": {
-            "1": [
-                4
-            ],
             "2": [
                 1,
                 2,
@@ -642,7 +636,20 @@
                 "title": "Phạm Trù Khả Năng Và Hiện Thực - Triết Học Mác-Lê Nin",
                 "videoId": "-E6p0Qeqtng",
                 "description": "Khả năng chuyển hóa thành hiện thực",
-                "questionIds": {}
+                "questionIds": {
+                    "2": [
+                        151,
+                        152,
+                        153,
+                        154,
+                        155,
+                        156,
+                        157,
+                        158,
+                        159,
+                        160
+                    ]
+                }
             }
         ],
         "questionIds": {
@@ -678,7 +685,17 @@
                 124,
                 125,
                 127,
-                128
+                128,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160
             ],
             "3": []
         },
@@ -906,7 +923,6 @@
                         93,
                         94,
                         95,
-                        1,
                         98,
                         101,
                         102,
@@ -1037,7 +1053,6 @@
                 95,
                 96,
                 97,
-                1,
                 98,
                 99,
                 100,

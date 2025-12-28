@@ -1,6 +1,6 @@
 {
     "title": "CHƯƠNG 2",
-    "total_questions": 148,
+    "total_questions": 160,
     "questions": [
         {
             "id": 1,
@@ -3593,6 +3593,246 @@
             ],
             "answer": "C",
             "explain": "Thực tiễn... có Mục đích (nhằm cải tạo...), mang Tính lịch sử - xã hội."
+        },
+        {
+            "id": 151,
+            "question": "Phạm trù triết học dùng để chỉ những gì hiện chưa có, nhưng sẽ có, sẽ tới khi có các điều kiện tương ứng gọi là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hiện thực"
+                },
+                {
+                    "id": "B",
+                    "content": "Khả năng"
+                },
+                {
+                    "id": "C",
+                    "content": "Tất nhiên"
+                },
+                {
+                    "id": "D",
+                    "content": "Ngẫu nhiên"
+                }
+            ],
+            "answer": "B",
+            "explain": "Khả năng là cái chưa có, nhưng sẽ có khi có đủ điều kiện."
+        },
+        {
+            "id": 152,
+            "question": "Phạm trù triết học dùng để chỉ những gì đang có, đang tồn tại gọi là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hiện thực"
+                },
+                {
+                    "id": "B",
+                    "content": "Khả năng"
+                },
+                {
+                    "id": "C",
+                    "content": "Kết quả"
+                },
+                {
+                    "id": "D",
+                    "content": "Hệ quả"
+                }
+            ],
+            "answer": "A",
+            "explain": "Hiện thực là cái đã ra đời, đang tồn tại thực sự."
+        },
+        {
+            "id": 153,
+            "question": "Chọn phán đoán đúng về mối quan hệ giữa khả năng và hiện thực?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khả năng và hiện thực tồn tại tách rời nhau, không chuyển hóa cho nhau"
+                },
+                {
+                    "id": "B",
+                    "content": "Khả năng và hiện thực luôn luôn chuyển hóa lẫn nhau trong quá trình phát triển"
+                },
+                {
+                    "id": "C",
+                    "content": "Hiện thực sinh ra khả năng, khả năng biến thành hiện thực"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả B và C"
+                }
+            ],
+            "answer": "D",
+            "explain": "Hiện thực sinh ra khả năng mới; khả năng trong điều kiện nhất định sẽ biến thành hiện thực mới."
+        },
+        {
+            "id": 154,
+            "question": "Để biến khả năng thành hiện thực, bên cạnh các điều kiện khách quan, cần có nhân tố nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhân tố chủ quan của con người"
+                },
+                {
+                    "id": "B",
+                    "content": "Sự can thiệp của lực lượng siêu nhiên"
+                },
+                {
+                    "id": "C",
+                    "content": "Sự ngẫu nhiên"
+                },
+                {
+                    "id": "D",
+                    "content": "Thời cơ may mắn"
+                }
+            ],
+            "answer": "A",
+            "explain": "Trong xã hội, để biến khả năng thành hiện thực cần vai trò của nhân tố chủ quan (hoạt động thực tiễn của con người)."
+        },
+        {
+            "id": 155,
+            "question": "Ý nghĩa phương pháp luận rút ra từ mối quan hệ giữa khả năng và hiện thực là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trong hoạt động thực tiễn phải dựa vào khả năng"
+                },
+                {
+                    "id": "B",
+                    "content": "Trong hoạt động thực tiễn phải dựa vào hiện thực, không được dựa vào khả năng"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ quan tâm đến hiện thực, bỏ qua khả năng"
+                },
+                {
+                    "id": "D",
+                    "content": "Dựa vào mong muốn chủ quan"
+                }
+            ],
+            "answer": "B",
+            "explain": "Phải dựa vào hiện thực (cái đang tồn tại) để định ra chủ trương, không được dựa vào khả năng (cái chưa có). Tuy nhiên phải tính đến khả năng để chủ động."
+        },
+        {
+            "id": 156,
+            "question": "Loại khả năng nào được hình thành do các tương tác ngẫu nhiên quy định?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khả năng tất nhiên"
+                },
+                {
+                    "id": "B",
+                    "content": "Khả năng ngẫu nhiên"
+                },
+                {
+                    "id": "C",
+                    "content": "Khả năng thực tế"
+                },
+                {
+                    "id": "D",
+                    "content": "Khả năng trừu tượng"
+                }
+            ],
+            "answer": "B",
+            "explain": "Khả năng ngẫu nhiên là khả năng được hình thành do các tương tác ngẫu nhiên, biến cố bất thường quy định."
+        },
+        {
+            "id": 157,
+            "question": "Loại khả năng nào chưa có đủ điều kiện cần thiết để biến thành hiện thực ngay lúc này?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khả năng thực tế"
+                },
+                {
+                    "id": "B",
+                    "content": "Khả năng tất nhiên"
+                },
+                {
+                    "id": "C",
+                    "content": "Khả năng ngẫu nhiên"
+                },
+                {
+                    "id": "D",
+                    "content": "Khả năng trừu tượng (hình thức)"
+                }
+            ],
+            "answer": "D",
+            "explain": "Khả năng trừu tượng (hay khả năng hình thức) là khả năng chưa có đủ điều kiện để thành hiện thực ở thời điểm hiện tại, nhưng có thể thành hiện thực trong tương lai xa."
+        },
+        {
+            "id": 158,
+            "question": "Trong cùng một sự vật và trong cùng một thời điểm có thể tồn tại bao nhiêu khả năng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chỉ một nhận năng duy nhất"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhiều khả năng khác nhau"
+                },
+                {
+                    "id": "C",
+                    "content": "Không có khả năng nào"
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ hai khả năng đối lập"
+                }
+            ],
+            "answer": "B",
+            "explain": "Một sự vật có thể chứa đựng nhiều khả năng khác nhau (tốt, xấu, tiến bộ, lạc hậu...) tùy thuộc vào sự tương tác của các mặt đối lập."
+        },
+        {
+            "id": 159,
+            "question": "Yếu tố nào đóng vai trò quyết định nhất trong việc biến khả năng thành hiện thực trong đời sống xã hội?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hoàn cảnh khách quan thuận lợi"
+                },
+                {
+                    "id": "B",
+                    "content": "Sự nỗ lực chủ quan của con người"
+                },
+                {
+                    "id": "C",
+                    "content": "Sự tác động của thần linh"
+                },
+                {
+                    "id": "D",
+                    "content": "Sự may mắn ngẫu nhiên"
+                }
+            ],
+            "answer": "B",
+            "explain": "Trong xã hội, nếu thiếu hoạt động có ý thức (nỗ lực chủ quan) của con người thì khả năng không thể tự biến thành hiện thực."
+        },
+        {
+            "id": 160,
+            "question": "Chủ tịch Hồ Chí Minh nói: “Cái gì cũ mà xấu thì phải bỏ… Cái gì cũ mà không xấu, nhưng phiền phức thì phải sửa đổi…”. Quan điểm này vận dụng cặp phạm trù nào để cải tạo hiện thực?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phủ định của phủ định"
+                },
+                {
+                    "id": "B",
+                    "content": "Khả năng và Hiện thực"
+                },
+                {
+                    "id": "C",
+                    "content": "Nguyên nhân và Kết quả"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất nhiên và Ngẫu nhiên"
+                }
+            ],
+            "answer": "B",
+            "explain": "Bác đang nói về việc biến những khả năng (tốt/xấu trong cái cũ) thành hiện thực mới (nhà nước mới, đời sống mới) thông qua sự sàng lọc chủ quan."
         }
     ]
 }
