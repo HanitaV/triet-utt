@@ -474,23 +474,6 @@ function selectExamAnswer(answerInput) {
     examAnswers[examIndex] = userAnswer;
     updateStats({ studiedToday: 1, totalAnswered: 1 });
 
-    // Show explanation if incorrect AND AI toggle is checked
-    const aiToggle = document.getElementById('ai-explanation-toggle');
-    const showAI = aiToggle ? aiToggle.checked : true;
-
-    if (!isCorrect && examExplanation && showAI) {
-        const explanationText = q.explanation || "Không có giải thích chi tiết cho câu hỏi này.";
-        examExplanation.innerHTML = `
-            <div class="explanation-box">
-                <div class="explanation-header">
-                    <span class="gemini-badge">Gemini 3.0 PRO</span>
-                </div>
-                <div class="explanation-text">${explanationText}</div>
-            </div>
-        `;
-        examExplanation.classList.remove('hidden');
-    }
-
     if (isCorrect) {
         examScore += 10;
         updateStats({ totalCorrect: 1 });
@@ -504,6 +487,23 @@ function selectExamAnswer(answerInput) {
 
     // Re-render to show state
     renderExamQuestion();
+
+    // Show explanation if incorrect AND AI toggle is checked
+    const aiToggle = document.getElementById('ai-explanation-toggle');
+    const showAI = aiToggle ? aiToggle.checked : true;
+
+    if (!isCorrect && examExplanation && showAI) {
+        const explanationText = q.explanation || q.explain || "Không có giải thích chi tiết cho câu hỏi này.";
+        examExplanation.innerHTML = `
+            <div class="explanation-box">
+                <div class="explanation-header">
+                    <span class="gemini-badge">Gemini 3.0 PRO</span>
+                </div>
+                <div class="explanation-text">${explanationText}</div>
+            </div>
+        `;
+        examExplanation.classList.remove('hidden');
+    }
 
     waitingForContinue = true;
     examContinueBtn?.classList.remove('hidden');
