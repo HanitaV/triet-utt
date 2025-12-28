@@ -201,6 +201,13 @@ function initExamEventListeners() {
 function startPracticeExam(questions) {
     examQuestions = [...questions];
 
+    // Clear previous shuffle data
+    examQuestions.forEach(q => {
+        delete q._shuffledOptions;
+        delete q._shuffledCorrect;
+        delete q._type;
+    });
+
     if (examQuestions.length === 0) {
         if (examQuestionText) examQuestionText.textContent = 'Không có câu hỏi để luyện tập.';
         if (examOptions) examOptions.innerHTML = '';
@@ -228,6 +235,13 @@ function startExam(chapter) {
     }
 
     examQuestions = [...getQuestionsByChapter(chapter)];
+
+    // Clear previous shuffle data
+    examQuestions.forEach(q => {
+        delete q._shuffledOptions;
+        delete q._shuffledCorrect;
+        delete q._type;
+    });
 
     if (examQuestions.length === 0) {
         if (examQuestionText) examQuestionText.textContent = 'Không tìm thấy câu hỏi. Vui lòng chọn chương khác.';
@@ -284,22 +298,32 @@ function renderExamQuestion() {
 
     // RENDER: Multiple Choice & True/False
     if (type === 'multiple_choice' || type === 'true_false') {
-        let options = [...(q.options || [])];
+        // Normalize options
+        let options = (q.options || []).map(o => ({
+            ...o,
+            letter: o.letter || o.id,
+            text: o.text || o.content
+        }));
+
         let correctLetter = q.correct_answer;
 
         if (shuffleAnswers && type === 'multiple_choice') {
-            shuffleArray(options);
-            const letters = ['A', 'B', 'C', 'D'];
-            options = options.map((opt, i) => ({
-                ...opt,
-                originalLetter: opt.letter,
-                letter: letters[i]
-            }));
-            correctLetter = options.find(o => o.originalLetter === q.correct_answer)?.letter || q.correct_answer;
-        }
+            if (!q._shuffledOptions) {
+                let optsToShuffle = [...options];
+                shuffleArray(optsToShuffle);
+                const letters = ['A', 'B', 'C', 'D'];
+                optsToShuffle = optsToShuffle.map((opt, i) => ({
+                    ...opt,
+                    originalLetter: opt.letter,
+                    letter: letters[i]
+                }));
 
-        q._shuffledOptions = options;
-        q._shuffledCorrect = correctLetter;
+                q._shuffledOptions = optsToShuffle;
+                q._shuffledCorrect = optsToShuffle.find(o => o.originalLetter === q.correct_answer)?.letter || q.correct_answer;
+            }
+            options = q._shuffledOptions;
+            correctLetter = q._shuffledCorrect;
+        }
 
         optionsHtml = options.map(opt => {
             let classes = type === 'true_false' ? 'tf-btn' : 'option';
