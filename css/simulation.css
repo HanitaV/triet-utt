@@ -397,3 +397,241 @@ input:checked+.slider:before {
     background: rgba(10, 132, 255, 0.15) !important;
     border-color: #0A84FF !important;
 }
+
+/* ===== Exam Interface (Inherited + Enhanced) ===== */
+
+/* Header & Timer */
+.sim-exam-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 24px;
+    background: var(--glass-material);
+    backdrop-filter: var(--glass-blur);
+    -webkit-backdrop-filter: var(--glass-blur);
+    border: 1px solid var(--glass-border);
+    border-radius: 20px;
+    margin-bottom: 24px;
+    position: sticky;
+    top: 80px;
+    z-index: 100;
+    box-shadow: var(--glass-shadow);
+}
+
+.sim-timer {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: rgba(0, 0, 0, 0.2);
+    padding: 8px 16px;
+    border-radius: 12px;
+}
+
+.timer-value {
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--text-primary);
+}
+
+.sim-progress-info {
+    font-weight: 600;
+    color: var(--text-secondary);
+}
+
+/* Submit Button */
+.sim-submit-btn {
+    padding: 10px 20px;
+    background: var(--incorrect);
+    /* Red for end exam */
+    color: white;
+    border: none;
+    border-radius: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.sim-submit-btn:hover {
+    transform: scale(1.05);
+}
+
+/* Question Nav Grid */
+.sim-question-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 16px;
+    background: var(--glass-material);
+    backdrop-filter: var(--glass-blur);
+    border: 1px solid var(--glass-border);
+    border-radius: 20px;
+    margin-bottom: 24px;
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+.q-nav-btn {
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    color: var(--text-secondary);
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.q-nav-btn:hover {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.q-nav-btn.current {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: var(--accent-light);
+}
+
+.q-nav-btn.answered {
+    background: var(--accent);
+    color: white;
+    border-color: var(--accent);
+}
+
+.q-nav-btn.correct {
+    background: var(--correct);
+    color: white;
+    border-color: var(--correct);
+}
+
+.q-nav-btn.incorrect {
+    background: var(--incorrect);
+    color: white;
+    border-color: var(--incorrect);
+}
+
+.q-nav-btn.skipped {
+    border-color: var(--warning);
+    color: var(--warning);
+}
+
+/* Progress Bar */
+.sim-exam-progress {
+    margin-bottom: 24px;
+}
+
+.sim-exam-progress .progress-bar {
+    height: 6px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.sim-exam-progress .progress-fill {
+    height: 100%;
+    background: #34C759;
+    /* Apple Green */
+    box-shadow: 0 0 10px rgba(52, 199, 89, 0.5);
+    transition: width 0.3s ease;
+}
+
+/* Question Container */
+.sim-question-container {
+    background: var(--glass-material) !important;
+    backdrop-filter: var(--glass-blur);
+    -webkit-backdrop-filter: var(--glass-blur);
+    border: 1px solid var(--glass-border);
+    border-radius: 24px !important;
+    padding: 24px;
+    margin-bottom: 24px;
+}
+
+.question-text {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 24px;
+    color: var(--text-primary);
+}
+
+/* Options */
+.option {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 16px;
+    margin-bottom: 12px;
+    border-radius: 16px !important;
+    background: rgba(255, 255, 255, 0.03) !important;
+    border: 1px solid rgba(255, 255, 255, 0.05) !important;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.option:hover {
+    background: rgba(255, 255, 255, 0.08) !important;
+}
+
+.option.selected {
+    background: rgba(10, 132, 255, 0.15) !important;
+    border-color: #0A84FF !important;
+}
+
+.option-letter {
+    width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 50%;
+    font-weight: 700;
+    font-size: 14px;
+    color: var(--text-secondary);
+}
+
+.option.selected .option-letter {
+    background: #0A84FF;
+    color: white;
+}
+
+/* Nav Buttons (Next/Prev) */
+.sim-nav-buttons {
+    display: flex;
+    gap: 16px;
+}
+
+.sim-nav-btn {
+    flex: 1;
+    padding: 16px;
+    background: var(--glass-material);
+    border: 1px solid var(--glass-border);
+    color: var(--text-primary);
+    border-radius: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.sim-nav-btn:hover:not(:disabled) {
+    background: rgba(255, 255, 255, 0.1);
+    transform: translateY(-2px);
+}
+
+.sim-nav-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+/* Result Screen Enhancements */
+.simulation-result h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    background: linear-gradient(135deg, #fff 0%, #a5b4fc 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
