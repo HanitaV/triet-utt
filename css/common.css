@@ -1,12 +1,12 @@
 /* ===== CSS Variables - NEO Education Theme ===== */
 :root {
-    /* Dark Mode (Default) */
-    --bg-primary: #0a0f1a;
-    --bg-secondary: #111827;
-    --bg-card: rgba(17, 24, 39, 0.95);
-    --bg-card-solid: #1a1f2e;
-    --bg-hover: rgba(30, 41, 59, 0.8);
-    --bg-glass: rgba(17, 24, 39, 0.7);
+    /* Dark Mode (Default) - Tinted with Accent */
+    --bg-primary: color-mix(in srgb, var(--accent) 5%, #0a0f1a);
+    --bg-secondary: color-mix(in srgb, var(--accent) 8%, #111827);
+    --bg-card: color-mix(in srgb, var(--accent) 5%, rgba(17, 24, 39, 0.95));
+    --bg-card-solid: color-mix(in srgb, var(--accent) 5%, #1a1f2e);
+    --bg-hover: color-mix(in srgb, var(--accent) 10%, rgba(30, 41, 59, 0.8));
+    --bg-glass: color-mix(in srgb, var(--accent) 5%, rgba(17, 24, 39, 0.7));
     --text-primary: #f1f5f9;
     --text-secondary: #94a3b8;
     --text-muted: #64748b;
@@ -45,14 +45,14 @@
     --space-2xl: 48px;
 }
 
-/* Light Mode */
+/* Light Mode - Tinted with Accent */
 [data-theme="light"] {
-    --bg-primary: #f8fafc;
-    --bg-secondary: #ffffff;
-    --bg-card: rgba(255, 255, 255, 0.98);
-    --bg-card-solid: #ffffff;
-    --bg-hover: rgba(241, 245, 249, 0.9);
-    --bg-glass: rgba(255, 255, 255, 0.8);
+    --bg-primary: color-mix(in srgb, var(--accent) 5%, #f8fafc);
+    --bg-secondary: color-mix(in srgb, var(--accent) 8%, #ffffff);
+    --bg-card: color-mix(in srgb, var(--accent) 3%, rgba(255, 255, 255, 0.98));
+    --bg-card-solid: color-mix(in srgb, var(--accent) 3%, #ffffff);
+    --bg-hover: color-mix(in srgb, var(--accent) 10%, rgba(241, 245, 249, 0.9));
+    --bg-glass: color-mix(in srgb, var(--accent) 5%, rgba(255, 255, 255, 0.8));
     --text-primary: #0f172a;
     --text-secondary: #475569;
     --text-muted: #94a3b8;
