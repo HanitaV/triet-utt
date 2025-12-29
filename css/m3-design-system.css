@@ -91,34 +91,33 @@
 
 /* ===== M3 Color Tokens - Light Theme (Soft/Airy) ===== */
 [data-theme="light"] {
-    /* Primary - Muted Blue */
-    --md-primary: #385ca8;
+    /* Primary/Secondary/Tertiary map to current accent (Material You style) */
+    --md-primary: var(--accent);
     --md-on-primary: #ffffff;
-    --md-primary-container: #d9e2ff;
-    --md-on-primary-container: #001944;
+    --md-primary-container: color-mix(in srgb, var(--accent) 18%, #ffffff);
+    --md-on-primary-container: var(--accent);
 
-    /* Secondary - Muted Purple/Grey */
-    --md-secondary: #585e71;
+    --md-secondary: color-mix(in srgb, var(--accent) 70%, #808080);
     --md-on-secondary: #ffffff;
-    --md-secondary-container: #dce2f9;
-    --md-on-secondary-container: #151b2c;
+    --md-secondary-container: color-mix(in srgb, var(--accent) 10%, #f3edf7);
+    --md-on-secondary-container: var(--md-on-surface);
 
-    /* Tertiary - Soft Teal */
-    --md-tertiary: #1b6567;
+    --md-tertiary: color-mix(in srgb, var(--accent) 50%, #a0cfd0);
     --md-on-tertiary: #ffffff;
-    --md-tertiary-container: #bcebef;
-    --md-on-tertiary-container: #001f20;
+    --md-tertiary-container: color-mix(in srgb, var(--accent) 10%, #bcebef);
+    --md-on-tertiary-container: var(--md-on-surface);
 
-    /* Surface - Tinted Off-Whites */
-    --md-surface: #fdfbff;
-    --md-surface-dim: #ded8e1;
-    --md-surface-bright: #fdfbff;
+    /* Surface - Material You tinted off-whites (dynamic by current accent) */
+    --md-surface: color-mix(in srgb, var(--accent) 3%, #fdfbff);
+    --md-surface-dim: color-mix(in srgb, var(--accent) 3%, #ded8e1);
+    --md-surface-bright: color-mix(in srgb, var(--accent) 3%, #fdfbff);
 
-    --md-surface-container-lowest: #ffffff;
-    --md-surface-container-low: #f7f2fa;
-    --md-surface-container: #f3edf7;
-    --md-surface-container-high: #ece6f0;
-    --md-surface-container-highest: #e6e0e9;
+    /* Containers: progressively stronger tint for clearer hierarchy */
+    --md-surface-container-lowest: color-mix(in srgb, var(--accent) 2%, #ffffff);
+    --md-surface-container-low: color-mix(in srgb, var(--accent) 4%, #f7f2fa);
+    --md-surface-container: color-mix(in srgb, var(--accent) 6%, #f3edf7);
+    --md-surface-container-high: color-mix(in srgb, var(--accent) 8%, #ece6f0);
+    --md-surface-container-highest: color-mix(in srgb, var(--accent) 10%, #e6e0e9);
 
     --md-on-surface: #1a1b1f;
     --md-on-surface-variant: #44474f;

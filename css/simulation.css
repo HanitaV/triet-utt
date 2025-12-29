@@ -52,6 +52,13 @@
     margin-bottom: 8px;
 }
 
+[data-theme="light"] .ios-title {
+    background: linear-gradient(135deg, var(--md-primary) 0%, var(--md-tertiary) 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
 .ios-subtitle {
     font-size: 17px;
     color: var(--text-secondary);
@@ -106,10 +113,43 @@
     flex-direction: column;
 }
 
+/* Light theme: switch Apple-glass cards to M3 surface containers */
+[data-theme="light"] .bento-card,
+[data-theme="light"] .sim-exam-header,
+[data-theme="light"] .sim-question-nav,
+[data-theme="light"] .sim-question-container,
+[data-theme="light"] .sim-nav-btn {
+    background: var(--md-surface-container) !important;
+    border: 1px solid var(--md-outline-variant) !important;
+    box-shadow: var(--md-shadow-1) !important;
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+}
+
+[data-theme="light"] .sim-exam-progress .progress-bar {
+    background: var(--md-surface-container-high);
+}
+
+[data-theme="light"] .q-nav-btn {
+    background: var(--md-surface-container-low);
+    border: 1px solid var(--md-outline-variant);
+    color: var(--md-on-surface-variant);
+}
+
+[data-theme="light"] .q-nav-btn:hover {
+    background: var(--md-surface-container-high);
+}
+
 .bento-card:hover {
     transform: translateY(-4px);
     box-shadow: 0 12px 40px rgba(0, 0, 0, 0.2);
     border-color: rgba(255, 255, 255, 0.2);
+}
+
+[data-theme="light"] .bento-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--md-shadow-2);
+    border-color: var(--md-outline);
 }
 
 .bento-card h3 {
@@ -149,6 +189,11 @@
     gap: 8px;
 }
 
+[data-theme="light"] .ios-stepper {
+    background: var(--md-surface-container-high);
+    border: 1px solid var(--md-outline-variant);
+}
+
 .ios-stepper input {
     background: transparent;
     border: none;
@@ -175,8 +220,17 @@
     justify-content: center;
 }
 
+[data-theme="light"] .stepper-btn {
+    background: var(--md-surface-container-highest);
+    color: var(--md-on-surface);
+}
+
 .stepper-btn:hover {
     background: rgba(255, 255, 255, 0.2);
+}
+
+[data-theme="light"] .stepper-btn:hover {
+    background: var(--md-surface-container-high);
 }
 
 .stepper-btn:active {
@@ -427,6 +481,11 @@ input:checked+.slider:before {
     border-radius: 12px;
 }
 
+[data-theme="light"] .sim-timer {
+    background: var(--md-surface-container-high);
+    border: 1px solid var(--md-outline-variant);
+}
+
 .timer-value {
     font-family: monospace;
     font-size: 20px;
@@ -571,13 +630,29 @@ input:checked+.slider:before {
     transition: all 0.2s;
 }
 
+[data-theme="light"] .option {
+    background: var(--md-surface-container-low) !important;
+    border: 1px solid var(--md-outline-variant) !important;
+}
+}
+
 .option:hover {
     background: rgba(255, 255, 255, 0.08) !important;
+}
+
+[data-theme="light"] .option:hover {
+    background: var(--md-surface-container-high) !important;
 }
 
 .option.selected {
     background: rgba(10, 132, 255, 0.15) !important;
     border-color: #0A84FF !important;
+}
+
+[data-theme="light"] .option.selected {
+    background: color-mix(in srgb, var(--md-primary) 12%, var(--md-surface-container-high)) !important;
+    border-color: var(--md-primary) !important;
+}
 }
 
 .option-letter {
@@ -593,9 +668,21 @@ input:checked+.slider:before {
     color: var(--text-secondary);
 }
 
+[data-theme="light"] .option-letter {
+    background: var(--md-primary-container);
+    color: var(--md-on-primary-container);
+}
+}
+
 .option.selected .option-letter {
     background: #0A84FF;
     color: white;
+}
+
+[data-theme="light"] .option.selected .option-letter {
+    background: var(--md-primary);
+    color: var(--md-on-primary);
+}
 }
 
 /* Nav Buttons (Next/Prev) */
