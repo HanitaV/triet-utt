@@ -4,46 +4,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Thi Thử | Pháp Luật Đại Cương</title>
-    <meta name="description" content="Thi thử trắc nghiệm Pháp luật đại cương">
+    <title>Thi Thử | NEO Education</title>
+    <meta name="description" content="NEO Education - Thi thử trắc nghiệm với hệ thống chấm điểm thông minh">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/common.css">
-    <link rel="stylesheet" href="css/exam.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/common.css?v=2025122902">
+    <link rel="stylesheet" href="css/m3-design-system.css?v=2025122902">
+    <link rel="stylesheet" href="css/exam.css?v=2025122902">
 </head>
 
 <body>
     <!-- Header Navigation -->
     <header class="main-header">
         <div class="header-content">
-            <a href="index.html" class="logo">⚖️ Pháp Luật Đại Cương</a>
-            <button class="menu-toggle" id="menu-toggle" title="Menu">☰</button>
-            <nav class="main-nav">
-                <a href="index.html" class="nav-tab">
-                    <span class="tab-icon">🏠</span>
-                    <span class="tab-text">Trang chủ</span>
-                </a>
-                <a href="study.html" class="nav-tab">
-                    <span class="tab-icon">📖</span>
-                    <span class="tab-text">Học tập</span>
-                </a>
-                <!-- <a href="flashcard.html" class="nav-tab">
-                    <span class="tab-icon">🎴</span>
-                    <span class="tab-text">Flashcard</span>
-                </a> -->
-                <a href="exam.html" class="nav-tab active">
-                    <span class="tab-icon">📝</span>
-                    <span class="tab-text">Thi thử</span>
-                </a>
-                <a href="simulation.html" class="nav-tab">
-                    <span class="tab-icon">🎯</span>
-                    <span class="tab-text">Giả lập</span>
-                </a>
-            </nav>
-            <button class="theme-toggle" id="theme-toggle" title="Chuyển đổi giao diện">
-                <span class="theme-icon">🌙</span>
-            </button>
+            <a href="index.html" class="logo header-logo-centered" id="header-logo">
+                <img src="assets/logo/dark_logo.png" alt="NEO" class="logo-img logo-for-dark" height="32">
+                <img src="assets/logo/white_logo.png" alt="NEO" class="logo-img logo-for-light" height="32">
+                <span class="logo-text">NEO Education</span>
+            </a>
         </div>
     </header>
 
@@ -134,25 +113,7 @@
         </div>
     </main>
 
-    <footer class="main-footer">
-        <div class="footer-content">
-            <p>Ôn tập miễn phí do sinh viên trường Đại học Công nghệ Giao thông vận tải tạo và Học viện Công nghệ Bưu
-                chính Viễn thông hỗ trợ nội dung ❤️</p>
-            <p class="footer-disclaimer">Gemini có thể mắc sai lầm, các câu hỏi, đáp án và nội dung lý thuyết nên dừng
-                lại ở tham khảo</p>
-            <div style="margin-top: 12px;">
-                <a href="https://www.facebook.com/HanitaVII" target="_blank" class="text-secondary"
-                    style="text-decoration: none; font-size: 0.9rem; display: inline-flex; align-items: center; gap: 6px;">
-                    <span>👨‍💻</span> Liên hệ / Góp ý: HanitaVII
-                </a>
-            </div>
-            <div class="footer-version" style="margin-top: 8px; font-size: 0.8rem; opacity: 0.7;">
-                <span>v1.2.0</span> •
-                <span>Updated: 29/12/2025</span> •
-                <span>Commit: ad64398</span>
-            </div>
-        </div>
-    </footer>
+    <!-- Footer moved to Settings tab -->
 
     <!-- Result Modal -->
     <div class="modal" id="result-modal">
@@ -180,9 +141,33 @@
         ⌨️ <kbd>1-4</kbd> chọn đáp án | <kbd>Enter</kbd> tiếp tục | <kbd>H</kbd> gợi ý
     </div>
 
-    <script src="js/progress.js"></script>
-    <script src="js/common.js"></script>
-    <script src="js/exam.js"></script>
+    <!-- Floating Navigation Dock (Moved from Header) -->
+    <nav class="main-nav">
+        <a href="index.html" class="nav-tab">
+            <span class="tab-icon">🏠</span>
+            <span class="tab-text">Trang chủ</span>
+        </a>
+        <a href="study.html" class="nav-tab">
+            <span class="tab-icon">📖</span>
+            <span class="tab-text">Học tập</span>
+        </a>
+        <a href="exam.html" class="nav-tab active">
+            <span class="tab-icon">📝</span>
+            <span class="tab-text">Thi thử</span>
+        </a>
+        <a href="simulation.html" class="nav-tab">
+            <span class="tab-icon">🎯</span>
+            <span class="tab-text">Giả lập</span>
+        </a>
+        <a href="settings.html" class="nav-tab">
+            <span class="tab-icon">⚙️</span>
+            <span class="tab-text">Cài đặt</span>
+        </a>
+    </nav>
+
+    <script src="js/progress.js?v=2025122902"></script>
+    <script src="js/common.js?v=2025122902"></script>
+    <script src="js/exam.js?v=2025122902"></script>
 </body>
 
 </html>

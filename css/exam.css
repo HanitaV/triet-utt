@@ -1,16 +1,17 @@
-/* ===== Exam Page - Modern Design ===== */
+/* ===== Exam Page - Material Design 3 ===== */
 
 /* Layout */
 .exam-main {
     min-height: calc(100vh - 70px);
     display: flex;
     flex-direction: column;
+    background: var(--md-surface);
 }
 
-/* Header Card */
+/* Header Card - M3 Top App Bar style */
 .exam-header-card {
-    background: var(--bg-secondary);
-    border-bottom: 1px solid var(--border);
+    background: var(--md-surface-container);
+    border-bottom: 1px solid var(--md-outline-variant);
     padding: 20px 24px;
 }
 
@@ -50,30 +51,30 @@
 
 .exam-controls select {
     padding: 10px 16px;
-    border-radius: var(--radius-sm);
-    border: 1px solid var(--border);
-    background: var(--bg-card);
-    color: var(--text-primary);
-    font-family: var(--font);
-    font-size: 0.9rem;
+    border-radius: var(--md-shape-sm);
+    border: 1px solid var(--md-outline);
+    background: var(--md-surface-container-low);
+    color: var(--md-on-surface);
+    font-family: var(--md-font);
+    font-size: 14px;
     cursor: pointer;
-    transition: var(--transition);
+    transition: all var(--md-motion-duration-short);
 }
 
 .exam-controls select:focus {
     outline: none;
-    border-color: var(--accent);
+    border-color: var(--md-primary);
 }
 
-/* Score Display */
+/* Score Display - M3 Card */
 .exam-score-box {
     display: flex;
     align-items: center;
     gap: 16px;
-    background: var(--bg-card);
+    background: var(--md-surface-container-low);
     padding: 12px 20px;
-    border-radius: var(--radius);
-    border: 1px solid var(--border);
+    border-radius: var(--md-shape-md);
+    box-shadow: var(--md-shadow-1);
 }
 
 .score-stat {
@@ -175,18 +176,17 @@
 .exam-content {
     flex: 1;
     padding: 24px;
-    background: var(--bg-primary);
+    background: var(--md-surface);
 }
 
-/* Question Container */
+/* Question Container - M3 Card */
 .question-container {
     max-width: 900px;
     margin: 0 auto;
-    background: var(--bg-card);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
+    background: var(--md-surface-container-low);
+    border-radius: var(--md-shape-md);
     padding: 32px;
-    box-shadow: var(--shadow-sm);
+    box-shadow: var(--md-shadow-1);
     animation: slideUp 0.3s ease;
 }
 

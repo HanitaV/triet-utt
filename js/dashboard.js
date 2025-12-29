@@ -61,24 +61,19 @@ async function updateSuggestions() {
 function updateHomeContent() {
     if (!currentSubjectData) return;
 
-    // Update Meta and Title
-    document.title = `Ôn Thi ${currentSubjectData.name} | ${currentSubjectData.shortSchool}`;
-    const metaDesc = document.getElementById('meta-desc');
-    if (metaDesc) {
-        metaDesc.content = `Ứng dụng ôn thi trắc nghiệm ${currentSubjectData.name} - ${currentSubjectData.school} - Học tập cùng AI.`;
-    }
+    // Title and meta are now set in HTML for NEO Education branding
+    // No longer dynamically overwriting page title
 
-    // Update Hero Section
+    // Update Hero Section with current subject
     const heroTitle = document.getElementById('hero-title');
     if (heroTitle) heroTitle.textContent = `Chinh phục ${currentSubjectData.name}`;
 
-    // Note: Logo is also updated in common.js updateHeaderWithSubject(), but we can do it here too for redundancy or specific home styling
-    const logo = document.getElementById('header-logo');
-    if (logo) logo.innerHTML = `${currentSubjectData.icon} ${currentSubjectData.name}`;
+    // Header logo now displays NEO Education logo only - no longer overwriting
+    // Logo HTML is set in the HTML files with theme-aware image switching
 
-    const heroSubtitle = document.querySelector('.hero-subtitle');
+    const heroSubtitle = document.querySelector('.md-hero-subtitle');
     if (heroSubtitle) {
-        heroSubtitle.textContent = `Nền tảng ôn thi ${currentSubjectData.name} toàn diện với sự hỗ trợ của AI`;
+        heroSubtitle.textContent = `Nền tảng ôn thi ${currentSubjectData.name} với sự hỗ trợ của AI`;
     }
 
     // Update Stats

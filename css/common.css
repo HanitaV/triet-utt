@@ -1,4 +1,4 @@
-/* ===== CSS Variables - Modern Academic Theme ===== */
+/* ===== CSS Variables - NEO Education Theme ===== */
 :root {
     /* Dark Mode (Default) */
     --bg-primary: #0a0f1a;
@@ -10,10 +10,13 @@
     --text-primary: #f1f5f9;
     --text-secondary: #94a3b8;
     --text-muted: #64748b;
-    --accent: #3b82f6;
-    --accent-hover: #60a5fa;
-    --accent-light: rgba(59, 130, 246, 0.15);
-    --accent-gradient: linear-gradient(135deg, #3b82f6, #8b5cf6);
+    /* NEO Education Colors - Purple/Cyan theme */
+    --accent: #7c3aed;
+    --accent-hover: #a78bfa;
+    --accent-light: rgba(124, 58, 237, 0.15);
+    --accent-gradient: linear-gradient(135deg, #7c3aed, #06b6d4);
+    --accent-secondary: #06b6d4;
+    --accent-tertiary: #a855f7;
     --correct: #10b981;
     --correct-bg: rgba(16, 185, 129, 0.15);
     --incorrect: #ef4444;
@@ -60,6 +63,48 @@
     --shadow-lg: 0 20px 60px rgba(0, 0, 0, 0.1);
 }
 
+/* ===== Experimental Color Themes ===== */
+
+/* Ocean Theme (Blue/Teal) */
+html[data-color-theme="ocean"] {
+    --accent: #0ea5e9;
+    --accent-hover: #38bdf8;
+    --accent-light: rgba(14, 165, 233, 0.15);
+    --accent-gradient: linear-gradient(135deg, #0ea5e9, #2dd4bf);
+    --accent-secondary: #2dd4bf;
+    --accent-tertiary: #6366f1;
+}
+
+/* Nature Theme (Green/Lime) */
+html[data-color-theme="nature"] {
+    --accent: #10b981;
+    --accent-hover: #34d399;
+    --accent-light: rgba(16, 185, 129, 0.15);
+    --accent-gradient: linear-gradient(135deg, #10b981, #84cc16);
+    --accent-secondary: #84cc16;
+    --accent-tertiary: #06b6d4;
+}
+
+/* Sunset Theme (Orange/Red) */
+html[data-color-theme="sunset"] {
+    --accent: #f59e0b;
+    --accent-hover: #fbbf24;
+    --accent-light: rgba(245, 158, 11, 0.15);
+    --accent-gradient: linear-gradient(135deg, #f59e0b, #ef4444);
+    --accent-secondary: #ef4444;
+    --accent-tertiary: #d946ef;
+}
+
+/* Berry Theme (Pink/Rose) */
+html[data-color-theme="berry"] {
+    --accent: #ec4899;
+    --accent-hover: #f472b6;
+    --accent-light: rgba(236, 72, 153, 0.15);
+    --accent-gradient: linear-gradient(135deg, #ec4899, #f43f5e);
+    --accent-secondary: #f43f5e;
+    --accent-tertiary: #8b5cf6;
+}
+
 /* ===== Reset & Base ===== */
 * {
     margin: 0;
@@ -98,15 +143,28 @@ body {
     display: none !important;
 }
 
-/* ===== Main Header - Enhanced ===== */
+/* ===== Main Header - Material Design 3 ===== */
 .main-header {
     position: sticky;
     top: 0;
-    z-index: 100;
-    background: var(--bg-glass);
-    border-bottom: 1px solid var(--border);
-    backdrop-filter: blur(20px);
-    -webkit-backdrop-filter: blur(20px);
+    z-index: 90;
+    /* Below Nav which is 1000 */
+    background: transparent;
+    /* Cleaner, let content scroll behind? Or blurred? */
+    /* Let's use blurred surface for readability but cleaner border */
+    background: rgba(var(--md-surface-rgb), 0.7);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid transparent;
+    /* Remove harsh border */
+    transition: background 0.3s, box-shadow 0.3s;
+}
+
+/* Add shadow on scroll via JS? Or just keep simple. */
+.main-header.scrolled {
+    background: rgba(var(--md-surface-rgb), 0.95);
+    box-shadow: var(--md-shadow-1);
+    border-bottom: 1px solid var(--md-outline-variant);
 }
 
 .header-content {
@@ -115,7 +173,8 @@ body {
     padding: 12px var(--space-lg);
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
+    /* Center the logo */
     gap: var(--space-md);
 }
 
@@ -131,47 +190,175 @@ body {
     transition: var(--transition);
 }
 
+/* Centered logo style for simplified header */
+.header-logo-centered {
+    font-size: 1.1rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+/* Logo image theme switching */
+.logo-img {
+    height: 32px;
+    width: auto;
+    display: none;
+}
+
+/* Logo text styling */
+.logo-text {
+    font-size: 1.1rem;
+    font-weight: 700;
+    background: var(--accent-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+/* Dark theme: show dark_logo (visible on dark background) */
+[data-theme="dark"] .logo-for-dark {
+    display: block;
+}
+
+/* Light theme: show white_logo (visible on light background) */
+[data-theme="light"] .logo-for-light {
+    display: block;
+}
+
+/* Default (dark theme): show dark logo */
+.logo-for-dark {
+    display: block;
+}
+
+[data-theme="light"] .logo-for-dark {
+    display: none;
+}
+
 .logo:hover {
     transform: scale(1.02);
 }
 
-/* Navigation Links */
+/* Navigation Links - M3 Navigation Bar */
+/* Navigation - Universal Bottom Dock with Liquid Glass Effect */
 .main-nav {
     display: flex;
-    gap: 4px;
-    background: var(--bg-primary);
-    padding: 4px;
-    border-radius: var(--radius);
-    border: 1px solid var(--border);
+    gap: 8px;
+    /* Liquid Glass: semi-transparent with strong blur */
+    background: linear-gradient(135deg,
+            rgba(30, 35, 50, 0.65) 0%,
+            rgba(45, 50, 70, 0.55) 50%,
+            rgba(30, 35, 50, 0.65) 100%);
+    padding: 10px 16px;
+    border-radius: 99px;
+    position: fixed;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1000;
+    /* Multi-layer shadow for depth */
+    box-shadow:
+        0 8px 32px rgba(0, 0, 0, 0.3),
+        0 2px 8px rgba(0, 0, 0, 0.2),
+        inset 0 1px 1px rgba(255, 255, 255, 0.08);
+    /* Strong blur for liquid glass */
+    backdrop-filter: blur(24px) saturate(1.5);
+    -webkit-backdrop-filter: blur(24px) saturate(1.5);
+    /* Subtle luminous border */
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    transition: all 0.3s cubic-bezier(0.2, 0, 0, 1);
+}
+
+/* Liquid glass hover glow */
+.main-nav:hover {
+    box-shadow:
+        0 8px 40px rgba(124, 58, 237, 0.15),
+        0 4px 16px rgba(0, 0, 0, 0.25),
+        inset 0 1px 1px rgba(255, 255, 255, 0.1);
+    border-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Light mode - Frosted glass look */
+[data-theme="light"] .main-nav {
+    background: linear-gradient(135deg,
+            rgba(255, 255, 255, 0.7) 0%,
+            rgba(248, 250, 255, 0.6) 50%,
+            rgba(255, 255, 255, 0.7) 100%);
+    box-shadow:
+        0 8px 32px rgba(0, 0, 0, 0.08),
+        0 2px 8px rgba(0, 0, 0, 0.05),
+        inset 0 1px 2px rgba(255, 255, 255, 0.9);
+    border: 1px solid rgba(255, 255, 255, 0.6);
+}
+
+[data-theme="light"] .main-nav:hover {
+    box-shadow:
+        0 8px 40px rgba(124, 58, 237, 0.1),
+        0 4px 16px rgba(0, 0, 0, 0.06),
+        inset 0 1px 2px rgba(255, 255, 255, 0.9);
+    border-color: rgba(255, 255, 255, 0.8);
 }
 
 .nav-tab {
     display: flex;
     align-items: center;
     gap: 8px;
-    padding: 10px 16px;
+    padding: 10px 20px;
     border: none;
     background: transparent;
-    color: var(--text-secondary);
-    font-size: 0.9rem;
+    /* Ensure text is visible on glass background */
+    color: rgba(255, 255, 255, 0.85);
+    font-size: 14px;
     font-weight: 500;
-    font-family: var(--font);
+    font-family: var(--md-font);
     cursor: pointer;
-    border-radius: var(--radius-sm);
-    transition: var(--transition);
+    border-radius: var(--md-shape-full);
+    transition: all var(--md-motion-duration-medium) var(--md-motion-easing-standard);
     text-decoration: none;
     white-space: nowrap;
+    position: relative;
+    overflow: hidden;
 }
 
+/* Light mode text color */
+[data-theme="light"] .nav-tab {
+    color: rgba(30, 41, 59, 0.85);
+}
+
+/* Hover state - subtle glass highlight */
 .nav-tab:hover {
-    background: var(--bg-hover);
-    color: var(--text-primary);
+    background: rgba(255, 255, 255, 0.12);
+    color: #ffffff;
+    transform: translateY(-1px);
 }
 
+[data-theme="light"] .nav-tab:hover {
+    background: rgba(0, 0, 0, 0.06);
+    color: #0f172a;
+}
+
+/* Active state - Liquid Glass Pill Effect */
 .nav-tab.active {
-    background: var(--accent);
-    color: white;
-    box-shadow: 0 2px 8px rgba(59, 130, 246, 0.4);
+    background: linear-gradient(135deg,
+            rgba(124, 58, 237, 0.35) 0%,
+            rgba(6, 182, 212, 0.25) 100%);
+    color: #ffffff;
+    box-shadow:
+        0 2px 8px rgba(124, 58, 237, 0.25),
+        inset 0 1px 1px rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+[data-theme="light"] .nav-tab.active {
+    background: linear-gradient(135deg,
+            rgba(124, 58, 237, 0.25) 0%,
+            rgba(6, 182, 212, 0.15) 100%);
+    color: #4c1d95;
+    box-shadow:
+        0 2px 8px rgba(124, 58, 237, 0.15),
+        inset 0 1px 1px rgba(255, 255, 255, 0.5);
+    border: 1px solid rgba(124, 58, 237, 0.2);
 }
 
 .tab-icon {
@@ -221,6 +408,8 @@ body {
 /* ===== Main Content ===== */
 .main-content {
     min-height: calc(100vh - 70px);
+    padding-bottom: 120px;
+    /* Space for Bottom Nav */
     animation: fadeIn 0.3s ease;
 }
 
@@ -305,12 +494,12 @@ body {
 .btn-primary {
     background: var(--accent-gradient);
     color: white;
-    box-shadow: 0 4px 15px rgba(59, 130, 246, 0.3);
+    box-shadow: 0 4px 15px rgba(124, 58, 237, 0.3);
 }
 
 .btn-primary:hover {
     transform: translateY(-2px);
-    box-shadow: 0 6px 20px rgba(59, 130, 246, 0.4);
+    box-shadow: 0 6px 20px rgba(124, 58, 237, 0.4);
 }
 
 .btn-secondary {
@@ -407,13 +596,13 @@ body {
     font-family: var(--font);
     cursor: pointer;
     transition: var(--transition);
-    box-shadow: 0 4px 20px rgba(59, 130, 246, 0.4);
+    box-shadow: 0 4px 20px rgba(124, 58, 237, 0.4);
     text-decoration: none;
 }
 
 .action-btn-large:hover {
     transform: translateY(-3px);
-    box-shadow: 0 8px 30px rgba(59, 130, 246, 0.5);
+    box-shadow: 0 8px 30px rgba(124, 58, 237, 0.5);
 }
 
 /* ===== Badge Components ===== */
@@ -609,7 +798,7 @@ select {
 /* ===== Explanation Box ===== */
 .explanation-box {
     margin-top: 20px;
-    background: linear-gradient(135deg, rgba(59, 130, 246, 0.05), rgba(139, 92, 246, 0.05));
+    background: linear-gradient(135deg, rgba(124, 58, 237, 0.05), rgba(6, 182, 212, 0.05));
     border: 1px solid var(--accent);
     border-radius: var(--radius);
     padding: 20px;
@@ -825,58 +1014,18 @@ kbd {
 
 /* ===== Mobile Responsiveness ===== */
 @media (max-width: 768px) {
+
+    /* Header adjustment for mobile */
     .header-content {
         padding: 12px 16px;
     }
 
+    /* Menu toggle hidden for Bottom Nav */
     .menu-toggle {
-        display: flex;
+        display: none !important;
     }
 
-    .main-nav {
-        display: flex;
-        position: fixed;
-        top: 70px;
-        left: 0;
-        right: 0;
-        background: var(--bg-card-solid);
-        flex-direction: column;
-        padding: 16px;
-        gap: 8px;
-        border-bottom: 1px solid var(--border);
-        transform: translateY(-150%);
-        opacity: 0;
-        visibility: hidden;
-        transition: var(--transition);
-        z-index: 90;
-        max-height: calc(100vh - 70px);
-        overflow-y: auto;
-    }
-
-    .main-nav.active {
-        transform: translateY(0);
-        opacity: 1;
-        visibility: visible;
-        box-shadow: var(--shadow-lg);
-    }
-
-    .nav-tab {
-        width: 100%;
-        padding: 14px 16px;
-        justify-content: flex-start;
-        border-radius: var(--radius-sm);
-    }
-
-    .nav-tab:hover {
-        background: var(--bg-hover);
-    }
-
-    .nav-tab.active {
-        background: var(--accent-light);
-        color: var(--accent);
-        box-shadow: none;
-        border: 1px solid var(--accent);
-    }
+    /* Main Nav overridden by new M3 Bottom Bar styles at end of file */
 
     /* Container adjustments */
     .container {
@@ -1060,5 +1209,171 @@ kbd {
         width: 100%;
         left: 0;
         right: 0;
+    }
+
+    /* Mobile Bottom Navigation - Floating Dock (same as desktop) */
+    .main-nav {
+        position: fixed;
+        bottom: 16px;
+        /* Float above bottom edge */
+        left: 50%;
+        transform: translateX(-50%);
+        width: auto;
+        max-width: calc(100% - 32px);
+        /* Leave margin on sides */
+        border-radius: 28px;
+        /* Rounded pill shape */
+        padding: 8px 12px;
+        gap: 4px;
+        justify-content: center;
+        /* Liquid Glass for mobile */
+        background: linear-gradient(135deg,
+                rgba(20, 25, 35, 0.8) 0%,
+                rgba(35, 40, 55, 0.75) 50%,
+                rgba(20, 25, 35, 0.8) 100%);
+        backdrop-filter: blur(24px) saturate(1.5);
+        -webkit-backdrop-filter: blur(24px) saturate(1.5);
+        border: 1px solid rgba(255, 255, 255, 0.12);
+        box-shadow:
+            0 8px 32px rgba(0, 0, 0, 0.25),
+            0 2px 8px rgba(0, 0, 0, 0.15),
+            inset 0 1px 1px rgba(255, 255, 255, 0.08);
+        margin: 0;
+        z-index: 1000;
+        height: auto;
+        animation: slideUpNav 0.3s ease;
+    }
+
+    /* Light mode mobile nav */
+    [data-theme="light"] .main-nav {
+        background: linear-gradient(135deg,
+                rgba(255, 255, 255, 0.75) 0%,
+                rgba(248, 250, 255, 0.7) 50%,
+                rgba(255, 255, 255, 0.75) 100%);
+        border: 1px solid rgba(255, 255, 255, 0.5);
+        box-shadow:
+            0 8px 32px rgba(0, 0, 0, 0.08),
+            0 2px 8px rgba(0, 0, 0, 0.05),
+            inset 0 1px 2px rgba(255, 255, 255, 0.8);
+    }
+
+    @keyframes slideUpNav {
+        from {
+            opacity: 0;
+            transform: translateX(-50%) translateY(20px);
+        }
+
+        to {
+            opacity: 1;
+            transform: translateX(-50%) translateY(0);
+        }
+    }
+
+    /* Compact nav tabs for mobile pill */
+    .nav-tab {
+        flex-direction: column;
+        justify-content: center;
+        gap: 2px;
+        padding: 8px 12px;
+        border-radius: 20px;
+        background: transparent !important;
+        border: none !important;
+        box-shadow: none !important;
+        color: rgba(255, 255, 255, 0.75);
+        flex: 0 0 auto;
+        font-size: 10px;
+        font-weight: 500;
+        white-space: nowrap;
+        text-align: center;
+        transform: none !important;
+    }
+
+    [data-theme="light"] .nav-tab {
+        color: rgba(30, 41, 59, 0.75);
+    }
+
+    .nav-tab:hover {
+        background: rgba(255, 255, 255, 0.1) !important;
+        color: rgba(255, 255, 255, 0.95);
+    }
+
+    [data-theme="light"] .nav-tab:hover {
+        background: rgba(0, 0, 0, 0.05) !important;
+        color: rgba(15, 23, 42, 0.95);
+    }
+
+    /* Compact icon for mobile */
+    .nav-tab .tab-icon {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 40px;
+        height: 28px;
+        border-radius: 14px;
+        transition: all 0.25s cubic-bezier(0.2, 0, 0, 1);
+        margin-bottom: 2px;
+        font-size: 18px;
+        background: transparent;
+    }
+
+    .nav-tab.active .tab-icon {
+        background: linear-gradient(135deg,
+                rgba(124, 58, 237, 0.4) 0%,
+                rgba(139, 92, 246, 0.3) 100%);
+        color: #ffffff;
+        box-shadow:
+            0 2px 8px rgba(124, 58, 237, 0.3),
+            inset 0 1px 1px rgba(255, 255, 255, 0.15);
+    }
+
+    [data-theme="light"] .nav-tab.active .tab-icon {
+        background: linear-gradient(135deg,
+                rgba(124, 58, 237, 0.3) 0%,
+                rgba(139, 92, 246, 0.2) 100%);
+        color: #1e40af;
+        box-shadow:
+            0 2px 8px rgba(124, 58, 237, 0.2),
+            inset 0 1px 1px rgba(255, 255, 255, 0.5);
+    }
+
+    /* Active tab text */
+    .nav-tab.active {
+        color: #ffffff;
+        background: transparent !important;
+    }
+
+    [data-theme="light"] .nav-tab.active {
+        color: #1e3a5f;
+    }
+
+    .nav-tab span:not(.tab-icon) {
+        font-size: 10px;
+        line-height: 12px;
+        letter-spacing: 0.3px;
+    }
+
+    /* Push content up */
+    body {
+        padding-bottom: 100px;
+    }
+}
+
+/* Very Small Screens - Hide text labels */
+@media (max-width: 380px) {
+    .nav-tab span:not(.tab-icon) {
+        display: none;
+    }
+
+    .nav-tab {
+        padding: 8px 10px;
+    }
+
+    .main-nav {
+        padding: 8px 10px;
+        gap: 2px;
+    }
+
+    body {
+        padding-bottom: 80px;
     }
 }
