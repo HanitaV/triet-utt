@@ -1,10 +1,23 @@
 // ===== Common Utilities =====
 
 // Theme Management
+// Theme Management
 function initTheme() {
+    // Light/Dark Mode
     const savedTheme = localStorage.getItem('quiz-theme') || 'dark';
     document.documentElement.setAttribute('data-theme', savedTheme);
     updateThemeIcon(savedTheme);
+
+    // Color Theme (Experimental)
+    const savedColorTheme = localStorage.getItem('color-theme');
+    if (savedColorTheme && savedColorTheme !== 'default') {
+        document.documentElement.setAttribute('data-color-theme', savedColorTheme);
+    } else {
+        document.documentElement.removeAttribute('data-color-theme');
+    }
+
+    // Update UI if we are on settings page
+    updateColorThemeUI(savedColorTheme || 'default');
 }
 
 function updateThemeIcon(theme) {
@@ -19,6 +32,42 @@ function toggleTheme() {
     html.setAttribute('data-theme', next);
     localStorage.setItem('quiz-theme', next);
     updateThemeIcon(next);
+}
+
+// Color Theme Management
+function selectColorTheme(theme) {
+    if (theme === 'default') {
+        document.documentElement.removeAttribute('data-color-theme');
+        localStorage.removeItem('color-theme');
+    } else {
+        document.documentElement.setAttribute('data-color-theme', theme);
+        localStorage.setItem('color-theme', theme);
+    }
+    updateColorThemeUI(theme);
+}
+
+function updateColorThemeUI(activeTheme) {
+    const options = document.querySelectorAll('.color-option');
+    if (!options.length) return;
+
+    options.forEach(opt => {
+        // Reset styles
+        const circle = opt.querySelector('div');
+        if (circle) {
+            circle.style.border = '2px solid transparent';
+            circle.style.transform = 'scale(1)';
+        }
+    });
+
+    // Highlight active
+    const activeOpt = document.querySelector(`.color-option[onclick*="'${activeTheme}'"]`);
+    if (activeOpt) {
+        const circle = activeOpt.querySelector('div');
+        if (circle) {
+            circle.style.border = '2px solid var(--text-primary)';
+            circle.style.transform = 'scale(1.1)';
+        }
+    }
 }
 
 // ===== Subject Management (Multi-Subject Support) =====
@@ -73,16 +122,9 @@ function getChapterFiles() {
 }
 
 
-function updateHeaderWithSubject() {
-    const subjectId = getCurrentSubjectId();
-    const subject = subjectsData.find(s => s.id === subjectId);
-    if (!subject) return;
-    const logo = document.querySelector('.logo');
-    if (logo) {
-        logo.innerHTML = `${subject.icon} ${subject.shortName}`;
-        logo.title = `${subject.name} - ${subject.school}`;
-    }
-}
+// Header now displays NEO Education logo only - subject name removed
+// updateHeaderWithSubject() function removed as part of rebranding
+
 
 function createSubjectSelector() {
     const headerContent = document.querySelector('.header-content');
@@ -326,77 +368,13 @@ document.addEventListener('DOMContentLoaded', async () => {
     highlightCurrentNav();
     initMobileMenu();
 
-    // Initialize multi-subject support
+    // Initialize multi-subject support (for data loading, not header display)
     await loadSubjectsList();
     await loadCurrentSubjectConfig();
-    updateHeaderWithSubject();
-    createSubjectSelector();
+    // Header now displays NEO Education logo only - updateHeaderWithSubject() removed
+    // Subject selector moved to Settings page
 
-    // Theme toggle
-    const themeToggle = document.getElementById('theme-toggle');
-    themeToggle?.addEventListener('click', toggleTheme);
+    // Theme toggle removed from header - now in Settings page
 
-    initSupportFeature();
 });
 
-
-/* Support Feature */
-function initSupportFeature() {
-    const nav = document.querySelector('.main-nav');
-    if (nav) {
-        // Create Support Link
-        const supportLink = document.createElement('a');
-        supportLink.className = 'nav-tab';
-        supportLink.href = '#';
-        supportLink.innerHTML = `
-            <span class="tab-icon">☕</span>
-            <span class="tab-text">Ủng hộ</span>
-        `;
-
-        supportLink.addEventListener('click', (e) => {
-            e.preventDefault();
-
-            // Ask for confirmation (Strict requirement)
-            if (confirm('Bạn có muốn ủng hộ team phát triển không? ❤️')) {
-                showSupportModal();
-            }
-        });
-
-        nav.appendChild(supportLink);
-    }
-}
-
-function showSupportModal() {
-    let modal = document.getElementById('support-modal');
-    if (!modal) {
-        modal = document.createElement('div');
-        modal.id = 'support-modal';
-        modal.className = 'modal';
-        modal.innerHTML = `
-            <div class="modal-overlay"></div>
-            <div class="modal-content">
-                <div class="result-emoji">💖</div>
-                <h2>Cảm ơn tấm lòng của bạn!</h2>
-                <p class="support-message">Sự ủng hộ của bạn là động lực to lớn giúp bọn mình duy trì server và phát triển thêm nhiều tính năng hay ho.</p>
-                <div class="qr-container">
-                    <img src="assets/photos/qr.png" alt="QR Code" class="qr-image" onerror="this.src='https://via.placeholder.com/200?text=QR+Code'">
-                    <p class="text-secondary text-sm" style="margin-top:8px">Quét mã QR để ủng hộ</p>
-                </div>
-                <div class="result-actions">
-                    <button class="action-btn primary" onclick="document.getElementById('support-modal').classList.remove('active')">Đóng</button>
-                </div>
-            </div>
-        `;
-        document.body.appendChild(modal);
-
-        // Close overlay
-        modal.querySelector('.modal-overlay').addEventListener('click', () => {
-            modal.classList.remove('active');
-        });
-    }
-
-    // Small delay to allow DOM insertion before adding active class (for animation)
-    requestAnimationFrame(() => {
-        setTimeout(() => modal.classList.add('active'), 10);
-    });
-}

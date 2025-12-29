@@ -4,189 +4,164 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title id="page-title">Ôn Thi Trắc Nghiệm</title>
+    <title id="page-title">NEO Education - Nền tảng học tập thông minh</title>
     <meta id="meta-desc" name="description"
-        content="Ứng dụng ôn thi trắc nghiệm - Học tập cùng AI, Flashcard, Thi thử, Giả lập.">
+        content="NEO Education - Nền tảng ôn thi trắc nghiệm với sự hỗ trợ của AI. Học tập hiệu quả với Flashcard, Thi thử, Giả lập.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/common.css">
-    <link rel="stylesheet" href="css/dashboard.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/common.css?v=2025122902">
+    <link rel="stylesheet" href="css/m3-design-system.css?v=2025122902">
+    <link rel="stylesheet" href="css/dashboard.css?v=2025122902">
 </head>
 
 <body>
     <!-- Header Navigation -->
     <header class="main-header">
         <div class="header-content">
-            <a href="index.html" class="logo" id="header-logo">📚 Môn học</a>
-            <button class="menu-toggle" id="menu-toggle" title="Menu">☰</button>
-            <nav class="main-nav">
-                <a href="index.html" class="nav-tab active">
-                    <span class="tab-icon">🏠</span>
-                    <span class="tab-text">Trang chủ</span>
-                </a>
-                <a href="study.html" class="nav-tab">
-                    <span class="tab-icon">📖</span>
-                    <span class="tab-text">Học tập</span>
-                </a>
-                <!-- <a href="flashcard.html" class="nav-tab">
-                    <span class="tab-icon">🎴</span>
-                    <span class="tab-text">Flashcard</span>
-                </a> -->
-                <a href="exam.html" class="nav-tab">
-                    <span class="tab-icon">📝</span>
-                    <span class="tab-text">Thi thử</span>
-                </a>
-                <a href="simulation.html" class="nav-tab">
-                    <span class="tab-icon">🎯</span>
-                    <span class="tab-text">Giả lập</span>
-                </a>
-            </nav>
-            <button class="theme-toggle" id="theme-toggle" title="Chuyển đổi giao diện">
-                <span class="theme-icon">🌙</span>
-            </button>
+            <a href="index.html" class="logo header-logo-centered" id="header-logo">
+                <img src="assets/logo/dark_logo.png" alt="NEO" class="logo-img logo-for-dark" height="32">
+                <img src="assets/logo/white_logo.png" alt="NEO" class="logo-img logo-for-light" height="32">
+                <span class="logo-text">NEO Education</span>
+            </a>
         </div>
     </header>
 
     <main class="main-content home-main">
-        <div class="home-hero">
-            <h1 id="hero-title">Chinh phục Kiến thức</h1>
-            <div id="hero-version" class="hero-version-badge"></div>
-            <p class="hero-subtitle">Nền tảng ôn thi toàn diện với sự hỗ trợ của AI, Flashcard và Đề thi chuẩn</p>
-            <div class="hero-stats">
-                <div class="stat-item">
-                    <span class="stat-num" id="total-questions">--</span>
-                    <span class="stat-label">Câu hỏi trắc nghiệm</span>
+        <!-- Material Hero with Gradient -->
+        <section class="md-hero">
+            <div class="md-hero-content">
+                <h1 id="hero-title">Chinh phục Kiến thức</h1>
+                <div style="margin-bottom: 16px;">
+                    <span class="md-stat-chip accent" style="font-size: 12px; gap: 6px;">
+                        <span style="font-size: 14px;">🎨</span> Material 3 × Liquid Glass
+                    </span>
                 </div>
-                <div class="stat-divider"></div>
-                <div class="stat-item">
-                    <span class="stat-num" id="hero-topic-count">--</span>
-                    <span class="stat-label">Chủ đề trọng tâm</span>
+                <p class="md-hero-subtitle">Nền tảng ôn thi toàn diện với sự hỗ trợ của AI</p>
+                <div class="md-hero-stats">
+                    <div class="md-stat-chip">
+                        <span id="total-questions">--</span> câu hỏi
+                    </div>
+                    <div class="md-stat-chip">
+                        <span id="hero-topic-count">--</span> chủ đề
+                    </div>
+                    <div class="md-stat-chip accent">
+                        100% miễn phí
+                    </div>
                 </div>
-                <div class="stat-divider"></div>
-                <div class="stat-item">
-                    <span class="stat-num">100%</span>
-                    <span class="stat-label">Miễn phí</span>
+                <div id="hero-version" class="md-version"></div>
+            </div>
+        </section>
+
+        <!-- Material Feature Cards -->
+        <section class="md-section">
+            <div class="md-container">
+                <h2 class="md-section-title">Tính năng</h2>
+
+                <div class="md-card-grid">
+                    <!-- Study Card -->
+                    <a href="study.html" class="md-card md-card-elevated study">
+                        <div class="md-card-media study-bg">
+                            <span class="md-card-icon">📖</span>
+                        </div>
+                        <div class="md-card-body">
+                            <h3 class="md-card-title">Học tập cùng AI</h3>
+                            <p class="md-card-text" id="study-feature-desc">Video bài giảng, lý thuyết và câu hỏi ôn tập
+                                với NotebookLM</p>
+                        </div>
+                        <div class="md-card-actions">
+                            <span class="md-btn-text">Bắt đầu học</span>
+                        </div>
+                    </a>
+
+                    <!-- Exam Card -->
+                    <a href="exam.html" class="md-card md-card-elevated exam">
+                        <div class="md-card-media exam-bg">
+                            <span class="md-card-icon">📝</span>
+                        </div>
+                        <div class="md-card-body">
+                            <h3 class="md-card-title">Thi thử Trắc nghiệm</h3>
+                            <p class="md-card-text" id="exam-feature-desc">Kho câu hỏi phong phú với giải thích AI</p>
+                        </div>
+                        <div class="md-card-actions">
+                            <span class="md-btn-text">Làm bài thi</span>
+                        </div>
+                    </a>
+
+                    <!-- Simulation Card -->
+                    <a href="simulation.html" class="md-card md-card-elevated simulation">
+                        <div class="md-card-media simulation-bg">
+                            <span class="md-card-icon">🎯</span>
+                        </div>
+                        <div class="md-card-body">
+                            <h3 class="md-card-title">Giả lập Thi thật</h3>
+                            <p class="md-card-text">Đề thi chuẩn với đồng hồ đếm ngược</p>
+                        </div>
+                        <div class="md-card-actions">
+                            <span class="md-btn-text">Vào phòng thi</span>
+                        </div>
+                    </a>
                 </div>
             </div>
-        </div>
+        </section>
 
-        <div class="container">
-            <div class="feature-grid">
-                <!-- Study Feature -->
-                <a href="study.html" class="feature-card study">
-                    <div class="feature-icon">📖</div>
-                    <div class="feature-content">
-                        <h3>Học tập cùng AI</h3>
-                        <p id="study-feature-desc">Hệ thống bài giảng video, lý thuyết tóm tắt và câu hỏi ôn tập theo
-                            từng chủ đề với sự hỗ trợ
-                            của NotebookLM.</p>
-                        <span class="feature-link">Bắt đầu học &rarr;</span>
+        <!-- Progress Section -->
+        <section class="md-section md-section-alt">
+            <div class="md-container">
+                <h2 class="md-section-title">Tiến độ của bạn</h2>
+
+                <div class="md-progress-grid">
+                    <div class="md-card md-card-filled">
+                        <div class="md-progress-content">
+                            <span class="md-progress-icon">📊</span>
+                            <span class="md-progress-value" id="studied-today">0</span>
+                            <span class="md-progress-label">Đã học hôm nay</span>
+                        </div>
                     </div>
-                </a>
-
-                <!-- Flashcard Feature -->
-                <!-- <a href="flashcard.html" class="feature-card flashcard">
-                    <div class="feature-icon">🎴</div>
-                    <div class="feature-content">
-                        <h3>Flashcard Ghi nhớ</h3>
-                        <p id="flashcard-feature-desc">Công cụ ôn tập nhanh giúp ghi nhớ các khái niệm, định nghĩa quan
-                            trọng qua phương pháp lặp
-                            lại ngắt quãng.</p>
-                        <span class="feature-link">Lật thẻ ngay &rarr;</span>
-                    </div>
-                </a> -->
-
-                <!-- Exam Feature -->
-                <a href="exam.html" class="feature-card exam">
-                    <div class="feature-icon">📝</div>
-                    <div class="feature-content">
-                        <h3>Thi thử Trắc nghiệm</h3>
-                        <p id="exam-feature-desc">Kho ngân hàng câu hỏi phong phú. Chế độ luyện tập, xem giải thích chi
-                            tiết
-                            và gợi ý từ AI.</p>
-                        <span class="feature-link">Làm bài thi &rarr;</span>
-                    </div>
-                </a>
-
-                <!-- Simulation Feature -->
-                <a href="simulation.html" class="feature-card simulation">
-                    <div class="feature-icon">🎯</div>
-                    <div class="feature-content">
-                        <h3>Giả lập Thi thật</h3>
-                        <p>Trải nghiệm áp lực phòng thi với đồng hồ đếm ngược, cấu trúc đề thi chuẩn và bảng điểm chi
-                            tiết sau khi nộp bài.</p>
-                        <span class="feature-link">Vào phòng thi &rarr;</span>
-                    </div>
-                </a>
-            </div>
-
-            <!-- Suggestions Section -->
-            <div id="suggestions-section" class="suggestions-container hidden">
-                <h3>💡 Gợi ý học tập hôm nay</h3>
-                <div class="suggestion-list" id="suggestion-list">
-                    <!-- Suggestions will be populated here -->
-                </div>
-            </div>
-
-            <div class="quick-progress-section">
-                <h3>📊 Tiến độ học tập của bạn</h3>
-                <div class="progress-stats">
-                    <div class="p-stat">
-                        <span class="p-value" id="studied-today">0</span>
-                        <span class="p-label">Đã học hôm nay</span>
-                    </div>
-                    <div class="p-stat">
-                        <span class="p-value" id="accuracy-rate">--%</span>
-                        <span class="p-label">Tỷ lệ chính xác</span>
+                    <div class="md-card md-card-filled">
+                        <div class="md-progress-content">
+                            <span class="md-progress-icon">🎯</span>
+                            <span class="md-progress-value" id="accuracy-rate">--%</span>
+                            <span class="md-progress-label">Tỷ lệ chính xác</span>
+                        </div>
                     </div>
                 </div>
             </div>
+        </section>
 
-            <!-- Data Management Section -->
-            <div class="data-mgmt-section"
-                style="margin-top: 24px; padding-top: 24px; border-top: 1px solid var(--border);">
-                <h3 style="font-size: 1rem; margin-bottom: 12px;">💾 Quản lý dữ liệu</h3>
-                <div style="display: flex; gap: 12px;">
-                    <button onclick="exportData()" class="btn-action secondary" style="font-size: 0.9rem;">
-                        ⬇️ Sao lưu
-                    </button>
-                    <button onclick="document.getElementById('import-file').click()" class="btn-action secondary"
-                        style="font-size: 0.9rem;">
-                        ⬆️ Khôi phục
-                    </button>
-                    <input type="file" id="import-file" style="display: none" onchange="importData(this)">
-                </div>
-                <p style="font-size: 0.8rem; color: var(--text-muted); margin-top: 8px;">
-                    Dữ liệu được lưu trên trình duyệt. Hãy sao lưu thường xuyên để tránh mất mát.
-                </p>
-            </div>
-        </div>
+        <!-- Data Management -->
+        <!-- Data Management moved to Settings tab -->
     </main>
 
-    <footer class="main-footer">
-        <div class="footer-content">
-            <p id="footer-school-info">Ôn tập miễn phí do sinh viên trường Đại học Công nghệ Giao thông vận tải tạo và
-                Học viện Công nghệ Bưu chính Viễn thông hỗ trợ nội dung ❤️</p>
-            <p class="footer-disclaimer">Gemini có thể mắc sai lầm, các câu hỏi, đáp án và nội dung lý thuyết nên dừng
-                lại ở tham khảo</p>
-            <div style="margin-top: 12px;">
-                <a href="https://www.facebook.com/HanitaVII" target="_blank" class="text-secondary"
-                    style="text-decoration: none; font-size: 0.9rem; display: inline-flex; align-items: center; gap: 6px;">
-                    <span>👨‍💻</span> Liên hệ / Góp ý: HanitaVII
-                </a>
-            </div>
-            <div class="footer-version" style="margin-top: 8px; font-size: 0.8rem; opacity: 0.7;">
-                <span>v1.2.0</span> •
-                <span>Updated: 29/12/2025</span> •
-                <span>Commit: ad64398</span>
-            </div>
-        </div>
-    </footer>
+    <!-- Footer moved to Settings tab -->
 
-    <script src="js/progress.js"></script>
-    <script src="js/common.js"></script>
-    <script src="js/dashboard.js"></script>
+    <!-- Floating Navigation Dock (Moved from Header) -->
+    <nav class="main-nav">
+        <a href="index.html" class="nav-tab active">
+            <span class="tab-icon">🏠</span>
+            <span class="tab-text">Trang chủ</span>
+        </a>
+        <a href="study.html" class="nav-tab">
+            <span class="tab-icon">📖</span>
+            <span class="tab-text">Học tập</span>
+        </a>
+        <a href="exam.html" class="nav-tab">
+            <span class="tab-icon">📝</span>
+            <span class="tab-text">Thi thử</span>
+        </a>
+        <a href="simulation.html" class="nav-tab">
+            <span class="tab-icon">🎯</span>
+            <span class="tab-text">Giả lập</span>
+        </a>
+        <a href="settings.html" class="nav-tab">
+            <span class="tab-icon">⚙️</span>
+            <span class="tab-text">Cài đặt</span>
+        </a>
+    </nav>
+
+    <script src="js/progress.js?v=2025122902"></script>
+    <script src="js/common.js?v=2025122902"></script>
+    <script src="js/dashboard.js?v=2025122902"></script>
 </body>
 
 </html>
