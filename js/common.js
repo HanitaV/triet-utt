@@ -8,16 +8,20 @@ function initTheme() {
     document.documentElement.setAttribute('data-theme', savedTheme);
     updateThemeIcon(savedTheme);
 
-    // Color Theme (Experimental)
+    // Color Theme (Experimental & Custom)
     const savedColorTheme = localStorage.getItem('color-theme');
-    if (savedColorTheme && savedColorTheme !== 'default') {
-        document.documentElement.setAttribute('data-color-theme', savedColorTheme);
-    } else {
-        document.documentElement.removeAttribute('data-color-theme');
+    if (savedColorTheme) {
+        if (savedColorTheme.startsWith('custom:')) {
+            const hex = savedColorTheme.split(':')[1];
+            applyCustomColor(hex);
+        } else if (savedColorTheme !== 'default') {
+            document.documentElement.setAttribute('data-color-theme', savedColorTheme);
+        }
     }
 
     // Update UI if we are on settings page
     updateColorThemeUI(savedColorTheme || 'default');
+    initCustomColorPicker();
 }
 
 function updateThemeIcon(theme) {
@@ -38,12 +42,52 @@ function toggleTheme() {
 function selectColorTheme(theme) {
     if (theme === 'default') {
         document.documentElement.removeAttribute('data-color-theme');
+        clearCustomColor();
         localStorage.removeItem('color-theme');
     } else {
+        clearCustomColor();
         document.documentElement.setAttribute('data-color-theme', theme);
         localStorage.setItem('color-theme', theme);
     }
     updateColorThemeUI(theme);
+}
+
+function applyCustomColor(hex) {
+    const html = document.documentElement;
+    html.removeAttribute('data-color-theme'); // Clear standard theme
+    html.style.setProperty('--accent', hex);
+    // Auto-generate hover and light versions using color-mix
+    html.style.setProperty('--accent-hover', `color-mix(in srgb, ${hex}, white 20%)`);
+    html.style.setProperty('--accent-light', `color-mix(in srgb, ${hex}, transparent 85%)`);
+    html.style.setProperty('--accent-secondary', `color-mix(in srgb, ${hex}, blue 20%)`);
+    html.style.setProperty('--accent-gradient', `linear-gradient(135deg, ${hex}, color-mix(in srgb, ${hex}, black 20%))`);
+
+    localStorage.setItem('color-theme', `custom:${hex}`);
+}
+
+function clearCustomColor() {
+    const html = document.documentElement;
+    html.style.removeProperty('--accent');
+    html.style.removeProperty('--accent-hover');
+    html.style.removeProperty('--accent-light');
+    html.style.removeProperty('--accent-secondary');
+    html.style.removeProperty('--accent-gradient');
+}
+
+function initCustomColorPicker() {
+    const picker = document.getElementById('custom-color-picker');
+    if (!picker) return;
+
+    // Load saved value if custom
+    const saved = localStorage.getItem('color-theme');
+    if (saved && saved.startsWith('custom:')) {
+        picker.value = saved.split(':')[1];
+    }
+
+    picker.addEventListener('input', (e) => {
+        applyCustomColor(e.target.value);
+        updateColorThemeUI('custom');
+    });
 }
 
 function updateColorThemeUI(activeTheme) {
@@ -60,7 +104,13 @@ function updateColorThemeUI(activeTheme) {
     });
 
     // Highlight active
-    const activeOpt = document.querySelector(`.color-option[onclick*="'${activeTheme}'"]`);
+    let activeOpt;
+    if (activeTheme && activeTheme.startsWith('custom')) {
+        activeOpt = document.getElementById('custom-color-option');
+    } else {
+        activeOpt = document.querySelector(`.color-option[onclick*="'${activeTheme}'"]`);
+    }
+
     if (activeOpt) {
         const circle = activeOpt.querySelector('div');
         if (circle) {

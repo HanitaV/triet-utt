@@ -138,113 +138,113 @@
     line-height: 32px;
 }
 
-/* ===== M3 Feature Cards Grid ===== */
-.md-card-grid {
+/* ===== Bento Grid Redesign ===== */
+.bento-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    gap: 24px;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    max-width: 900px;
+    /* Keep it focused */
+    margin: 0 auto;
 }
 
-.md-card {
+.bento-card {
     display: flex;
     flex-direction: column;
-    border-radius: var(--md-shape-lg);
-    /* Larger corner radius */
-    overflow: hidden;
+    justify-content: space-between;
+    background: var(--bg-card);
+    /* Glass effect from global */
+    border: 1px solid var(--border);
+    border-radius: 24px;
+    padding: 24px;
     text-decoration: none;
-    color: inherit;
-    transition: all var(--md-motion-duration-medium) var(--md-motion-easing-standard);
+    color: var(--md-on-surface);
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
     position: relative;
-    height: 100%;
+    overflow: hidden;
+    min-height: 180px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.02);
 }
 
-/* M3 Elevated Card - Refined */
-.md-card.md-card-elevated {
-    /* Background handled by global M3 CSS or specific override below */
-    background: var(--md-surface-container);
+.bento-card:hover {
+    transform: translateY(-4px) scale(1.01);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+    border-color: var(--accent);
 }
 
-.md-card.md-card-elevated:hover {
-    transform: translateY(-4px);
-    /* Shadow and bg elevation handled by M3 CSS */
+.bento-wide {
+    grid-column: span 2;
+    min-height: 220px;
+    background: var(--bg-card);
+    /* Unified background */
 }
 
-/* Card Media (Top colored section) - Softer Gradients */
-.md-card-media {
-    height: 160px;
+.bento-content {
+    position: relative;
+    z-index: 2;
+}
+
+.bento-icon-box {
+    font-size: 32px;
+    margin-bottom: 16px;
+    width: 56px;
+    height: 56px;
+    background: var(--md-surface);
+    border-radius: 16px;
     display: flex;
     align-items: center;
     justify-content: center;
-    position: relative;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
 }
 
-/* Use Primary Container tones for a more harmonious look */
-.study-bg {
-    background: var(--md-primary-container);
-    color: var(--md-on-primary-container);
-}
-
-.exam-bg {
-    background: var(--md-secondary-container);
-    color: var(--md-on-secondary-container);
-}
-
-.simulation-bg {
-    background: var(--md-tertiary-container);
-    color: var(--md-on-tertiary-container);
-}
-
-.md-card-icon {
-    font-size: 56px;
-    opacity: 0.9;
-}
-
-/* Card Body */
-.md-card-body {
-    padding: 24px;
-    flex: 1;
-    background: var(--md-surface-container);
-}
-
-.md-card-title {
+.bento-text h3 {
     font-size: 20px;
-    /* Title Large */
-    font-weight: 400;
+    font-weight: 600;
     margin: 0 0 8px;
-    color: var(--md-on-surface);
-    line-height: 28px;
+    color: var(--text-primary);
 }
 
-.md-card-text {
+.bento-text p {
     font-size: 14px;
-    /* Body Medium */
-    color: var(--md-on-surface-variant);
+    color: var(--text-secondary);
     margin: 0;
-    line-height: 20px;
+    line-height: 1.5;
+    max-width: 90%;
 }
 
-/* Card Actions */
-.md-card-actions {
-    padding: 0 24px 24px;
-    background: var(--md-surface-container);
-}
-
-.md-btn-text {
-    display: inline-flex;
+.bento-action {
+    margin-top: 20px;
+    display: flex;
     align-items: center;
     gap: 8px;
-    padding: 10px 16px;
-    background: var(--md-surface-container-high);
-    color: var(--md-primary);
-    border-radius: var(--md-shape-full);
+    font-weight: 600;
     font-size: 14px;
-    font-weight: 500;
-    transition: all var(--md-motion-duration-short);
+    color: var(--accent);
 }
 
-.md-card:hover .md-btn-text {
-    background: var(--md-primary);
-    color: var(--md-on-primary);
+.bento-action .arrow {
+    transition: transform 0.3s ease;
+}
+
+.bento-card:hover .bento-action .arrow {
+    transform: translateX(4px);
+}
+
+/* Unified Theme Hover */
+.bento-card:hover {
+    background: color-mix(in srgb, var(--accent) 15%, var(--bg-card));
+    border-color: var(--accent);
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+    .bento-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .bento-wide {
+        grid-column: span 1;
+    }
 }
 
 /* ===== M3 Progress Grid ===== */
