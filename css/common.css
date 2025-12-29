@@ -77,20 +77,28 @@
 
 /* Light Mode */
 [data-theme="light"] {
-    --bg-primary: #f8fafc;
-    --bg-secondary: #ffffff;
-    --bg-card: rgba(255, 255, 255, 0.98);
-    --bg-card-solid: #ffffff;
-    --bg-hover: rgba(241, 245, 249, 0.9);
-    --bg-glass: rgba(255, 255, 255, 0.8);
-    --text-primary: #0f172a;
-    --text-secondary: #475569;
-    --text-muted: #94a3b8;
-    --border: rgba(15, 23, 42, 0.1);
-    --border-strong: rgba(15, 23, 42, 0.15);
-    --shadow: 0 10px 40px rgba(0, 0, 0, 0.08);
-    --shadow-sm: 0 4px 12px rgba(0, 0, 0, 0.05);
-    --shadow-lg: 0 20px 60px rgba(0, 0, 0, 0.1);
+    /* Light theme follows M3 surfaces with a subtle Material You tint */
+    /* Background should not be pure white; cards slightly darker for hierarchy */
+    --bg-primary: var(--md-surface-container-low);
+    --bg-secondary: var(--md-surface);
+    --bg-card: var(--md-surface-container);
+    --bg-card-solid: var(--md-surface-container-high);
+    --bg-hover: var(--md-surface-container-highest);
+
+    --bg-glass: color-mix(in srgb, var(--accent) 6%, color-mix(in srgb, var(--md-surface-container) 86%, transparent));
+    --glass-material: color-mix(in srgb, var(--accent) 8%, var(--md-surface-container));
+    --glass-border: var(--md-outline-variant);
+    --glass-shadow: var(--md-shadow-1);
+    --glass-blur: blur(14px) saturate(130%);
+
+    --text-primary: var(--md-on-surface);
+    --text-secondary: var(--md-on-surface-variant);
+    --text-muted: color-mix(in srgb, var(--md-on-surface) 55%, transparent);
+    --border: var(--md-outline-variant);
+    --border-strong: var(--md-outline);
+    --shadow: var(--md-shadow-2);
+    --shadow-sm: var(--md-shadow-1);
+    --shadow-lg: var(--md-shadow-2);
 }
 
 /* ===== Experimental Color Themes ===== */

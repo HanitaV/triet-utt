@@ -8,10 +8,10 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/common.css?v=2025122903">
-    <link rel="stylesheet" href="css/m3-design-system.css?v=2025122903">
-    <link rel="stylesheet" href="css/dashboard.css?v=2025122903">
-    <link rel="stylesheet" href="css/settings.css?v=2025122903">
+    <link rel="stylesheet" href="css/common.css?v=2025122904">
+    <link rel="stylesheet" href="css/m3-design-system.css?v=2025122904">
+    <link rel="stylesheet" href="css/dashboard.css?v=2025122904">
+    <link rel="stylesheet" href="css/settings.css?v=2025122904">
 </head>
 
 <body class="settings-page">
@@ -429,8 +429,8 @@
         </a>
     </nav>
 
-    <script src="js/common.js?v=2025122902"></script>
-    <script src="js/dashboard.js?v=2025122902"></script>
+    <script src="js/common.js?v=2025122904"></script>
+    <script src="js/dashboard.js?v=2025122904"></script>
     <!-- Reusing dashboard.js for export/import logic if functions are global or accessible -->
     <script>
         // Color suggestions data - complementary and analogous colors for each theme
@@ -509,7 +509,8 @@
 
         // Initialize color theme selection UI
         function initColorThemeUI() {
-            const currentColorTheme = localStorage.getItem('quiz-color-theme') || 'default';
+            const saved = localStorage.getItem('color-theme') || 'default';
+            const currentColorTheme = (saved && saved.startsWith('custom:')) ? 'custom' : (saved || 'default');
             updateColorThemeActiveState(currentColorTheme);
             updateCurrentColorDisplay(currentColorTheme);
 
@@ -537,7 +538,8 @@
                 } else if (isGradient) {
                     circle.style.background = getGradientStyle(theme).replace('background: ', '').replace(';', '');
                 } else if (isCustom) {
-                    const customHex = localStorage.getItem('quiz-custom-hex') || '#7c3aed';
+                    const saved = localStorage.getItem('color-theme') || '';
+                    const customHex = saved.startsWith('custom:') ? saved.split(':')[1] : '#7c3aed';
                     circle.style.background = customHex;
                 } else {
                     circle.style.background = colorHex[theme] || '#7c3aed';
@@ -665,7 +667,7 @@
                 renderCustomColors();
             }
             // Apply the custom color immediately
-            applyCustomColor(hexColor);
+            applyCustomColorUI(hexColor);
         }
 
         function removeCustomColor(hexColor) {
@@ -686,11 +688,12 @@
                 return;
             }
 
-            const currentCustomColor = localStorage.getItem('quiz-custom-hex');
+            const saved = localStorage.getItem('color-theme') || '';
+            const currentCustomColor = saved.startsWith('custom:') ? saved.split(':')[1] : null;
 
             container.innerHTML = colors.map(hex => `
                 <div class="color-option custom-color-item ${currentCustomColor === hex ? 'active' : ''}" 
-                     onclick="applyCustomColor('${hex}')" 
+                     onclick="applyCustomColorUI('${hex}')" 
                      data-color="custom-${hex}">
                     <div class="color-circle" style="background: ${hex};"></div>
                     <button class="delete-btn" onclick="event.stopPropagation(); removeCustomColor('${hex}')">×</button>
@@ -699,24 +702,27 @@
             `).join('');
         }
 
-        function applyCustomColor(hexColor) {
-            // Store custom color
-            localStorage.setItem('quiz-custom-hex', hexColor);
-            localStorage.setItem('quiz-color-theme', 'custom');
-
-            // Apply via CSS custom properties
-            document.documentElement.setAttribute('data-color-theme', 'custom');
-            document.documentElement.style.setProperty('--accent', hexColor);
-            document.documentElement.style.setProperty('--accent-hover', lightenColor(hexColor, 20));
-            document.documentElement.style.setProperty('--accent-light', hexColor + '26');
-            document.documentElement.style.setProperty('--accent-gradient', `linear-gradient(135deg, ${hexColor}, ${lightenColor(hexColor, 30)})`);
+        function applyCustomColorUI(hexColor) {
+            // Prefer common.js implementation so all pages stay consistent
+            if (typeof window.applyCustomColor === 'function') {
+                window.applyCustomColor(hexColor);
+            } else {
+                // Fallback: mimic common.js behavior
+                const html = document.documentElement;
+                html.removeAttribute('data-color-theme');
+                html.style.setProperty('--accent', hexColor);
+                html.style.setProperty('--accent-hover', `color-mix(in srgb, ${hexColor}, white 20%)`);
+                html.style.setProperty('--accent-light', `color-mix(in srgb, ${hexColor}, transparent 85%)`);
+                html.style.setProperty('--accent-secondary', `color-mix(in srgb, ${hexColor}, blue 20%)`);
+                html.style.setProperty('--accent-gradient', `linear-gradient(135deg, ${hexColor}, color-mix(in srgb, ${hexColor}, black 20%))`);
+                localStorage.setItem('color-theme', `custom:${hexColor}`);
+            }
 
             // Update UI
             updateColorThemeActiveState('custom');
+            updateCurrentColorDisplay('custom');
             document.querySelectorAll('.custom-color-item').forEach(el => el.classList.remove('active'));
             document.querySelectorAll(`[data-color="custom-${hexColor}"]`).forEach(el => el.classList.add('active'));
-
-            // Hide suggestions for custom colors
             const suggestionsSection = document.getElementById('color-suggestions');
             if (suggestionsSection) suggestionsSection.style.display = 'none';
         }
@@ -739,13 +745,18 @@
                 originalSelectColorTheme(theme);
             } else {
                 // Fallback implementation
-                document.documentElement.setAttribute('data-color-theme', theme);
-                localStorage.setItem('quiz-color-theme', theme);
-                // Remove custom color if selecting a preset
-                localStorage.removeItem('quiz-custom-hex');
+                if (theme === 'default') {
+                    document.documentElement.removeAttribute('data-color-theme');
+                    localStorage.removeItem('color-theme');
+                } else {
+                    document.documentElement.setAttribute('data-color-theme', theme);
+                    localStorage.setItem('color-theme', theme);
+                }
+                // Remove custom color styles if selecting a preset
                 document.documentElement.style.removeProperty('--accent');
                 document.documentElement.style.removeProperty('--accent-hover');
                 document.documentElement.style.removeProperty('--accent-light');
+                document.documentElement.style.removeProperty('--accent-secondary');
                 document.documentElement.style.removeProperty('--accent-gradient');
             }
 
