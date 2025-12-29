@@ -1,108 +1,62 @@
-/* ===== CSS Variables - NEO Education Theme ===== */
+/* ===== CSS Variables - NEO Education Theme (Hybrid M3/Apple) ===== */
 :root {
-    /* Dark Mode (Default) - Tinted with Accent */
-    --bg-primary: color-mix(in srgb, var(--accent) 5%, #0a0f1a);
-    --bg-secondary: color-mix(in srgb, var(--accent) 8%, #111827);
-    --bg-card: color-mix(in srgb, var(--accent) 5%, rgba(17, 24, 39, 0.95));
-    --bg-card-solid: color-mix(in srgb, var(--accent) 5%, #1a1f2e);
-    --bg-hover: color-mix(in srgb, var(--accent) 10%, rgba(30, 41, 59, 0.8));
-    --bg-glass: color-mix(in srgb, var(--accent) 5%, rgba(17, 24, 39, 0.7));
-    --text-primary: #f1f5f9;
-    --text-secondary: #94a3b8;
-    --text-muted: #64748b;
-    /* NEO Education Colors - Purple/Cyan theme */
+    /* Map M3 Tokens to Generic Names for compatibility */
+    --bg-primary: var(--md-surface);
+    --bg-secondary: var(--md-surface-container);
+    --bg-card: var(--md-surface-container-low);
+    --bg-card-solid: var(--md-surface-container-high);
+    --bg-hover: var(--md-surface-container-highest);
+
+    /* Apple-style Glass */
+    --glass-material: rgba(30, 30, 40, 0.65);
+    --glass-border: rgba(255, 255, 255, 0.1);
+    --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+    --glass-blur: blur(20px) saturate(180%);
+
+    /* Context Colors */
+    --text-primary: var(--md-on-surface);
+    --text-secondary: var(--md-on-surface-variant);
+    --text-muted: var(--md-outline);
+
+    /* Accents - Retain original purple/cyan identity but softer */
     --accent: #7c3aed;
-    --accent-hover: #a78bfa;
+    --accent-hover: #9c7eff;
     --accent-light: rgba(124, 58, 237, 0.15);
-    --accent-gradient: linear-gradient(135deg, #7c3aed, #06b6d4);
-    --accent-secondary: #06b6d4;
-    --accent-tertiary: #a855f7;
-    --correct: #10b981;
-    --correct-bg: rgba(16, 185, 129, 0.15);
-    --incorrect: #ef4444;
-    --incorrect-bg: rgba(239, 68, 68, 0.15);
-    --warning: #f59e0b;
-    --warning-bg: rgba(245, 158, 11, 0.15);
-    --border: rgba(148, 163, 184, 0.15);
-    --border-strong: rgba(148, 163, 184, 0.25);
-    --shadow: 0 10px 40px rgba(0, 0, 0, 0.4);
-    --shadow-sm: 0 4px 12px rgba(0, 0, 0, 0.2);
-    --shadow-lg: 0 20px 60px rgba(0, 0, 0, 0.5);
-    --radius: 16px;
-    --radius-sm: 10px;
-    --radius-xs: 6px;
+    --accent-gradient: linear-gradient(135deg, #7c3aed, #2dd4bf);
+
+    /* Functional Colors */
+    --correct: #34d399;
+    /* Soft Emerald */
+    --correct-bg: rgba(52, 211, 153, 0.15);
+    --incorrect: #f87171;
+    /* Soft Red */
+    --incorrect-bg: rgba(248, 113, 113, 0.15);
+    --warning: #fbbf24;
+    /* Soft Amber */
+    --warning-bg: rgba(251, 191, 36, 0.15);
+
+    /* Borders & Shadows */
+    --border: var(--md-outline-variant);
+    --shadow: var(--md-shadow-3);
+    --shadow-sm: var(--md-shadow-1);
+
+    /* Spacing & Radius */
+    --radius: 24px;
+    /* More rounded for Apple/M3 feel */
+    --radius-sm: 12px;
+    --radius-xs: 8px;
     --radius-full: 9999px;
-    --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    --transition-fast: all 0.15s ease;
-    --font: 'Inter', system-ui, -apple-system, sans-serif;
 
-    /* Spacing */
-    --space-xs: 4px;
-    --space-sm: 8px;
-    --space-md: 16px;
-    --space-lg: 24px;
-    --space-xl: 32px;
-    --space-2xl: 48px;
+    /* Transitions */
+    --transition: all 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+    /* Soft Spring-like */
 }
 
-/* Light Mode - Tinted with Accent */
+/* Light Mode Overrides */
 [data-theme="light"] {
-    --bg-primary: color-mix(in srgb, var(--accent) 5%, #f8fafc);
-    --bg-secondary: color-mix(in srgb, var(--accent) 8%, #ffffff);
-    --bg-card: color-mix(in srgb, var(--accent) 3%, rgba(255, 255, 255, 0.98));
-    --bg-card-solid: color-mix(in srgb, var(--accent) 3%, #ffffff);
-    --bg-hover: color-mix(in srgb, var(--accent) 10%, rgba(241, 245, 249, 0.9));
-    --bg-glass: color-mix(in srgb, var(--accent) 5%, rgba(255, 255, 255, 0.8));
-    --text-primary: #0f172a;
-    --text-secondary: #475569;
-    --text-muted: #94a3b8;
-    --border: rgba(15, 23, 42, 0.1);
-    --border-strong: rgba(15, 23, 42, 0.15);
-    --shadow: 0 10px 40px rgba(0, 0, 0, 0.08);
-    --shadow-sm: 0 4px 12px rgba(0, 0, 0, 0.05);
-    --shadow-lg: 0 20px 60px rgba(0, 0, 0, 0.1);
-}
-
-/* ===== Experimental Color Themes ===== */
-
-/* Ocean Theme (Blue/Teal) */
-html[data-color-theme="ocean"] {
-    --accent: #0ea5e9;
-    --accent-hover: #38bdf8;
-    --accent-light: rgba(14, 165, 233, 0.15);
-    --accent-gradient: linear-gradient(135deg, #0ea5e9, #2dd4bf);
-    --accent-secondary: #2dd4bf;
-    --accent-tertiary: #6366f1;
-}
-
-/* Nature Theme (Green/Lime) */
-html[data-color-theme="nature"] {
-    --accent: #10b981;
-    --accent-hover: #34d399;
-    --accent-light: rgba(16, 185, 129, 0.15);
-    --accent-gradient: linear-gradient(135deg, #10b981, #84cc16);
-    --accent-secondary: #84cc16;
-    --accent-tertiary: #06b6d4;
-}
-
-/* Sunset Theme (Orange/Red) */
-html[data-color-theme="sunset"] {
-    --accent: #f59e0b;
-    --accent-hover: #fbbf24;
-    --accent-light: rgba(245, 158, 11, 0.15);
-    --accent-gradient: linear-gradient(135deg, #f59e0b, #ef4444);
-    --accent-secondary: #ef4444;
-    --accent-tertiary: #d946ef;
-}
-
-/* Berry Theme (Pink/Rose) */
-html[data-color-theme="berry"] {
-    --accent: #ec4899;
-    --accent-hover: #f472b6;
-    --accent-light: rgba(236, 72, 153, 0.15);
-    --accent-gradient: linear-gradient(135deg, #ec4899, #f43f5e);
-    --accent-secondary: #f43f5e;
-    --accent-tertiary: #8b5cf6;
+    --glass-material: rgba(255, 255, 255, 0.75);
+    --glass-border: rgba(255, 255, 255, 0.6);
+    --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.1);
 }
 
 /* ===== Reset & Base ===== */
@@ -110,6 +64,8 @@ html[data-color-theme="berry"] {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    /* Apple typography smoothing */
 }
 
 html {
@@ -118,25 +74,22 @@ html {
 }
 
 body {
-    font-family: var(--font);
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, sans-serif;
+    /* Priority to Apple fonts */
     background: var(--bg-primary);
     color: var(--text-primary);
     min-height: 100vh;
-    line-height: 1.7;
+    line-height: 1.6;
     font-size: 16px;
     overflow-x: hidden;
 }
 
-/* Container with responsive widths */
+/* Container */
 .container {
     width: 100%;
-    max-width: 1000px;
+    max-width: 1100px;
     margin: 0 auto;
-    padding: var(--space-lg);
-}
-
-.container-wide {
-    max-width: 1200px;
+    padding: 32px 20px;
 }
 
 .hidden {

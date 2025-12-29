@@ -52,6 +52,9 @@ function initSimulationElements() {
     distWarning = document.getElementById('dist-warning');
     chapDistContainer = document.getElementById('chapter-distribution-container');
 
+    // New: Time display value
+    const timeDisplay = document.getElementById('time-display-val');
+
     // Render dynamic config
     renderSimulationConfig();
 
@@ -154,6 +157,13 @@ function initSimulationEventListeners() {
     simRetryBtn?.addEventListener('click', resetSimulation);
 
     simTotalQuestionsInput?.addEventListener('input', updateCounts);
+
+    // New: Time range listener
+    simTimeLimit?.addEventListener('input', (e) => {
+        const val = document.getElementById('time-display-val');
+        if (val) val.textContent = e.target.value;
+    });
+
     // Event listeners for dynamically created chapter percentage inputs are added in renderSimulationConfig
 
     // Initial update
@@ -177,13 +187,19 @@ function updateCounts() {
     });
 
     if (simTotalPercent) {
-        simTotalPercent.innerHTML = `<span>Tổng: ${totalPercent}%</span>`;
+        simTotalPercent.textContent = `${totalPercent}%`;
+
         if (totalPercent !== 100) {
-            simTotalPercent.classList.add('invalid');
-            simTotalPercent.innerHTML += ` <span class="dist-warning">⚠️ Tổng phải bằng 100%</span>`;
+            simTotalPercent.style.background = 'rgba(239, 68, 68, 0.2)'; // Red tint
+            simTotalPercent.style.color = '#f87171';
+
+            if (distWarning) distWarning.classList.remove('hidden');
             if (startSimulationBtn) startSimulationBtn.disabled = true;
         } else {
-            simTotalPercent.classList.remove('invalid');
+            simTotalPercent.style.background = ''; // Reset
+            simTotalPercent.style.color = '';
+
+            if (distWarning) distWarning.classList.add('hidden');
             if (startSimulationBtn) startSimulationBtn.disabled = false;
         }
     }
