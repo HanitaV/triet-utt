@@ -95,30 +95,166 @@
 #color-theme-container {
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 12px;
 }
 
-.color-category {
-    padding: 16px;
+/* Current Color Display */
+.current-color-display {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 16px;
     background: var(--md-surface-container-low);
     border-radius: 16px;
     border: 1px solid var(--md-outline-variant);
 }
 
-.color-category-label {
-    font-size: 13px;
-    font-weight: 600;
-    color: var(--md-on-surface-variant);
-    margin-bottom: 12px;
+.current-color-info {
     display: flex;
     align-items: center;
-    gap: 6px;
+    gap: 12px;
 }
 
-.color-options-row {
+.current-color-text {
     display: flex;
-    gap: 12px;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.current-color-label {
+    font-size: 11px;
+    color: var(--md-on-surface-variant);
+}
+
+.current-color-name {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--md-on-surface);
+}
+
+.expand-colors-btn {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    background: var(--md-primary);
+    color: var(--md-on-primary);
+    border: none;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.expand-colors-btn:hover {
+    background: var(--md-primary-hover, var(--accent-hover));
+    transform: scale(1.02);
+}
+
+.expand-icon {
+    font-size: 10px;
+    transition: transform 0.3s ease;
+}
+
+.expand-icon.rotated {
+    transform: rotate(180deg);
+}
+
+/* Quick Colors Section */
+.quick-colors {
+    padding: 16px;
+    background: var(--md-surface-container-low);
+    border-radius: 16px;
+    border: 1px solid var(--md-outline-variant);
+    animation: slideDown 0.3s ease;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.show-all-colors-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    width: 100%;
+    padding: 10px 16px;
+    margin-top: 12px;
+    background: var(--md-surface-container);
+    color: var(--md-on-surface);
+    border: 1px dashed var(--md-outline-variant);
+    border-radius: 12px;
+    font-size: 13px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.show-all-colors-btn:hover {
+    background: var(--md-surface-container-high);
+    border-color: var(--md-primary);
+    color: var(--md-primary);
+}
+
+/* All Colors Panel */
+.all-colors-panel {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 16px;
+    background: var(--md-surface-container-lowest);
+    border-radius: 16px;
+    border: 1px solid var(--md-outline-variant);
+    animation: slideDown 0.3s ease;
+}
+
+/* Compact Category */
+.color-category.compact {
+    padding: 10px 12px;
+    background: var(--md-surface-container-low);
+    border-radius: 12px;
+    border: none;
+}
+
+.color-category.compact .color-category-label {
+    font-size: 11px;
+    margin-bottom: 8px;
+}
+
+/* Compact Color Options Row - HORIZONTAL */
+.color-options-row.compact {
+    display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
+    gap: 16px;
+    align-items: flex-start;
+}
+
+.color-options-row.compact .color-option {
+    min-width: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.color-options-row.compact .color-option span {
+    display: none;
+    /* Hide text in compact mode */
+}
+
+.color-options-row.compact .color-circle {
+    width: 36px;
+    height: 36px;
+    margin: 0;
 }
 
 /* Color Option Base */
@@ -126,39 +262,31 @@
     cursor: pointer;
     text-align: center;
     transition: transform 0.2s ease;
-    min-width: 56px;
+    min-width: auto;
     position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .color-option:hover {
-    transform: scale(1.08);
+    transform: scale(1.1);
 }
 
 .color-option.active .color-circle {
-    box-shadow: 0 0 0 3px var(--md-primary-container), 0 0 0 5px var(--md-primary);
+    box-shadow: 0 0 0 2px var(--md-primary-container), 0 0 0 4px var(--md-primary);
 }
 
-.color-option span {
-    font-size: 11px;
-    font-weight: 500;
-    color: var(--md-on-surface);
-    display: block;
-    margin-top: 6px;
-    max-width: 60px;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-}
-
-/* Color Circle */
+/* Color Circle - Changed to Rounded Square */
 .color-circle {
-    width: 44px;
-    height: 44px;
-    border-radius: 50%;
-    margin: 0 auto;
+    width: 36px;
+    height: 36px;
+    border-radius: 10px;
+    margin: 0;
     border: 2px solid transparent;
     transition: all 0.2s ease;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    flex-shrink: 0;
 }
 
 /* Split Color (for NEO default) */
@@ -181,12 +309,23 @@
 
 .add-custom-color .color-circle {
     border: 2px dashed var(--md-outline);
-    background: var(--md-surface-container) !important;
+    background: linear-gradient(135deg, #667eea, #764ba2) !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.add-custom-color .color-circle span {
+    display: block !important;
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+    margin: 0;
 }
 
 .add-custom-color:hover .color-circle {
     border-color: var(--md-primary);
-    background: var(--md-primary-container) !important;
+    transform: scale(1.05);
 }
 
 #custom-color-picker {
