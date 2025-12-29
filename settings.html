@@ -83,192 +83,203 @@
                         </div>
                     </div>
 
-                    <!-- Color Categories -->
+                    <!-- Color Selection - Compact with Expand -->
                     <div id="color-theme-container">
-                        <!-- Category: Popular / Classics -->
-                        <div class="color-category">
-                            <div class="color-category-label">⭐ Phổ biến</div>
-                            <div class="color-options-row">
+                        <!-- Current Color Display -->
+                        <div class="current-color-display" id="current-color-display">
+                            <div class="current-color-info">
+                                <div class="color-circle" id="current-color-circle" style="width: 40px; height: 40px;">
+                                </div>
+                                <div class="current-color-text">
+                                    <span class="current-color-label">Đang dùng:</span>
+                                    <span class="current-color-name" id="current-color-name">NEO</span>
+                                </div>
+                            </div>
+                            <button class="expand-colors-btn" id="expand-colors-btn" onclick="toggleColorPicker()">
+                                <span id="expand-btn-text">🎨 Đổi màu</span>
+                                <span class="expand-icon" id="expand-icon">▼</span>
+                            </button>
+                        </div>
+
+                        <!-- Quick Color Selection (Always visible when expanded) -->
+                        <div class="quick-colors" id="quick-colors" style="display: none;">
+                            <div class="color-options-row compact">
                                 <div class="color-option" onclick="selectColorTheme('default')" data-color="default"
-                                    title="NEO Default">
+                                    title="NEO">
                                     <div class="color-circle split-color"
                                         style="--color-left: #7c3aed; --color-right: #06b6d4;"></div>
-                                    <span>NEO</span>
                                 </div>
                                 <div class="color-option" onclick="selectColorTheme('ocean')" data-color="ocean"
                                     title="Đại dương">
                                     <div class="color-circle" style="background: #0ea5e9;"></div>
-                                    <span>Đại dương</span>
                                 </div>
                                 <div class="color-option" onclick="selectColorTheme('nature')" data-color="nature"
                                     title="Thiên nhiên">
                                     <div class="color-circle" style="background: #10b981;"></div>
-                                    <span>Thiên nhiên</span>
                                 </div>
                                 <div class="color-option" onclick="selectColorTheme('berry')" data-color="berry"
                                     title="Dâu tây">
                                     <div class="color-circle" style="background: #ec4899;"></div>
-                                    <span>Dâu tây</span>
                                 </div>
                                 <div class="color-option" onclick="selectColorTheme('royal')" data-color="royal"
                                     title="Hoàng gia">
                                     <div class="color-circle" style="background: #4338ca;"></div>
-                                    <span>Hoàng gia</span>
                                 </div>
-                            </div>
-                        </div>
-
-                        <!-- Category: Warm Colors -->
-                        <div class="color-category">
-                            <div class="color-category-label">🔥 Tông nóng</div>
-                            <div class="color-options-row">
                                 <div class="color-option" onclick="selectColorTheme('sunset')" data-color="sunset"
                                     title="Hoàng hôn">
                                     <div class="color-circle" style="background: #f59e0b;"></div>
-                                    <span>Hoàng hôn</span>
                                 </div>
-                                <div class="color-option" onclick="selectColorTheme('crimson')" data-color="crimson"
-                                    title="Đỏ tươi">
-                                    <div class="color-circle" style="background: #dc2626;"></div>
-                                    <span>Đỏ tươi</span>
-                                </div>
-                                <div class="color-option" onclick="selectColorTheme('rose')" data-color="rose"
-                                    title="Hoa hồng">
-                                    <div class="color-circle" style="background: #f43f5e;"></div>
-                                    <span>Hoa hồng</span>
-                                </div>
-                                <div class="color-option" onclick="selectColorTheme('coral')" data-color="coral"
-                                    title="San hô">
-                                    <div class="color-circle" style="background: #fb7185;"></div>
-                                    <span>San hô</span>
-                                </div>
-                                <div class="color-option" onclick="selectColorTheme('orange')" data-color="orange"
-                                    title="Cam">
-                                    <div class="color-circle" style="background: #f97316;"></div>
-                                    <span>Cam</span>
-                                </div>
-                                <div class="color-option" onclick="selectColorTheme('peach')" data-color="peach"
-                                    title="Đào">
-                                    <div class="color-circle" style="background: #fdba74;"></div>
-                                    <span>Đào</span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Category: Cool Colors -->
-                        <div class="color-category">
-                            <div class="color-category-label">❄️ Tông lạnh</div>
-                            <div class="color-options-row">
-                                <div class="color-option" onclick="selectColorTheme('teal')" data-color="teal"
-                                    title="Ngọc bích">
-                                    <div class="color-circle" style="background: #0d9488;"></div>
-                                    <span>Ngọc bích</span>
-                                </div>
-                                <div class="color-option" onclick="selectColorTheme('cyan')" data-color="cyan"
-                                    title="Xanh lam">
-                                    <div class="color-circle" style="background: #06b6d4;"></div>
-                                    <span>Xanh lam</span>
-                                </div>
-                                <div class="color-option" onclick="selectColorTheme('sky')" data-color="sky"
-                                    title="Bầu trời">
-                                    <div class="color-circle" style="background: #38bdf8;"></div>
-                                    <span>Bầu trời</span>
-                                </div>
-                                <div class="color-option" onclick="selectColorTheme('indigo')" data-color="indigo"
-                                    title="Chàm">
-                                    <div class="color-circle" style="background: #6366f1;"></div>
-                                    <span>Chàm</span>
-                                </div>
-                                <div class="color-option" onclick="selectColorTheme('violet')" data-color="violet"
-                                    title="Tím">
-                                    <div class="color-circle" style="background: #8b5cf6;"></div>
-                                    <span>Tím</span>
-                                </div>
-                                <div class="color-option" onclick="selectColorTheme('purple')" data-color="purple"
-                                    title="Tím đậm">
-                                    <div class="color-circle" style="background: #a855f7;"></div>
-                                    <span>Tím đậm</span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Category: Earth Tones -->
-                        <div class="color-category">
-                            <div class="color-category-label">🍂 Tông đất</div>
-                            <div class="color-options-row">
-                                <div class="color-option" onclick="selectColorTheme('coffee')" data-color="coffee"
-                                    title="Cà phê">
-                                    <div class="color-circle" style="background: #78350f;"></div>
-                                    <span>Cà phê</span>
-                                </div>
-                                <div class="color-option" onclick="selectColorTheme('amber')" data-color="amber"
-                                    title="Hổ phách">
-                                    <div class="color-circle" style="background: #d97706;"></div>
-                                    <span>Hổ phách</span>
-                                </div>
-                                <div class="color-option" onclick="selectColorTheme('olive')" data-color="olive"
-                                    title="Ô liu">
-                                    <div class="color-circle" style="background: #65a30d;"></div>
-                                    <span>Ô liu</span>
-                                </div>
-                                <div class="color-option" onclick="selectColorTheme('emerald')" data-color="emerald"
-                                    title="Ngọc lục bảo">
-                                    <div class="color-circle" style="background: #059669;"></div>
-                                    <span>Ngọc lục</span>
-                                </div>
-                                <div class="color-option" onclick="selectColorTheme('midnight')" data-color="midnight"
-                                    title="Đêm khuya">
-                                    <div class="color-circle"
-                                        style="background: #1e3a5f; border: 1px solid var(--md-outline);"></div>
-                                    <span>Đêm khuya</span>
-                                </div>
-                                <div class="color-option" onclick="selectColorTheme('slate')" data-color="slate"
-                                    title="Xám đá">
-                                    <div class="color-circle" style="background: #475569;"></div>
-                                    <span>Xám đá</span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Category: Gradients / Special -->
-                        <div class="color-category">
-                            <div class="color-category-label">✨ Gradient đặc biệt</div>
-                            <div class="color-options-row">
                                 <div class="color-option" onclick="selectColorTheme('aurora')" data-color="aurora"
                                     title="Cực quang">
                                     <div class="color-circle"
                                         style="background: linear-gradient(135deg, #06b6d4, #8b5cf6);"></div>
-                                    <span>Cực quang</span>
-                                </div>
-                                <div class="color-option" onclick="selectColorTheme('sakura')" data-color="sakura"
-                                    title="Hoa anh đào">
-                                    <div class="color-circle"
-                                        style="background: linear-gradient(135deg, #f472b6, #fb7185);"></div>
-                                    <span>Anh đào</span>
-                                </div>
-                                <div class="color-option" onclick="selectColorTheme('forest')" data-color="forest"
-                                    title="Rừng xanh">
-                                    <div class="color-circle"
-                                        style="background: linear-gradient(135deg, #059669, #84cc16);"></div>
-                                    <span>Rừng xanh</span>
-                                </div>
-                                <div class="color-option" onclick="selectColorTheme('fire')" data-color="fire"
-                                    title="Ngọn lửa">
-                                    <div class="color-circle"
-                                        style="background: linear-gradient(135deg, #f59e0b, #dc2626);"></div>
-                                    <span>Ngọn lửa</span>
                                 </div>
                                 <div class="color-option" onclick="selectColorTheme('galaxy')" data-color="galaxy"
-                                    title="Dải ngân hà">
+                                    title="Ngân hà">
                                     <div class="color-circle"
                                         style="background: linear-gradient(135deg, #4338ca, #ec4899);"></div>
-                                    <span>Ngân hà</span>
                                 </div>
-                                <div class="color-option" onclick="selectColorTheme('mint')" data-color="mint"
-                                    title="Bạc hà">
-                                    <div class="color-circle"
-                                        style="background: linear-gradient(135deg, #10b981, #06b6d4);"></div>
-                                    <span>Bạc hà</span>
+                            </div>
+
+                            <!-- More Colors Button -->
+                            <button class="show-all-colors-btn" id="show-all-colors-btn" onclick="toggleAllColors()">
+                                <span id="all-colors-btn-text">Xem thêm 20+ màu</span>
+                                <span class="expand-icon" id="all-colors-icon">▼</span>
+                            </button>
+                        </div>
+
+                        <!-- All Color Categories (Hidden by default) -->
+                        <div class="all-colors-panel" id="all-colors-panel" style="display: none;">
+                            <!-- Warm Colors -->
+                            <div class="color-category compact">
+                                <div class="color-category-label">🔥 Nóng</div>
+                                <div class="color-options-row compact">
+                                    <div class="color-option" onclick="selectColorTheme('crimson')" data-color="crimson"
+                                        title="Đỏ tươi">
+                                        <div class="color-circle" style="background: #dc2626;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('rose')" data-color="rose"
+                                        title="Hoa hồng">
+                                        <div class="color-circle" style="background: #f43f5e;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('coral')" data-color="coral"
+                                        title="San hô">
+                                        <div class="color-circle" style="background: #fb7185;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('orange')" data-color="orange"
+                                        title="Cam">
+                                        <div class="color-circle" style="background: #f97316;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('peach')" data-color="peach"
+                                        title="Đào">
+                                        <div class="color-circle" style="background: #fdba74;"></div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Cool Colors -->
+                            <div class="color-category compact">
+                                <div class="color-category-label">❄️ Lạnh</div>
+                                <div class="color-options-row compact">
+                                    <div class="color-option" onclick="selectColorTheme('teal')" data-color="teal"
+                                        title="Ngọc bích">
+                                        <div class="color-circle" style="background: #0d9488;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('cyan')" data-color="cyan"
+                                        title="Xanh lam">
+                                        <div class="color-circle" style="background: #06b6d4;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('sky')" data-color="sky"
+                                        title="Bầu trời">
+                                        <div class="color-circle" style="background: #38bdf8;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('indigo')" data-color="indigo"
+                                        title="Chàm">
+                                        <div class="color-circle" style="background: #6366f1;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('violet')" data-color="violet"
+                                        title="Tím">
+                                        <div class="color-circle" style="background: #8b5cf6;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('purple')" data-color="purple"
+                                        title="Tím đậm">
+                                        <div class="color-circle" style="background: #a855f7;"></div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Earth Tones -->
+                            <div class="color-category compact">
+                                <div class="color-category-label">🍂 Đất</div>
+                                <div class="color-options-row compact">
+                                    <div class="color-option" onclick="selectColorTheme('coffee')" data-color="coffee"
+                                        title="Cà phê">
+                                        <div class="color-circle" style="background: #78350f;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('amber')" data-color="amber"
+                                        title="Hổ phách">
+                                        <div class="color-circle" style="background: #d97706;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('olive')" data-color="olive"
+                                        title="Ô liu">
+                                        <div class="color-circle" style="background: #65a30d;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('emerald')" data-color="emerald"
+                                        title="Ngọc lục">
+                                        <div class="color-circle" style="background: #059669;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('midnight')"
+                                        data-color="midnight" title="Đêm khuya">
+                                        <div class="color-circle"
+                                            style="background: #1e3a5f; border: 1px solid var(--md-outline);"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('slate')" data-color="slate"
+                                        title="Xám đá">
+                                        <div class="color-circle" style="background: #475569;"></div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Gradients -->
+                            <div class="color-category compact">
+                                <div class="color-category-label">✨ Gradient</div>
+                                <div class="color-options-row compact">
+                                    <div class="color-option" onclick="selectColorTheme('sakura')" data-color="sakura"
+                                        title="Anh đào">
+                                        <div class="color-circle"
+                                            style="background: linear-gradient(135deg, #f472b6, #fb7185);"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('forest')" data-color="forest"
+                                        title="Rừng xanh">
+                                        <div class="color-circle"
+                                            style="background: linear-gradient(135deg, #059669, #84cc16);"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('fire')" data-color="fire"
+                                        title="Ngọn lửa">
+                                        <div class="color-circle"
+                                            style="background: linear-gradient(135deg, #f59e0b, #dc2626);"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('mint')" data-color="mint"
+                                        title="Bạc hà">
+                                        <div class="color-circle"
+                                            style="background: linear-gradient(135deg, #10b981, #06b6d4);"></div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Custom Colors -->
+                            <div class="color-category compact custom-color-section">
+                                <div class="color-category-label">🎯 Tùy chỉnh</div>
+                                <div class="color-options-row compact" id="custom-colors-row"></div>
+                                <div class="custom-color-actions">
+                                    <div class="color-option add-custom-color" id="add-custom-color-btn"
+                                        title="Thêm màu">
+                                        <div class="color-circle"
+                                            style="background: linear-gradient(135deg, #667eea, #764ba2); display: flex; align-items: center; justify-content: center;">
+                                            <span style="color: white; font-size: 18px; font-weight: 300;">+</span>
+                                        </div>
+                                        <input type="color" id="custom-color-picker" value="#7c3aed">
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -276,29 +287,8 @@
                         <!-- Color Suggestions (shown when a color is selected) -->
                         <div class="color-category color-suggestions-section" id="color-suggestions"
                             style="display: none;">
-                            <div class="color-category-label">💡 Gợi ý phối màu cho bạn</div>
-                            <div class="color-options-row" id="suggested-colors-row">
-                                <!-- Suggested colors will be rendered here via JS -->
-                            </div>
-                        </div>
-
-                        <!-- Category: Custom -->
-                        <div class="color-category custom-color-section">
-                            <div class="color-category-label">🎯 Tùy chỉnh</div>
-                            <div class="color-options-row" id="custom-colors-row">
-                                <!-- Saved custom colors will be rendered here -->
-                            </div>
-                            <div class="custom-color-actions">
-                                <div class="color-option add-custom-color" id="add-custom-color-btn"
-                                    title="Thêm màu tùy chỉnh">
-                                    <div class="color-circle"
-                                        style="background: linear-gradient(135deg, #667eea, #764ba2); display: flex; align-items: center; justify-content: center;">
-                                        <span style="color: white; font-size: 24px; font-weight: 300;">+</span>
-                                    </div>
-                                    <span>Thêm màu</span>
-                                    <input type="color" id="custom-color-picker" value="#7c3aed">
-                                </div>
-                            </div>
+                            <div class="color-category-label">💡 Gợi ý phối màu</div>
+                            <div class="color-options-row compact" id="suggested-colors-row"></div>
                         </div>
                     </div>
                 </div>
@@ -521,7 +511,7 @@
         function initColorThemeUI() {
             const currentColorTheme = localStorage.getItem('quiz-color-theme') || 'default';
             updateColorThemeActiveState(currentColorTheme);
-            showColorSuggestions(currentColorTheme);
+            updateCurrentColorDisplay(currentColorTheme);
 
             // Setup custom color picker
             const customPicker = document.getElementById('custom-color-picker');
@@ -529,6 +519,77 @@
                 customPicker.addEventListener('change', (e) => {
                     addCustomColor(e.target.value);
                 });
+            }
+        }
+
+        // Update current color display
+        function updateCurrentColorDisplay(theme) {
+            const circle = document.getElementById('current-color-circle');
+            const name = document.getElementById('current-color-name');
+
+            if (circle && name) {
+                const isGradient = ['aurora', 'sakura', 'forest', 'fire', 'galaxy', 'mint'].includes(theme);
+                const isSplit = theme === 'default';
+                const isCustom = theme === 'custom';
+
+                if (isSplit) {
+                    circle.style.background = 'linear-gradient(90deg, #7c3aed 50%, #06b6d4 50%)';
+                } else if (isGradient) {
+                    circle.style.background = getGradientStyle(theme).replace('background: ', '').replace(';', '');
+                } else if (isCustom) {
+                    const customHex = localStorage.getItem('quiz-custom-hex') || '#7c3aed';
+                    circle.style.background = customHex;
+                } else {
+                    circle.style.background = colorHex[theme] || '#7c3aed';
+                }
+
+                name.textContent = colorNames[theme] || (isCustom ? 'Tùy chỉnh' : theme);
+            }
+        }
+
+        // Toggle color picker visibility
+        let colorPickerOpen = false;
+        function toggleColorPicker() {
+            colorPickerOpen = !colorPickerOpen;
+            const quickColors = document.getElementById('quick-colors');
+            const expandIcon = document.getElementById('expand-icon');
+            const expandBtnText = document.getElementById('expand-btn-text');
+
+            if (quickColors) {
+                quickColors.style.display = colorPickerOpen ? 'block' : 'none';
+            }
+            if (expandIcon) {
+                expandIcon.classList.toggle('rotated', colorPickerOpen);
+            }
+            if (expandBtnText) {
+                expandBtnText.textContent = colorPickerOpen ? '✕ Đóng' : '🎨 Đổi màu';
+            }
+
+            // Close all colors panel when closing main picker
+            if (!colorPickerOpen) {
+                const allColorsPanel = document.getElementById('all-colors-panel');
+                if (allColorsPanel) allColorsPanel.style.display = 'none';
+                const allColorsIcon = document.getElementById('all-colors-icon');
+                if (allColorsIcon) allColorsIcon.classList.remove('rotated');
+            }
+        }
+
+        // Toggle all colors panel
+        let allColorsOpen = false;
+        function toggleAllColors() {
+            allColorsOpen = !allColorsOpen;
+            const allColorsPanel = document.getElementById('all-colors-panel');
+            const allColorsIcon = document.getElementById('all-colors-icon');
+            const allColorsBtnText = document.getElementById('all-colors-btn-text');
+
+            if (allColorsPanel) {
+                allColorsPanel.style.display = allColorsOpen ? 'block' : 'none';
+            }
+            if (allColorsIcon) {
+                allColorsIcon.classList.toggle('rotated', allColorsOpen);
+            }
+            if (allColorsBtnText) {
+                allColorsBtnText.textContent = allColorsOpen ? 'Thu gọn' : 'Xem thêm 20+ màu';
             }
         }
 
@@ -690,6 +751,7 @@
 
             // Update UI
             updateColorThemeActiveState(theme);
+            updateCurrentColorDisplay(theme);
             showColorSuggestions(theme);
             renderCustomColors(); // Refresh custom colors active state
         };
