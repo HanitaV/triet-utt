@@ -281,6 +281,8 @@
 .study-content {
     flex: 1;
     padding: 24px;
+    padding-bottom: 120px;
+    /* Space for bottom nav */
     overflow-y: auto;
     height: 100%;
 }
