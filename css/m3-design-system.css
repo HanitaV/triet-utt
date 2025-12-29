@@ -208,19 +208,22 @@
     background: linear-gradient(0deg, rgba(29, 27, 32, 0.08), rgba(29, 27, 32, 0.08)), var(--md-secondary-container);
 }
 
-/* Cards */
+/* Cards now use dynamic color-mix variables from common.css for Material You tinting */
 .md-card-elevated {
-    background: var(--md-surface-container-low);
-    /* Base color */
+    background: var(--bg-card);
+    /* Dynamic tinted background */
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid var(--glass-border);
     border-radius: var(--md-shape-md);
     box-shadow: var(--md-shadow-1);
     transition: all var(--md-motion-duration-medium) var(--md-motion-easing-standard);
 }
 
-/* Dark mode elevation overlay trick */
+/* Dark mode elevation overlay trick - adjusted for glass */
 [data-theme="dark"] .md-card-elevated {
-    background: var(--md-elevation-1);
-    box-shadow: var(--md-shadow-1);
+    background: var(--glass-material);
+    box-shadow: var(--glass-shadow);
 }
 
 .md-card-elevated:hover {
@@ -229,17 +232,20 @@
 }
 
 [data-theme="dark"] .md-card-elevated:hover {
-    background: var(--md-elevation-2);
+    background: color-mix(in srgb, var(--accent) 8%, rgba(30, 30, 40, 0.75));
+    border-color: rgba(255, 255, 255, 0.2);
 }
 
 .md-card-filled {
-    background: var(--md-surface-container-highest);
+    background: var(--bg-card-solid);
+    /* Solid tinted background */
     border-radius: var(--md-shape-md);
-    border: none;
+    border: 1px solid transparent;
 }
 
 .md-card-outlined {
-    background: var(--md-surface);
+    background: var(--bg-primary);
+    /* Blend with background */
     border: 1px solid var(--md-outline-variant);
     border-radius: var(--md-shape-md);
 }
