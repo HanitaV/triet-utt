@@ -186,13 +186,205 @@ html[data-color-theme="crimson"] {
 /* Teal Theme (Teal/Cyan) */
 html[data-color-theme="teal"] {
     --accent: #0d9488;
-    /* Teal 600 */
     --accent-hover: #14b8a6;
     --accent-light: color-mix(in srgb, var(--accent) 15%, transparent);
     --accent-gradient: linear-gradient(135deg, #0d9488, #22d3ee);
-    /* Teal to Cyan */
     --accent-secondary: #22d3ee;
     --accent-tertiary: #115e59;
+}
+
+/* ===== NEW COLOR THEMES ===== */
+
+/* Rose Theme */
+html[data-color-theme="rose"] {
+    --accent: #f43f5e;
+    --accent-hover: #fb7185;
+    --accent-light: color-mix(in srgb, var(--accent) 15%, transparent);
+    --accent-gradient: linear-gradient(135deg, #f43f5e, #ec4899);
+    --accent-secondary: #ec4899;
+    --accent-tertiary: #e11d48;
+}
+
+/* Coral Theme */
+html[data-color-theme="coral"] {
+    --accent: #fb7185;
+    --accent-hover: #fda4af;
+    --accent-light: color-mix(in srgb, var(--accent) 15%, transparent);
+    --accent-gradient: linear-gradient(135deg, #fb7185, #f43f5e);
+    --accent-secondary: #f43f5e;
+    --accent-tertiary: #fda4af;
+}
+
+/* Orange Theme */
+html[data-color-theme="orange"] {
+    --accent: #f97316;
+    --accent-hover: #fb923c;
+    --accent-light: color-mix(in srgb, var(--accent) 15%, transparent);
+    --accent-gradient: linear-gradient(135deg, #f97316, #f59e0b);
+    --accent-secondary: #f59e0b;
+    --accent-tertiary: #ea580c;
+}
+
+/* Peach Theme */
+html[data-color-theme="peach"] {
+    --accent: #fdba74;
+    --accent-hover: #fed7aa;
+    --accent-light: color-mix(in srgb, var(--accent) 15%, transparent);
+    --accent-gradient: linear-gradient(135deg, #fdba74, #fb923c);
+    --accent-secondary: #fb923c;
+    --accent-tertiary: #fed7aa;
+}
+
+/* Cyan Theme */
+html[data-color-theme="cyan"] {
+    --accent: #06b6d4;
+    --accent-hover: #22d3ee;
+    --accent-light: color-mix(in srgb, var(--accent) 15%, transparent);
+    --accent-gradient: linear-gradient(135deg, #06b6d4, #0ea5e9);
+    --accent-secondary: #0ea5e9;
+    --accent-tertiary: #0891b2;
+}
+
+/* Sky Theme */
+html[data-color-theme="sky"] {
+    --accent: #38bdf8;
+    --accent-hover: #7dd3fc;
+    --accent-light: color-mix(in srgb, var(--accent) 15%, transparent);
+    --accent-gradient: linear-gradient(135deg, #38bdf8, #0ea5e9);
+    --accent-secondary: #0ea5e9;
+    --accent-tertiary: #0284c7;
+}
+
+/* Indigo Theme */
+html[data-color-theme="indigo"] {
+    --accent: #6366f1;
+    --accent-hover: #818cf8;
+    --accent-light: color-mix(in srgb, var(--accent) 15%, transparent);
+    --accent-gradient: linear-gradient(135deg, #6366f1, #8b5cf6);
+    --accent-secondary: #8b5cf6;
+    --accent-tertiary: #4f46e5;
+}
+
+/* Violet Theme */
+html[data-color-theme="violet"] {
+    --accent: #8b5cf6;
+    --accent-hover: #a78bfa;
+    --accent-light: color-mix(in srgb, var(--accent) 15%, transparent);
+    --accent-gradient: linear-gradient(135deg, #8b5cf6, #a855f7);
+    --accent-secondary: #a855f7;
+    --accent-tertiary: #7c3aed;
+}
+
+/* Purple Theme */
+html[data-color-theme="purple"] {
+    --accent: #a855f7;
+    --accent-hover: #c084fc;
+    --accent-light: color-mix(in srgb, var(--accent) 15%, transparent);
+    --accent-gradient: linear-gradient(135deg, #a855f7, #d946ef);
+    --accent-secondary: #d946ef;
+    --accent-tertiary: #9333ea;
+}
+
+/* Amber Theme */
+html[data-color-theme="amber"] {
+    --accent: #d97706;
+    --accent-hover: #f59e0b;
+    --accent-light: color-mix(in srgb, var(--accent) 15%, transparent);
+    --accent-gradient: linear-gradient(135deg, #d97706, #fbbf24);
+    --accent-secondary: #fbbf24;
+    --accent-tertiary: #b45309;
+}
+
+/* Olive Theme */
+html[data-color-theme="olive"] {
+    --accent: #65a30d;
+    --accent-hover: #84cc16;
+    --accent-light: color-mix(in srgb, var(--accent) 15%, transparent);
+    --accent-gradient: linear-gradient(135deg, #65a30d, #a3e635);
+    --accent-secondary: #a3e635;
+    --accent-tertiary: #4d7c0f;
+}
+
+/* Emerald Theme */
+html[data-color-theme="emerald"] {
+    --accent: #059669;
+    --accent-hover: #10b981;
+    --accent-light: color-mix(in srgb, var(--accent) 15%, transparent);
+    --accent-gradient: linear-gradient(135deg, #059669, #34d399);
+    --accent-secondary: #34d399;
+    --accent-tertiary: #047857;
+}
+
+/* Slate Theme */
+html[data-color-theme="slate"] {
+    --accent: #475569;
+    --accent-hover: #64748b;
+    --accent-light: color-mix(in srgb, var(--accent) 15%, transparent);
+    --accent-gradient: linear-gradient(135deg, #475569, #94a3b8);
+    --accent-secondary: #94a3b8;
+    --accent-tertiary: #334155;
+}
+
+/* ===== GRADIENT THEMES ===== */
+
+/* Aurora Theme (Cyan to Violet) */
+html[data-color-theme="aurora"] {
+    --accent: #06b6d4;
+    --accent-hover: #22d3ee;
+    --accent-light: color-mix(in srgb, var(--accent) 15%, transparent);
+    --accent-gradient: linear-gradient(135deg, #06b6d4, #8b5cf6);
+    --accent-secondary: #8b5cf6;
+    --accent-tertiary: #0891b2;
+}
+
+/* Sakura Theme (Pink to Rose) */
+html[data-color-theme="sakura"] {
+    --accent: #f472b6;
+    --accent-hover: #f9a8d4;
+    --accent-light: color-mix(in srgb, var(--accent) 15%, transparent);
+    --accent-gradient: linear-gradient(135deg, #f472b6, #fb7185);
+    --accent-secondary: #fb7185;
+    --accent-tertiary: #ec4899;
+}
+
+/* Forest Theme (Emerald to Lime) */
+html[data-color-theme="forest"] {
+    --accent: #059669;
+    --accent-hover: #10b981;
+    --accent-light: color-mix(in srgb, var(--accent) 15%, transparent);
+    --accent-gradient: linear-gradient(135deg, #059669, #84cc16);
+    --accent-secondary: #84cc16;
+    --accent-tertiary: #047857;
+}
+
+/* Fire Theme (Amber to Red) */
+html[data-color-theme="fire"] {
+    --accent: #f59e0b;
+    --accent-hover: #fbbf24;
+    --accent-light: color-mix(in srgb, var(--accent) 15%, transparent);
+    --accent-gradient: linear-gradient(135deg, #f59e0b, #dc2626);
+    --accent-secondary: #dc2626;
+    --accent-tertiary: #d97706;
+}
+
+/* Galaxy Theme (Indigo to Pink) */
+html[data-color-theme="galaxy"] {
+    --accent: #4338ca;
+    --accent-hover: #6366f1;
+    --accent-light: color-mix(in srgb, var(--accent) 15%, transparent);
+    --accent-gradient: linear-gradient(135deg, #4338ca, #ec4899);
+    --accent-secondary: #ec4899;
+    --accent-tertiary: #3730a3;
+}
+
+/* Mint Theme (Green to Cyan) */
+html[data-color-theme="mint"] {
+    --accent: #10b981;
+    --accent-hover: #34d399;
+    --accent-light: color-mix(in srgb, var(--accent) 15%, transparent);
+    --accent-gradient: linear-gradient(135deg, #10b981, #06b6d4);
+    --accent-secondary: #06b6d4;
+    --accent-tertiary: #059669;
 }
 
 /* ===== Reset & Base ===== */

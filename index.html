@@ -10,9 +10,9 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/common.css?v=2025122902">
-    <link rel="stylesheet" href="css/m3-design-system.css?v=2025122902">
-    <link rel="stylesheet" href="css/dashboard.css?v=2025122902">
+    <link rel="stylesheet" href="css/common.css?v=2025122903">
+    <link rel="stylesheet" href="css/m3-design-system.css?v=2025122903">
+    <link rel="stylesheet" href="css/dashboard.css?v=2025122903">
 </head>
 
 <body>
@@ -53,52 +53,47 @@
             </div>
         </section>
 
-        <!-- Material Feature Cards -->
+        <!-- Material Feature Cards - Bento Grid Redesign -->
         <section class="md-section">
             <div class="md-container">
-                <h2 class="md-section-title">Tính năng</h2>
+                <h2 class="md-section-title">Tính năng nổi bật</h2>
 
-                <div class="md-card-grid">
-                    <!-- Study Card -->
-                    <a href="study.html" class="md-card md-card-elevated study">
-                        <div class="md-card-media study-bg">
-                            <span class="md-card-icon">📖</span>
+                <div class="bento-grid">
+                    <!-- Study Widget (Big) -->
+                    <a href="study.html" class="bento-card bento-wide study-theme">
+                        <div class="bento-content">
+                            <div class="bento-icon-box">📖</div>
+                            <div class="bento-text">
+                                <h3>Học tập thông minh</h3>
+                                <p>Ôn luyện kiến thức với sự hỗ trợ của AI, Video bài giảng và Flashcard.</p>
+                            </div>
                         </div>
-                        <div class="md-card-body">
-                            <h3 class="md-card-title">Học tập cùng AI</h3>
-                            <p class="md-card-text" id="study-feature-desc">Video bài giảng, lý thuyết và câu hỏi ôn tập
-                                với NotebookLM</p>
+                        <div class="bento-action">
+                            <span>Bắt đầu ngay</span>
+                            <span class="arrow">→</span>
                         </div>
-                        <div class="md-card-actions">
-                            <span class="md-btn-text">Bắt đầu học</span>
+                        <div class="bento-bg-deco"></div>
+                    </a>
+
+                    <!-- Exam Widget (Square) -->
+                    <a href="exam.html" class="bento-card exam-theme">
+                        <div class="bento-content">
+                            <div class="bento-icon-box">📝</div>
+                            <div class="bento-text">
+                                <h3>Thi thử</h3>
+                                <p>Kho đề thi phong phú.</p>
+                            </div>
                         </div>
                     </a>
 
-                    <!-- Exam Card -->
-                    <a href="exam.html" class="md-card md-card-elevated exam">
-                        <div class="md-card-media exam-bg">
-                            <span class="md-card-icon">📝</span>
-                        </div>
-                        <div class="md-card-body">
-                            <h3 class="md-card-title">Thi thử Trắc nghiệm</h3>
-                            <p class="md-card-text" id="exam-feature-desc">Kho câu hỏi phong phú với giải thích AI</p>
-                        </div>
-                        <div class="md-card-actions">
-                            <span class="md-btn-text">Làm bài thi</span>
-                        </div>
-                    </a>
-
-                    <!-- Simulation Card -->
-                    <a href="simulation.html" class="md-card md-card-elevated simulation">
-                        <div class="md-card-media simulation-bg">
-                            <span class="md-card-icon">🎯</span>
-                        </div>
-                        <div class="md-card-body">
-                            <h3 class="md-card-title">Giả lập Thi thật</h3>
-                            <p class="md-card-text">Đề thi chuẩn với đồng hồ đếm ngược</p>
-                        </div>
-                        <div class="md-card-actions">
-                            <span class="md-btn-text">Vào phòng thi</span>
+                    <!-- Simulation Widget (Square) -->
+                    <a href="simulation.html" class="bento-card simulation-theme">
+                        <div class="bento-content">
+                            <div class="bento-icon-box">🎯</div>
+                            <div class="bento-text">
+                                <h3>Giả lập</h3>
+                                <p>Áp lực phòng thi thật.</p>
+                            </div>
                         </div>
                     </a>
                 </div>

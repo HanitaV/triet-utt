@@ -10,7 +10,8 @@
 
 /* Header Card - M3 Top App Bar style */
 .exam-header-card {
-    background: var(--md-surface-container);
+    background: transparent;
+    /* Use parent tint */
     border-bottom: 1px solid var(--md-outline-variant);
     padding: 20px 24px;
 }
@@ -53,7 +54,8 @@
     padding: 10px 16px;
     border-radius: var(--md-shape-sm);
     border: 1px solid var(--md-outline);
-    background: var(--md-surface-container-low);
+    background: var(--bg-card);
+    /* Dynamic tint */
     color: var(--md-on-surface);
     font-family: var(--md-font);
     font-size: 14px;
@@ -71,7 +73,8 @@
     display: flex;
     align-items: center;
     gap: 16px;
-    background: var(--md-surface-container-low);
+    background: var(--bg-card);
+    /* Dynamic tint */
     padding: 12px 20px;
     border-radius: var(--md-shape-md);
     box-shadow: var(--md-shadow-1);
@@ -109,7 +112,8 @@
 
 /* Progress Section */
 .exam-progress-section {
-    background: var(--bg-card);
+    background: transparent;
+    /* Use parent tint */
     border-bottom: 1px solid var(--border);
     padding: 16px 24px;
 }
@@ -183,7 +187,10 @@
 .question-container {
     max-width: 900px;
     margin: 0 auto;
-    background: var(--md-surface-container-low);
+    background: var(--glass-material);
+    /* Dynamic glass tint */
+    backdrop-filter: blur(20px);
+    border: 1px solid var(--glass-border);
     border-radius: var(--md-shape-md);
     padding: 32px;
     box-shadow: var(--md-shadow-1);
