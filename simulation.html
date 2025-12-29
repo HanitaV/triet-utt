@@ -30,66 +30,95 @@
     <main class="main-content">
         <div class="container">
             <!-- Config Screen -->
+            <!-- Apple-style Config Screen -->
             <div class="simulation-config" id="simulation-config">
-                <div class="simulation-header">
-                    <h2>🎯 Giả Lập Thi Thật</h2>
-                    <p class="subtitle">Cấu hình bài thi theo chuẩn đề thi thật</p>
+                <div class="ios-header">
+                    <h2 class="ios-title">Giả Lập Thi</h2>
+                    <p class="ios-subtitle">Cấu hình bài thi chuẩn</p>
                 </div>
 
-                <div class="config-card">
-                    <div class="config-section">
-                        <h3>📝 Số câu hỏi</h3>
-                        <div class="config-input-group">
-                            <input type="number" id="sim-total-questions" value="80" min="10" max="200">
-                            <span class="config-unit">câu</span>
+                <div class="bento-grid">
+                    <!-- MAIN CARD: Total Questions -->
+                    <div class="bento-card large hero-stat">
+                        <div class="card-icon-bg">📝</div>
+                        <div class="card-content">
+                            <h3>Số câu hỏi</h3>
+                            <div class="ios-stepper">
+                                <button class="stepper-btn"
+                                    onclick="document.getElementById('sim-total-questions').stepDown(5); document.getElementById('sim-total-questions').dispatchEvent(new Event('input'))">-</button>
+                                <input type="number" id="sim-total-questions" value="80" min="10" max="200" readonly>
+                                <button class="stepper-btn"
+                                    onclick="document.getElementById('sim-total-questions').stepUp(5); document.getElementById('sim-total-questions').dispatchEvent(new Event('input'))">+</button>
+                            </div>
+                            <span class="sub-text">Cấu trúc đề thi mặc định</span>
                         </div>
                     </div>
 
-                    <div class="config-section">
-                        <h3>📊 Phân bổ theo chương</h3>
+                    <!-- CARD: Time Limit -->
+                    <div class="bento-card medium time-card">
+                        <div class="card-icon-bg">⏱️</div>
+                        <div class="card-content">
+                            <h3>Thời gian</h3>
+                            <div class="time-selector">
+                                <input type="range" id="sim-time-limit" min="10" max="180" value="60" step="5">
+                                <span class="time-display"><span id="time-display-val">60</span> phút</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- CARD: Settings List (iOS Style) -->
+                    <div class="bento-card tall settings-card">
+                        <h3>Tùy chọn</h3>
+                        <div class="ios-list">
+                            <div class="ios-item">
+                                <span class="ios-label">Trộn câu hỏi</span>
+                                <label class="ios-switch">
+                                    <input type="checkbox" id="sim-shuffle-questions" checked>
+                                    <span class="slider"></span>
+                                </label>
+                            </div>
+                            <div class="ios-item">
+                                <span class="ios-label">Trộn đáp án</span>
+                                <label class="ios-switch">
+                                    <input type="checkbox" id="sim-shuffle-answers" checked>
+                                    <span class="slider"></span>
+                                </label>
+                            </div>
+                            <div class="ios-item">
+                                <span class="ios-label">Hiện đáp án ngay</span>
+                                <label class="ios-switch">
+                                    <input type="checkbox" id="sim-show-answer-immediately">
+                                    <span class="slider"></span>
+                                </label>
+                            </div>
+                            <div class="ios-item">
+                                <span class="ios-label">Giải thích AI</span>
+                                <label class="ios-switch">
+                                    <input type="checkbox" id="sim-show-ai-explanation" checked>
+                                    <span class="slider"></span>
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- CARD: Distribution (Full Width) -->
+                    <div class="bento-card full distribution-card">
+                        <div class="card-header">
+                            <h3>Phân bổ chương</h3>
+                            <span class="badge-soft" id="sim-total-percent">100%</span>
+                        </div>
                         <div class="chapter-distribution" id="chapter-distribution-container">
                             <!-- Rendered by JS -->
                         </div>
-                        <div class="dist-total" id="sim-total-percent">
-                            <span>Tổng: 100%</span>
-                            <span class="dist-warning hidden" id="dist-warning">⚠️ Tổng phải bằng 100%</span>
-                        </div>
+                        <p class="warning-text hidden" id="dist-warning">⚠️ Tổng tỉ lệ phải bằng 100%</p>
                     </div>
 
-                    <div class="config-section">
-                        <h3>⏱️ Thời gian làm bài</h3>
-                        <div class="config-input-group">
-                            <input type="number" id="sim-time-limit" value="60" min="5" max="180">
-                            <span class="config-unit">phút</span>
-                        </div>
+                    <!-- ACTION: Start Button -->
+                    <div class="bento-action">
+                        <button class="ios-btn-primary press-effect" id="start-simulation-btn">
+                            Bắt đầu làm bài
+                        </button>
                     </div>
-
-                    <div class="config-section">
-                        <h3>⚙️ Tùy chọn khác</h3>
-                        <div class="config-options">
-                            <label class="toggle-option">
-                                <input type="checkbox" id="sim-shuffle-questions" checked>
-                                <span>Trộn thứ tự câu hỏi</span>
-                            </label>
-                            <label class="toggle-option">
-                                <input type="checkbox" id="sim-shuffle-answers" checked>
-                                <span>Trộn đáp án</span>
-                            </label>
-                            <label class="toggle-option">
-                                <input type="checkbox" id="sim-show-answer-immediately">
-                                <span>Hiện đáp án ngay sau khi chọn</span>
-                            </label>
-                            <label class="toggle-option">
-                                <input type="checkbox" id="sim-show-ai-explanation" checked>
-                                <span>🤖 Hiển thị giải thích AI</span>
-                            </label>
-                        </div>
-                    </div>
-
-                    <button class="start-simulation-btn" id="start-simulation-btn">
-                        <span class="btn-icon">🚀</span>
-                        Bắt đầu thi
-                    </button>
                 </div>
             </div>
 
