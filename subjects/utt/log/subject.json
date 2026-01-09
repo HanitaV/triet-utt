@@ -1,0 +1,62 @@
+{
+    "id": "log",
+    "name": "Đại cương Logistics và Chuỗi cung ứng",
+    "shortName": "Logistics",
+    "icon": "📦",
+    "school": "Đại học Công nghệ GTVT",
+    "shortSchool": "UTT",
+    "examPath": "exam",
+    "chapters": [
+        {
+            "id": 1,
+            "name": "Tổng quan về Logistics",
+            "file": "chuong_1.json"
+        },
+        {
+            "id": 2,
+            "name": "Quy trình và Chi phí Logistics",
+            "file": "chuong_2.json"
+        },
+        {
+            "id": 3,
+            "name": "Tổ chức và Kiểm soát Logistics",
+            "file": "chuong_3.json"
+        },
+        {
+            "id": 4,
+            "name": "Chuỗi cung ứng",
+            "file": "chuong_4.json"
+        },
+        {
+            "id": 5,
+            "name": "Đo lường và Đánh giá",
+            "file": "chuong_5.json"
+        }
+    ],
+    "simulationConfig": {
+        "totalQuestions": 60,
+        "timeMinutes": 60,
+        "distribution": [
+            {
+                "chapter": 1,
+                "percent": 20
+            },
+            {
+                "chapter": 2,
+                "percent": 20
+            },
+            {
+                "chapter": 3,
+                "percent": 20
+            },
+            {
+                "chapter": 4,
+                "percent": 20
+            },
+            {
+                "chapter": 5,
+                "percent": 20
+            }
+        ]
+    }
+}

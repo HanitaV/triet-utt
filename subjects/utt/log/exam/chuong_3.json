@@ -1,0 +1,966 @@
+{
+    "title": "CHƯƠNG 3",
+    "total_questions": 40,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Tổ chức logistics có thể được hiểu là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sơ đồ các mối quan hệ chức năng trong doanh nghiệp"
+                },
+                {
+                    "id": "B",
+                    "content": "Một hệ thống quản lý tài chính"
+                },
+                {
+                    "id": "C",
+                    "content": "Chiến lược marketing của doanh nghiệp"
+                },
+                {
+                    "id": "D",
+                    "content": "Hệ thống kho bãi và vận chuyển hàng hóa"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 2,
+            "question": "Một trong những lợi ích của tổ chức logistics là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng số lượng nhân viên trong doanh nghiệp"
+                },
+                {
+                    "id": "B",
+                    "content": "Giải quyết mâu thuẫn giữa các phòng ban"
+                },
+                {
+                    "id": "C",
+                    "content": "Giảm nhu cầu về quản trị logistics"
+                },
+                {
+                    "id": "D",
+                    "content": "Hạn chế việc lập kế hoạch vận chuyển"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 3,
+            "question": "Trong quá trình phát triển của tổ chức logistics, giai đoạn 1(trước những năm 70) hoạt động tổ chức logistics chủ yếu tập trung vào điều gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tối ưu hóa công tác quản trị tài chính"
+                },
+                {
+                    "id": "B",
+                    "content": "Đảm bảo tính phù hợp về mặt chi phí"
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng cường marketing và bán hàng"
+                },
+                {
+                    "id": "D",
+                    "content": "Phát triển công nghệ vận tải"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 4,
+            "question": "Hình thức tổ chức không chính tắc có đặc điểm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Yêu cầu thay đổi toàn bộ cấu trúc tổ chức hiện tại"
+                },
+                {
+                    "id": "B",
+                    "content": "Không đòi hỏi thay đổi cấu trúc tổ chức nhưng yêu cầu sự phối hợp giữa các hoạt động"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ áp dụng cho doanh nghiệp có quy mô lớn"
+                },
+                {
+                    "id": "D",
+                    "content": "Không có tác động đến hoạt động logistics"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 5,
+            "question": "Hình thức tổ chức logistics bán chính tắc có đặc điểm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các kế hoạch logistics tách biệt hoàn toàn với các chức năng khác"
+                },
+                {
+                    "id": "B",
+                    "content": "Logistics luôn đan chéo với các chức năng khác trong doanh nghiệp"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ áp dụng cho doanh nghiệp nhỏ"
+                },
+                {
+                    "id": "D",
+                    "content": "Yêu cầu thay đổi toàn bộ cấu trúc tổ chức"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 6,
+            "question": "Trong cấu trúc tổ chức logistics bán chính tắc, nhà quản trị logistics có trách nhiệm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Không có vai trò trong việc phối hợp logistics"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyết định mọi hoạt động trong doanh nghiệp"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ tập trung vào một lĩnh vực riêng biệt của logistics"
+                },
+                {
+                    "id": "D",
+                    "content": "Kiểm soát toàn bộ hệ thống logistics nhưng không có quyền lực trực tiếp đối với các hoạt động thành phần"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 7,
+            "question": "Hình thức tổ chức chính tắc trong logistics có đặc điểm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Không xác định quyền lực rõ ràng trong quản trị logistics"
+                },
+                {
+                    "id": "B",
+                    "content": "Chỉ áp dụng cho doanh nghiệp vừa và nhỏ"
+                },
+                {
+                    "id": "C",
+                    "content": "Tạo ra các tuyến quyền lực và trách nhiệm rõ ràng đối với logistics"
+                },
+                {
+                    "id": "D",
+                    "content": "Không liên quan đến các bộ phận khác trong doanh nghiệp"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 8,
+            "question": "Khi áp dụng hình thức tổ chức logistics không chính tắc, ngân sách trong doanh nghiệp có thể ảnh hưởng như thế nào đến sự hợp tác giữa các bộ phận?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Luôn thúc đẩy sự hợp tác giữa các bộ phận"
+                },
+                {
+                    "id": "B",
+                    "content": "Không ảnh hưởng đến sự hợp tác trong doanh nghiệp"
+                },
+                {
+                    "id": "C",
+                    "content": "Đôi khi là cơ chế phối hợp không hiệu quả"
+                },
+                {
+                    "id": "D",
+                    "content": "Luôn làm tăng hiệu quả quản trị logistics"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 9,
+            "question": "Việc điều chỉnh chi phí cho các hoạt động logistics trong hình thức tổ chức bán chính tắc được thực hiện như thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chỉ do nhà quản trị logistics quyết định"
+                },
+                {
+                    "id": "B",
+                    "content": "Phải được điều chỉnh bởi mỗi bộ phận chức năng và chương trình logistics"
+                },
+                {
+                    "id": "C",
+                    "content": "Không cần điều chỉnh vì chi phí logistics là cố định"
+                },
+                {
+                    "id": "D",
+                    "content": "Do một nhóm độc lập bên ngoài doanh nghiệp kiểm soát"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 10,
+            "question": "Trong hình thức tổ chức chính tắc, vị trí của nhà quản trị logistics như thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bị phụ thuộc vào các bộ phận khác như tài chính và marketing"
+                },
+                {
+                    "id": "B",
+                    "content": "Ở cấp thấp hơn so với các nhà quản trị khác"
+                },
+                {
+                    "id": "C",
+                    "content": "Được bố trí vào vị trí cấp cao và có quyền lực ngang bằng với các nhà quản trị chức năng khác"
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ tập trung vào vận hành kho bãi mà không liên quan đến các lĩnh vực khác"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 11,
+            "question": "Kiểm soát trong logistics là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quá trình lập kế hoạch cho các hoạt động logistics"
+                },
+                {
+                    "id": "B",
+                    "content": "So sánh kết quả hiện hữu với kế hoạch và điều chỉnh để phù hợp hơn"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ tập trung vào việc giảm chi phí vận chuyển"
+                },
+                {
+                    "id": "D",
+                    "content": "Quản lý kho hàng mà không cần theo dõi kết quả hoạt động"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 12,
+            "question": "Trong mô hình kiểm soát logistics, quá trình có thể bao gồm những hoạt động nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chỉ bao gồm thực hiện đơn đặt hàng"
+                },
+                {
+                    "id": "B",
+                    "content": "Tái cung ứng dự trữ và các hoạt động logistics khác"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ tập trung vào vận chuyển hàng hóa"
+                },
+                {
+                    "id": "D",
+                    "content": "Có thể là họat động đơn lẻ hoặc có thể là sự kết hợp của toàn bộ các hoạt động trong chức năng logistics."
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 13,
+            "question": "Kết quả (đầu ra) của quá trình logistics có thể đo lường bằng yếu tố nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chỉ dựa vào doanh thu bán hàng"
+                },
+                {
+                    "id": "B",
+                    "content": "Chi phí trực tiếp như cước phí vận chuyển … chi phí gián tiếp như hao hụt và tổn thất do tai họa, hoặc kết quả cung ứng."
+                },
+                {
+                    "id": "C",
+                    "content": "Không cần đo lường kết quả vì logistics không cần kiểm soát"
+                },
+                {
+                    "id": "D",
+                    "content": "Số lượng nhân viên logistics trong doanh nghiệp"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 14,
+            "question": "Trong hệ thống kiểm soát logistics, ai là người thực hiện kiểm tra kết quả?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chỉ có giám đốc điều hành"
+                },
+                {
+                    "id": "B",
+                    "content": "Các nhà quản trị, cố vấn hoặc hệ thống máy tính"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhân viên kho hàng"
+                },
+                {
+                    "id": "D",
+                    "content": "Không có ai thực hiện kiểm tra"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 15,
+            "question": "Thông tin dùng để kiểm tra trong hệ thống kiểm soát logistics có thể lấy từ đâu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chỉ từ báo cáo tài chính"
+                },
+                {
+                    "id": "B",
+                    "content": "Báo cáo tồn kho, tình trạng sử dụng nguồn lực, chi phí hoạt động, mức dịch vụ khách hàng"
+                },
+                {
+                    "id": "C",
+                    "content": "Không cần thông tin vì logistics không cần kiểm soát"
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ dựa vào cảm nhận của khách hàng"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 16,
+            "question": "Quyết định nào dưới đây thuộc nhóm quyết định chiến lược?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lập kế hoạch sản xuất hàng tháng"
+                },
+                {
+                    "id": "B",
+                    "content": "Lựa chọn phương thức vận tải cho một đơn hàng cụ thể"
+                },
+                {
+                    "id": "C",
+                    "content": "Quyết định gửi hàng trong ngày"
+                },
+                {
+                    "id": "D",
+                    "content": "Xác định vị trí đặt nhà máy và nhà kho"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 17,
+            "question": "Benchmarking trong logistics là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "So sánh hiệu quả hoạt động của hệ thống logistics với thực tiễn tốt nhất"
+                },
+                {
+                    "id": "B",
+                    "content": "Xây dựng mô hình tối ưu hóa tuyến đường"
+                },
+                {
+                    "id": "C",
+                    "content": "Dự báo nhu cầu khách hàng"
+                },
+                {
+                    "id": "D",
+                    "content": "Kiểm soát chất lượng sản phẩm"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 18,
+            "question": "Công cụ nào giúp đánh giá tác động của các quyết định logistics trong những điều kiện khác nhau trước khi thực hiện đầu tư thực tế?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tối ưu hóa"
+                },
+                {
+                    "id": "B",
+                    "content": "Phương pháp mô phỏng"
+                },
+                {
+                    "id": "C",
+                    "content": "Phương pháp Delphi"
+                },
+                {
+                    "id": "D",
+                    "content": "Benchmarking"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 19,
+            "question": "Dự báo trong logistics được chia thành mấy loại chính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2"
+                },
+                {
+                    "id": "B",
+                    "content": "5"
+                },
+                {
+                    "id": "C",
+                    "content": "4"
+                },
+                {
+                    "id": "D",
+                    "content": "3"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 20,
+            "question": "Các nhà logistics thường thực hiện dự báo nhu cầu trong khoảng thời gian nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dài hạn"
+                },
+                {
+                    "id": "B",
+                    "content": "Trung hạn"
+                },
+                {
+                    "id": "C",
+                    "content": "Ngắn hạn"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả ba loại"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 21,
+            "question": "Việc thiết lập cấu trúc tổ chức logistics giúp ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng cường hiệu quả công tác quản trị"
+                },
+                {
+                    "id": "B",
+                    "content": "Tăng chi phí vận hành doanh nghiệp"
+                },
+                {
+                    "id": "C",
+                    "content": "Giảm nhu cầu lập kế hoạch logistics"
+                },
+                {
+                    "id": "D",
+                    "content": "Giảm mức dịch vụ khách hàng"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 22,
+            "question": "Trong quá trình phát triển của tổ chức logistics, giai đoạn 2 hoạt động logistics chủ yếu tập trung vào điều gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chỉ tập trung vào cung ứng vật chất hoặc phân phối vật chất, nhưng không phải cả hai cung ứng và phân phối vật chất."
+                },
+                {
+                    "id": "B",
+                    "content": "Tích hợp đầy đủ cả cung ứng và phân phối"
+                },
+                {
+                    "id": "C",
+                    "content": "Loại bỏ hoạt động logistics khỏi doanh nghiệp"
+                },
+                {
+                    "id": "D",
+                    "content": "Đẩy mạnh marketing thay vì logistics"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 23,
+            "question": "Trong quá trình phát triển của tổ chức logistics, giai đoạn 3  có sự khác biệt quan trọng nhất so với các giai đoạn trước là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cấu trúc tổ chức logistics bị loại bỏ khỏi doanh nghiệp"
+                },
+                {
+                    "id": "B",
+                    "content": "Hoạt động logistics được tích hợp hoàn toàn vào cấu trúc tổ chức"
+                },
+                {
+                    "id": "C",
+                    "content": "Các hoạt động logistics bị cắt giảm do chi phí cao"
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ tập trung vào khâu phân phối sản phẩm"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 24,
+            "question": "Một trong những lợi ích của cấu trúc tổ chức logistics chính tắc là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giảm quyền lực của nhà quản trị logistics"
+                },
+                {
+                    "id": "B",
+                    "content": "Hạn chế sự phối hợp giữa các bộ phận trong doanh nghiệp"
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng cường sự phối hợp hoạt động giữa logistics và các bộ phận chức năng khác"
+                },
+                {
+                    "id": "D",
+                    "content": "Giảm khả năng chuyên môn hóa trong quản trị logistics"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 25,
+            "question": "Hình thức tổ chức logistics chính tắc giúp đạt được điều gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trở thành một bộ phận phụ thuộc vào tài chính và marketing"
+                },
+                {
+                    "id": "B",
+                    "content": "Nâng cao vị trí của logistics ngang tầm với các lĩnh vực chức năng khác"
+                },
+                {
+                    "id": "C",
+                    "content": "Giảm tầm quan trọng của logistics trong doanh nghiệp"
+                },
+                {
+                    "id": "D",
+                    "content": "Loại bỏ hoàn toàn sự cần thiết của quản trị logistics"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 26,
+            "question": "Trong các chiến lược ảnh hưởng đến định hướng tổ chức logistics. Mục tiêu chính của chiến lược quá trình trong logistics là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tối đa hóa hiệu quả luồng lưu chuyển hàng hóa từ mua hàng đến cung ứng cho khách hàng"
+                },
+                {
+                    "id": "B",
+                    "content": "Tập trung hoàn toàn vào dịch vụ khách hàng mà không quan tâm đến chi phí"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ quản lý hoạt động vận chuyển mà không tích hợp mua hàng và tồn trữ"
+                },
+                {
+                    "id": "D",
+                    "content": "Giảm thiểu sự phối hợp giữa các bộ phận logistics"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 27,
+            "question": "Trong các chiến lược ảnh hưởng đến định hướng tổ chức logistics. Chiến lược quá trình thường phù hợp với loại hình doanh nghiệp nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Doanh nghiệp nhỏ, ít hoạt động logistics"
+                },
+                {
+                    "id": "B",
+                    "content": "Công ty sản xuất hoặc bán buôn có quy mô lớn"
+                },
+                {
+                    "id": "C",
+                    "content": "Doanh nghiệp chỉ tập trung vào dịch vụ khách hàng"
+                },
+                {
+                    "id": "D",
+                    "content": "Công ty chuyên về công nghệ thông tin"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 28,
+            "question": "Trong các chiến lược ảnh hưởng đến định hướng tổ chức logistics. Điểm đặc trưng của chiến lược thị trường là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tích hợp hoạt động bán hàng và logistics để tập trung vào dịch vụ khách hàng"
+                },
+                {
+                    "id": "B",
+                    "content": "Tập trung hoàn toàn vào tối ưu hóa chi phí logistics"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ chú trọng đến tồn kho mà không quan tâm đến khách hàng"
+                },
+                {
+                    "id": "D",
+                    "content": "Không có sự kết hợp giữa bán hàng và logistics"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 29,
+            "question": "Trong các chiến lược ảnh hưởng đến định hướng tổ chức logistics. Nhược điểm lớn nhất của chiến lược thị trường là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Không thể kết hợp dịch vụ khách hàng với logistics"
+                },
+                {
+                    "id": "B",
+                    "content": "Khó đạt được chi phí logistics ở mức thấp nhất"
+                },
+                {
+                    "id": "C",
+                    "content": "Giảm chất lượng dịch vụ khách hàng"
+                },
+                {
+                    "id": "D",
+                    "content": "Không thể áp dụng cho doanh nghiệp bán lẻ"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 30,
+            "question": "Trong các chiến lược ảnh hưởng đến định hướng tổ chức logistics. Chiến lược thông tin phù hợp với doanh nghiệp có đặc điểm nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chỉ tập trung vào sản xuất, không quan tâm đến logistics"
+                },
+                {
+                    "id": "B",
+                    "content": "Không cần quan tâm đến dữ liệu và thông tin"
+                },
+                {
+                    "id": "C",
+                    "content": "Có mạng lưới phân phối lớn với mức tồn kho cao"
+                },
+                {
+                    "id": "D",
+                    "content": "Không cần tích hợp các bộ phận và đơn vị kinh doanh"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 31,
+            "question": "Kiểm soát logistics yêu cầu phải có tiêu chuẩn nào để so sánh với kết quả hoạt động?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chỉ cần đánh giá chung chung mà không có tiêu chuẩn cụ thể"
+                },
+                {
+                    "id": "B",
+                    "content": "Chỉ cần dựa vào mức tồn kho của doanh nghiệp"
+                },
+                {
+                    "id": "C",
+                    "content": "Các tiêu chuẩn như ngân sách chi tiêu, mức dịch vụ khách hàng, lợi nhuận"
+                },
+                {
+                    "id": "D",
+                    "content": "Không có tiêu chuẩn nào để so sánh kết quả hoạt động"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 32,
+            "question": "Quyết định chiến lược trong logistics thường có đặc điểm nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Có thời gian thực hiện ngắn, chỉ kéo dài trong vài ngày hoặc vài tuần"
+                },
+                {
+                    "id": "B",
+                    "content": "Là các quyết định dài hạn, liên quan đến thiết kế hệ thống logistics và phân bổ nguồn lực"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ tập trung vào việc lựa chọn phương thức vận tải"
+                },
+                {
+                    "id": "D",
+                    "content": "Được thực hiện hàng ngày bởi các giám sát viên"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 33,
+            "question": "Điểm khác biệt chính giữa quyết định chiến thuật và chiến lược là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quyết định chiến thuật có phạm vi dài hạn hơn so với quyết định chiến lược"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyết định chiến thuật liên quan đến việc lập kế hoạch trung hạn như vận tải, phân phối"
+                },
+                {
+                    "id": "C",
+                    "content": "Quyết định chiến thuật chỉ áp dụng trong ngành dịch vụ, không dùng trong logistics"
+                },
+                {
+                    "id": "D",
+                    "content": "Quyết định chiến thuật chủ yếu do giám sát viên đưa ra hàng ngày"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 34,
+            "question": "Quyết định nào sau đây là một quyết định chiến thuật?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xây dựng kế hoạch vận tải hàng quý"
+                },
+                {
+                    "id": "B",
+                    "content": "Xác định vị trí đặt nhà máy trong hệ thống logistics"
+                },
+                {
+                    "id": "C",
+                    "content": "Quyết định mở thêm một kho hàng mới trong vòng 5 năm"
+                },
+                {
+                    "id": "D",
+                    "content": "Chọn phương thức đóng gói cho một đơn hàng cụ thể"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 35,
+            "question": "Quyết định vận hành trong logistics có đặc điểm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Được thực hiện trên cơ sở dài hạn (nhiều năm)"
+                },
+                {
+                    "id": "B",
+                    "content": "Liên quan đến hoạt động hàng ngày hoặc hàng tuần như sắp xếp và vận chuyển hàng"
+                },
+                {
+                    "id": "C",
+                    "content": "Không ảnh hưởng trực tiếp đến quy trình logistics"
+                },
+                {
+                    "id": "D",
+                    "content": "Do các nhà quản lý cấp cao đưa ra"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 36,
+            "question": "Một ví dụ về quyết định vận hành là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xác định chiến lược gom hàng trong hệ thống phân phối"
+                },
+                {
+                    "id": "B",
+                    "content": "Lựa chọn vị trí xây dựng nhà máy mới"
+                },
+                {
+                    "id": "C",
+                    "content": "Quyết định về việc gửi hàng và sắp xếp phương tiện vận chuyển trong ngày"
+                },
+                {
+                    "id": "D",
+                    "content": "Thiết kế lại toàn bộ mạng lưới logistics của công ty"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 37,
+            "question": "Một kế hoạch logistics chiến lược phù hợp cần có yếu tố nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chỉ tập trung vào việc cắt giảm chi phí"
+                },
+                {
+                    "id": "B",
+                    "content": "Không cần đánh giá các nguồn lực cần thiết"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ cần lập kế hoạch vận chuyển hàng ngày"
+                },
+                {
+                    "id": "D",
+                    "content": "Cái nhìn tổng quan về chiến lược logistics và mối liên hệ với các chức năng khác"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 38,
+            "question": "Cấu trúc tổ chức truyền thống trong logistics có đặc điểm nổi bật nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hướng đến khách hàng và linh hoạt cao"
+                },
+                {
+                    "id": "B",
+                    "content": "Tập trung vào dòng sản phẩm và quản lý chu trình"
+                },
+                {
+                    "id": "C",
+                    "content": "Mang tính chức năng và hướng nội"
+                },
+                {
+                    "id": "D",
+                    "content": "Do một người quản lý logistics phụ trách toàn bộ chuỗi"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 39,
+            "question": "Điểm khác biệt chính của quản lý theo ma trận (Matrix management) so với cấu trúc truyền thống là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Không có người chịu trách nhiệm chính"
+                },
+                {
+                    "id": "B",
+                    "content": "Tập trung vào lập kế hoạch và vận hành sản phẩm, kết hợp với các chức năng truyền thống"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ áp dụng cho doanh nghiệp sản xuất nhỏ"
+                },
+                {
+                    "id": "D",
+                    "content": "Mỗi sản phẩm được giao cho một phòng ban cố định xử lý"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 40,
+            "question": "Tại sao việc lập kế hoạch logistics lại quan trọng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giúp thực hiện chiến lược logistics bằng cách chuyển thành mục tiêu chiến thuật và hoạt động vận hành"
+                },
+                {
+                    "id": "B",
+                    "content": "Chỉ để theo dõi chi phí vận hành kho"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ áp dụng cho các công ty sản xuất lớn, không dành cho doanh nghiệp nhỏ"
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ để đối phó với các vấn đề tạm thời trong chuỗi cung ứng"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        }
+    ]
+}

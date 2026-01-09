@@ -1,0 +1,966 @@
+{
+    "title": "CHƯƠNG 1",
+    "total_questions": 40,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Khái niệm nào sau đây là khái niệm Logistics theo quan điểm của Hội đồng Các chuyên gia Quản trị Chuỗi cung ứng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Logistics là quá trình lên kế hoạch, thực hiện và kiểm soát hiệu quả, tiết kiệm chi phí của các dòng lưu chuyển và lưu trữ nguyên vật liệu, hàng tồn, thành phẩm và thông tin liên quan từ điểm khởi nguồn đến điểm tiêu thụ nhằm đáp ứng nhu cầu khách hàng."
+                },
+                {
+                    "id": "B",
+                    "content": "Logistics là quá trình lập kế hoạch, thực hiện và kiểm soát các luồng lưu chuyển và lưu kho nguyên vật liệu, sản phẩm dở dang, thành phẩm và thông tin liên quan có hiệu suất cao và hiệu quả về mặt chi phí từ điểm khởi nguồn cho đến điểm tiêu thụ nhằm mục đích thỏa mãn các yêu cầu của khách hàng."
+                },
+                {
+                    "id": "C",
+                    "content": "Logistics là quá trình cung cấp đúng sản phẩm với đúng số lượng và đúng điều kiện tới đứng địa điểm vào đúng thời gian cho đúng khách hàng với đúng giá cả."
+                },
+                {
+                    "id": "D",
+                    "content": "Logistics là quá trình lập kế hoạch, thực hiện và kiểm soát các luồng lưu chuyển và lưu kho nguyên vật liệu, sản phẩm dở dang, thành phẩm và thông tin liên quan có hiệu suất cao và hiệu quả về mặt chi phí, thời gian từ điểm khởi nguồn cho đến điểm tiêu thụ nhằm mục đích thỏa mãn các yêu cầu của khách hàng."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 2,
+            "question": "Khái niệm nào sau đây là khái niệm Logistics theo quan điểm của Hội đồng Quản trị logistics",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Logistics là quá trình lập kế hoạch, thực hiện và kiểm soát các luồng lưu chuyển và lưu kho nguyên vật liệu, sản phẩm dở dang, thành phẩm và thông tin liên quan có hiệu suất cao và hiệu quả về mặt chi phí từ điểm khởi nguồn cho đến điểm tiêu thụ nhằm mục đích thỏa mãn các yêu cầu của khách hàng.D"
+                },
+                {
+                    "id": "B",
+                    "content": "Logistics là quá trình lên kế hoạBch, thực hiện và kiểm soát hiệu quả, tiết kiệm chi phí của các dòng lưu chuyển và lưu trữ nguyên vật liệu, hàng tồn, thành phẩm và thông tin liên quan từ điểm khởi nguồn đến điểm tiêu thụ nhằm đáp ứng nhu cầu khách hàng."
+                },
+                {
+                    "id": "C",
+                    "content": "Logistics là quá trình cung cấp đúng sản phẩm với đúng số lượng và đúng điều kiện tới đứng địa điểm vào đúng thời gian cho đúng khách hàng với đúng giá cả."
+                },
+                {
+                    "id": "D",
+                    "content": "Logistics là nghệ thuật và khoa học giúp quản trị và kiểm soát dòng chảy của hàng hóa, năng lượng, thông tin và những nguồn lực khác."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 3,
+            "question": "\"Cross-docking\" trong hoạt động logistics có nghĩa là gì",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hàng hoá được nhận trực tiếp tại kho hoặc tại trung tâm phân phối, tại đây không đem vào vị trí lưu trữ mà luôn sẵn sàng vận chuyển."
+                },
+                {
+                    "id": "B",
+                    "content": "Hàng hoá được nhận trực tiếp tại kho hoặc tại trung tâm phân phối, sau đó đem vào vị trí lưu trữ trong thời gian dài."
+                },
+                {
+                    "id": "C",
+                    "content": "Hệ thống công nghệ thông tin giúp quản lý chất lượng sản phẩm tại kho."
+                },
+                {
+                    "id": "D",
+                    "content": "Hệ thống công nghệ thông tin giúp quản lý nhập xuất hàng trong kho."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 4,
+            "question": "Outbound Logistics được phát triển trong giai đoạn nào",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phân phối vật chất"
+                },
+                {
+                    "id": "B",
+                    "content": "Lập kế hoạch sản xuất"
+                },
+                {
+                    "id": "C",
+                    "content": "Quản trị chuỗi cung ứng"
+                },
+                {
+                    "id": "D",
+                    "content": "Hệ thống logistics"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 5,
+            "question": "Khái niệm nào đúng về Dịch vụ logistics theo luật thương mại Việt Nam 2005",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dịch vụ logistics là hoạt động thương mại, theo đó thương nhân tổ chức thực hiện một hoặc nhiều công việc bao gồm: nhận hàng, vận chuyển, lưu kho, lưu bãi, làm thủ tục hải quan, các thủ tục giấy tờ khác, tư vấn khách hàng, đóng gói bao bì, ghi ký mã hiệu, giao hàng hoặc các dịch vụ khác có liên quan đến hàng hóa theo thỏa thuận với khách hàng để hưởng thù lao. Dịch vụ logistics được phiên âm theo tiếng Việt là dịch vụ lo-gi-stíc."
+                },
+                {
+                    "id": "B",
+                    "content": "Dịch vụ logistics là hoạt động thương mại nội địa và quốc tế, theo đó thương nhân tổ chức thực hiện một hoặc nhiều công việc bao gồm: nhận hàng, vận chuyển, lưu kho, lưu bãi, làm thủ tục hải quan, các thủ tục giấy tờ khác, tư vấn khách hàng, đóng gói bao bì, ghi ký mã hiệu, giao hàng hoặc các dịch vụ khác có liên quan đến hàng hóa theo thỏa thuận với khách hàng để hưởng thù lao. Dịch vụ logistics được phiên âm theo tiếng Việt là dịch vụ lo-gi-stíc."
+                },
+                {
+                    "id": "C",
+                    "content": "Dịch vụ logistics là sản phẩm vô hình, bao gồm các hoạt động chức năng logistics mà nhà cung cấp dịch vụ logistics thực hiện cho khách hàng để thu lợi nhuận."
+                },
+                {
+                    "id": "D",
+                    "content": "Dịch vụ logistics là hoạt động thương mại, theo đó thương nhân tổ chức thực hiện một hoặc nhiều công việc bao gồm: nhận hàng, vận chuyển, lưu kho, lưu bãi, làm hàng, làm thủ tục hải quan, các thủ tục giấy tờ giao nhận hàng khác, tư vấn khách hàng, đóng gói bao bì, ghi ký mã hiệu, giao hàng hoặc các dịch vụ khác có liên quan đến hàng hóa theo thỏa thuận với khách hàng để hưởng thù lao. Dịch vụ logistics được phiên âm theo tiếng Việt là dịch vụ lo-gi-stíc."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 6,
+            "question": "Theo tổ chức thương mại thế giới WTO, dịch vụ logistics chủ yếu trong hoạt động logistics không bao gồm hoạt động nào",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dịch vụ đóng gói, dịch vụ tư vân quản lý"
+                },
+                {
+                    "id": "B",
+                    "content": "Dịch vụ đại lý vận tải, thủ tục hải quan."
+                },
+                {
+                    "id": "C",
+                    "content": "Dich vụ kho bãi, lưu trữ hàng hóa."
+                },
+                {
+                    "id": "D",
+                    "content": "Dịch vụ bốc xếp hàng hóa, bao gồm cả bốc xếp contanier"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 7,
+            "question": "Theo Nghị định số 140/2007/NĐ-CP, dịch vụ logistics chủ yếu trong hoạt động logistics không bao gồm hoạt động nào",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dịch vụ liên quan đến vận tải"
+                },
+                {
+                    "id": "B",
+                    "content": "Dịch vụ bốc xếp hàng hóa, bao gồm cả bốc xếp contanier"
+                },
+                {
+                    "id": "C",
+                    "content": "Dịch vụ kho bãi và lưu trữ hàng hóa, bao gồm cả hoạt động kinh doanh kho bãi container và kho xử lý nguyên liệu, thiết bị."
+                },
+                {
+                    "id": "D",
+                    "content": "Dịch vụ đại lý vận tải, bao gồm cả hoạt động đại lý, làm thủ tục hải quan và lập kế hoạch bốc dỡ hàng hóa."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 8,
+            "question": "Khái niệm \"logistics bên thứ 3\" (3PL) có nghĩa là gì",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Logistics bên thứ 3 (3PL): là người thay mặt cho chủ hàng quản lý và thực hiện các dịch vụ logistics cho từng bộ phận chức năng như: làm thủ tục xuất nhập khẩu và vận chuyển nội địa…"
+                },
+                {
+                    "id": "B",
+                    "content": "Logistics bên thứ 3 (3PL): người cung cấp dịch vụ logistics bên thứ 3 là người cung cấp dịch vụ cho một hoạt động đơn lẻ trong chuỗi các hoạt động logistics (vận tải, kho bãi, thủ tục hải quan, thanh toán…)"
+                },
+                {
+                    "id": "C",
+                    "content": "Logistics bên thứ 3 (3PL): là người tích hợp gắn kết các nguồn lực, tiềm năng, cơ sở vật chất khoa học kỹ thuật của mình với các tổ chức khác để thiết kế, xây dựng và vận hành các giải pháp chuỗi logistics."
+                },
+                {
+                    "id": "D",
+                    "content": "Logistics bên thứ 3 (3PL): người chủ sở hữu hàng hóa tự mình tổ chức và thực hiện các hoạt động logistics để đáp ứng nhu cầu của bản thân."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 9,
+            "question": "Nhận gửi hàng theo nguyên tắc JIT “Just in Time” trong logistics nghĩa là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giảm thiểu hàng tồn kho bằng cách giao hàng đúng thời điểm cần thiết."
+                },
+                {
+                    "id": "B",
+                    "content": "Tăng cường sản xuất dự trữ để đối phó với biến động."
+                },
+                {
+                    "id": "C",
+                    "content": "Sản xuất hàng hóa theo yêu cầu ngay khi cần thiết."
+                },
+                {
+                    "id": "D",
+                    "content": "Lưu kho hàng hóa lâu dài để giảm chi phí."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 10,
+            "question": "Khái niệm đúng về hoạt động thuê ngoài logistics",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thuê ngoài hoạt động logistics là sử dụng nhà cung cấp bên thứ ba cho toàn bộ hoặc một phần quy trình logistics của doanh nghiệp."
+                },
+                {
+                    "id": "B",
+                    "content": "Thuê ngoài hoạt động logistics là sử dụng nhà cung cấp bên thứ hai cho toàn bộ hoặc một phần quy trình logistics của doanh nghiệp."
+                },
+                {
+                    "id": "C",
+                    "content": "Thuê ngoài hoạt động logistics là sử dụng nhà cung cấp bên thứ tư cho toàn bộ hoặc một phần quy trình logistics của doanh nghiệp."
+                },
+                {
+                    "id": "D",
+                    "content": "Thuê ngoài hoạt động logistics là sử dụng nhà cung cấp bên thứ năm cho toàn bộ hoặc một phần quy trình logistics của doanh nghiệp."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 11,
+            "question": "Hoạt động logistics ngược theo mô hình Open-loop là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mô hình mở: Nhà sản xuất có thể quyết định thuê ngoài hoạt động thu hồi từ một nhà cung cấp dịch vụ bên thứ 3 (3PL) chuyên về một nhóm sản phẩm cụ thể. Nhà cung cấp này sẽ đảm nhận chức năng logistics ngược bao gồm bảo dưỡng, sửa chữa và thu hồi sản phẩm trên danh nghĩa nhà sản xuất."
+                },
+                {
+                    "id": "B",
+                    "content": "Mô hình mở: quy trình trong đó nguyên vật liệu và sản phẩm đã qua sử dụng được nhà sản xuất thu hồi và tái chế, đồng thời cũng chính nhà sản xuất chịu trách nhiệm về các hoạt động logistics tại đầu chuỗi cung ứng."
+                },
+                {
+                    "id": "C",
+                    "content": "Mô hình mở: Nhà sản xuất hoặc bên phân phối có thể quyết định thuê ngoài hoạt động thu hồi từ một nhà cung cấp dịch vụ bên thứ 3 (3PL) chuyên về một nhóm sản phẩm cụ thể. Nhà cung cấp này sẽ đảm nhận chức năng logistics ngược bao gồm bảo dưỡng, sửa chữa và thu hồi sản phẩm trên danh nghĩa nhà sản xuất."
+                },
+                {
+                    "id": "D",
+                    "content": "Mô hình mở: Chức năng logistics ngược hoàn toàn nằm ngoài chuỗi cung ứng của nhà sản xuất thiết bị ban đầu. Những người vận hành độc lập này hầu hết là những nhà buôn chất thải và đồng nát truyền thống hoặc doanh nghiệp dịch vụ."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 12,
+            "question": "Trong hoạt động logistics kinh doanh, hoạt động làm hàng là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Một chuỗi các hoạt động trung gian giữa vận tải và lưu kho từ khi hàng hóa được gửi đến cho đến khi hàng hóa được xuất kho."
+                },
+                {
+                    "id": "B",
+                    "content": "Hoạt động cung cấp nguyên vật liệu đầu vào."
+                },
+                {
+                    "id": "C",
+                    "content": "Hoạt động cung cấp nguyên vật liệu đầu vào và sản xuất hàng hóa."
+                },
+                {
+                    "id": "D",
+                    "content": "Hoạt động kiểm tra chất lượng hàng hóa trước khi bao gói, dán nhãn tại doanh nghiệp sản xuất hàng hóa."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 13,
+            "question": "Trong hoạt động logistics ngược, sản phẩm thu hồi do hết vòng đời sử dụng (EOU – End Of Use) là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các sản phẩm không thể sử dụng lại nhưng có thể thu hồi lại."
+                },
+                {
+                    "id": "B",
+                    "content": "Các sản phẩm ở cuối vòng đời vật chất hoặc vòng đời kinh tế."
+                },
+                {
+                    "id": "C",
+                    "content": "Các sản phẩm thu hồi do có vấn đề phát sinh về an toàn và ảnh hưởng sức khỏe của người tiêu dùng."
+                },
+                {
+                    "id": "D",
+                    "content": "Các sản phẩm mà khách hàng muốn trả lại hàng do thay đổi nhu cầu sử dụng sản phẩm."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 14,
+            "question": "Logistics quân sự tập trung vào hoạt động nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cung cấp lương thực, thực phẩm, quân trang, quân dụng"
+                },
+                {
+                    "id": "B",
+                    "content": "Tổ chức và vận động hàng hóa trong y tế"
+                },
+                {
+                    "id": "C",
+                    "content": "Phân phối sản phẩm thân thiện môi trường"
+                },
+                {
+                    "id": "D",
+                    "content": "Vận chuyển nguyên liệu sản xuất công nghiệp"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 15,
+            "question": "Logistics y tế tập trung vào hoạt động nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tổ chức và quản lý dòng hàng hóa, thông tin và dịch vụ ngành y tế"
+                },
+                {
+                    "id": "B",
+                    "content": "Buôn bán, phân phối hàng hóa, dịch vụ ngàng y tế"
+                },
+                {
+                    "id": "C",
+                    "content": "Phân phối sản phẩm thân thiện môi trường"
+                },
+                {
+                    "id": "D",
+                    "content": "Vận chuyển nguyên liệu sản xuất công nghiệp"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 16,
+            "question": "Nhận định nào sau đây chưa đúng về cảng cạn ICD (Inland Container Depot)",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cảng nước cạn thuộc cảng cạn ICD."
+                },
+                {
+                    "id": "B",
+                    "content": "Là nơi tập kết, tổ chức hoạt động vận tải hàng hóa bằng container gắn liền với hoạt động của các cảng hàng không, cảng biển, đường sắt, cửa khẩu quốc tế, các cảng biển."
+                },
+                {
+                    "id": "C",
+                    "content": "Sử dụng các ICD giúp làm giảm chi phí vận chuyển cũng như thời gian lưu kho hàng hóa tại các cảng."
+                },
+                {
+                    "id": "D",
+                    "content": "Là bộ phận thuộc kết cấu hạ tầng giao thông vận tải."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 17,
+            "question": "Nhận định nào không đúng về đặc điểm của logistics.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Logistics là quá trình lập kế hoạch, thực hiện và kiểm soát các luồng lưu chuyển và lưu kho."
+                },
+                {
+                    "id": "B",
+                    "content": "Logistics là khoa học và là nghệ thuật về tổ chức và quản lý nhằm sử dụng các nguồn lực một cách tối ưu."
+                },
+                {
+                    "id": "C",
+                    "content": "Logistics tổn tại ở cả hai cấp độ: hoạch định và tổ chức."
+                },
+                {
+                    "id": "D",
+                    "content": "Logistics là một quá trình tức là một chuỗi các hoạt động liên tục, có quan hệ mật thiết và tương tác với nhau chứ không phải các hoạt động riêng lẻ."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 18,
+            "question": "Sắp xếp thứ tự đúng cho các công việc sau để hoàn thiện quy trình hoạt động thuê ngoài logistics\n1-Xác định nhu cầu thuê ngoài\n2-Xác định nhà cung cấp\n3-Chuẩn bị và yêu cầu báo giá\n4-Rút ngắn danh sách nhà cung cấp\n5-Thực hiện hợp đồng\n6-Đánh giá và so sánh các nhà cung cấp\n7-Lựa chọn nhà cung cấp\n8-Quản lý mối quan hệ với nhà cung cấp\n9-Soạn thảo và ký kết hợp đồng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1-2-4-3-6-7-9-5-8"
+                },
+                {
+                    "id": "B",
+                    "content": "1-2-3-4-6-7-9-5-8"
+                },
+                {
+                    "id": "C",
+                    "content": "1-2-3-4-7-6-9-5-8"
+                },
+                {
+                    "id": "D",
+                    "content": "1-2-3-4-7-6-9-8-5"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 19,
+            "question": "Theo sơ đồ quy trình logistics ngược, thứ tự đúng để thực hiện quy trình này là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thu hồi→ Kiểm tra, chọn lựa và phân loại → Tái chế hoặc khôi phục → Tái phân phối."
+                },
+                {
+                    "id": "B",
+                    "content": "Thu hồi→ Tái chế hoặc khôi phục →  Kiểm tra, chọn lựa và phân loại → Tái phân phối."
+                },
+                {
+                    "id": "C",
+                    "content": "Thu hồi→ Tái chế hoặc khôi phục → Tái phân phối →  Kiểm tra, chọn lựa và phân loại."
+                },
+                {
+                    "id": "D",
+                    "content": "Kiểm tra, chọn lựa và phân loại → Thu hồi→ Tái chế hoặc khôi phục → Tái phân phối."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 20,
+            "question": "Nhận định nào sau đây không đúng về trung tâm logistics",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kho hàng được coi là trung tâm logistics."
+                },
+                {
+                    "id": "B",
+                    "content": "Một khu vực bao gồm mọi hoạt động liên quan đến vận tải, logistics và phân phối hàng hóa nội địa cũng như quốc tế"
+                },
+                {
+                    "id": "C",
+                    "content": "Được thực hiện bởi nhiều nhà khai thác khác nhau, các nhà khai thác này có thể là người chủ sở hữu hoặc người thuê sử dụng các cơ sở vật chất và trang thiết bị của trung tâm dịch vụ logistics."
+                },
+                {
+                    "id": "D",
+                    "content": "Trung tâm dịch vụ logistics bao gồm kho bãi, trung tâm phân phối, khu vực lưu trữ hàng, văn phòng hay khu dịch vụ vận tải,…"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 21,
+            "question": "Hoạt động nào không phải là hoạt động của Logistics kinh doanh",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quảng cáo."
+                },
+                {
+                    "id": "B",
+                    "content": "Làm hàng."
+                },
+                {
+                    "id": "C",
+                    "content": "Kho hàng."
+                },
+                {
+                    "id": "D",
+                    "content": "Vận tải."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 22,
+            "question": "Hoạt động logistics kinh doanh nào có chi phí lớn nhất trong tổng chi phí logistics",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vận tải."
+                },
+                {
+                    "id": "B",
+                    "content": "Làm hàng."
+                },
+                {
+                    "id": "C",
+                    "content": "Kho hàng."
+                },
+                {
+                    "id": "D",
+                    "content": "Marketing."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 23,
+            "question": "Trong hoạt động vận tải của logistics kinh doanh, yêu cầu của khách hàng về dịch vụ vận tải là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "An toàn, đúng thời gian, giá cả hợp lý."
+                },
+                {
+                    "id": "B",
+                    "content": "Bao gói hàng hóa."
+                },
+                {
+                    "id": "C",
+                    "content": "Phân loại hàng theo yêu cầu của khách hàng."
+                },
+                {
+                    "id": "D",
+                    "content": "Phân tách lô hàng lớn thành những lô hàng lẻ."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 24,
+            "question": "Hoạt động nào sau đây không được coi là hoạt động làm hàng trong logistics",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sản xuất hàng."
+                },
+                {
+                    "id": "B",
+                    "content": "Xếp dỡ hàng lên và ra khỏi phương tiện."
+                },
+                {
+                    "id": "C",
+                    "content": "Kiểm tra chất lượng hàng sau khi nhập kho và trước khi xuất kho."
+                },
+                {
+                    "id": "D",
+                    "content": "Phân loại hàng sau khi nhập kho và trước khi xuất kho."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 25,
+            "question": "Hoạt động nào sau đây không phải là hoạt động của kho hàng trong logistics",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sản xuất hàng hóa."
+                },
+                {
+                    "id": "B",
+                    "content": "Bảo quản hàng hóa."
+                },
+                {
+                    "id": "C",
+                    "content": "Lưu trữ hàng hóa."
+                },
+                {
+                    "id": "D",
+                    "content": "Nhận, gửi hàng theo yêu cầu của khách hàng."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 26,
+            "question": "Nhận định nào không đúng khi nói về vai trò của dịch vụ logistics",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tạo nguồn thu cho các doanh nghiệp sản xuất."
+                },
+                {
+                    "id": "B",
+                    "content": "Nâng cao hiệu quả quản lý, Giảm thiểu chi phí sản xuất, tăng cường khả năng cạnh tranh cho doanh nghiệp, góp phần nâng cao hiệu quả hoạt động sản xuất kinh doanh của doanh nghiệp."
+                },
+                {
+                    "id": "C",
+                    "content": "Giảm chi phí, hoàn thiện và tiêu chuẩn hóa chứng từ trong kinh doanh đặc biệt trong buôn bán và vận tải quốc tế."
+                },
+                {
+                    "id": "D",
+                    "content": "Góp phần mở rộng thị trường thương mại quốc tế."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 27,
+            "question": "Phân loại dịch vụ logistics theo hình thức tổ chức bao gồm",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1PL, 2PL, 3PL, 4PL, 5PL."
+                },
+                {
+                    "id": "B",
+                    "content": "Logistics xanh, logistics quân sự, Logistics dịch vụ, logistics sự kiện, logistics y tế."
+                },
+                {
+                    "id": "C",
+                    "content": "Logistics đầu vào, logistics đầu ra, logistics ngược."
+                },
+                {
+                    "id": "D",
+                    "content": "Logistics nội địa và quốc tế."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 28,
+            "question": "Hoạt động nào không phải là hoạt động của dịch vụ logistics được phân loại theo quá trình thực hiện hoạt động logistics",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Logistics xanh: hướng đến sử dụng các phương tiện vận tải thân thiện với môi trường, góp phần giảm thiểu khí thải CO2 và các khí độc hại, từ đó hạn chế hiệu ứng nhà kính và biến đổi khí hậu."
+                },
+                {
+                    "id": "B",
+                    "content": "Logistics đầu vào (inbound logistics): các hoạt động đảm bảo cung ứng tài nguyên đầu vào (nguyên liệu, vốn, thông tin…) một cách tối ưu về vị trí, thời gian và chi phí."
+                },
+                {
+                    "id": "C",
+                    "content": "Logistics đầu ra (Outbound logistics): các hoạt động đảm bảo cung cấp thành phẩm đến tay người tiêu dung một cách tối ưu về vị trí, thời gian, chi phí, đem lại lợi nhuận tối đa cho doanh nghiệp."
+                },
+                {
+                    "id": "D",
+                    "content": "Logistics ngược (reverse logistics): là quá trình thu hồi các phụ phẩm, phế liệu, phế phẩm, các yếu tố ảnh hưởng đến môi trường phát sinh từ quá trình sản xuất, phân phối và tiêu dung trở về để tái chế hoặc xử lý."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 29,
+            "question": "Đặc điểm nào không phải của logistics xanh",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chi phí logistics tăng."
+                },
+                {
+                    "id": "B",
+                    "content": "Giảm thiểu khí thải CO2."
+                },
+                {
+                    "id": "C",
+                    "content": "Sử dụng phương tiện vận tải thân thiện với môi trường."
+                },
+                {
+                    "id": "D",
+                    "content": "Hạn chế tác động tiêu cực đến môi trường."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 30,
+            "question": "Theo quá trình hoạt động logistics thì \"Logistics đầu vào\" đề cập đến hoạt động nào",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cung ứng tài nguyên đầu vào."
+                },
+                {
+                    "id": "B",
+                    "content": "Cung cấp thành phẩm đến tay người tiêu dùng."
+                },
+                {
+                    "id": "C",
+                    "content": "Quản lý hàng nhập vào kho."
+                },
+                {
+                    "id": "D",
+                    "content": "Thu hồi sản phẩm trong logistics ngược."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 31,
+            "question": "Vai trò của hệ thống thông tin trong hoạt động logistics là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kết nối các hoạt động trong chuỗi logistics."
+                },
+                {
+                    "id": "B",
+                    "content": "Tăng lượng hàng tồn kho."
+                },
+                {
+                    "id": "C",
+                    "content": "Giúp giảm giá thành sản phẩm."
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ cần thiết cho kế hoạch marketing."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 32,
+            "question": "Hệ thống thông tin có vai trò quan trọng trong hoạt động logistics vì",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hệ thống thông tin kết nối các hoạt động trong chuỗi logistics."
+                },
+                {
+                    "id": "B",
+                    "content": "Hệ thống thông tin cần thiết cho việc lập kế hoạch sản xuất."
+                },
+                {
+                    "id": "C",
+                    "content": "Hệ thống thông tin ảnh hưởng đến chi phí logistics."
+                },
+                {
+                    "id": "D",
+                    "content": "Hệ thống thông tin liên quan đến quy trình vận chuyển."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 33,
+            "question": "Nhận định nào sau đây không đúng về lợi ích của hoạt động thuê ngoài logistics",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng chi phí logistics của doanh nghiệp."
+                },
+                {
+                    "id": "B",
+                    "content": "Nâng cao hiệu quả hoạt động logistics."
+                },
+                {
+                    "id": "C",
+                    "content": "Giảm rủi ro hoạt động và rủi ro chiến lược cho doanh nghiệp."
+                },
+                {
+                    "id": "D",
+                    "content": "Tập trung vào hoạt động kinh doanh cốt lõi và năng lực cạnh tranh chủ chốt."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 34,
+            "question": "Lợi ích của thuê ngoài hoạt động logistics là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giảm chi phí logistics tổng thể."
+                },
+                {
+                    "id": "B",
+                    "content": "Tăng vốn đầu tư."
+                },
+                {
+                    "id": "C",
+                    "content": "Giảm khả năng kiểm soát quy trình."
+                },
+                {
+                    "id": "D",
+                    "content": "Tăng độ phức tạp trong quản lý."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 35,
+            "question": "Hoạt động nào không thuộc về quy trình logistics ngược?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sử dụng phương tiện vận tải thân thiện với môi trường."
+                },
+                {
+                    "id": "B",
+                    "content": "Tái chế hoặc khôi phục sản phẩm."
+                },
+                {
+                    "id": "C",
+                    "content": "Thu hồi sản phẩm đã qua sử dụng."
+                },
+                {
+                    "id": "D",
+                    "content": "Kiểm tra chất lượng sản phẩm thu hồi."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 36,
+            "question": "Trong hoạt động logistics ngược, đâu không phải là sản phẩm thu hồi từ hoạt động phân phối",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sản phẩm thừa, nguyên vật liệu thừa trong quá trình sản xuất."
+                },
+                {
+                    "id": "B",
+                    "content": "Sản phẩm bị hư hại trong quá trình giao hàng hoặc sản phẩm không bán được."
+                },
+                {
+                    "id": "C",
+                    "content": "Sản phẩm thu hồi để sử dụng hoặc nguyên liệu đã dùng: ví dụ như pallet để vận chuyển sản phẩm trong quá trình phân phối."
+                },
+                {
+                    "id": "D",
+                    "content": "Sản phẩm điều chỉnh tại cửa hàng, bao gồm cả sản phẩm quá date."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 37,
+            "question": "Trong hoạt động logistics ngược, đâu là sản phẩm thu hồi trong quá trình tiêu dùng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sản phẩm thu hồi để bảo hành."
+                },
+                {
+                    "id": "B",
+                    "content": "Sản phẩm bị hư hại trong quá trình giao hàng hoặc sản phẩm không bán được."
+                },
+                {
+                    "id": "C",
+                    "content": "Sản phẩm điều chỉnh tại cửa hàng, bao gồm cả sản phẩm quá date."
+                },
+                {
+                    "id": "D",
+                    "content": "Sản phẩm thu hồi để sử dụng hoặc nguyên liệu đã dùng: ví dụ như pallet để vận chuyển sản phẩm trong quá trình phân phối."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 38,
+            "question": "Trong hoạt động logistics ngược, tác nhân nào không tham gia vào hoạt động này",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà cung cấp nguyên vật liệu đầu vào"
+                },
+                {
+                    "id": "B",
+                    "content": "Các cơ quan chính phủ."
+                },
+                {
+                    "id": "C",
+                    "content": "Các doanh nghiệp đầu chuỗi cung ứng."
+                },
+                {
+                    "id": "D",
+                    "content": "Các doanh nghiệp tái chế, nhà buôn phế thải, đồng nát."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 39,
+            "question": "Nhận định nào chưa đúng về lợi ích của việc thành lập trung tâm logistics",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng doanh thu cho nhà sản xuất."
+                },
+                {
+                    "id": "B",
+                    "content": "Giảm lưu lượng xây dựng."
+                },
+                {
+                    "id": "C",
+                    "content": "Giảm tác động của môi trường, bao gồm: giảm tắc nghẽn, ô nhiễm tiếng ồn, phát thải cacbon và chất thải khác."
+                },
+                {
+                    "id": "D",
+                    "content": "Tăng hiệu quả về năng suất và giảm tình trạng thiếu hụt nguyên vật liệu."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 40,
+            "question": "Trong các hoạt động của trung tâm logistics, đâu không phải là hoạt động tạo giá trị gia tăng logistics (VAL – Value Added Logistics)",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hoạt động tạo giá trị gia tăng cho vận tải hàng hóa."
+                },
+                {
+                    "id": "B",
+                    "content": "Hoạt động tạo giá trị gia tăng của hệ thông quản lý."
+                },
+                {
+                    "id": "C",
+                    "content": "Hoạt động Low-end VAL"
+                },
+                {
+                    "id": "D",
+                    "content": "Hoạt động high-end VAL"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        }
+    ]
+}

@@ -1,0 +1,966 @@
+{
+    "title": "CHƯƠNG 5",
+    "total_questions": 40,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Mức độ hài lòng của khách hàng là một trong các chỉ số thuộc về:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hệ thống đo lường tài chính doanh nghiệp"
+                },
+                {
+                    "id": "B",
+                    "content": "Hệ thống đo lường dịch vụ khách hàng"
+                },
+                {
+                    "id": "C",
+                    "content": "Hệ thống đánh giá nhân sự"
+                },
+                {
+                    "id": "D",
+                    "content": "Hệ thống phân tích thị phần"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 2,
+            "question": "Tại sao hệ thống đo lường dịch vụ khách hàng lại quan trọng với doanh nghiệp?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vì giúp doanh nghiệp tuyển dụng nhân sự hiệu quả hơn"
+                },
+                {
+                    "id": "B",
+                    "content": "Vì phản ánh tốc độ đổi mới công nghệ"
+                },
+                {
+                    "id": "C",
+                    "content": "Vì ảnh hưởng đến trải nghiệm và lòng trung thành của khách hàng"
+                },
+                {
+                    "id": "D",
+                    "content": "Vì đảm bảo việc tính thuế được chính xác"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 3,
+            "question": "Hệ thống đo lường hiệu suất hoạt động nội bộ bao gồm chỉ số nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mức độ hài lòng của khách hàng"
+                },
+                {
+                    "id": "B",
+                    "content": "Hiệu quả sản xuất"
+                },
+                {
+                    "id": "C",
+                    "content": "Tỷ lệ chuyển đổi trong marketing"
+                },
+                {
+                    "id": "D",
+                    "content": "Thị phần của doanh nghiệp"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 4,
+            "question": "Chỉ số nào dưới đây không thuộc hệ thống đo lường hiệu suất hoạt động nội bộ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chu kỳ sản xuất"
+                },
+                {
+                    "id": "B",
+                    "content": "Mức tồn kho"
+                },
+                {
+                    "id": "C",
+                    "content": "Chi phí vận hành"
+                },
+                {
+                    "id": "D",
+                    "content": "Doanh thu bán hàng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 5,
+            "question": "Chu kỳ sản xuất là một chỉ số thuộc nhóm nào dưới đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đo lường mức độ trung thành khách hàng"
+                },
+                {
+                    "id": "B",
+                    "content": "Hiệu suất hoạt động nội bộ"
+                },
+                {
+                    "id": "C",
+                    "content": "Đánh giá hiệu quả quảng cáo"
+                },
+                {
+                    "id": "D",
+                    "content": "Quản trị tài chính"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 6,
+            "question": "Tại sao doanh nghiệp cần theo dõi các chỉ số như chi phí vận hành và mức tồn kho?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Để kiểm soát ngân sách marketing"
+                },
+                {
+                    "id": "B",
+                    "content": "Để phát triển sản phẩm mới"
+                },
+                {
+                    "id": "C",
+                    "content": "Để đánh giá và cải thiện hiệu suất quy trình nội bộ"
+                },
+                {
+                    "id": "D",
+                    "content": "Để tăng mức lương nhân viên"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 7,
+            "question": "Phương pháp nào dưới đây không phải là cách đo lường khả năng phản ứng linh hoạt?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Điều chỉnh kế hoạch sản xuất"
+                },
+                {
+                    "id": "B",
+                    "content": "Tăng tốc phát triển sản phẩm mới"
+                },
+                {
+                    "id": "C",
+                    "content": "Thay đổi phương thức phân phối"
+                },
+                {
+                    "id": "D",
+                    "content": "Tăng chi phí quảng cáo"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 8,
+            "question": "Khi có sự kiện bất ngờ tác động đến nhu cầu thị trường, hệ thống đo lường khả năng phản ứng linh hoạt trước biến động của nhu cầu giúp doanh nghiệp làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Định giá sản phẩm mới"
+                },
+                {
+                    "id": "B",
+                    "content": "Đo lường phản ứng thị trường để ra quyết định phù hợp"
+                },
+                {
+                    "id": "C",
+                    "content": "Giảm chi phí vận chuyển"
+                },
+                {
+                    "id": "D",
+                    "content": "Tăng số lượng nhân viên trong kho"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 9,
+            "question": "Trong các cách sau, cách nào thể hiện sự linh hoạt của chuỗi cung ứng trước biến động nhu cầu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giảm chi phí nguyên vật liệu"
+                },
+                {
+                    "id": "B",
+                    "content": "Thay đổi kế hoạch sản xuất kịp thời"
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng số lượng đại lý bán hàng"
+                },
+                {
+                    "id": "D",
+                    "content": "Tổ chức đào tạo nhân viên mới"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 10,
+            "question": "Chỉ số nào dưới đây không thuộc hệ thống đo lường khả năng phát triển sản phẩm?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chi phí phát triển sản phẩm"
+                },
+                {
+                    "id": "B",
+                    "content": "Tỷ lệ thành công của sản phẩm mới"
+                },
+                {
+                    "id": "C",
+                    "content": "Thời gian giao hàng cho khách hàng"
+                },
+                {
+                    "id": "D",
+                    "content": "Tốc độ ra mắt sản phẩm mới"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 11,
+            "question": "Mục đích chính của hệ thống đo lường khả năng phát triển sản phẩm là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đánh giá năng lực đổi mới và phát triển bền vững của doanh nghiệp"
+                },
+                {
+                    "id": "B",
+                    "content": "Tăng số lượng sản phẩm tồn kho"
+                },
+                {
+                    "id": "C",
+                    "content": "Giảm chi phí marketing"
+                },
+                {
+                    "id": "D",
+                    "content": "Đánh giá hiệu quả vận hành kho bãi"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 12,
+            "question": "Mức độ thành công của sản phẩm mới giúp doanh nghiệp đánh giá điều gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khả năng tối ưu hóa chi phí sản xuất"
+                },
+                {
+                    "id": "B",
+                    "content": "Năng lực đổi mới và phát triển bền vững"
+                },
+                {
+                    "id": "C",
+                    "content": "Tỷ lệ nhân viên nghỉ việc"
+                },
+                {
+                    "id": "D",
+                    "content": "Số lượng khách hàng trung thành"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 13,
+            "question": "Chi phí phát triển sản phẩm là một chỉ số quan trọng để đo lường:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hiệu quả vận chuyển hàng hóa"
+                },
+                {
+                    "id": "B",
+                    "content": "Khả năng đổi mới của doanh nghiệp"
+                },
+                {
+                    "id": "C",
+                    "content": "Tốc độ xử lý đơn hàng"
+                },
+                {
+                    "id": "D",
+                    "content": "Mức độ hài lòng của khách hàng"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 14,
+            "question": "Ba cấp độ chi tiết của hệ thống dữ liệu trong doanh nghiệp bao gồm những loại dữ liệu nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dữ liệu tài chính, dữ liệu nhân sự, dữ liệu khách hàng"
+                },
+                {
+                    "id": "B",
+                    "content": "Dữ liệu vận hành, dữ liệu chiến lược, dữ liệu phân tích"
+                },
+                {
+                    "id": "C",
+                    "content": "Dữ liệu sản xuất, dữ liệu marketing, dữ liệu kế toán"
+                },
+                {
+                    "id": "D",
+                    "content": "Dữ liệu kho, dữ liệu bán hàng, dữ liệu bảo trì"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 15,
+            "question": "Mỗi cấp độ dữ liệu trong doanh nghiệp được thiết kế nhằm phục vụ cho:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các mục tiêu quản trị khác nhau"
+                },
+                {
+                    "id": "B",
+                    "content": "Một mục tiêu duy nhất là tăng doanh thu"
+                },
+                {
+                    "id": "C",
+                    "content": "Việc đào tạo nhân viên mới"
+                },
+                {
+                    "id": "D",
+                    "content": "Tăng cường truyền thông nội bộ"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 16,
+            "question": "Kho dữ liệu (data warehouse) có chức năng chính là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lưu trữ thông tin khách hàng để phục vụ marketing"
+                },
+                {
+                    "id": "B",
+                    "content": "Tập hợp dữ liệu từ nhiều nguồn để phục vụ phân tích và ra quyết định"
+                },
+                {
+                    "id": "C",
+                    "content": "Quản lý nhân sự và tiền lương trong doanh nghiệp"
+                },
+                {
+                    "id": "D",
+                    "content": "Theo dõi các giao dịch tài chính hàng ngày"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 17,
+            "question": "Kho dữ liệu giúp doanh nghiệp tăng cường khả năng chính là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quản lý đội ngũ nhân viên"
+                },
+                {
+                    "id": "B",
+                    "content": "Tổng hợp và truy xuất dữ liệu nhanh chóng, hiệu quả"
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng doanh số bán hàng trực tiếp"
+                },
+                {
+                    "id": "D",
+                    "content": "Giảm chi phí sản xuất"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 18,
+            "question": "Kho dữ liệu được tạo ra bằng cách:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thu thập dữ liệu từ một nguồn duy nhất"
+                },
+                {
+                    "id": "B",
+                    "content": "Tập hợp dữ liệu từ nhiều nguồn khác nhau"
+                },
+                {
+                    "id": "C",
+                    "content": "Lưu trữ dữ liệu nhân sự"
+                },
+                {
+                    "id": "D",
+                    "content": "Phân tích dữ liệu marketing"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 19,
+            "question": "Khám phá cơ hội thị trường tiềm năng giúp doanh nghiệp:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mở rộng kinh doanh và nâng cao hiệu quả"
+                },
+                {
+                    "id": "B",
+                    "content": "Tăng thời gian giao hàng"
+                },
+                {
+                    "id": "C",
+                    "content": "Giảm chất lượng sản phẩm"
+                },
+                {
+                    "id": "D",
+                    "content": "Giảm số lượng nhà cung cấp"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 20,
+            "question": "Thông tin kế hoạch sản xuất trong chuỗi cung ứng thường được sử dụng với mục đích:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lập kế hoạch sản xuất và điều phối nguồn lực"
+                },
+                {
+                    "id": "B",
+                    "content": "Tuyển dụng nhân viên mới"
+                },
+                {
+                    "id": "C",
+                    "content": "Quảng cáo sản phẩm mới"
+                },
+                {
+                    "id": "D",
+                    "content": "Theo dõi chi phí nhân sự"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 21,
+            "question": "Mô hình tương quan thị trường - chuỗi cung ứng có vai trò gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giúp xây dựng chiến lược marketing hiệu quả hơn"
+                },
+                {
+                    "id": "B",
+                    "content": "Giúp tăng doanh số bán hàng trong ngắn hạn"
+                },
+                {
+                    "id": "C",
+                    "content": "Giúp xác định cách thức chuỗi cung ứng phản ứng với những thay đổi trong môi trường thị trường"
+                },
+                {
+                    "id": "D",
+                    "content": "Giúp giảm giá thành sản phẩm xuống mức thấp nhất"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 22,
+            "question": "Mục tiêu chính của mô hình tương quan thị trường - chuỗi cung ứng là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dự đoán mức độ tiêu thụ sản phẩm theo quý"
+                },
+                {
+                    "id": "B",
+                    "content": "Phân tích chi phí vận hành kho bãi"
+                },
+                {
+                    "id": "C",
+                    "content": "Đo lường hiệu quả sản xuất theo ca làm việc"
+                },
+                {
+                    "id": "D",
+                    "content": "Hiểu và dự báo phản ứng của chuỗi cung ứng trước biến động thị trường"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 23,
+            "question": "Mô hình tương quan thị trường - chuỗi cung ứng hỗ trợ doanh nghiệp như thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xác định nhu cầu đầu tư vào hệ thống ERP"
+                },
+                {
+                    "id": "B",
+                    "content": "Định hướng cho việc lựa chọn nhà cung cấp"
+                },
+                {
+                    "id": "C",
+                    "content": "Đưa ra phản ứng phù hợp của chuỗi cung ứng khi thị trường thay đổi"
+                },
+                {
+                    "id": "D",
+                    "content": "Thiết lập mức lương cho nhân viên chuỗi cung ứng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 24,
+            "question": "Vì sao mô hình tương quan thị trường - chuỗi cung ứng lại quan trọng trong quản trị chuỗi cung ứng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giúp giảm thời gian giao hàng cho khách hàng"
+                },
+                {
+                    "id": "B",
+                    "content": "Giúp chuỗi cung ứng thích nghi với các thay đổi trong thị trường một cách hiệu quả hơn"
+                },
+                {
+                    "id": "C",
+                    "content": "Giúp tăng số lượng sản phẩm xuất khẩu"
+                },
+                {
+                    "id": "D",
+                    "content": "Giúp giảm lượng nhân sự cần thiết trong vận hành"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 25,
+            "question": "Một điểm đặc trưng của thị trường thời trang nhanh là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ít thay đổi theo mùa"
+                },
+                {
+                    "id": "B",
+                    "content": "Thay đổi liên tục theo xu hướng"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhu cầu ổn định"
+                },
+                {
+                    "id": "D",
+                    "content": "Không cần dữ liệu thị trường"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 26,
+            "question": "Hệ thống đo lường dịch vụ khách hàng chủ yếu tập trung vào yếu tố nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chi phí sản xuất sản phẩm"
+                },
+                {
+                    "id": "B",
+                    "content": "Mức độ tăng trưởng thị phần"
+                },
+                {
+                    "id": "C",
+                    "content": "Các chỉ số như thời gian giao hàng và khả năng đáp ứng đơn hàng"
+                },
+                {
+                    "id": "D",
+                    "content": "Số lượng nhân viên trong bộ phận chăm sóc khách hàng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 27,
+            "question": "Chỉ số nào sau đây không phải là trọng tâm của hệ thống đo lường dịch vụ khách hàng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thời gian giao hàng"
+                },
+                {
+                    "id": "B",
+                    "content": "Độ tin cậy"
+                },
+                {
+                    "id": "C",
+                    "content": "Khả năng đáp ứng đơn hàng"
+                },
+                {
+                    "id": "D",
+                    "content": "Chi phí marketing"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 28,
+            "question": "Hệ thống đo lường dịch vụ khách hàng phản ánh trực tiếp điều gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tốc độ phát triển sản phẩm mới"
+                },
+                {
+                    "id": "B",
+                    "content": "Trải nghiệm và sự trung thành của khách hàng"
+                },
+                {
+                    "id": "C",
+                    "content": "Khả năng giảm chi phí logistics"
+                },
+                {
+                    "id": "D",
+                    "content": "Doanh thu của đối thủ cạnh tranh"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 29,
+            "question": "Mục tiêu chính của hệ thống đo lường hiệu suất hoạt động nội bộ là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tối ưu hóa hoạt động marketing"
+                },
+                {
+                    "id": "B",
+                    "content": "Đánh giá hiệu quả và tối ưu hóa quy trình nội bộ"
+                },
+                {
+                    "id": "C",
+                    "content": "Cải thiện dịch vụ chăm sóc khách hàng"
+                },
+                {
+                    "id": "D",
+                    "content": "Dự đoán xu hướng thị trường"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 30,
+            "question": "Hệ thống đo lường khả năng phản ứng linh hoạt trước biến động của nhu cầu nhằm mục đích gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đánh giá chi phí sản xuất"
+                },
+                {
+                    "id": "B",
+                    "content": "Đánh giá khả năng thích ứng với biến động của nhu cầu thị trường"
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng số lượng nhân viên trong chuỗi cung ứng"
+                },
+                {
+                    "id": "D",
+                    "content": "Xác định thị phần của doanh nghiệp"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 31,
+            "question": "Hệ thống đo lường khả năng phản ứng linh hoạt tập trung đo lường điều gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mức độ linh hoạt và nhanh nhạy của chuỗi cung ứng"
+                },
+                {
+                    "id": "B",
+                    "content": "Doanh số bán hàng hàng tháng"
+                },
+                {
+                    "id": "C",
+                    "content": "Chi phí marketing cho sản phẩm mới"
+                },
+                {
+                    "id": "D",
+                    "content": "Số lượng nhà cung cấp hợp tác"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 32,
+            "question": "Hệ thống đo lường khả năng phát triển sản phẩm tập trung vào yếu tố nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tốc độ ra mắt sản phẩm mới"
+                },
+                {
+                    "id": "B",
+                    "content": "Độ hài lòng của khách hàng"
+                },
+                {
+                    "id": "C",
+                    "content": "Chi phí vận hành kho bãi"
+                },
+                {
+                    "id": "D",
+                    "content": "Mức độ tồn kho"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 33,
+            "question": "Dữ liệu vận hành (transactional) trong doanh nghiệp thường phục vụ cho mục tiêu nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ra quyết định chiến lược dài hạn"
+                },
+                {
+                    "id": "B",
+                    "content": "Quản lý các hoạt động hàng ngày và giao dịch thường xuyên"
+                },
+                {
+                    "id": "C",
+                    "content": "Phân tích xu hướng thị trường"
+                },
+                {
+                    "id": "D",
+                    "content": "Lập kế hoạch phát triển sản phẩm mới"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 34,
+            "question": "Dữ liệu chiến lược (strategic) trong hệ thống dữ liệu doanh nghiệp được sử dụng để:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hỗ trợ các quyết định quản trị dài hạn và định hướng phát triển"
+                },
+                {
+                    "id": "B",
+                    "content": "Theo dõi các giao dịch hàng ngày"
+                },
+                {
+                    "id": "C",
+                    "content": "Quản lý kho hàng tồn"
+                },
+                {
+                    "id": "D",
+                    "content": "Tối ưu hóa quá trình sản xuất"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 35,
+            "question": "Dữ liệu phân tích (analytical) chủ yếu được dùng để:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ghi nhận các giao dịch bán hàng"
+                },
+                {
+                    "id": "B",
+                    "content": "Hỗ trợ phân tích và ra quyết định dựa trên dữ liệu lớn"
+                },
+                {
+                    "id": "C",
+                    "content": "Quản lý nhân sự và tiền lương"
+                },
+                {
+                    "id": "D",
+                    "content": "Tổ chức các hoạt động marketing"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 36,
+            "question": "Tại sao kho dữ liệu lại quan trọng trong chuỗi cung ứng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giúp doanh nghiệp ra quyết định nhanh, chính xác và đồng nhất"
+                },
+                {
+                    "id": "B",
+                    "content": "Hỗ trợ tuyển dụng nhân sự mới"
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng số lượng sản phẩm trong kho"
+                },
+                {
+                    "id": "D",
+                    "content": "Tăng mức độ hài lòng của khách hàng"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 37,
+            "question": "Kho dữ liệu chủ yếu phục vụ mục đích nào trong doanh nghiệp?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phân tích dữ liệu để ra quyết định"
+                },
+                {
+                    "id": "B",
+                    "content": "Lưu trữ hồ sơ nhân viên"
+                },
+                {
+                    "id": "C",
+                    "content": "Quản lý hợp đồng khách hàng"
+                },
+                {
+                    "id": "D",
+                    "content": "Theo dõi đơn hàng giao nhận"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 38,
+            "question": "Việc phân tích dữ liệu trong chuỗi cung ứng giúp doanh nghiệp làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng số lượng nhân viên kho bãi"
+                },
+                {
+                    "id": "B",
+                    "content": "Xác định những điểm nghẽn và khám phá cơ hội thị trường tiềm năng"
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng chi phí vận chuyển"
+                },
+                {
+                    "id": "D",
+                    "content": "Giảm sản lượng sản xuất"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 39,
+            "question": "Sản xuất tinh gọn (Lean) giúp gì cho doanh nghiệp?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng thời gian sản xuất"
+                },
+                {
+                    "id": "B",
+                    "content": "Tăng số lượng nhân công"
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng lượng tồn kho"
+                },
+                {
+                    "id": "D",
+                    "content": "Giảm lãng phí và nâng cao hiệu suất"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 40,
+            "question": "Chỉ số nào sau đây được sử dụng để đánh giá khả năng đáp ứng đơn hàng trong chuỗi cung ứng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Inventory Turnover Rate – Tỷ lệ luân chuyển hàng tồn kho"
+                },
+                {
+                    "id": "B",
+                    "content": "Order Fulfillment Rate – Tỷ lệ hoàn thành đơn hàng"
+                },
+                {
+                    "id": "C",
+                    "content": "Freight Cost per Unit – Chi phí vận chuyển trên mỗi đơn vị hàng hóa"
+                },
+                {
+                    "id": "D",
+                    "content": "Return on Investment (ROI) – Tỷ suất hoàn vốn"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        }
+    ]
+}

@@ -1,0 +1,1021 @@
+ĐỀ CƯƠNG ÔN TẬP HỌC PHẦN
+ĐẠI CƯƠNG LOGISTICS VÀ CHUỖI CUNG ỨNG
+ĐẠI HỌC K75
+CHƯƠNG 1:
+1. Khái niệm nào sau đây là khái niệm Logistics theo quan điểm của Hội đồng Các chuyên gia Quản trị Chuỗi cung ứng
+A. Logistics là quá trình lên kế hoạch, thực hiện và kiểm soát hiệu quả, tiết kiệm chi phí của các dòng lưu chuyển và lưu trữ nguyên vật liệu, hàng tồn, thành phẩm và thông tin liên quan từ điểm khởi nguồn đến điểm tiêu thụ nhằm đáp ứng nhu cầu khách hàng.
+B. Logistics là quá trình lập kế hoạch, thực hiện và kiểm soát các luồng lưu chuyển và lưu kho nguyên vật liệu, sản phẩm dở dang, thành phẩm và thông tin liên quan có hiệu suất cao và hiệu quả về mặt chi phí từ điểm khởi nguồn cho đến điểm tiêu thụ nhằm mục đích thỏa mãn các yêu cầu của khách hàng.
+C. Logistics là quá trình cung cấp đúng sản phẩm với đúng số lượng và đúng điều kiện tới đứng địa điểm vào đúng thời gian cho đúng khách hàng với đúng giá cả.
+D. Logistics là quá trình lập kế hoạch, thực hiện và kiểm soát các luồng lưu chuyển và lưu kho nguyên vật liệu, sản phẩm dở dang, thành phẩm và thông tin liên quan có hiệu suất cao và hiệu quả về mặt chi phí, thời gian từ điểm khởi nguồn cho đến điểm tiêu thụ nhằm mục đích thỏa mãn các yêu cầu của khách hàng.
+2. Khái niệm nào sau đây là khái niệm Logistics theo quan điểm của Hội đồng Quản trị logistics
+A. Logistics là quá trình lập kế hoạch, thực hiện và kiểm soát các luồng lưu chuyển và lưu kho nguyên vật liệu, sản phẩm dở dang, thành phẩm và thông tin liên quan có hiệu suất cao và hiệu quả về mặt chi phí từ điểm khởi nguồn cho đến điểm tiêu thụ nhằm mục đích thỏa mãn các yêu cầu của khách hàng.D
+B. Logistics là quá trình lên kế hoạBch, thực hiện và kiểm soát hiệu quả, tiết kiệm chi phí của các dòng lưu chuyển và lưu trữ nguyên vật liệu, hàng tồn, thành phẩm và thông tin liên quan từ điểm khởi nguồn đến điểm tiêu thụ nhằm đáp ứng nhu cầu khách hàng.
+C. Logistics là quá trình cung cấp đúng sản phẩm với đúng số lượng và đúng điều kiện tới đứng địa điểm vào đúng thời gian cho đúng khách hàng với đúng giá cả.
+D. Logistics là nghệ thuật và khoa học giúp quản trị và kiểm soát dòng chảy của hàng hóa, năng lượng, thông tin và những nguồn lực khác.
+3. "Cross-docking" trong hoạt động logistics có nghĩa là gì
+A. Hàng hoá được nhận trực tiếp tại kho hoặc tại trung tâm phân phối, tại đây không đem vào vị trí lưu trữ mà luôn sẵn sàng vận chuyển.
+B. Hàng hoá được nhận trực tiếp tại kho hoặc tại trung tâm phân phối, sau đó đem vào vị trí lưu trữ trong thời gian dài.
+C. Hệ thống công nghệ thông tin giúp quản lý chất lượng sản phẩm tại kho.
+D. Hệ thống công nghệ thông tin giúp quản lý nhập xuất hàng trong kho.
+4. Outbound Logistics được phát triển trong giai đoạn nào
+A. Phân phối vật chất
+B. Lập kế hoạch sản xuất
+C. Quản trị chuỗi cung ứng
+D. Hệ thống logistics
+5. Khái niệm nào đúng về Dịch vụ logistics theo luật thương mại Việt Nam 2005
+A. Dịch vụ logistics là hoạt động thương mại, theo đó thương nhân tổ chức thực hiện một hoặc nhiều công việc bao gồm: nhận hàng, vận chuyển, lưu kho, lưu bãi, làm thủ tục hải quan, các thủ tục giấy tờ khác, tư vấn khách hàng, đóng gói bao bì, ghi ký mã hiệu, giao hàng hoặc các dịch vụ khác có liên quan đến hàng hóa theo thỏa thuận với khách hàng để hưởng thù lao. Dịch vụ logistics được phiên âm theo tiếng Việt là dịch vụ lo-gi-stíc.
+B. Dịch vụ logistics là hoạt động thương mại nội địa và quốc tế, theo đó thương nhân tổ chức thực hiện một hoặc nhiều công việc bao gồm: nhận hàng, vận chuyển, lưu kho, lưu bãi, làm thủ tục hải quan, các thủ tục giấy tờ khác, tư vấn khách hàng, đóng gói bao bì, ghi ký mã hiệu, giao hàng hoặc các dịch vụ khác có liên quan đến hàng hóa theo thỏa thuận với khách hàng để hưởng thù lao. Dịch vụ logistics được phiên âm theo tiếng Việt là dịch vụ lo-gi-stíc.
+C. Dịch vụ logistics là sản phẩm vô hình, bao gồm các hoạt động chức năng logistics mà nhà cung cấp dịch vụ logistics thực hiện cho khách hàng để thu lợi nhuận.
+D. Dịch vụ logistics là hoạt động thương mại, theo đó thương nhân tổ chức thực hiện một hoặc nhiều công việc bao gồm: nhận hàng, vận chuyển, lưu kho, lưu bãi, làm hàng, làm thủ tục hải quan, các thủ tục giấy tờ giao nhận hàng khác, tư vấn khách hàng, đóng gói bao bì, ghi ký mã hiệu, giao hàng hoặc các dịch vụ khác có liên quan đến hàng hóa theo thỏa thuận với khách hàng để hưởng thù lao. Dịch vụ logistics được phiên âm theo tiếng Việt là dịch vụ lo-gi-stíc.
+6. Theo tổ chức thương mại thế giới WTO, dịch vụ logistics chủ yếu trong hoạt động logistics không bao gồm hoạt động nào
+A. Dịch vụ đóng gói, dịch vụ tư vân quản lý
+B. Dịch vụ đại lý vận tải, thủ tục hải quan.
+C. Dich vụ kho bãi, lưu trữ hàng hóa.
+D. Dịch vụ bốc xếp hàng hóa, bao gồm cả bốc xếp contanier
+7. Theo Nghị định số 140/2007/NĐ-CP, dịch vụ logistics chủ yếu trong hoạt động logistics không bao gồm hoạt động nào
+A. Dịch vụ liên quan đến vận tải
+B. Dịch vụ bốc xếp hàng hóa, bao gồm cả bốc xếp contanier
+C. Dịch vụ kho bãi và lưu trữ hàng hóa, bao gồm cả hoạt động kinh doanh kho bãi container và kho xử lý nguyên liệu, thiết bị.
+D. Dịch vụ đại lý vận tải, bao gồm cả hoạt động đại lý, làm thủ tục hải quan và lập kế hoạch bốc dỡ hàng hóa.
+8. Khái niệm "logistics bên thứ 3" (3PL) có nghĩa là gì
+A. Logistics bên thứ 3 (3PL): là người thay mặt cho chủ hàng quản lý và thực hiện các dịch vụ logistics cho từng bộ phận chức năng như: làm thủ tục xuất nhập khẩu và vận chuyển nội địa…
+B. Logistics bên thứ 3 (3PL): người cung cấp dịch vụ logistics bên thứ 3 là người cung cấp dịch vụ cho một hoạt động đơn lẻ trong chuỗi các hoạt động logistics (vận tải, kho bãi, thủ tục hải quan, thanh toán…)
+C. Logistics bên thứ 3 (3PL): là người tích hợp gắn kết các nguồn lực, tiềm năng, cơ sở vật chất khoa học kỹ thuật của mình với các tổ chức khác để thiết kế, xây dựng và vận hành các giải pháp chuỗi logistics.
+D. Logistics bên thứ 3 (3PL): người chủ sở hữu hàng hóa tự mình tổ chức và thực hiện các hoạt động logistics để đáp ứng nhu cầu của bản thân.
+9. Nhận gửi hàng theo nguyên tắc JIT “Just in Time” trong logistics nghĩa là
+A. Giảm thiểu hàng tồn kho bằng cách giao hàng đúng thời điểm cần thiết.
+B. Tăng cường sản xuất dự trữ để đối phó với biến động.
+C. Sản xuất hàng hóa theo yêu cầu ngay khi cần thiết.
+D. Lưu kho hàng hóa lâu dài để giảm chi phí.
+10. Khái niệm đúng về hoạt động thuê ngoài logistics
+A. Thuê ngoài hoạt động logistics là sử dụng nhà cung cấp bên thứ ba cho toàn bộ hoặc một phần quy trình logistics của doanh nghiệp.
+B. Thuê ngoài hoạt động logistics là sử dụng nhà cung cấp bên thứ hai cho toàn bộ hoặc một phần quy trình logistics của doanh nghiệp.
+C. Thuê ngoài hoạt động logistics là sử dụng nhà cung cấp bên thứ tư cho toàn bộ hoặc một phần quy trình logistics của doanh nghiệp.
+D. Thuê ngoài hoạt động logistics là sử dụng nhà cung cấp bên thứ năm cho toàn bộ hoặc một phần quy trình logistics của doanh nghiệp.
+11. Hoạt động logistics ngược theo mô hình Open-loop là
+A. Mô hình mở: Nhà sản xuất có thể quyết định thuê ngoài hoạt động thu hồi từ một nhà cung cấp dịch vụ bên thứ 3 (3PL) chuyên về một nhóm sản phẩm cụ thể. Nhà cung cấp này sẽ đảm nhận chức năng logistics ngược bao gồm bảo dưỡng, sửa chữa và thu hồi sản phẩm trên danh nghĩa nhà sản xuất.
+B. Mô hình mở: quy trình trong đó nguyên vật liệu và sản phẩm đã qua sử dụng được nhà sản xuất thu hồi và tái chế, đồng thời cũng chính nhà sản xuất chịu trách nhiệm về các hoạt động logistics tại đầu chuỗi cung ứng.
+C. Mô hình mở: Nhà sản xuất hoặc bên phân phối có thể quyết định thuê ngoài hoạt động thu hồi từ một nhà cung cấp dịch vụ bên thứ 3 (3PL) chuyên về một nhóm sản phẩm cụ thể. Nhà cung cấp này sẽ đảm nhận chức năng logistics ngược bao gồm bảo dưỡng, sửa chữa và thu hồi sản phẩm trên danh nghĩa nhà sản xuất.
+D. Mô hình mở: Chức năng logistics ngược hoàn toàn nằm ngoài chuỗi cung ứng của nhà sản xuất thiết bị ban đầu. Những người vận hành độc lập này hầu hết là những nhà buôn chất thải và đồng nát truyền thống hoặc doanh nghiệp dịch vụ.
+12. Trong hoạt động logistics kinh doanh, hoạt động làm hàng là
+A. Một chuỗi các hoạt động trung gian giữa vận tải và lưu kho từ khi hàng hóa được gửi đến cho đến khi hàng hóa được xuất kho.
+B. Hoạt động cung cấp nguyên vật liệu đầu vào.
+C. Hoạt động cung cấp nguyên vật liệu đầu vào và sản xuất hàng hóa.
+D. Hoạt động kiểm tra chất lượng hàng hóa trước khi bao gói, dán nhãn tại doanh nghiệp sản xuất hàng hóa.
+13. Trong hoạt động logistics ngược, sản phẩm thu hồi do hết vòng đời sử dụng (EOU – End Of Use) là
+A. Các sản phẩm không thể sử dụng lại nhưng có thể thu hồi lại.
+B. Các sản phẩm ở cuối vòng đời vật chất hoặc vòng đời kinh tế.
+C. Các sản phẩm thu hồi do có vấn đề phát sinh về an toàn và ảnh hưởng sức khỏe của người tiêu dùng.
+D. Các sản phẩm mà khách hàng muốn trả lại hàng do thay đổi nhu cầu sử dụng sản phẩm.
+14. Logistics quân sự tập trung vào hoạt động nào sau đây?
+A. Cung cấp lương thực, thực phẩm, quân trang, quân dụng
+B. Tổ chức và vận động hàng hóa trong y tế
+C. Phân phối sản phẩm thân thiện môi trường
+D. Vận chuyển nguyên liệu sản xuất công nghiệp
+15. Logistics y tế tập trung vào hoạt động nào sau đây?
+A. Tổ chức và quản lý dòng hàng hóa, thông tin và dịch vụ ngành y tế
+B. Buôn bán, phân phối hàng hóa, dịch vụ ngàng y tế
+C. Phân phối sản phẩm thân thiện môi trường
+D. Vận chuyển nguyên liệu sản xuất công nghiệp
+16. Nhận định nào sau đây chưa đúng về cảng cạn ICD (Inland Container Depot)
+A. Cảng nước cạn thuộc cảng cạn ICD.
+B. Là nơi tập kết, tổ chức hoạt động vận tải hàng hóa bằng container gắn liền với hoạt động của các cảng hàng không, cảng biển, đường sắt, cửa khẩu quốc tế, các cảng biển.
+C. Sử dụng các ICD giúp làm giảm chi phí vận chuyển cũng như thời gian lưu kho hàng hóa tại các cảng.
+D. Là bộ phận thuộc kết cấu hạ tầng giao thông vận tải.
+17. Nhận định nào không đúng về đặc điểm của logistics.
+A. Logistics là quá trình lập kế hoạch, thực hiện và kiểm soát các luồng lưu chuyển và lưu kho.
+B. Logistics là khoa học và là nghệ thuật về tổ chức và quản lý nhằm sử dụng các nguồn lực một cách tối ưu.
+C. Logistics tổn tại ở cả hai cấp độ: hoạch định và tổ chức.
+D. Logistics là một quá trình tức là một chuỗi các hoạt động liên tục, có quan hệ mật thiết và tương tác với nhau chứ không phải các hoạt động riêng lẻ.
+18. Sắp xếp thứ tự đúng cho các công việc sau để hoàn thiện quy trình hoạt động thuê ngoài logistics
+1-Xác định nhu cầu thuê ngoài
+2-Xác định nhà cung cấp
+3-Chuẩn bị và yêu cầu báo giá
+4-Rút ngắn danh sách nhà cung cấp
+5-Thực hiện hợp đồng
+6-Đánh giá và so sánh các nhà cung cấp
+7-Lựa chọn nhà cung cấp
+8-Quản lý mối quan hệ với nhà cung cấp
+9-Soạn thảo và ký kết hợp đồng
+A.  1-2-4-3-6-7-9-5-8
+B. 1-2-3-4-6-7-9-5-8
+C. 1-2-3-4-7-6-9-5-8
+D. 1-2-3-4-7-6-9-8-5
+19. Theo sơ đồ quy trình logistics ngược, thứ tự đúng để thực hiện quy trình này là
+A. Thu hồi→ Kiểm tra, chọn lựa và phân loại → Tái chế hoặc khôi phục → Tái phân phối.
+B. Thu hồi→ Tái chế hoặc khôi phục →  Kiểm tra, chọn lựa và phân loại → Tái phân phối.
+C. Thu hồi→ Tái chế hoặc khôi phục → Tái phân phối →  Kiểm tra, chọn lựa và phân loại.
+D. Kiểm tra, chọn lựa và phân loại → Thu hồi→ Tái chế hoặc khôi phục → Tái phân phối.
+20. Nhận định nào sau đây không đúng về trung tâm logistics
+A. Kho hàng được coi là trung tâm logistics.
+B. Một khu vực bao gồm mọi hoạt động liên quan đến vận tải, logistics và phân phối hàng hóa nội địa cũng như quốc tế
+C. Được thực hiện bởi nhiều nhà khai thác khác nhau, các nhà khai thác này có thể là người chủ sở hữu hoặc người thuê sử dụng các cơ sở vật chất và trang thiết bị của trung tâm dịch vụ logistics.
+D. Trung tâm dịch vụ logistics bao gồm kho bãi, trung tâm phân phối, khu vực lưu trữ hàng, văn phòng hay khu dịch vụ vận tải,…
+21. Hoạt động nào không phải là hoạt động của Logistics kinh doanh
+A. Quảng cáo.
+B. Làm hàng.
+C. Kho hàng.
+D. Vận tải.
+22. Hoạt động logistics kinh doanh nào có chi phí lớn nhất trong tổng chi phí logistics
+A. Vận tải.
+B. Làm hàng.
+C. Kho hàng.
+D. Marketing.
+23. Trong hoạt động vận tải của logistics kinh doanh, yêu cầu của khách hàng về dịch vụ vận tải là
+A. An toàn, đúng thời gian, giá cả hợp lý.
+B. Bao gói hàng hóa.
+C. Phân loại hàng theo yêu cầu của khách hàng.
+D. Phân tách lô hàng lớn thành những lô hàng lẻ.
+24. Hoạt động nào sau đây không được coi là hoạt động làm hàng trong logistics
+A. Sản xuất hàng.
+B. Xếp dỡ hàng lên và ra khỏi phương tiện.
+C. Kiểm tra chất lượng hàng sau khi nhập kho và trước khi xuất kho.
+D. Phân loại hàng sau khi nhập kho và trước khi xuất kho.
+25. Hoạt động nào sau đây không phải là hoạt động của kho hàng trong logistics
+A. Sản xuất hàng hóa.
+B. Bảo quản hàng hóa.
+C. Lưu trữ hàng hóa.
+D. Nhận, gửi hàng theo yêu cầu của khách hàng.
+26. Nhận định nào không đúng khi nói về vai trò của dịch vụ logistics
+A. Tạo nguồn thu cho các doanh nghiệp sản xuất.
+B. Nâng cao hiệu quả quản lý, Giảm thiểu chi phí sản xuất, tăng cường khả năng cạnh tranh cho doanh nghiệp, góp phần nâng cao hiệu quả hoạt động sản xuất kinh doanh của doanh nghiệp.
+C. Giảm chi phí, hoàn thiện và tiêu chuẩn hóa chứng từ trong kinh doanh đặc biệt trong buôn bán và vận tải quốc tế.
+D. Góp phần mở rộng thị trường thương mại quốc tế.
+27. Phân loại dịch vụ logistics theo hình thức tổ chức bao gồm
+A. 1PL, 2PL, 3PL, 4PL, 5PL.
+B. Logistics xanh, logistics quân sự, Logistics dịch vụ, logistics sự kiện, logistics y tế.
+C. Logistics đầu vào, logistics đầu ra, logistics ngược.
+D. Logistics nội địa và quốc tế.
+28. Hoạt động nào không phải là hoạt động của dịch vụ logistics được phân loại theo quá trình thực hiện hoạt động logistics
+A. Logistics xanh: hướng đến sử dụng các phương tiện vận tải thân thiện với môi trường, góp phần giảm thiểu khí thải CO2 và các khí độc hại, từ đó hạn chế hiệu ứng nhà kính và biến đổi khí hậu.
+B. Logistics đầu vào (inbound logistics): các hoạt động đảm bảo cung ứng tài nguyên đầu vào (nguyên liệu, vốn, thông tin…) một cách tối ưu về vị trí, thời gian và chi phí.
+C. Logistics đầu ra (Outbound logistics): các hoạt động đảm bảo cung cấp thành phẩm đến tay người tiêu dung một cách tối ưu về vị trí, thời gian, chi phí, đem lại lợi nhuận tối đa cho doanh nghiệp.
+D. Logistics ngược (reverse logistics): là quá trình thu hồi các phụ phẩm, phế liệu, phế phẩm, các yếu tố ảnh hưởng đến môi trường phát sinh từ quá trình sản xuất, phân phối và tiêu dung trở về để tái chế hoặc xử lý.
+29. Đặc điểm nào không phải của logistics xanh
+A. Chi phí logistics tăng.
+B. Giảm thiểu khí thải CO2.
+C. Sử dụng phương tiện vận tải thân thiện với môi trường.
+D.Hạn chế tác động tiêu cực đến môi trường.
+30. Theo quá trình hoạt động logistics thì "Logistics đầu vào" đề cập đến hoạt động nào
+A. Cung ứng tài nguyên đầu vào.
+B. Cung cấp thành phẩm đến tay người tiêu dùng.
+C. Quản lý hàng nhập vào kho.
+D. Thu hồi sản phẩm trong logistics ngược.
+31. Vai trò của hệ thống thông tin trong hoạt động logistics là
+A. Kết nối các hoạt động trong chuỗi logistics.
+B. Tăng lượng hàng tồn kho.
+C. Giúp giảm giá thành sản phẩm.
+D. Chỉ cần thiết cho kế hoạch marketing.
+32. Hệ thống thông tin có vai trò quan trọng trong hoạt động logistics vì
+A. Hệ thống thông tin kết nối các hoạt động trong chuỗi logistics.
+B. Hệ thống thông tin cần thiết cho việc lập kế hoạch sản xuất.
+C. Hệ thống thông tin ảnh hưởng đến chi phí logistics.
+D. Hệ thống thông tin liên quan đến quy trình vận chuyển.
+33. Nhận định nào sau đây không đúng về lợi ích của hoạt động thuê ngoài logistics
+A. Tăng chi phí logistics của doanh nghiệp.
+B. Nâng cao hiệu quả hoạt động logistics.
+C. Giảm rủi ro hoạt động và rủi ro chiến lược cho doanh nghiệp.
+D. Tập trung vào hoạt động kinh doanh cốt lõi và năng lực cạnh tranh chủ chốt.
+34. Lợi ích của thuê ngoài hoạt động logistics là
+A. Giảm chi phí logistics tổng thể.
+B. Tăng vốn đầu tư.
+C. Giảm khả năng kiểm soát quy trình.
+D. Tăng độ phức tạp trong quản lý.
+35. Hoạt động nào không thuộc về quy trình logistics ngược?
+A. Sử dụng phương tiện vận tải thân thiện với môi trường.
+B. Tái chế hoặc khôi phục sản phẩm.
+C. Thu hồi sản phẩm đã qua sử dụng.
+D. Kiểm tra chất lượng sản phẩm thu hồi.
+36. Trong hoạt động logistics ngược, đâu không phải là sản phẩm thu hồi từ hoạt động phân phối
+A. Sản phẩm thừa, nguyên vật liệu thừa trong quá trình sản xuất.
+B. Sản phẩm bị hư hại trong quá trình giao hàng hoặc sản phẩm không bán được.
+C. Sản phẩm thu hồi để sử dụng hoặc nguyên liệu đã dùng: ví dụ như pallet để vận chuyển sản phẩm trong quá trình phân phối.
+D. Sản phẩm điều chỉnh tại cửa hàng, bao gồm cả sản phẩm quá date.
+37. Trong hoạt động logistics ngược, đâu là sản phẩm thu hồi trong quá trình tiêu dùng
+A. Sản phẩm thu hồi để bảo hành.
+B. Sản phẩm bị hư hại trong quá trình giao hàng hoặc sản phẩm không bán được.
+C. Sản phẩm điều chỉnh tại cửa hàng, bao gồm cả sản phẩm quá date.
+D. Sản phẩm thu hồi để sử dụng hoặc nguyên liệu đã dùng: ví dụ như pallet để vận chuyển sản phẩm trong quá trình phân phối.
+38. Trong hoạt động logistics ngược, tác nhân nào không tham gia vào hoạt động này
+A. Nhà cung cấp nguyên vật liệu đầu vào
+B. Các cơ quan chính phủ.
+C. Các doanh nghiệp đầu chuỗi cung ứng.
+D. Các doanh nghiệp tái chế, nhà buôn phế thải, đồng nát.
+39. Nhận định nào chưa đúng về lợi ích của việc thành lập trung tâm logistics
+A. Tăng doanh thu cho nhà sản xuất.
+B. Giảm lưu lượng xây dựng.
+C. Giảm tác động của môi trường, bao gồm: giảm tắc nghẽn, ô nhiễm tiếng ồn, phát thải cacbon và chất thải khác.
+D. Tăng hiệu quả về năng suất và giảm tình trạng thiếu hụt nguyên vật liệu.
+40. Trong các hoạt động của trung tâm logistics, đâu không phải là hoạt động tạo giá trị gia tăng logistics (VAL – Value Added Logistics)
+A. Hoạt động tạo giá trị gia tăng cho vận tải hàng hóa.
+B. Hoạt động tạo giá trị gia tăng của hệ thông quản lý.
+C. Hoạt động Low-end VAL
+D. Hoạt động high-end VAL
+CHƯƠNG 2
+41. Quy trình logistics được hiểu như thế nào ?
+A. Là trình tự phối hợp các hoạt động, các thực thể tham gia trong quá trình sản xuất kinh doanh nhằm tối ưu hóa việc sử dụng các nguồn lực, nâng cao hiệu quả quản lý, gia tăng lợi ích cho khách hàng về thời gian, chi phí, chất lượng.
+B. Là quá trình lên kế hoạch, thực hiện, và kiểm soát hiệu quả, tiết kiệm chi phí của các dòng lưu chuyển và lưu trữ nguyên vật liệu ,hàng tồn, thành phẩm và thông tin liên quan từ điểm khởi nguồn đến điểm tiêu thụ nhằm đáp ứng nhu cầu khách hàng.
+C. Là quá trình lập kế hoạch, thực hiện và kiểm soát luồng nguyên vật liệu thô, tồn kho sản phẩm dở dang và thành phẩm từ điểm sản xuất, phân phối, sử dụng tới điểm tái chế hoặc điểm tiêu thụ phù hợp.
+D. Là hoạt động bao trùm mọi chức năng trong doanh nghiệp, giúp doanh nghiệp dễ dàng xác định các vấn đề phát sinh.
+42. Phương pháp xây dựng quy trình logistics được thực biện theo các bước sau
+A.  Xác định quy trình chủ chốt → Vạch ra các yếu tố chính → Biểu đồ chu trình chi tiết → Xác định khả năng cải tiến → Đánh giá các khả năng và xác định các vấn đề chính → Xác định các giải pháp khả thi → Tiến hành thay đổi
+B. Xác định hoạt động chủ chốt → Vạch ra các hoạt động chính → Biểu đồ hoạt động chi tiết → Xác định khả năng cải tiến → Đánh giá các khả năng và xác định các vấn đề chính → Xác định các giải pháp khả thi → Tiến hành thay đổi
+C. Vạch ra các hoạt động chính → Xác định hoạt động chủ chốt → Biểu đồ hoạt động chi tiết → Xác định khả năng cải tiến → Đánh giá các khả năng và xác định các vấn đề chính → Xác định các giải pháp khả thi → Tiến hành thay đổi
+D. Vạch ra các yếu tố chính → Xác định quy trình chủ chốt → Biểu đồ chu trình chi tiết → Xác định khả năng cải tiến → Đánh giá các khả năng và xác định các vấn đề chính → Xác định các giải pháp khả thi → Tiến hành thay đổi
+43. Sắp xếp thứ tự các hoạt động sau để để hoàn thiện phương pháp xây dựng quy trình logistics
+1- Vạch ra các yếu tố chính
+2- Xác định quy trình chủ chốt
+3- Xác định khả năng cải tiến
+4- Biểu đồ chu trình chi tiết
+5-Tiến hành thay đổi
+6- Đánh giá các khả năng và xác định các vấn đề chính
+7- Xác định các giải pháp khả thi
+A. 2→1→4→3→6→7→5
+B. 1→2→4→3→6→7→5
+C. 1→2→4→3→6→5→7
+D. 1→2→4→6→3→5→7
+44. Bước đầu tiên để xây dựng được quy trình logistics là
+A. Xây dựng quy trình chủ chốt
+B.Đánh giá khả năng và xác định các vấn đề
+C. Vạch ra các yếu tố chính
+D. Xây dựng khả năng cải tiến
+45. Bước cuối cùng của phương pháp xây dựng quy trình logistics là
+A. Tiến hành thay đổi
+B. Lập biểu đồ chu trình chi tiết
+C. Xây dựng quy trình chủ chốt
+D. Xác định các giải pháp khả thi
+46. Việc vạch ra những yếu tố chính của mỗi quy trình được tái thiết kế, nhằm xác định những bước quan trọng trong mỗi quy trình và xác đinhk bộ phận nào và những ai tham gia vào quy trình logistics, nằm ở bước nào trong phương pháp xây dựng quy trình logistics
+A. Bước 2
+B. Bước 3
+C. Bước 4
+D. Bước 5
+47. Chọn cụm từ thích hợp để điền vào chỗ trống để hoàn thiện nhận định về Tam giác quy trình sau: “Tam giác quy trình nhằm xác định ….. căn cứ khác nhau theo yêu cầu về quy trình, sau đó sử dụng những căn cứ này để ….. những quy trình cần được….. với ……..”
+A. 3/ nhấn mạnh/ làm nổi bật/ mỗi mức phát triển cụ thể
+B. 3/ làm nổi bật/ nhấn mạnh/ mỗi mức phát triển cụ thể
+C. 3/ thực hiện/ làm nổi bật/ mỗi mức phát triển cụ thể
+D. 2/ làm nổi bật/ thực hiện/ mỗi mức phát triển cụ thể
+48. Ba nhóm quy trình của Tam giác quy trình là
+A. Các quy trình cơ sở, các quy trình chuẩn, các quy trình cạnh tranh.
+B. Các quy trình cung ứng đầu vào, quy trình quản trị nguyên vật liệu, quy trình phân phối.
+C. Các quy trình quản trị nguyên vật liệu, quy trình quản trị kho hàng, quy trình phân phối vật chất.
+D. Các quy trình cung ứng đầu vào, quy trình quản trị nguyên vật liệu, quy trình phát triển.
+49. Tam giác quy trình gồm bao nhiêu nhóm quy trình
+A. 3
+B. 4
+C. 5
+D. 6
+50. Nhận định nào đúng về khái niệm Chi phí logistics
+A. Chi phí logistics được xem là tất cả các chi phí liên quan đến hoạt động logistics bao gồm chi phí vận tải, lưu kho, xử lý hàng tồn kho, dịch vụ khách hàng, thông tin, chi phí quản lý và các loại chi phí khác.
+B. Chi phí logistics được xem là tất cả các chi phí liên quan đến hoạt động logistics bao gồm chi phí vận tải, lưu kho, xử lý hàng tồn kho, dịch vụ khách hàng, thông tin, marketing, chi phí quản lý và các loại chi phí khác.
+C. Chi phí logistics được xem là tất cả các chi phí liên quan đến hoạt động logistics bao gồm chi phí vận tải, lưu kho, xử lý hàng tồn kho, dịch vụ khách hàng, thông tin, marketing, sản xuất, chi phí quản lý và các loại chi phí khác.
+D. Chi phí logistics được xem là tất cả các chi phí liên quan đến hoạt động logistics bao gồm chi phí vận tải, lưu kho, xử lý hàng tồn kho, dịch vụ khách hàng, chi phí quản lý và các loại chi phí khác.
+51. Mô hình xác định chi phí logistics của Doughlas Lambert chia chi phí logistics thành mấy nhóm chi phí chủ yếu
+A. 6
+B. 7
+C. 5
+D. 8
+52. Theo mô hình xác định chi phí logistics của Doughlas Lambert tổng chi phí logistics hình thành từ chi phí chủ yếu nào
+A. Chi phí vận tải, chi phí dự trữ, chi phí sản xuất - thu mua, chi phí quản lý kho, chi phí dịch vụ khách hàng, chi phí giải quyết đơn hàng và thông tin.
+B. Chi phí vận tải, chi phí dự trữ, chi phí sản xuất - thu mua, chi phí quản lý kho, chi phí dịch vụ khách hàng, chi phí quản lý.
+C. Chi phí vận tải, chi phí dự trữ, chi phí sản xuất - thu mua, chi phí quản lý kho, chi phí dịch vụ khách hàng, chi phí quản lý, chi phí quảng cáo.
+D. Chi phí vận tải, chi phí dự trữ, chi phí sản xuất, chi phí quản lý kho, chi phí dịch vụ khách hàng, chi phí giải quyết đơn hàng và thông tin.
+53. Theo mô hình xác định chi phí logistics của Doughlas Lambert đâu là công thức đúng áp dụng để tính tổng chi phí logistics.
+A. ∑F = Fm + Fv + Fd + Ft + Fđ + Fk
+B. ∑F = Fm + Fn + Fd + Ft + Fđ + Fk
+C. ∑F = Fm + Fv + Fs+ Ft + Fđ + Fk
+D. ∑F = Fm + Fv + Fd + Ft + Fđ + Fs
+54. Tổng chi phí logistics được đo lường theo công thức :
+∑F= Fm + Fv + Fd + Ft + Fđ + Fk.
+Vậy ∑F, Fm,Fv, Fd, Ft, Fđ, Fk có nghĩa lần lượt là gì?
+A. Tổng chi phí hệ thống logistics , Chi phí mua hàng , Chi phí vận tải , Chi phí đặt hàng , Chi phí dữ trữ , Chi phí thông tin , Chi phí khác.
+B. Tổng chi phí hệ thống logistics , Chi phí vận tải , Chi phí mua hàng , Chi phí dự trữ , Chi phí khác , Chi phí đặt hàng , Chi phí thông tin
+C. Chi phí thông tin , Chi phí mua hàng , Chi phí đặt hàng , Chi phí dự trữ , Tổng chi phí hệ thống logistics , Chi phí vận tải , Chi phí khác
+D. Chi phí khác, Chi phí đặt hàng , Chi phí dự trữ , Chi phí thông tin , Chi phí mua hàng , Chi phí vận tải , Tổng chi phí hệ thống logistics
+55. Bước đầu tiên của trình tự phân tích chi phí logistics là
+A. Liệt kê tất cả các chi phí theo trình tự từ đầu đến cuối quá trình cung ứng.
+B. Phân chia chi phí thành các loại riêng như: chi phí vận tải, chi phí mua hàng, chi phí dự trữ, chi phí thông tin, chi phí khác.
+C. Phân tích các chi phí bằng cách trả lời các câu hỏi: tại sao lại phát sinh chi phí này? Chúng ta có thể ước lượng chi phí này không? Làm thế nào để tối thiểu hóa chi phí này?
+D. Xem xét lại toàn bộ quá trình để quyết định tối thiểu hoạt động, giảm thời gian, khoảng cách và chi phí.
+56. Trong trình tự phân tích chi phí logistics, bước tiếp theo sau khi “Phân tích các chi phí bằng cách trả lời các câu hỏi: tại sao lại phát sinh chi phí này? Chúng ta có thể ước lượng chi phí này không? Làm thế nào để tối thiểu hóa chi phí này?” là gì
+A. Xem xét lại toàn bộ quá trình để quyết định tối thiểu hoạt động, giảm thời gian, khoảng cách và chi phí.
+B. Phân chia chi phí thành các loại riêng như: chi phí vận tải, chi phí mua hàng, chi phí dự trữ, chi phí thông tin, chi phí khác.
+C. Kiểm tra quá trình cung ứng mới, chuẩn bị mọi nguồn lực cho sự thay đổi.
+D. Liệt kê tất cả các chi phí theo trình tự từ đầu đến cuối quá trình cung ứng.
+57. Trong trình tự phân tích chi phí logistics, bước tiếp theo sau khi “Xem xét lại toàn bộ quá trình để quyết định tối thiểu hoạt động, giảm thời gian, khoảng cách và chi phí.” là gì
+A. Kiểm tra quá trình cung ứng mới, chuẩn bị mọi nguồn lực cho sự thay đổi.
+B. Phân chia chi phí thành các loại riêng như: chi phí vận tải, chi phí mua hàng, chi phí dự trữ, chi phí thông tin, chi phí khác.
+C. Phân tích các chi phí bằng cách trả lời các câu hỏi: tại sao lại phát sinh chi phí này? Chúng ta có thể ước lượng chi phí này không? Làm thế nào để tối thiểu hóa chi phí này?
+D. Tổng kết gắn các con số cho các chi phí bao gồm tổng thời gian, quãng đường và các thông tin liên quan khác.
+58. Trong công thức tính chi phí vận hành Kop = Kvar + Kfix, thì chi phí Kvar là loại chi phí gì?
+A. Chi phí biến  đổi
+B. Chi phí gián tiếp
+C. Chi phí cố định
+D. Chi phí thuê ngoài
+59. Nhận định nào sau đây chưa đúng về vai trò của quy trình logistics
+A. Quy trình logistics giúp dự báo nhu cầu khách hàng.
+B. Quy trình logistics bao trùm mọi chức năng trong doanh nghiệp.
+C. Quy trình logistics giúp cho hoạt động SXKD thông suốt.
+D. Quy trình logistics giúp doanh nghiệp dễ dàng xác định các vấn đề phát sinh.
+60. Đâu là ý đúng về vai trò của quy trình logistics?
+A. Bao trùm mọi chức năng trong doanh nghiệp.
+B. Nâng cao hiệu quả quản lí, giảm thiểu chi phí sản xuất, tăng cường khả năng cạnh tranh cho doanh nghiệp, góp phần nâng cao hiệu quả hoạt động sản xuất kinh doanh của doanh nghiệp.
+C. Giảm rủi ro, tăng tính tập trung, tăng hiệu quả hoạt động.
+D. Giải quyết đầu vào và đầu ra của doanh nghiệp một cách hiệu quả nhờ tối ưu hoá quá trình chu chuyển nguyên vật liệu, hàng hoá, dịch vụ.
+61. Đâu là ý đúng về vai trò của quy trình logistics?
+A. Giúp hoạt động sản xuất kinh doanh thông suốt.
+B. Giúp tăng cường lợi thế cạnh tranh, giảm chi phí, nâng cao chất lượng dịch vụ và mở rộng thị trường.
+C. Giảm rủi ro, tăng tính tập trung, tăng hiệu quả hoạt động.
+D. Chỉ quan trọng đối với các doanh nghiệp sản xuất lớn.
+62. Hoạt động nào không thuộc nhóm quy trình quản trị nguyên vật liệu
+A.  Quản lý kho hàng
+B. Dự báo nhu cầu
+C. Lập kế hoạch mua hàng
+D. Lập kế hoạch sản xuất
+63. Đâu là một trong các hoạt động của quy trình quản trị nguyên vật liệu?
+A. Mua hàng
+B. Tồn trữ thành phẩm
+C. Vận tải hàng hoá
+D. Cung cấp phụ tùng thay thế
+64. Hoạt động nào không thuộc nhóm quy trình quản trị kho hàng
+A. Dự báo nhu cầu
+B. Quản lý kho hàng
+C. Xếp dỡ nguyên vật liệu
+D. Tồn trữ thành phẩm
+65. Hoạt động nào không thuộc nhóm quy trình phân phối vật chất
+A. Lập kế hoạch mua hàng
+B. Thực hiện đơn hàng
+C. Phát triển sản phẩm mới
+D. Quản lý thông tin
+66. Đâu là một trong các hoạt động của quy trình phân phối vật chất?
+A. Thực hiện đơn hàng
+B. Mua hàng
+C. Lập kế hoạch sản xuất
+D. Xếp dỡ nguyên vật liệu
+67. Quy trình nào được xem là quan trọng với khách hàng và tối thiểu phải đạt tiêu chuẩn có thể chấp nhận để cạnh tranh một cách thích hợp trong một thị trường cho trước
+A. Các quy trình chuẩn
+B. Các quy trình cơ sở
+C. Các quy trình cạnh tranh
+D. Các quy trình phát triển
+68. Quy trình nào tuy không được coi là cần thiết đối với hoạt động kinh doanh nhưng là một điều kiện tiên quyết
+A. Các quy trình cơ sở
+B. Các quy trình chuẩn
+C. Các quy trình phát triển
+D. Các quy trình cạnh tranh
+69. Quy trình nào nếu áp dụng tốt sẽ mang lại tính cạnh tranh và đảm bảo rằng thông qua quá trình vận hàng logistics công ty sẽ đạt được tính chủ động và thành công
+A. Các quy trình cạnh tranh
+B. Các quy trình chuẩn
+C. Các quy trình phát triển
+D. Các quy trình cơ sở
+70. Chi phí logistics nào không thuộc các bộ phận chi phí logistics
+A. Chi phí logistics khác.
+B. Chi phí logistics riêng.
+C. Chi phí logistics bổ sung.
+D. Chi phí quản lý logistics.
+71. Chi phí logistics riêng là
+A. Mọi chi phí phát sinh trực tiếp từ việc thực hiện các nhiệm vụ logistics như: vận tải, xếp dỡ, tồn kho, dịch vụ khách hàng…
+B. Mọi chi phí phát sinh từ các hoạt động có liên quan đến nhiệm vụ logistics như: đóng gói, dán nhãn, xếp dỡ, kiểm tra chất lượng…
+C. Mọi chi phí liên quan đến dịch vụ như: lập kế hoạch logistics, kiểm soát chất lượng dịch vụ logistics…
+D. Mọi chi phí phát sinh trực tiếp từ việc thực hiện các nhiệm vụ logistics như: vận tải, xếp dỡ, tồn kho, đóng gói, dán nhãn, kiểm tra chất lượng, dịch vụ khách hàng…
+72. Chi phí logistics bổ sung là
+A. Chi phí phát sinh từ các nhiệm vụ hoạt động bổ sung có liên quan trực tiếp đến nhiệm vụ logistics như: đóng gói, dán nhãn, xếp dỡ, kiểm tra chất lượng…
+B. Chi phí phát sinh trực tiếp từ việc thực hiện các nhiệm vụ logistics như: vận tải, xếp dỡ, tồn kho, dịch vụ khách hàng…
+C. Chi phí liên quan đến dịch vụ như: lập kế hoạch logistics, kiểm soát chất lượng dịch vụ logistics…
+D. Mọi chi phí phát sinh trực tiếp từ việc thực hiện các nhiệm vụ logistics như: vận tải, xếp dỡ, tồn kho, đóng gói, dán nhãn, kiểm tra chất lượng, dịch vụ khách hàng…
+73. Chi phí quản lý logistics là
+A. Các chi phí liên quan đến các dịch vụ quản lý như: lập kế hoạch logistics, kiểm soát chất lượng dịch vụ logistics…
+B. Phát sinh trực tiếp từ việc thực hiện các nhiệm vụ logistics như: vận tải, xếp dỡ, tồn kho, dịch vụ khách hàng…
+C. Phát sinh từ các nhiệm vụ hoạt động bổ sung có liên quan trực tiếp đến nhiệm vụ logistics như: đóng gói, dán nhãn, xếp dỡ, kiểm tra chất lượng…
+D. Mọi chi phí phát sinh trực tiếp từ việc thực hiện các nhiệm vụ logistics như: vận tải, xếp dỡ, tồn kho, đóng gói, dán nhãn, kiểm tra chất lượng, dịch vụ khách hàng…
+74. Kiểm soát chất lượng dịch vụ logistics thuộc chi phí logistics nào
+A. Chi phí quản lý logistics
+B. Chi phí logistics bổ sung
+C. Chi phí logistics riêng
+D. Chi phí logistics dịch vụ
+75. Chi phí phát sinh trực tiếp từ nhiệm vụ logistics vận tải, xếp dỡ hàng hóa thuộc nhóm chi phí logistics nào
+A. Chi phí logistics riêng
+B. Chi phí logistics bổ sung
+C. Chi phí quản lý logistics
+D. Chi phí logistics dịch vụ
+76. Chi phí phát sinh trực tiếp từ nhiệm vụ logistics liên quan đến dịch vụ khách hàng hóa thuộc nhóm chi phí logistics nào
+A. Chi phí logistics riêng
+B. Chi phí logistics bổ sung
+C. Chi phí quản lý logistics
+D. Chi phí logistics dịch vụ
+77. Chi phí liên quan đến dịch vụ quản lý logistics như  lập kế hoạch logistics, kiểm soát chất lượng dịch vụ logistics thuộc nhóm chi phí logistics nào
+A. Chi phí logistics quản lý logistics
+B. Chi phí logistics riêng
+C. Chi phí bổ sung
+D. Chi phí logistics dịch vụ
+78. Chi phí nào sau đây không thuộc chi phí logistics
+A. Chi phí marketing.
+B. Chi phí vận tải.
+C. Chi phí lưu trữ hàng hóa.
+D. Chi phí kiểm tra chất lượng hàng hóa.
+79. Chi phí nào sau đây thuộc chi phí logistics
+A. Chi phí lập kế hoạch hoạt động logstics.
+B. Chi phí marketing.
+C. Chi phí nghiên cứu và phát triển sản phẩm.
+D. Chi phí mua hàng.
+80. Trong chi phí logistics thì loại chi phí nào có thể được coi là chi phí biến đổi
+A. Chi phí thuê phương tiện vận tải
+B. Chi phí thuê tài sản cố định
+C. Chi phí trữ hàng tổn kho thường xuyên
+D. Chi phí cho nguồn nhân lực cố định
+CHƯƠNG 3
+81. Tổ chức logistics có thể được hiểu là gì?
+A. Sơ đồ các mối quan hệ chức năng trong doanh nghiệp
+B. Một hệ thống quản lý tài chính
+C. Chiến lược marketing của doanh nghiệp
+D. Hệ thống kho bãi và vận chuyển hàng hóa
+82. Một trong những lợi ích của tổ chức logistics là gì?
+A. Tăng số lượng nhân viên trong doanh nghiệp
+B. Giải quyết mâu thuẫn giữa các phòng ban
+C. Giảm nhu cầu về quản trị logistics
+D. Hạn chế việc lập kế hoạch vận chuyển
+83. Trong quá trình phát triển của tổ chức logistics, giai đoạn 1(trước những năm 70) hoạt động tổ chức logistics chủ yếu tập trung vào điều gì?
+A. Tối ưu hóa công tác quản trị tài chính
+B. Đảm bảo tính phù hợp về mặt chi phí
+C. Tăng cường marketing và bán hàng
+D. Phát triển công nghệ vận tải
+84. Hình thức tổ chức không chính tắc có đặc điểm gì?
+A. Yêu cầu thay đổi toàn bộ cấu trúc tổ chức hiện tại
+B. Không đòi hỏi thay đổi cấu trúc tổ chức nhưng yêu cầu sự phối hợp giữa các hoạt động
+C. Chỉ áp dụng cho doanh nghiệp có quy mô lớn
+D. Không có tác động đến hoạt động logistics
+85. Hình thức tổ chức logistics bán chính tắc có đặc điểm gì?
+A. Các kế hoạch logistics tách biệt hoàn toàn với các chức năng khác
+B. Logistics luôn đan chéo với các chức năng khác trong doanh nghiệp
+C. Chỉ áp dụng cho doanh nghiệp nhỏ
+D. Yêu cầu thay đổi toàn bộ cấu trúc tổ chức
+86. Trong cấu trúc tổ chức logistics bán chính tắc, nhà quản trị logistics có trách nhiệm gì?
+A. Không có vai trò trong việc phối hợp logistics
+B. Quyết định mọi hoạt động trong doanh nghiệp
+C. Chỉ tập trung vào một lĩnh vực riêng biệt của logistics
+D.  Kiểm soát toàn bộ hệ thống logistics nhưng không có quyền lực trực tiếp đối với các hoạt động thành phần
+87. Hình thức tổ chức chính tắc trong logistics có đặc điểm gì?
+A. Không xác định quyền lực rõ ràng trong quản trị logistics
+B. Chỉ áp dụng cho doanh nghiệp vừa và nhỏ
+C.  Tạo ra các tuyến quyền lực và trách nhiệm rõ ràng đối với logistics
+D. Không liên quan đến các bộ phận khác trong doanh nghiệp
+88. Khi áp dụng hình thức tổ chức logistics không chính tắc, ngân sách trong doanh nghiệp có thể ảnh hưởng như thế nào đến sự hợp tác giữa các bộ phận?
+A. Luôn thúc đẩy sự hợp tác giữa các bộ phận
+B. Không ảnh hưởng đến sự hợp tác trong doanh nghiệp
+C. Đôi khi là cơ chế phối hợp không hiệu quả
+D. Luôn làm tăng hiệu quả quản trị logistics
+89. Việc điều chỉnh chi phí cho các hoạt động logistics trong hình thức tổ chức bán chính tắc được thực hiện như thế nào?
+A. Chỉ do nhà quản trị logistics quyết định
+B. Phải được điều chỉnh bởi mỗi bộ phận chức năng và chương trình logistics
+C. Không cần điều chỉnh vì chi phí logistics là cố định
+D. Do một nhóm độc lập bên ngoài doanh nghiệp kiểm soát
+90. Trong hình thức tổ chức chính tắc, vị trí của nhà quản trị logistics như thế nào?
+A. Bị phụ thuộc vào các bộ phận khác như tài chính và marketing
+B. Ở cấp thấp hơn so với các nhà quản trị khác
+C. Được bố trí vào vị trí cấp cao và có quyền lực ngang bằng với các nhà quản trị chức năng khác
+D. Chỉ tập trung vào vận hành kho bãi mà không liên quan đến các lĩnh vực khác
+91. Kiểm soát trong logistics là gì?
+A. Quá trình lập kế hoạch cho các hoạt động logistics
+B. So sánh kết quả hiện hữu với kế hoạch và điều chỉnh để phù hợp hơn
+C. Chỉ tập trung vào việc giảm chi phí vận chuyển
+D. Quản lý kho hàng mà không cần theo dõi kết quả hoạt động
+92. Trong mô hình kiểm soát logistics, quá trình có thể bao gồm những hoạt động nào?
+A. Chỉ bao gồm thực hiện đơn đặt hàng
+B. Tái cung ứng dự trữ và các hoạt động logistics khác
+C. Chỉ tập trung vào vận chuyển hàng hóa
+D. Có thể là họat động đơn lẻ hoặc có thể là sự kết hợp của toàn bộ các hoạt động trong chức năng logistics.
+93. Kết quả (đầu ra) của quá trình logistics có thể đo lường bằng yếu tố nào?
+A. Chỉ dựa vào doanh thu bán hàng
+B. Chi phí trực tiếp như cước phí vận chuyển … chi phí gián tiếp như hao hụt và tổn thất do tai họa, hoặc kết quả cung ứng.
+C. Không cần đo lường kết quả vì logistics không cần kiểm soát
+D. Số lượng nhân viên logistics trong doanh nghiệp
+94. Trong hệ thống kiểm soát logistics, ai là người thực hiện kiểm tra kết quả?
+A. Chỉ có giám đốc điều hành
+B. Các nhà quản trị, cố vấn hoặc hệ thống máy tính
+C. Nhân viên kho hàng
+D. Không có ai thực hiện kiểm tra
+95. Thông tin dùng để kiểm tra trong hệ thống kiểm soát logistics có thể lấy từ đâu?
+A. Chỉ từ báo cáo tài chính
+B. Báo cáo tồn kho, tình trạng sử dụng nguồn lực, chi phí hoạt động, mức dịch vụ khách hàng
+C. Không cần thông tin vì logistics không cần kiểm soát
+D. Chỉ dựa vào cảm nhận của khách hàng
+96. Quyết định nào dưới đây thuộc nhóm quyết định chiến lược?
+A. Lập kế hoạch sản xuất hàng tháng
+B. Lựa chọn phương thức vận tải cho một đơn hàng cụ thể
+C. Quyết định gửi hàng trong ngày
+D. Xác định vị trí đặt nhà máy và nhà kho
+97. Benchmarking trong logistics là gì?
+A. So sánh hiệu quả hoạt động của hệ thống logistics với thực tiễn tốt nhất
+B. Xây dựng mô hình tối ưu hóa tuyến đường
+C. Dự báo nhu cầu khách hàng
+D. Kiểm soát chất lượng sản phẩm
+98. Công cụ nào giúp đánh giá tác động của các quyết định logistics trong những điều kiện khác nhau trước khi thực hiện đầu tư thực tế?
+A. Tối ưu hóa
+B. Phương pháp mô phỏng
+C. Phương pháp Delphi
+D. Benchmarking
+99. Dự báo trong logistics được chia thành mấy loại chính?
+A. 2
+B. 5
+C. 4
+D. 3
+100. Các nhà logistics thường thực hiện dự báo nhu cầu trong khoảng thời gian nào?
+A. Dài hạn
+B. Trung hạn
+C. Ngắn hạn
+D. Cả ba loại
+101. Việc thiết lập cấu trúc tổ chức logistics giúp ?
+A. Tăng cường hiệu quả công tác quản trị
+B. Tăng chi phí vận hành doanh nghiệp
+C. Giảm nhu cầu lập kế hoạch logistics
+D. Giảm mức dịch vụ khách hàng
+102. Trong quá trình phát triển của tổ chức logistics, giai đoạn 2 hoạt động logistics chủ yếu tập trung vào điều gì?
+A. Chỉ tập trung vào cung ứng vật chất hoặc phân phối vật chất, nhưng không phải cả hai cung ứng và phân phối vật chất.
+B. Tích hợp đầy đủ cả cung ứng và phân phối
+C. Loại bỏ hoạt động logistics khỏi doanh nghiệp
+D. Đẩy mạnh marketing thay vì logistics
+103. Trong quá trình phát triển của tổ chức logistics, giai đoạn 3  có sự khác biệt quan trọng nhất so với các giai đoạn trước là gì?
+A. Cấu trúc tổ chức logistics bị loại bỏ khỏi doanh nghiệp
+B. Hoạt động logistics được tích hợp hoàn toàn vào cấu trúc tổ chức
+C. Các hoạt động logistics bị cắt giảm do chi phí cao
+D. Chỉ tập trung vào khâu phân phối sản phẩm
+104. Một trong những lợi ích của cấu trúc tổ chức logistics chính tắc là gì?
+A. Giảm quyền lực của nhà quản trị logistics
+B. Hạn chế sự phối hợp giữa các bộ phận trong doanh nghiệp
+C. Tăng cường sự phối hợp hoạt động giữa logistics và các bộ phận chức năng khác
+D. Giảm khả năng chuyên môn hóa trong quản trị logistics
+105. Hình thức tổ chức logistics chính tắc giúp đạt được điều gì?
+A. Trở thành một bộ phận phụ thuộc vào tài chính và marketing
+B. Nâng cao vị trí của logistics ngang tầm với các lĩnh vực chức năng khác
+C. Giảm tầm quan trọng của logistics trong doanh nghiệp
+D. Loại bỏ hoàn toàn sự cần thiết của quản trị logistics
+106. Trong các chiến lược ảnh hưởng đến định hướng tổ chức logistics. Mục tiêu chính của chiến lược quá trình trong logistics là gì?
+A. Tối đa hóa hiệu quả luồng lưu chuyển hàng hóa từ mua hàng đến cung ứng cho khách hàng
+B. Tập trung hoàn toàn vào dịch vụ khách hàng mà không quan tâm đến chi phí
+C. Chỉ quản lý hoạt động vận chuyển mà không tích hợp mua hàng và tồn trữ
+D. Giảm thiểu sự phối hợp giữa các bộ phận logistics
+107. Trong các chiến lược ảnh hưởng đến định hướng tổ chức logistics. Chiến lược quá trình thường phù hợp với loại hình doanh nghiệp nào?
+A. Doanh nghiệp nhỏ, ít hoạt động logistics
+B. Công ty sản xuất hoặc bán buôn có quy mô lớn
+C. Doanh nghiệp chỉ tập trung vào dịch vụ khách hàng
+D. Công ty chuyên về công nghệ thông tin
+108. Trong các chiến lược ảnh hưởng đến định hướng tổ chức logistics. Điểm đặc trưng của chiến lược thị trường là gì?
+A. Tích hợp hoạt động bán hàng và logistics để tập trung vào dịch vụ khách hàng
+B. Tập trung hoàn toàn vào tối ưu hóa chi phí logistics
+C. Chỉ chú trọng đến tồn kho mà không quan tâm đến khách hàng
+D. Không có sự kết hợp giữa bán hàng và logistics
+109. Trong các chiến lược ảnh hưởng đến định hướng tổ chức logistics. Nhược điểm lớn nhất của chiến lược thị trường là gì?
+A. Không thể kết hợp dịch vụ khách hàng với logistics
+B. Khó đạt được chi phí logistics ở mức thấp nhất
+C. Giảm chất lượng dịch vụ khách hàng
+D. Không thể áp dụng cho doanh nghiệp bán lẻ
+110. Trong các chiến lược ảnh hưởng đến định hướng tổ chức logistics. Chiến lược thông tin phù hợp với doanh nghiệp có đặc điểm nào?
+A. Chỉ tập trung vào sản xuất, không quan tâm đến logistics
+B. Không cần quan tâm đến dữ liệu và thông tin
+C.  Có mạng lưới phân phối lớn với mức tồn kho cao
+D. Không cần tích hợp các bộ phận và đơn vị kinh doanh
+111. Kiểm soát logistics yêu cầu phải có tiêu chuẩn nào để so sánh với kết quả hoạt động?
+A. Chỉ cần đánh giá chung chung mà không có tiêu chuẩn cụ thể
+B. Chỉ cần dựa vào mức tồn kho của doanh nghiệp
+C. Các tiêu chuẩn như ngân sách chi tiêu, mức dịch vụ khách hàng, lợi nhuận
+D. Không có tiêu chuẩn nào để so sánh kết quả hoạt động
+112. Quyết định chiến lược trong logistics thường có đặc điểm nào?
+A. Có thời gian thực hiện ngắn, chỉ kéo dài trong vài ngày hoặc vài tuần
+B. Là các quyết định dài hạn, liên quan đến thiết kế hệ thống logistics và phân bổ nguồn lực
+C. Chỉ tập trung vào việc lựa chọn phương thức vận tải
+D. Được thực hiện hàng ngày bởi các giám sát viên
+113. Điểm khác biệt chính giữa quyết định chiến thuật và chiến lược là gì?
+A. Quyết định chiến thuật có phạm vi dài hạn hơn so với quyết định chiến lược
+B. Quyết định chiến thuật liên quan đến việc lập kế hoạch trung hạn như vận tải, phân phối
+C. Quyết định chiến thuật chỉ áp dụng trong ngành dịch vụ, không dùng trong logistics
+D. Quyết định chiến thuật chủ yếu do giám sát viên đưa ra hàng ngày
+114. Quyết định nào sau đây là một quyết định chiến thuật?
+A. Xây dựng kế hoạch vận tải hàng quý
+B. Xác định vị trí đặt nhà máy trong hệ thống logistics
+C. Quyết định mở thêm một kho hàng mới trong vòng 5 năm
+D. Chọn phương thức đóng gói cho một đơn hàng cụ thể
+115. Quyết định vận hành trong logistics có đặc điểm gì?
+A. Được thực hiện trên cơ sở dài hạn (nhiều năm)
+B. Liên quan đến hoạt động hàng ngày hoặc hàng tuần như sắp xếp và vận chuyển hàng
+C. Không ảnh hưởng trực tiếp đến quy trình logistics
+D. Do các nhà quản lý cấp cao đưa ra
+116. Một ví dụ về quyết định vận hành là gì?
+A. Xác định chiến lược gom hàng trong hệ thống phân phối
+B. Lựa chọn vị trí xây dựng nhà máy mới
+C. Quyết định về việc gửi hàng và sắp xếp phương tiện vận chuyển trong ngày
+D. Thiết kế lại toàn bộ mạng lưới logistics của công ty
+117. Một kế hoạch logistics chiến lược phù hợp cần có yếu tố nào?
+A. Chỉ tập trung vào việc cắt giảm chi phí
+B. Không cần đánh giá các nguồn lực cần thiết
+C. Chỉ cần lập kế hoạch vận chuyển hàng ngày
+D.  Cái nhìn tổng quan về chiến lược logistics và mối liên hệ với các chức năng khác
+118. Cấu trúc tổ chức truyền thống trong logistics có đặc điểm nổi bật nào sau đây?
+A. Hướng đến khách hàng và linh hoạt cao
+B. Tập trung vào dòng sản phẩm và quản lý chu trình
+C. Mang tính chức năng và hướng nội
+D. Do một người quản lý logistics phụ trách toàn bộ chuỗi
+119. Điểm khác biệt chính của quản lý theo ma trận (Matrix management) so với cấu trúc truyền thống là gì?
+A. Không có người chịu trách nhiệm chính
+B. Tập trung vào lập kế hoạch và vận hành sản phẩm, kết hợp với các chức năng truyền thống
+C. Chỉ áp dụng cho doanh nghiệp sản xuất nhỏ
+D. Mỗi sản phẩm được giao cho một phòng ban cố định xử lý
+120. Tại sao việc lập kế hoạch logistics lại quan trọng?
+A. Giúp thực hiện chiến lược logistics bằng cách chuyển thành mục tiêu chiến thuật và hoạt động vận hành
+B. Chỉ để theo dõi chi phí vận hành kho
+C. Chỉ áp dụng cho các công ty sản xuất lớn, không dành cho doanh nghiệp nhỏ
+D. Chỉ để đối phó với các vấn đề tạm thời trong chuỗi cung ứng
+CHƯƠNG 4
+121. Theo Hội đồng chuỗi cung ứng (1997), thuật ngữ "Chuỗi cung ứng" bao gồm những nỗ lực nào?
+A. Chỉ liên quan đến sản xuất sản phẩm
+B. Bao gồm mọi nỗ lực liên quan đến sản xuất và giao sản phẩm cuối cùng
+C. Chỉ liên quan đến vận chuyển hàng hóa
+D. Chỉ bao gồm việc cung ứng nguyên vật liệu thô
+122. Những quá trình cơ bản của chuỗi cung ứng theo Hội đồng chuỗi cung ứng (1997) là gì?
+A. Lập kế hoạch, tìm nguồn cung cấp, sản xuất, giao hàng
+B. Mua hàng, kiểm kê tồn kho, vận chuyển, bán hàng
+C. Tiếp nhận đơn hàng, đóng gói, phân phối, giao nhận
+D. Quản lý đơn hàng, nhập kho, xuất kho, giao hàng
+123. Theo nhóm tác giả Monczka, chuỗi cung ứng bao gồm những yếu tố nào?
+A. Chỉ tập trung vào sản xuất hàng hóa
+B. Chỉ bao gồm luồng nguyên vật liệu từ nhà cung cấp đến khách hàng cuối cùng
+C. Bao gồm tất cả các hoạt động liên quan đến luồng lưu chuyển và biến đổi hàng hóa từ khai thác nguyên liệu đến người tiêu dùng cuối cùng
+D. Chỉ liên quan đến vận chuyển và phân phối sản phẩm
+124. Theo nhóm tác giả Monczka, trong chuỗi cung ứng, luồng thông tin và nguyên vật liệu lưu chuyển theo hướng nào?
+A. Chỉ theo chiều xuôi từ nhà cung cấp đến khách hàng
+B. Chỉ theo chiều ngược từ khách hàng đến nhà sản xuất
+C. Lưu chuyển cả xuôi và ngược dọc theo chuỗi cung ứng
+D. Không có sự lưu chuyển giữa các đối tác trong chuỗi cung ứng
+125. Thuật ngữ nào tương đương với "Chuỗi cung ứng"?
+A. Chuỗi vận chuyển
+B. Chuỗi giá trị
+C. Chuỗi sản xuất
+D. Chuỗi phân phối
+126. Chuỗi giá trị nhấn mạnh điều gì?
+A. Chỉ tập trung vào sản xuất sản phẩm
+B. Dòng chảy của sản phẩm và giá trị mà các đối tác phải cung cấp cho chính họ và khách hàng
+C. Chỉ tập trung vào việc quản lý tồn kho
+D. Chỉ quan tâm đến khách hàng cuối cùng
+127. Nhà sản xuất nguyên vật liệu thô trong chuỗi cung ứng bao gồm tổ chức nào sau đây?
+A. Nhà máy sản xuất ô tô
+B. Công ty khai thác khoáng sản
+C. Siêu thị bán lẻ
+D. Trung tâm phân phối sản phẩm điện tử
+128. Chức năng chính của nhà phân phối trong chuỗi cung ứng là gì?
+A. Sản xuất sản phẩm từ nguyên vật liệu thô
+B. Lưu trữ lượng lớn hàng tồn kho từ nhà sản xuất và bán lại cho các cơ sở kinh doanh khác
+C. Chỉ bán sản phẩm trực tiếp cho khách hàng cuối cùng
+D. Sử dụng sản phẩm để kết hợp với các sản phẩm khác
+129. Nhà phân phối trong chuỗi cung ứng còn được gọi là gì?
+A. Nhà sản xuất
+B. Nhà bán lẻ
+C. Nhà bán sỉ (wholesalers)
+D. Người tiêu dùng cuối cùng
+130. Khách hàng trong chuỗi cung ứng có thể là ai?
+A. Cá nhân mua và tiêu dùng sản phẩm
+B. Doanh nghiệp mua sản phẩm để kết hợp với các sản phẩm khác và bán lại
+C. Cả A và B
+D. Chỉ có cá nhân, không bao gồm doanh nghiệp
+131. Thành phần nào trong chuỗi cung ứng liên quan đến việc quyết định phương thức vận chuyển hàng hóa?
+A. Định vị
+B. Tồn kho
+C. Vận chuyển
+D. Sản xuất
+132. Thành phần nào sau đây trong chuỗi cung ứng liên quan đến việc quyết định sản xuất sản phẩm nào, số lượng bao nhiêu và khi nào nên sản xuất?
+A. Vận chuyển
+B. Tồn kho
+C. Sản xuất
+D. Thông tin
+133. Hoạt động sản xuất trong chuỗi cung ứng bao gồm yếu tố nào sau đây?
+A. Lập kế hoạch sản xuất tổng thể
+B. Quản lý chất lượng
+C. Bảo dưỡng trang thiết bị
+D. Tất cả các đáp án trên
+134. Mục tiêu chính của liên kết dọc trong chuỗi cung ứng là gì?
+A. Tăng số lượng nhà cung cấp trung gian
+B. Tối đa hóa hiệu quả dựa vào tính kinh tế theo quy mô
+C. Rút ngắn vòng đời sản phẩm
+D. Mở rộng thị trường tiêu dùng
+135. Chuỗi cung ứng tinh giản (Lean Supply Chain) có nguồn gốc từ đâu?
+A. Hệ thống sản xuất Toyota (TPS)
+B. Chuỗi cung ứng linh hoạt
+C. Mô hình Just-In-Time (JIT)
+D. Quản lý chất lượng toàn diện (TQM)
+136. Trong chuỗi cung ứng tinh giản, "mô hình kéo" (Pull System) có ý nghĩa gì?
+A. Sản xuất theo kế hoạch định trước, không phụ thuộc vào nhu cầu khách hàng
+B. Sản xuất và cung ứng dựa trên nhu cầu thực tế của khách hàng
+C. Tăng sản lượng sản xuất để giảm giá thành sản phẩm
+D. Tạo ra hàng tồn kho lớn để đảm bảo có đủ hàng hóa
+137. Điểm phân tách (Decoupling Point) trong chuỗi cung ứng nhanh nhạy là gì?
+A. Điểm mà hàng tồn kho chiến lược được giữ lại để đảm bảo nguồn cung
+B. Điểm mà nhu cầu thực tế thâm nhập vào phía trên chuỗi cung ứng
+C. Vị trí trong chuỗi cung ứng nơi sản phẩm hoàn chỉnh được lưu kho
+D. Điểm mà nhà cung cấp và khách hàng trao đổi đơn hàng với nhau
+138. Đặc điểm chính của chuỗi cung ứng nhanh nhạy là gì?
+A. Chỉ tập trung vào giảm chi phí nguyên vật liệu
+B. Nhạy cảm với thị trường, chuỗi cung ứng ảo, tích hợp quy trình và mạng lưới hợp tác
+C. Luôn duy trì mức tồn kho lớn để đảm bảo nguồn cung
+D. Chỉ áp dụng trong các doanh nghiệp sản xuất quy mô lớn
+139. Kết nối cuối cùng "Postponement" trong chuỗi cung ứng nhanh nhạy có nghĩa là gì?
+A. Dự trữ lượng lớn hàng tồn kho để tránh rủi ro thiếu hàng
+B. Thiết kế sản phẩm với phần khung chung, chỉ hoàn thiện khi có yêu cầu cụ thể từ khách hàng
+C. Sản xuất hàng loạt để tiết kiệm chi phí sản xuất
+D. Đẩy mạnh sản xuất trước khi có đơn hàng để rút ngắn thời gian giao hàng
+140. Chuỗi cung ứng "tinh nhạy" (Leagile Supply Chain) là gì?
+A. Chiến lược kết hợp cả chuỗi cung ứng tinh giản và nhanh nhạy để đạt hiệu quả cao
+B. Một thuật ngữ khác của chuỗi cung ứng tinh giản
+C. Mô hình chỉ áp dụng cho các doanh nghiệp bán lẻ
+D. Chuỗi cung ứng không sử dụng công nghệ thông tin để quản lý dữ liệu
+141. Nhà bán lẻ có chức năng gì trong chuỗi cung ứng?
+A. Lưu trữ hàng tồn kho và bán hàng trực tiếp cho khách hàng cuối cùng
+B. Cung cấp nguyên vật liệu thô cho nhà sản xuất
+C. Phân phối sản phẩm đến các đại lý bán buôn
+D. Chỉ sản xuất sản phẩm và không tham gia bán hàng
+142. Yếu tố nào giúp nhà bán lẻ trong chuỗi cung ứng thu hút khách hàng?
+A. Giá cả, lựa chọn sản phẩm, dịch vụ và các tiện ích
+B. Chỉ tập trung vào dịch vụ trước khi bán hàng
+C. Bán sản phẩm với giá cao hơn thị trường
+D. Không quan tâm đến nhu cầu và sở thích của khách hàng
+143. Nhà cung cấp dịch vụ có vai trò gì trong chuỗi cung ứng?
+A. Cung cấp dịch vụ cho các tổ chức trong chuỗi cung ứng như nhà sản xuất, nhà phân phối, nhà bán lẻ và khách hàng
+B. Chỉ cung cấp dịch vụ cho khách hàng cuối cùng
+C. Không tham gia vào chuỗi cung ứng
+D. Chỉ tập trung vào việc sản xuất sản phẩm
+144. Trong chuỗi cung ứng, tồn kho bao gồm những yếu tố nào?
+A. Loại hàng tồn kho tại mỗi khâu trong chuỗi cung ứng
+B. Số lượng nguyên vật liệu thô cần tồn kho
+C. Số lượng bán thành phẩm và thành phẩm cần lưu trữ
+D. Tất cả các đáp án trên
+145. Thành phần nào trong chuỗi cung ứng liên quan đến việc xác định vị trí đặt nhà máy sản xuất và kho hàng?
+A. Định vị
+B. Vận chuyển
+C. Thông tin
+D. Tồn kho
+146. Yếu tố nào ảnh hưởng đến quyết định định vị trong chuỗi cung ứng?
+A. Hiệu quả về mặt chi phí của địa điểm sản xuất và lưu trữ hàng hóa
+B. Việc xây dựng cơ sở vật chất mới hay sử dụng trang thiết bị hiện có
+C. Con đường lưu chuyển sản phẩm đến khách hàng
+D. Tất cả các đáp án trên
+147. Thông tin có vai trò gì trong chuỗi cung ứng?
+A. Hỗ trợ đưa ra quyết định hiệu quả về sản xuất, tồn kho và vận chuyển
+B. Không ảnh hưởng đến hoạt động chuỗi cung ứng
+C. Chỉ cần thiết đối với nhà sản xuất
+D. Chỉ quan trọng trong giai đoạn vận chuyển
+148. Một hệ thống thông tin tốt giúp cải thiện điều gì trong chuỗi cung ứng?
+A. Hợp tác giữa các bên tốt hơn
+B. Các quyết định chính xác hơn
+C. Hiệu quả trong sản xuất và vận chuyển
+D. Tất cả các đáp án trên
+149. Mục tiêu chính của sản xuất tinh giản trong chuỗi cung ứng là gì?
+A. Tăng lượng hàng tồn kho để đảm bảo cung ứng
+B. Loại bỏ lãng phí và các hoạt động không tạo giá trị
+C. Mở rộng quy mô sản xuất càng lớn càng tốt
+D. Duy trì tồn kho lớn để đối phó với biến động thị trường
+150. Trong nguyên tắc của chuỗi cung ứng tinh giản, “giá trị” được xác định như thế nào?
+A. Do nhà sản xuất quyết định
+B. Dựa trên mong muốn của khách hàng
+C. Theo tiêu chuẩn ngành công nghiệp
+D. Do chính phủ quy định
+151. Phương pháp JIT trong chuỗi cung ứng tinh giản giúp đạt được mục tiêu nào?
+A. Dự trữ lượng hàng tồn kho lớn
+B. Giảm thời gian sản xuất và giao hàng
+C. Tăng số lượng sản phẩm lỗi để kiểm tra chất lượng
+D. Sản xuất nhiều hàng hóa trước khi có nhu cầu
+152. Chuỗi cung ứng nhanh nhạy khác với chuỗi cung ứng tinh giản ở điểm nào?
+A. Nhanh nhạy tập trung vào linh hoạt và đáp ứng nhanh chóng, trong khi tinh giản tập trung vào loại bỏ lãng phí
+B. Nhanh nhạy chỉ áp dụng trong sản xuất, còn tinh giản áp dụng cho toàn bộ doanh nghiệp
+C. Tinh giản yêu cầu nhiều hàng tồn kho hơn để giảm thiểu rủi ro, trong khi nhanh nhạy giảm tồn kho đến mức tối thiểu
+D. Chuỗi cung ứng nhanh nhạy không sử dụng công nghệ thông tin để quản lý dữ liệu
+153. Mô hình Kanban trong chuỗi cung ứng nhanh nhạy có mục đích gì?
+A. Quản lý bổ sung liên tục, tức là khi một sản phẩm được bán ra hoặc sử dụng thì sản phẩm đó sẽ được thay thế ngay lập tức
+B. Giảm thiểu lượng sản phẩm sản xuất để tối ưu hóa chi phí
+C. Giữ mức tồn kho cao để đảm bảo luôn có hàng hóa sẵn sàng
+D. Hạn chế giao tiếp giữa các nhà cung cấp để giảm thiểu thông tin dư thừa
+154. Một trong những lợi ích chính của tích hợp quy trình trong chuỗi cung ứng nhanh nhạy là gì?
+A. Giảm thiểu việc chia sẻ thông tin để bảo mật dữ liệu
+B. Cải thiện khả năng phản ứng nhanh với biến động thị trường nhờ vào sự hợp tác chặt chẽ giữa các đối tác
+C. Tăng mức tồn kho để tránh tình trạng thiếu hụt hàng hóa
+D. Giảm thiểu sự phụ thuộc giữa các doanh nghiệp trong chuỗi cung ứng
+155. Chuỗi cung ứng nhanh nhạy hoạt động như thế nào để tăng cường sự hợp tác giữa các đối tác?
+A. Giữ bí mật về thông tin sản xuất và tồn kho giữa các bên để đảm bảo lợi thế cạnh tranh
+B. Xây dựng hệ thống chia sẻ thông tin và dữ liệu giữa nhà cung cấp, nhà sản xuất và khách hàng
+C. Chỉ tập trung vào sản xuất theo lô lớn để giảm chi phí trên mỗi đơn vị sản phẩm
+D. Giảm số lượng nhà cung cấp để đơn giản hóa quy trình sản xuất
+156. Mạng lưới (network) trong chuỗi cung ứng nhanh nhạy đóng vai trò gì?
+A. Giúp các đối tác trong chuỗi cung ứng hoạt động riêng lẻ, không cần liên kết với nhau
+B. Tạo ra sự liên kết giữa các doanh nghiệp trong chuỗi cung ứng, giúp tăng khả năng phản ứng nhanh trước biến động thị trường
+C. Chỉ tập trung vào việc cắt giảm chi phí sản xuất mà không quan tâm đến nhu cầu khách hàng
+D. Hạn chế sự hợp tác giữa các doanh nghiệp để tránh rủi ro cạnh tranh
+157. Tại sao tích hợp quy trình (process intergration) lại quan trọng trong chuỗi cung ứng nhanh nhạy?
+A. Giúp các công ty hoạt động độc lập, không bị ảnh hưởng bởi các đối tác khác
+B. Hỗ trợ việc ra quyết định nhanh hơn nhờ vào chia sẻ thông tin và hợp tác chặt chẽ giữa các bên trong chuỗi cung ứng
+C. Làm giảm tính linh hoạt của doanh nghiệp khi phải phụ thuộc vào đối tác khác
+D. Chỉ giúp tiết kiệm chi phí mà không ảnh hưởng đến khả năng đáp ứng nhu cầu thị trường
+158. Để đảm bảo các dự báo nhất quán và phân bổ nguồn lực tối ưu, doanh nghiệp cần tuân theo nguyên tắc nào?
+A. Phát triển chiến lược ứng dụng công nghệ
+B. Lắng nghe tín hiệu thị trường và lên kế hoạch nhu cầu tương ứng
+C. Áp dụng các chỉ tiêu đánh giá hiệu quả hoạt động
+D. Giảm tổng chi phí nguyên vật liệu
+160. Doanh nghiệp nên quản lý nguồn cung một cách chiến lược nhằm mục đích gì?
+A. Giảm tổng chi phí nguyên vật liệu và dịch vụ
+B. Tối đa hóa sản xuất mà không quan tâm đến nhu cầu thị trường
+C. Giữ mức tồn kho cao để tránh thiếu hụt nguồn cung
+D. Giảm số lượng nhà cung cấp để tối ưu hóa chuỗi cung ứng
+CHƯƠNG 5
+161. Mức độ hài lòng của khách hàng là một trong các chỉ số thuộc về:
+A. Hệ thống đo lường tài chính doanh nghiệp
+B. Hệ thống đo lường dịch vụ khách hàng
+C. Hệ thống đánh giá nhân sự
+D. Hệ thống phân tích thị phần
+162. Tại sao hệ thống đo lường dịch vụ khách hàng lại quan trọng với doanh nghiệp?
+A. Vì giúp doanh nghiệp tuyển dụng nhân sự hiệu quả hơn
+B. Vì phản ánh tốc độ đổi mới công nghệ
+C. Vì ảnh hưởng đến trải nghiệm và lòng trung thành của khách hàng
+D. Vì đảm bảo việc tính thuế được chính xác
+163. Hệ thống đo lường hiệu suất hoạt động nội bộ bao gồm chỉ số nào sau đây?
+A. Mức độ hài lòng của khách hàng
+B. Hiệu quả sản xuất
+C. Tỷ lệ chuyển đổi trong marketing
+D. Thị phần của doanh nghiệp
+164. Chỉ số nào dưới đây không thuộc hệ thống đo lường hiệu suất hoạt động nội bộ?
+A. Chu kỳ sản xuất
+B. Mức tồn kho
+C. Chi phí vận hành
+D. Doanh thu bán hàng
+165. Chu kỳ sản xuất là một chỉ số thuộc nhóm nào dưới đây?
+A. Đo lường mức độ trung thành khách hàng
+B. Hiệu suất hoạt động nội bộ
+C. Đánh giá hiệu quả quảng cáo
+D. Quản trị tài chính
+166. Tại sao doanh nghiệp cần theo dõi các chỉ số như chi phí vận hành và mức tồn kho?
+A. Để kiểm soát ngân sách marketing
+B. Để phát triển sản phẩm mới
+C. Để đánh giá và cải thiện hiệu suất quy trình nội bộ
+D. Để tăng mức lương nhân viên
+167. Phương pháp nào dưới đây không phải là cách đo lường khả năng phản ứng linh hoạt?
+A. Điều chỉnh kế hoạch sản xuất
+B. Tăng tốc phát triển sản phẩm mới
+C. Thay đổi phương thức phân phối
+D. Tăng chi phí quảng cáo
+168. Khi có sự kiện bất ngờ tác động đến nhu cầu thị trường, hệ thống đo lường khả năng phản ứng linh hoạt trước biến động của nhu cầu giúp doanh nghiệp làm gì?
+A. Định giá sản phẩm mới
+B. Đo lường phản ứng thị trường để ra quyết định phù hợp
+C. Giảm chi phí vận chuyển
+D. Tăng số lượng nhân viên trong kho
+169. Trong các cách sau, cách nào thể hiện sự linh hoạt của chuỗi cung ứng trước biến động nhu cầu?
+A. Giảm chi phí nguyên vật liệu
+B. Thay đổi kế hoạch sản xuất kịp thời
+C. Tăng số lượng đại lý bán hàng
+D. Tổ chức đào tạo nhân viên mới
+170. Chỉ số nào dưới đây không thuộc hệ thống đo lường khả năng phát triển sản phẩm?
+A. Chi phí phát triển sản phẩm
+B. Tỷ lệ thành công của sản phẩm mới
+C. Thời gian giao hàng cho khách hàng
+D. Tốc độ ra mắt sản phẩm mới
+171. Mục đích chính của hệ thống đo lường khả năng phát triển sản phẩm là gì?
+A. Đánh giá năng lực đổi mới và phát triển bền vững của doanh nghiệp
+B. Tăng số lượng sản phẩm tồn kho
+C. Giảm chi phí marketing
+D. Đánh giá hiệu quả vận hành kho bãi
+172. Mức độ thành công của sản phẩm mới giúp doanh nghiệp đánh giá điều gì?
+A. Khả năng tối ưu hóa chi phí sản xuất
+B. Năng lực đổi mới và phát triển bền vững
+C. Tỷ lệ nhân viên nghỉ việc
+D. Số lượng khách hàng trung thành
+173. Chi phí phát triển sản phẩm là một chỉ số quan trọng để đo lường:
+A. Hiệu quả vận chuyển hàng hóa
+B. Khả năng đổi mới của doanh nghiệp
+C. Tốc độ xử lý đơn hàng
+D. Mức độ hài lòng của khách hàng
+174. Ba cấp độ chi tiết của hệ thống dữ liệu trong doanh nghiệp bao gồm những loại dữ liệu nào?
+A. Dữ liệu tài chính, dữ liệu nhân sự, dữ liệu khách hàng
+B. Dữ liệu vận hành, dữ liệu chiến lược, dữ liệu phân tích
+C. Dữ liệu sản xuất, dữ liệu marketing, dữ liệu kế toán
+D. Dữ liệu kho, dữ liệu bán hàng, dữ liệu bảo trì
+175. Mỗi cấp độ dữ liệu trong doanh nghiệp được thiết kế nhằm phục vụ cho:
+A. Các mục tiêu quản trị khác nhau
+B. Một mục tiêu duy nhất là tăng doanh thu
+C. Việc đào tạo nhân viên mới
+D. Tăng cường truyền thông nội bộ
+176. Kho dữ liệu (data warehouse) có chức năng chính là gì?
+A. Lưu trữ thông tin khách hàng để phục vụ marketing
+B. Tập hợp dữ liệu từ nhiều nguồn để phục vụ phân tích và ra quyết định
+C. Quản lý nhân sự và tiền lương trong doanh nghiệp
+D. Theo dõi các giao dịch tài chính hàng ngày
+177. Kho dữ liệu giúp doanh nghiệp tăng cường khả năng chính là gì?
+A. Quản lý đội ngũ nhân viên
+B. Tổng hợp và truy xuất dữ liệu nhanh chóng, hiệu quả
+C. Tăng doanh số bán hàng trực tiếp
+D. Giảm chi phí sản xuất
+178. Kho dữ liệu được tạo ra bằng cách:
+A. Thu thập dữ liệu từ một nguồn duy nhất
+B. Tập hợp dữ liệu từ nhiều nguồn khác nhau
+C. Lưu trữ dữ liệu nhân sự
+D. Phân tích dữ liệu marketing
+179. Khám phá cơ hội thị trường tiềm năng giúp doanh nghiệp:
+A. Mở rộng kinh doanh và nâng cao hiệu quả
+B. Tăng thời gian giao hàng
+C. Giảm chất lượng sản phẩm
+D. Giảm số lượng nhà cung cấp
+180. Thông tin kế hoạch sản xuất trong chuỗi cung ứng thường được sử dụng với mục đích:
+A. Lập kế hoạch sản xuất và điều phối nguồn lực
+B. Tuyển dụng nhân viên mới
+C. Quảng cáo sản phẩm mới
+D. Theo dõi chi phí nhân sự
+181. Mô hình tương quan thị trường - chuỗi cung ứng có vai trò gì?
+A. Giúp xây dựng chiến lược marketing hiệu quả hơn
+B. Giúp tăng doanh số bán hàng trong ngắn hạn
+C. Giúp xác định cách thức chuỗi cung ứng phản ứng với những thay đổi trong môi trường thị trường
+D. Giúp giảm giá thành sản phẩm xuống mức thấp nhất
+182. Mục tiêu chính của mô hình tương quan thị trường - chuỗi cung ứng là gì?
+A. Dự đoán mức độ tiêu thụ sản phẩm theo quý
+B. Phân tích chi phí vận hành kho bãi
+C. Đo lường hiệu quả sản xuất theo ca làm việc
+D. Hiểu và dự báo phản ứng của chuỗi cung ứng trước biến động thị trường
+183. Mô hình tương quan thị trường - chuỗi cung ứng hỗ trợ doanh nghiệp như thế nào?
+A. Xác định nhu cầu đầu tư vào hệ thống ERP
+B. Định hướng cho việc lựa chọn nhà cung cấp
+C. Đưa ra phản ứng phù hợp của chuỗi cung ứng khi thị trường thay đổi
+D. Thiết lập mức lương cho nhân viên chuỗi cung ứng
+184. Vì sao mô hình tương quan thị trường - chuỗi cung ứng lại quan trọng trong quản trị chuỗi cung ứng?
+A. Giúp giảm thời gian giao hàng cho khách hàng
+B. Giúp chuỗi cung ứng thích nghi với các thay đổi trong thị trường một cách hiệu quả hơn
+C. Giúp tăng số lượng sản phẩm xuất khẩu
+D. Giúp giảm lượng nhân sự cần thiết trong vận hành
+185. Một điểm đặc trưng của thị trường thời trang nhanh là gì?
+A.Ít thay đổi theo mùa
+B. Thay đổi liên tục theo xu hướng
+C. Nhu cầu ổn định
+D. Không cần dữ liệu thị trường
+186. Hệ thống đo lường dịch vụ khách hàng chủ yếu tập trung vào yếu tố nào sau đây?
+A. Chi phí sản xuất sản phẩm
+B. Mức độ tăng trưởng thị phần
+C. Các chỉ số như thời gian giao hàng và khả năng đáp ứng đơn hàng
+D. Số lượng nhân viên trong bộ phận chăm sóc khách hàng
+187. Chỉ số nào sau đây không phải là trọng tâm của hệ thống đo lường dịch vụ khách hàng?
+A. Thời gian giao hàng
+B. Độ tin cậy
+C. Khả năng đáp ứng đơn hàng
+D. Chi phí marketing
+188. Hệ thống đo lường dịch vụ khách hàng phản ánh trực tiếp điều gì?
+A. Tốc độ phát triển sản phẩm mới
+B. Trải nghiệm và sự trung thành của khách hàng
+C. Khả năng giảm chi phí logistics
+D. Doanh thu của đối thủ cạnh tranh
+189. Mục tiêu chính của hệ thống đo lường hiệu suất hoạt động nội bộ là gì?
+A. Tối ưu hóa hoạt động marketing
+B. Đánh giá hiệu quả và tối ưu hóa quy trình nội bộ
+C. Cải thiện dịch vụ chăm sóc khách hàng
+D. Dự đoán xu hướng thị trường
+190. Hệ thống đo lường khả năng phản ứng linh hoạt trước biến động của nhu cầu nhằm mục đích gì?
+A. Đánh giá chi phí sản xuất
+B. Đánh giá khả năng thích ứng với biến động của nhu cầu thị trường
+C. Tăng số lượng nhân viên trong chuỗi cung ứng
+D. Xác định thị phần của doanh nghiệp
+191. Hệ thống đo lường khả năng phản ứng linh hoạt tập trung đo lường điều gì?
+A. Mức độ linh hoạt và nhanh nhạy của chuỗi cung ứng
+B. Doanh số bán hàng hàng tháng
+C. Chi phí marketing cho sản phẩm mới
+D. Số lượng nhà cung cấp hợp tác
+192. Hệ thống đo lường khả năng phát triển sản phẩm tập trung vào yếu tố nào?
+A. Tốc độ ra mắt sản phẩm mới
+B. Độ hài lòng của khách hàng
+C. Chi phí vận hành kho bãi
+D. Mức độ tồn kho
+193. Dữ liệu vận hành (transactional) trong doanh nghiệp thường phục vụ cho mục tiêu nào?
+A. Ra quyết định chiến lược dài hạn
+B. Quản lý các hoạt động hàng ngày và giao dịch thường xuyên
+C. Phân tích xu hướng thị trường
+D. Lập kế hoạch phát triển sản phẩm mới
+194. Dữ liệu chiến lược (strategic) trong hệ thống dữ liệu doanh nghiệp được sử dụng để:
+A. Hỗ trợ các quyết định quản trị dài hạn và định hướng phát triển
+B. Theo dõi các giao dịch hàng ngày
+C. Quản lý kho hàng tồn
+D. Tối ưu hóa quá trình sản xuất
+195. Dữ liệu phân tích (analytical) chủ yếu được dùng để:
+A. Ghi nhận các giao dịch bán hàng
+B. Hỗ trợ phân tích và ra quyết định dựa trên dữ liệu lớn
+C. Quản lý nhân sự và tiền lương
+D. Tổ chức các hoạt động marketing
+196. Tại sao kho dữ liệu lại quan trọng trong chuỗi cung ứng?
+A. Giúp doanh nghiệp ra quyết định nhanh, chính xác và đồng nhất
+B. Hỗ trợ tuyển dụng nhân sự mới
+C. Tăng số lượng sản phẩm trong kho
+D. Tăng mức độ hài lòng của khách hàng
+197. Kho dữ liệu chủ yếu phục vụ mục đích nào trong doanh nghiệp?
+A. Phân tích dữ liệu để ra quyết định
+B. Lưu trữ hồ sơ nhân viên
+C. Quản lý hợp đồng khách hàng
+D. Theo dõi đơn hàng giao nhận
+198. Việc phân tích dữ liệu trong chuỗi cung ứng giúp doanh nghiệp làm gì?
+A. Tăng số lượng nhân viên kho bãi
+B. Xác định những điểm nghẽn và khám phá cơ hội thị trường tiềm năng
+C. Tăng chi phí vận chuyển
+D. Giảm sản lượng sản xuất
+199. Sản xuất tinh gọn (Lean) giúp gì cho doanh nghiệp?
+A. Tăng thời gian sản xuất
+B. Tăng số lượng nhân công
+C. Tăng lượng tồn kho
+D. Giảm lãng phí và nâng cao hiệu suất
+200. Chỉ số nào sau đây được sử dụng để đánh giá khả năng đáp ứng đơn hàng trong chuỗi cung ứng?
+A. Inventory Turnover Rate – Tỷ lệ luân chuyển hàng tồn kho
+B. Order Fulfillment Rate – Tỷ lệ hoàn thành đơn hàng
+C. Freight Cost per Unit – Chi phí vận chuyển trên mỗi đơn vị hàng hóa
+D. Return on Investment (ROI) – Tỷ suất hoàn vốn

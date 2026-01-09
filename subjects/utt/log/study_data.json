@@ -1,0 +1,360 @@
+[
+    {
+        "id": 1,
+        "title": "Tổng quan về Logistics",
+        "icon": "📦",
+        "content": "<b>Khái niệm Logistics:</b> Quá trình lên kế hoạch, thực hiện và kiểm soát hiệu quả, tiết kiệm chi phí của các dòng lưu chuyển và lưu trữ nguyên vật liệu, hàng tồn, thành phẩm và thông tin từ điểm khởi nguồn đến điểm tiêu thụ.<br><br><b>Các loại hình Logistics:</b><ul><li><b>1PL:</b> Chủ hàng tự thực hiện logistics</li><li><b>2PL:</b> Cung cấp dịch vụ đơn lẻ</li><li><b>3PL:</b> Quản lý và thực hiện các dịch vụ logistics</li><li><b>4PL:</b> Tích hợp gắn kết các nguồn lực</li></ul><br><b>Cross-docking:</b> Hàng nhận tại kho không lưu trữ mà luôn sẵn sàng vận chuyển.<br><b>JIT:</b> Giảm thiểu hàng tồn kho bằng cách giao hàng đúng thời điểm.",
+        "goals": [
+            "Hiểu khái niệm Logistics theo CSCMP và CLM",
+            "Phân biệt các loại hình 1PL, 2PL, 3PL, 4PL, 5PL",
+            "Nắm vững các hoạt động logistics kinh doanh"
+        ],
+        "tips": [
+            "📦 <b>Cross-docking:</b> Nhận → Chuyển ngay, không lưu kho",
+            "⏰ <b>JIT:</b> Just in Time - Đúng thời điểm cần",
+            "🏭 <b>ICD:</b> Cảng cạn - Tập kết container"
+        ],
+        "keywords": [
+            "logistics",
+            "cross-docking",
+            "JIT",
+            "3PL",
+            "4PL",
+            "ICD",
+            "cảng cạn",
+            "logistics ngược"
+        ],
+        "chapters": [
+            1
+        ],
+        "questionIds": {
+            "1": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "title": "Quy trình và Chi phí Logistics",
+        "icon": "📊",
+        "content": "<b>Quy trình Logistics:</b> Trình tự phối hợp các hoạt động nhằm tối ưu hóa nguồn lực, nâng cao hiệu quả quản lý.<br><br><b>7 bước xây dựng quy trình:</b><ol><li>Xác định quy trình chủ chốt</li><li>Vạch ra các yếu tố chính</li><li>Biểu đồ chu trình chi tiết</li><li>Xác định khả năng cải tiến</li><li>Đánh giá và xác định vấn đề</li><li>Xác định giải pháp khả thi</li><li>Tiến hành thay đổi</li></ol><br><b>Chi phí Logistics (Công thức Lambert):</b><br>∑F = Fm + Fv + Fd + Ft + Fđ + Fk<br>(Mua hàng + Vận tải + Dự trữ + Đặt hàng + Thông tin + Khác)",
+        "goals": [
+            "Nắm 7 bước xây dựng quy trình logistics",
+            "Hiểu Tam giác quy trình (3 nhóm quy trình)",
+            "Áp dụng công thức tính chi phí logistics"
+        ],
+        "tips": [
+            "📐 <b>7 bước:</b> Xác định → Vạch ra → Biểu đồ → Cải tiến → Đánh giá → Giải pháp → Thay đổi",
+            "💰 <b>6 chi phí:</b> Fm + Fv + Fd + Ft + Fđ + Fk",
+            "🔺 <b>Tam giác:</b> Cơ sở | Chuẩn | Cạnh tranh"
+        ],
+        "keywords": [
+            "quy trình",
+            "chi phí",
+            "tam giác quy trình",
+            "Lambert",
+            "chi phí vận tải",
+            "chi phí dự trữ"
+        ],
+        "chapters": [
+            2
+        ],
+        "questionIds": {
+            "2": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "title": "Tổ chức và Kiểm soát Logistics",
+        "icon": "🏢",
+        "content": "<b>Hình thức tổ chức Logistics:</b><ul><li><b>Không chính tắc:</b> Không thay đổi cấu trúc, chỉ phối hợp</li><li><b>Bán chính tắc:</b> Logistics đan chéo với các chức năng khác</li><li><b>Chính tắc:</b> Tạo tuyến quyền lực và trách nhiệm rõ ràng</li></ul><br><b>Kiểm soát Logistics:</b> So sánh kết quả với kế hoạch và điều chỉnh.<br><br><b>3 loại quyết định:</b><ul><li><b>Chiến lược:</b> Dài hạn (vị trí nhà máy, kho)</li><li><b>Chiến thuật:</b> Trung hạn (kế hoạch vận tải quý)</li><li><b>Vận hành:</b> Ngắn hạn (gửi hàng hàng ngày)</li></ul>",
+        "goals": [
+            "Phân biệt 3 hình thức tổ chức logistics",
+            "Hiểu quy trình kiểm soát logistics",
+            "Nắm 3 loại quyết định: chiến lược, chiến thuật, vận hành"
+        ],
+        "tips": [
+            "🏛️ <b>3 hình thức:</b> Không chính tắc → Bán → Chính tắc",
+            "⚙️ <b>Kiểm soát:</b> Kế hoạch → Thực hiện → So sánh → Điều chỉnh",
+            "📋 <b>Quyết định:</b> Chiến lược (năm) | Chiến thuật (quý) | Vận hành (ngày)"
+        ],
+        "keywords": [
+            "tổ chức",
+            "kiểm soát",
+            "chiến lược",
+            "chiến thuật",
+            "vận hành",
+            "benchmarking"
+        ],
+        "chapters": [
+            3
+        ],
+        "questionIds": {
+            "3": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "title": "Chuỗi cung ứng",
+        "icon": "🔗",
+        "content": "<b>Chuỗi cung ứng:</b> Mọi nỗ lực liên quan đến sản xuất và giao sản phẩm cuối cùng, từ khai thác nguyên liệu đến người tiêu dùng.<br><br><b>4 quá trình cơ bản:</b> Lập kế hoạch → Tìm nguồn cung → Sản xuất → Giao hàng<br><br><b>Các thành phần:</b> Nhà sản xuất nguyên liệu → Nhà sản xuất → Nhà phân phối → Nhà bán lẻ → Khách hàng<br><br><b>Các loại chuỗi cung ứng:</b><ul><li><b>Tinh giản (Lean):</b> Loại bỏ lãng phí, mô hình kéo (Pull)</li><li><b>Nhanh nhạy (Agile):</b> Linh hoạt, đáp ứng nhanh</li><li><b>Tinh nhạy (Leagile):</b> Kết hợp cả hai</li></ul>",
+        "goals": [
+            "Hiểu khái niệm và các thành phần chuỗi cung ứng",
+            "Phân biệt Lean, Agile, Leagile Supply Chain",
+            "Nắm các yếu tố: Sản xuất, Tồn kho, Định vị, Vận chuyển, Thông tin"
+        ],
+        "tips": [
+            "🔗 <b>4 quá trình:</b> Kế hoạch → Nguồn cung → Sản xuất → Giao hàng",
+            "🏭 <b>Lean:</b> Loại bỏ lãng phí | <b>Agile:</b> Linh hoạt nhanh nhạy",
+            "📦 <b>Kanban:</b> Bổ sung liên tục khi sản phẩm được sử dụng"
+        ],
+        "keywords": [
+            "chuỗi cung ứng",
+            "lean",
+            "agile",
+            "leagile",
+            "kanban",
+            "postponement",
+            "pull system"
+        ],
+        "chapters": [
+            4
+        ],
+        "questionIds": {
+            "4": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "title": "Đo lường và Đánh giá Chuỗi cung ứng",
+        "icon": "📈",
+        "content": "<b>Các hệ thống đo lường:</b><ul><li><b>Dịch vụ khách hàng:</b> Mức độ hài lòng, thời gian giao hàng</li><li><b>Hiệu suất nội bộ:</b> Chu kỳ sản xuất, mức tồn kho, chi phí vận hành</li><li><b>Khả năng phản ứng linh hoạt:</b> Điều chỉnh kế hoạch sản xuất</li><li><b>Khả năng phát triển sản phẩm:</b> Tốc độ ra mắt, tỷ lệ thành công</li></ul><br><b>3 cấp độ dữ liệu:</b> Vận hành → Chiến lược → Phân tích<br><br><b>Kho dữ liệu (Data Warehouse):</b> Tập hợp dữ liệu từ nhiều nguồn để phục vụ phân tích và ra quyết định.",
+        "goals": [
+            "Hiểu 4 hệ thống đo lường chuỗi cung ứng",
+            "Phân biệt 3 cấp độ dữ liệu trong doanh nghiệp",
+            "Nắm vai trò của kho dữ liệu"
+        ],
+        "tips": [
+            "📊 <b>4 hệ thống:</b> Dịch vụ KH | Hiệu suất | Linh hoạt | Phát triển SP",
+            "💾 <b>3 cấp dữ liệu:</b> Vận hành → Chiến lược → Phân tích",
+            "📈 <b>Chỉ số:</b> Order Fulfillment Rate = Tỷ lệ hoàn thành đơn hàng"
+        ],
+        "keywords": [
+            "đo lường",
+            "đánh giá",
+            "kho dữ liệu",
+            "data warehouse",
+            "order fulfillment",
+            "inventory turnover"
+        ],
+        "chapters": [
+            5
+        ],
+        "questionIds": {
+            "5": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40
+            ]
+        }
+    }
+]
