@@ -1,0 +1,26 @@
+{
+    "id": "kth",
+    "name": "Kinh tế học",
+    "description": "Các nguyên lý kinh tế cơ bản, cung cầu, thị trường.",
+    "chapters": [
+        {
+            "id": "unit-1",
+            "name": "Tổng hợp câu hỏi trắc nghiệm",
+            "file": "kth_questions.json"
+        }
+    ],
+    "simulationConfig": {
+        "totalQuestions": 60,
+        "timeLimit": 60,
+        "shuffleQuestions": true,
+        "shuffleAnswers": true,
+        "showAnswerImmediately": false,
+        "showAIExplanation": true,
+        "distribution": [
+            {
+                "chapter": "unit-1",
+                "percent": 100
+            }
+        ]
+    }
+}

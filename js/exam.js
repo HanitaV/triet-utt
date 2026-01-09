@@ -311,7 +311,7 @@ function renderExamQuestion() {
             if (!q._shuffledOptions) {
                 let optsToShuffle = [...options];
                 shuffleArray(optsToShuffle);
-                const letters = ['A', 'B', 'C', 'D'];
+                const letters = ['A', 'B', 'C', 'D', 'E'].slice(0, optsToShuffle.length);
                 optsToShuffle = optsToShuffle.map((opt, i) => ({
                     ...opt,
                     originalLetter: opt.letter,
@@ -655,9 +655,9 @@ function handleKeyboard(e) {
     }
 
     const keyMap = {
-        '1': 'A', '2': 'B', '3': 'C', '4': 'D',
-        'a': 'A', 'b': 'B', 'c': 'C', 'd': 'D',
-        'A': 'A', 'B': 'B', 'C': 'C', 'D': 'D'
+        '1': 'A', '2': 'B', '3': 'C', '4': 'D', '5': 'E',
+        'a': 'A', 'b': 'B', 'c': 'C', 'd': 'D', 'e': 'E',
+        'A': 'A', 'B': 'B', 'C': 'C', 'D': 'D', 'E': 'E'
     };
 
     if (keyMap[e.key] && !waitingForContinue) {
