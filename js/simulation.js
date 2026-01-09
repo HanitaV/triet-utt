@@ -297,7 +297,7 @@ function startSimulation() {
         if (simConfig.shuffleAnswers) {
             let options = [...q.options];
             shuffleArray(options);
-            const letters = ['A', 'B', 'C', 'D'];
+            const letters = ['A', 'B', 'C', 'D', 'E'].slice(0, options.length);
             options = options.map((opt, i) => ({
                 ...opt,
                 originalLetter: opt.letter,
