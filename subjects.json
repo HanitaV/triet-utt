@@ -16,5 +16,14 @@
         "school": "Học viện Công nghệ Bưu chính Viễn thông",
         "shortSchool": "PTIT",
         "path": "subjects/ptit/phap-luat-dai-cuong"
+    },
+    {
+        "id": "log",
+        "name": "Đại cương Logistics và Chuỗi cung ứng",
+        "shortName": "Logistics",
+        "icon": "📦",
+        "school": "Đại học Công nghệ GTVT",
+        "shortSchool": "UTT",
+        "path": "subjects/utt/log"
     }
 ]

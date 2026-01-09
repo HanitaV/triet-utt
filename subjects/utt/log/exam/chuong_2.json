@@ -1,0 +1,966 @@
+{
+    "title": "CHƯƠNG 2",
+    "total_questions": 40,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Quy trình logistics được hiểu như thế nào ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là trình tự phối hợp các hoạt động, các thực thể tham gia trong quá trình sản xuất kinh doanh nhằm tối ưu hóa việc sử dụng các nguồn lực, nâng cao hiệu quả quản lý, gia tăng lợi ích cho khách hàng về thời gian, chi phí, chất lượng."
+                },
+                {
+                    "id": "B",
+                    "content": "Là quá trình lên kế hoạch, thực hiện, và kiểm soát hiệu quả, tiết kiệm chi phí của các dòng lưu chuyển và lưu trữ nguyên vật liệu ,hàng tồn, thành phẩm và thông tin liên quan từ điểm khởi nguồn đến điểm tiêu thụ nhằm đáp ứng nhu cầu khách hàng."
+                },
+                {
+                    "id": "C",
+                    "content": "Là quá trình lập kế hoạch, thực hiện và kiểm soát luồng nguyên vật liệu thô, tồn kho sản phẩm dở dang và thành phẩm từ điểm sản xuất, phân phối, sử dụng tới điểm tái chế hoặc điểm tiêu thụ phù hợp."
+                },
+                {
+                    "id": "D",
+                    "content": "Là hoạt động bao trùm mọi chức năng trong doanh nghiệp, giúp doanh nghiệp dễ dàng xác định các vấn đề phát sinh."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 2,
+            "question": "Phương pháp xây dựng quy trình logistics được thực biện theo các bước sau",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xác định quy trình chủ chốt → Vạch ra các yếu tố chính → Biểu đồ chu trình chi tiết → Xác định khả năng cải tiến → Đánh giá các khả năng và xác định các vấn đề chính → Xác định các giải pháp khả thi → Tiến hành thay đổi"
+                },
+                {
+                    "id": "B",
+                    "content": "Xác định hoạt động chủ chốt → Vạch ra các hoạt động chính → Biểu đồ hoạt động chi tiết → Xác định khả năng cải tiến → Đánh giá các khả năng và xác định các vấn đề chính → Xác định các giải pháp khả thi → Tiến hành thay đổi"
+                },
+                {
+                    "id": "C",
+                    "content": "Vạch ra các hoạt động chính → Xác định hoạt động chủ chốt → Biểu đồ hoạt động chi tiết → Xác định khả năng cải tiến → Đánh giá các khả năng và xác định các vấn đề chính → Xác định các giải pháp khả thi → Tiến hành thay đổi"
+                },
+                {
+                    "id": "D",
+                    "content": "Vạch ra các yếu tố chính → Xác định quy trình chủ chốt → Biểu đồ chu trình chi tiết → Xác định khả năng cải tiến → Đánh giá các khả năng và xác định các vấn đề chính → Xác định các giải pháp khả thi → Tiến hành thay đổi"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 3,
+            "question": "Sắp xếp thứ tự các hoạt động sau để để hoàn thiện phương pháp xây dựng quy trình logistics\n1- Vạch ra các yếu tố chính\n2- Xác định quy trình chủ chốt\n3- Xác định khả năng cải tiến\n4- Biểu đồ chu trình chi tiết\n5-Tiến hành thay đổi\n6- Đánh giá các khả năng và xác định các vấn đề chính\n7- Xác định các giải pháp khả thi",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2→1→4→3→6→7→5"
+                },
+                {
+                    "id": "B",
+                    "content": "1→2→4→3→6→7→5"
+                },
+                {
+                    "id": "C",
+                    "content": "1→2→4→3→6→5→7"
+                },
+                {
+                    "id": "D",
+                    "content": "1→2→4→6→3→5→7"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 4,
+            "question": "Bước đầu tiên để xây dựng được quy trình logistics là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xây dựng quy trình chủ chốt"
+                },
+                {
+                    "id": "B",
+                    "content": "Đánh giá khả năng và xác định các vấn đề"
+                },
+                {
+                    "id": "C",
+                    "content": "Vạch ra các yếu tố chính"
+                },
+                {
+                    "id": "D",
+                    "content": "Xây dựng khả năng cải tiến"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 5,
+            "question": "Bước cuối cùng của phương pháp xây dựng quy trình logistics là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tiến hành thay đổi"
+                },
+                {
+                    "id": "B",
+                    "content": "Lập biểu đồ chu trình chi tiết"
+                },
+                {
+                    "id": "C",
+                    "content": "Xây dựng quy trình chủ chốt"
+                },
+                {
+                    "id": "D",
+                    "content": "Xác định các giải pháp khả thi"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 6,
+            "question": "Việc vạch ra những yếu tố chính của mỗi quy trình được tái thiết kế, nhằm xác định những bước quan trọng trong mỗi quy trình và xác đinhk bộ phận nào và những ai tham gia vào quy trình logistics, nằm ở bước nào trong phương pháp xây dựng quy trình logistics",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bước 2"
+                },
+                {
+                    "id": "B",
+                    "content": "Bước 3"
+                },
+                {
+                    "id": "C",
+                    "content": "Bước 4"
+                },
+                {
+                    "id": "D",
+                    "content": "Bước 5"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 7,
+            "question": "Chọn cụm từ thích hợp để điền vào chỗ trống để hoàn thiện nhận định về Tam giác quy trình sau: “Tam giác quy trình nhằm xác định ….. căn cứ khác nhau theo yêu cầu về quy trình, sau đó sử dụng những căn cứ này để ….. những quy trình cần được….. với ……..”",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "3/ nhấn mạnh/ làm nổi bật/ mỗi mức phát triển cụ thể"
+                },
+                {
+                    "id": "B",
+                    "content": "3/ làm nổi bật/ nhấn mạnh/ mỗi mức phát triển cụ thể"
+                },
+                {
+                    "id": "C",
+                    "content": "3/ thực hiện/ làm nổi bật/ mỗi mức phát triển cụ thể"
+                },
+                {
+                    "id": "D",
+                    "content": "2/ làm nổi bật/ thực hiện/ mỗi mức phát triển cụ thể"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 8,
+            "question": "Ba nhóm quy trình của Tam giác quy trình là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các quy trình cơ sở, các quy trình chuẩn, các quy trình cạnh tranh."
+                },
+                {
+                    "id": "B",
+                    "content": "Các quy trình cung ứng đầu vào, quy trình quản trị nguyên vật liệu, quy trình phân phối."
+                },
+                {
+                    "id": "C",
+                    "content": "Các quy trình quản trị nguyên vật liệu, quy trình quản trị kho hàng, quy trình phân phối vật chất."
+                },
+                {
+                    "id": "D",
+                    "content": "Các quy trình cung ứng đầu vào, quy trình quản trị nguyên vật liệu, quy trình phát triển."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 9,
+            "question": "Tam giác quy trình gồm bao nhiêu nhóm quy trình",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "3"
+                },
+                {
+                    "id": "B",
+                    "content": "4"
+                },
+                {
+                    "id": "C",
+                    "content": "5"
+                },
+                {
+                    "id": "D",
+                    "content": "6"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 10,
+            "question": "Nhận định nào đúng về khái niệm Chi phí logistics",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chi phí logistics được xem là tất cả các chi phí liên quan đến hoạt động logistics bao gồm chi phí vận tải, lưu kho, xử lý hàng tồn kho, dịch vụ khách hàng, thông tin, chi phí quản lý và các loại chi phí khác."
+                },
+                {
+                    "id": "B",
+                    "content": "Chi phí logistics được xem là tất cả các chi phí liên quan đến hoạt động logistics bao gồm chi phí vận tải, lưu kho, xử lý hàng tồn kho, dịch vụ khách hàng, thông tin, marketing, chi phí quản lý và các loại chi phí khác."
+                },
+                {
+                    "id": "C",
+                    "content": "Chi phí logistics được xem là tất cả các chi phí liên quan đến hoạt động logistics bao gồm chi phí vận tải, lưu kho, xử lý hàng tồn kho, dịch vụ khách hàng, thông tin, marketing, sản xuất, chi phí quản lý và các loại chi phí khác."
+                },
+                {
+                    "id": "D",
+                    "content": "Chi phí logistics được xem là tất cả các chi phí liên quan đến hoạt động logistics bao gồm chi phí vận tải, lưu kho, xử lý hàng tồn kho, dịch vụ khách hàng, chi phí quản lý và các loại chi phí khác."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 11,
+            "question": "Mô hình xác định chi phí logistics của Doughlas Lambert chia chi phí logistics thành mấy nhóm chi phí chủ yếu",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "6"
+                },
+                {
+                    "id": "B",
+                    "content": "7"
+                },
+                {
+                    "id": "C",
+                    "content": "5"
+                },
+                {
+                    "id": "D",
+                    "content": "8"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 12,
+            "question": "Theo mô hình xác định chi phí logistics của Doughlas Lambert tổng chi phí logistics hình thành từ chi phí chủ yếu nào",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chi phí vận tải, chi phí dự trữ, chi phí sản xuất - thu mua, chi phí quản lý kho, chi phí dịch vụ khách hàng, chi phí giải quyết đơn hàng và thông tin."
+                },
+                {
+                    "id": "B",
+                    "content": "Chi phí vận tải, chi phí dự trữ, chi phí sản xuất - thu mua, chi phí quản lý kho, chi phí dịch vụ khách hàng, chi phí quản lý."
+                },
+                {
+                    "id": "C",
+                    "content": "Chi phí vận tải, chi phí dự trữ, chi phí sản xuất - thu mua, chi phí quản lý kho, chi phí dịch vụ khách hàng, chi phí quản lý, chi phí quảng cáo."
+                },
+                {
+                    "id": "D",
+                    "content": "Chi phí vận tải, chi phí dự trữ, chi phí sản xuất, chi phí quản lý kho, chi phí dịch vụ khách hàng, chi phí giải quyết đơn hàng và thông tin."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 13,
+            "question": "Theo mô hình xác định chi phí logistics của Doughlas Lambert đâu là công thức đúng áp dụng để tính tổng chi phí logistics.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "∑F = Fm + Fv + Fd + Ft + Fđ + Fk"
+                },
+                {
+                    "id": "B",
+                    "content": "∑F = Fm + Fn + Fd + Ft + Fđ + Fk"
+                },
+                {
+                    "id": "C",
+                    "content": "∑F = Fm + Fv + Fs+ Ft + Fđ + Fk"
+                },
+                {
+                    "id": "D",
+                    "content": "∑F = Fm + Fv + Fd + Ft + Fđ + Fs"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 14,
+            "question": "Tổng chi phí logistics được đo lường theo công thức :\n∑F= Fm + Fv + Fd + Ft + Fđ + Fk.\nVậy ∑F, Fm,Fv, Fd, Ft, Fđ, Fk có nghĩa lần lượt là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tổng chi phí hệ thống logistics , Chi phí mua hàng , Chi phí vận tải , Chi phí đặt hàng , Chi phí dữ trữ , Chi phí thông tin , Chi phí khác."
+                },
+                {
+                    "id": "B",
+                    "content": "Tổng chi phí hệ thống logistics , Chi phí vận tải , Chi phí mua hàng , Chi phí dự trữ , Chi phí khác , Chi phí đặt hàng , Chi phí thông tin"
+                },
+                {
+                    "id": "C",
+                    "content": "Chi phí thông tin , Chi phí mua hàng , Chi phí đặt hàng , Chi phí dự trữ , Tổng chi phí hệ thống logistics , Chi phí vận tải , Chi phí khác"
+                },
+                {
+                    "id": "D",
+                    "content": "Chi phí khác, Chi phí đặt hàng , Chi phí dự trữ , Chi phí thông tin , Chi phí mua hàng , Chi phí vận tải , Tổng chi phí hệ thống logistics"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 15,
+            "question": "Bước đầu tiên của trình tự phân tích chi phí logistics là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Liệt kê tất cả các chi phí theo trình tự từ đầu đến cuối quá trình cung ứng."
+                },
+                {
+                    "id": "B",
+                    "content": "Phân chia chi phí thành các loại riêng như: chi phí vận tải, chi phí mua hàng, chi phí dự trữ, chi phí thông tin, chi phí khác."
+                },
+                {
+                    "id": "C",
+                    "content": "Phân tích các chi phí bằng cách trả lời các câu hỏi: tại sao lại phát sinh chi phí này? Chúng ta có thể ước lượng chi phí này không? Làm thế nào để tối thiểu hóa chi phí này?"
+                },
+                {
+                    "id": "D",
+                    "content": "Xem xét lại toàn bộ quá trình để quyết định tối thiểu hoạt động, giảm thời gian, khoảng cách và chi phí."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 16,
+            "question": "Trong trình tự phân tích chi phí logistics, bước tiếp theo sau khi “Phân tích các chi phí bằng cách trả lời các câu hỏi: tại sao lại phát sinh chi phí này? Chúng ta có thể ước lượng chi phí này không? Làm thế nào để tối thiểu hóa chi phí này?” là gì",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xem xét lại toàn bộ quá trình để quyết định tối thiểu hoạt động, giảm thời gian, khoảng cách và chi phí."
+                },
+                {
+                    "id": "B",
+                    "content": "Phân chia chi phí thành các loại riêng như: chi phí vận tải, chi phí mua hàng, chi phí dự trữ, chi phí thông tin, chi phí khác."
+                },
+                {
+                    "id": "C",
+                    "content": "Kiểm tra quá trình cung ứng mới, chuẩn bị mọi nguồn lực cho sự thay đổi."
+                },
+                {
+                    "id": "D",
+                    "content": "Liệt kê tất cả các chi phí theo trình tự từ đầu đến cuối quá trình cung ứng."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 17,
+            "question": "Trong trình tự phân tích chi phí logistics, bước tiếp theo sau khi “Xem xét lại toàn bộ quá trình để quyết định tối thiểu hoạt động, giảm thời gian, khoảng cách và chi phí.” là gì",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kiểm tra quá trình cung ứng mới, chuẩn bị mọi nguồn lực cho sự thay đổi."
+                },
+                {
+                    "id": "B",
+                    "content": "Phân chia chi phí thành các loại riêng như: chi phí vận tải, chi phí mua hàng, chi phí dự trữ, chi phí thông tin, chi phí khác."
+                },
+                {
+                    "id": "C",
+                    "content": "Phân tích các chi phí bằng cách trả lời các câu hỏi: tại sao lại phát sinh chi phí này? Chúng ta có thể ước lượng chi phí này không? Làm thế nào để tối thiểu hóa chi phí này?"
+                },
+                {
+                    "id": "D",
+                    "content": "Tổng kết gắn các con số cho các chi phí bao gồm tổng thời gian, quãng đường và các thông tin liên quan khác."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 18,
+            "question": "Trong công thức tính chi phí vận hành Kop = Kvar + Kfix, thì chi phí Kvar là loại chi phí gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chi phí biến  đổi"
+                },
+                {
+                    "id": "B",
+                    "content": "Chi phí gián tiếp"
+                },
+                {
+                    "id": "C",
+                    "content": "Chi phí cố định"
+                },
+                {
+                    "id": "D",
+                    "content": "Chi phí thuê ngoài"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 19,
+            "question": "Nhận định nào sau đây chưa đúng về vai trò của quy trình logistics",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quy trình logistics giúp dự báo nhu cầu khách hàng."
+                },
+                {
+                    "id": "B",
+                    "content": "Quy trình logistics bao trùm mọi chức năng trong doanh nghiệp."
+                },
+                {
+                    "id": "C",
+                    "content": "Quy trình logistics giúp cho hoạt động SXKD thông suốt."
+                },
+                {
+                    "id": "D",
+                    "content": "Quy trình logistics giúp doanh nghiệp dễ dàng xác định các vấn đề phát sinh."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 20,
+            "question": "Đâu là ý đúng về vai trò của quy trình logistics?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bao trùm mọi chức năng trong doanh nghiệp."
+                },
+                {
+                    "id": "B",
+                    "content": "Nâng cao hiệu quả quản lí, giảm thiểu chi phí sản xuất, tăng cường khả năng cạnh tranh cho doanh nghiệp, góp phần nâng cao hiệu quả hoạt động sản xuất kinh doanh của doanh nghiệp."
+                },
+                {
+                    "id": "C",
+                    "content": "Giảm rủi ro, tăng tính tập trung, tăng hiệu quả hoạt động."
+                },
+                {
+                    "id": "D",
+                    "content": "Giải quyết đầu vào và đầu ra của doanh nghiệp một cách hiệu quả nhờ tối ưu hoá quá trình chu chuyển nguyên vật liệu, hàng hoá, dịch vụ."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 21,
+            "question": "Đâu là ý đúng về vai trò của quy trình logistics?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giúp hoạt động sản xuất kinh doanh thông suốt."
+                },
+                {
+                    "id": "B",
+                    "content": "Giúp tăng cường lợi thế cạnh tranh, giảm chi phí, nâng cao chất lượng dịch vụ và mở rộng thị trường."
+                },
+                {
+                    "id": "C",
+                    "content": "Giảm rủi ro, tăng tính tập trung, tăng hiệu quả hoạt động."
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ quan trọng đối với các doanh nghiệp sản xuất lớn."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 22,
+            "question": "Hoạt động nào không thuộc nhóm quy trình quản trị nguyên vật liệu",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quản lý kho hàng"
+                },
+                {
+                    "id": "B",
+                    "content": "Dự báo nhu cầu"
+                },
+                {
+                    "id": "C",
+                    "content": "Lập kế hoạch mua hàng"
+                },
+                {
+                    "id": "D",
+                    "content": "Lập kế hoạch sản xuất"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 23,
+            "question": "Đâu là một trong các hoạt động của quy trình quản trị nguyên vật liệu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mua hàng"
+                },
+                {
+                    "id": "B",
+                    "content": "Tồn trữ thành phẩm"
+                },
+                {
+                    "id": "C",
+                    "content": "Vận tải hàng hoá"
+                },
+                {
+                    "id": "D",
+                    "content": "Cung cấp phụ tùng thay thế"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 24,
+            "question": "Hoạt động nào không thuộc nhóm quy trình quản trị kho hàng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dự báo nhu cầu"
+                },
+                {
+                    "id": "B",
+                    "content": "Quản lý kho hàng"
+                },
+                {
+                    "id": "C",
+                    "content": "Xếp dỡ nguyên vật liệu"
+                },
+                {
+                    "id": "D",
+                    "content": "Tồn trữ thành phẩm"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 25,
+            "question": "Hoạt động nào không thuộc nhóm quy trình phân phối vật chất",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lập kế hoạch mua hàng"
+                },
+                {
+                    "id": "B",
+                    "content": "Thực hiện đơn hàng"
+                },
+                {
+                    "id": "C",
+                    "content": "Phát triển sản phẩm mới"
+                },
+                {
+                    "id": "D",
+                    "content": "Quản lý thông tin"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 26,
+            "question": "Đâu là một trong các hoạt động của quy trình phân phối vật chất?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thực hiện đơn hàng"
+                },
+                {
+                    "id": "B",
+                    "content": "Mua hàng"
+                },
+                {
+                    "id": "C",
+                    "content": "Lập kế hoạch sản xuất"
+                },
+                {
+                    "id": "D",
+                    "content": "Xếp dỡ nguyên vật liệu"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 27,
+            "question": "Quy trình nào được xem là quan trọng với khách hàng và tối thiểu phải đạt tiêu chuẩn có thể chấp nhận để cạnh tranh một cách thích hợp trong một thị trường cho trước",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các quy trình chuẩn"
+                },
+                {
+                    "id": "B",
+                    "content": "Các quy trình cơ sở"
+                },
+                {
+                    "id": "C",
+                    "content": "Các quy trình cạnh tranh"
+                },
+                {
+                    "id": "D",
+                    "content": "Các quy trình phát triển"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 28,
+            "question": "Quy trình nào tuy không được coi là cần thiết đối với hoạt động kinh doanh nhưng là một điều kiện tiên quyết",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các quy trình cơ sở"
+                },
+                {
+                    "id": "B",
+                    "content": "Các quy trình chuẩn"
+                },
+                {
+                    "id": "C",
+                    "content": "Các quy trình phát triển"
+                },
+                {
+                    "id": "D",
+                    "content": "Các quy trình cạnh tranh"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 29,
+            "question": "Quy trình nào nếu áp dụng tốt sẽ mang lại tính cạnh tranh và đảm bảo rằng thông qua quá trình vận hàng logistics công ty sẽ đạt được tính chủ động và thành công",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các quy trình cạnh tranh"
+                },
+                {
+                    "id": "B",
+                    "content": "Các quy trình chuẩn"
+                },
+                {
+                    "id": "C",
+                    "content": "Các quy trình phát triển"
+                },
+                {
+                    "id": "D",
+                    "content": "Các quy trình cơ sở"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 30,
+            "question": "Chi phí logistics nào không thuộc các bộ phận chi phí logistics",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chi phí logistics khác."
+                },
+                {
+                    "id": "B",
+                    "content": "Chi phí logistics riêng."
+                },
+                {
+                    "id": "C",
+                    "content": "Chi phí logistics bổ sung."
+                },
+                {
+                    "id": "D",
+                    "content": "Chi phí quản lý logistics."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 31,
+            "question": "Chi phí logistics riêng là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mọi chi phí phát sinh trực tiếp từ việc thực hiện các nhiệm vụ logistics như: vận tải, xếp dỡ, tồn kho, dịch vụ khách hàng…"
+                },
+                {
+                    "id": "B",
+                    "content": "Mọi chi phí phát sinh từ các hoạt động có liên quan đến nhiệm vụ logistics như: đóng gói, dán nhãn, xếp dỡ, kiểm tra chất lượng…"
+                },
+                {
+                    "id": "C",
+                    "content": "Mọi chi phí liên quan đến dịch vụ như: lập kế hoạch logistics, kiểm soát chất lượng dịch vụ logistics…"
+                },
+                {
+                    "id": "D",
+                    "content": "Mọi chi phí phát sinh trực tiếp từ việc thực hiện các nhiệm vụ logistics như: vận tải, xếp dỡ, tồn kho, đóng gói, dán nhãn, kiểm tra chất lượng, dịch vụ khách hàng…"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 32,
+            "question": "Chi phí logistics bổ sung là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chi phí phát sinh từ các nhiệm vụ hoạt động bổ sung có liên quan trực tiếp đến nhiệm vụ logistics như: đóng gói, dán nhãn, xếp dỡ, kiểm tra chất lượng…"
+                },
+                {
+                    "id": "B",
+                    "content": "Chi phí phát sinh trực tiếp từ việc thực hiện các nhiệm vụ logistics như: vận tải, xếp dỡ, tồn kho, dịch vụ khách hàng…"
+                },
+                {
+                    "id": "C",
+                    "content": "Chi phí liên quan đến dịch vụ như: lập kế hoạch logistics, kiểm soát chất lượng dịch vụ logistics…"
+                },
+                {
+                    "id": "D",
+                    "content": "Mọi chi phí phát sinh trực tiếp từ việc thực hiện các nhiệm vụ logistics như: vận tải, xếp dỡ, tồn kho, đóng gói, dán nhãn, kiểm tra chất lượng, dịch vụ khách hàng…"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 33,
+            "question": "Chi phí quản lý logistics là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các chi phí liên quan đến các dịch vụ quản lý như: lập kế hoạch logistics, kiểm soát chất lượng dịch vụ logistics…"
+                },
+                {
+                    "id": "B",
+                    "content": "Phát sinh trực tiếp từ việc thực hiện các nhiệm vụ logistics như: vận tải, xếp dỡ, tồn kho, dịch vụ khách hàng…"
+                },
+                {
+                    "id": "C",
+                    "content": "Phát sinh từ các nhiệm vụ hoạt động bổ sung có liên quan trực tiếp đến nhiệm vụ logistics như: đóng gói, dán nhãn, xếp dỡ, kiểm tra chất lượng…"
+                },
+                {
+                    "id": "D",
+                    "content": "Mọi chi phí phát sinh trực tiếp từ việc thực hiện các nhiệm vụ logistics như: vận tải, xếp dỡ, tồn kho, đóng gói, dán nhãn, kiểm tra chất lượng, dịch vụ khách hàng…"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 34,
+            "question": "Kiểm soát chất lượng dịch vụ logistics thuộc chi phí logistics nào",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chi phí quản lý logistics"
+                },
+                {
+                    "id": "B",
+                    "content": "Chi phí logistics bổ sung"
+                },
+                {
+                    "id": "C",
+                    "content": "Chi phí logistics riêng"
+                },
+                {
+                    "id": "D",
+                    "content": "Chi phí logistics dịch vụ"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 35,
+            "question": "Chi phí phát sinh trực tiếp từ nhiệm vụ logistics vận tải, xếp dỡ hàng hóa thuộc nhóm chi phí logistics nào",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chi phí logistics riêng"
+                },
+                {
+                    "id": "B",
+                    "content": "Chi phí logistics bổ sung"
+                },
+                {
+                    "id": "C",
+                    "content": "Chi phí quản lý logistics"
+                },
+                {
+                    "id": "D",
+                    "content": "Chi phí logistics dịch vụ"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 36,
+            "question": "Chi phí phát sinh trực tiếp từ nhiệm vụ logistics liên quan đến dịch vụ khách hàng hóa thuộc nhóm chi phí logistics nào",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chi phí logistics riêng"
+                },
+                {
+                    "id": "B",
+                    "content": "Chi phí logistics bổ sung"
+                },
+                {
+                    "id": "C",
+                    "content": "Chi phí quản lý logistics"
+                },
+                {
+                    "id": "D",
+                    "content": "Chi phí logistics dịch vụ"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 37,
+            "question": "Chi phí liên quan đến dịch vụ quản lý logistics như  lập kế hoạch logistics, kiểm soát chất lượng dịch vụ logistics thuộc nhóm chi phí logistics nào",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chi phí logistics quản lý logistics"
+                },
+                {
+                    "id": "B",
+                    "content": "Chi phí logistics riêng"
+                },
+                {
+                    "id": "C",
+                    "content": "Chi phí bổ sung"
+                },
+                {
+                    "id": "D",
+                    "content": "Chi phí logistics dịch vụ"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 38,
+            "question": "Chi phí nào sau đây không thuộc chi phí logistics",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chi phí marketing."
+                },
+                {
+                    "id": "B",
+                    "content": "Chi phí vận tải."
+                },
+                {
+                    "id": "C",
+                    "content": "Chi phí lưu trữ hàng hóa."
+                },
+                {
+                    "id": "D",
+                    "content": "Chi phí kiểm tra chất lượng hàng hóa."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 39,
+            "question": "Chi phí nào sau đây thuộc chi phí logistics",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chi phí lập kế hoạch hoạt động logstics."
+                },
+                {
+                    "id": "B",
+                    "content": "Chi phí marketing."
+                },
+                {
+                    "id": "C",
+                    "content": "Chi phí nghiên cứu và phát triển sản phẩm."
+                },
+                {
+                    "id": "D",
+                    "content": "Chi phí mua hàng."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 40,
+            "question": "Trong chi phí logistics thì loại chi phí nào có thể được coi là chi phí biến đổi",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chi phí thuê phương tiện vận tải"
+                },
+                {
+                    "id": "B",
+                    "content": "Chi phí thuê tài sản cố định"
+                },
+                {
+                    "id": "C",
+                    "content": "Chi phí trữ hàng tổn kho thường xuyên"
+                },
+                {
+                    "id": "D",
+                    "content": "Chi phí cho nguồn nhân lực cố định"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        }
+    ]
+}

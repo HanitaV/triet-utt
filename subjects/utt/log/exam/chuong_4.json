@@ -1,0 +1,942 @@
+{
+    "title": "CHƯƠNG 4",
+    "total_questions": 39,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Theo Hội đồng chuỗi cung ứng (1997), thuật ngữ \"Chuỗi cung ứng\" bao gồm những nỗ lực nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chỉ liên quan đến sản xuất sản phẩm"
+                },
+                {
+                    "id": "B",
+                    "content": "Bao gồm mọi nỗ lực liên quan đến sản xuất và giao sản phẩm cuối cùng"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ liên quan đến vận chuyển hàng hóa"
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ bao gồm việc cung ứng nguyên vật liệu thô"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 2,
+            "question": "Những quá trình cơ bản của chuỗi cung ứng theo Hội đồng chuỗi cung ứng (1997) là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lập kế hoạch, tìm nguồn cung cấp, sản xuất, giao hàng"
+                },
+                {
+                    "id": "B",
+                    "content": "Mua hàng, kiểm kê tồn kho, vận chuyển, bán hàng"
+                },
+                {
+                    "id": "C",
+                    "content": "Tiếp nhận đơn hàng, đóng gói, phân phối, giao nhận"
+                },
+                {
+                    "id": "D",
+                    "content": "Quản lý đơn hàng, nhập kho, xuất kho, giao hàng"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 3,
+            "question": "Theo nhóm tác giả Monczka, chuỗi cung ứng bao gồm những yếu tố nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chỉ tập trung vào sản xuất hàng hóa"
+                },
+                {
+                    "id": "B",
+                    "content": "Chỉ bao gồm luồng nguyên vật liệu từ nhà cung cấp đến khách hàng cuối cùng"
+                },
+                {
+                    "id": "C",
+                    "content": "Bao gồm tất cả các hoạt động liên quan đến luồng lưu chuyển và biến đổi hàng hóa từ khai thác nguyên liệu đến người tiêu dùng cuối cùng"
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ liên quan đến vận chuyển và phân phối sản phẩm"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 4,
+            "question": "Theo nhóm tác giả Monczka, trong chuỗi cung ứng, luồng thông tin và nguyên vật liệu lưu chuyển theo hướng nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chỉ theo chiều xuôi từ nhà cung cấp đến khách hàng"
+                },
+                {
+                    "id": "B",
+                    "content": "Chỉ theo chiều ngược từ khách hàng đến nhà sản xuất"
+                },
+                {
+                    "id": "C",
+                    "content": "Lưu chuyển cả xuôi và ngược dọc theo chuỗi cung ứng"
+                },
+                {
+                    "id": "D",
+                    "content": "Không có sự lưu chuyển giữa các đối tác trong chuỗi cung ứng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 5,
+            "question": "Thuật ngữ nào tương đương với \"Chuỗi cung ứng\"?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chuỗi vận chuyển"
+                },
+                {
+                    "id": "B",
+                    "content": "Chuỗi giá trị"
+                },
+                {
+                    "id": "C",
+                    "content": "Chuỗi sản xuất"
+                },
+                {
+                    "id": "D",
+                    "content": "Chuỗi phân phối"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 6,
+            "question": "Chuỗi giá trị nhấn mạnh điều gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chỉ tập trung vào sản xuất sản phẩm"
+                },
+                {
+                    "id": "B",
+                    "content": "Dòng chảy của sản phẩm và giá trị mà các đối tác phải cung cấp cho chính họ và khách hàng"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ tập trung vào việc quản lý tồn kho"
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ quan tâm đến khách hàng cuối cùng"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 7,
+            "question": "Nhà sản xuất nguyên vật liệu thô trong chuỗi cung ứng bao gồm tổ chức nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà máy sản xuất ô tô"
+                },
+                {
+                    "id": "B",
+                    "content": "Công ty khai thác khoáng sản"
+                },
+                {
+                    "id": "C",
+                    "content": "Siêu thị bán lẻ"
+                },
+                {
+                    "id": "D",
+                    "content": "Trung tâm phân phối sản phẩm điện tử"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 8,
+            "question": "Chức năng chính của nhà phân phối trong chuỗi cung ứng là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sản xuất sản phẩm từ nguyên vật liệu thô"
+                },
+                {
+                    "id": "B",
+                    "content": "Lưu trữ lượng lớn hàng tồn kho từ nhà sản xuất và bán lại cho các cơ sở kinh doanh khác"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ bán sản phẩm trực tiếp cho khách hàng cuối cùng"
+                },
+                {
+                    "id": "D",
+                    "content": "Sử dụng sản phẩm để kết hợp với các sản phẩm khác"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 9,
+            "question": "Nhà phân phối trong chuỗi cung ứng còn được gọi là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà sản xuất"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà bán lẻ"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà bán sỉ (wholesalers)"
+                },
+                {
+                    "id": "D",
+                    "content": "Người tiêu dùng cuối cùng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 10,
+            "question": "Khách hàng trong chuỗi cung ứng có thể là ai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cá nhân mua và tiêu dùng sản phẩm"
+                },
+                {
+                    "id": "B",
+                    "content": "Doanh nghiệp mua sản phẩm để kết hợp với các sản phẩm khác và bán lại"
+                },
+                {
+                    "id": "C",
+                    "content": "Cả A và B"
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ có cá nhân, không bao gồm doanh nghiệp"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 11,
+            "question": "Thành phần nào trong chuỗi cung ứng liên quan đến việc quyết định phương thức vận chuyển hàng hóa?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Định vị"
+                },
+                {
+                    "id": "B",
+                    "content": "Tồn kho"
+                },
+                {
+                    "id": "C",
+                    "content": "Vận chuyển"
+                },
+                {
+                    "id": "D",
+                    "content": "Sản xuất"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 12,
+            "question": "Thành phần nào sau đây trong chuỗi cung ứng liên quan đến việc quyết định sản xuất sản phẩm nào, số lượng bao nhiêu và khi nào nên sản xuất?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vận chuyển"
+                },
+                {
+                    "id": "B",
+                    "content": "Tồn kho"
+                },
+                {
+                    "id": "C",
+                    "content": "Sản xuất"
+                },
+                {
+                    "id": "D",
+                    "content": "Thông tin"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 13,
+            "question": "Hoạt động sản xuất trong chuỗi cung ứng bao gồm yếu tố nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lập kế hoạch sản xuất tổng thể"
+                },
+                {
+                    "id": "B",
+                    "content": "Quản lý chất lượng"
+                },
+                {
+                    "id": "C",
+                    "content": "Bảo dưỡng trang thiết bị"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án trên"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 14,
+            "question": "Mục tiêu chính của liên kết dọc trong chuỗi cung ứng là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng số lượng nhà cung cấp trung gian"
+                },
+                {
+                    "id": "B",
+                    "content": "Tối đa hóa hiệu quả dựa vào tính kinh tế theo quy mô"
+                },
+                {
+                    "id": "C",
+                    "content": "Rút ngắn vòng đời sản phẩm"
+                },
+                {
+                    "id": "D",
+                    "content": "Mở rộng thị trường tiêu dùng"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 15,
+            "question": "Chuỗi cung ứng tinh giản (Lean Supply Chain) có nguồn gốc từ đâu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hệ thống sản xuất Toyota (TPS)"
+                },
+                {
+                    "id": "B",
+                    "content": "Chuỗi cung ứng linh hoạt"
+                },
+                {
+                    "id": "C",
+                    "content": "Mô hình Just-In-Time (JIT)"
+                },
+                {
+                    "id": "D",
+                    "content": "Quản lý chất lượng toàn diện (TQM)"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 16,
+            "question": "Trong chuỗi cung ứng tinh giản, \"mô hình kéo\" (Pull System) có ý nghĩa gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sản xuất theo kế hoạch định trước, không phụ thuộc vào nhu cầu khách hàng"
+                },
+                {
+                    "id": "B",
+                    "content": "Sản xuất và cung ứng dựa trên nhu cầu thực tế của khách hàng"
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng sản lượng sản xuất để giảm giá thành sản phẩm"
+                },
+                {
+                    "id": "D",
+                    "content": "Tạo ra hàng tồn kho lớn để đảm bảo có đủ hàng hóa"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 17,
+            "question": "Điểm phân tách (Decoupling Point) trong chuỗi cung ứng nhanh nhạy là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Điểm mà hàng tồn kho chiến lược được giữ lại để đảm bảo nguồn cung"
+                },
+                {
+                    "id": "B",
+                    "content": "Điểm mà nhu cầu thực tế thâm nhập vào phía trên chuỗi cung ứng"
+                },
+                {
+                    "id": "C",
+                    "content": "Vị trí trong chuỗi cung ứng nơi sản phẩm hoàn chỉnh được lưu kho"
+                },
+                {
+                    "id": "D",
+                    "content": "Điểm mà nhà cung cấp và khách hàng trao đổi đơn hàng với nhau"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 18,
+            "question": "Đặc điểm chính của chuỗi cung ứng nhanh nhạy là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chỉ tập trung vào giảm chi phí nguyên vật liệu"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhạy cảm với thị trường, chuỗi cung ứng ảo, tích hợp quy trình và mạng lưới hợp tác"
+                },
+                {
+                    "id": "C",
+                    "content": "Luôn duy trì mức tồn kho lớn để đảm bảo nguồn cung"
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ áp dụng trong các doanh nghiệp sản xuất quy mô lớn"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 19,
+            "question": "Kết nối cuối cùng \"Postponement\" trong chuỗi cung ứng nhanh nhạy có nghĩa là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dự trữ lượng lớn hàng tồn kho để tránh rủi ro thiếu hàng"
+                },
+                {
+                    "id": "B",
+                    "content": "Thiết kế sản phẩm với phần khung chung, chỉ hoàn thiện khi có yêu cầu cụ thể từ khách hàng"
+                },
+                {
+                    "id": "C",
+                    "content": "Sản xuất hàng loạt để tiết kiệm chi phí sản xuất"
+                },
+                {
+                    "id": "D",
+                    "content": "Đẩy mạnh sản xuất trước khi có đơn hàng để rút ngắn thời gian giao hàng"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 20,
+            "question": "Chuỗi cung ứng \"tinh nhạy\" (Leagile Supply Chain) là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chiến lược kết hợp cả chuỗi cung ứng tinh giản và nhanh nhạy để đạt hiệu quả cao"
+                },
+                {
+                    "id": "B",
+                    "content": "Một thuật ngữ khác của chuỗi cung ứng tinh giản"
+                },
+                {
+                    "id": "C",
+                    "content": "Mô hình chỉ áp dụng cho các doanh nghiệp bán lẻ"
+                },
+                {
+                    "id": "D",
+                    "content": "Chuỗi cung ứng không sử dụng công nghệ thông tin để quản lý dữ liệu"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 21,
+            "question": "Nhà bán lẻ có chức năng gì trong chuỗi cung ứng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lưu trữ hàng tồn kho và bán hàng trực tiếp cho khách hàng cuối cùng"
+                },
+                {
+                    "id": "B",
+                    "content": "Cung cấp nguyên vật liệu thô cho nhà sản xuất"
+                },
+                {
+                    "id": "C",
+                    "content": "Phân phối sản phẩm đến các đại lý bán buôn"
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ sản xuất sản phẩm và không tham gia bán hàng"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 22,
+            "question": "Yếu tố nào giúp nhà bán lẻ trong chuỗi cung ứng thu hút khách hàng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giá cả, lựa chọn sản phẩm, dịch vụ và các tiện ích"
+                },
+                {
+                    "id": "B",
+                    "content": "Chỉ tập trung vào dịch vụ trước khi bán hàng"
+                },
+                {
+                    "id": "C",
+                    "content": "Bán sản phẩm với giá cao hơn thị trường"
+                },
+                {
+                    "id": "D",
+                    "content": "Không quan tâm đến nhu cầu và sở thích của khách hàng"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 23,
+            "question": "Nhà cung cấp dịch vụ có vai trò gì trong chuỗi cung ứng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cung cấp dịch vụ cho các tổ chức trong chuỗi cung ứng như nhà sản xuất, nhà phân phối, nhà bán lẻ và khách hàng"
+                },
+                {
+                    "id": "B",
+                    "content": "Chỉ cung cấp dịch vụ cho khách hàng cuối cùng"
+                },
+                {
+                    "id": "C",
+                    "content": "Không tham gia vào chuỗi cung ứng"
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ tập trung vào việc sản xuất sản phẩm"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 24,
+            "question": "Trong chuỗi cung ứng, tồn kho bao gồm những yếu tố nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Loại hàng tồn kho tại mỗi khâu trong chuỗi cung ứng"
+                },
+                {
+                    "id": "B",
+                    "content": "Số lượng nguyên vật liệu thô cần tồn kho"
+                },
+                {
+                    "id": "C",
+                    "content": "Số lượng bán thành phẩm và thành phẩm cần lưu trữ"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án trên"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 25,
+            "question": "Thành phần nào trong chuỗi cung ứng liên quan đến việc xác định vị trí đặt nhà máy sản xuất và kho hàng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Định vị"
+                },
+                {
+                    "id": "B",
+                    "content": "Vận chuyển"
+                },
+                {
+                    "id": "C",
+                    "content": "Thông tin"
+                },
+                {
+                    "id": "D",
+                    "content": "Tồn kho"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 26,
+            "question": "Yếu tố nào ảnh hưởng đến quyết định định vị trong chuỗi cung ứng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hiệu quả về mặt chi phí của địa điểm sản xuất và lưu trữ hàng hóa"
+                },
+                {
+                    "id": "B",
+                    "content": "Việc xây dựng cơ sở vật chất mới hay sử dụng trang thiết bị hiện có"
+                },
+                {
+                    "id": "C",
+                    "content": "Con đường lưu chuyển sản phẩm đến khách hàng"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án trên"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 27,
+            "question": "Thông tin có vai trò gì trong chuỗi cung ứng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hỗ trợ đưa ra quyết định hiệu quả về sản xuất, tồn kho và vận chuyển"
+                },
+                {
+                    "id": "B",
+                    "content": "Không ảnh hưởng đến hoạt động chuỗi cung ứng"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ cần thiết đối với nhà sản xuất"
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ quan trọng trong giai đoạn vận chuyển"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 28,
+            "question": "Một hệ thống thông tin tốt giúp cải thiện điều gì trong chuỗi cung ứng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hợp tác giữa các bên tốt hơn"
+                },
+                {
+                    "id": "B",
+                    "content": "Các quyết định chính xác hơn"
+                },
+                {
+                    "id": "C",
+                    "content": "Hiệu quả trong sản xuất và vận chuyển"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án trên"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 29,
+            "question": "Mục tiêu chính của sản xuất tinh giản trong chuỗi cung ứng là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng lượng hàng tồn kho để đảm bảo cung ứng"
+                },
+                {
+                    "id": "B",
+                    "content": "Loại bỏ lãng phí và các hoạt động không tạo giá trị"
+                },
+                {
+                    "id": "C",
+                    "content": "Mở rộng quy mô sản xuất càng lớn càng tốt"
+                },
+                {
+                    "id": "D",
+                    "content": "Duy trì tồn kho lớn để đối phó với biến động thị trường"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 30,
+            "question": "Trong nguyên tắc của chuỗi cung ứng tinh giản, “giá trị” được xác định như thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Do nhà sản xuất quyết định"
+                },
+                {
+                    "id": "B",
+                    "content": "Dựa trên mong muốn của khách hàng"
+                },
+                {
+                    "id": "C",
+                    "content": "Theo tiêu chuẩn ngành công nghiệp"
+                },
+                {
+                    "id": "D",
+                    "content": "Do chính phủ quy định"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 31,
+            "question": "Phương pháp JIT trong chuỗi cung ứng tinh giản giúp đạt được mục tiêu nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dự trữ lượng hàng tồn kho lớn"
+                },
+                {
+                    "id": "B",
+                    "content": "Giảm thời gian sản xuất và giao hàng"
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng số lượng sản phẩm lỗi để kiểm tra chất lượng"
+                },
+                {
+                    "id": "D",
+                    "content": "Sản xuất nhiều hàng hóa trước khi có nhu cầu"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 32,
+            "question": "Chuỗi cung ứng nhanh nhạy khác với chuỗi cung ứng tinh giản ở điểm nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhanh nhạy tập trung vào linh hoạt và đáp ứng nhanh chóng, trong khi tinh giản tập trung vào loại bỏ lãng phí"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhanh nhạy chỉ áp dụng trong sản xuất, còn tinh giản áp dụng cho toàn bộ doanh nghiệp"
+                },
+                {
+                    "id": "C",
+                    "content": "Tinh giản yêu cầu nhiều hàng tồn kho hơn để giảm thiểu rủi ro, trong khi nhanh nhạy giảm tồn kho đến mức tối thiểu"
+                },
+                {
+                    "id": "D",
+                    "content": "Chuỗi cung ứng nhanh nhạy không sử dụng công nghệ thông tin để quản lý dữ liệu"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 33,
+            "question": "Mô hình Kanban trong chuỗi cung ứng nhanh nhạy có mục đích gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quản lý bổ sung liên tục, tức là khi một sản phẩm được bán ra hoặc sử dụng thì sản phẩm đó sẽ được thay thế ngay lập tức"
+                },
+                {
+                    "id": "B",
+                    "content": "Giảm thiểu lượng sản phẩm sản xuất để tối ưu hóa chi phí"
+                },
+                {
+                    "id": "C",
+                    "content": "Giữ mức tồn kho cao để đảm bảo luôn có hàng hóa sẵn sàng"
+                },
+                {
+                    "id": "D",
+                    "content": "Hạn chế giao tiếp giữa các nhà cung cấp để giảm thiểu thông tin dư thừa"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 34,
+            "question": "Một trong những lợi ích chính của tích hợp quy trình trong chuỗi cung ứng nhanh nhạy là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giảm thiểu việc chia sẻ thông tin để bảo mật dữ liệu"
+                },
+                {
+                    "id": "B",
+                    "content": "Cải thiện khả năng phản ứng nhanh với biến động thị trường nhờ vào sự hợp tác chặt chẽ giữa các đối tác"
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng mức tồn kho để tránh tình trạng thiếu hụt hàng hóa"
+                },
+                {
+                    "id": "D",
+                    "content": "Giảm thiểu sự phụ thuộc giữa các doanh nghiệp trong chuỗi cung ứng"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 35,
+            "question": "Chuỗi cung ứng nhanh nhạy hoạt động như thế nào để tăng cường sự hợp tác giữa các đối tác?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giữ bí mật về thông tin sản xuất và tồn kho giữa các bên để đảm bảo lợi thế cạnh tranh"
+                },
+                {
+                    "id": "B",
+                    "content": "Xây dựng hệ thống chia sẻ thông tin và dữ liệu giữa nhà cung cấp, nhà sản xuất và khách hàng"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ tập trung vào sản xuất theo lô lớn để giảm chi phí trên mỗi đơn vị sản phẩm"
+                },
+                {
+                    "id": "D",
+                    "content": "Giảm số lượng nhà cung cấp để đơn giản hóa quy trình sản xuất"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 36,
+            "question": "Mạng lưới (network) trong chuỗi cung ứng nhanh nhạy đóng vai trò gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giúp các đối tác trong chuỗi cung ứng hoạt động riêng lẻ, không cần liên kết với nhau"
+                },
+                {
+                    "id": "B",
+                    "content": "Tạo ra sự liên kết giữa các doanh nghiệp trong chuỗi cung ứng, giúp tăng khả năng phản ứng nhanh trước biến động thị trường"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ tập trung vào việc cắt giảm chi phí sản xuất mà không quan tâm đến nhu cầu khách hàng"
+                },
+                {
+                    "id": "D",
+                    "content": "Hạn chế sự hợp tác giữa các doanh nghiệp để tránh rủi ro cạnh tranh"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 37,
+            "question": "Tại sao tích hợp quy trình (process intergration) lại quan trọng trong chuỗi cung ứng nhanh nhạy?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giúp các công ty hoạt động độc lập, không bị ảnh hưởng bởi các đối tác khác"
+                },
+                {
+                    "id": "B",
+                    "content": "Hỗ trợ việc ra quyết định nhanh hơn nhờ vào chia sẻ thông tin và hợp tác chặt chẽ giữa các bên trong chuỗi cung ứng"
+                },
+                {
+                    "id": "C",
+                    "content": "Làm giảm tính linh hoạt của doanh nghiệp khi phải phụ thuộc vào đối tác khác"
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ giúp tiết kiệm chi phí mà không ảnh hưởng đến khả năng đáp ứng nhu cầu thị trường"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 38,
+            "question": "Để đảm bảo các dự báo nhất quán và phân bổ nguồn lực tối ưu, doanh nghiệp cần tuân theo nguyên tắc nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phát triển chiến lược ứng dụng công nghệ"
+                },
+                {
+                    "id": "B",
+                    "content": "Lắng nghe tín hiệu thị trường và lên kế hoạch nhu cầu tương ứng"
+                },
+                {
+                    "id": "C",
+                    "content": "Áp dụng các chỉ tiêu đánh giá hiệu quả hoạt động"
+                },
+                {
+                    "id": "D",
+                    "content": "Giảm tổng chi phí nguyên vật liệu"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 39,
+            "question": "Doanh nghiệp nên quản lý nguồn cung một cách chiến lược nhằm mục đích gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giảm tổng chi phí nguyên vật liệu và dịch vụ"
+                },
+                {
+                    "id": "B",
+                    "content": "Tối đa hóa sản xuất mà không quan tâm đến nhu cầu thị trường"
+                },
+                {
+                    "id": "C",
+                    "content": "Giữ mức tồn kho cao để tránh thiếu hụt nguồn cung"
+                },
+                {
+                    "id": "D",
+                    "content": "Giảm số lượng nhà cung cấp để tối ưu hóa chuỗi cung ứng"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        }
+    ]
+}
