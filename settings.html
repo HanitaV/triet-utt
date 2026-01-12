@@ -768,6 +768,9 @@
         };
 
         // Render Subject Selector in Settings
+        // NOTE: The KTH (Kinh tế học) subject is intentionally disabled and will not appear in the list.
+        // Only subjects defined in subjects.json are available for selection.
+        // Disabled subjects are also blocked at the code level in common.js (DISABLED_SUBJECTS array).
         async function renderSubjectSelector() {
             await loadSubjectsList();
 
