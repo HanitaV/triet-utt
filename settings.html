@@ -1,12 +1,862 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi" data-theme="dark">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Settings</title>
+    <title>Cài đặt | NEO Education</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/common.css?v=2025122905">
+    <link rel="stylesheet" href="css/m3-design-system.css?v=2025122905">
+    <link rel="stylesheet" href="css/dashboard.css?v=2025122905">
+    <link rel="stylesheet" href="css/settings.css?v=2025122905">
 </head>
-<body>
-    <h1>Settings Page</h1>
-    <p>Welcome to the settings page!</p>
+
+<body class="settings-page">
+    <!-- Header Navigation -->
+    <header class="main-header">
+        <div class="header-content">
+            <a href="index.html" class="logo header-logo-centered" id="header-logo">
+                <img src="assets/logo/dark_logo.png" alt="NEO" class="logo-img logo-for-dark" height="32">
+                <img src="assets/logo/white_logo.png" alt="NEO" class="logo-img logo-for-light" height="32">
+                <span class="logo-text">NEO Education</span>
+            </a>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="md-container" style="padding: 24px 16px; max-width: 800px;">
+            <h2 class="md-section-title">Cài đặt & Dữ liệu</h2>
+
+            <!-- Subject Selector Section -->
+            <div class="md-card md-card-outlined">
+                <div class="md-card-body">
+                    <div class="md-data-header">
+                        <span class="md-data-icon">📚</span>
+                        <div class="md-data-text">
+                            <h3>Chọn môn học</h3>
+                            <p>Chọn môn học bạn muốn ôn tập</p>
+                        </div>
+                    </div>
+                    <div id="subject-list" class="subject-selector-list"
+                        style="margin-top: 16px; display: flex; flex-direction: column; gap: 8px;">
+                        <!-- Subject options will be rendered here by JS -->
+                        <div style="color: var(--md-on-surface-variant); font-size: 14px;">Đang tải danh sách môn học...
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Theme Toggle Section -->
+            <div class="md-card md-card-outlined">
+                <div class="md-card-body">
+                    <div class="md-data-header" style="margin-bottom: 16px;">
+                        <span class="md-data-icon">🎨</span>
+                        <div class="md-data-text">
+                            <h3>Giao diện</h3>
+                            <p>Chọn chế độ giao diện phù hợp với bạn</p>
+                        </div>
+                    </div>
+                    <div id="theme-options" style="display: flex; gap: 12px; flex-wrap: wrap;">
+                        <div class="theme-option" data-theme="dark" onclick="selectTheme('dark')">
+                            <div class="theme-icon">🌙</div>
+                            <div class="theme-label">Tối</div>
+                        </div>
+                        <div class="theme-option" data-theme="light" onclick="selectTheme('light')">
+                            <div class="theme-icon">☀️</div>
+                            <div class="theme-label">Sáng</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Experimental Features Section -->
+            <div class="md-card md-card-outlined">
+                <div class="md-card-body">
+                    <div class="md-data-header" style="margin-bottom: 16px;">
+                        <span class="md-data-icon">🎨</span>
+                        <div class="md-data-text">
+                            <h3>Màu chủ đạo (Material You)</h3>
+                            <p>Chọn màu sắc yêu thích để cá nhân hóa giao diện</p>
+                        </div>
+                    </div>
+
+                    <!-- Color Selection - Compact with Expand -->
+                    <div id="color-theme-container">
+                        <!-- Current Color Display -->
+                        <div class="current-color-display" id="current-color-display">
+                            <div class="current-color-info">
+                                <div class="color-circle" id="current-color-circle" style="width: 40px; height: 40px;">
+                                </div>
+                                <div class="current-color-text">
+                                    <span class="current-color-label">Đang dùng:</span>
+                                    <span class="current-color-name" id="current-color-name">NEO</span>
+                                </div>
+                            </div>
+                            <button class="expand-colors-btn" id="expand-colors-btn" onclick="toggleColorPicker()">
+                                <span id="expand-btn-text">🎨 Đổi màu</span>
+                                <span class="expand-icon" id="expand-icon">▼</span>
+                            </button>
+                        </div>
+
+                        <!-- Quick Color Selection (Always visible when expanded) -->
+                        <div class="quick-colors" id="quick-colors" style="display: none;">
+                            <div class="color-options-row compact">
+                                <div class="color-option" onclick="selectColorTheme('default')" data-color="default"
+                                    title="NEO">
+                                    <div class="color-circle split-color"
+                                        style="--color-left: #7c3aed; --color-right: #06b6d4;"></div>
+                                </div>
+                                <div class="color-option" onclick="selectColorTheme('ocean')" data-color="ocean"
+                                    title="Đại dương">
+                                    <div class="color-circle" style="background: #0ea5e9;"></div>
+                                </div>
+                                <div class="color-option" onclick="selectColorTheme('nature')" data-color="nature"
+                                    title="Thiên nhiên">
+                                    <div class="color-circle" style="background: #10b981;"></div>
+                                </div>
+                                <div class="color-option" onclick="selectColorTheme('berry')" data-color="berry"
+                                    title="Dâu tây">
+                                    <div class="color-circle" style="background: #ec4899;"></div>
+                                </div>
+                                <div class="color-option" onclick="selectColorTheme('royal')" data-color="royal"
+                                    title="Hoàng gia">
+                                    <div class="color-circle" style="background: #4338ca;"></div>
+                                </div>
+                                <div class="color-option" onclick="selectColorTheme('sunset')" data-color="sunset"
+                                    title="Hoàng hôn">
+                                    <div class="color-circle" style="background: #f59e0b;"></div>
+                                </div>
+                                <div class="color-option" onclick="selectColorTheme('aurora')" data-color="aurora"
+                                    title="Cực quang">
+                                    <div class="color-circle"
+                                        style="background: linear-gradient(135deg, #06b6d4, #8b5cf6);"></div>
+                                </div>
+                                <div class="color-option" onclick="selectColorTheme('galaxy')" data-color="galaxy"
+                                    title="Ngân hà">
+                                    <div class="color-circle"
+                                        style="background: linear-gradient(135deg, #4338ca, #ec4899);"></div>
+                                </div>
+                            </div>
+
+                            <!-- More Colors Button -->
+                            <button class="show-all-colors-btn" id="show-all-colors-btn" onclick="toggleAllColors()">
+                                <span id="all-colors-btn-text">Xem thêm 20+ màu</span>
+                                <span class="expand-icon" id="all-colors-icon">▼</span>
+                            </button>
+                        </div>
+
+                        <!-- All Color Categories (Hidden by default) -->
+                        <div class="all-colors-panel" id="all-colors-panel" style="display: none;">
+                            <!-- Warm Colors -->
+                            <div class="color-category compact">
+                                <div class="color-category-label">🔥 Nóng</div>
+                                <div class="color-options-row compact">
+                                    <div class="color-option" onclick="selectColorTheme('crimson')" data-color="crimson"
+                                        title="Đỏ tươi">
+                                        <div class="color-circle" style="background: #dc2626;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('rose')" data-color="rose"
+                                        title="Hoa hồng">
+                                        <div class="color-circle" style="background: #f43f5e;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('coral')" data-color="coral"
+                                        title="San hô">
+                                        <div class="color-circle" style="background: #fb7185;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('orange')" data-color="orange"
+                                        title="Cam">
+                                        <div class="color-circle" style="background: #f97316;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('peach')" data-color="peach"
+                                        title="Đào">
+                                        <div class="color-circle" style="background: #fdba74;"></div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Cool Colors -->
+                            <div class="color-category compact">
+                                <div class="color-category-label">❄️ Lạnh</div>
+                                <div class="color-options-row compact">
+                                    <div class="color-option" onclick="selectColorTheme('teal')" data-color="teal"
+                                        title="Ngọc bích">
+                                        <div class="color-circle" style="background: #0d9488;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('cyan')" data-color="cyan"
+                                        title="Xanh lam">
+                                        <div class="color-circle" style="background: #06b6d4;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('sky')" data-color="sky"
+                                        title="Bầu trời">
+                                        <div class="color-circle" style="background: #38bdf8;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('indigo')" data-color="indigo"
+                                        title="Chàm">
+                                        <div class="color-circle" style="background: #6366f1;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('violet')" data-color="violet"
+                                        title="Tím">
+                                        <div class="color-circle" style="background: #8b5cf6;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('purple')" data-color="purple"
+                                        title="Tím đậm">
+                                        <div class="color-circle" style="background: #a855f7;"></div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Earth Tones -->
+                            <div class="color-category compact">
+                                <div class="color-category-label">🍂 Đất</div>
+                                <div class="color-options-row compact">
+                                    <div class="color-option" onclick="selectColorTheme('coffee')" data-color="coffee"
+                                        title="Cà phê">
+                                        <div class="color-circle" style="background: #78350f;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('amber')" data-color="amber"
+                                        title="Hổ phách">
+                                        <div class="color-circle" style="background: #d97706;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('olive')" data-color="olive"
+                                        title="Ô liu">
+                                        <div class="color-circle" style="background: #65a30d;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('emerald')" data-color="emerald"
+                                        title="Ngọc lục">
+                                        <div class="color-circle" style="background: #059669;"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('midnight')"
+                                        data-color="midnight" title="Đêm khuya">
+                                        <div class="color-circle"
+                                            style="background: #1e3a5f; border: 1px solid var(--md-outline);"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('slate')" data-color="slate"
+                                        title="Xám đá">
+                                        <div class="color-circle" style="background: #475569;"></div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Gradients -->
+                            <div class="color-category compact">
+                                <div class="color-category-label">✨ Gradient</div>
+                                <div class="color-options-row compact">
+                                    <div class="color-option" onclick="selectColorTheme('sakura')" data-color="sakura"
+                                        title="Anh đào">
+                                        <div class="color-circle"
+                                            style="background: linear-gradient(135deg, #f472b6, #fb7185);"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('forest')" data-color="forest"
+                                        title="Rừng xanh">
+                                        <div class="color-circle"
+                                            style="background: linear-gradient(135deg, #059669, #84cc16);"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('fire')" data-color="fire"
+                                        title="Ngọn lửa">
+                                        <div class="color-circle"
+                                            style="background: linear-gradient(135deg, #f59e0b, #dc2626);"></div>
+                                    </div>
+                                    <div class="color-option" onclick="selectColorTheme('mint')" data-color="mint"
+                                        title="Bạc hà">
+                                        <div class="color-circle"
+                                            style="background: linear-gradient(135deg, #10b981, #06b6d4);"></div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Custom Colors -->
+                            <div class="color-category compact custom-color-section">
+                                <div class="color-category-label">🎯 Tùy chỉnh</div>
+                                <div class="color-options-row compact" id="custom-colors-row"></div>
+                                <div class="custom-color-actions">
+                                    <div class="color-option add-custom-color" id="add-custom-color-btn"
+                                        title="Thêm màu">
+                                        <div class="color-circle"
+                                            style="background: linear-gradient(135deg, #667eea, #764ba2); display: flex; align-items: center; justify-content: center;">
+                                            <span style="color: white; font-size: 18px; font-weight: 300;">+</span>
+                                        </div>
+                                        <input type="color" id="custom-color-picker" value="#7c3aed">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Color Suggestions (shown when a color is selected) -->
+                        <div class="color-category color-suggestions-section" id="color-suggestions"
+                            style="display: none;">
+                            <div class="color-category-label">💡 Gợi ý phối màu</div>
+                            <div class="color-options-row compact" id="suggested-colors-row"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="md-card md-card-outlined">
+                <div class="md-card-body">
+                    <div class="md-data-header">
+                        <span class="md-data-icon">💾</span>
+                        <div class="md-data-text">
+                            <h3>Quản lý dữ liệu</h3>
+                            <p>Dữ liệu học tập được lưu trên trình duyệt của bạn. Hãy sao lưu thường xuyên để tránh mất
+                                dữ liệu.</p>
+                        </div>
+                    </div>
+                    <div class="md-data-actions" style="display: flex; gap: 12px; flex-wrap: wrap;">
+                        <button onclick="exportData()" class="md-btn md-btn-filled">
+                            ⬇️ Sao lưu dữ liệu
+                        </button>
+                        <button onclick="document.getElementById('import-file').click()" class="md-btn md-btn-outlined">
+                            ⬆️ Khôi phục dữ liệu
+                        </button>
+                        <input type="file" id="import-file" style="display: none" onchange="importData(this)">
+                    </div>
+                    <div style="margin-top: 16px; font-size: 13px; color: var(--md-error);">
+                        * Lưu ý: Xóa cache trình duyệt sẽ làm mất dữ liệu nếu chưa sao lưu.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Support Section -->
+            <div class="md-card md-card-outlined">
+                <div class="md-card-body"
+                    style="display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap;">
+                    <div style="flex: 1; min-width: 200px;">
+                        <h3 class="md-card-title"
+                            style="color: var(--md-primary); display: flex; align-items: center; gap: 8px;">
+                            ☕ Ủng hộ phát triển
+                        </h3>
+                        <p class="md-card-text" style="font-size: 14px; margin-top: 4px;">Dự án phi lợi nhuận. Mọi sự
+                            ủng hộ giúp duy trì server và phát triển tính năng mới.</p>
+                    </div>
+                    <button onclick="openSupportModal()" class="md-btn md-btn-filled"
+                        style="background: var(--md-primary); color: var(--md-on-primary);">
+                        Mời ly cà phê ☕
+                    </button>
+                </div>
+            </div>
+
+            <!-- App Info / Footer Content Moved Here -->
+            <div class="md-card md-card-filled">
+                <div class="md-card-body">
+                    <h3 class="md-card-title" style="font-size: 18px; margin-bottom: 16px;">Thông tin ứng dụng</h3>
+
+                    <div
+                        style="color: var(--md-on-surface-variant); font-size: 14px; line-height: 1.6; display: flex; flex-direction: column; gap: 12px;">
+                        <p><strong>Ôn Thi Trắc Nghiệm</strong> là dự án mã nguồn mở hỗ trợ sinh viên ôn tập hiệu quả.
+                        </p>
+
+                        <p id="footer-school-info">
+                            Ôn tập miễn phí do sinh viên trường <strong>Đại học Công nghệ Giao thông vận tải</strong>
+                            tạo và
+                            <strong>Học viện Công nghệ Bưu chính Viễn thông</strong> hỗ trợ nội dung ❤️
+                        </p>
+
+                        <div class="footer-disclaimer"
+                            style="font-style: italic; opacity: 0.8; padding: 12px; background: var(--md-surface-container-high); border-radius: 8px;">
+                            Disclaimer: Gemini có thể mắc sai lầm, các câu hỏi, đáp án và nội dung lý thuyết nên dừng
+                            lại ở mức độ tham khảo.
+                        </div>
+
+                        <div style="border-top: 1px solid var(--md-outline-variant); margin: 8px 0;"></div>
+
+                        <a href="https://www.facebook.com/HanitaVII" target="_blank" class="text-secondary"
+                            style="text-decoration: none; display: inline-flex; align-items: center; gap: 8px; color: var(--md-primary);">
+                            <span style="font-size: 20px;">👨‍💻</span>
+                            <span>Liên hệ / Góp ý: <strong>HanitaVII</strong></span>
+                        </a>
+
+                        <div class="footer-version" style="font-size: 12px; opacity: 0.6; font-family: monospace;">
+                            <span>v2.0.0</span> •
+                            <span>Updated: 29/12/2025</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- No global footer here as it's moved to main content -->
+
+    <!-- Support Modal -->
+    <div class="modal" id="support-modal">
+        <div class="modal-overlay" onclick="closeSupportModal()"></div>
+        <div class="modal-content" style="max-width: 360px; text-align: center; padding: 24px;">
+            <div style="font-size: 48px; margin-bottom: 16px;">☕</div>
+            <h3 style="margin-bottom: 12px; font-size: 20px;">Cảm ơn bạn đã ủng hộ!</h3>
+            <p style="color: var(--md-on-surface-variant); font-size: 14px; margin-bottom: 20px;">
+                Quét mã QR để ủng hộ qua Momo / Ngân hàng
+            </p>
+
+            <div
+                style="background: white; padding: 12px; border-radius: 16px; display: inline-block; box-shadow: var(--md-shadow-1); margin-bottom: 20px;">
+                <img src="assets/photos/qr.png" alt="QR Code"
+                    style="width: 100%; max-width: 250px; display: block; border-radius: 8px;">
+            </div>
+
+            <div style="margin-bottom: 24px;">
+                <p style="font-size: 13px; font-weight: 500;">HanitaVII</p>
+            </div>
+
+            <button onclick="closeSupportModal()" class="md-btn md-btn-tonal" style="width: 100%;">
+                Đóng
+            </button>
+        </div>
+    </div>
+
+    <!-- Floating Navigation Dock (Moved from Header) -->
+    <nav class="main-nav">
+        <a href="index.html" class="nav-tab">
+            <span class="tab-icon">🏠</span>
+            <span class="tab-text">Trang chủ</span>
+        </a>
+        <a href="study.html" class="nav-tab">
+            <span class="tab-icon">📖</span>
+            <span class="tab-text">Học tập</span>
+        </a>
+        <a href="exam.html" class="nav-tab">
+            <span class="tab-icon">📝</span>
+            <span class="tab-text">Thi thử</span>
+        </a>
+        <a href="simulation.html" class="nav-tab">
+            <span class="tab-icon">🎯</span>
+            <span class="tab-text">Giả lập</span>
+        </a>
+        <a href="settings.html" class="nav-tab active">
+            <span class="tab-icon">⚙️</span>
+            <span class="tab-text">Cài đặt</span>
+        </a>
+    </nav>
+
+    <script src="js/progress.js?v=2025122905"></script>
+    <script src="js/common.js?v=2025122905"></script>
+    <script src="js/dashboard.js?v=2025122905"></script>
+    <!-- Reusing dashboard.js for export/import logic if functions are global or accessible -->
+    <script>
+        // Color suggestions data - complementary and analogous colors for each theme
+        const colorSuggestions = {
+            'default': ['ocean', 'violet', 'aurora', 'berry'],
+            'ocean': ['cyan', 'teal', 'sky', 'aurora'],
+            'nature': ['emerald', 'olive', 'forest', 'mint'],
+            'berry': ['rose', 'coral', 'sakura', 'violet'],
+            'royal': ['indigo', 'violet', 'galaxy', 'midnight'],
+            'sunset': ['orange', 'amber', 'fire', 'peach'],
+            'crimson': ['rose', 'coral', 'fire', 'berry'],
+            'rose': ['coral', 'sakura', 'berry', 'peach'],
+            'coral': ['rose', 'peach', 'sakura', 'sunset'],
+            'orange': ['amber', 'sunset', 'peach', 'fire'],
+            'peach': ['coral', 'orange', 'sunset', 'sakura'],
+            'teal': ['cyan', 'emerald', 'mint', 'ocean'],
+            'cyan': ['sky', 'ocean', 'teal', 'aurora'],
+            'sky': ['ocean', 'cyan', 'indigo', 'aurora'],
+            'indigo': ['violet', 'royal', 'galaxy', 'purple'],
+            'violet': ['purple', 'indigo', 'aurora', 'berry'],
+            'purple': ['violet', 'berry', 'galaxy', 'sakura'],
+            'coffee': ['amber', 'olive', 'slate', 'midnight'],
+            'amber': ['sunset', 'orange', 'coffee', 'olive'],
+            'olive': ['nature', 'emerald', 'forest', 'amber'],
+            'emerald': ['nature', 'teal', 'forest', 'mint'],
+            'midnight': ['slate', 'royal', 'indigo', 'coffee'],
+            'slate': ['midnight', 'coffee', 'indigo', 'teal'],
+            'aurora': ['cyan', 'violet', 'mint', 'sky'],
+            'sakura': ['rose', 'coral', 'berry', 'peach'],
+            'forest': ['nature', 'emerald', 'olive', 'mint'],
+            'fire': ['sunset', 'orange', 'crimson', 'amber'],
+            'galaxy': ['royal', 'indigo', 'violet', 'berry'],
+            'mint': ['teal', 'cyan', 'nature', 'aurora']
+        };
+
+        // Color name mapping for display
+        const colorNames = {
+            'default': 'NEO', 'ocean': 'Đại dương', 'nature': 'Thiên nhiên', 'berry': 'Dâu tây',
+            'royal': 'Hoàng gia', 'sunset': 'Hoàng hôn', 'crimson': 'Đỏ tươi', 'rose': 'Hoa hồng',
+            'coral': 'San hô', 'orange': 'Cam', 'peach': 'Đào', 'teal': 'Ngọc bích',
+            'cyan': 'Xanh lam', 'sky': 'Bầu trời', 'indigo': 'Chàm', 'violet': 'Tím',
+            'purple': 'Tím đậm', 'coffee': 'Cà phê', 'amber': 'Hổ phách', 'olive': 'Ô liu',
+            'emerald': 'Ngọc lục', 'midnight': 'Đêm khuya', 'slate': 'Xám đá',
+            'aurora': 'Cực quang', 'sakura': 'Anh đào', 'forest': 'Rừng xanh',
+            'fire': 'Ngọn lửa', 'galaxy': 'Ngân hà', 'mint': 'Bạc hà'
+        };
+
+        // Color hex values
+        const colorHex = {
+            'default': '#7c3aed', 'ocean': '#0ea5e9', 'nature': '#10b981', 'berry': '#ec4899',
+            'royal': '#4338ca', 'sunset': '#f59e0b', 'crimson': '#dc2626', 'rose': '#f43f5e',
+            'coral': '#fb7185', 'orange': '#f97316', 'peach': '#fdba74', 'teal': '#0d9488',
+            'cyan': '#06b6d4', 'sky': '#38bdf8', 'indigo': '#6366f1', 'violet': '#8b5cf6',
+            'purple': '#a855f7', 'coffee': '#78350f', 'amber': '#d97706', 'olive': '#65a30d',
+            'emerald': '#059669', 'midnight': '#1e3a5f', 'slate': '#475569',
+            'aurora': '#06b6d4', 'sakura': '#f472b6', 'forest': '#059669',
+            'fire': '#f59e0b', 'galaxy': '#4338ca', 'mint': '#10b981'
+        };
+
+        // Ensure active tab is highlighted if common.js overrides it
+        document.addEventListener('DOMContentLoaded', async () => {
+            const tabs = document.querySelectorAll('.nav-tab');
+            tabs.forEach(t => t.classList.remove('active'));
+            const settingsTab = document.querySelector('a[href="settings.html"]');
+            if (settingsTab) settingsTab.classList.add('active');
+
+            // Render subject selector
+            await renderSubjectSelector();
+
+            // Initialize color theme UI
+            initColorThemeUI();
+
+            // Load custom colors
+            renderCustomColors();
+        });
+
+        // Initialize color theme selection UI
+        function initColorThemeUI() {
+            const saved = localStorage.getItem('color-theme') || 'default';
+            const currentColorTheme = (saved && saved.startsWith('custom:')) ? 'custom' : (saved || 'default');
+            updateColorThemeActiveState(currentColorTheme);
+            updateCurrentColorDisplay(currentColorTheme);
+
+            // Setup custom color picker
+            const customPicker = document.getElementById('custom-color-picker');
+            if (customPicker) {
+                customPicker.addEventListener('change', (e) => {
+                    addCustomColor(e.target.value);
+                });
+            }
+        }
+
+        // Update current color display
+        function updateCurrentColorDisplay(theme) {
+            const circle = document.getElementById('current-color-circle');
+            const name = document.getElementById('current-color-name');
+
+            if (circle && name) {
+                const isGradient = ['aurora', 'sakura', 'forest', 'fire', 'galaxy', 'mint'].includes(theme);
+                const isSplit = theme === 'default';
+                const isCustom = theme === 'custom';
+
+                if (isSplit) {
+                    circle.style.background = 'linear-gradient(90deg, #7c3aed 50%, #06b6d4 50%)';
+                } else if (isGradient) {
+                    circle.style.background = getGradientStyle(theme).replace('background: ', '').replace(';', '');
+                } else if (isCustom) {
+                    const saved = localStorage.getItem('color-theme') || '';
+                    const customHex = saved.startsWith('custom:') ? saved.split(':')[1] : '#7c3aed';
+                    circle.style.background = customHex;
+                } else {
+                    circle.style.background = colorHex[theme] || '#7c3aed';
+                }
+
+                name.textContent = colorNames[theme] || (isCustom ? 'Tùy chỉnh' : theme);
+            }
+        }
+
+        // Toggle color picker visibility
+        let colorPickerOpen = false;
+        function toggleColorPicker() {
+            colorPickerOpen = !colorPickerOpen;
+            const quickColors = document.getElementById('quick-colors');
+            const expandIcon = document.getElementById('expand-icon');
+            const expandBtnText = document.getElementById('expand-btn-text');
+
+            if (quickColors) {
+                quickColors.style.display = colorPickerOpen ? 'block' : 'none';
+            }
+            if (expandIcon) {
+                expandIcon.classList.toggle('rotated', colorPickerOpen);
+            }
+            if (expandBtnText) {
+                expandBtnText.textContent = colorPickerOpen ? '✕ Đóng' : '🎨 Đổi màu';
+            }
+
+            // Close all colors panel when closing main picker
+            if (!colorPickerOpen) {
+                const allColorsPanel = document.getElementById('all-colors-panel');
+                if (allColorsPanel) allColorsPanel.style.display = 'none';
+                const allColorsIcon = document.getElementById('all-colors-icon');
+                if (allColorsIcon) allColorsIcon.classList.remove('rotated');
+            }
+        }
+
+        // Toggle all colors panel
+        let allColorsOpen = false;
+        function toggleAllColors() {
+            allColorsOpen = !allColorsOpen;
+            const allColorsPanel = document.getElementById('all-colors-panel');
+            const allColorsIcon = document.getElementById('all-colors-icon');
+            const allColorsBtnText = document.getElementById('all-colors-btn-text');
+
+            if (allColorsPanel) {
+                allColorsPanel.style.display = allColorsOpen ? 'block' : 'none';
+            }
+            if (allColorsIcon) {
+                allColorsIcon.classList.toggle('rotated', allColorsOpen);
+            }
+            if (allColorsBtnText) {
+                allColorsBtnText.textContent = allColorsOpen ? 'Thu gọn' : 'Xem thêm 20+ màu';
+            }
+        }
+
+        // Update active state for color options
+        function updateColorThemeActiveState(theme) {
+            document.querySelectorAll('.color-option').forEach(option => {
+                option.classList.remove('active');
+                if (option.dataset.color === theme) {
+                    option.classList.add('active');
+                }
+            });
+        }
+
+        // Show color suggestions based on selected color
+        function showColorSuggestions(theme) {
+            const suggestionsSection = document.getElementById('color-suggestions');
+            const suggestionsRow = document.getElementById('suggested-colors-row');
+
+            if (!suggestionsSection || !suggestionsRow) return;
+
+            const suggestions = colorSuggestions[theme];
+            if (!suggestions || suggestions.length === 0) {
+                suggestionsSection.style.display = 'none';
+                return;
+            }
+
+            suggestionsRow.innerHTML = suggestions.map(colorId => {
+                const isGradient = ['aurora', 'sakura', 'forest', 'fire', 'galaxy', 'mint'].includes(colorId);
+                const bgStyle = isGradient
+                    ? getGradientStyle(colorId)
+                    : `background: ${colorHex[colorId]};`;
+
+                return `
+                    <div class="color-option" onclick="selectColorTheme('${colorId}')" data-color="${colorId}" title="${colorNames[colorId]}">
+                        <div class="color-circle" style="${bgStyle}"></div>
+                        <span>${colorNames[colorId] || colorId}</span>
+                    </div>
+                `;
+            }).join('');
+
+            suggestionsSection.style.display = 'block';
+        }
+
+        // Get gradient style for gradient themes
+        function getGradientStyle(colorId) {
+            const gradients = {
+                'aurora': 'background: linear-gradient(135deg, #06b6d4, #8b5cf6);',
+                'sakura': 'background: linear-gradient(135deg, #f472b6, #fb7185);',
+                'forest': 'background: linear-gradient(135deg, #059669, #84cc16);',
+                'fire': 'background: linear-gradient(135deg, #f59e0b, #dc2626);',
+                'galaxy': 'background: linear-gradient(135deg, #4338ca, #ec4899);',
+                'mint': 'background: linear-gradient(135deg, #10b981, #06b6d4);'
+            };
+            return gradients[colorId] || `background: ${colorHex[colorId]};`;
+        }
+
+        // Custom Colors Management
+        function getCustomColors() {
+            const stored = localStorage.getItem('quiz-custom-colors');
+            return stored ? JSON.parse(stored) : [];
+        }
+
+        function saveCustomColors(colors) {
+            localStorage.setItem('quiz-custom-colors', JSON.stringify(colors));
+        }
+
+        function addCustomColor(hexColor) {
+            const colors = getCustomColors();
+            // Avoid duplicates
+            if (!colors.includes(hexColor)) {
+                colors.push(hexColor);
+                saveCustomColors(colors);
+                renderCustomColors();
+            }
+            // Apply the custom color immediately
+            applyCustomColorUI(hexColor);
+        }
+
+        function removeCustomColor(hexColor) {
+            let colors = getCustomColors();
+            colors = colors.filter(c => c !== hexColor);
+            saveCustomColors(colors);
+            renderCustomColors();
+        }
+
+        function renderCustomColors() {
+            const container = document.getElementById('custom-colors-row');
+            if (!container) return;
+
+            const colors = getCustomColors();
+
+            if (colors.length === 0) {
+                container.innerHTML = '<span style="font-size: 12px; color: var(--md-on-surface-variant);">Chưa có màu tùy chỉnh</span>';
+                return;
+            }
+
+            const saved = localStorage.getItem('color-theme') || '';
+            const currentCustomColor = saved.startsWith('custom:') ? saved.split(':')[1] : null;
+
+            container.innerHTML = colors.map(hex => `
+                <div class="color-option custom-color-item ${currentCustomColor === hex ? 'active' : ''}" 
+                     onclick="applyCustomColorUI('${hex}')" 
+                     data-color="custom-${hex}">
+                    <div class="color-circle" style="background: ${hex};"></div>
+                    <button class="delete-btn" onclick="event.stopPropagation(); removeCustomColor('${hex}')">×</button>
+                    <span>${hex}</span>
+                </div>
+            `).join('');
+        }
+
+        function applyCustomColorUI(hexColor) {
+            // Prefer common.js implementation so all pages stay consistent
+            if (typeof window.applyCustomColor === 'function') {
+                window.applyCustomColor(hexColor);
+            } else {
+                // Fallback: mimic common.js behavior
+                const html = document.documentElement;
+                html.removeAttribute('data-color-theme');
+                html.style.setProperty('--accent', hexColor);
+                html.style.setProperty('--accent-hover', `color-mix(in srgb, ${hexColor}, white 20%)`);
+                html.style.setProperty('--accent-light', `color-mix(in srgb, ${hexColor}, transparent 85%)`);
+                html.style.setProperty('--accent-secondary', `color-mix(in srgb, ${hexColor}, blue 20%)`);
+                html.style.setProperty('--accent-gradient', `linear-gradient(135deg, ${hexColor}, color-mix(in srgb, ${hexColor}, black 20%))`);
+                localStorage.setItem('color-theme', `custom:${hexColor}`);
+            }
+
+            // Update UI
+            updateColorThemeActiveState('custom');
+            updateCurrentColorDisplay('custom');
+            document.querySelectorAll('.custom-color-item').forEach(el => el.classList.remove('active'));
+            document.querySelectorAll(`[data-color="custom-${hexColor}"]`).forEach(el => el.classList.add('active'));
+            const suggestionsSection = document.getElementById('color-suggestions');
+            if (suggestionsSection) suggestionsSection.style.display = 'none';
+        }
+
+        // Helper: Lighten a hex color
+        function lightenColor(hex, percent) {
+            const num = parseInt(hex.replace('#', ''), 16);
+            const amt = Math.round(2.55 * percent);
+            const R = Math.min(255, (num >> 16) + amt);
+            const G = Math.min(255, ((num >> 8) & 0x00FF) + amt);
+            const B = Math.min(255, (num & 0x0000FF) + amt);
+            return '#' + (0x1000000 + R * 0x10000 + G * 0x100 + B).toString(16).slice(1);
+        }
+
+        // Override selectColorTheme to add suggestions
+        const originalSelectColorTheme = window.selectColorTheme;
+        window.selectColorTheme = function (theme) {
+            // Call original function from common.js
+            if (originalSelectColorTheme) {
+                originalSelectColorTheme(theme);
+            } else {
+                // Fallback implementation
+                if (theme === 'default') {
+                    document.documentElement.removeAttribute('data-color-theme');
+                    localStorage.removeItem('color-theme');
+                } else {
+                    document.documentElement.setAttribute('data-color-theme', theme);
+                    localStorage.setItem('color-theme', theme);
+                }
+                // Remove custom color styles if selecting a preset
+                document.documentElement.style.removeProperty('--accent');
+                document.documentElement.style.removeProperty('--accent-hover');
+                document.documentElement.style.removeProperty('--accent-light');
+                document.documentElement.style.removeProperty('--accent-secondary');
+                document.documentElement.style.removeProperty('--accent-gradient');
+            }
+
+            // Update UI
+            updateColorThemeActiveState(theme);
+            updateCurrentColorDisplay(theme);
+            showColorSuggestions(theme);
+            renderCustomColors(); // Refresh custom colors active state
+        };
+
+        // Render Subject Selector in Settings
+        // NOTE: The KTH (Kinh tế học) subject is intentionally disabled and will not appear in the list.
+        // Only subjects defined in subjects.json are available for selection.
+        // Disabled subjects are also blocked at the code level in common.js (DISABLED_SUBJECTS array).
+        async function renderSubjectSelector() {
+            await loadSubjectsList();
+
+            const container = document.getElementById('subject-list');
+            if (!container || subjectsData.length === 0) {
+                if (container) container.innerHTML = '<div style="color: var(--md-on-surface-variant);">Không tìm thấy môn học nào.</div>';
+                return;
+            }
+
+            const currentSubjectId = getCurrentSubjectId();
+
+            container.innerHTML = subjectsData.map(subject => `
+                <div class="subject-option-card ${subject.id === currentSubjectId ? 'active' : ''}" 
+                     onclick="selectSubject('${subject.id}')"
+                     style="
+                        display: flex;
+                        align-items: center;
+                        gap: 16px;
+                        padding: 16px;
+                        border-radius: 12px;
+                        cursor: pointer;
+                        transition: all 0.2s ease;
+                        background: ${subject.id === currentSubjectId ? 'var(--md-primary-container)' : 'var(--md-surface-container)'};
+                        border: 2px solid ${subject.id === currentSubjectId ? 'var(--md-primary)' : 'transparent'};
+                     ">
+                    <span style="font-size: 32px;">${subject.icon}</span>
+                    <div style="flex: 1;">
+                        <div style="font-weight: 600; font-size: 15px; color: ${subject.id === currentSubjectId ? 'var(--md-on-primary-container)' : 'var(--md-on-surface)'};">
+                            ${subject.name}
+                        </div>
+                        <div style="font-size: 13px; color: var(--md-on-surface-variant); margin-top: 2px;">
+                            ${subject.school}
+                        </div>
+                    </div>
+                    ${subject.id === currentSubjectId ? '<span style="color: var(--md-primary); font-size: 20px;">✓</span>' : ''}
+                </div>
+            `).join('');
+        }
+
+        function selectSubject(subjectId) {
+            const currentSubjectId = getCurrentSubjectId();
+            if (subjectId !== currentSubjectId) {
+                setCurrentSubject(subjectId);
+            }
+        }
+
+        // Theme Selection
+        function selectTheme(theme) {
+            document.documentElement.setAttribute('data-theme', theme);
+            localStorage.setItem('quiz-theme', theme);
+            updateThemeUI();
+        }
+
+        function updateThemeUI() {
+            const currentTheme = localStorage.getItem('quiz-theme') || 'dark';
+            document.querySelectorAll('.theme-option').forEach(option => {
+                const optionTheme = option.dataset.theme;
+                option.classList.toggle('active', optionTheme === currentTheme);
+            });
+        }
+
+        // Initialize theme UI on load
+        document.addEventListener('DOMContentLoaded', () => {
+            updateThemeUI();
+        });
+
+        // Support Modal Logic
+        function openSupportModal() {
+            const modal = document.getElementById('support-modal');
+            if (modal) {
+                modal.classList.add('active');
+                modal.style.display = 'flex';
+            }
+        }
+
+        function closeSupportModal() {
+            const modal = document.getElementById('support-modal');
+            if (modal) {
+                modal.classList.remove('active');
+                setTimeout(() => {
+                    if (!modal.classList.contains('active')) modal.style.display = 'none';
+                }, 300);
+            }
+        }
+    </script>
 </body>
+
 </html>
