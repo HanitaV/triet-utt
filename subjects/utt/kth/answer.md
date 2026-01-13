@@ -1,6 +1,3 @@
-Dựa trên nội dung file PDF bạn gửi (bản sạch không khoanh) và đối chiếu với các đáp án đúng từ dữ liệu trước đó (bản có khoanh), dưới đây là bảng tổng hợp chi tiết bao gồm **Đáp án**, **Nội dung** và **Giải thích khái quát** dựa trên nguyên lý Kinh tế học Vi mô và Vĩ mô.
-
-### Bảng đáp án và giải thích chi tiết (Câu 1 - 164)
 
 | Câu | Đáp án | Nội dung đáp án | Giải thích khái quát (Tại sao?) |
 | :--- | :---: | :--- | :--- |
