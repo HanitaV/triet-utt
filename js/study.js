@@ -37,8 +37,16 @@ async function initStudy() {
 
     // Check URL for auto-select
     const urlParams = new URLSearchParams(window.location.search);
+    const preSelectedSubject = urlParams.get('subject');
     const preSelectedTopic = urlParams.get('topic');
-    const preSelectedVideo = urlParams.get('video'); // New param
+    const preSelectedVideo = urlParams.get('video');
+
+    // Handle deep link subject switch
+    if (preSelectedSubject && preSelectedSubject !== getCurrentSubjectId()) {
+        setCurrentSubject(preSelectedSubject);
+        return; // Stop init, reload will happen
+    }
+
 
     if (preSelectedTopic !== null) {
         const idx = parseInt(preSelectedTopic);
@@ -145,6 +153,11 @@ function initStudyEventListeners() {
         if (currentTopicIdx !== null) {
             startTopicPractice(currentTopicIdx);
         }
+    });
+
+    // Share button
+    document.getElementById('share-topic-btn')?.addEventListener('click', () => {
+        if (currentTopicIdx !== null) shareTopic(currentTopicIdx);
     });
 }
 
@@ -300,8 +313,10 @@ function renderTopicDetail(topic) {
 
     if (practiceAllBtn) {
         practiceAllBtn.textContent = `🎯 Luyện tập toàn bộ (${questionCount} câu)`;
-        practiceAllBtn.disabled = questionCount === 0;
+        // practiceAllBtn.disabled = questionCount === 0; 
     }
+
+    renderShareButton(topic, currentTopicIdx);
 
     // Close any open video
     closeVideo();
@@ -412,6 +427,39 @@ function startTopicPractice(topicIdx) {
     localStorage.setItem('practiceSource', 'study');
     localStorage.setItem('practiceTopicIdx', topicIdx.toString());
     window.location.href = 'exam.html?practice=true';
+}
+
+function renderShareButton(topic, idx) {
+    const actionsDiv = document.querySelector('.topic-actions');
+    if (!actionsDiv) return;
+
+    // Check if button already exists
+    let shareBtn = document.getElementById('share-topic-btn');
+    if (!shareBtn) {
+        shareBtn = document.createElement('button');
+        shareBtn.id = 'share-topic-btn';
+        shareBtn.className = 'btn btn-secondary';
+        shareBtn.innerHTML = '🔗 Chia sẻ';
+        shareBtn.onclick = () => shareTopic(idx);
+        actionsDiv.insertBefore(shareBtn, actionsDiv.firstChild);
+    }
+}
+
+function shareTopic(idx) {
+    const subjectId = getCurrentSubjectId();
+    const url = `${window.location.origin}${window.location.pathname}?subject=${subjectId}&topic=${idx}`;
+
+    navigator.clipboard.writeText(url).then(() => {
+        const btn = document.getElementById('share-topic-btn');
+        if (btn) {
+            const originalText = btn.innerHTML;
+            btn.innerHTML = '✅ Đã sao chép!';
+            setTimeout(() => btn.innerHTML = originalText, 2000);
+        }
+    }).catch(err => {
+        console.error('Failed to copy: ', err);
+        alert('Không thể sao chép liên kết');
+    });
 }
 
 // Add sidebar overlay to body
