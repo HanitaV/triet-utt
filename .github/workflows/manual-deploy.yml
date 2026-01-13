@@ -1,0 +1,79 @@
+name: Manual Deploy to GitHub Pages
+
+on:
+  workflow_dispatch:
+    inputs:
+      commit_message:
+        description: 'Commit message for deployment'
+        required: false
+        default: 'Update site'
+        type: string
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Update version info
+        run: |
+          node update_version.js
+          echo "Version updated successfully"
+
+      - name: Commit changes to main
+        run: |
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "${{ inputs.commit_message }}"
+            git push origin main
+            echo "Changes committed and pushed to main"
+          fi
+
+      - name: Deploy to gh-pages
+        run: |
+          # Fetch gh-pages branch
+          git fetch origin gh-pages:gh-pages || \
+            echo "gh-pages branch doesn't exist yet"
+
+          # Check if gh-pages branch exists
+          if git show-ref --verify --quiet refs/heads/gh-pages; then
+            # Branch exists, merge main into it
+            git checkout gh-pages
+            git merge main -m "Merge main into gh-pages for deployment"
+            git push origin gh-pages
+          else
+            # Branch doesn't exist, create it from main
+            git checkout -b gh-pages
+            git push -u origin gh-pages
+          fi
+
+          # Switch back to main
+          git checkout main
+
+      - name: Deployment summary
+        run: |
+          echo "✅ Deployment complete!"
+          echo "🌐 Site will be live at: https://hanitav.github.io/triet-utt/"
+          echo "📝 Commit message: ${{ inputs.commit_message }}"

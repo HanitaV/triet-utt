@@ -1,0 +1,3334 @@
+{
+    "title": "Đề cương ôn tập Kinh tế học",
+    "total_questions": 163,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Lượng cầu nhạy cảm hơn với giá khi:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cung ko co dãn"
+                },
+                {
+                    "id": "B",
+                    "content": "NTD hợp lý"
+                },
+                {
+                    "id": "C",
+                    "content": "Thông tin tốt"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhiều hàng thay thế"
+                },
+                {
+                    "id": "E",
+                    "content": "Tất cả"
+                }
+            ],
+            "answer": "D",
+            "explain": "Hàng có nhiều sản phẩm thay thế $\\rightarrow$ người dùng dễ đổi sang loại khác khi giá tăng $\\rightarrow$ Cầu co dãn nhiều (nhạy cảm).",
+            "topic": "Co dãn"
+        },
+        {
+            "id": 2,
+            "question": "Quy tắc phân bổ ngân sách tối ưu:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "MU/P bằng nhau"
+                },
+                {
+                    "id": "B",
+                    "content": "MU=0"
+                },
+                {
+                    "id": "C",
+                    "content": "MU=vô cùng"
+                },
+                {
+                    "id": "D",
+                    "content": "(Diễn giải chi tiết)"
+                },
+                {
+                    "id": "E",
+                    "content": "Sai hết"
+                }
+            ],
+            "answer": "D",
+            "explain": "Nguyên tắc cân bằng tiêu dùng: $\\frac{MU_X}{P_X} = \\frac{MU_Y}{P_Y}$.",
+            "topic": "Hành vi NTD"
+        },
+        {
+            "id": 3,
+            "question": "Thặng dư sản xuất biểu thị:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "DT-TC"
+                },
+                {
+                    "id": "B",
+                    "content": "FC+VC"
+                },
+                {
+                    "id": "C",
+                    "content": "Diện tích dưới giá trên cung"
+                },
+                {
+                    "id": "D",
+                    "content": "DT-VC"
+                },
+                {
+                    "id": "E",
+                    "content": "c và d"
+                }
+            ],
+            "answer": "E",
+            "explain": "Thặng dư SX (PS) = Doanh thu - Chi phí biến đổi (hoặc diện tích trên đường cung dưới giá).",
+            "topic": "Cung Cầu",
+            "noShuffle": true
+        },
+        {
+            "id": 4,
+            "question": "Nắng hạn có thể sẽ:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cung dịch phải"
+                },
+                {
+                    "id": "B",
+                    "content": "Cung dịch trái"
+                },
+                {
+                    "id": "C",
+                    "content": "Cầu cao hơn"
+                },
+                {
+                    "id": "D",
+                    "content": "Giảm cầu"
+                },
+                {
+                    "id": "E",
+                    "content": "Giảm giá hàng thay thế"
+                }
+            ],
+            "answer": "B",
+            "explain": "Nắng hạn là sốc cung tiêu cực $\\rightarrow$ Giảm sản lượng $\\rightarrow$ Cung dịch trái.",
+            "topic": "Cung Cầu"
+        },
+        {
+            "id": 5,
+            "question": "Giá trị sản phẩm cận biên của lao động:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "DT biên"
+                },
+                {
+                    "id": "B",
+                    "content": "DT gia nhập"
+                },
+                {
+                    "id": "C",
+                    "content": "MP*w"
+                },
+                {
+                    "id": "D",
+                    "content": "MP*P"
+                },
+                {
+                    "id": "E",
+                    "content": "Sai hết"
+                }
+            ],
+            "answer": "D",
+            "explain": "Công thức $VMP_L = MP_L \\times P$.",
+            "topic": "SX & Chi phí"
+        },
+        {
+            "id": 6,
+            "question": "Doanh thu cận biên:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "< P"
+                },
+                {
+                    "id": "B",
+                    "content": "= P (cạnh tranh)"
+                },
+                {
+                    "id": "C",
+                    "content": "DT từ đơn vị thêm"
+                },
+                {
+                    "id": "D",
+                    "content": "Lợi nhuận bổ sung"
+                },
+                {
+                    "id": "E",
+                    "content": "b và c"
+                }
+            ],
+            "answer": "E",
+            "explain": "Định nghĩa MR: Là DT tăng thêm từ 1 đv sp ($MR = \\Delta TR/\\Delta Q$). Trong CTHH, $P=MR$.",
+            "topic": "Thị trường",
+            "noShuffle": true
+        },
+        {
+            "id": 7,
+            "question": "Ràng buộc ngân sách:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tập hợp cơ hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Chi tiêu $\\le$ Thu nhập"
+                },
+                {
+                    "id": "C",
+                    "content": "MU giảm dần"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả"
+                },
+                {
+                    "id": "E",
+                    "content": "a và b"
+                }
+            ],
+            "answer": "E",
+            "explain": "Đường ngân sách giới hạn các cơ hội mua sắm dựa trên thu nhập cố định ($I$).",
+            "topic": "Hành vi NTD",
+            "noShuffle": true
+        },
+        {
+            "id": 8,
+            "question": "Khác nhau giữa ngắn hạn và dài hạn:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hiệu suất"
+                },
+                {
+                    "id": "B",
+                    "content": "Yếu tố đầu vào thay đổi"
+                },
+                {
+                    "id": "C",
+                    "content": "3 tháng"
+                },
+                {
+                    "id": "D",
+                    "content": "Chi phí TB"
+                },
+                {
+                    "id": "E",
+                    "content": "a và b"
+                }
+            ],
+            "answer": "B",
+            "explain": "Ngắn hạn có ít nhất 1 yếu tố cố định (vốn/đất). Dài hạn mọi thứ đều biến đổi.",
+            "topic": "SX & Chi phí",
+            "noShuffle": true
+        },
+        {
+            "id": 9,
+            "question": "Giá tăng, lượng cầu cá nhân giảm vì:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thay thế hàng khác"
+                },
+                {
+                    "id": "B",
+                    "content": "Rời thị trường"
+                },
+                {
+                    "id": "C",
+                    "content": "Gia nhập"
+                },
+                {
+                    "id": "D",
+                    "content": "Cung tăng"
+                },
+                {
+                    "id": "E",
+                    "content": "a và b"
+                }
+            ],
+            "answer": "A",
+            "explain": "Hiệu ứng thay thế: Giá X tăng thì X đắt hơn tương đối so với Y, nên chuyển sang Y.",
+            "topic": "Cung Cầu"
+        },
+        {
+            "id": 10,
+            "question": "Kinh tế học là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tiền tệ"
+                },
+                {
+                    "id": "B",
+                    "content": "Phân bổ nguồn lực"
+                },
+                {
+                    "id": "C",
+                    "content": "Của cải"
+                },
+                {
+                    "id": "D",
+                    "content": "Con người KD"
+                },
+                {
+                    "id": "E",
+                    "content": "Tất cả"
+                }
+            ],
+            "answer": "E",
+            "explain": "Định nghĩa rộng của KTH bao gồm phân bổ nguồn lực khan hiếm, hành vi, thị trường...",
+            "topic": "Cơ bản",
+            "noShuffle": true
+        },
+        {
+            "id": 11,
+            "question": "Tại sao nông dân doanh thu cao khi mất mùa:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cầu co dãn"
+                },
+                {
+                    "id": "B",
+                    "content": "Cung co dãn"
+                },
+                {
+                    "id": "C",
+                    "content": "Cầu ko co dãn"
+                },
+                {
+                    "id": "D",
+                    "content": "Cung ko co dãn"
+                },
+                {
+                    "id": "E",
+                    "content": "Sai hết"
+                }
+            ],
+            "answer": "C",
+            "explain": "Hàng nông sản thiết yếu ($E_D < 1$). Giá tăng 10% lượng chỉ giảm 2% $\\rightarrow$ Doanh thu tăng.",
+            "topic": "Co dãn"
+        },
+        {
+            "id": 12,
+            "question": "Thu nhập tăng, đường ngân sách:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dịch ra ngoài"
+                },
+                {
+                    "id": "B",
+                    "content": "Dốc hơn"
+                },
+                {
+                    "id": "C",
+                    "content": "Thoải hơn"
+                },
+                {
+                    "id": "D",
+                    "content": "Dịch vào trong"
+                },
+                {
+                    "id": "E",
+                    "content": "Sai"
+                }
+            ],
+            "answer": "A",
+            "explain": "Tăng I mở rộng vùng lựa chọn. Tỷ lệ giá không đổi $\\rightarrow$ song song.",
+            "topic": "Hành vi NTD"
+        },
+        {
+            "id": 13,
+            "question": "Hàng cấp thấp thì:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giá tăng mua ít"
+                },
+                {
+                    "id": "B",
+                    "content": "Giá giảm mua nhiều"
+                },
+                {
+                    "id": "C",
+                    "content": "Thu nhập tăng mua ít"
+                },
+                {
+                    "id": "D",
+                    "content": "Thu nhập giảm mua ít..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Định nghĩa hàng thứ cấp/cấp thấp (Inferior goods).",
+            "topic": "Hành vi NTD"
+        },
+        {
+            "id": 14,
+            "question": "Sự lựa chọn xảy ra vì:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hiệu suất giảm"
+                },
+                {
+                    "id": "B",
+                    "content": "Hợp lý"
+                },
+                {
+                    "id": "C",
+                    "content": "Khan hiếm"
+                },
+                {
+                    "id": "D",
+                    "content": "Đúng hết"
+                },
+                {
+                    "id": "E",
+                    "content": "Sai hết"
+                }
+            ],
+            "answer": "C",
+            "explain": "Nguồn lực có hạn, nhu cầu vô hạn $\\rightarrow$ Phải đánh đổi/lựa chọn.",
+            "topic": "Cơ bản"
+        },
+        {
+            "id": 15,
+            "question": "Câu nào KHÔNG đúng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "ATC<MC -> ATC tăng"
+                },
+                {
+                    "id": "B",
+                    "content": "ATC>MC -> MC tăng"
+                },
+                {
+                    "id": "C",
+                    "content": "MC tăng -> AC tăng"
+                },
+                {
+                    "id": "D",
+                    "content": "ATC giảm -> MC<ATC"
+                }
+            ],
+            "answer": "C",
+            "explain": "Sai. MC có thể đang tăng nhưng nếu vẫn nhỏ hơn AC thì AC vẫn đang giảm (Cắt nhau tại đáy AC).",
+            "topic": "SX & Chi phí"
+        },
+        {
+            "id": 16,
+            "question": "Kinh tế học chuẩn tắc:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thâm hụt..."
+                },
+                {
+                    "id": "B",
+                    "content": "Suy thoái..."
+                },
+                {
+                    "id": "C",
+                    "content": "Lãi thấp kích thích..."
+                },
+                {
+                    "id": "D",
+                    "content": "Phải giảm lãi suất..."
+                }
+            ],
+            "answer": "D",
+            "explain": "Chuẩn tắc mang tính khuyên bảo, chủ quan (\"phải\", \"nên\"). Các câu kia là thực chứng (mô tả).",
+            "topic": "Cơ bản"
+        },
+        {
+            "id": 17,
+            "question": "PPF dịch ra ngoài DO CÁC YẾU TỐ SAU, TRỪ:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đầu tư máy"
+                },
+                {
+                    "id": "B",
+                    "content": "Dân số tăng"
+                },
+                {
+                    "id": "C",
+                    "content": "PP SX tốt hơn"
+                },
+                {
+                    "id": "D",
+                    "content": "Mỏ dầu mới"
+                },
+                {
+                    "id": "E",
+                    "content": "Tiêu dùng tăng"
+                }
+            ],
+            "answer": "E",
+            "explain": "Tiêu dùng (C) là hoạt động sử dụng, không làm tăng năng lực sản xuất của nền KT (không dịch PPF).",
+            "topic": "Cơ bản"
+        },
+        {
+            "id": 18,
+            "question": "Đường cầu cá nhân cho biết:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lượng mua ở mỗi mức giá"
+                },
+                {
+                    "id": "B",
+                    "content": "Giá cân bằng"
+                },
+                {
+                    "id": "C",
+                    "content": "Hàng thay thế..."
+                }
+            ],
+            "answer": "A",
+            "explain": "Định nghĩa đường cầu ($Q_D$ theo $P$).",
+            "topic": "Cung Cầu"
+        },
+        {
+            "id": 19,
+            "question": "Hàng cấp thấp:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "B",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "C",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "D",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "E",
+                    "content": "Xem đề gốc"
+                }
+            ],
+            "answer": "C",
+            "explain": "Lặp lại câu 13.",
+            "topic": "Hành vi NTD"
+        },
+        {
+            "id": 20,
+            "question": "% thay đổi lượng cầu do 1% thay đổi thu nhập:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1"
+                },
+                {
+                    "id": "B",
+                    "content": ">0"
+                },
+                {
+                    "id": "C",
+                    "content": "Co dãn theo thu nhập"
+                },
+                {
+                    "id": "D",
+                    "content": "Theo giá..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Công thức $E_I = \\% \\Delta Q / \\% \\Delta I$.",
+            "topic": "Co dãn"
+        },
+        {
+            "id": 21,
+            "question": "Doanh thu cận biên (tiếp):",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "B",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "C",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "D",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "E",
+                    "content": "Xem đề gốc"
+                }
+            ],
+            "answer": "E",
+            "explain": "Lặp lại câu 6.",
+            "topic": "Thị trường",
+            "noShuffle": true
+        },
+        {
+            "id": 22,
+            "question": "A và B bổ sung. Cung B giảm (giá B tăng). Hàng A sẽ:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cầu tăng"
+                },
+                {
+                    "id": "B",
+                    "content": "Giá tăng"
+                },
+                {
+                    "id": "C",
+                    "content": "Cả P,Q tăng"
+                },
+                {
+                    "id": "D",
+                    "content": "P tăng Q giảm"
+                },
+                {
+                    "id": "E",
+                    "content": "P giảm..."
+                }
+            ],
+            "answer": "B",
+            "explain": "*Lưu ý:* Đáp án trong ảnh khoanh B, nhưng logic KT: Cung B giảm $\\rightarrow$ $P_B$ tăng $\\rightarrow$ Cầu A giảm (do bổ sung) $\\rightarrow$ $P_A$ GIẢM. Nếu theo khoanh thì chọn B, theo lý thuyết thì e hoặc giá giảm.",
+            "topic": "Cung Cầu"
+        },
+        {
+            "id": 23,
+            "question": "Co dãn theo giá là 1,5. Giá giảm, Doanh thu:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giữ nguyên"
+                },
+                {
+                    "id": "B",
+                    "content": "Giảm"
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng"
+                },
+                {
+                    "id": "D",
+                    "content": "Tăng gấp đôi"
+                }
+            ],
+            "answer": "C",
+            "explain": "Cầu co dãn nhiều ($E > 1$): Giá giảm $\\rightarrow$ Lượng tăng mạnh $\\rightarrow$ TR tăng.",
+            "topic": "Co dãn"
+        },
+        {
+            "id": 24,
+            "question": "PPF dịch chuyển là do:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thất nghiệp"
+                },
+                {
+                    "id": "B",
+                    "content": "Lạm phát"
+                },
+                {
+                    "id": "C",
+                    "content": "Thay đổi công nghệ..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Công nghệ tiến bộ làm mở rộng khả năng sản xuất.",
+            "topic": "Cơ bản"
+        },
+        {
+            "id": 25,
+            "question": "Đường cầu thẳng có tính chất:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dốc ko đổi, co dãn đổi"
+                },
+                {
+                    "id": "B",
+                    "content": "Dốc đổi, co dãn ko đổi..."
+                }
+            ],
+            "answer": "A",
+            "explain": "Tuyến tính $P=a-bQ$: Độ dốc $b$ hằng số, nhưng $E = b*(P/Q)$ thay đổi tại mỗi điểm.",
+            "topic": "Co dãn"
+        },
+        {
+            "id": 26,
+            "question": "Cầu giảm khi thu nhập giảm:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hàng bình thường"
+                },
+                {
+                    "id": "B",
+                    "content": "Cấp thấp"
+                },
+                {
+                    "id": "C",
+                    "content": "E<1"
+                },
+                {
+                    "id": "D",
+                    "content": "0<E<1..."
+                }
+            ],
+            "answer": "A",
+            "explain": "Thu nhập và Cầu cùng chiều $\\rightarrow$ Hàng bình thường.",
+            "topic": "Co dãn"
+        },
+        {
+            "id": 27,
+            "question": "Độ dốc đường ngân sách phụ thuộc:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giá tương đối"
+                },
+                {
+                    "id": "B",
+                    "content": "Thu nhập"
+                },
+                {
+                    "id": "C",
+                    "content": "Hàng thay thế..."
+                }
+            ],
+            "answer": "A",
+            "explain": "Slope = $-P_X/P_Y$.",
+            "topic": "Hành vi NTD"
+        },
+        {
+            "id": 28,
+            "question": "Lượng hàng muốn mua KHÔNG phụ thuộc:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giá"
+                },
+                {
+                    "id": "B",
+                    "content": "Thị hiếu"
+                },
+                {
+                    "id": "C",
+                    "content": "Giá thay thế"
+                },
+                {
+                    "id": "D",
+                    "content": "Thu nhập"
+                },
+                {
+                    "id": "E",
+                    "content": "Co dãn cung"
+                }
+            ],
+            "answer": "E",
+            "explain": "Cầu của người mua độc lập với khả năng co dãn của người bán.",
+            "topic": "Co dãn"
+        },
+        {
+            "id": 29,
+            "question": "Mua áo 100k mất 1 giờ. Chi phí cơ hội:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1h"
+                },
+                {
+                    "id": "B",
+                    "content": "100k"
+                },
+                {
+                    "id": "C",
+                    "content": "1h + 100k"
+                },
+                {
+                    "id": "D",
+                    "content": "PA thay thế tốt nhất 1h và 100k"
+                }
+            ],
+            "answer": "D",
+            "explain": "CPCH bao gồm cả tiền và giá trị thời gian bỏ ra.",
+            "topic": "Cơ bản"
+        },
+        {
+            "id": 30,
+            "question": "Hiệu suất tăng theo quy mô:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng < 2 lần"
+                },
+                {
+                    "id": "B",
+                    "content": "Trừ 1 yếu tố..."
+                },
+                {
+                    "id": "C",
+                    "content": "Đúng gấp đôi"
+                },
+                {
+                    "id": "D",
+                    "content": "Tăng > 2 lần"
+                }
+            ],
+            "answer": "D",
+            "explain": "$f(kL, kK) > k.f(L,K)$ (với k=2).",
+            "topic": "SX & Chi phí",
+            "noShuffle": true
+        },
+        {
+            "id": 31,
+            "question": "Tìm cầu thị trường bằng cách:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cộng chiều dọc"
+                },
+                {
+                    "id": "B",
+                    "content": "Cộng chiều ngang"
+                },
+                {
+                    "id": "C",
+                    "content": "Lấy TB..."
+                }
+            ],
+            "answer": "B",
+            "explain": "Cộng lượng ($Q$) tại mỗi mức giá ($P$).",
+            "topic": "Cung Cầu",
+            "noShuffle": true
+        },
+        {
+            "id": 32,
+            "question": "Tài nguyên khan hiếm nên:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trả lời câu hỏi"
+                },
+                {
+                    "id": "B",
+                    "content": "Thực hiện lựa chọn"
+                },
+                {
+                    "id": "C",
+                    "content": "Trừ người giàu..."
+                }
+            ],
+            "answer": "B",
+            "explain": "Nguyên lý cơ bản số 1.",
+            "topic": "Cơ bản"
+        },
+        {
+            "id": 33,
+            "question": "Đường AC dài hạn là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tổng AC ngắn hạn"
+                },
+                {
+                    "id": "B",
+                    "content": "Đường biên dưới AC ngắn hạn"
+                },
+                {
+                    "id": "C",
+                    "content": "Đường biên trên..."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đường bao (Envelope curve).",
+            "topic": "SX & Chi phí"
+        },
+        {
+            "id": 34,
+            "question": "Giá X tăng, Cầu Y tăng, X và Y là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thứ cấp"
+                },
+                {
+                    "id": "B",
+                    "content": "Bổ sung"
+                },
+                {
+                    "id": "C",
+                    "content": "Thay thế"
+                },
+                {
+                    "id": "D",
+                    "content": "Bình thường"
+                }
+            ],
+            "answer": "C",
+            "explain": "Dùng Y thay cho X khi X đắt lên.",
+            "topic": "Cung Cầu"
+        },
+        {
+            "id": 35,
+            "question": "Nắng hạn sẽ:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "B",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "C",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "D",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "E",
+                    "content": "Xem đề gốc"
+                }
+            ],
+            "answer": "D",
+            "explain": "Lặp lại câu 4.",
+            "topic": "Cung Cầu"
+        },
+        {
+            "id": 36,
+            "question": "Tăng cung làm giảm giá TRỪ KHI:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cung ko co dãn hoàn toàn"
+                },
+                {
+                    "id": "B",
+                    "content": "Cầu co dãn hoàn toàn..."
+                }
+            ],
+            "answer": "A",
+            "explain": "*Lưu ý:* Đáp án A hơi lạ. Nếu Cầu co dãn hoàn toàn (nằm ngang) thì tăng cung giá không đổi. Nếu theo khoanh A thì ý là \"trừ khi cung đứng yên\".",
+            "topic": "Co dãn"
+        },
+        {
+            "id": 37,
+            "question": "Sự kiện KHÔNG làm dịch chuyển cầu thịt bò:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng giá hàng thay thế"
+                },
+                {
+                    "id": "B",
+                    "content": "Giảm giá thịt bò"
+                },
+                {
+                    "id": "C",
+                    "content": "Thu nhập tăng..."
+                }
+            ],
+            "answer": "B",
+            "explain": "Giá bản thân thay đổi $\\rightarrow$ Di chuyển dọc, không dịch chuyển.",
+            "topic": "Cung Cầu"
+        },
+        {
+            "id": 38,
+            "question": "Khác nhau ngắn hạn/dài hạn:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "B",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "C",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "D",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "E",
+                    "content": "Xem đề gốc"
+                }
+            ],
+            "answer": "B",
+            "explain": "Lặp lại câu 8.",
+            "topic": "SX & Chi phí",
+            "noShuffle": true
+        },
+        {
+            "id": 39,
+            "question": "% chi tiêu giảm khi thu nhập tăng, Co dãn thu nhập:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": ">1"
+                },
+                {
+                    "id": "B",
+                    "content": "0-1"
+                },
+                {
+                    "id": "C",
+                    "content": "0"
+                },
+                {
+                    "id": "D",
+                    "content": "<0"
+                }
+            ],
+            "answer": "D",
+            "explain": "Tỷ trọng chi tiêu giảm mạnh $\\rightarrow$ Hàng cấp thấp ($E < 0$).",
+            "topic": "Co dãn"
+        },
+        {
+            "id": 40,
+            "question": "Yếu tố KHÔNG làm dịch chuyển cầu cà phê:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giá cà phê"
+                },
+                {
+                    "id": "B",
+                    "content": "Giá chè"
+                },
+                {
+                    "id": "C",
+                    "content": "Thu nhập"
+                },
+                {
+                    "id": "D",
+                    "content": "Thời tiết"
+                }
+            ],
+            "answer": "A",
+            "explain": "(Tương tự câu 37).",
+            "topic": "Cung Cầu"
+        },
+        {
+            "id": 41,
+            "question": "Cung thịt cố định. Giảm giá CÁ sẽ dẫn đến:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cầu thịt dịch phải"
+                },
+                {
+                    "id": "B",
+                    "content": "Cầu cá dịch phải"
+                },
+                {
+                    "id": "C",
+                    "content": "Cầu cá dịch trái"
+                },
+                {
+                    "id": "D",
+                    "content": "Tăng giá thịt"
+                },
+                {
+                    "id": "E",
+                    "content": "Giảm giá thịt"
+                }
+            ],
+            "answer": "E",
+            "explain": "Cá rẻ $\\rightarrow$ Ăn cá bỏ thịt (Cầu thịt giảm) $\\rightarrow$ Cung thịt cố định nên Giá thịt giảm.",
+            "topic": "Cung Cầu"
+        },
+        {
+            "id": 42,
+            "question": "Lượng cầu nhạy cảm hơn khi:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "B",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "C",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "D",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "E",
+                    "content": "Xem đề gốc"
+                }
+            ],
+            "answer": "B",
+            "explain": "Lặp lại câu 1.",
+            "topic": "Co dãn"
+        },
+        {
+            "id": 43,
+            "question": "Thu nhập tăng, ràng buộc ngân sách:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "B",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "C",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "D",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "E",
+                    "content": "Xem đề gốc"
+                }
+            ],
+            "answer": "A",
+            "explain": "Lặp lại câu 12.",
+            "topic": "Hành vi NTD"
+        },
+        {
+            "id": 44,
+            "question": "Chủ đề cơ bản nhất của KT vi mô:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thị trường"
+                },
+                {
+                    "id": "B",
+                    "content": "Tiền"
+                },
+                {
+                    "id": "C",
+                    "content": "Lợi nhuận"
+                },
+                {
+                    "id": "D",
+                    "content": "Giá"
+                },
+                {
+                    "id": "E",
+                    "content": "Khan hiếm"
+                }
+            ],
+            "answer": "E",
+            "explain": "Vấn đề trung tâm của kinh tế học.",
+            "topic": "Cơ bản"
+        },
+        {
+            "id": 45,
+            "question": "Giá X giảm, Cầu Y tăng. X và Y là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thứ cấp"
+                },
+                {
+                    "id": "B",
+                    "content": "Bổ sung"
+                },
+                {
+                    "id": "C",
+                    "content": "Thay thế..."
+                }
+            ],
+            "answer": "B",
+            "explain": "X rẻ đi mua nhiều X $\\rightarrow$ mua kèm nhiều Y.",
+            "topic": "Cung Cầu"
+        },
+        {
+            "id": 46,
+            "question": "Tối đa hóa lợi nhuận tại mức:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "MR giảm nhanh hơn MC"
+                },
+                {
+                    "id": "B",
+                    "content": "AC đang tăng"
+                },
+                {
+                    "id": "C",
+                    "content": "MC đang giảm"
+                },
+                {
+                    "id": "D",
+                    "content": "MR đang tăng"
+                },
+                {
+                    "id": "E",
+                    "content": "MR đang giảm"
+                }
+            ],
+            "answer": "E",
+            "explain": "*Lưu ý:* Đúng nhất là $MR=MC$. Chọn E theo đáp án khoanh (hàm ý đạt đỉnh).",
+            "topic": "Thị trường"
+        },
+        {
+            "id": 47,
+            "question": "Đường cung thị trường:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tổng các đường cung"
+                },
+                {
+                    "id": "B",
+                    "content": "Dốc lên"
+                },
+                {
+                    "id": "C",
+                    "content": "Cách ứng xử nhóm người bán..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Tổng hợp hành vi cung ứng (MC) của các hãng.",
+            "topic": "Thị trường"
+        },
+        {
+            "id": 48,
+            "question": "Đường PPF:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Biểu thị lượng SX"
+                },
+                {
+                    "id": "B",
+                    "content": "Ko thẳng vì hiệu suất giảm"
+                },
+                {
+                    "id": "C",
+                    "content": "Minh họa đánh đổi"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả"
+                }
+            ],
+            "answer": "D",
+            "explain": "PPF thể hiện giới hạn, sự khan hiếm và quy luật chi phí cơ hội tăng dần (cong lồi).",
+            "topic": "Cơ bản",
+            "noShuffle": true
+        },
+        {
+            "id": 49,
+            "question": "Sản phẩm cận biên (MP):",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chi phí..."
+                },
+                {
+                    "id": "B",
+                    "content": "SP bổ sung từ việc thuê thêm 1 đv ytsx..."
+                }
+            ],
+            "answer": "B",
+            "explain": "Định nghĩa $MP = \\Delta Q / \\Delta L$.",
+            "topic": "SX & Chi phí"
+        },
+        {
+            "id": 50,
+            "question": "Tối đa hóa thỏa mãn, NTD phải:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ko mua hàng cấp thấp"
+                },
+                {
+                    "id": "B",
+                    "content": "MU bằng nhau"
+                },
+                {
+                    "id": "C",
+                    "content": "Giá tỷ lệ..."
+                },
+                {
+                    "id": "D",
+                    "content": "Phân bổ để MU/P bằng nhau"
+                }
+            ],
+            "answer": "D",
+            "explain": "(Diễn giải của quy tắc MU/P).",
+            "topic": "Hành vi NTD"
+        },
+        {
+            "id": 51,
+            "question": "Chính phủ quyết định cái gì, cho ai:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thị trường"
+                },
+                {
+                    "id": "B",
+                    "content": "Hỗn hợp"
+                },
+                {
+                    "id": "C",
+                    "content": "KHH tập trung..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đặc điểm kinh tế mệnh lệnh/bao cấp.",
+            "topic": "Cơ bản"
+        },
+        {
+            "id": 52,
+            "question": "Cầu cá nhân giảm dọc đường cầu vì:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thay thế hàng khác"
+                },
+                {
+                    "id": "B",
+                    "content": "Rời thị trường..."
+                }
+            ],
+            "answer": "A",
+            "explain": "(Lặp lại câu 9).",
+            "topic": "Cung Cầu"
+        },
+        {
+            "id": 53,
+            "question": "Tăng cung hàng hóa X do:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng giá hàng khác"
+                },
+                {
+                    "id": "B",
+                    "content": "Tăng giá YTSX"
+                },
+                {
+                    "id": "C",
+                    "content": "Giảm giá YTSX..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Chi phí đầu vào rẻ đi $\\rightarrow$ Cung tăng (dịch phải).",
+            "topic": "Cung Cầu"
+        },
+        {
+            "id": 54,
+            "question": "Giá hàng trục hoành giảm, đường ngân sách:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quay thoải hơn"
+                },
+                {
+                    "id": "B",
+                    "content": "Dốc hơn"
+                },
+                {
+                    "id": "C",
+                    "content": "Dịch ngoài"
+                },
+                {
+                    "id": "D",
+                    "content": "Dịch trong"
+                }
+            ],
+            "answer": "A",
+            "explain": "Giá giảm $\\rightarrow$ Mua được nhiều hàng đó hơn $\\rightarrow$ Cắt trục hoành xa hơn $\\rightarrow$ Thoải.",
+            "topic": "Hành vi NTD"
+        },
+        {
+            "id": 55,
+            "question": "Điều kiện cân bằng NTD:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tiếp tuyến ngân sách-bàng quan"
+                },
+                {
+                    "id": "B",
+                    "content": "Chi tiêu bằng nhau"
+                },
+                {
+                    "id": "C",
+                    "content": "MU=P"
+                },
+                {
+                    "id": "D",
+                    "content": "MU bằng nhau"
+                },
+                {
+                    "id": "E",
+                    "content": "a và c"
+                }
+            ],
+            "answer": "E",
+            "explain": "Tại điểm tiếp xúc: Độ dốc Ngân sách = Độ dốc Bàng quan ($MU=P$ trong trường hợp đơn giản hóa $P=1$ hoặc $MU/P=\\lambda$).",
+            "topic": "Hành vi NTD",
+            "noShuffle": true
+        },
+        {
+            "id": 56,
+            "question": "Hàng cấp thấp:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "B",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "C",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "D",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "E",
+                    "content": "Xem đề gốc"
+                }
+            ],
+            "answer": "C",
+            "explain": "Lặp lại câu 13.",
+            "topic": "Co dãn"
+        },
+        {
+            "id": 57,
+            "question": "Cung dịch phải, cầu dịch trái. Hy vọng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giá cũ"
+                },
+                {
+                    "id": "B",
+                    "content": "Lượng cũ"
+                },
+                {
+                    "id": "C",
+                    "content": "P,Q tăng"
+                },
+                {
+                    "id": "D",
+                    "content": "P,Q giảm"
+                },
+                {
+                    "id": "E",
+                    "content": "P,Q tăng"
+                }
+            ],
+            "answer": "B",
+            "explain": "Cung tăng, Cầu giảm $\\rightarrow$ Giá chắc chắn giảm. Lượng có thể không đổi nếu mức dịch chuyển tương đương.",
+            "topic": "Cung Cầu"
+        },
+        {
+            "id": 58,
+            "question": "Co dãn của cầu theo giá là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thay đổi DT..."
+                },
+                {
+                    "id": "E",
+                    "content": "% thay đổi lượng / % thay đổi giá"
+                }
+            ],
+            "answer": "E",
+            "explain": "Định nghĩa cơ bản của $E_D$.",
+            "topic": "Co dãn"
+        },
+        {
+            "id": 59,
+            "question": "Ngắn hạn, tối đa hóa lợi nhuận phải đảm bảo:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "AC>MC"
+                },
+                {
+                    "id": "B",
+                    "content": "TR>TC"
+                },
+                {
+                    "id": "C",
+                    "content": "TR>TC"
+                },
+                {
+                    "id": "D",
+                    "content": "Giá > AVC..."
+                }
+            ],
+            "answer": "D",
+            "explain": "Điều kiện đóng cửa: Nếu $P < AVC$ thì ngừng SX. Để tiếp tục thì $P > AVC$.",
+            "topic": "SX & Chi phí"
+        },
+        {
+            "id": 60,
+            "question": "\"Phân phối\" đề cập đến:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bán lẻ"
+                },
+                {
+                    "id": "B",
+                    "content": "Cái gì"
+                },
+                {
+                    "id": "C",
+                    "content": "Như thế nào"
+                },
+                {
+                    "id": "D",
+                    "content": "Cho ai"
+                }
+            ],
+            "answer": "D",
+            "explain": "Phân phối thu nhập giải quyết vấn đề ai được hưởng thụ sản phẩm.",
+            "topic": "Cơ bản"
+        },
+        {
+            "id": 61,
+            "question": "Tìm cầu thị trường:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "B",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "C",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "D",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "E",
+                    "content": "Xem đề gốc"
+                }
+            ],
+            "answer": "C",
+            "explain": "Lặp lại câu 31.",
+            "topic": "Cung Cầu"
+        },
+        {
+            "id": 62,
+            "question": "Kinh tế học thực chứng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thuế cao"
+                },
+                {
+                    "id": "B",
+                    "content": "TK thấp"
+                },
+                {
+                    "id": "C",
+                    "content": "Lãi thấp kích thích ĐT"
+                },
+                {
+                    "id": "D",
+                    "content": "Phải giảm lãi..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Mệnh đề \"Nếu... thì...\", có thể kiểm chứng, không chứa quan điểm cá nhân.",
+            "topic": "Cơ bản"
+        },
+        {
+            "id": 63,
+            "question": "Tính kinh tế theo quy mô:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "SX đa dạng rẻ hơn"
+                },
+                {
+                    "id": "B",
+                    "content": "SX lớn đắt hơn"
+                },
+                {
+                    "id": "C",
+                    "content": "AC thấp hơn khi Q lớn..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Định nghĩa Economies of Scale (Q tăng $\\rightarrow$ LATC giảm).",
+            "topic": "SX & Chi phí"
+        },
+        {
+            "id": 64,
+            "question": "Tìm cầu thị trường:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "B",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "C",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "D",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "E",
+                    "content": "Xem đề gốc"
+                }
+            ],
+            "answer": "C",
+            "explain": "Lặp lại câu 31.",
+            "topic": "Cung Cầu"
+        },
+        {
+            "id": 65,
+            "question": "Giá hàng trục hoành giảm, ngân sách:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "B",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "C",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "D",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "E",
+                    "content": "Xem đề gốc"
+                }
+            ],
+            "answer": "A",
+            "explain": "Lặp lại câu 54.",
+            "topic": "Hành vi NTD"
+        },
+        {
+            "id": 66,
+            "question": "$E_D = 1/3$. Giá tăng 30%, Lượng cầu:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng 10%"
+                },
+                {
+                    "id": "B",
+                    "content": "Giảm 10%"
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng 90%..."
+                }
+            ],
+            "answer": "B",
+            "explain": "$\\%Q = \\%P \\times E = 30\\% \\times (1/3) = 10\\%$. Giá tăng $\\rightarrow$ Lượng Giảm.",
+            "topic": "Co dãn"
+        },
+        {
+            "id": 67,
+            "question": "Hàng bình thường, Thu nhập tăng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ngân sách dịch ngoài"
+                },
+                {
+                    "id": "B",
+                    "content": "Cầu dịch phải"
+                },
+                {
+                    "id": "C",
+                    "content": "Lượng tăng"
+                },
+                {
+                    "id": "D",
+                    "content": "Chi nhiều tiền..."
+                }
+            ],
+            "answer": "A",
+            "explain": "Thu nhập tăng làm mở rộng giới hạn ngân sách.",
+            "topic": "Hành vi NTD"
+        },
+        {
+            "id": 68,
+            "question": "Ràng buộc ngân sách:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "B",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "C",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "D",
+                    "content": "Xem đề gốc"
+                },
+                {
+                    "id": "E",
+                    "content": "Xem đề gốc"
+                }
+            ],
+            "answer": "E",
+            "explain": "Lặp lại câu 7.",
+            "topic": "Hành vi NTD",
+            "noShuffle": true
+        },
+        {
+            "id": 69,
+            "question": "Cung dốc lên. Câu nào SAI:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cung trái, cầu giữ -> P tăng (Đ)"
+                },
+                {
+                    "id": "B",
+                    "content": "Cầu trái, Cung tăng -> P tăng (S)..."
+                }
+            ],
+            "answer": "B",
+            "explain": "Sai. Cầu giảm (trái), Cung tăng (phải) đều gây áp lực giảm giá $\\rightarrow$ Giá phải giảm.",
+            "topic": "Cung Cầu"
+        },
+        {
+            "id": 70,
+            "question": "Yếu tố KHÔNG phải chi phí:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lương"
+                },
+                {
+                    "id": "B",
+                    "content": "Thu nhập chủ"
+                },
+                {
+                    "id": "C",
+                    "content": "Trợ cấp"
+                },
+                {
+                    "id": "D",
+                    "content": "Thuê đất"
+                }
+            ],
+            "answer": "C",
+            "explain": "Trợ cấp là khoản nhận được từ CP, làm giảm chi phí thực tế hoặc tăng doanh thu, không phải chi phí bỏ ra.",
+            "topic": "SX & Chi phí"
+        },
+        {
+            "id": 71,
+            "question": "Ảnh hưởng tổng cung dài hạn:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thu nhập tăng"
+                },
+                {
+                    "id": "B",
+                    "content": "XK tăng"
+                },
+                {
+                    "id": "C",
+                    "content": "CN mới"
+                },
+                {
+                    "id": "D",
+                    "content": "Lương tăng"
+                }
+            ],
+            "answer": "C",
+            "explain": "LAS chỉ thay đổi khi nguồn lực (vốn, lao động) hoặc công nghệ thay đổi.",
+            "topic": "AD-AS"
+        },
+        {
+            "id": 72,
+            "question": "Ở VN, GDP > GNP thì:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "GDP thực > danh nghĩa"
+                },
+                {
+                    "id": "B",
+                    "content": "GT nước ngoài tại VN > VN tại nước ngoài..."
+                }
+            ],
+            "answer": "B",
+            "explain": "$GDP = GNP - NIA$. Nếu GDP > GNP thì NIA âm (Thu nhập yếu tố ròng từ nước ngoài âm).",
+            "topic": "GDP/GNP"
+        },
+        {
+            "id": 73,
+            "question": "Đường AD dốc âm do:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hàng thay thế"
+                },
+                {
+                    "id": "B",
+                    "content": "Hàng ngoại"
+                },
+                {
+                    "id": "C",
+                    "content": "Dân giàu"
+                },
+                {
+                    "id": "D",
+                    "content": "Hiệu ứng Pigou..."
+                }
+            ],
+            "answer": "D",
+            "explain": "Hiệu ứng số dư thực tế (Pigou): P giảm $\\rightarrow$ Sức mua tăng $\\rightarrow$ C tăng $\\rightarrow$ Y tăng.",
+            "topic": "AD-AS"
+        },
+        {
+            "id": 74,
+            "question": "Xu hướng tiêu dùng cận biên (MPC):",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "$\\Delta C / \\Delta Yd$"
+                },
+                {
+                    "id": "B",
+                    "content": "$C/\\Delta Yd$..."
+                }
+            ],
+            "answer": "A",
+            "explain": "Định nghĩa MPC.",
+            "topic": "AD-AS"
+        },
+        {
+            "id": 75,
+            "question": "Hàm cầu tiền là hàm của:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thanh toán"
+                },
+                {
+                    "id": "B",
+                    "content": "Thu nhập"
+                },
+                {
+                    "id": "C",
+                    "content": "Lãi suất & Thu nhập..."
+                }
+            ],
+            "answer": "C",
+            "explain": "$L = f(i, Y)$. Nghịch biến với lãi suất (đầu cơ), đồng biến với thu nhập (giao dịch).",
+            "topic": "Tiền tệ"
+        },
+        {
+            "id": 76,
+            "question": "Chính sách tài khóa mở dẫn đến:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng, i giảm"
+                },
+                {
+                    "id": "B",
+                    "content": "Giảm, i tăng"
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng, i tăng..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Tăng G $\\rightarrow$ Tăng Y $\\rightarrow$ Tăng cầu tiền $\\rightarrow$ Tăng lãi suất.",
+            "topic": "Tiền tệ"
+        },
+        {
+            "id": 77,
+            "question": "AD dịch phải khi:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "XK, NK tăng"
+                },
+                {
+                    "id": "B",
+                    "content": "Cắt trợ cấp"
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng chi quốc phòng..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Chi tiêu quốc phòng là G. Tăng G $\\rightarrow$ Tăng AD.",
+            "topic": "AD-AS"
+        },
+        {
+            "id": 78,
+            "question": "Mức sống phản ánh bằng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "GDP thực"
+                },
+                {
+                    "id": "B",
+                    "content": "GDP danh nghĩa BQ"
+                },
+                {
+                    "id": "C",
+                    "content": "GDP thực BQĐN..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đã loại trừ lạm phát và quy mô dân số.",
+            "topic": "GDP/GNP"
+        },
+        {
+            "id": 79,
+            "question": "Giá tăng gấp đôi:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cầu tiền giảm"
+                },
+                {
+                    "id": "B",
+                    "content": "Cung tiền giảm"
+                },
+                {
+                    "id": "C",
+                    "content": "Giá trị tiền giảm 1/2..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Sức mua của tiền = $1/P$. P tăng 2 $\\rightarrow$ Sức mua còn $1/2$.",
+            "topic": "Tiền tệ"
+        },
+        {
+            "id": 80,
+            "question": "Tăng thuế NK hàng tiêu dùng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "AD trái"
+                },
+                {
+                    "id": "B",
+                    "content": "AD phải"
+                },
+                {
+                    "id": "C",
+                    "content": "AS phải"
+                },
+                {
+                    "id": "D",
+                    "content": "AS trái"
+                }
+            ],
+            "answer": "D",
+            "explain": "Thuế NK là chi phí đầu vào/hoặc làm tăng giá $\\rightarrow$ Giảm tổng cung (AS). (Hoặc hiểu là giảm AD cũng có lý nhưng tác động cung rõ hơn với thuế hàng hóa).",
+            "topic": "AD-AS"
+        },
+        {
+            "id": 81,
+            "question": "Chỉ tiêu nhỏ nhất:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "GNP"
+                },
+                {
+                    "id": "B",
+                    "content": "NNP"
+                },
+                {
+                    "id": "C",
+                    "content": "NI..."
+                }
+            ],
+            "answer": "B",
+            "explain": "$NNP = GNP - Khấu hao$. Thường nhỏ hơn GNP.",
+            "topic": "GDP/GNP"
+        },
+        {
+            "id": 82,
+            "question": "Kinh tế đóng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "GNP<GDP"
+                },
+                {
+                    "id": "B",
+                    "content": "GNP=GDP..."
+                }
+            ],
+            "answer": "B",
+            "explain": "Không có thu nhập ròng từ nước ngoài (NIA=0).",
+            "topic": "GDP/GNP"
+        },
+        {
+            "id": 83,
+            "question": "Để giảm cung tiền, NHTW:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng dự trữ BB"
+                },
+                {
+                    "id": "B",
+                    "content": "Bán trái phiếu"
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng lãi suất CK"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đây là 3 công cụ thắt chặt tiền tệ.",
+            "topic": "Tiền tệ",
+            "noShuffle": true
+        },
+        {
+            "id": 84,
+            "question": "Yếu tố ít kích thích đầu tư nhất:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lãi giảm"
+                },
+                {
+                    "id": "B",
+                    "content": "Tiêu dùng tăng"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhập khẩu tăng..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Nhập khẩu (M) là dòng tiền đi ra, làm giảm AD, không khuyến khích đầu tư trong nước.",
+            "topic": "Tăng trưởng"
+        },
+        {
+            "id": 85,
+            "question": "Cân bằng dài hạn vĩ mô:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giao 3 đường AD, SAS, LAS..."
+                }
+            ],
+            "answer": "A",
+            "explain": "Tại mức sản lượng tiềm năng ($Y^*$).",
+            "topic": "AD-AS"
+        },
+        {
+            "id": 86,
+            "question": "KHÔNG phải tính chất GDP danh nghĩa:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giá hiện hành"
+                },
+                {
+                    "id": "B",
+                    "content": "Giá cố định..."
+                }
+            ],
+            "answer": "B",
+            "explain": "Giá cố định dùng cho GDP thực tế.",
+            "topic": "GDP/GNP"
+        },
+        {
+            "id": 87,
+            "question": "Đo lường lạm phát bằng tất cả TRỪ:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chỉ số giá HH thành phẩm"
+                },
+                {
+                    "id": "B",
+                    "content": "Deflator"
+                },
+                {
+                    "id": "C",
+                    "content": "CPI"
+                },
+                {
+                    "id": "D",
+                    "content": "PPI"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ít dùng. Phổ biến là CPI (c), PPI (d), GDP Deflator (b).",
+            "topic": "Lạm phát"
+        },
+        {
+            "id": 88,
+            "question": "NHTW tăng cung tiền:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "IS di chuyển, LM dịch chuyển..."
+                }
+            ],
+            "answer": "A",
+            "explain": "Tiền tệ tác động đường LM. IS chỉ di chuyển dọc do lãi suất thay đổi.",
+            "topic": "IS-LM"
+        },
+        {
+            "id": 89,
+            "question": "Mở rộng tiền tệ:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giảm thuế"
+                },
+                {
+                    "id": "B",
+                    "content": "Hạ lãi suất CK, mua trái phiếu..."
+                }
+            ],
+            "answer": "B",
+            "explain": "Các hành động bơm tiền ra lưu thông.",
+            "topic": "Tiền tệ"
+        },
+        {
+            "id": 90,
+            "question": "Tăng cung tiền, đường AD:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trái"
+                },
+                {
+                    "id": "B",
+                    "content": "Phải"
+                },
+                {
+                    "id": "C",
+                    "content": "Lên..."
+                }
+            ],
+            "answer": "B",
+            "explain": "$M_S$ tăng $\\rightarrow$ i giảm $\\rightarrow$ I tăng $\\rightarrow$ AD tăng.",
+            "topic": "AD-AS"
+        },
+        {
+            "id": 91,
+            "question": "Tăng trưởng 2000-2001 (18073 lên 18635):",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "3%"
+                },
+                {
+                    "id": "B",
+                    "content": "3.1%..."
+                }
+            ],
+            "answer": "B",
+            "explain": "$(18635-18073)/18073 \\approx 0.031$.",
+            "topic": "GDP/GNP"
+        },
+        {
+            "id": 92,
+            "question": "Tài khóa mở + Tiền tệ chặt:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Y tăng"
+                },
+                {
+                    "id": "B",
+                    "content": "i, Y tăng"
+                },
+                {
+                    "id": "C",
+                    "content": "i chắc chắn tăng..."
+                }
+            ],
+            "answer": "C",
+            "explain": "IS dịch phải (tăng i), LM dịch trái (tăng i) $\\rightarrow$ i tăng mạnh. Y không xác định.",
+            "topic": "IS-LM"
+        },
+        {
+            "id": 93,
+            "question": "Lạm phát cao, nên:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giảm tiền, tăng i"
+                },
+                {
+                    "id": "B",
+                    "content": "Giảm chi, tăng thuế"
+                },
+                {
+                    "id": "C",
+                    "content": "..."
+                },
+                {
+                    "id": "D",
+                    "content": "a và b"
+                }
+            ],
+            "answer": "D",
+            "explain": "Cần chính sách thắt chặt (cả tiền tệ và tài khóa) để giảm cầu.",
+            "topic": "Lạm phát",
+            "noShuffle": true
+        },
+        {
+            "id": 94,
+            "question": "Thu nhập giảm, lượng tiền không đổi:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "i tăng"
+                },
+                {
+                    "id": "B",
+                    "content": "i giảm"
+                },
+                {
+                    "id": "C",
+                    "content": "Cầu tiền tăng"
+                },
+                {
+                    "id": "D",
+                    "content": "Cầu tiền giảm..."
+                }
+            ],
+            "answer": "D",
+            "explain": "Thu nhập giảm $\\rightarrow$ Giảm nhu cầu giữ tiền giao dịch ($M_D$ dịch trái).",
+            "topic": "Tiền tệ"
+        },
+        {
+            "id": 95,
+            "question": "Thuộc lực lượng lao động:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Học sinh"
+                },
+                {
+                    "id": "B",
+                    "content": "Nội trợ"
+                },
+                {
+                    "id": "C",
+                    "content": "SV"
+                },
+                {
+                    "id": "D",
+                    "content": "Bộ đội"
+                },
+                {
+                    "id": "E",
+                    "content": "Sai hết"
+                }
+            ],
+            "answer": "E",
+            "explain": "LLLĐ = Người có việc + Thất nghiệp (đang tìm việc). Các nhóm trên đều ngoài LLLĐ.",
+            "topic": "Lạm phát"
+        },
+        {
+            "id": 96,
+            "question": "Khối lượng M1:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tiền mặt..."
+                },
+                {
+                    "id": "C",
+                    "content": "Tiền mặt, tiền gửi thanh toán..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Tiền có tính thanh khoản cao nhất.",
+            "topic": "Tiền tệ"
+        },
+        {
+            "id": 97,
+            "question": "Tiết kiệm âm:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "C < Yd"
+                },
+                {
+                    "id": "B",
+                    "content": "C > S"
+                },
+                {
+                    "id": "C",
+                    "content": "C > Yd..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Phải vay mượn hoặc dùng tài sản cũ để tiêu dùng.",
+            "topic": "AD-AS"
+        },
+        {
+            "id": 98,
+            "question": "Tính tốc độ tăng trưởng dùng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giá thị trường"
+                },
+                {
+                    "id": "B",
+                    "content": "Danh nghĩa"
+                },
+                {
+                    "id": "C",
+                    "content": "Thực"
+                },
+                {
+                    "id": "D",
+                    "content": "Sản xuất"
+                }
+            ],
+            "answer": "C",
+            "explain": "Phải loại bỏ yếu tố giá để so sánh sản lượng thực tế.",
+            "topic": "GDP/GNP"
+        },
+        {
+            "id": 99,
+            "question": "AD dịch phải khi:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng G"
+                },
+                {
+                    "id": "B",
+                    "content": "XK tăng"
+                },
+                {
+                    "id": "C",
+                    "content": "Giảm thuế"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả"
+                }
+            ],
+            "answer": "D",
+            "explain": "Các yếu tố cấu thành AD tăng $\\rightarrow$ AD dịch phải.",
+            "topic": "AD-AS"
+        },
+        {
+            "id": 100,
+            "question": "GDP thực đo theo giá..., GDP danh nghĩa đo theo giá...:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cơ sở, hiện hành..."
+                }
+            ],
+            "answer": "A",
+            "explain": "Khái niệm cơ bản.",
+            "topic": "GDP/GNP"
+        },
+        {
+            "id": 101,
+            "question": "Thợ giày mua da 100, chỉ 50, bán giày 500. GDP:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "50"
+                },
+                {
+                    "id": "B",
+                    "content": "100"
+                },
+                {
+                    "id": "C",
+                    "content": "500..."
+                }
+            ],
+            "answer": "C",
+            "explain": "GDP chỉ tính giá trị hàng hóa cuối cùng (đôi giày).",
+            "topic": "GDP/GNP"
+        },
+        {
+            "id": 102,
+            "question": "Sản lượng tiềm năng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cao nhất"
+                },
+                {
+                    "id": "B",
+                    "content": "Thất nghiệp tự nhiên"
+                },
+                {
+                    "id": "C",
+                    "content": "Ko lạm phát"
+                },
+                {
+                    "id": "E",
+                    "content": "Tất cả"
+                }
+            ],
+            "answer": "E",
+            "explain": "Mức sản lượng bền vững tối đa.",
+            "topic": "Lạm phát",
+            "noShuffle": true
+        },
+        {
+            "id": 103,
+            "question": "GNP thực KHÔNG có tính chất:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giá cố định"
+                },
+                {
+                    "id": "E",
+                    "content": "Giá hiện hành"
+                }
+            ],
+            "answer": "E",
+            "explain": "GNP thực phải dùng giá cố định (năm gốc).",
+            "topic": "GDP/GNP"
+        },
+        {
+            "id": 104,
+            "question": "Số nhân tổng cầu:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đầu tư"
+                },
+                {
+                    "id": "B",
+                    "content": "AD"
+                },
+                {
+                    "id": "D",
+                    "content": "Sản lượng khi AD tự định đổi 1 đv"
+                }
+            ],
+            "answer": "D",
+            "explain": "$k = \\Delta Y / \\Delta AD_0$.",
+            "topic": "AD-AS"
+        },
+        {
+            "id": 105,
+            "question": "KHÔNG tính vào GDP VN:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xe Honda VN"
+                },
+                {
+                    "id": "C",
+                    "content": "Bán máy khâu cũ..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Hàng cũ đã được tính vào GDP năm sản xuất, bán lại không tạo ra giá trị mới.",
+            "topic": "GDP/GNP"
+        },
+        {
+            "id": 106,
+            "question": "Tăng nhập khẩu tự định ($M_0$):",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "LM phải"
+                },
+                {
+                    "id": "C",
+                    "content": "IS trái..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Nhập khẩu làm giảm AD ($AD = ... - M$) $\\rightarrow$ IS dịch trái.",
+            "topic": "IS-LM"
+        },
+        {
+            "id": 107,
+            "question": "Chính sách tài khóa mở dẫn đến:",
+            "options": [
+                {
+                    "id": "D",
+                    "content": "Giảm Y, i tăng"
+                }
+            ],
+            "answer": "D",
+            "explain": "*Lưu ý:* Đáp án trong ảnh khoanh D nhưng nội dung mâu thuẫn lý thuyết (Tài khóa mở -> Tăng Y, Tăng i). Có thể đề hỏi về \"đầu tư tư nhân\" (sẽ giảm). Nếu theo khoanh thì chọn D.",
+            "topic": "IS-LM"
+        },
+        {
+            "id": 108,
+            "question": "Đường AD phản ánh:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "P và Y thực"
+                },
+                {
+                    "id": "C",
+                    "content": "Chi tiêu và GDP danh nghĩa..."
+                }
+            ],
+            "answer": "C",
+            "explain": "*Lưu ý:* Đáp án chuẩn là A (Mức giá P và GDP thực Y). Nhưng tài liệu khoanh C.",
+            "topic": "AD-AS"
+        },
+        {
+            "id": 109,
+            "question": "Nước tăng 4% so với 2%:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mức sống tăng dần khoảng cách..."
+                }
+            ],
+            "answer": "A",
+            "explain": "Hiệu ứng lãi suất kép trong tăng trưởng.",
+            "topic": "Tăng trưởng"
+        },
+        {
+            "id": 110,
+            "question": "TK chặt + Tiền tệ chặt:",
+            "options": [
+                {
+                    "id": "D",
+                    "content": "AD dịch trái..."
+                }
+            ],
+            "answer": "D",
+            "explain": "Cả 2 chính sách đều làm giảm tổng cầu.",
+            "topic": "AD-AS"
+        },
+        {
+            "id": 111,
+            "question": "GNP đo lường bởi:",
+            "options": [
+                {
+                    "id": "B",
+                    "content": "Người lao động và nhà máy đặt ở nước ngoài..."
+                }
+            ],
+            "answer": "B",
+            "explain": "*Lưu ý:* Câu này hỏi phần \"khác biệt\" hoặc định nghĩa GNP (công dân sở hữu). B là 1 phần của GNP (thu nhập từ nước ngoài).",
+            "topic": "GDP/GNP"
+        },
+        {
+            "id": 112,
+            "question": "Thu nhập tăng, Tổng chi tiêu:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giảm"
+                },
+                {
+                    "id": "B",
+                    "content": "Tăng"
+                },
+                {
+                    "id": "D",
+                    "content": "Phụ thuộc giá..."
+                }
+            ],
+            "answer": "D",
+            "explain": "(Theo Keynes thì thu nhập tăng chi tiêu tăng, nhưng đáp án khoanh D nhấn mạnh vai trò của giá).",
+            "topic": "AD-AS"
+        },
+        {
+            "id": 113,
+            "question": "Cổ điển cho rằng AS:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ngang"
+                },
+                {
+                    "id": "D",
+                    "content": "Thẳng đứng..."
+                }
+            ],
+            "answer": "D",
+            "explain": "Quan điểm giá cả linh hoạt, toàn dụng nhân dụng.",
+            "topic": "AD-AS"
+        },
+        {
+            "id": 114,
+            "question": "Tiền là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tài sản giao dịch"
+                },
+                {
+                    "id": "B",
+                    "content": "Tiền xu/giấy"
+                },
+                {
+                    "id": "C",
+                    "content": "Tiền gửi"
+                },
+                {
+                    "id": "D",
+                    "content": "NN gọi là tiền"
+                },
+                {
+                    "id": "E",
+                    "content": "Tất cả"
+                }
+            ],
+            "answer": "E",
+            "explain": "Các hình thái và định nghĩa của tiền.",
+            "topic": "Tiền tệ",
+            "noShuffle": true
+        },
+        {
+            "id": 115,
+            "question": "Đông Á tăng trưởng nhanh vì:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tài nguyên"
+                },
+                {
+                    "id": "B",
+                    "content": "Tiết kiệm..."
+                }
+            ],
+            "answer": "A",
+            "explain": "(Đáp án này gây tranh cãi về mặt thực tế nhưng là đáp án trong tài liệu).",
+            "topic": "Tăng trưởng"
+        },
+        {
+            "id": 116,
+            "question": "Kinh tế đóng:",
+            "options": [
+                {
+                    "id": "C",
+                    "content": "Ngân sách = Thuế..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Giả định G chỉ dùng từ thuế thu được (cân bằng).",
+            "topic": "AD-AS"
+        },
+        {
+            "id": 117,
+            "question": "Khoảng dịch chuyển IS:",
+            "options": [
+                {
+                    "id": "D",
+                    "content": "$\\Delta(I+G+X) \\times k$"
+                }
+            ],
+            "answer": "D",
+            "explain": "Công thức dịch chuyển đường IS.",
+            "topic": "IS-LM"
+        },
+        {
+            "id": 118,
+            "question": "Mức toàn dụng nghĩa là:",
+            "options": [
+                {
+                    "id": "C",
+                    "content": "Còn lạm phát và thất nghiệp..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Thất nghiệp tự nhiên không bao giờ bằng 0.",
+            "topic": "Lạm phát"
+        },
+        {
+            "id": 119,
+            "question": "GDP danh nghĩa KHÔNG có tính chất:",
+            "options": [
+                {
+                    "id": "B",
+                    "content": "Theo giá cố định..."
+                }
+            ],
+            "answer": "B",
+            "explain": "(Tương tự câu 86).",
+            "topic": "GDP/GNP"
+        },
+        {
+            "id": 120,
+            "question": "Chỉ tiêu nhỏ nhất:",
+            "options": [
+                {
+                    "id": "D",
+                    "content": "Thu nhập khả dụng (Yd)"
+                }
+            ],
+            "answer": "D",
+            "explain": "$Y_d$ là thu nhập cuối cùng về tay hộ gia đình sau khi trừ hết thuế.",
+            "topic": "GDP/GNP"
+        },
+        {
+            "id": 121,
+            "question": "Kinh tế mở:",
+            "options": [
+                {
+                    "id": "C",
+                    "content": "GNP và GDP khác nhau ở NIA..."
+                }
+            ],
+            "answer": "C",
+            "explain": "$GNP = GDP + NIA$.",
+            "topic": "GDP/GNP"
+        },
+        {
+            "id": 122,
+            "question": "$MD=200-100i+20Y, MS=400$. Tìm LM:",
+            "options": [
+                {
+                    "id": "B",
+                    "content": "$i=-2+0.2Y$..."
+                }
+            ],
+            "answer": "B",
+            "explain": "$400 = 200 - 100i + 20Y \\rightarrow 100i = 20Y - 200$.",
+            "topic": "Tiền tệ"
+        },
+        {
+            "id": 123,
+            "question": "Giảm cung tiền bằng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng dự trữ"
+                },
+                {
+                    "id": "B",
+                    "content": "Bán trái phiếu"
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng lãi suất CK"
+                },
+                {
+                    "id": "D",
+                    "content": "a và c"
+                },
+                {
+                    "id": "E",
+                    "content": "Tất cả"
+                }
+            ],
+            "answer": "E",
+            "explain": "3 công cụ thắt chặt tiền tệ của NHTW.",
+            "topic": "Tiền tệ",
+            "noShuffle": true
+        },
+        {
+            "id": 124,
+            "question": "Tăng cung tiền:",
+            "options": [
+                {
+                    "id": "B",
+                    "content": "IS dịch, LM di chuyển (Theo tài liệu)..."
+                }
+            ],
+            "answer": "B",
+            "explain": "*Lưu ý:* Lý thuyết chuẩn là LM dịch chuyển (phải). Đáp án khoanh B có thể bị sai hoặc in nhầm đề.",
+            "topic": "IS-LM"
+        },
+        {
+            "id": 125,
+            "question": "Giảm thuế:",
+            "options": [
+                {
+                    "id": "D",
+                    "content": "Tăng AD do Yd tăng..."
+                }
+            ],
+            "answer": "D",
+            "explain": "Thuế giảm $\\rightarrow$ Thu nhập khả dụng tăng $\\rightarrow$ Tiêu dùng tăng $\\rightarrow$ Tổng cầu tăng.",
+            "topic": "IS-LM"
+        },
+        {
+            "id": 126,
+            "question": "Tăng cung tiền:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "IS dịch phải..."
+                }
+            ],
+            "answer": "A",
+            "explain": "*Lưu ý:* (Tương tự 124) Lý thuyết chuẩn là LM dịch phải. Cần cẩn trọng với đáp án này của tài liệu.",
+            "topic": "IS-LM"
+        },
+        {
+            "id": 127,
+            "question": "Tăng thuế:",
+            "options": [
+                {
+                    "id": "C",
+                    "content": "IS dịch trái..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Tăng T $\\rightarrow$ Giảm C $\\rightarrow$ Giảm AD $\\rightarrow$ IS dịch trái.",
+            "topic": "IS-LM"
+        },
+        {
+            "id": 128,
+            "question": "KHÔNG phải tính chất GNP thực:",
+            "options": [
+                {
+                    "id": "C",
+                    "content": "Giá hiện hành..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Thực phải là giá cố định.",
+            "topic": "GDP/GNP"
+        },
+        {
+            "id": 129,
+            "question": "Kinh tế đóng, giản đơn:",
+            "options": [
+                {
+                    "id": "D",
+                    "content": "GNP=GDP..."
+                }
+            ],
+            "answer": "D",
+            "explain": "Không có yếu tố nước ngoài.",
+            "topic": "GDP/GNP"
+        },
+        {
+            "id": 130,
+            "question": "Điểm vừa đủ:",
+            "options": [
+                {
+                    "id": "D",
+                    "content": "C=Yd..."
+                }
+            ],
+            "answer": "D",
+            "explain": "Tại đây Tiết kiệm ($S$) = 0.",
+            "topic": "AD-AS"
+        },
+        {
+            "id": 131,
+            "question": "M1 gồm:",
+            "options": [
+                {
+                    "id": "C",
+                    "content": "Tiền mặt, tiền gửi ko kỳ hạn..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Lặp lại câu 96.",
+            "topic": "Tiền tệ"
+        },
+        {
+            "id": 132,
+            "question": "Cầu giao dịch phụ thuộc:",
+            "options": [
+                {
+                    "id": "D",
+                    "content": "Thu nhập..."
+                }
+            ],
+            "answer": "D",
+            "explain": "Thu nhập càng cao nhu cầu mua sắm càng lớn.",
+            "topic": "Tiền tệ"
+        },
+        {
+            "id": 133,
+            "question": "Số nhân tiền:",
+            "options": [
+                {
+                    "id": "C",
+                    "content": "Nghịch với tỷ lệ dự trữ BB..."
+                }
+            ],
+            "answer": "C",
+            "explain": "$k_M = 1/r_b$. $r_b$ càng lớn số nhân càng nhỏ.",
+            "topic": "Tiền tệ"
+        },
+        {
+            "id": 134,
+            "question": "Tài khóa mở rộng:",
+            "options": [
+                {
+                    "id": "E",
+                    "content": "IS phải, i tăng, I giảm..."
+                }
+            ],
+            "answer": "E",
+            "explain": "Hiện tượng lấn át (Crowding out): CP vay tiền làm tăng lãi suất $\\rightarrow$ giảm đầu tư tư nhân.",
+            "topic": "IS-LM"
+        },
+        {
+            "id": 135,
+            "question": "Câu KHÔNG đúng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "IS dốc nhỏ -> Tài khóa mạnh..."
+                }
+            ],
+            "answer": "A",
+            "explain": "Sai. IS thoải (nhạy cảm lãi suất) thì Tài khóa ÍT hiệu quả (lấn át nhiều).",
+            "topic": "IS-LM"
+        },
+        {
+            "id": 136,
+            "question": "$MD=1000-100i$. $MS_{danh nghĩa}=1200, P=2$.",
+            "options": [
+                {
+                    "id": "B",
+                    "content": "MS=600, i=4%..."
+                }
+            ],
+            "answer": "B",
+            "explain": "$MS_{thực} = 1200/2 = 600$. $600 = 1000 - 100i \\rightarrow i=4$.",
+            "topic": "Tiền tệ"
+        },
+        {
+            "id": 137,
+            "question": "Chi tiêu CP trong GDP:",
+            "options": [
+                {
+                    "id": "B",
+                    "content": "Vũ khí, đường xá, y tế..."
+                }
+            ],
+            "answer": "B",
+            "explain": "Tính vào G. Trợ cấp không tính vào G.",
+            "topic": "GDP/GNP"
+        },
+        {
+            "id": 138,
+            "question": "Tăng cung tiền:",
+            "options": [
+                {
+                    "id": "B",
+                    "content": "AD dịch phải..."
+                }
+            ],
+            "answer": "B",
+            "explain": "Tăng tiền $\\rightarrow$ giảm lãi suất $\\rightarrow$ tăng đầu tư $\\rightarrow$ tăng AD.",
+            "topic": "AD-AS"
+        },
+        {
+            "id": 139,
+            "question": "Tài khóa mở + Tiền tệ chặt:",
+            "options": [
+                {
+                    "id": "C",
+                    "content": "i chắc chắn tăng..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Cả 2 chính sách đều đẩy lãi suất lên.",
+            "topic": "IS-LM"
+        },
+        {
+            "id": 140,
+            "question": "Thu nhập giảm:",
+            "options": [
+                {
+                    "id": "B",
+                    "content": "Cầu tiền giảm..."
+                }
+            ],
+            "answer": "B",
+            "explain": "(Tương tự câu 94).",
+            "topic": "Tiền tệ"
+        },
+        {
+            "id": 141,
+            "question": "GDP > GNP:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "GT nước ngoài tại VN lớn hơn..."
+                }
+            ],
+            "answer": "A",
+            "explain": "(Lặp lại câu 72).",
+            "topic": "GDP/GNP"
+        },
+        {
+            "id": 142,
+            "question": "IS thẳng đứng:",
+            "options": [
+                {
+                    "id": "C",
+                    "content": "Tiền tệ ko tác động, Tài chính mạnh..."
+                }
+            ],
+            "answer": "C",
+            "explain": "IS đứng (Đầu tư ko phụ thuộc lãi suất) $\\rightarrow$ LM dịch chuyển ko đổi Y. IS dịch chuyển đổi Y 100%.",
+            "topic": "IS-LM"
+        },
+        {
+            "id": 143,
+            "question": "Giảm dự trữ bắt buộc:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng số nhân tiền..."
+                }
+            ],
+            "answer": "A",
+            "explain": "Ngân hàng tạo được nhiều tiền hơn.",
+            "topic": "Tiền tệ"
+        },
+        {
+            "id": 144,
+            "question": "Bài tập IS-LM:",
+            "options": [
+                {
+                    "id": "B",
+                    "content": "Y=1700..."
+                }
+            ],
+            "answer": "B",
+            "explain": "Giải hệ phương trình cân bằng thị trường hàng hóa và tiền tệ.",
+            "topic": "IS-LM"
+        },
+        {
+            "id": 145,
+            "question": "Khi suy thoái ($Y<Y^*$):",
+            "options": [
+                {
+                    "id": "C",
+                    "content": "Mở rộng tài khóa hoặc tiền tệ..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Cần kích cầu để tăng sản lượng.",
+            "topic": "IS-LM"
+        },
+        {
+            "id": 146,
+            "question": "Tăng thuế:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giảm C, tăng I, giảm i..."
+                }
+            ],
+            "answer": "A",
+            "explain": "Tăng T $\\rightarrow$ Giảm Y $\\rightarrow$ Giảm cầu tiền $\\rightarrow$ Giảm i $\\rightarrow$ Tăng I (di chuyển dọc đầu tư).",
+            "topic": "IS-LM"
+        },
+        {
+            "id": 147,
+            "question": "Bài tập tính toán:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Y=1100, i=6%..."
+                }
+            ],
+            "answer": "A",
+            "explain": "Tính toán tương tự câu 144.",
+            "topic": "IS-LM"
+        },
+        {
+            "id": 148,
+            "question": "M1 gồm:",
+            "options": [
+                {
+                    "id": "C",
+                    "content": "Tiền mặt..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Lặp lại câu 96/131.",
+            "topic": "Tiền tệ"
+        },
+        {
+            "id": 149,
+            "question": "Số nhân tiền:",
+            "options": [
+                {
+                    "id": "C",
+                    "content": "Nghịch biến với dự trữ bắt buộc..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Lặp lại câu 133.",
+            "topic": "Tiền tệ"
+        },
+        {
+            "id": 150,
+            "question": "GNP thực KHÔNG có tính chất:",
+            "options": [
+                {
+                    "id": "E",
+                    "content": "Giá hiện hành..."
+                }
+            ],
+            "answer": "E",
+            "explain": "Lặp lại câu 103/128.",
+            "topic": "GDP/GNP"
+        },
+        {
+            "id": 151,
+            "question": "Kinh tế đóng:",
+            "options": [
+                {
+                    "id": "B",
+                    "content": "I = S..."
+                }
+            ],
+            "answer": "B",
+            "explain": "Cân bằng rò rỉ và bơm vào: $S + T = I + G$. Nếu ngân sách cân bằng ($T=G$) thì $S=I$.",
+            "topic": "Tăng trưởng"
+        },
+        {
+            "id": 152,
+            "question": "Đường AD:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tại một mức giá cho trước..."
+                }
+            ],
+            "answer": "A",
+            "explain": "AD xây dựng từ điểm cân bằng IS-LM khi P thay đổi.",
+            "topic": "AD-AS"
+        },
+        {
+            "id": 153,
+            "question": "Gây áp lực lạm phát:",
+            "options": [
+                {
+                    "id": "E",
+                    "content": "Tất cả..."
+                }
+            ],
+            "answer": "E",
+            "explain": "Thâm hụt ngân sách (in tiền), Chi phí đẩy (nguyên liệu), Thặng dư kéo dài (tăng cung tiền).",
+            "topic": "Lạm phát"
+        },
+        {
+            "id": 154,
+            "question": "Cầu tiền lớn hơn khi:",
+            "options": [
+                {
+                    "id": "B",
+                    "content": "Lãi suất thấp..."
+                }
+            ],
+            "answer": "B",
+            "explain": "Lãi suất thấp $\\rightarrow$ Chi phí giữ tiền thấp $\\rightarrow$ Giữ nhiều tiền hơn.",
+            "topic": "Tiền tệ"
+        },
+        {
+            "id": 155,
+            "question": "Tăng thuế:",
+            "options": [
+                {
+                    "id": "D",
+                    "content": "Y giảm, i giảm, C giảm, I tăng..."
+                }
+            ],
+            "answer": "D",
+            "explain": "Phân tích mô hình IS dịch trái (như câu 146).",
+            "topic": "IS-LM"
+        },
+        {
+            "id": 156,
+            "question": "KHÔNG phải chi phí:",
+            "options": [
+                {
+                    "id": "B",
+                    "content": "Trợ cấp..."
+                }
+            ],
+            "answer": "B",
+            "explain": "Lặp lại câu 70.",
+            "topic": "SX & Chi phí"
+        },
+        {
+            "id": 157,
+            "question": "Thất bại giảm thất nghiệp:",
+            "options": [
+                {
+                    "id": "E",
+                    "content": "Tăng lương tối thiểu..."
+                }
+            ],
+            "answer": "E",
+            "explain": "Lương tối thiểu > lương cân bằng $\\rightarrow$ Dư cung lao động $\\rightarrow$ Thất nghiệp.",
+            "topic": "Lạm phát"
+        },
+        {
+            "id": 159,
+            "question": "Tính toán:",
+            "options": [
+                {
+                    "id": "C",
+                    "content": "Y=975, i=7.25%..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Giải hệ phương trình từ câu 158.",
+            "topic": "IS-LM"
+        },
+        {
+            "id": 160,
+            "question": "Lạm phát thực tế > kỳ vọng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lợi cho người đi vay..."
+                }
+            ],
+            "answer": "A",
+            "explain": "Lãi suất thực tế thấp hơn dự kiến $\\rightarrow$ Người vay trả ít giá trị hơn.",
+            "topic": "Lạm phát"
+        },
+        {
+            "id": 161,
+            "question": "Thu nhập giảm:",
+            "options": [
+                {
+                    "id": "C",
+                    "content": "Lãi suất giảm..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Cầu tiền giảm $\\rightarrow$ Lãi suất giảm.",
+            "topic": "Tiền tệ"
+        },
+        {
+            "id": 162,
+            "question": "Dịch chuyển AD do:",
+            "options": [
+                {
+                    "id": "C",
+                    "content": "Chi tiêu CP..."
+                }
+            ],
+            "answer": "C",
+            "explain": "G là biến ngoại sinh làm dịch chuyển AD. Giá P làm di chuyển dọc.",
+            "topic": "AD-AS"
+        },
+        {
+            "id": 163,
+            "question": "Khoảng dịch chuyển IS:",
+            "options": [
+                {
+                    "id": "D",
+                    "content": "Số nhân * Thay đổi tự định..."
+                }
+            ],
+            "answer": "D",
+            "explain": "Lặp lại câu 117.",
+            "topic": "IS-LM"
+        },
+        {
+            "id": 164,
+            "question": "GDP và GNP khác nhau:",
+            "options": [
+                {
+                    "id": "C",
+                    "content": "NIA..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Lặp lại câu 121.",
+            "topic": "GDP/GNP"
+        }
+    ]
+}

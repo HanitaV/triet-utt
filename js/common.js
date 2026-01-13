@@ -124,11 +124,29 @@ function updateColorThemeUI(activeTheme) {
 let subjectsData = [];
 let currentSubjectData = null;
 
+// List of disabled subjects that should not be accessible
+const DISABLED_SUBJECTS = [];
+
 function getCurrentSubjectId() {
-    return localStorage.getItem('current-subject') || 'triet-mac-lenin';
+    const storedSubject = localStorage.getItem('current-subject');
+
+    // Block access to disabled subjects (e.g., KTH)
+    if (storedSubject && DISABLED_SUBJECTS.includes(storedSubject)) {
+        console.warn(`Subject '${storedSubject}' is disabled and cannot be accessed`);
+        localStorage.setItem('current-subject', 'triet-mac-lenin');
+        return 'triet-mac-lenin';
+    }
+
+    return storedSubject || 'triet-mac-lenin';
 }
 
 function setCurrentSubject(subjectId) {
+    // Prevent setting disabled subjects
+    if (DISABLED_SUBJECTS.includes(subjectId)) {
+        console.error(`Cannot set subject to '${subjectId}' - this subject is disabled`);
+        return;
+    }
+
     localStorage.setItem('current-subject', subjectId);
     window.location.reload();
 }
@@ -146,6 +164,13 @@ async function loadSubjectsList() {
 
 async function loadCurrentSubjectConfig() {
     const subjectId = getCurrentSubjectId();
+
+    // Additional check to block disabled subjects
+    if (DISABLED_SUBJECTS.includes(subjectId)) {
+        console.error(`Cannot load subject config for disabled subject '${subjectId}'`);
+        return null;
+    }
+
     const subject = subjectsData.find(s => s.id === subjectId);
     if (!subject) return null;
     try {
