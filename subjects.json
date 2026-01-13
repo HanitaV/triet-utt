@@ -1,5 +1,14 @@
 [
     {
+        "id": "kth",
+        "name": "Kinh tế học",
+        "shortName": "Kinh tế",
+        "icon": "📈",
+        "school": "Đại học Công nghệ GTVT",
+        "shortSchool": "UTT",
+        "path": "subjects/utt/kth"
+    },
+    {
         "id": "triet-mac-lenin",
         "name": "Triết học Mác-Lênin",
         "shortName": "Triết học",

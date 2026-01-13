@@ -1,175 +1,538 @@
-{
-    "topics": [
-        {
-            "id": "topic-micro",
-            "title": "Phần 1: Kinh tế Vi mô",
-            "description": "Cung cầu, hành vi người tiêu dùng, chi phí sản xuất, cấu trúc thị trường.",
-            "image": "assets/images/study/micro.png",
-            "chapters": [
-                "unit-1"
-            ],
-            "questionIds": {
-                "unit-1": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7,
-                    8,
-                    9,
-                    10,
-                    11,
-                    12,
-                    13,
-                    14,
-                    15,
-                    16,
-                    17,
-                    18,
-                    19,
-                    20,
-                    21,
-                    22,
-                    23,
-                    24,
-                    25,
-                    26,
-                    27,
-                    28,
-                    29,
-                    30,
-                    31,
-                    32,
-                    33,
-                    34,
-                    35,
-                    36,
-                    37,
-                    38,
-                    39,
-                    40,
-                    41,
-                    42,
-                    43,
-                    45,
-                    46,
-                    47,
-                    48,
-                    49,
-                    50,
-                    51,
-                    52,
-                    53,
-                    54,
-                    55,
-                    56,
-                    57,
-                    58,
-                    59
-                ]
-            },
-            "goals": [
-                "Hiểu quy luật cung cầu",
-                "Nắm vững lý thuyết người tiêu dùng",
-                "Phân tích hành vi doanh nghiệp"
-            ],
-            "tips": [
-                "Chú ý phân biệt sự dịch chuyển và trượt dọc đường cầu"
-            ],
-            "videos": []
-        },
-        {
-            "id": "topic-macro",
-            "title": "Phần 2: Kinh tế Vĩ mô",
-            "description": "Các chỉ tiêu vĩ mô, tổng cung tổng cầu, chính sách tài khóa và tiền tệ.",
-            "image": "assets/images/study/macro.png",
-            "chapters": [
-                "unit-1"
-            ],
-            "questionIds": {
-                "unit-1": [
-                    60,
-                    61,
-                    63,
-                    64,
-                    65,
-                    66,
-                    67,
-                    68,
-                    69,
-                    70,
-                    71,
-                    72,
-                    73,
-                    74,
-                    75,
-                    76,
-                    77,
-                    78,
-                    79,
-                    80,
-                    82,
-                    83,
-                    84,
-                    85,
-                    86,
-                    87,
-                    89,
-                    90,
-                    91,
-                    92,
-                    93,
-                    94,
-                    95,
-                    96,
-                    97,
-                    98,
-                    99,
-                    100,
-                    101,
-                    102,
-                    103,
-                    104,
-                    105,
-                    106,
-                    108,
-                    109,
-                    110,
-                    111,
-                    112,
-                    113,
-                    115,
-                    116,
-                    117,
-                    118,
-                    119,
-                    120,
-                    121,
-                    122,
-                    123,
-                    124,
-                    125,
-                    126,
-                    127,
-                    128,
-                    129,
-                    130,
-                    132,
-                    133,
-                    134
-                ]
-            },
-            "goals": [
-                "Tính toán GDP, GNP, CPI",
-                "Hiểu mô hình IS-LM",
-                "Phân tích tác động chính sách"
-            ],
-            "tips": [
-                "Ghi nhớ các công thức tính GDP và số nhân"
-            ],
-            "videos": []
+[
+    {
+        "id": 1,
+        "title": "Nguyên lý cơ bản & Khan hiếm",
+        "icon": "🌍",
+        "content": "<b>Kinh tế học:</b> Nghiên cứu sự phân bổ các tài nguyên khan hiếm cho sản xuất và phân phối hàng hóa dịch vụ.<br><br><b>Các khái niệm cơ bản:</b><ul><li><b>Khan hiếm:</b> Nguồn lực có hạn, nhu cầu vô hạn → Phải lựa chọn</li><li><b>Chi phí cơ hội:</b> Giá trị của phương án tốt nhất bị bỏ qua</li><li><b>Đường PPF:</b> Giới hạn khả năng sản xuất, minh họa sự đánh đổi</li><li><b>Kinh tế học thực chứng:</b> Mô tả sự thật (nếu A thì B)</li><li><b>Kinh tế học chuẩn tắc:</b> Đưa ra lời khuyên (\"phải\", \"nên\")</li></ul>",
+        "goals": [
+            "Hiểu bản chất khan hiếm và sự lựa chọn",
+            "Phân biệt kinh tế học thực chứng và chuẩn tắc",
+            "Nắm vững đường giới hạn khả năng sản xuất (PPF)"
+        ],
+        "tips": [
+            "🧠 <b>Khan hiếm:</b> Vấn đề cơ bản nhất của kinh tế học",
+            "📌 <b>Chi phí cơ hội:</b> Không chỉ tiền, còn cả thời gian",
+            "💡 <b>PPF dịch chuyển:</b> Do công nghệ, tài nguyên, dân số"
+        ],
+        "keywords": [
+            "khan hiếm",
+            "chi phí cơ hội",
+            "PPF",
+            "thực chứng",
+            "chuẩn tắc",
+            "lựa chọn"
+        ],
+        "chapters": [
+            1
+        ],
+        "videos": [],
+        "questionIds": {
+            "1": [
+                10,
+                14,
+                16,
+                17,
+                24,
+                29,
+                32,
+                44,
+                48,
+                51,
+                60,
+                62
+            ]
         }
-    ]
-}
+    },
+    {
+        "id": 2,
+        "title": "Cung - Cầu & Cân bằng thị trường",
+        "icon": "📈",
+        "content": "<b>Cầu:</b> Số lượng hàng hóa người tiêu dùng muốn mua ở mỗi mức giá.<br><br><b>Cung:</b> Số lượng hàng hóa người sản xuất muốn bán ở mỗi mức giá.<br><br><b>Quy luật:</b><ul><li>Giá tăng → Cầu giảm, Cung tăng</li><li>Giá giảm → Cầu tăng, Cung giảm</li></ul><br><b>Dịch chuyển đường cầu:</b> Thu nhập, giá hàng thay thế/bổ sung, thị hiếu<br><b>Dịch chuyển đường cung:</b> Chi phí sản xuất, công nghệ, thời tiết<br><br><b>Hàng thay thế:</b> Giá X tăng → Cầu Y tăng<br><b>Hàng bổ sung:</b> Giá X tăng → Cầu Y giảm",
+        "goals": [
+            "Phân biệt di chuyển dọc (giá) và dịch chuyển (yếu tố khác)",
+            "Xác định hàng thay thế và hàng bổ sung",
+            "Hiểu cơ chế cân bằng thị trường"
+        ],
+        "tips": [
+            "🧠 <b>Di chuyển dọc:</b> Do giá bản thân hàng hóa",
+            "📌 <b>Dịch chuyển:</b> Do yếu tố khác (thu nhập, thị hiếu...)",
+            "💡 <b>Thay thế:</b> Cà phê - Trà | <b>Bổ sung:</b> Xăng - Xe"
+        ],
+        "keywords": [
+            "cung",
+            "cầu",
+            "cân bằng",
+            "thay thế",
+            "bổ sung",
+            "dịch chuyển"
+        ],
+        "chapters": [
+            1
+        ],
+        "videos": [],
+        "questionIds": {
+            "1": [
+                3,
+                4,
+                9,
+                18,
+                22,
+                31,
+                34,
+                35,
+                37,
+                40,
+                41,
+                45,
+                52,
+                53,
+                57,
+                61,
+                64,
+                69
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "title": "Độ co dãn (Elasticity)",
+        "icon": "📏",
+        "content": "<b>Độ co dãn của cầu theo giá (Ed):</b><br>Ed = % thay đổi lượng cầu / % thay đổi giá<br><br><b>Phân loại:</b><ul><li>Ed > 1: Co dãn nhiều → Giảm giá làm tăng doanh thu</li><li>Ed < 1: Co dãn ít → Giảm giá làm giảm doanh thu</li><li>Ed = 1: Co dãn đơn vị</li></ul><br><b>Độ co dãn theo thu nhập:</b> % thay đổi cầu / % thay đổi thu nhập<br><ul><li>Hàng bình thường: > 0</li><li>Hàng cấp thấp: < 0</li></ul>",
+        "goals": [
+            "Tính toán độ co dãn theo giá và thu nhập",
+            "Hiểu mối quan hệ giữa co dãn và doanh thu",
+            "Phân biệt hàng bình thường và hàng cấp thấp"
+        ],
+        "tips": [
+            "🧠 <b>Cầu co dãn (Ed>1):</b> Giảm giá → Doanh thu TĂNG",
+            "📌 <b>Cầu không co dãn (Ed<1):</b> Giảm giá → Doanh thu GIẢM",
+            "💡 <b>Nông sản:</b> Cầu không co dãn (thiết yếu)"
+        ],
+        "keywords": [
+            "co dãn",
+            "elasticity",
+            "doanh thu",
+            "hàng bình thường",
+            "hàng cấp thấp"
+        ],
+        "chapters": [
+            1
+        ],
+        "videos": [],
+        "questionIds": {
+            "1": [
+                1,
+                11,
+                20,
+                23,
+                25,
+                26,
+                28,
+                36,
+                39,
+                42,
+                56,
+                58,
+                66
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "title": "Hành vi Người tiêu dùng",
+        "icon": "🛒",
+        "content": "<b>Đường ngân sách:</b> Tập hợp các kết hợp hàng hóa mà người tiêu dùng có thể mua với ngân sách cho trước.<br><br><b>Độ dốc đường ngân sách:</b> -Px/Py (tỷ lệ giá)<br><br><b>Quy tắc tối ưu hóa:</b> MUx/Px = MUy/Py<br>(Lợi ích cận biên trên một đồng chi tiêu phải bằng nhau)<br><br><b>Thay đổi đường ngân sách:</b><ul><li>Thu nhập tăng → Dịch chuyển song song ra ngoài</li><li>Giá Px giảm → Quay thoải hơn (tại trục X)</li></ul>",
+        "goals": [
+            "Vẽ và phân tích đường ngân sách",
+            "Áp dụng quy tắc tối ưu hóa tiêu dùng",
+            "Hiểu tác động của thay đổi giá và thu nhập"
+        ],
+        "tips": [
+            "🧠 <b>Tối ưu:</b> MUx/Px = MUy/Py",
+            "📌 <b>Thu nhập tăng:</b> Đường ngân sách dịch song song ra ngoài",
+            "💡 <b>Giá giảm:</b> Đường ngân sách quay thoải hơn"
+        ],
+        "keywords": [
+            "đường ngân sách",
+            "lợi ích cận biên",
+            "tối ưu hóa",
+            "tiêu dùng"
+        ],
+        "chapters": [
+            1
+        ],
+        "videos": [],
+        "questionIds": {
+            "1": [
+                2,
+                7,
+                12,
+                13,
+                19,
+                27,
+                43,
+                50,
+                54,
+                55,
+                65,
+                67,
+                68
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "title": "Lý thuyết Sản xuất & Chi phí",
+        "icon": "🏭",
+        "content": "<b>Ngắn hạn vs Dài hạn:</b><ul><li>Ngắn hạn: Có yếu tố cố định (không thể thay đổi)</li><li>Dài hạn: Mọi yếu tố đều có thể thay đổi</li></ul><br><b>Các loại chi phí:</b><ul><li>MC (Chi phí cận biên): Chi phí tăng thêm khi sản xuất thêm 1 đơn vị</li><li>ATC (Tổng chi phí trung bình)</li><li>AVC (Chi phí biến đổi trung bình)</li></ul><br><b>Hiệu suất theo quy mô:</b><ul><li>Tăng: Gấp đôi đầu vào → Đầu ra tăng hơn gấp đôi</li><li>Không đổi: Gấp đôi đầu vào → Đầu ra gấp đôi</li><li>Giảm: Gấp đôi đầu vào → Đầu ra tăng ít hơn gấp đôi</li></ul>",
+        "goals": [
+            "Phân biệt ngắn hạn và dài hạn",
+            "Hiểu mối quan hệ giữa MC và AC",
+            "Nắm vững hiệu suất theo quy mô"
+        ],
+        "tips": [
+            "🧠 <b>MC < AC:</b> AC đang giảm",
+            "📌 <b>MC > AC:</b> AC đang tăng",
+            "💡 <b>MC = AC:</b> AC đạt cực tiểu"
+        ],
+        "keywords": [
+            "chi phí cận biên",
+            "chi phí trung bình",
+            "hiệu suất quy mô",
+            "ngắn hạn",
+            "dài hạn"
+        ],
+        "chapters": [
+            1
+        ],
+        "videos": [],
+        "questionIds": {
+            "1": [
+                5,
+                8,
+                15,
+                30,
+                33,
+                38,
+                49,
+                59,
+                63,
+                70,
+                156
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "title": "Cấu trúc thị trường & Doanh thu",
+        "icon": "💰",
+        "content": "<b>Doanh thu cận biên (MR):</b> Doanh thu tăng thêm từ việc bán thêm 1 đơn vị.<br><br><b>Trong cạnh tranh hoàn hảo:</b> MR = P (Giá)<br><b>Trong độc quyền:</b> MR < P<br><br><b>Tối đa hóa lợi nhuận:</b> MR = MC<br><br><b>Điều kiện tiếp tục sản xuất (ngắn hạn):</b> P > AVC<br><br><b>Thặng dư sản xuất:</b> Chênh lệch giữa doanh thu và tổng chi phí biến đổi",
+        "goals": [
+            "Hiểu doanh thu cận biên trong các cấu trúc thị trường",
+            "Áp dụng điều kiện tối đa hóa lợi nhuận",
+            "Tính thặng dư sản xuất"
+        ],
+        "tips": [
+            "🧠 <b>Cạnh tranh hoàn hảo:</b> P = MR",
+            "📌 <b>Tối đa lợi nhuận:</b> MR = MC",
+            "💡 <b>Điều kiện sản xuất:</b> P > AVC"
+        ],
+        "keywords": [
+            "doanh thu cận biên",
+            "tối đa hóa lợi nhuận",
+            "thặng dư sản xuất",
+            "cạnh tranh hoàn hảo"
+        ],
+        "chapters": [
+            1
+        ],
+        "videos": [],
+        "questionIds": {
+            "1": [
+                6,
+                21,
+                46,
+                47
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "title": "Đo lường sản lượng (GDP/GNP)",
+        "icon": "📊",
+        "content": "<b>GDP (Tổng sản phẩm quốc nội):</b> Giá trị hàng hóa & dịch vụ cuối cùng sản xuất trong lãnh thổ.<br><br><b>GNP (Tổng sản phẩm quốc dân):</b> Giá trị do công dân quốc gia tạo ra (kể cả ở nước ngoài).<br><br><b>GDP = GNP - Thu nhập ròng từ nước ngoài</b><br><br><b>GDP danh nghĩa:</b> Tính theo giá hiện hành<br><b>GDP thực tế:</b> Tính theo giá năm cơ sở (loại bỏ lạm phát)<br><br><b>Không tính vào GDP:</b> Hàng trung gian, hàng đã qua sử dụng",
+        "goals": [
+            "Phân biệt GDP và GNP",
+            "Phân biệt GDP danh nghĩa và thực tế",
+            "Hiểu cách tính tốc độ tăng trưởng"
+        ],
+        "tips": [
+            "🧠 <b>GDP > GNP:</b> Nước ngoài SX tại VN > VN SX tại nước ngoài",
+            "📌 <b>GDP thực:</b> Dùng để so sánh giữa các năm",
+            "💡 <b>Không tính:</b> Hàng trung gian, hàng cũ"
+        ],
+        "keywords": [
+            "GDP",
+            "GNP",
+            "danh nghĩa",
+            "thực tế",
+            "tăng trưởng"
+        ],
+        "chapters": [
+            1
+        ],
+        "videos": [],
+        "questionIds": {
+            "1": [
+                72,
+                78,
+                81,
+                82,
+                86,
+                91,
+                98,
+                100,
+                101,
+                103,
+                105,
+                111,
+                119,
+                120,
+                121,
+                128,
+                129,
+                137,
+                141,
+                150,
+                164
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "title": "Tổng Cầu (AD) - Tổng Cung (AS)",
+        "icon": "⚖️",
+        "content": "<b>Tổng cầu (AD):</b> AD = C + I + G + (X - M)<br>Quan hệ giữa mức giá chung và GDP thực tế.<br><br><b>AD dịch phải khi:</b> G tăng, T giảm, Cung tiền tăng, Xuất khẩu tăng<br><b>AD dịch trái khi:</b> G giảm, T tăng, Cung tiền giảm<br><br><b>Tổng cung (AS):</b><ul><li>Ngắn hạn: Dốc lên</li><li>Dài hạn (Cổ điển): Thẳng đứng tại Y*</li></ul><br><b>Số nhân chi tiêu:</b> k = 1/(1-MPC)<br>Đo lường sự thay đổi Y khi tổng cầu tự định thay đổi 1 đơn vị",
+        "goals": [
+            "Hiểu các thành phần của tổng cầu",
+            "Phân tích dịch chuyển AD và AS",
+            "Tính và áp dụng số nhân chi tiêu"
+        ],
+        "tips": [
+            "🧠 <b>AD = C + I + G + NX</b>",
+            "📌 <b>AS dài hạn:</b> Thẳng đứng tại Y* (Cổ điển)",
+            "💡 <b>Số nhân:</b> k = 1/(1-MPC)"
+        ],
+        "keywords": [
+            "tổng cầu",
+            "tổng cung",
+            "AD",
+            "AS",
+            "số nhân",
+            "MPC"
+        ],
+        "chapters": [
+            1
+        ],
+        "videos": [],
+        "questionIds": {
+            "1": [
+                71,
+                73,
+                74,
+                77,
+                80,
+                85,
+                90,
+                97,
+                99,
+                104,
+                108,
+                110,
+                112,
+                113,
+                116,
+                130,
+                138,
+                152,
+                162
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "title": "Tiền tệ & Chính sách Tiền tệ",
+        "icon": "🏦",
+        "content": "<b>M1:</b> Tiền mặt + Tiền gửi không kỳ hạn + Séc<br><br><b>Cầu tiền:</b> Phụ thuộc vào thu nhập (đồng biến) và lãi suất (nghịch biến)<br><br><b>Công cụ NHTW:</b><ul><li>Tỷ lệ dự trữ bắt buộc</li><li>Lãi suất chiết khấu</li><li>Nghiệp vụ thị trường mở (mua/bán trái phiếu)</li></ul><br><b>Chính sách tiền tệ mở rộng:</b> Giảm dự trữ bắt buộc, Giảm lãi suất chiết khấu, Mua trái phiếu → Tăng cung tiền<br><b>Chính sách tiền tệ thắt chặt:</b> Ngược lại",
+        "goals": [
+            "Hiểu cấu trúc khối tiền tệ M1",
+            "Nắm các công cụ của NHTW",
+            "Phân biệt chính sách mở rộng và thắt chặt"
+        ],
+        "tips": [
+            "🧠 <b>Mở rộng:</b> Mua TB, Giảm DTBB, Giảm LSCK",
+            "📌 <b>Thắt chặt:</b> Bán TB, Tăng DTBB, Tăng LSCK",
+            "💡 <b>Số nhân tiền:</b> Nghịch biến với tỷ lệ dự trữ"
+        ],
+        "keywords": [
+            "M1",
+            "NHTW",
+            "dự trữ bắt buộc",
+            "lãi suất chiết khấu",
+            "thị trường mở"
+        ],
+        "chapters": [
+            1
+        ],
+        "videos": [],
+        "questionIds": {
+            "1": [
+                75,
+                76,
+                79,
+                83,
+                89,
+                94,
+                96,
+                114,
+                122,
+                123,
+                131,
+                132,
+                133,
+                136,
+                140,
+                143,
+                148,
+                149,
+                154,
+                161
+            ]
+        }
+    },
+    {
+        "id": 10,
+        "title": "Mô hình IS-LM & Phối hợp chính sách",
+        "icon": "📐",
+        "content": "<b>Đường IS:</b> Cân bằng thị trường hàng hóa (I = S)<br><b>Đường LM:</b> Cân bằng thị trường tiền tệ (Md = Ms)<br><br><b>Tác động chính sách:</b><ul><li>CSTK mở rộng (tăng G, giảm T): IS dịch phải → Y tăng, i tăng</li><li>CSTT mở rộng (tăng Ms): LM dịch phải → Y tăng, i giảm</li></ul><br><b>Hiệu ứng lấn át:</b> CSTK mở rộng làm tăng lãi suất → Giảm đầu tư tư nhân<br><br><b>Phối hợp chính sách:</b><ul><li>Tài khóa mở + Tiền tệ chặt: i chắc chắn tăng</li><li>Tài khóa chặt + Tiền tệ mở: i chắc chắn giảm</li></ul>",
+        "goals": [
+            "Hiểu cơ chế IS-LM",
+            "Phân tích tác động chính sách lên Y và i",
+            "Hiểu hiệu ứng lấn át (crowding out)"
+        ],
+        "tips": [
+            "🧠 <b>IS dịch:</b> Do G, T, I thay đổi",
+            "📌 <b>LM dịch:</b> Do Ms thay đổi",
+            "💡 <b>TK mở + TT chặt:</b> Lãi suất CHẮC CHẮN tăng"
+        ],
+        "keywords": [
+            "IS-LM",
+            "chính sách tài khóa",
+            "chính sách tiền tệ",
+            "lấn át",
+            "lãi suất"
+        ],
+        "chapters": [
+            1
+        ],
+        "videos": [],
+        "questionIds": {
+            "1": [
+                88,
+                92,
+                106,
+                107,
+                117,
+                124,
+                125,
+                126,
+                127,
+                134,
+                135,
+                139,
+                142,
+                144,
+                145,
+                146,
+                147,
+                155,
+                159,
+                163
+            ]
+        }
+    },
+    {
+        "id": 11,
+        "title": "Lạm phát & Thất nghiệp",
+        "icon": "📉",
+        "content": "<b>Lạm phát:</b> Mức giá chung tăng liên tục<br><b>Đo lường:</b> CPI, PPI, GDP Deflator<br><br><b>Nguyên nhân:</b><ul><li>Cầu kéo: AD tăng mạnh</li><li>Chi phí đẩy: AS giảm (chi phí tăng)</li><li>Thâm hụt ngân sách (in tiền)</li></ul><br><b>Thất nghiệp tự nhiên:</b> Tỷ lệ thất nghiệp khi nền kinh tế ở mức toàn dụng<br><br><b>Lực lượng lao động:</b> Người có việc + Người thất nghiệp (đang tìm việc)<br><i>Không bao gồm: Học sinh, nội trợ, bộ đội</i>",
+        "goals": [
+            "Hiểu nguyên nhân và hậu quả của lạm phát",
+            "Phân biệt các loại thất nghiệp",
+            "Xác định lực lượng lao động"
+        ],
+        "tips": [
+            "🧠 <b>Chống lạm phát:</b> Giảm cung tiền, tăng thuế, cắt chi tiêu",
+            "📌 <b>Toàn dụng:</b> Vẫn còn thất nghiệp tự nhiên",
+            "💡 <b>LLLĐ:</b> Không gồm HS, nội trợ, bộ đội"
+        ],
+        "keywords": [
+            "lạm phát",
+            "thất nghiệp",
+            "CPI",
+            "toàn dụng",
+            "lực lượng lao động"
+        ],
+        "chapters": [
+            1
+        ],
+        "videos": [],
+        "questionIds": {
+            "1": [
+                87,
+                93,
+                95,
+                102,
+                118,
+                153,
+                157,
+                160
+            ]
+        }
+    },
+    {
+        "id": 12,
+        "title": "Tăng trưởng & Kinh tế mở",
+        "icon": "🌐",
+        "content": "<b>Tăng trưởng kinh tế:</b> Tốc độ tăng GDP thực tế theo thời gian<br><br><b>Công thức:</b> g = (Yt - Yt-1) / Yt-1 × 100%<br><br><b>Yếu tố tăng trưởng dài hạn:</b><ul><li>Tiết kiệm và đầu tư</li><li>Công nghệ</li><li>Vốn nhân lực (giáo dục)</li></ul><br><b>Kinh tế mở:</b><ul><li>GDP ≠ GNP (có thành phần nước ngoài)</li><li>NX = X - M (Xuất khẩu ròng)</li><li>S = I + (G-T) + NX</li></ul>",
+        "goals": [
+            "Tính tốc độ tăng trưởng kinh tế",
+            "Hiểu các yếu tố quyết định tăng trưởng",
+            "Phân biệt kinh tế đóng và mở"
+        ],
+        "tips": [
+            "🧠 <b>Tăng trưởng kép:</b> Nước 4%/năm sẽ bỏ xa nước 2%/năm",
+            "📌 <b>Đông Á:</b> Tăng trưởng nhờ tiết kiệm & đầu tư cao",
+            "💡 <b>Kinh tế đóng:</b> I = S"
+        ],
+        "keywords": [
+            "tăng trưởng",
+            "kinh tế mở",
+            "tiết kiệm",
+            "đầu tư",
+            "xuất khẩu ròng"
+        ],
+        "chapters": [
+            1
+        ],
+        "videos": [],
+        "questionIds": {
+            "1": [
+                84,
+                109,
+                115,
+                151
+            ]
+        }
+    }
+]
