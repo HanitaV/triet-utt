@@ -634,7 +634,6 @@ input:checked+.slider:before {
     background: var(--md-surface-container-low) !important;
     border: 1px solid var(--md-outline-variant) !important;
 }
-}
 
 .option:hover {
     background: rgba(255, 255, 255, 0.08) !important;
@@ -652,7 +651,6 @@ input:checked+.slider:before {
 [data-theme="light"] .option.selected {
     background: color-mix(in srgb, var(--md-primary) 12%, var(--md-surface-container-high)) !important;
     border-color: var(--md-primary) !important;
-}
 }
 
 .option-letter {
@@ -672,7 +670,6 @@ input:checked+.slider:before {
     background: var(--md-primary-container);
     color: var(--md-on-primary-container);
 }
-}
 
 .option.selected .option-letter {
     background: #0A84FF;
@@ -682,7 +679,6 @@ input:checked+.slider:before {
 [data-theme="light"] .option.selected .option-letter {
     background: var(--md-primary);
     color: var(--md-on-primary);
-}
 }
 
 /* Nav Buttons (Next/Prev) */

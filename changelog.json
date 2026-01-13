@@ -1,0 +1,33 @@
+{
+    "releases": [
+        {
+            "version": "2.1.1",
+            "date": "14/01/2026",
+            "isNew": true,
+            "features": [
+                "🔗 Chia sẻ chủ đề - Sao chép và chia sẻ link bài học dễ dàng",
+                "📝 Bổ sung câu hỏi Tự luận Kinh tế học",
+                "⚡ Tối ưu hóa hiệu năng và sửa một số lỗi giao diện"
+            ]
+        },
+        {
+            "version": "2.1.0",
+            "date": "13/01/2026",
+            "features": [
+                "🆕 Thêm môn Kinh tế học (KTH) - 163 câu hỏi trắc nghiệm với 12 chủ đề",
+                "🆕 Thêm môn Đại cương Logistics và Chuỗi cung ứng",
+                "📚 Hỗ trợ học theo chủ đề cho môn Kinh tế học",
+                "🔧 Cải thiện hệ thống quản lý môn học"
+            ]
+        },
+        {
+            "version": "2.0.0",
+            "date": "29/12/2025",
+            "features": [
+                "🎨 Thiết kế lại giao diện Material 3 × Liquid Glass",
+                "🌈 Thêm 25+ màu chủ đạo Material You",
+                "📱 Cải thiện trải nghiệm trên di động"
+            ]
+        }
+    ]
+}
