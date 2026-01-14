@@ -1,9 +1,18 @@
 {
     "releases": [
         {
-            "version": "2.1.1",
+            "version": "2.1.2",
             "date": "14/01/2026",
             "isNew": true,
+            "features": [
+                "📚 Cập nhật toàn diện môn Triết học Mác-Lênin",
+                "🗂️ Tái cấu trúc 23 chủ đề học tập phân loại theo nhóm kiến thức",
+                "✨ Bổ sung nội dung ôn tập chi tiết cho cả 3 chương"
+            ]
+        },
+        {
+            "version": "2.1.1",
+            "date": "14/01/2026",
             "features": [
                 "🔗 Chia sẻ chủ đề - Sao chép và chia sẻ link bài học dễ dàng",
                 "📝 Bổ sung câu hỏi Tự luận Kinh tế học",
