@@ -19,12 +19,16 @@ try {
 }
 
 // Get latest git commit hash (short)
-// Use full path on Windows or rely on PATH env var
+// Use full path on Windows
 const gitCmd = process.platform === 'win32' 
-    ? '"C:\\Program Files\\Git\\cmd\\git.exe" rev-parse --short HEAD'
+    ? 'C:\\Program Files\\Git\\cmd\\git.exe rev-parse --short HEAD'
     : 'git rev-parse --short HEAD';
 
-exec(gitCmd, { shell: true }, (err, stdout, stderr) => {
+const options = process.platform === 'win32' 
+    ? { shell: 'cmd.exe', env: { ...process.env, GIT_PATH: 'C:\\Program Files\\Git\\cmd\\git.exe' } }
+    : {};
+
+exec(gitCmd, options, (err, stdout, stderr) => {
     if (err) {
         console.error('Error getting git commit:', err);
         return;
