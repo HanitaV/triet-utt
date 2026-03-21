@@ -1,36 +1,46 @@
 @echo off
 setlocal enabledelayedexpansion
 
-set "GIT_PATH=C:\Program Files\Git\cmd\git.exe"
-set "NODE_PATH=C:\Program Files\nodejs\node.exe"
+REM Add git, node, npm to PATH
+set "PATH=C:\Program Files\Git\cmd;C:\Program Files\nodejs;%PATH%"
 
 set "COMMIT_MSG=%~1"
 if "%COMMIT_MSG%"=="" set "COMMIT_MSG=Update site"
 
-echo Updating version...
-call "%NODE_PATH%" update_version.js
+echo.
+echo ======================================
+echo DEPLOY TO GITHUB PAGES
+echo ======================================
+echo.
 
-echo Adding changes...
-call "%GIT_PATH%" add -A
+echo [1] Update version...
+call node update_version.js
 
-echo Committing: %COMMIT_MSG%
-call "%GIT_PATH%" commit -m "%COMMIT_MSG%"
+echo [2] Git add all...
+call git add -A
 
-echo Pushing to main...
-call "%GIT_PATH%" push origin main
+echo [3] Git commit...
+call git commit -m "%COMMIT_MSG%"
 
-echo Switching to gh-pages...
-call "%GIT_PATH%" checkout gh-pages
+echo [4] Git push main...
+call git push origin main
 
-echo Merging from main...
-call "%GIT_PATH%" merge main -m "Merge main into gh-pages"
+echo [5] Checkout gh-pages...
+call git checkout gh-pages
 
-echo Pushing gh-pages...
-call "%GIT_PATH%" push origin gh-pages
+echo [6] Merge from main...
+call git merge main -m "Merge main into gh-pages"
 
-echo Switching back to main...
-call "%GIT_PATH%" checkout main
+echo [7] Push gh-pages...
+call git push origin gh-pages
 
-echo Deployment completed!
+echo [8] Back to main...
+call git checkout main
+
+echo.
+echo ======================================
+echo.  DONE! Site: https://hanitav.github.io/triet-utt/
+echo ======================================
+echo.
 
 endlocal

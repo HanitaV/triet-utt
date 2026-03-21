@@ -1,9 +1,8 @@
 const fs = require('fs');
-const { exec } = require('child_process');
+const { spawn } = require('child_process');
 
 const VERSION_FILE = 'version.json';
 
-// Get current version data or default
 let versionData = {
     version: '1.2.0',
     commit: 'unknown',
@@ -18,29 +17,17 @@ try {
     console.error('Error reading version file:', e);
 }
 
-// Get latest git commit hash (short)
-// Use full path on Windows
-const gitCmd = process.platform === 'win32' 
-    ? 'C:\\Program Files\\Git\\cmd\\git.exe rev-parse --short HEAD'
-    : 'git rev-parse --short HEAD';
+// Get git commit hash using spawn (full path, no shell)
+const git = spawn('C:\\Program Files\\Git\\cmd\\git.exe', ['rev-parse', '--short', 'HEAD']);
+let commitHash = '';
 
-const options = process.platform === 'win32' 
-    ? { shell: 'cmd.exe', env: { ...process.env, GIT_PATH: 'C:\\Program Files\\Git\\cmd\\git.exe' } }
-    : {};
+git.stdout.on('data', (data) => {
+    commitHash += data.toString().trim();
+});
 
-exec(gitCmd, options, (err, stdout, stderr) => {
-    if (err) {
-        console.error('Error getting git commit:', err);
-        return;
-    }
-
-    const commitHash = stdout.trim();
-
-    // Update data
-    versionData.commit = commitHash;
+git.on('close', () => {
+    versionData.commit = commitHash || 'unknown';
     versionData.date = new Date().toLocaleString('vi-VN');
-
-    // Write back to file
     fs.writeFileSync(VERSION_FILE, JSON.stringify(versionData, null, 4));
-    console.log(`Updated version.json: v${versionData.version} - ${commitHash}`);
+    console.log(`Updated version.json: v${versionData.version} - ${versionData.commit}`);
 });
