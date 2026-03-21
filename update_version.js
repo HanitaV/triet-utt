@@ -19,7 +19,12 @@ try {
 }
 
 // Get latest git commit hash (short)
-exec('git rev-parse --short HEAD', (err, stdout, stderr) => {
+// Use full path on Windows or rely on PATH env var
+const gitCmd = process.platform === 'win32' 
+    ? '"C:\\Program Files\\Git\\cmd\\git.exe" rev-parse --short HEAD'
+    : 'git rev-parse --short HEAD';
+
+exec(gitCmd, { shell: true }, (err, stdout, stderr) => {
     if (err) {
         console.error('Error getting git commit:', err);
         return;
