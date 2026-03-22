@@ -1,0 +1,630 @@
+{
+  "title": "CHƯƠNG 1",
+  "total_questions": 26,
+  "questions": [
+    {
+      "id": 4,
+      "question": "Tại Đại hội II của Đảng (2.1951), xác định yếu tố tiên quyết nào làm cho Đảng mạnh và làm cho cách mạng mau đi đến thắng lợi hoàn toàn?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh"
+        },
+        {
+          "id": "B",
+          "content": "Học tập và làm theo tư tưởng, đạo đức Hồ Chí Minh"
+        },
+        {
+          "id": "C",
+          "content": "Học tập đường lối chính trị, tác phong và đạo đức cách mạng của Hồ Chủ tịch"
+        },
+        {
+          "id": "D",
+          "content": "Học tập đường lối chính trị, đạo đức, phong cách Hồ Chí Minh"
+        }
+      ],
+      "answer": "C",
+      "explain": "Đại hội II của Đảng (2-1951) nêu rõ: \"Toàn Đảng hãy ra sức học tập đường lối chính trị, tác phong và đạo đức cách mạng của Hồ Chủ tịch; sự học tập ấy, là điều kiện tiên quyết làm cho Đảng mạnh và làm cho cách mạng đi mau đến thắng lợi hoàn toàn\"."
+    },
+    {
+      "id": 5,
+      "question": "Khi nghiên cứu môn học Tư tưởng Hồ Chí Minh cần phải dựa trên một số nguyên tắc phương pháp luận nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Thống nhất tính đảng và tính khoa học"
+        },
+        {
+          "id": "B",
+          "content": "Thống nhất lý luận và thực tiễn; quan điểm lịch sử - cụ thể"
+        },
+        {
+          "id": "C",
+          "content": "Quan điểm toàn diện và hệ thống; kế thừa và phát triển"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Giáo trình liệt kê các nguyên tắc phương pháp luận trong nghiên cứu bao gồm: Thống nhất tính đảng và tính khoa học, Thống nhất lý luận và thực tiễn, Quan điểm lịch sử - cụ thể, Quan điểm toàn diện và hệ thống, và Quan điểm kế thừa và phát triển."
+    },
+    {
+      "id": 6,
+      "question": "Trong Điếu văn của Ban Chấp hành Trung ương Đảng nhấn mạnh: “Dân tộc ta, nhân dân ta, non sông đất nước đã sinh ra Hồ Chủ tịch, (...) và chính Người đã làm rạng rỡ dân tộc ta, nhân dân ta, non sông đất nước ta”. Xác định cụm từ còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Người lãnh đạo sự nghiệp giải phóng dân tộc"
+        },
+        {
+          "id": "B",
+          "content": "Người con ưu tú của dân tộc"
+        },
+        {
+          "id": "C",
+          "content": "Người sáng lập Đảng Cộng sản Việt Nam"
+        },
+        {
+          "id": "D",
+          "content": "Người anh hùng dân tộc vĩ đại"
+        }
+      ],
+      "answer": "D",
+      "explain": "Điếu văn của Ban Chấp hành Trung ương Đảng có đoạn nêu rõ: “Dân tộc ta, nhân dân ta, non sông đất nước ta đã sinh ra Hồ Chủ tịch, người anh hùng dân tộc vĩ đại, và chính Người đã làm rạng rỡ dân tộc ta, nhân dân ta và non sông đất nước ta”."
+    },
+    {
+      "id": 7,
+      "question": "Đại hội VII của Đảng (1991) đã khẳng định lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nền tảng chính trị, kim chỉ nam cho hành động"
+        },
+        {
+          "id": "B",
+          "content": "Nền lý luận, kim chỉ nam cho hành động"
+        },
+        {
+          "id": "C",
+          "content": "Nền tảng tư tưởng, kim chỉ nam cho hành động"
+        },
+        {
+          "id": "D",
+          "content": "Nền tảng tinh thần, kim chỉ nam cho hành động"
+        }
+      ],
+      "answer": "C",
+      "explain": "Đại hội VII của Đảng khẳng định: “Đảng lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, kim chỉ nam cho hành động”."
+    },
+    {
+      "id": 8,
+      "question": "Tư tưởng Hồ Chí Minh đã dẫn dắt chúng ta đi trên mỗi chặng đường xây dựng và phát triển đất nước, là ngọn cờ thắng lợi của cách mạng Việt Nam, là sức mạnh tập hợp và đoàn kết toàn dân tộc trong sự nghiệp cách mạng của chúng ta hôm nay và mai sau. Đảng ta đã khẳng định nội dung này trong kỳ Đại hội nào sau đây?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đại hội Đại biểu toàn quốc lần thứ VIII (1996)"
+        },
+        {
+          "id": "B",
+          "content": "Đại hội Đại biểu toàn quốc lần thứ IX (2001)"
+        },
+        {
+          "id": "C",
+          "content": "Đại hội Đại biểu toàn quốc lần thứ X (2006)"
+        },
+        {
+          "id": "D",
+          "content": "Đại hội Đại biểu toàn quốc lần thứ XI (2011)"
+        }
+      ],
+      "answer": "C",
+      "explain": "Đại hội đại biểu toàn quốc lần thứ X của Đảng (4-2006) đã nêu rõ: “...Tư tưởng đó đã dẫn dắt chúng ta trên mỗi chặng đường xây dựng và phát triển đất nước, là ngọn cờ thắng lợi của cách mạng Việt Nam, là sức mạnh tập hợp và đoàn kết toàn dân tộc trong sự nghiệp cách mạng của chúng ta hôm nay và mai sau”."
+    },
+    {
+      "id": 10,
+      "question": "Sinh viên có thể vận dụng vào xây dựng, rèn luyện phương pháp và phong cách công tác như thế nào sau khi nghiên cứu môn học Tư tưởng Hồ Chí Minh?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Xây dựng phương pháp học tập, tu dưỡng, rèn luyện phù hợp với điều kiện cụ thể của từng người, từng địa bàn"
+        },
+        {
+          "id": "B",
+          "content": "Xây dựng phong cách tư duy, diễn đạt, làm việc, v.v..."
+        },
+        {
+          "id": "C",
+          "content": "Xây dựng phong cách ứng xử, sinh hoạt, v.v... phù hợp với từng lúc, từng nơi theo phương châm mà Hồ Chí Minh đã nêu: Dĩ bất biến ứng vạn biến"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Người học có điều kiện vận dụng vào việc xây dựng phương pháp học tập, tu dưỡng, rèn luyện phù hợp với điều kiện cụ thể của từng người, từng địa bàn; xây dựng phong cách tư duy, diễn đạt, làm việc, ứng xử, sinh hoạt... phù hợp với từng lúc, từng nơi theo phương châm Dĩ bất biến ứng vạn biến."
+    },
+    {
+      "id": 11,
+      "question": "Đối tượng nghiên cứu của môn học Tư tưởng Hồ Chí Minh là toàn bộ quan điểm Hồ Chí Minh được thể hiện ở đâu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Trong sự nghiệp của Hồ Chí Minh"
+        },
+        {
+          "id": "B",
+          "content": "Trong cuộc đời của Hồ Chí Minh"
+        },
+        {
+          "id": "C",
+          "content": "Trong di sản của Hồ Chí Minh"
+        },
+        {
+          "id": "D",
+          "content": "Trong quá trình lãnh đạo cách mạng Việt Nam của Hồ Chí Minh"
+        }
+      ],
+      "answer": "C",
+      "explain": "Đối tượng nghiên cứu môn học Tư tưởng Hồ Chí Minh là toàn bộ những quan điểm của Hồ Chí Minh thể hiện trong di sản của Người."
+    },
+    {
+      "id": 12,
+      "question": "Hệ thống quan điểm toàn diện và sâu sắc của Hồ Chí Minh về những vấn đề cơ bản của cách mạng Việt Nam được phản ánh ở đâu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Trong những bài nói, bài viết; hoạt động cách mạng của Người trong quá trình về nước trực tiếp lãnh đạo cách mạng"
+        },
+        {
+          "id": "B",
+          "content": "Trong những bài nói, bài viết; hoạt động cách mạng của Người trong quá trình tìm đường cứu nước"
+        },
+        {
+          "id": "C",
+          "content": "Trong những bài nói, bài viết; hoạt động cách mạng và đời sống hàng ngày của Người"
+        },
+        {
+          "id": "D",
+          "content": "Trong những bài nói, bài viết; hoạt động cách mạng của Người trong cách mạng giải phóng dân tộc"
+        }
+      ],
+      "answer": "C",
+      "explain": "Hệ thống quan điểm đó của Hồ Chí Minh phản ánh trong những bài nói, bài viết của Người, trong hoạt động cách mạng và trong cuộc sống hằng ngày của Người."
+    },
+    {
+      "id": 13,
+      "question": "Đối tượng nghiên cứu tư tưởng Hồ Chí Minh được vận động như thế nào trong thực tiễn?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Là quá trình “hiện thực hóa” hệ thống quan điểm của Hồ Chí Minh trong quá trình phát triển của dân tộc Việt Nam"
+        },
+        {
+          "id": "B",
+          "content": "Là toàn bộ những luận điểm của Hồ Chí Minh và quá trình hệ thống hóa luận điểm trong đấu tranh cách mạng Việt Nam"
+        },
+        {
+          "id": "C",
+          "content": "Là toàn bộ những quan niệm của Hồ Chí Minh và quá trình hệ thống hóa quan niệm trong giải phóng dân tộc Việt Nam"
+        },
+        {
+          "id": "D",
+          "content": "Là toàn bộ những luận cứ của Hồ Chí Minh và quá trình hệ thống hóa luận cứ trong xây dựng chủ nghĩa xã hội Việt Nam"
+        }
+      ],
+      "answer": "A",
+      "explain": "Đối tượng nghiên cứu môn học Tư tưởng Hồ Chí Minh còn là quá trình hệ thống quan điểm của Hồ Chí Minh vận động trong thực tiễn, hay nói cách khác, đó là quá trình “hiện thực hóa” hệ thống quan điểm của Hồ Chí Minh trong quá trình phát triển của dân tộc Việt Nam."
+    },
+    {
+      "id": 14,
+      "question": "Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam đã tôn vinh Hồ Chí Minh danh hiệu gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nhà văn hóa kiệt xuất Việt Nam"
+        },
+        {
+          "id": "B",
+          "content": "Anh hùng dân tộc vĩ đại"
+        },
+        {
+          "id": "C",
+          "content": "Anh hùng giải phóng dân tộc, Nhà văn hóa kiệt xuất Việt Nam"
+        },
+        {
+          "id": "D",
+          "content": "Danh nhân văn hóa thế giới"
+        }
+      ],
+      "answer": "B",
+      "explain": "Ban Chấp hành Trung ương Đảng tôn vinh Hồ Chí Minh là “Anh hùng dân tộc vĩ đại”."
+    },
+    {
+      "id": 15,
+      "question": "Khóa họp Đại hội đồng UNESCO lần thứ 24 ở Pari đã đưa ra Nghị quyết số bao nhiêu về kỷ niệm 100 năm Ngày sinh của Chủ tịch Hồ Chí Minh?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Số 23C/18.6.5"
+        },
+        {
+          "id": "B",
+          "content": "Số 24C/18.6.5"
+        },
+        {
+          "id": "C",
+          "content": "Số 25C/18.6.5"
+        },
+        {
+          "id": "D",
+          "content": "Số 26C/18.6.5"
+        }
+      ],
+      "answer": "B",
+      "explain": "Khóa họp Đại Hội đồng lần thứ 24 ở Pari đã ra Nghị quyết số 24C/18.6.5 về kỷ niệm 100 năm Ngày sinh của Chủ tịch Hồ Chí Minh."
+    },
+    {
+      "id": 16,
+      "question": "Hồ Chí Minh luôn coi trọng lý luận và thực tiễn có sự thống nhất với nhau, do đó, Người đã so sánh có kinh nghiệm mà không có lý luận thì sẽ như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Như một mắt sáng, một mắt mờ"
+        },
+        {
+          "id": "B",
+          "content": "Như một chân cao, một chân thấp"
+        },
+        {
+          "id": "C",
+          "content": "Như người không có trí khôn"
+        },
+        {
+          "id": "D",
+          "content": "Như tàu không có bàn chỉ nam"
+        }
+      ],
+      "answer": "A",
+      "explain": "Hồ Chí Minh phê bình sự chủ quan, kém lý luận, “mắc phải cái bệnh khinh lý luận”, có kinh nghiệm mà không có lý luận, cũng như một mắt sáng, một mắt mờ."
+    },
+    {
+      "id": 17,
+      "question": "Hồ Chí Minh chỉ rõ con người sẽ mắc phải căn bệnh “lý luận suông” nếu không áp dụng vào thực tế,... phải ra sức thực hành mới thành người biết lý luận. Vì vậy, Người đã ví lý luận và thực hành với cái gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Lý luận như cái bàn chỉ nam, thực hành như mục đích hướng đến"
+        },
+        {
+          "id": "B",
+          "content": "Lý luận như cái kim chỉ nam, thực hành như mục tiêu hướng đến"
+        },
+        {
+          "id": "C",
+          "content": "Lý luận như cái tên (hoặc viên đạn), thực hành như cái đích để bắn"
+        },
+        {
+          "id": "D",
+          "content": "Lý luận như cái riêng (hoặc cái cá biệt), thực hành như cái chung"
+        }
+      ],
+      "answer": "C",
+      "explain": "Người nhắc nhở: “Lý luận cũng như cái tên (hoặc viên đạn). Thực hành cũng như cái đích để bắn”."
+    },
+    {
+      "id": 18,
+      "question": "Một yêu cầu về mặt lý luận khi nghiên cứu tư tưởng Hồ Chí Minh trên bình diện tổng thể hay từng bộ phận phải luôn luôn quán triệt điều gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Mối liên hệ qua lại giữa các yếu tố, các bộ phận khác nhau trong sự khác biệt của hệ thống tư tưởng Hồ Chí Minh"
+        },
+        {
+          "id": "B",
+          "content": "Mối liên hệ qua lại giữa các yếu tố, các bộ phận khác nhau trong sự gắn kết tất yếu của hệ thống tư tưởng Hồ Chí Minh xung quanh hạt nhân cốt lõi là tư tưởng độc lập dân tộc và chủ nghĩa xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Mối liên hệ qua lại giữa các yếu tố, các bộ phận khác nhau trong phân tầng giữa các yếu tố cấu thành hệ thống tư tưởng Hồ Chí Minh"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "B",
+      "explain": "Một yêu cầu về lý luận khi nghiên cứu tư tưởng Hồ Chí Minh trên bình diện tổng thể hay từng bộ phận là phải luôn luôn quán triệt mối liên hệ qua lại của các yếu tố, các bộ phận khác nhau trong sự gắn kết tất yếu của hệ thống tư tưởng đó xung quanh hạt nhân cốt lõi là tư tưởng độc lập, tự do, dân chủ và chủ nghĩa xã hội."
+    },
+    {
+      "id": 19,
+      "question": "Đại hội XII (2016) của Đảng nhấn mạnh phải kiên định chủ nghĩa Mác – Lênin, tư tưởng Hồ Chí Minh và yêu cầu cần phải:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Vận dụng sáng tạo và phát triển phù hợp với thực tiễn cách mạng Việt Nam"
+        },
+        {
+          "id": "B",
+          "content": "Vận dụng và phát triển phù hợp với thực tiễn cách mạng thế giới"
+        },
+        {
+          "id": "C",
+          "content": "Vận dụng sáng tạo và bổ sung phù hợp với thực tiễn cách mạng Việt Nam"
+        },
+        {
+          "id": "D",
+          "content": "Vận dụng và bổ sung phù hợp với thực tiễn cách mạng thế giới"
+        }
+      ],
+      "answer": "A",
+      "explain": "Đại hội đại biểu toàn quốc lần thứ XII của Đảng (năm 2016) nhấn mạnh rằng, phải “kiên định chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh, vận dụng sáng tạo và phát triển phù hợp với thực tiễn Việt Nam”."
+    },
+    {
+      "id": 20,
+      "question": "Nghiên cứu tư tưởng Hồ Chí Minh, trước hết phải dựa vào các tác phẩm của Người để lại. Những tác phẩm nào sau đây là của Hồ Chí Minh?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Điện Biên Phủ-điểm hẹn lịch sử (1944)"
+        },
+        {
+          "id": "B",
+          "content": "Người đi tìm hình của Nước (1960)"
+        },
+        {
+          "id": "C",
+          "content": "Nâng cao đạo đức cách mạng, quét sạch chủ nghĩa cá nhân (1969)"
+        },
+        {
+          "id": "D",
+          "content": "Đất nước (1948)"
+        }
+      ],
+      "answer": "C",
+      "explain": "Bài báo trong những tháng cuối cùng của cuộc đời Hồ Chí Minh là bài \"Nâng cao đạo đức cách mạng, quét sạch chủ nghĩa cá nhân\" (đăng báo Nhân Dân, số 5409, ngày 3-2-1969). Các tác phẩm ở đáp án khác không phải là của Người."
+    },
+    {
+      "id": 21,
+      "question": "Vì sao phải đảm bảo tính đảng và tính khoa học trong nghiên cứu môn học Tư tưởng Hồ Chí Minh?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Vì phải đứng trên lập trường giai cấp nông dân, quan điểm của chủ nghĩa Mác-Lênin, đường lối, quan điểm của Đảng để nhận thức phân tích, đồng thời đảm bảo tính khách quan khoa học cho các luận đề nêu ra"
+        },
+        {
+          "id": "B",
+          "content": "Vì phải đứng trên lập trường giai cấp công nhân, quan điểm chủ nghĩa Mác – Lênin, quán triệt cương lĩnh, đường lối, quan điểm của Đảng để nhận thức và phân tích…, đồng thời đảm bảo tính khách quan, khoa học của các luận đề nêu ra"
+        },
+        {
+          "id": "C",
+          "content": "Vì phải đứng trên lập trường giai cấp tư sản, quan điểm của chủ nghĩa Mác- Lênin, đường lối, quan điểm của Đảng để nhận thức phân tích, đồng thời đảm bảo tính khách quan khoa học cho các luận đề nêu ra"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "B",
+      "explain": "Nội dung chủ yếu của phương pháp luận này là: phải đứng trên lập trường giai cấp công nhân, đứng trên quan điểm của chủ nghĩa Mác-Lênin, quán triệt cương lĩnh, đường lối, quan điểm của Đảng... Đồng thời, phải bảo đảm tính khách quan, khoa học của các luận đề nêu ra."
+    },
+    {
+      "id": 22,
+      "question": "Ý nghĩa của việc học tập môn Tư tưởng Hồ Chí Minh góp phần nâng cao năng lực tư duy lý luận của sinh viên thể hiện ở nội dung nào sau đây?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Củng cố lập trường, quan điểm cách mạng; kiên định mục tiêu độc lập dân tộc và chủ nghĩa xã hội"
+        },
+        {
+          "id": "B",
+          "content": "Để thực hành đạo đức cách mạng, chống chủ nghĩa cá nhân"
+        },
+        {
+          "id": "C",
+          "content": "Sống có ích cho xã hội, yêu và làm những điều thiện, ghét và tránh cái ác, cái xấu"
+        },
+        {
+          "id": "D",
+          "content": "Nâng cao lòng tự hào về đất nước Việt Nam, về chế độ chính trị xã hội chủ nghĩa"
+        }
+      ],
+      "answer": "A",
+      "explain": "Góp phần củng cố cho sinh viên về lập trường, quan điểm cách mạng trên nền tảng chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh; kiên định mục tiêu độc lập dân tộc gắn liền với chủ nghĩa xã hội."
+    },
+    {
+      "id": 23,
+      "question": "Qua nghiên cứu môn học Tư tưởng Hồ Chí Minh, sinh viên có điều kiện tốt để thực hành điều gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Kiên định mục tiêu độc lập dân tộc và chủ nghĩa xã hội"
+        },
+        {
+          "id": "B",
+          "content": "Bảo vệ sự trong sáng của chủ nghĩa Mác – Lênin, tư tưởng Hồ Chí Minh"
+        },
+        {
+          "id": "C",
+          "content": "Đạo đức cách mạng, nâng cao lòng tự hào dân tộc, nguyện “sống, chiến đấu, lao động, học tập theo gương Bác Hồ vĩ đại”"
+        },
+        {
+          "id": "D",
+          "content": "Vận dụng tư tưởng Hồ Chí Minh vào giải quyết những vấn đề của thực tiễn đặt ra"
+        }
+      ],
+      "answer": "C",
+      "explain": "Sinh viên nghiên cứu môn học tư tưởng Hồ Chí Minh sẽ có điều kiện tốt để thực hành đạo đức cách mạng, chống chủ nghĩa cá nhân... nâng cao lòng tự hào về đất nước Việt Nam... và nguyện \"Sống, chiến đấu, lao động, học tập theo gương Bác Hồ vĩ đại\"."
+    },
+    {
+      "id": 24,
+      "question": "Đảng Cộng sản Việt Nam xác định tư tưởng Hồ Chí Minh là hệ thống quan điểm toàn diện, sâu sắc về vấn đề gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Cơ bản của cách mạng Việt Nam"
+        },
+        {
+          "id": "B",
+          "content": "Kinh tế của cách mạng Việt Nam"
+        },
+        {
+          "id": "C",
+          "content": "Văn hóa của cách mạng Việt Nam"
+        },
+        {
+          "id": "D",
+          "content": "Chính trị của cách mạng Việt Nam"
+        }
+      ],
+      "answer": "A",
+      "explain": "Tư tưởng Hồ Chí Minh là một hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam."
+    },
+    {
+      "id": 25,
+      "question": "Trên cơ sở thống nhất nguyên tắc tính đảng và tính khoa học, giúp người nghiên cứu hiểu như thế nào về tư tưởng Hồ Chí Minh?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Hiểu cách thức nghiên cứu tư tưởng Hồ Chí Minh"
+        },
+        {
+          "id": "B",
+          "content": "Hiểu quá trình hình thành tư tưởng Hồ Chí Minh"
+        },
+        {
+          "id": "C",
+          "content": "Hiểu rõ và hiểu sâu sắc tư tưởng Hồ Chí Minh"
+        },
+        {
+          "id": "D",
+          "content": "Hiểu tính định hướng chính trị tư tưởng Hồ Chí Minh"
+        }
+      ],
+      "answer": "C",
+      "explain": "Chỉ trên cơ sở thống nhất nguyên tắc tính đảng và tính khoa học, người nghiên cứu mới hiểu rõ và hiểu sâu sắc tư tưởng Hồ Chí Minh."
+    },
+    {
+      "id": 26,
+      "question": "Nắm vững quan điểm lịch sử - cụ thể trong nghiên cứu tư tưởng Hồ Chí Minh, giúp người nghiên cứu nhận thức được điều gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Bản chất tư tưởng Hồ Chí Minh mang đậm dấu ấn của quá trình phát triển lịch sử, quá trình phát triển sáng tạo, đổi mới"
+        },
+        {
+          "id": "B",
+          "content": "Bản chất tư tưởng Hồ Chí Minh mang đậm dấu ấn của mối quan hệ biện chứng của các lĩnh vực đời sống xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Bản chất tư tưởng Hồ Chí Minh mang đậm dấu ấn của giá trị truyền thống dân tộc trong tiến trình phát triển của lịch sử"
+        },
+        {
+          "id": "D",
+          "content": "Bản chất tư tưởng Hồ Chí Minh mang đậm dấu ấn của ảnh hưởng văn hóa Đông - Tây"
+        }
+      ],
+      "answer": "A",
+      "explain": "Nếu nắm vững quan điểm này, người nghiên cứu tư tưởng Hồ Chí Minh sẽ nhận thức được bản chất tư tưởng đó mang đậm dấu ấn của quá trình phát triển lịch sử, quá trình phát triển sáng tạo, đổi mới."
+    },
+    {
+      "id": 27,
+      "question": "Quan điểm kế thừa và phát triển khi nghiên cứu, học tập tư tưởng Hồ Chí Minh đòi hỏi không chỉ biết kế thừa, vận dụng mà còn phải biết:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Quán triệt tư tưởng của Người trong các giai đoạn phát triển của cách mạng Việt Nam"
+        },
+        {
+          "id": "B",
+          "content": "Nhận thức đúng giá trị tư tưởng của Người phù hợp với xu hướng phát triển của thế giới trong giai đoạn hiện nay"
+        },
+        {
+          "id": "C",
+          "content": "Nhận thức rõ bản chất tư tưởng của Người mang đậm dấu ấn trong quá trình phát triển lịch sử"
+        },
+        {
+          "id": "D",
+          "content": "Phát triển sáng tạo tư tưởng của Người trong điều kiện lịch sử mới, trong bối cảnh cụ thể của đất nước và quốc tế"
+        }
+      ],
+      "answer": "D",
+      "explain": "Nghiên cứu, học tập tư tưởng Hồ Chí Minh đòi hỏi không chỉ biết kế thừa, vận dụng mà còn phải biết phát triển sáng tạo tư tưởng của Người trong điều kiện lịch sử mới, trong bối cảnh cụ thể của đất nước và quốc tế."
+    },
+    {
+      "id": 28,
+      "question": "Có nhiều nội dung phản ánh tư tưởng Hồ Chí Minh không ở trong văn bản mà là trong chỉ đạo thực tiễn. Thực tiễn được nhắc đến là thực tiễn nào sau đây?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Thực tiễn của chính bản thân Hồ Chí Minh và thực tiễn hoạt động của các đồng chí, học trò của Người"
+        },
+        {
+          "id": "B",
+          "content": "Thực tiễn của chính bản thân Hồ Chí Minh và thực tiễn của phong trào cách mạng vô sản"
+        },
+        {
+          "id": "C",
+          "content": "Thực tiễn của chính bản thân Hồ Chí Minh và thực tiễn cách mạng giải phóng dân tộc trên thế giới"
+        },
+        {
+          "id": "D",
+          "content": "Thực tiễn của chính bản thân Hồ Chí Minh và thực tiễn phong trào đấu tranh vì hòa bình, dân chủ, tiến bộ trên thế giới"
+        }
+      ],
+      "answer": "A",
+      "explain": "Có nhiều nội dung phản ánh tư tưởng Hồ Chí Minh không ở trong văn bản mà là ở trong chỉ đạo thực tiễn của chính bản thân Hồ Chí Minh; đồng thời phản ánh qua hoạt động của các đồng chí, qua học trò của Người."
+    },
+    {
+      "id": 29,
+      "question": "Trong nghiên cứu tư tưởng Hồ Chí Minh, phương pháp chuyên ngành, liên ngành cần được sử dụng như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Để nghiên cứu riêng tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội ở Việt Nam"
+        },
+        {
+          "id": "B",
+          "content": "Để nghiên cứu riêng tư tưởng Hồ Chí Minh về Đảng Cộng sản Việt Nam và nhà nước của nhân dân, do nhân dân, vì nhân dân"
+        },
+        {
+          "id": "C",
+          "content": "Để nghiên cứu toàn bộ hệ thống tư tưởng Hồ Chí Minh cũng như mỗi tác phẩm lý luận riêng biệt của Người"
+        },
+        {
+          "id": "D",
+          "content": "Để nghiên cứu riêng tư tưởng Hồ Chí Minh về đại đoàn kết dân tộc và đoàn kết quốc tế"
+        }
+      ],
+      "answer": "C",
+      "explain": "Các phương pháp chuyên ngành và liên ngành cần được sử dụng để nghiên cứu toàn bộ hệ thống tư tưởng Hồ Chí Minh cũng như mỗi tác phẩm lý luận riêng biệt của Người."
+    },
+    {
+      "id": 30,
+      "question": "Thông qua nghiên cứu môn học Tư tưởng Hồ Chí Minh, sinh viên thường xuyên tu dưỡng, rèn luyện bản thân mình theo tư tưởng, đạo đức, phong cách Hồ Chí Minh, hoàn thành nhiệm vụ của mình gắn liền với:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Trau dồi tình cảm cách mạng, đóng góp thiết thực và hiệu quả cho sự nghiệp cách mạng của đất nước"
+        },
+        {
+          "id": "B",
+          "content": "Củng cố lập trường cách mạng, tích cực, chủ động đấu tranh phê phán những luận điểm sai trái"
+        },
+        {
+          "id": "C",
+          "content": "Học tập nâng cao trình độ chuyên môn, nghiệp vụ"
+        },
+        {
+          "id": "D",
+          "content": "Bồi đắp năng lực tư duy lý luận, chỉ dẫn hành động để sinh viên trở thành công dân có ích cho xã hội"
+        }
+      ],
+      "answer": "A",
+      "explain": "Thường xuyên tu dưỡng, rèn luyện bản thân mình theo tư tưởng, đạo đức, phong cách Hồ Chí Minh, hoàn thành tốt nhiệm vụ của mình, gắn liền với trau dồi tình cảm cách mạng, đóng góp thiết thực và hiệu quả cho sự nghiệp cách mạng của đất nước."
+    }
+  ]
+}

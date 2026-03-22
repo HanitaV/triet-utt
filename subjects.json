@@ -34,5 +34,14 @@
         "school": "Đại học Công nghệ GTVT",
         "shortSchool": "UTT",
         "path": "subjects/utt/log"
+    },
+    {
+        "id": "tthcm",
+        "name": "Tư tưởng Hồ Chí Minh",
+        "shortName": "TT HCM",
+        "icon": "🕊️",
+        "school": "Đại học Công nghệ GTVT",
+        "shortSchool": "UTT",
+        "path": "subjects/utt/ttHCM"
     }
 ]

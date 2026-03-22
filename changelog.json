@@ -1,6 +1,17 @@
 {
     "releases": [
         {
+            "version": "2.2.0",
+            "date": "22/03/2026",
+            "isNew": true,
+            "title": "Cập nhật môn mới: Tư tưởng Hồ Chí Minh",
+            "features": [
+                "🆕 Thêm môn Tư tưởng Hồ Chí Minh (UTT) với 6 chương học",
+                "📝 Đồng bộ ngân hàng câu hỏi, study_data và liên kết chủ đề cho môn mới",
+                "🏠 Cập nhật trang chủ: banner thông báo môn mới và hiển thị bản cập nhật rõ ràng hơn"
+            ]
+        },
+        {
             "version": "2.1.2",
             "date": "14/01/2026",
             "isNew": true,

@@ -1,0 +1,705 @@
+--- Đang xử lý: Scan 22 thg 3 26 13·48·47.pdf :P1 ---
+Câu 37: Bản sắc văn hóa dân tộc theo quan điểm của Hồ Chí Minh được nhìn nhận qua 2 lớp thế hệ, bao gồm:
+
+A. Hình thức và nội dung
+
+B. Hình thức và tính chất
+
+C. Nội dung và nguyên tắc
+
+D. Tính chất và nguyên tắc
+
+Câu 38. Theo Hồ Chí Minh, về nội dung của bản sắc văn hóa dân tộc được biểu hiện như thế nào?
+
+A. Ở lòng yêu nước, thương nòi; tinh thần độc lập, tự cường, tự tôn dân tộc
+
+B. Ở lòng yêu nước, thương dân; tinh thần hữu nghị với các nước trên thế giới
+
+C. Ở lòng yêu nước, thương những người bị áp bức, bóc lột
+
+D. Ở lòng yêu nước, yêu chế độ xã hội chủ nghĩa; khát vọng hòa bình, giàu mạnh
+
+Câu 39. Theo Hồ Chí Minh, hình thức, cốt cách văn hóa dân tộc được biểu hiện:
+
+A. Ở ngôn ngữ, phong tục, tập quán, lễ hội, truyền thống, cách cảm và nghĩ
+
+B. Ở cách nói, cách viết, các diễn đạt của các tác phẩm văn hóa văn nghệ
+
+C. Ở lối sống, đạo đức, nhân cách của con người Việt Nam
+
+D. Ở triết lý giáo dục Việt Nam trong thời kỳ đất nước độc lập
+
+Câu 40. Theo Hồ Chí Minh yếu tố nào là ngọn nguồn đi tới chủ nghĩa Mác – Lênin?
+
+A. Văn hóa phương Đông
+
+B. Văn hóa phương Tây
+
+C. Đạo đức truyền thống
+
+D. Bản sắc văn hóa dân tộc
+
+Câu 41. Trước Cách mạng tháng Tám năm 1945, Hồ Chí Minh có quan điểm xây dựng nền văn hóa mới với định hướng về tâm lý là gì?
+
+A. Tinh thần vì nước quên mình, vì lợi ích chung quên lợi ích riêng
+
+B. Tinh thần làm chủ
+
+C. Tinh thần học tập, nâng cao trình độ chuyên môn, nghiệp vụ
+
+D. Tinh thần độc lập tự cường
+
+Câu 42: Theo Hồ Chí Minh, mặt trận văn hóa là cuộc chiến đấu trên lĩnh vực văn hóa; vì vậy anh chị em văn nghệ sĩ là (...) trên mặt trận ấy; cũng như các chiến sĩ khác, chiến sĩ nghệ thuật có nhiệm vụ (...) Tổ quốc, phục vụ nhân dân. Xác định cụm từ còn thiếu?
+--- Scan 22 thg 3 26 13·48·47.pdf :P1: Hoàn thành trong 90.13s ---
+
+--- Đang xử lý: Scan 22 thg 3 26 13·48·47.pdf :P2 ---
+A. Chiến sĩ/phục vụ
+
+B. Chiến sĩ/phụng sự
+
+C. Lãnh đạo/phục vụ
+
+D. Lãnh đạo/phụng sự
+
+Câu 43. Trước Cách mạng tháng Tám năm 1945, Hồ Chí Minh có quan điểm xây dựng nền văn hóa mới với định hướng về luân lý là gì?
+
+A. Tinh thần độc lập tự cường
+
+B. Biết hi sinh mình, làm lợi cho quần chúng
+
+C. Mọi sự nghiệp liên quan đến phúc lợi của cá nhân phải được đảm bảo
+
+D. Dân quyền
+
+Câu 45. Luận điểm: “Cũng như sông thì có nguồn mới có nước, không có nguồn thì sông cạn. Cây phải có gốc, không có gốc thì cây héo. Người cách mạng phải có (...), không có (...) thì dù tài giỏi mấy cũng không lãnh đạo được nhân dân”72. Xác định cụm từ còn thiếu ?
+
+A. Tình thương
+
+B. Lòng nhân ái
+
+C. Đạo đức
+
+D. Liêm
+
+Câu 46. Luận điểm: “Sức có mạnh mới gánh được nặng và đi được xa. Người cách mạng phải có đạo đức cách mạng làm nền tảng, mới hoàn thành được (...)”73. Xác định cụm từ thiếu?
+
+A. Nhiệm vụ cách mạng về vang
+
+B. Nhiệm vụ xây dựng đất nước
+
+C. Nhiệm vụ mới của đất nước
+
+D. Nhiệm vụ xây dựng đời sống mới
+
+Câu 48. Phẩm chất đạo đức bao trùm nhất trong quan điểm Hồ Chí Minh về những chuẩn mực đạo đức cách mạng là gì?
+
+A. Trung với nước, hiểu với dân
+
+B. Cần kiệm, liêm, chính, chí công vô tư
+
+C. Có tình yêu thương con người, sống có tình có nghĩa
+
+D. Có tinh thần quốc tế trong sáng
+--- Scan 22 thg 3 26 13·48·47.pdf :P2: Hoàn thành trong 64.50s ---
+
+--- Đang xử lý: Scan 22 thg 3 26 13·48·47.pdf :P3 ---
+Câu 49. Hồ Chí Minh chỉ ra rằng: “Mỗi con người đều có thiện và ác ở trong lòng. Ta phải biết làm cho phần tốt ở trong mỗi con người (...), đó là thái độ của người cách mạng”⁷⁴. Xác định cụm từ còn thiếu trong dấu ngoặc đơn?
+
+A. Này nở như hoa mùa Xuân và phần xấu bị mất dần đi
+
+B. Này nở như hoa mùa Hè và phần xấu bị mất dần đi
+
+C. Này nở như hoa mùa Thu và phần xấu bị mất dần đi
+
+D. Này nở như hoa mùa Đông và phần xấu bị mất dần đi
+
+Câu 50. Theo Hồ Chí Minh, chữ “Cần” được hiểu như thế nào?
+
+A. Lao động siêng năng, chăm chỉ, không lười biếng, không i lại vào người khác; thông qua lao động để giao tiếp với mọi người để hoàn thiện bản thân
+
+B. Lao động cần cù, siêng năng; có kế hoạch, sáng tạo, năng suất cao; lao động với tinh thần tự lực cách sinh, không lười biếng
+
+C. Lao động chăm chỉ, coi lao động là vinh quang, là động lực, là niềm vui nên luôn tích cực, chủ động trong lao động
+
+D. Lao động cần cù; xem lao động là niềm vui, niềm hạnh phúc; chủ động, tích cực trong lao động; lấy lao động làm thước đo giá trị ở mỗi người
+
+Câu 51. Theo Hồ Chí Minh, chữ “Liêm” có nghĩa là: “Không tham địa vị. Không tham (...). Không tham (...). Không ham người (...) mình. Chỉ có một thứ ham là ham học, ham làm, ham tiến bộ”⁷⁵. Xác định cụm từ còn thiếu?
+
+A. Quyền lực/ giàu sang/ tăng bốc
+
+B. Tiền tài/ sung sướng/ tăng bốc
+
+C. Danh vọng/ quyền lực/ xu nịnh
+
+D. Chức vụ/ giàu sang/ xu nịnh
+
+Câu 55. Theo Hồ Chí Minh, yếu tố nào sau đây được xem là quý trọng nhất?
+
+A. Vốn B. Khoa học, kỹ thuật C. Con người D. Tài nguyên, khoáng sản.
+
+Câu 56. Hồ Chí Minh viết: “Vô luận việc gì, đều do (...) làm ra, từ nhỏ đến to, từ gần đến xa, đều thế cả”⁷⁶. Xác định cụm từ còn thiếu?
+
+A. Nông dân
+
+B. Công nhân
+
+C. Người
+
+D. Con người
+--- Scan 22 thg 3 26 13·48·47.pdf :P3: Hoàn thành trong 74.37s ---
+
+--- Đang xử lý: Scan 22 thg 3 26 13·48·47.pdf :P4 ---
+Câu 57. Hồ Chí Minh yêu cầu: "Việc dễ mấy không có (...) cũng chịu, việc khó mấy có (...) liệu cũng xong". Xác định cụm từ còn thiếu?
+
+A. Dân- Nhân dân
+
+B. Nhân dân- Dân
+
+C. Nhân dân- Nông dân
+
+D. Dân- Công nhân
+
+Câu 58. Chọn đáp án đúng nhất với quan điểm của Hồ Chí Minh về chủ thể sáng tạo ra mọi giá trị vật chất, tinh thần cho xã hội là?
+
+A. Nông dân
+
+B. Công nhân
+
+C. Trí thức
+
+D. Nhân dân
+
+Câu 59. Để xây dựng được con người vừa hồng vừa chuyên, Hồ Chí Minh chú trọng đến lĩnh vực gì?
+
+A. Kinh tế
+
+B. Giáo dục
+
+C. Chính trị
+
+D. Văn hóa - xã hội
+
+Câu 60. Dưới ánh sáng tư tưởng Hồ Chí Minh, Cương lĩnh xây dựng đất nước (2011) của Đảng đã khẳng định: "Con người là (...) phát triển, đồng thời là (...) phát triển. Tôn trọng và bảo vệ quyền con người, gắn quyền con người với quyền và lợi ích của dân tộc, đất nước và quyền làm chủ của nhân dân". Xác định cụm từ còn thiếu?
+
+A. Trung tâm của chiến lược/ chủ thể
+
+B. Trọng tâm của chiến lược/ chủ thể
+
+C. Quan trọng của chiến lược/ chủ thể
+
+D. Then chốt của chiến lược/ chủ thể
+
+Câu 63: Theo Hồ Chí Minh, bản sắc văn hóa dân tộc được hiểu thế nào?
+
+A. Những giá trị bền vững của cộng đồng các dân tộc Việt Nam như yêu nước, tinh thần độc lập tự cường, tự tôn dân tộc
+--- Scan 22 thg 3 26 13·48·47.pdf :P4: Hoàn thành trong 61.92s ---
+
+--- Đang xử lý: Scan 22 thg 3 26 13·48·47.pdf :P5 ---
+B. Những giá trị văn hóa bền vững của cộng đồng các dân tộc Việt Nam; là thành quả của trình lao động, sản xuất chiến đấu và giao lưu của con người Việt Nam
+
+C. Những giá trị văn hóa bền vững, là thành quả của quá trình lao động, sản xuất, chiến đấu của cộng đồng người Việt Nam
+
+D. Những giá trị bền vững của cộng đồng các dân tộc Việt Nam. Được nhìn nhận qua 2 lớp thế hệ
+
+Câu 65: Theo Hồ Chí Minh, giữ gìn bản sắc văn hóa dân tộc phải đi đôi với tiếp thu tinh hoa văn hóa nhân loại. Tuy nhiên, để giữa giữ gìn cốt cách văn hóa dân tộc với tiếp thu văn hóa nhân loại cần phải có điều kiện gì?
+
+A. Lấy văn hóa dân tộc làm gốc
+
+B. Lấy văn hóa dân tộc làm nền tảng
+
+C. Lấy văn hóa dân tộc làm then chốt
+
+D. Lấy văn hóa dân tộc làm chỗ dựa
+
+Câu 66. Theo Hồ Chí Minh, nội dung tiếp thu tinh hoa văn hóa nhân loại là gì?
+
+A. Là văn hóa phương Đông, đặc biệt là văn hóa Ấn Độ, Trung Quốc
+
+B. Là văn hóa phương Tây, đặc biệt là tư tưởng dân chủ tư sản
+
+C. Là toàn diện bao gồm Đông, Tây, kim, cổ, tất cả các mặt, các khía cạnh
+
+D. Là toàn diện bao gồm văn hóa phương Đông, phương Tây
+
+Câu 67. Tiêu chí tiếp thu tinh hoa văn hóa nhân loại theo Hồ Chí Minh là gì?
+
+A. Tiếp thu cái gì hay, cái gì tốt của văn hóa nhân loại thì thì ta học lấy
+
+B. Tiếp thu tất cả văn hóa nhân loại, không bỏ sót nền văn hóa nào
+
+C. Chỉ tiếp thu các giá trị văn hóa Trung Quốc, Ấn Độ, Liên Xô
+
+D. Tiếp thu có chọn lọc văn hóa nhân loại, nhưng chú trọng tiếp thu văn hóa các nước cùng chung chế độ xã hội chủ nghĩa
+
+Câu 70. Đối với một quốc gia cần, kiệm, liêm, chính là thước đo sự giàu có về vật chất, vững mạnh về tinh thần, thể hiện (...) theo tư tưởng của Hồ Chí Minh. Xác định cụm từ còn thiếu ?
+
+A. Sự tiến bộ, khoa học và là động lực của chế độ mới
+
+B. Sự phong phú, đa dạng và là yêu cầu của đời sống mới
+
+C. Sự văn minh, tiến bộ và là nền tảng của đời sống mới
+
+D. Sự khoa học, văn minh và là cơ sở của đời sống mới
+--- Scan 22 thg 3 26 13·48·47.pdf :P5: Hoàn thành trong 83.15s ---
+
+--- Đang xử lý: Scan 22 thg 3 26 13·48·47.pdf :P6 ---
+Câu 71: Vai trò của văn hóa văn nghệ trong quan điểm Hồ Chí Minh là gì?
+
+A. Nâng cao lòng yêu nước, tình cảm cách mạng, sự lạc quan, ý chí quyết tâm và niềm tin vào cách mạng
+B. Nâng cao tinh thần lạc quan, vui vẻ và niềm tin vào cách mạng
+C. Là thang thuốc tinh thần vô giá, cổ vũ bộ đội trong kháng chiến
+D. Giúp mọi người lạc quan, vui tươi trong cuộc sống và chiến đấu, lao động và học tập
+
+Câu 72. Theo Hồ Chí Minh, văn hóa giáo dục có vai trò như thế nào?
+
+A. Giúp người học có kiến thức về chuyên môn, nghiệp vụ, có năng lực làm chủ
+B. Diệt giặc dốt, xóa mà chữ, giúp con người hiểu biết quy luật phát triển xã hội
+C. Giúp người học hiểu biết sâu sắc về lịch sử, địa lý dân tộc và thế giới.
+
+D. Nâng cao trình độ dân trí, đấu tranh chống các biểu hiện phản văn hóa
+
+Câu 73. Với sứ mệnh trồng người, theo Hồ Chí Minh văn hóa giáo dục thực hiện nhiệm vụ gì?
+
+A. Đào tạo con người mới, cán bộ mới, nguồn nhân lực chất lượng cao cho sự nghiệp cách mạng
+
+B. Đào tạo đội ngũ trí thức phát triển toàn diện cả đức, trí, thể, mỹ đáp ứng được yêu cầu sự nghiệp đấu tranh giải phóng dân tộc
+
+C. Đào tạo con người Việt Nam giỏi về chuyên môn, nghiệp vụ đáp ứng được yêu cầu của sự nghiệp đổi mới đất nước
+
+D. Cải tạo trí thức cũ, xây dựng trí thức mới, đáp ứng được yêu cầu, nhiệm vụ của sự nghiệp xây dựng chủ nghĩa xã hội
+
+Câu 74. Theo Hồ Chí Minh, văn hóa đạo đức lối sống có vai trò như thế nào?
+
+A. Giúp giáo dục đạo đức cách mạng: cần, kiệm, liêm, chính, chí công vô tư
+
+B. Giúp nâng cao phẩm giá, phong cách, hướng con người tới giá trị chân, thiện,
+
+mỹ
+
+C. Giúp xây dựng đời sống văn hóa lành mạnh, sống có ý thức bảo vệ môi trường
+
+D. Giúp nâng cao người dân nâng cao ý thức xây dựng văn hóa, tích cực đấu tranh chống những biểu hiện phản văn hóa, phản tiến bộ
+
+Câu 76: Để làm tròn nhiệm vụ “phò chính trừ tà” của mình, theo Hồ Chí Minh chiến sĩ nghệ thuật phải có lập trường như thế nào?
+
+A. Tư tưởng vững vàng, có cách lập luận vấn đề rõ ràng, khúc triết
+
+B. Tư tưởng bám sát thực tiễn, ngòi bút phải sâu sắc, gần gũi với nhân dân
+--- Scan 22 thg 3 26 13·48·47.pdf :P6: Hoàn thành trong 81.72s ---
+
+--- Đang xử lý: Scan 22 thg 3 26 13·48·47.pdf :P7 ---
+C. Tư tưởng vững vàng, bám sát thực tiễn, phê bình nghiêm khắc những thói hư tật xấu, ca tụng chân thật những người tốt,việc tốt
+
+D. Tư tưởng vững vàng, luôn nghe và viết theo dời sống thực tiễn của quần chúng
+
+Câu 77: Văn hóa phải gắn với thực tiễn đời sống của nhân dân. Để làm được như vậy, Hồ Chí Minh đã khẳng định các văn nghệ sĩ phải:
+
+A. Thật sự giác ngộ, tin tưởng vào quần chúng,v.v..để thấu hiểu tâm tư, tình cảm và nguyện vọng của nhân dân
+
+B. Thật hòa mình vào quần chúng,v.v..để hiểu thấu tâm tư, tình cảm, nguyện vọng của nhân dân
+
+C. Thật thà, dũng cảm, đoàn kết quần chúng thành một khối,v.v..để hiểu thấu tâm tư, tình cảm, nguyện vọng của nhân dân
+
+D. Thật tin tưởng, yêu dân, kính dân,v.v..để thấu hiểu tâm tư, tình cảm, nguyện vọng của nhân dân
+
+Câu 78. Tính đại chúng của nền văn hóa theo quan điểm Hồ Chí Minh được thể hiện ở những việc nào?
+
+A. Phải phục vụ dân tộc và do dân tộc xây dựng nên
+
+B. Phải phục vụ nhân dân và do nhân dân xây dựng nên
+
+C. Phải phục vụ đồng bào và do đồng bào xây dựng nên
+
+D. Phải phục vụ quần chúng và do quần chúng xây dựng nên
+
+Câu 79. Trong thời kì xây dựng chủ nghĩa xã hội ở miền Bắc, Hồ Chí Minh chủ trương xây dựng nền văn hóa như thế nào?
+
+A. Có nội dung xã hội chủ nghĩa và tính chất dân tộc
+
+B. Có nội dung xã hội chủ nghĩa và tính chất thời đại
+
+C. Có nội dung tư bản chủ nghĩa và tính chất thời đại
+
+D. Có nội dung tư bản chủ nghĩa và tính chất dân tộc
+
+Câu 81. Để giữ gìn bản sắc văn hóa dân tộc, theo Hồ Chí Minh trách nhiệm của con người Việt Nam là cần phải làm gì?
+
+A. Biết kết thừa, chọn lọc những cái hay của văn hóa các dân tộc thiểu số và tích cực hội nhập, giao lưu văn quốc tế
+
+B. Xây dựng nền văn hóa mới trên cơ sở kế thừa, tiếp thu những giá trị văn hóa đông, tây để làm giàu bản sắc văn hóa dân tộc
+
+C. Phải trân trọng, khai thác, giữ gìn, phát huy, phát triển những giá trị của văn hóa dân tộc, đáp ứng yêu cầu, nhiệm vụ từng giai đoạn cách mạng
+--- Scan 22 thg 3 26 13·48·47.pdf :P7: Hoàn thành trong 80.43s ---
+
+--- Đang xử lý: Scan 22 thg 3 26 13·48·47.pdf :P8 ---
+D. Tích cực đấu tranh chống những biểu hiện phản vãn hóa, phản tiến bộ, đặc biệt là các hù tục, mê tính, dị đoan
+
+Câu 86. Hồ Chí Minh rất quan tâm đến giáo dục toàn diện cho các em học sinh, sinh viên cả về “Đức, trí, thể, mỹ”. Trong đó, đức được xác định bao gồm:
+
+A. Nếp ăn ở, sinh hoạt hàng ngày, trước hết là với gia đình, anh em, bạn bè, rộng ra là với quốc gia, dân tộc; học để làm việc, làm người, làm cán bộ
+
+B. Nếp ăn ở, khả năng vượt lên khó khăn, thử thách để đạt được mục tiêu trong cuộc sống
+
+C. Nếp ăn ở, ý thức tự lực, tự cường, khát vọng vươn lên để khẳng định những giá trị bản thân trong học tập, lao động
+
+D. Nếp ăn ở, học tập, sinh hoạt, lao động, học biết chán, luôn có ý thức thi đua trong học tập
+
+Câu 87. Theo Hồ Chí Minh, đạo đức là nhân tố tạo nên sự hấp dẫn của chủ nghĩa xã hội bất nguồn trước hết từ đâu?
+
+A. Những giá trị đạo đức cao đẹp, mức sống vật chất dồi dào của những người cộng sản ưu tú
+
+B. Những giá trị đạo đức cao đẹp, tư tưởng tự do giải phóng của những người cộng sản ưu tú
+
+C. Những giá trị đạo đức cao đẹp, phẩm chất của những người cộng sản ưu tú
+
+D. Những giá trị đạo đức cao đẹp, lối sống mới của những người cộng ưu tú
+
+Câu 88. Theo Hồ Chí Minh, trung với nước là phải làm gì?
+
+A. Yêu nước, xây dựng đất nước giàu mạnh, dân chủ, công bằng, văn minh
+
+B. Yêu nước, đấu tranh chống các âm mưu của các thế lực thù địch chống phá sự nghiệp cách mạng
+
+C. Yêu nước, sẵn sàng hy sinh bản thân cho sự nghiệp đổi mới đất nước và hội nhập quốc tế
+
+D. Yêu nước, tuyệt đối trung thành với Tổ quốc, suốt đời phấn đấu cho Đảng, cho cách mạng
+
+Câu 89. Theo Hồ Chí Minh, hiểu với dân là phải làm gì?
+
+A. Khai dân trí, chấn dân khí, hậu dân sinh, mở mang dân quyền
+
+B. Dân biết, dân bàn, dân làm, dân kiểm tra và dân thụ hưởng
+
+C. Thương dân, tin dân, thân dân, học hỏi dân, kính trọng nhân dân, lấy dân làm
+
+gốc
+--- Scan 22 thg 3 26 13·48·47.pdf :P8: Hoàn thành trong 77.05s ---
+
+--- Đang xử lý: Scan 22 thg 3 26 13·48·47.pdf :P9 ---
+D. Phát huy quyền làm chủ của nhân dân, pháp luật phải đảm bảo quyền con người được thi trong thực tế
+
+Câu 90. Chuẩn mực đạo đức nào được Hồ Chí Minh xác định là nội dung cốt lõi của đạo đức cách mạng gắn liền với hoạt động hằng ngày của mỗi người?
+
+A. Trung với nước, hiểu với dân
+
+B. Cần, kiệm, liêm, chính, chí công vô tư
+
+C. Yêu thương con người, sống có tình có nghĩa
+
+D. Có tinh thần quốc tế trong sáng
+
+Câu 91. Hồ Chí Minh khẳng định, chỉ công vô tư là công bằng, công tâm, không thiên tư thiên vị, làm việc gì cũng không nghĩ đến mình trước, chỉ biết vì Đảng, vì dân tộc, “lo trước thiên hạ, vui sau thiên hạ” có nghĩa là gì?
+
+A. Nêu cao chủ nghĩa tập thể, trừ bỏ chủ nghĩa cá nhân
+
+B. Nêu cao tinh thần tự chủ, tự chịu trách nhiệm trước nhân dân
+
+C. Lấy lợi ích của cá nhân đặt lên trên lợi ích của tập thể
+
+D. Nêu cao chế độ làm chủ tập thể, trừ bỏ chế độ tư hữu tư nhân
+
+Câu 92. Yêu thương con người được Hồ Chí Minh xác định là một trong những phẩm chất đạo đức cao đẹp nhất. Tình yêu thương đó là một tình cảm rộng lớn, trước hết dành cho những người như thế nào?
+
+A. Nghèo khổ, bị mất quyền, bị áp bức, bóc lột…
+
+B. Nghèo khổ, bị mất quyền tự do, dân chủ…
+
+C. Nghèo khổ, bị mất quyền lãnh thổ, quyền tự quyết…
+
+D. Nghèo khổ, bị mất quyền chính trị, quyền liên hiệp…
+
+Câu 94. Nói đi đôi với làm được Hồ Chí Minh coi là nguyên tắc như thế nào?
+
+A. Quan trọng bậc nhất trong xây dựng nhân cách công dân
+
+B. Quan trọng bậc nhất trong xây dựng một nền đạo đức mới
+
+C. Quan trọng bậc nhất trong xây dựng phẩm chất của người quân tử
+
+D. Quan trọng bậc nhất trong xây dựng lối sống xã hội chủ nghĩa
+--- Scan 22 thg 3 26 13·48·47.pdf :P9: Hoàn thành trong 70.03s ---
+
+--- Đang xử lý: Scan 22 thg 3 26 13·48·47.pdf :P10 ---
+Câu 95. Hồ Chí Minh chỉ rõ: “Nói chung thì các dân tộc phương Đông đều giàu tình cảm, và đối với họ một tấm gương sống còn có giá trị hơn một trăm bài diễn văn tuyên truyền”77, điều này muốn nhấn mạnh nguyên tắc nào trong xây dựng đạo đức mới?
+
+A. Nói phải đi đôi với làm gắn liền với nêu gương về đạo đức
+
+B. Xây đi đôi với chống
+
+C. Phải tu dưỡng đạo đức suốt đời
+
+D. Phải tạo phong trào rộng rãi
+
+Câu 98. Theo Hồ Chí Minh, vấn đề quan trọng việc giáo dục đạo đức là:
+
+A. Khơi dậy ý thức, tiềm năng, sức mạnh và ý thức tự giác của mỗi người
+
+B. Khơi dậy ý thức đạo đức lành mạnh ở mỗi người, để mọi người tự giác nhận
+
+thức được trách nhiệm đạo đức của mình
+
+C. Khơi dậy trách nhiệm, năng lực và ý thức tự giác tu dưỡng của mỗi người
+
+D. Khơi dậy tiềm năng, sự phấn đấu bền bỉ và năng lực tự giác của mỗi người
+
+Câu 99. Theo Hồ Chí Minh, trên con đường đi tới tiến bộ và cách mạng, đạo đức mới chỉ có thể xây dựng thành công trên cơ sở nào ?
+
+A. Kiên trì mục tiêu chống chủ nghĩa để quốc và những thói hư tật xấu
+
+B. Kiên trì mục tiêu độc lập dân tộc và rèn luyện đạo đức
+
+C. Kiên trì mục tiêu chống chủ nghĩa để quốc, chống thói quen và tập tục lạc hậu, loại trừ chủ nghĩa cá nhân
+
+D. Kiên trì mục tiêu đấu tranh chống chủ nghĩa để quốc và xây dựng chủ nghĩa xã hội
+
+Câu 102. Hồ Chí Minh giải thích chữ Người như thế nào ?
+
+A. Nghĩa hẹp là gia đình, anh em, họ hàng, bè bạn; nghĩa rộng là đồng bào cả nước; rộng hơn nữa là cả loài người
+
+B. Nghĩa hẹp là cá nhân, anh em, bè bạn; nghĩa rộng là đồng bào cả nước; rộng hơn nữa là cả loài người
+
+C. Nghĩa hẹp là cá nhân; nghĩa rộng là gia đình, anh em, họ hàng, bè bạn; rộng hơn nữa là cả loài người
+
+D. Nghĩa hẹp là cá thể; nghĩa rộng là đồng bào cả nước; rộng hơn nữa là cả loài người
+
+Câu 103. Theo Hồ Chí Minh, tính xã hội của con người được hiểu như thế nào ?
+--- Scan 22 thg 3 26 13·48·47.pdf :P10: Hoàn thành trong 77.75s ---
+
+--- Đang xử lý: Scan 22 thg 3 26 13·48·47.pdf :P11 ---
+A. Là con người xã hội, thành viên của một cộng đồng xã hội
+
+B. Là cá nhân sống trong xã hội, có trách nhiệm với xã hội
+
+C. Là thành viên của xã hội, chịu sự tác động từ những mặt trái của xã hội
+
+D. Là thành viên của xã hội, bị ảnh hưởng bởi môi trường xã hội
+
+Câu 104. Khi nêu ra những hiểu biết về yếu tố sinh vật của con người, Hồ Chí Minh
+khẳng định mọi đường lối, chủ trương, chính sách, nhiệm vụ của Đảng, Nhà nước
+cần phải thực hiện nay là gì ?
+
+A. Làm cho dân có cuộc sống ấm no, không có áp bức, bất công
+
+B. Làm cho dân được tự do, sống một đời hạnh phúc
+
+C. Làm cho dân có ăn, có mặt, có chỗ ở, có học hành
+
+D. Làm cho dân được sống bình đẳng, chống phân biệt giàu, nghèo
+
+Câu 105. Nét đặc sắc trong nhìn nhận đặc điểm con người Việt Nam với những
+điều kiện lịch sử cụ thể, với cấu trúc kinh tế, xã hội cụ thể của Hồ Chí Minh, giúp
+giải quyết mối quan hệ gì một cách sáng tạo ?
+
+A. Dân tộc và giai cấp
+
+B. Cá nhân và cộng đồng
+
+C. Cá nhân và xã hội
+
+D. Dân tộc và nhân loại
+
+Câu 106. Con người trong tư tưởng và hành động của Hồ Chí Minh là chiến lược
+số một. Điều đó, được cụ thể hóa trong những giai đoạn nào của cách mạng Việt
+Nam?
+
+A. Giải phóng dân tộc - Xây dựng chế độ dân chủ nhân dân - Tiến dần lên chủ
+nghĩa xã hội
+
+B. Giải phóng con người - Xây dựng chế độ dân chủ nhân dân - Tiến dần lên chủ
+nghĩa xã hội
+
+C. Giải phóng giai cấp - Xây dựng chế độ dân chủ nhân dân - Tiến dần lên chủ
+nghĩa xã hội
+
+D. Giải phóng lực lượng sản xuất - Xây dựng chế độ dân chủ nhân dân - Tiến lên
+chủ nghĩa xã hội
+
+Câu 107. Con người là mục tiêu của cách mạng, tức là hướng tới giải phóng dân
+tộc, giải phóng giai cấp, giải phóng xã hội, giải phóng con người. Theo Hồ Chí
+Minh, các giải phóng đó có mối quan hệ với nhau như thế nào ?
+
+A. Kết hợp chặt chẽ, đồng thời nối tiếp nhau
+--- Scan 22 thg 3 26 13·48·47.pdf :P11: Hoàn thành trong 74.92s ---
+
+--- Đang xử lý: Scan 22 thg 3 26 13·48·47.pdf :P12 ---
+B. Kết hợp chặt chẽ, đồng thời bổ sung cho nhau
+C. Kết hợp hài hòa, đồng thời bổ sung cho nhau
+D. Kết hợp chặt chẽ, đồng thời tác động qua lại với nhau
+
+Câu 109. Ý nghĩa của việc xây dựng con người theo Hồ Chí Minh là gì ?
+
+A. Một trọng tâm, một bộ phận hợp thành của chiến lược phát triển đất nước
+B. Một trọng tâm, một bộ phận hợp thành của Đảng về phát triển kinh tế
+C. Một trọng tâm, một bộ phận hợp thành của Nhà nước về phát triển kinh tế
+D. Một trọng tâm, một bộ phận hợp thành của Mặt trận Tổ quốc Việt Nam về phát triển văn hóa xã hội
+
+Câu 110. Theo Hồ Chí Minh “Trồng người” phải được tiến hành như thế nào?
+
+A. Liên tục, xem đó là thước đo cho trình độ phát triển của lực lượng sản xuất
+B. Thường xuyên trong suốt tiến trình đi lên chủ nghĩa xã hội và phải đạt được những kết quả cụ thể trong từng giai đoạn cách mạng
+C. Liên tục trong suốt quá trình đổi mới và hội nhập kinh tế quốc tế
+D. Tiến hành thường xuyên trong suốt tiến trình đấu tranh giải phóng dân tộc, cũng như quá trình đổi mới đất nước
+
+Câu 111. Công việc trồng người, theo Hồ Chí Minh là trách nhiệm của ai?
+
+A. Là trách nhiệm riêng của Đảng, Nhà nước
+
+B. Là trách nhiệm riêng của cá nhân, đoàn thể chính trị - xã hội
+
+C. Của Đảng, Nhà nước, các đoàn thể chính trị - xã hội kết hợp với tính tích cực, chủ động của từng người
+
+D. Của Đảng, Nhà nước, các tổ chức quốc tế, đặc biệt là trách nhiệm của các cơ quan, ban ngành thực hiện nhiệm vụ trên lĩnh vực giáo dục
+
+Câu 113. Trong mối quan hệ biện chứng giữa chủ nghĩa xã hội và con người xã hội chủ nghĩa, theo Hồ Chí Minh chủ nghĩa xã hội tạo ra những con người xã hội chủ nghĩa, con người xã hội chủ nghĩa là:
+
+A. Động lực xây dựng chủ nghĩa xã hội
+
+B. Mục tiêu xây dựng chủ nghĩa xã hội
+
+C. Tiêu chuẩn xây dựng chủ nghĩa xã hội
+
+D. Thước đo xây dựng chủ nghĩa xã hội
+
+Câu 114. Trong xây dựng con người, Hồ Chí Minh chủ trương xây dựng con người toàn diện theo các khía cạnh nào sau đây ?
+--- Scan 22 thg 3 26 13·48·47.pdf :P12: Hoàn thành trong 71.47s ---
+
+--- Đang xử lý: Scan 22 thg 3 26 13·48·47.pdf :P13 ---
+A. Có ý thức tập thể, yêu nước, tiến bộ, có lý tưởng, sống có trách nhiệm
+
+B. Có ý thức làm chủ, yêu nước, thương dân, có trí tuệ và bản lĩnh vững vàng
+
+C. Có ý thức làm chủ, tinh thần thập thể, cần kiệm, hăng hái bảo vệ Tổ quốc; có lòng yêu nước, phương pháp làm việc khoa học, dân chủ, nêu gương
+
+D. Có lòng yêu nước nồng nàn, có chí tiến thủ, có ý thức bảo vệ Tổ quốc
+
+Câu 115. Vận dụng tư tưởng Hồ Chí Minh về vai trò của văn hóa, Nghị quyết Hội nghị lần thứ 5 Ban chấp hành Trung ương khóa VIII về xây dựng và phát triển văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc đã xác định:
+
+A. Văn hóa là nền tảng tinh thần của xã hội, vừa là mục tiêu vừa là động lực thúc đẩy sự phát triển kinh tế - xã hội
+
+B. Văn hóa là giá trị tinh thần của xã hội, văn hóa giúp giáo dục, đào tạo con người đáp ứng yêu cầu của sự nghiệp đổi mới
+
+C. Văn hóa là trung tâm của sự phát triển, quan tâm phát triển văn hóa toàn diện trở thành nền tảng tinh thần của xã hội
+
+D. Coi trọng phát triển văn hóa, văn nghệ, làm văn hóa trở thành động lực thúc đẩy sự phát triển kinh tế - xã hội
+
+Câu 116. Trong Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011) đã khẳng định như thế nào về yếu tố con người theo tư tưởng Hồ Chí Minh?
+
+A. Xây dựng con người làm chủ thể quyết định thành công sự nghiệp đổi mới và hội nhập quốc tế
+
+B. Con người vừa là mục tiêu, vừa là động lực của sự nghiệp đổi mới
+
+C. Con người được quan tâm phát triển toàn diện về đức, trí, thể, mỹ
+
+D. Con người là trung tâm của chiến lược phát triển, đồng thời là chủ thể phát triển
+
+Câu 117. Theo Hồ Chí Minh, thế hệ trẻ Việt Nam có vai trò như thế nào?
+
+A. Là người tiên phong trong học tập, lao động, quyết định đến thắng lợi của sự nghiệp đấu tranh giải phóng dân tộc
+
+B. Là người chủ tương lai của nước nhà; nước nhà thịnh hay suy, yếu hay mạnh một phần lớn là do các thanh niên
+
+C. Người đi đầu trong xây dựng, bảo vệ Tổ quốc; chủ động học tập để trở thành những công dân toàn cầu
+
+D. Người có trình độ học vấn cao; có cổng hiến quan trọng trong sự nghiệp đổi mới và hội nhập quốc tế
+--- Scan 22 thg 3 26 13·48·47.pdf :P13: Hoàn thành trong 81.13s ---
+
+--- Đang xử lý: Scan 22 thg 3 26 13·48·47.pdf :P14 ---
+Câu 118. Học tập đạo đức cách mạng Hồ Chí Minh, người Việt Nam trong thời đại mới trước hết phải học những gì ?
+
+A. Học cần, kiệm, liêm, chính, chí công vô tư
+B. Học trung với nước, hiểu với dân, suốt đời đầu tranh cho sự nghiệp cách mạng
+C. Học kính trọng nhân dân
+D. Ý chí nghị lực, quyết tâm vượt qua mọi thứ thách
+
+Câu 120. Trong thời kì đổi mới, đi vào nền kinh tế thị trường định hướng xã hội chủ nghĩa, một nền đạo đức mới đang hình thành. Phần lớn sinh viên Việt Nam vẫn giữ được những phẩm chất đạo đức như thế nào?
+
+A. Yêu nước, thương dân, nhân hậu, nghĩa tình, khoan dung, khiêm tốn
+B. Biết chịu trách nhiệm, sáng tạo trong công việc, năng động trong cuộc sống
+
+C. Nhân hậu, tình nghĩa, khiêm tốn, luôn cần cù, sáng tạo trong học tập, có chí lập thân, lập nghiệp, dám chịu trách nhiệm, không ý lại, bản lĩnh
+D. Trong sạch, lành mạnh, khiêm tốn, sáng tạo, có lý tưởng, bám lĩnh
+
+Câu 121. Việc học tập tư tưởng, tấm gương đạo đức Hồ Chí Minh đối với sinh viên là tất yếu bởi trong thời kì đổi mới một bộ phận sinh viên hiện nay còn có những biểu hiện tiêu cực nào sau đây?
+
+A. Phai nhạt niềm tin, lý tưởng sống
+
+B. Không có chí lập thân, lập nghiệp; Phai nhạt niềm tin, lý tưởng thiếu trách nhiệm, thờ ơ với gia đình, xã hội...
+
+C. Tham nhũng, lãng phí, quan liêu
+
+D. Sống buông thả, không xác định được mục tiêu lập thân, lập nghiệp
+
+Câu 122. Học tập và làm theo đạo đức Hồ Chí Minh là đòi hỏi của sự nghiệp cách mạng, sự nghiệp đổi mới toàn diện đất nước và hội nhập quốc tế, nhằm làm cho:
+
+A. Mỗi người trở thành những công dân tốt hơn, xứng đáng là người làm chủ đất nước
+
+B. Mỗi người trở thành những cán bộ tốt hơn, xứng đáng là người làm chủ đất nước
+--- Scan 22 thg 3 26 13·48·47.pdf :P14: Hoàn thành trong 63.64s ---
+
+--- Đang xử lý: Scan 22 thg 3 26 13·48·47.pdf :P15 ---
+C. Mỗi người trở thành những thành viên tốt hơn, xứng đáng là người làm chủ đất nước
+
+D. Mỗi người trở thành những cá nhân tốt hơn, xứng đáng là người làm chủ đất nước
+
+Câu 123. Xác định cụm từ còn thiếu vào câu nói sau của Hồ Chí Minh: “Một ngày mà Tổ Quốc chưa thống nhất, đồng bào còn chịu khổ, là một ngày tôi (...)”78?
+
+A. Ăn không ngon, ngủ không sâu
+
+B. Ngủ không ngon, ngủ không được
+
+C. Ăn không ngon, ngủ không yên
+
+D. Ăn không ngon, ngủ không ngon
+
+Câu 126. Theo Hồ Chí Minh, mọi người dân Việt Nam đều có ý thức dân tộc, trong đó đặc biệt là sinh viên, trách nhiệm của họ là phải:
+
+A. Vun đắp tinh thần dân tộc, có tinh thần quốc tế trong sáng
+
+b. Ý thức trách nhiệm với Tổ Quốc thân yêu, biết vun đắp tinh thần dân tộc, tự giác, tích cực thực hiện trách nhiệm của mình
+
+B. Có ý thức trách nhiệm cao, có lòng tự hào dân tộc, không ngừng đấu tranh chống tiêu cực
+
+D. Có khắt vọng vươn lên, thắng không kiêu, bại không nản, phấn đấu làm giàu chính đáng
+
+Câu 128. Theo Hồ Chí Minh, phải luôn nhân ái, vị tha, bao dung với con người, tình yêu thương ấy phải gắn với:
+
+A. Niềm tin tuyệt đối vào sức mạnh và trí tuệ nhân dân
+
+B. Niềm tin vào trí tuệ và lòng nhân ái của con người
+
+C. Niềm tin vào sức mạnh và lòng trung thực của con người
+
+D. Niềm tin vào trí tuệ và phẩm giá con người
+
+Câu 130. Để học tập theo tư tưởng, đạo đức, phong cách Hồ Chí Minh, sinh viên Việt cần phải:
+
+A. Thi đua phấn dấu rèn luyện vì ngày mai lập nghiệp
+--- Scan 22 thg 3 26 13·48·47.pdf :P15: Hoàn thành trong 62.57s ---
+
+--- Đang xử lý: Scan 22 thg 3 26 13·48·47.pdf :P16 ---
+B. Thì đua học tập, rèn luyện vì ngày mai lập nghiệp
+
+C. Thì đua phấn đấu học tập vì ngày mai lập nghiệp
+
+D. Thì đua phấn đấu tích cực rèn luyện vì ngày mai tươi sáng
+
+Câu 131. Theo Hồ Chí Minh “Muốn xây dựng chủ nghĩa xã hội, trước hết cần phải có những con người xã hội chủ nghĩa” có nghĩa là:
+
+A. Xây dựng kinh tế, văn hóa cao mới xây dựng con người
+
+B. Xây dựng con người xã hội chủ nghĩa xong mới xây dựng chủ nghĩa xã hội
+
+C. Xây dựng con người phải được đặt ra ngay từ đầu và trong suốt tiến trình xây dựng chủ nghĩa xã hội
+
+D. Xây dựng chế độ chính trị do nhân dân làm chủ, nhân dân là chủ thể xây dựng chủ nghĩa xã hội
+
+Câu 134. Chủ đề nào sau đây là chủ đề học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh trong đoàn viên, thanh niên năm 2020?
+
+A. “Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh về tinh thần học tập suốt đời”
+
+B. “Thực hành tiết kiệm, chống lãng phí theo tư tưởng, đạo đức, phong cách Hồ Chí Minh”
+
+C. “Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh về trách nhiệm, trung thực, nói đi đôi với làm”
+
+D. “Học tập và làm theo tư tưởng và tấm gương mẫu mực của Hồ Chí Minh về tư dưỡng đạo đức suốt đời”
+--- Scan 22 thg 3 26 13·48·47.pdf :P16: Hoàn thành trong 51.64s ---

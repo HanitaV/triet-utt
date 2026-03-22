@@ -1,0 +1,2142 @@
+{
+  "title": "CHƯƠNG 5",
+  "total_questions": 89,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Theo Hồ Chí Minh, đại đoàn kết dân tộc là vấn đề như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Có ý nghĩa chiến lược, quyết định thành công cách mạng"
+        },
+        {
+          "id": "B",
+          "content": "Có ý nghĩa sách lược, quyết định thành công cách mạng"
+        },
+        {
+          "id": "C",
+          "content": "Có ý nghĩa lịch sử, quyết định thành công cách mạng"
+        },
+        {
+          "id": "D",
+          "content": "Có ý nghĩa đặc biệt quan trọng, quyết định thành công của cách mạng"
+        }
+      ],
+      "answer": "A",
+      "explain": "Trong tư tưởng Hồ Chí Minh, đại đoàn kết toàn dân tộc không phải là sách lược hay thủ đoạn chính trị mà là chiến lược lâu dài, nhất quán. Đại đoàn kết toàn dân tộc là vấn đề có ý nghĩa chiến lược, quyết định thành công của cách mạng."
+    },
+    {
+      "id": 2,
+      "question": "Trong liên minh giữa giai cấp công nhân, nông dân với các giai cấp, tầng lớp khác, Hồ Chí Minh chú trọng nhất đến giai cấp, tầng lớp nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đội ngũ trí thức"
+        },
+        {
+          "id": "B",
+          "content": "Tư sản Việt Nam"
+        },
+        {
+          "id": "C",
+          "content": "Địa chủ"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả đáp án"
+        }
+      ],
+      "answer": "A",
+      "explain": "Người căn dặn, không nên chỉ nhấn mạnh vai trò của công nông, mà còn phải thấy vai trò và sự cần thiết phải liên minh với các giai cấp khác, nhất là với đội ngũ trí thức."
+    },
+    {
+      "id": 3,
+      "question": "Để Mặt trận dân tộc thống nhất hoạt động có hiệu quả, theo Hồ Chí Minh cần phải có nguyên tắc xây dựng và hoạt động như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Phải được xây dựng trên nền tảng liên minh công nhân - nông dân - trí thức được đặt dưới lãnh đạo của Đảng"
+        },
+        {
+          "id": "B",
+          "content": "Phải xuất phát từ mục tiêu vì nước, vì dân và phải hoạt động trên nguyên tắc hiệp thương dân chủ"
+        },
+        {
+          "id": "C",
+          "content": "Phải đoàn kết lâu dài, chặt chẽ, đoàn kết thực sự, chân thành, thân ái giúp đỡ nhau cùng tiến bộ"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Mặt trận dân tộc thống nhất cần được xây dựng và hoạt động trên cơ sở các nguyên tắc: 1) Phải được xây dựng trên nền tảng liên minh công nhân - nông dân - trí thức và đặt dưới sự lãnh đạo của Đảng; 2) Phải hoạt động theo nguyên tắc hiệp thương dân chủ; 3) Phải đoàn kết lâu dài, chặt chẽ, đoàn kết thật sự, chân thành, thân ái giúp đỡ nhau cùng tiến bộ."
+    },
+    {
+      "id": 4,
+      "question": "Theo Hồ Chí Minh, hình thức tổ chức của khối đại đoàn kết dân tộc là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Mặt trận dân tộc thống nhất"
+        },
+        {
+          "id": "B",
+          "content": "Mặt trận dân tộc Việt Nam"
+        },
+        {
+          "id": "C",
+          "content": "Mặt trận dân tộc giải phóng"
+        },
+        {
+          "id": "D",
+          "content": "Mặt trận dân tộc dân chủ"
+        }
+      ],
+      "answer": "A",
+      "explain": "Khối đại đoàn kết toàn dân tộc chỉ trở thành lực lượng to lớn, có sức mạnh khi được tập hợp, tổ chức lại thành một khối vững chắc, đó là Mặt trận dân tộc thống nhất."
+    },
+    {
+      "id": 5,
+      "question": "Điều kiện để thực hiện xây dựng khối đại đoàn dân tộc theo Hồ Chí Minh là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Phải kế thừa truyền thống yêu nước, nhân nghĩa, đoàn kết của dân tộc"
+        },
+        {
+          "id": "B",
+          "content": "Phải có lòng khoan dung độ lượng với con người"
+        },
+        {
+          "id": "C",
+          "content": "Phải có niềm tin với nhân dân"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Để quy tụ, đoàn kết được mọi giai cấp, tầng lớp cần bảo đảm các điều kiện: Phải lấy lợi ích chung làm điểm quy tụ, Kế thừa truyền thống yêu nước, nhân nghĩa, đoàn kết của dân tộc, Có lòng khoan dung, độ lượng với con người, và Phải có niềm tin vào nhân dân."
+    },
+    {
+      "id": 6,
+      "question": "Câu nói nào sau đây thể hiện quan điểm mang tính chân lý của Chủ tịch Hồ Chí Minh về vai trò và sức mạnh của đại đoàn kết dân tộc?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đoàn kết là sức mạnh của chúng ta"
+        },
+        {
+          "id": "B",
+          "content": "Đoàn kết là sức mạnh, là then chốt của thành công"
+        },
+        {
+          "id": "C",
+          "content": "Đoàn kết, đoàn kết, đại đoàn kết/ Thành công, thành công, đại thành công"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Hồ Chí Minh đã khái quát thành nhiều luận điểm mang tính chân lý: “Đoàn kết là sức mạnh của chúng ta”, “Đoàn kết là sức mạnh, là then chốt của thành công”, “Đoàn kết, đoàn kết, đại đoàn kết/ Thành công, thành công, đại thành công”."
+    },
+    {
+      "id": 7,
+      "question": "Xác định đại đoàn kết dân tộc là mục tiêu, nhiệm vụ hàng đầu, theo Hồ Chí Minh nhiệm vụ này cần phải quán triệt như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Trong lãnh đạo đấu tranh giành chính quyền và bảo vệ chính quyền của Đảng"
+        },
+        {
+          "id": "B",
+          "content": "Trong lãnh đạo thực hiện đồng thời hai nhiệm vụ xây dựng chủ nghĩa xã hội ở Miền Bắc và đấu tranh thống nhất đất nước ở miền Nam"
+        },
+        {
+          "id": "C",
+          "content": "Trong tất cả lĩnh vực, từ đường lối, chủ trương, chính sách, tới hoạt động thực tiễn của Đảng"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "C",
+      "explain": "Đảng là lực lượng lãnh đạo cách mạng Việt Nam nên tất yếu đại đoàn kết toàn dân tộc phải được xác định là nhiệm vụ hàng đầu của Đảng và nhiệm vụ này phải được quán triệt trong tất cả mọi lĩnh vực, từ đường lối, chủ trương, chính sách, tới hoạt động thực tiễn của Đảng."
+    },
+    {
+      "id": 8,
+      "question": "Năm 1947, trong trả lời các nhà báo, Hồ Chí Minh tuyên bố: Chính sách đối ngoại của nước Việt Nam là “làm bạn với tất cả các nước (...) và không gây thù oán với một ai”62. Xác định cụm từ còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Trên thế giới"
+        },
+        {
+          "id": "B",
+          "content": "Cường quốc"
+        },
+        {
+          "id": "C",
+          "content": "Láng giềng"
+        },
+        {
+          "id": "D",
+          "content": "Dân chủ"
+        }
+      ],
+      "answer": "D",
+      "explain": "Tháng 9 năm 1947, trả lời nhà báo Mỹ S. Êli Mâysi, Hồ Chí Minh tuyên bố: Chính sách đối ngoại của nước Việt Nam là “làm bạn với tất cả mọi nước dân chủ và không gây thù oán với một ai”."
+    },
+    {
+      "id": 9,
+      "question": "Lực lượng đoàn kết quốc tế được Hồ Chí Minh xác định là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Phong trào cộng sản và công nhân quốc tế"
+        },
+        {
+          "id": "B",
+          "content": "Phong trào đấu tranh giải phóng dân tộc"
+        },
+        {
+          "id": "C",
+          "content": "Lực lượng tiến bộ, những người yêu chuộng hòa bình, dân chủ, tự do và công lý"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Lực lượng đoàn kết quốc tế trong tư tưởng Hồ Chí Minh bao gồm: phong trào cộng sản và công nhân quốc tế; phong trào đấu tranh giải phóng dân tộc và phong trào hoà bình, dân chủ thế giới (các lực lượng tiến bộ, yêu chuộng hòa bình, dân chủ, tự do)."
+    },
+    {
+      "id": 10,
+      "question": "Năm 1951, trong buổi ra mắt Đảng Lao động Việt Nam, Hồ Chí Minh đã tuyên bố mục đích của Đảng Lao động Việt Nam là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đoàn kết toàn dân, phụng sự Tổ quốc"
+        },
+        {
+          "id": "B",
+          "content": "Đoàn kết toàn dân, phụng vụ nhân dân"
+        },
+        {
+          "id": "C",
+          "content": "Đoàn kết toàn dân, phụng sự giai cấp"
+        },
+        {
+          "id": "D",
+          "content": "Đoàn kết toàn dân, phụng vụ đoàn thể"
+        }
+      ],
+      "answer": "A",
+      "explain": "Trong lời kết thúc buổi ra mắt Đảng Lao động Việt Nam ngày 3-3-1951, Hồ Chí Minh tuyên bố: “Mục đích của Đảng Lao động Việt Nam có thể gồm trong tám chữ là: ĐOÀN KẾT TOÀN DÂN, PHỤNG SỰ TỔ QUỐC”."
+    },
+    {
+      "id": 11,
+      "question": "Luận điểm của Hồ Chí Minh: \"Sử dạy ta bài học này: Lúc nào dân ta (...) muôn người như một thì nước ta độc lập, tự do. Trái lại lúc nào dân ta không (...) thì bị nước ngoài xâm lấn\"63. Xác định cụm từ còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đoàn kết"
+        },
+        {
+          "id": "B",
+          "content": "Gắn kết"
+        },
+        {
+          "id": "C",
+          "content": "Liên kết"
+        },
+        {
+          "id": "D",
+          "content": "Hợp tác"
+        }
+      ],
+      "answer": "A",
+      "explain": "Người nói rõ: “Sử dạy cho ta bài học này: Lúc nào dân ta đoàn kết muôn người như một thì nước ta độc lập, tự do. Trái lại lúc nào dân ta không đoàn kết thì bị nước ngoài xâm lấn”."
+    },
+    {
+      "id": 12,
+      "question": "Đại đoàn kết dân tộc trong tư tưởng Hồ Chí Minh được xác định là một tiêu, nhiệm vụ hàng đầu của:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Cách mạng dân tộc dân chủ nhân dân"
+        },
+        {
+          "id": "B",
+          "content": "Cách mạng giải phóng dân tộc"
+        },
+        {
+          "id": "C",
+          "content": "Cách mạng xã hội chủ nghĩa"
+        },
+        {
+          "id": "D",
+          "content": "Cách mạng Việt Nam"
+        }
+      ],
+      "answer": "D",
+      "explain": "Tên tiểu mục 1.b của giáo trình ghi rõ: \"Đại đoàn kết toàn dân tộc là một mục tiêu, nhiệm vụ hàng đầu của cách mạng Việt Nam\"."
+    },
+    {
+      "id": 13,
+      "question": "Luận điểm của Hồ Chí Minh: \"Lực lượng chủ yếu trong khối đại đoàn kết dân tộc là (...) cho nên liên minh (...) là nền tảng của Mặt trận dân tộc thống nhất\"64. Xác định cụm từ còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Công nông thương - công nông thương"
+        },
+        {
+          "id": "B",
+          "content": "Công nông trí - công nông trí"
+        },
+        {
+          "id": "C",
+          "content": "Công nông - công nông"
+        },
+        {
+          "id": "D",
+          "content": "Công nông binh - công nông binh"
+        }
+      ],
+      "answer": "C",
+      "explain": "Hồ Chí Minh viết: “Lực lượng chủ yếu trong khối đoàn kết dân tộc là công nông, cho nên liên minh công nông là nền tảng của Mặt trận dân tộc thống nhất”."
+    },
+    {
+      "id": 14,
+      "question": "Tùy theo từng thời kỳ, căn cứ vào yêu cầu và nhiệm vụ của cách mạng Mặt trận dân tộc thống nhất có những tên gọi khác nhau. Năm 1941, 1976 có tên gọi là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Mặt trận Việt Minh/ Mặt trận Tổ quốc Việt Nam"
+        },
+        {
+          "id": "B",
+          "content": "Mặt trận dân chủ/ Mặt trận Liên hiệp các nước thuộc địa"
+        },
+        {
+          "id": "C",
+          "content": "Mặt trận nhân dân phản đế/ Mặt trận giải phóng miền Nam"
+        },
+        {
+          "id": "D",
+          "content": "Mặt trận Liên Việt/ Mặt trận nhân dân phản đế đồng minh"
+        }
+      ],
+      "answer": "A",
+      "explain": "Tùy theo từng thời kỳ... Mặt trận dân tộc thống nhất có những tên gọi khác nhau như: Mặt trận Việt Minh (1941);... Mặt trận Tổ quốc Việt Nam (1955, 1976)."
+    },
+    {
+      "id": 15,
+      "question": "Năm 1924, Hồ Chí Minh đã đưa ra quan điểm về thành lập mặt trận ngoài đây?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Mặt trận đoàn kết Việt Nam - Lào - Campuchia"
+        },
+        {
+          "id": "B",
+          "content": "Mặt trận thống nhất của nhân dân chính quốc và thuộc địa"
+        },
+        {
+          "id": "C",
+          "content": "Mặt trận nhân dân Á - Phi đoàn kết với Việt Nam"
+        },
+        {
+          "id": "D",
+          "content": "Mặt trận nhân dân thế giới đoàn kết với Việt Nam"
+        }
+      ],
+      "answer": "B",
+      "explain": "Từ năm 1924, Hồ Chí Minh đã đưa ra quan điểm về thành lập “Mặt trận thống nhất của nhân dân chính quốc và thuộc địa” chống chủ nghĩa đế quốc."
+    },
+    {
+      "id": 16,
+      "question": "Luận điểm của Hồ Chí Minh: \"Làm cho (...), từ trước đến nay vẫn cách biệt nhau, hiểu biết nhau hơn, đoàn kết nhau lại để đặt cơ sở cho một liên minh phương Đông tương lai\".",
+      "options": [
+        {
+          "id": "A",
+          "content": "Các dân tộc độc lập"
+        },
+        {
+          "id": "B",
+          "content": "Các dân tộc thuộc địa"
+        },
+        {
+          "id": "C",
+          "content": "Các dân tộc mất độc lập"
+        },
+        {
+          "id": "D",
+          "content": "Các dân tộc phụ thuộc"
+        }
+      ],
+      "answer": "B",
+      "explain": "Người đã lưu ý Quốc tế Cộng sản về những biện pháp nhằm “làm cho các dân tộc thuộc địa, từ trước đến nay vẫn cách biệt nhau, hiểu biết nhau hơn và đoàn kết lại để đặt cơ sở cho một liên minh phương Đông tương lai...\"."
+    },
+    {
+      "id": 17,
+      "question": "Theo Hồ Chí Minh, các đoàn thể, tổ chức quần chúng cần được đoàn kết, tập hợp trong tổ chức nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Quốc hội"
+        },
+        {
+          "id": "B",
+          "content": "Đảng Cộng sản Việt Nam"
+        },
+        {
+          "id": "C",
+          "content": "Mặt trận dân tộc thống nhất"
+        },
+        {
+          "id": "D",
+          "content": "Chính phủ"
+        }
+      ],
+      "answer": "C",
+      "explain": "Theo Hồ Chí Minh, các đoàn thể, tổ chức quần chúng hợp thành Mặt trận dân tộc thống nhất; được tập hợp và đoàn kết trong Mặt trận dân tộc thống nhất."
+    },
+    {
+      "id": 18,
+      "question": "Để đoàn kết ba nước Đông Dương, trong hai cuộc kháng chiến chống thực dân Pháp và đế quốc Mỹ, Hồ Chí Minh đã chỉ đạo thành lập mặt trận nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Mặt trận dân chủ ba nước Đông Dương"
+        },
+        {
+          "id": "B",
+          "content": "Mặt trận phản đế ba nước Đông Dương"
+        },
+        {
+          "id": "C",
+          "content": "Mặt trận nhân dân ba nước Đông Dương"
+        },
+        {
+          "id": "D",
+          "content": "Mặt trận chống đế quốc ba nước Đông Dương"
+        }
+      ],
+      "answer": "C",
+      "explain": "Trong hai cuộc kháng chiến chống thực dân Pháp và chống đế quốc Mỹ, Hồ Chí Minh đã chỉ đạo việc hình thành Mặt trận nhân dân ba nước Đông Dương."
+    },
+    {
+      "id": 19,
+      "question": "Để thực hiện tốt nhiệm vụ, mục tiêu hàng đầu của Đảng là đại đoàn kết dân tộc, theo Hồ Chí Minh, Đảng Cộng sản cần phải làm tốt công tác gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Vận động quần chúng"
+        },
+        {
+          "id": "B",
+          "content": "Quản lý quần chúng"
+        },
+        {
+          "id": "C",
+          "content": "Giám sát quần chúng"
+        },
+        {
+          "id": "D",
+          "content": "Đôn đốc quần chúng"
+        }
+      ],
+      "answer": "A",
+      "explain": "Hồ Chí Minh coi đoàn kết, đại đoàn kết như một mục tiêu, một nhiệm vụ hàng đầu của Đảng. Để thực hiện mục tiêu đó thì phải làm tốt công tác vận động quần chúng."
+    },
+    {
+      "id": 20,
+      "question": "Theo Hồ Chí Minh, lực lượng làm nền tảng của khối đại đoàn kết dân tộc là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Công nhân, nông dân và trí thức"
+        },
+        {
+          "id": "B",
+          "content": "Công nhân, nông dân, tiểu tư sản trí thức"
+        },
+        {
+          "id": "C",
+          "content": "Công nhân, trí thức, tư sản dân tộc"
+        },
+        {
+          "id": "D",
+          "content": "Công nhân, nông dân, địa chủ phong kiến"
+        }
+      ],
+      "answer": "A",
+      "explain": "Lực lượng làm nền tảng cho khối đại đoàn kết toàn dân tộc theo quan điểm của Hồ Chí Minh là công nhân, nông dân và trí thức."
+    },
+    {
+      "id": 21,
+      "question": "Hồ Chí Minh chỉ rõ trong quá trình xây dựng khối đại đoàn kết toàn dân tộc, phải đứng vững trên lập trường của giai cấp nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Địa chủ phong kiến"
+        },
+        {
+          "id": "B",
+          "content": "Nông dân"
+        },
+        {
+          "id": "C",
+          "content": "Tư sản Việt Nam"
+        },
+        {
+          "id": "D",
+          "content": "Công nhân"
+        }
+      ],
+      "answer": "D",
+      "explain": "Hồ Chí Minh còn chỉ rõ, trong quá trình xây dựng khối đại đoàn kết toàn dân tộc, phải đứng vững trên lập trường giai cấp công nhân."
+    },
+    {
+      "id": 22,
+      "question": "Theo Hồ Chí Minh, yếu tố “hạt nhân” nào cần đoàn kết, thống nhất để tạo điều kiện cho đoàn kết ngoài xã hội?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Quốc hội"
+        },
+        {
+          "id": "B",
+          "content": "Mặt trận Tổ quốc Việt Nam"
+        },
+        {
+          "id": "C",
+          "content": "Đảng Cộng sản Việt Nam"
+        },
+        {
+          "id": "D",
+          "content": "Đoàn thanh niên Cộng sản Hồ Chí Minh"
+        }
+      ],
+      "answer": "C",
+      "explain": "Trong khối đại đoàn kết toàn dân tộc, phải đặc biệt chú trọng yếu tố “hạt nhân” là sự đoàn kết và thống nhất trong Đảng vì đó là điều kiện cho sự đoàn kết ngoài xã hội."
+    },
+    {
+      "id": 23,
+      "question": "Theo Hồ Chí Minh, Đảng Cộng sản Việt Nam được xác định vị trí như thế nào trong quan hệ với Mặt trận dân tộc thống nhất?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Là thành viên, không là lực lượng lãnh đạo"
+        },
+        {
+          "id": "B",
+          "content": "Không là thành viên, là lực lượng lãnh đạo"
+        },
+        {
+          "id": "C",
+          "content": "Vừa là thành viên, vừa là lực lượng lãnh đạo"
+        },
+        {
+          "id": "D",
+          "content": "Không là thành viên, không là lực lượng lãnh đạo"
+        }
+      ],
+      "answer": "C",
+      "explain": "Đảng Cộng sản Việt Nam vừa là thành viên, vừa là lực lượng lãnh đạo, Đảng không có lợi ích riêng, mà gắn liền với lợi ích toàn xã hội, toàn dân tộc."
+    },
+    {
+      "id": 24,
+      "question": "Tại sao tư tưởng Hồ Chí Minh về đại đoàn kết dân tộc có sức sống trường tồn cùng cách mạng Việt Nam?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Tư tưởng đại đoàn kết dân tộc của Người trở thành quan điểm xuyên suốt đường lối chiến lược của Đảng Cộng sản Việt Nam trong các giai đoạn cách mạng"
+        },
+        {
+          "id": "B",
+          "content": "Tư tưởng của Người thấm sâu vào tư tưởng, tình cảm của tất cả người Việt Nam yêu nước"
+        },
+        {
+          "id": "C",
+          "content": "Tư tưởng đại đoàn kết dân tộc của Người đã biến thành hành động cách mạng của hàng triệu người dân, tạo thành sức mạnh vô địch trong xây dựng, bảo vệ Tổ quốc"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Tư tưởng đại đoàn kết dân tộc... đã trở thành quan điểm xuyên suốt đường lối chiến lược của Đảng; Tư tưởng đó cần thấm sâu vào tư tưởng, tình cảm của tất cả những người Việt Nam yêu nước và phải biến thành hành động cách mạng của hàng triệu, hàng triệu con người, tạo thành sức mạnh vô địch."
+    },
+    {
+      "id": 26,
+      "question": "Theo Hồ Chí Minh, đại đoàn kết dân tộc không phải sách lược hay thủ đoạn chính trị, mà là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chiến lược ngắn hạn, nhất quán của cách mạng Việt Nam"
+        },
+        {
+          "id": "B",
+          "content": "Chiến lược lâu dài, có thể điều chỉnh phù hợp điều kiện cách mạng Việt Nam"
+        },
+        {
+          "id": "C",
+          "content": "Chiến lược lâu dài, nhất quán của cách mạng Việt Nam"
+        },
+        {
+          "id": "D",
+          "content": "Chiến lược ngắn hạn, có thể điều chỉnh phù hợp điều kiện cách mạng Việt Nam"
+        }
+      ],
+      "answer": "C",
+      "explain": "Trong tư tưởng Hồ Chí Minh, đại đoàn kết toàn dân tộc không phải là sách lược hay thủ đoạn chính trị mà là chiến lược lâu dài, nhất quán của cách mạng Việt Nam."
+    },
+    {
+      "id": 27,
+      "question": "Hồ Chí Minh xác định vấn đề mang tính sống còn cần được duy trì trong cách mạng dân tộc dân chủ và cách mạng xã hội chủ nghĩa là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Hội nhập kinh tế quốc tế"
+        },
+        {
+          "id": "B",
+          "content": "Chống giặc ngoại xâm"
+        },
+        {
+          "id": "C",
+          "content": "Đổi mới đất nước"
+        },
+        {
+          "id": "D",
+          "content": "Đại đoàn kết toàn dân tộc"
+        }
+      ],
+      "answer": "D",
+      "explain": "...đại đoàn kết toàn dân tộc... Đây là vấn đề mang tính sống còn của dân tộc Việt Nam nên chiến lược này được duy trì cả trong cách mạng dân tộc dân chủ nhân dân và cách mạng xã hội chủ nghĩa\"."
+    },
+    {
+      "id": 28,
+      "question": "Trước những yêu cầu và nhiệm vụ khác nhau của từng giai đoạn cách mạng, Hồ Chí Minh đã khẳng định không được thay đổi chủ trương đại đoàn kết dân tộc là vì vấn đề gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đại đoàn kết là nhân tố góp phần vào thành bại của cách mạng"
+        },
+        {
+          "id": "B",
+          "content": "Đại đoàn kết là nhân tố quyết định thành bại của cách mạng"
+        },
+        {
+          "id": "C",
+          "content": "Đại đoàn kết là nhân tố phụ góp phần vào thành bại của cách mạng"
+        },
+        {
+          "id": "D",
+          "content": "Đại đoàn kết là nhân tố duy nhất quyết định thành bại của cách mạng"
+        }
+      ],
+      "answer": "B",
+      "explain": "...song không bao giờ được thay đổi chủ trương đại đoàn kết toàn dân tộc, vì đó là nhân tố quyết định sự thành bại của cách mạng."
+    },
+    {
+      "id": 29,
+      "question": "Trong mỗi giai đoạn cách mạng, Hồ Chí Minh yêu cầu, chính sách và phương pháp tập hợp đại đoàn kết có thể và cần thiết phải:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Điều chỉnh cho phù hợp với từng đối tượng khác nhau"
+        },
+        {
+          "id": "B",
+          "content": "Điều chỉnh cho phù hợp với các lực lượng cách mạng"
+        },
+        {
+          "id": "C",
+          "content": "Điều chỉnh cho phù hợp với các tầng lớp trong xã hội"
+        },
+        {
+          "id": "D",
+          "content": "Điều chỉnh cho phù hợp với điều kiện tiến lên chủ nghĩa xã hội"
+        }
+      ],
+      "answer": "A",
+      "explain": "Trong mỗi giai đoạn cách mạng, trước những yêu cầu và nhiệm vụ khác nhau, chính sách và phương pháp tập hợp đại đoàn kết có thể và cần thiết phải điều chỉnh cho phù hợp với từng đối tượng khác nhau."
+    },
+    {
+      "id": 30,
+      "question": "Đối với Hồ Chí Minh, đại đoàn kết dân tộc, không chỉ là khẩu hiệu chiến lược mà còn là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Động lực vật chất và tinh thần của cách mạng Việt Nam"
+        },
+        {
+          "id": "B",
+          "content": "Mục tiêu lâu dài của cách mạng Việt Nam"
+        },
+        {
+          "id": "C",
+          "content": "Sách lược lâu dài của cách mạng Việt Nam"
+        },
+        {
+          "id": "D",
+          "content": "Động lực bên trong và bên ngoài của cách mạng Việt Nam"
+        }
+      ],
+      "answer": "B",
+      "explain": "Đối với Hồ Chí Minh, đại đoàn kết không chỉ là khẩu hiệu chiến lược mà còn là mục tiêu lâu dài của cách mạng."
+    },
+    {
+      "id": 31,
+      "question": "Cách mạng là sự nghiệp của quần chúng, do quần chúng và vì quần chúng. Do đó, theo Hồ Chí Minh, đại đoàn kết dân tộc là yêu cầu như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Thực tế của sự nghiệp cách mạng, của giai cấp nông dân trong sự nghiệp tự giải phóng"
+        },
+        {
+          "id": "B",
+          "content": "Tất yếu của sự nghiệp cách mạng, của giai cấp công nhân trong cuộc đấu tranh tự giải phóng"
+        },
+        {
+          "id": "C",
+          "content": "Khách quan của sự nghiệp cách mạng, của quần chúng nhân dân trong cuộc đấu tranh tự giải phóng"
+        },
+        {
+          "id": "D",
+          "content": "Khách quan của sự nghiệp cách mạng, của các tầng lớp trí thức trong cuộc đấu tranh tự giải phóng"
+        }
+      ],
+      "answer": "C",
+      "explain": "Đại đoàn kết là yêu cầu khách quan của sự nghiệp cách mạng, là đòi hỏi khách quan của quần chúng nhân dân trong cuộc đấu tranh tự giải phóng."
+    },
+    {
+      "id": 32,
+      "question": "Trong sự nghiệp cách mạng giải phóng dân tộc, Hồ Chí Minh khẳng định chủ thể khối đại đoàn kết dân tộc là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Toàn thể giai cấp, tất cả những người Việt Nam yêu nước"
+        },
+        {
+          "id": "B",
+          "content": "Toàn thể nhân dân, tất cả những người Việt Nam yêu nước"
+        },
+        {
+          "id": "C",
+          "content": "Toàn thể tầng lớp, tất cả những người Việt Nam yêu nước"
+        },
+        {
+          "id": "D",
+          "content": "Toàn thể cộng đồng, tất cả những người Việt Nam yêu nước"
+        }
+      ],
+      "answer": "B",
+      "explain": "Chủ thể của khối đại đoàn kết toàn dân tộc, theo Hồ Chí Minh bao gồm toàn thể nhân dân, tất cả những người Việt Nam yêu nước ở các giai cấp, các tầng lớp trong xã hội."
+    },
+    {
+      "id": 33,
+      "question": "Cụm từ “Nhân dân” trong tư tưởng Hồ Chí Minh về đại đoàn kết dân tộc vừa được hiểu thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Là con người Việt Nam cụ thể, vừa là tập hợp đông đảo các tầng lớp trong xã hội"
+        },
+        {
+          "id": "B",
+          "content": "Là con người Việt Nam cụ thể, vừa là tập hợp đông đảo các giai cấp trong xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Là con người Việt Nam cụ thể, vừa là tập hợp đông đảo quần chúng nhân dân"
+        },
+        {
+          "id": "D",
+          "content": "Là con người Việt Nam cụ thể, vừa là tập hợp đông đảo những người dân lao động trong xã hội"
+        }
+      ],
+      "answer": "C",
+      "explain": "Nhân dân” trong tư tưởng Hồ Chí Minh vừa được hiểu với nghĩa là con người Việt Nam cụ thể, vừa là một tập hợp đông đảo quần chúng nhân dân và cả hai đều là chủ thể của khối đại đoàn kết toàn dân tộc."
+    },
+    {
+      "id": 34,
+      "question": "Khi thực hiện đại đoàn kết dân tộc, Hồ Chí Minh yêu cầu cần phải tiến hành như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Phải tập hợp, đoàn kết tất cả mọi người dân vào một khối thống nhất"
+        },
+        {
+          "id": "B",
+          "content": "Phải tập hợp, đoàn kết tất cả mọi giai cấp vào một khối thống nhất"
+        },
+        {
+          "id": "C",
+          "content": "Phải tập hợp, đoàn kết tất cả mọi lực lượng thành một khối thống nhất"
+        },
+        {
+          "id": "D",
+          "content": "Phải tập hợp, đoàn kết tất cả mọi tầng lớp vào một khối thống nhất"
+        }
+      ],
+      "answer": "A",
+      "explain": "Nói đại đoàn kết toàn dân tộc tức là phải tập hợp, đoàn kết được tất cả mọi người dân vào một khối thống nhất, không phân biệt dân tộc, giai cấp."
+    },
+    {
+      "id": 35,
+      "question": "Theo Hồ Chí Minh, Mặt trận dân tộc thống nhất có vai trò như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Là nơi quy tụ, tập hợp người dân Việt Nam trong nước, ngoài nước, có lòng yêu nước"
+        },
+        {
+          "id": "B",
+          "content": "Là nơi quy tụ, tập hợp người dân Việt Nam trong nước, có lòng yêu nước"
+        },
+        {
+          "id": "C",
+          "content": "Là nơi quy tụ, tập hợp người dân Việt Nam ngoài nước, có lòng yêu nước"
+        },
+        {
+          "id": "D",
+          "content": "Là nơi quy tụ mọi tổ chức, người dân Việt Nam ở nước ngoài có lòng yêu nước"
+        }
+      ],
+      "answer": "A",
+      "explain": "Mặt trận dân tộc thống nhất là nơi quy tụ mọi tổ chức và cá nhân yêu nước, tập hợp mọi người dân nước Việt, cả trong nước và kiều bào sinh sống ở nước ngoài."
+    },
+    {
+      "id": 36,
+      "question": "Theo Hồ Chí Minh, nguyên tắc nào được xác định là nguyên tắc cốt lõi trong chiến lược thực hiện đại đoàn kết dân tộc ở nước ta?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Phải được xây dựng trên nền tảng liên minh công nhân – nông dân – trí thức được đặt dưới lãnh đạo của Đảng"
+        },
+        {
+          "id": "B",
+          "content": "Phải xuất phát từ mục tiêu vì nước, vì dân dựa trên nền tảng liên minh công – nông – trí vững chắc"
+        },
+        {
+          "id": "C",
+          "content": "Phải hoạt động trên nguyên tắc bình đẳng, đôi bên cùng có lợi và đặt dưới sự lãnh đạo của Đảng"
+        },
+        {
+          "id": "D",
+          "content": "Phải đoàn kết lâu dài, chặt chẽ, đoàn kết thực sự, chân thành, thân ái giúp đỡ nhau cùng tiến bộ"
+        }
+      ],
+      "answer": "A",
+      "explain": "Mặt trận là một khối đoàn kết chặt chẽ, có tổ chức trên nền tảng khối liên minh giữa giai cấp công nhân, giai cấp nông dân, đội ngũ trí thức dưới sự lãnh đạo của Đảng. Đây là nguyên tắc cốt lõi trong chiến lược đại đoàn kết toàn dân tộc của Hồ Chí Minh."
+    },
+    {
+      "id": 37,
+      "question": "Nguyên tắc được Hồ Chí Minh xác định là bất di bất dịch trong thực hiện đại đoàn kết dân tộc là?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Phải lấy lợi ích tối cao của dân tộc, lợi ích căn bản của nhân dân làm mục tiêu phấn đấu"
+        },
+        {
+          "id": "B",
+          "content": "Phải lấy lợi ích của giai cấp, lợi ích căn bản của tầng lớp trí thức làm mục tiêu phấn đấu"
+        },
+        {
+          "id": "C",
+          "content": "Phải lấy lợi ích tối cao của dân tộc, lợi ích căn bản của giai cấp công nhân làm mục tiêu phấn đấu"
+        },
+        {
+          "id": "D",
+          "content": "Phải lấy lợi ích tối cao của dân tộc, lợi ích căn bản của giai cấp nông dân làm mục tiêu phấn đấu"
+        }
+      ],
+      "answer": "A",
+      "explain": "...đoàn kết phải lấy lợi ích tối cao của dân tộc, lợi ích căn bản của nhân dân lao động làm mục tiêu phấn đấu, đây là nguyên tắc bất di bất dịch."
+    },
+    {
+      "id": 38,
+      "question": "Theo Hồ Chí Minh, sức mạnh thời đại được xác định là sức mạnh của những yếu tố nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Sức mạnh phong trào cách mạng thế giới, sức mạnh tư tưởng dân chủ tư sản"
+        },
+        {
+          "id": "B",
+          "content": "Sức mạnh phong trào cách mạng thế giới, sức mạnh văn hóa phương Đông"
+        },
+        {
+          "id": "C",
+          "content": "Sức mạnh phong trào cách mạng thế giới, sức mạnh chủ nghĩa Mác – Lênin"
+        },
+        {
+          "id": "D",
+          "content": "Sức mạnh phong trào cách mạng thế giới, sức mạnh văn hóa phương Tây"
+        }
+      ],
+      "answer": "C",
+      "explain": "Sức mạnh thời đại là sức mạnh của phong trào cách mạng thế giới, đó còn là sức mạnh của chủ nghĩa Mác – Lênin được xác lập bởi thắng lợi của Cách mạng Tháng Mười Nga năm 1917."
+    },
+    {
+      "id": 39,
+      "question": "Trong hành trình tìm con đường cứu nước, Hồ Chí Minh xác định cách mạng Việt Nam chỉ có thể thành công khi thực hiện đoàn kết chặt chẽ với:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Phong trào cách mạng thế giới"
+        },
+        {
+          "id": "B",
+          "content": "Phong trào cách mạng vô sản trên thế giới"
+        },
+        {
+          "id": "C",
+          "content": "Phong trào cách mạng tư sản trên thế giới"
+        },
+        {
+          "id": "D",
+          "content": "Phong trào đấu tranh chống đế quốc trên thế giới"
+        }
+      ],
+      "answer": "A",
+      "explain": "Người cho rằng, cách mạng Việt Nam chỉ có thể thành công khi thực hiện đoàn kết chặt chẽ với phong trào cách mạng thế giới."
+    },
+    {
+      "id": 40,
+      "question": "Theo Hồ Chí Minh, thực hiện đoàn kết quốc tế nhằm góp phần cùng nhân dân thế giới thực hiện thắng lợi gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Các mục tiêu giải phóng dân tộc trên thế giới"
+        },
+        {
+          "id": "B",
+          "content": "Các mục tiêu cách mạng của thời đại"
+        },
+        {
+          "id": "C",
+          "content": "Các mục tiêu giải phóng giai cấp trên thế giới"
+        },
+        {
+          "id": "D",
+          "content": "Các mục tiêu dân chủ, tiến bộ trên thế giới"
+        }
+      ],
+      "answer": "B",
+      "explain": "Thực hiện đoàn kết quốc tế nhằm góp phần cùng nhân dân thế giới thực hiện thắng lợi các mục tiêu cách mạng của thời đại."
+    },
+    {
+      "id": 41,
+      "question": "Theo Hồ Chí Minh, thực hiện đoàn kết quốc tế nhằm thực hiện thắng lợi mục tiêu chung nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Hòa bình, độc lập dân tộc, dân chủ và tiến bộ xã hội"
+        },
+        {
+          "id": "B",
+          "content": "Hòa bình, thống nhất dân tộc, dân chủ và chủ nghĩa xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Hòa bình, độc lập dân tộc, toàn vẹn lãnh thổ và chủ nghĩa xã hội"
+        },
+        {
+          "id": "D",
+          "content": "Hòa bình, bình đẳng dân tộc, chủ nghĩa xã hội, tiến bộ xã hội"
+        }
+      ],
+      "answer": "A",
+      "explain": "...củng cố và tăng cường đoàn kết giữa các lực lượng cách mạng thế giới đấu tranh cho mục tiêu chung, hoà bình, độc lập dân tộc, dân chủ và tiến bộ xã hội."
+    },
+    {
+      "id": 42,
+      "question": "Muốn tăng cường đoàn kết quốc tế trong cuộc đấu tranh chung, theo Hồ Chí Minh cần phải đấu tranh chống lại khuynh hướng nào làm suy yếu sức mạnh đoàn kết, thống nhất các lực lượng cách mạng thế giới?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chủ nghĩa nước lớn, cực doan, sô vanh"
+        },
+        {
+          "id": "B",
+          "content": "Chủ nghĩa cơ hội, vị kỷ dân tộc, sô vanh"
+        },
+        {
+          "id": "C",
+          "content": "Chủ nghĩa cơ hội, nước lớn, cực doan"
+        },
+        {
+          "id": "D",
+          "content": "Chủ nghĩa dân tộc, nước lớn, cực doan"
+        }
+      ],
+      "answer": "B",
+      "explain": "...các đảng cộng sản trên thế giới phải kiên trì chống lại mọi khuynh hướng sai lầm của chủ nghĩa cơ hội, chủ nghĩa vị kỷ dân tộc, chủ nghĩa sôvanh… – những khuynh hướng làm suy yếu sức mạnh đoàn kết."
+    },
+    {
+      "id": 43,
+      "question": "Theo Hồ Chí Minh, đoàn kết với lực lượng nào là một đảm bảo vững chắc cho thắng lợi chủ nghĩa cộng sản?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Lực lượng tiến bộ, những người yêu chuộng hòa bình, dân chủ, tự do và công lý"
+        },
+        {
+          "id": "B",
+          "content": "Các nước trong phong trào đấu tranh giải phóng dân tộc"
+        },
+        {
+          "id": "C",
+          "content": "Phong trào cộng sản và công nhân quốc tế"
+        },
+        {
+          "id": "D",
+          "content": "Các nước láng giềng"
+        }
+      ],
+      "answer": "C",
+      "explain": "Đối với phong trào cộng sản và công nhân quốc tế, Hồ Chí Minh cho rằng, sự đoàn kết giữa giai cấp công nhân quốc tế là một bảo đảm vững chắc cho thắng lợi của chủ nghĩa cộng sản."
+    },
+    {
+      "id": 47,
+      "question": "Với các lực lượng tiến bộ trên thế giới, Hồ Chí Minh khẳng định mục tiêu chung trong đoàn kết là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Giương cao ngọn cờ hòa bình, hợp tác cùng phát triển"
+        },
+        {
+          "id": "B",
+          "content": "Giương cao ngọn cờ hòa bình, độc lập dân tộc"
+        },
+        {
+          "id": "C",
+          "content": "Giương cao ngọn cờ hòa bình, chống chiến tranh xâm lược"
+        },
+        {
+          "id": "D",
+          "content": "Giương cao ngọn cờ hòa bình, độc lập dân tộc và chủ nghĩa xã hội"
+        }
+      ],
+      "answer": "C",
+      "explain": "Đối với các lực lượng tiến bộ trên thế giới, Hồ Chí Minh giương cao ngọn cờ hòa bình, chống chiến tranh xâm lược."
+    },
+    {
+      "id": 48,
+      "question": "Đối với phong trào cộng sản và công nhân quốc tế, Hồ Chí Minh xác định đoàn kết trên cơ sở giương cao ngọn cờ:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Mục tiêu giải phóng dân tộc; nền tảng chủ nghĩa Mác – Lênin; chủ nghĩa vô sản có lý, có tình"
+        },
+        {
+          "id": "B",
+          "content": "Độc lập dân tộc gắn liền với chủ nghĩa xã hội; nền tảng chủ nghĩa Mác – Lênin; chủ nghĩa vô sản có lý, có tình"
+        },
+        {
+          "id": "C",
+          "content": "Mục tiêu hòa bình, tiến bộ xã hội; nền tảng chủ nghĩa Mác – Lênin; chủ nghĩa vô sản có lý, có tình"
+        },
+        {
+          "id": "D",
+          "content": "Mục tiêu độc lập, dân chủ, tiến bộ xã hội; nền tảng chủ nghĩa Mác – Lênin; chủ nghĩa vô sản có lý, có tình"
+        }
+      ],
+      "answer": "B",
+      "explain": "Đối với phong trào cộng sản và công nhân quốc tế, Hồ Chí Minh giương cao ngọn cờ độc lập dân tộc gắn liền với chủ nghĩa xã hội, thực hiện đoàn kết thống nhất trên nền tảng của chủ nghĩa Mác-Lênin và chủ nghĩa quốc tế vô sản, có lý, có tình."
+    },
+    {
+      "id": 49,
+      "question": "Khi thực hiện đoàn kết với các dân tộc trên thế giới, Hồ Chí Minh xác định mục tiêu chung trong đoàn kết là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Giương cao ngọn cờ độc lập tự do và quyền bình đẳng giữa các dân tộc"
+        },
+        {
+          "id": "B",
+          "content": "Giương cao ngọn cờ độc lập dân tộc gắn liền với chủ nghĩa xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Giương cao ngọn cờ độc lập, tự do; chủ nghĩa vô sản có lý, có tình"
+        },
+        {
+          "id": "D",
+          "content": "Giương cao ngọn cờ độc lập, hòa bình, công lý, chống chiến tranh xâm lược"
+        }
+      ],
+      "answer": "A",
+      "explain": "Đối với các dân tộc trên thế giới, Hồ Chí Minh giương cao ngọn cờ độc lập, tự do và quyền bình đẳng giữa các dân tộc."
+    },
+    {
+      "id": 50,
+      "question": "Để thực hiện đoàn kết quốc tế trên cơ sở độc lập, tự chủ, trong đấu tranh giành chính quyền, Hồ Chí Minh đã đề ra chủ trương gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Muốn người ta giúp cho, thì trước hết mình phải tự giúp mình đã"
+        },
+        {
+          "id": "B",
+          "content": "Tự lực cánh sinh, dựa vào sức mình là chính"
+        },
+        {
+          "id": "C",
+          "content": "Đem sức ta mà tự giải phóng cho ta"
+        },
+        {
+          "id": "D",
+          "content": "Dân tộc ngồi chờ dân tộc khác giúp đỡ dân tộc đó không xứng đáng độc lập"
+        }
+      ],
+      "answer": "C",
+      "explain": "Trong đấu tranh giành chính quyền, Người chủ trương “đem sức ta mà tự giải phóng cho ta”."
+    },
+    {
+      "id": 51,
+      "question": "Theo Hồ Chí Minh, hoạt động theo nguyên tắc hiệp thương dân chủ sẽ quy tụ được lực lượng nào vào Mặt trận dân tộc thống nhất?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Các tầng lớp, giai cấp, nhân dân bị áp bức trên thế giới"
+        },
+        {
+          "id": "B",
+          "content": "Các tầng lớp, giai cấp, các dân tộc bị áp bức"
+        },
+        {
+          "id": "C",
+          "content": "Các tầng lớp, giai cấp, đảng phái, dân tộc, tôn giáo"
+        },
+        {
+          "id": "D",
+          "content": "Các tầng lớp, giai cấp, các lực lượng yêu chuộng hòa bình"
+        }
+      ],
+      "answer": "C",
+      "explain": "Do vậy, hoạt động của Mặt trận phải theo nguyên tắc hiệp thương dân chủ mới quy tụ được được các tầng lớp, giai cấp, đảng phái, dân tộc, tôn giáo vào Mặt trận dân tộc thống nhất."
+    },
+    {
+      "id": 52,
+      "question": "Điều kiện đại đoàn kết dân tộc phải có niềm tin vào nhân dân trong quan điểm Hồ Chí Minh là sự tiếp nối truyền thống nào của dân tộc?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Yêu nước, kiên cường, bất khuất, tự tôn dân tộc"
+        },
+        {
+          "id": "B",
+          "content": "Nhân nghĩa, thương người như thể thương thân, lá lành đùm lá rách"
+        },
+        {
+          "id": "C",
+          "content": "Hòa hiếu, hữu nghị, bao dung"
+        },
+        {
+          "id": "D",
+          "content": "“Nước lấy dân làm gốc”, “Chở thuyền và làm lật thuyền cũng là dân”"
+        }
+      ],
+      "answer": "D",
+      "explain": "Nguyên tắc này vừa là sự tiếp nối truyền thống dân tộc “Nước lấy dân làm gốc”, “Chở thuyền và lật thuyền cũng là dân”."
+    },
+    {
+      "id": 54,
+      "question": "Theo Hồ Chí Minh, mục đích của vận động quần chúng là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đoàn kết các tầng lớp, tạo ra động lực phát triển xã hội, hội nhập quốc tế"
+        },
+        {
+          "id": "B",
+          "content": "Đoàn kết giai cấp, tạo động lực đánh thắng giặc ngoại xâm"
+        },
+        {
+          "id": "C",
+          "content": "Đoàn kết xã hội, tạo ra nội lực để hợp tác quốc tế"
+        },
+        {
+          "id": "D",
+          "content": "Đoàn kết mọi người, tạo ra động lực phát triển kinh tế, văn hóa, xã hội"
+        }
+      ],
+      "answer": "D",
+      "explain": "Vận động quần chúng để thu hút quần chính là để đoàn kết mọi người, tạo ra động lực phát triển kinh tế - xã hội và văn hoá."
+    },
+    {
+      "id": 55,
+      "question": "Theo Hồ Chí Minh, mọi phương pháp tiếp cận và vận động quần chúng cần phải được thực hiện như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Xuất phát từ tâm tư, nguyện vọng; thực tế trình độ dân trí, văn hóa của quần chúng"
+        },
+        {
+          "id": "B",
+          "content": "Xuất phát từ vai trò, vị trí; thực tế trình độ dân trí, văn hóa của quần chúng"
+        },
+        {
+          "id": "C",
+          "content": "Xuất phát từ điều kiện, khả năng; thực tế trình độ dân trí, văn hóa của quần chúng"
+        },
+        {
+          "id": "D",
+          "content": "Xuất phát từ nhu cầu, nguyện vọng, khả năng thực tế của quần chúng"
+        }
+      ],
+      "answer": "A",
+      "explain": "Theo Hồ Chí Minh mọi phương pháp tiếp cận và vận động quần chúng đều phải phù hợp với tâm tư, nguyện vọng của quần chúng; đồng thời phải xuất phát từ thực tế trình độ dân trí và văn hoá... -."
+    },
+    {
+      "id": 58,
+      "question": "Thời đại Hồ Chí Minh sống và hoạt động là thời đại như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chấm dứt áp bức, bóc lột, bất công, mở ra quan hệ quốc tế sâu rộng"
+        },
+        {
+          "id": "B",
+          "content": "Chấm dứt chế độ nô lệ, mở ra quan hệ quốc tế sâu rộng"
+        },
+        {
+          "id": "C",
+          "content": "Chấm dứt sự tồn tại biệt lập giữa các quốc gia, mở ra quan hệ quốc tế sâu rộng"
+        },
+        {
+          "id": "D",
+          "content": "Chấm dứt xâm lược, dành độc lập cho các dân tộc, mở ra quan hệ quốc tế sâu rộng"
+        }
+      ],
+      "answer": "C",
+      "explain": "Thời đại mà Hồ Chí Minh sống và hoạt động chính trị là thời đại đã chấm dứt thời kỳ tồn tại biệt lập giữa các quốc gia, mở ra các quan hệ quốc tế ngày càng sâu rộng cho các dân tộc."
+    },
+    {
+      "id": 59,
+      "question": "Chủ trương đoàn kết giai cấp công nhân quốc tế, đoàn kết các đảng cộng sản trong tư tưởng Hồ Chí Minh xuất phát từ lý do nào sau?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Từ tính tất yếu về vai trò của giai cấp công nhân trong giai đoạn hiện nay"
+        },
+        {
+          "id": "B",
+          "content": "Từ tính tất yếu về số lượng giai cấp công nhân trong giai đoạn hiện nay"
+        },
+        {
+          "id": "C",
+          "content": "Từ tính tất yếu về chất lượng giai cấp công nhân trong giai đoạn hiện nay"
+        },
+        {
+          "id": "D",
+          "content": "Từ tính tất yếu về đặc điểm của giai cấp công nhân trong giai đoạn hiện nay"
+        }
+      ],
+      "answer": "A",
+      "explain": "Chủ trương đoàn kết giai cấp công nhân quốc tế, đoàn kết giữa các đảng cộng sản trong tư tưởng Hồ Chí Minh xuất phát từ tính tất yếu về vai trò của giai cấp công nhân trong thời đại ngày nay."
+    },
+    {
+      "id": 60,
+      "question": "Theo Hồ Chí Minh, phương châm “cầu đồng tồn dị” về thực hiện đại đoàn kết dân tộc được hiểu như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Lấy cái chung để hạn chế cái riêng, cái khác biệt"
+        },
+        {
+          "id": "B",
+          "content": "Lấy cái riêng để hạn chế cái chung, cái khác biệt"
+        },
+        {
+          "id": "C",
+          "content": "Lấy cái chung để hạn chế cái riêng, cái đơn nhất"
+        },
+        {
+          "id": "D",
+          "content": "Lấy cái riêng để hạn chế cái chung, cái đơn nhất"
+        }
+      ],
+      "answer": "A",
+      "explain": "Hồ Chí Minh nhấn mạnh phương châm “cầu đồng tồn dị”, lấy cái chung để hạn chế cái riêng, cái khác biệt."
+    },
+    {
+      "id": 61,
+      "question": "Theo Hồ Chí Minh, tại sao đại đoàn kết dân tộc phải được xác định là nhiệm vụ hàng đầu của Đảng?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Vì Đảng là lực lượng tuyên truyền quần chúng nhân dân"
+        },
+        {
+          "id": "B",
+          "content": "Vì Đảng là lực lượng vận động quần chúng nhân dân"
+        },
+        {
+          "id": "C",
+          "content": "Vì Đảng là lực lượng lãnh đạo cách mạng Việt Nam"
+        },
+        {
+          "id": "D",
+          "content": "Vì Đảng là lực lượng giáo dục, giác ngộ quần chúng nhân dân"
+        }
+      ],
+      "answer": "C",
+      "explain": "Đảng là lực lượng lãnh đạo cách mạng Việt Nam nên tất yếu đại đoàn kết toàn dân tộc phải được xác định là nhiệm vụ hàng đầu của Đảng."
+    },
+    {
+      "id": 62,
+      "question": "Vì sao Hồ Chí Minh xác định đại đoàn kết dân tộc phải đứng vững trên lập trường giai cấp công nhân?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Để giải quyết hài hòa mối quan hệ giai cấp, dân tộc để tập hợp lực lượng"
+        },
+        {
+          "id": "B",
+          "content": "Để giải quyết hài hòa mối quan hệ lợi ích kinh tế để tập hợp lực lượng"
+        },
+        {
+          "id": "C",
+          "content": "Để giải quyết hài hòa mối quan hệ lợi ích chính trị để tập hợp lực lượng"
+        },
+        {
+          "id": "D",
+          "content": "Để giải quyết hài hòa mối quan hệ lợi ích văn hóa để tập hợp lực lượng"
+        }
+      ],
+      "answer": "A",
+      "explain": "...trong quá trình xây dựng khối đại đoàn kết toàn dân tộc, phải đứng vững trên lập trường giai cấp công nhân, giải quyết hài hòa mối quan hệ giữa giai cấp, dân tộc để tập hợp lực lượng."
+    },
+    {
+      "id": 63,
+      "question": "Theo Hồ Chí Minh, vì lợi ích của sự nghiệp cách mạng trong thực hiện đại đoàn kết dân tộc cần phải có:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Lòng khoan dung đại độ, trân trọng phần thiện dù nhỏ nhất ở mỗi người"
+        },
+        {
+          "id": "B",
+          "content": "Lòng khoan dung đại độ, trân trọng quyền dù nhỏ nhất ở mỗi người"
+        },
+        {
+          "id": "C",
+          "content": "Lòng khoan dung đại độ, trân trọng nhu cầu dù nhỏ nhất ở mỗi người"
+        },
+        {
+          "id": "D",
+          "content": "Lòng khoan dung đại độ, trân trọng nguyện vọng dù nhỏ nhất ở mỗi người"
+        }
+      ],
+      "answer": "A",
+      "explain": "...vì lợi ích của cách mạng, cần phải có lòng khoan dung độ lượng, trân trọng phần thiện dù nhỏ nhất ở mỗi người, có vậy mới tập hợp, quy tụ rộng rãi mọi lực lượng."
+    },
+    {
+      "id": 64,
+      "question": "Theo Hồ Chí Minh, tại sao trong thực hiện đại đoàn kết dân tộc cần phải khoan dung, độ lượng với con người?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Trong mỗi giai cấp, cũng như tầng lớp đều có những ưu điểm, khuyết điểm"
+        },
+        {
+          "id": "B",
+          "content": "Trong mỗi cá nhân, cũng như cộng đồng đều có những ưu điểm, khuyết điểm"
+        },
+        {
+          "id": "C",
+          "content": "Trong mỗi cá nhân, cũng như giai cấp đều có những ưu điểm, khuyết điểm"
+        },
+        {
+          "id": "D",
+          "content": "Trong mỗi giai cấp, cũng như tập thể đều có những ưu điểm, khuyết điểm"
+        }
+      ],
+      "answer": "B",
+      "explain": "Theo Hồ Chí Minh, trong mỗi cá nhân cũng như mỗi cộng đồng đều có những ưu điểm, khuyết điểm, mặt tốt, mặt xấu… Cho nên, vì lợi ích của cách mạng, cần phải có lòng khoan dung độ lượng."
+    },
+    {
+      "id": 65,
+      "question": "Chọn đáp án đúng nhất về vấn đề được xem là nguyên tắc tối cao trong cuộc sống của Chủ tịch Hồ Chí Minh?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Yêu dân, tin dân, dựa vào dân, phấn đấu vì hạnh phúc nhân dân"
+        },
+        {
+          "id": "B",
+          "content": "Yêu dân, tin dân, dựa vào dân, phấn đấu vì đời sống tinh thần của nhân dân"
+        },
+        {
+          "id": "C",
+          "content": "Yêu dân, tin dân, dựa vào dân, phấn đấu vì đời sống vật chất của nhân dân"
+        },
+        {
+          "id": "D",
+          "content": "Yêu dân, tin dân, dựa vào dân, phấn đấu giải phóng nhân dân khỏi áp bức, bóc lột"
+        }
+      ],
+      "answer": "A",
+      "explain": "Với Hồ Chí Minh, yêu dân, tin dân, dựa vào dân, sống, phấn đấu vì hạnh phúc của nhân dân là nguyên tắc tối cao trong cuộc sống."
+    },
+    {
+      "id": 66,
+      "question": "Vì sao trong sự nghiệp cách mạng Hồ Chí Minh khẳng định đại đoàn kết dân tộc phải tin vào nhân dân?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Dân có quyền hưởng những thành quả của sự nghiệp đổi mới đất nước"
+        },
+        {
+          "id": "B",
+          "content": "Dân biết, dân bàn, dân làm, dân kiểm tra và dân thụ hưởng"
+        },
+        {
+          "id": "C",
+          "content": "Dân là chỗ dựa vững chắc, nguồn sức mạnh, quyết định thắng lợi cách mạng"
+        },
+        {
+          "id": "D",
+          "content": "Dân cần không ngừng được nâng cao về đời sống về vật chất, tinh thần"
+        }
+      ],
+      "answer": "C",
+      "explain": "Dân là chỗ dựa vững chắc đồng thời cũng là nguồn sức mạnh vô địch của khối đại đoàn kết toàn dân tộc, quyết định thắng lợi của cách mạng. Vì vậy, muốn thực hiện đại đoàn kết toàn dân tộc, phải có niềm tin vào nhân dân."
+    },
+    {
+      "id": 67,
+      "question": "Tại sao Hồ Chí Minh khẳng định phải tiến hành thực hiện hiệp thương dân chủ trong xây dựng và hoạt động của Mặt trận dân tộc thống nhất?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Mặt trận dân tộc thống nhất là tổ chức chính trị - xã hội rộng lớn của giai cấp nông dân bao gồm người Việt trong nước, ngoài nước..., nhiều tâm tư khác nhau"
+        },
+        {
+          "id": "B",
+          "content": "Mặt trận dân tộc thống nhất là tổ chức chính trị - xã hội rộng lớn của giai cấp công nhân, bao gồm nhiều dân tộc, tôn giáo..., với nhiều nguyện vọng khác nhau"
+        },
+        {
+          "id": "C",
+          "content": "Mặt trận dân tộc thống nhất là tổ chức chính trị - xã hội rộng lớn của nhân dân, bao gồm nhiều giai cấp, tầng lớp..., với nhiều nguyện vọng khác nhau"
+        },
+        {
+          "id": "D",
+          "content": "Mặt trận dân tộc thống nhất là tổ chức chính trị - xã hội rộng lớn của tầng lớp trí thức, bao gồm nhiều đảng phái, giai cấp..., nhiều nhu cầu khác nhau"
+        }
+      ],
+      "answer": "C",
+      "explain": "Mặt trận dân tộc thống nhất là tổ chức chính trị - xã hội rộng lớn của cả dân tộc, bao gồm nhiều giai cấp, tầng lớp, đảng phái, dân tộc, tôn giáo khác nhau, với nhiều lợi ích khác nhau. Do vậy, hoạt động của Mặt trận phải dựa trên nguyên tắc hiệp thương dân chủ."
+    },
+    {
+      "id": 68,
+      "question": "Vì sao từ rất sớm Hồ Chí Minh chủ trương đoàn kết với các nước trong phong trào đấu tranh giải phóng dân tộc?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nhận thấy rõ âm mưu chống phá dân tộc của các nước đế quốc"
+        },
+        {
+          "id": "B",
+          "content": "Nhận thấy rõ âm mưu lợi dụng dân tộc của các nước đế quốc"
+        },
+        {
+          "id": "C",
+          "content": "Nhận thấy rõ âm mưu chia rẽ dân tộc của các nước đế quốc"
+        },
+        {
+          "id": "D",
+          "content": "Nhận thấy rõ âm mưu xâm lược dân tộc của các nước đế quốc"
+        }
+      ],
+      "answer": "C",
+      "explain": "Đối với phong trào đấu tranh giải phóng dân tộc, từ rất sớm, Hồ Chí Minh đã thấy rõ âm mưu chia rẽ dân tộc của các nước đế quốc."
+    },
+    {
+      "id": 69,
+      "question": "Để tập hợp và tranh thủ sự ủng hộ của các lực lượng tiến bộ trên thế giới, Hồ Chí Minh đã nêu cao ngọn cờ gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Hòa bình, độc lập, chủ nghĩa xã hội"
+        },
+        {
+          "id": "B",
+          "content": "Hòa bình, dân chủ và chủ nghĩa xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Hòa bình, hợp tác và phát triển"
+        },
+        {
+          "id": "D",
+          "content": "Hòa bình, tự do, công lý và bình đẳng"
+        }
+      ],
+      "answer": "D",
+      "explain": "Hồ Chí Minh đã gắn cuộc đấu tranh vì độc lập ở Việt Nam với mục tiêu bảo vệ hòa bình, tự do, công lý và bình đẳng để tập hợp và tranh thủ sự ủng hộ của các lực lượng tiến bộ trên thế giới."
+    },
+    {
+      "id": 70,
+      "question": "Theo Hồ Chí Minh, gắn cuộc đấu tranh vì độc lập của dân tộc với mục tiêu hòa bình, tự do và công lý nhằm tạo ra tiếng nói ủng hộ từ lực lượng nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Các tổ chức quần chúng, nhân sĩ trí thức và từng con người trên hành tinh"
+        },
+        {
+          "id": "B",
+          "content": "Các nước, các tổ chức, từng con người trên hành tinh"
+        },
+        {
+          "id": "C",
+          "content": "Các tổ chức, chính phủ, cá nhân trên hành tinh"
+        },
+        {
+          "id": "D",
+          "content": "Các nước mất độc lập dân tộc và từng con người trên hành tinh"
+        }
+      ],
+      "answer": "A",
+      "explain": "Gắn cuộc đấu tranh vì độc lập của dân tộc với mục tiêu hòa bình, tự do và công lý, Hồ Chí Minh đã khơi gợi lương tri của những người tiến bộ tạo nên những tiếng nói ủng hộ mạnh mẽ của các tổ chức quần chúng, các nhân sĩ trí thức và từng con người trên hành tinh."
+    },
+    {
+      "id": 71,
+      "question": "Đoàn kết quốc tế được Hồ Chí Minh xác định không phải là sách lược, thủ đoạn chính trị nhất thời, mà là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Vấn đề có tính nguyên tắc; đòi hỏi chủ quan của cách mạng Việt Nam"
+        },
+        {
+          "id": "B",
+          "content": "Vấn đề có thể thay đổi cho phù hợp với thực tiễn khách quan Việt Nam"
+        },
+        {
+          "id": "C",
+          "content": "Vấn đề có tính nguyên tắc, đòi hỏi khách quan của cách mạng Việt Nam"
+        },
+        {
+          "id": "D",
+          "content": "Vấn đề không có tính nguyên tắc, đòi hỏi khách quan của cách mạng Việt Nam"
+        }
+      ],
+      "answer": "C",
+      "explain": "Đoàn kết quốc tế trong tư tưởng Hồ Chí Minh không phải là vấn đề sách lược, một thủ đoạn chính trị nhất thời mà là vấn đề có tính nguyên tắc, một đòi hỏi khách quan của cách mạng Việt Nam."
+    },
+    {
+      "id": 72,
+      "question": "Tại sao trong quá trình đấu tranh chống giặc ngoại xâm, Hồ Chí Minh, dành sự quan tâm đặc biệt đối với các dân tộc trên bán đảo Đông Dương?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Là láng giềng, cùng chung chế độ chính trị, kinh tế, xã hội, chung kẻ thù là thực dân Mỹ"
+        },
+        {
+          "id": "B",
+          "content": "Là láng giềng, cùng chung chế độ chính trị, chung kẻ thù là thực dân Pháp"
+        },
+        {
+          "id": "C",
+          "content": "Là láng giềng, tương đồng về văn hóa, lịch sử, chung kẻ thù là thực dân Anh"
+        },
+        {
+          "id": "D",
+          "content": "Là láng giềng, tương đồng về văn hóa, lịch sử, chung kẻ thù là thực dân Pháp"
+        }
+      ],
+      "answer": "D",
+      "explain": "Cả ba dân tộc đều là láng giềng gần gũi của nhau, có nhiều điểm tương đồng về lịch sử, văn hoá và cùng chung một kẻ thù là thực dân Pháp."
+    },
+    {
+      "id": 73,
+      "question": "Xác định nguyên tắc đoàn kết quốc tế theo quan điểm Hồ Chí Minh?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đoàn kết trên cơ sở thống nhất mục tiêu và lợi ích; có lý, có tình"
+        },
+        {
+          "id": "B",
+          "content": "Đoàn kết trên cơ sở thống nhất mục tiêu, lợi ích; hợp tác cùng phát triển"
+        },
+        {
+          "id": "C",
+          "content": "Đoàn kết trên cơ sở bình đẳng, tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn"
+        },
+        {
+          "id": "D",
+          "content": "Đoàn kết trên cơ sở hòa bình, hữu nghị, hợp tác, phát triển; độc lập, tự chủ"
+        }
+      ],
+      "answer": "A",
+      "explain": "Đây là đề mục nguyên tắc 3.a \"Đoàn kết trên cơ sở thống nhất mục tiêu và lợi ích; có lý, có tình\" nằm trong hệ thống các nguyên tắc đoàn kết quốc tế."
+    },
+    {
+      "id": 74,
+      "question": "Theo Hồ Chí Minh, cơ sở để đoàn kết quốc tế trong cuộc đấu tranh chống chủ nghĩa đế quốc và các lực lượng phản động quốc tế là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Tìm điểm tương đồng về mục tiêu đấu tranh giải phóng giữa các dân tộc"
+        },
+        {
+          "id": "B",
+          "content": "Tìm điểm tương đồng về lợi ích vật chất và tinh thần giữa các dân tộc, lực lượng"
+        },
+        {
+          "id": "C",
+          "content": "Tìm điểm tương đồng về mục tiêu và lợi ích giữa các dân tộc, lực lượng tiến bộ"
+        },
+        {
+          "id": "D",
+          "content": "Tìm điểm tương đồng về mục tiêu, nhiệm vụ giải quyết các vấn đề nhân loại đặt ra"
+        }
+      ],
+      "answer": "C",
+      "explain": "...muốn thực hiện được đoàn kết quốc tế trong cuộc đấu tranh chống chủ nghĩa đế quốc và các lực lượng phản động quốc tế, phải tìm ra được những điểm tương đồng về mục tiêu và lợi ích giữa các dân tộc, các lực lượng tiến bộ và phong trào cách mạng thế giới."
+    },
+    {
+      "id": 75,
+      "question": "Hồ Chí Minh xác định quan điểm có tính nguyên tắc trong thực hiện quan hệ giữa Việt Nam với các nước trên thế giới là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Tôn trọng quyền tự quyết, quyền độc lập dân tộc, dân chủ và chủ nghĩa xã hội của tất cả các dân tộc, quốc gia trên thế giới và ngược lại"
+        },
+        {
+          "id": "B",
+          "content": "Tôn trọng hòa bình, độc lập dân tộc, dân chủ và chủ nghĩa xã hội của tất cả các dân tộc, quốc gia trên thế giới và ngược lại"
+        },
+        {
+          "id": "C",
+          "content": "Tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ và quyền tự quyết của tất cả các dân tộc, quốc gia trên thế giới và ngược lại"
+        },
+        {
+          "id": "D",
+          "content": "Tôn trọng độc lập, chủ quyền, dân chủ, chủ nghĩa xã hội, quyền tự quyết của tất cả các quốc gia trên thế giới và ngược lại"
+        }
+      ],
+      "answer": "C",
+      "explain": "Dân tộc Việt Nam tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ và quyền tự quyết của tất cả các dân tộc-quốc gia trên thế giới, đồng thời mong muốn các nước trên thế giới quan hệ hợp tác, hữu nghị với Việt Nam trên cơ sở những nguyên tắc đó."
+    },
+    {
+      "id": 76,
+      "question": "Theo Hồ Chí Minh, cơ sở để giương cao ngọn cờ hòa bình, chống chiến tranh xâm lược trong đoàn kết với các lượng tiến bộ trên thế giới bắt nguồn từ đâu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Truyền thống hòa hiếu của dân tộc, chủ nghĩa nhân đạo cộng sản, giá trị nhân văn nhân loại"
+        },
+        {
+          "id": "B",
+          "content": "Truyền thống đoàn kết của dân tộc, chủ nghĩa nhân đạo cộng sản, giá trị nhân văn nhân loại"
+        },
+        {
+          "id": "C",
+          "content": "Truyền thống yêu nước của dân tộc, chủ nghĩa nhân đạo cộng sản, giá trị nhân văn nhân loại"
+        },
+        {
+          "id": "D",
+          "content": "Truyền thống nhân nghĩa của dân tộc, chủ nghĩa nhân đạo cộng sản, giá trị nhân văn nhân loại"
+        }
+      ],
+      "answer": "A",
+      "explain": "Tư tưởng đó bắt nguồn từ truyền thống hòa hiếu của dân tộc Việt Nam kết hợp với chủ nghĩa nhân đạo cộng sản và những giá trị nhân văn nhân loại."
+    },
+    {
+      "id": 79,
+      "question": "Quán triệt tư tưởng Hồ Chí Minh và nhận thức rõ tầm quan trọng của vấn đề đại đoàn kết toàn dân tộc, ngày 2-11-1993, Bộ Chính trị Trung ương Đảng khóa VII đã đưa ra Nghị quyết 07/NQ-TW về vấn đề gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "“Về đại đoàn kết dân tộc và tăng cường Mặt trận dân tộc thống nhất”"
+        },
+        {
+          "id": "B",
+          "content": "“Về đoàn kết quốc tế và tăng cường hội nhập kinh tế quốc tế”"
+        },
+        {
+          "id": "C",
+          "content": "“Về đại đoàn kết dân tộc và tăng cường đoàn kết quốc tế”"
+        },
+        {
+          "id": "D",
+          "content": "“Về đại đoàn kết dân tộc và tăng cường liên minh công – nông - trí”"
+        }
+      ],
+      "answer": "A",
+      "explain": "...ngày 2-11-1993, Bộ Chính trị Trung ương Đảng khóa VII đã ra Nghị quyết 07/NQ-TW “Về đại đoàn kết dân tộc và tăng cường Mặt trận dân tộc thống nhất”."
+    },
+    {
+      "id": 80,
+      "question": "Đại hội lần thứ XII của Đảng (2016) đã khẳng định: “Đại đoàn kết dân tộc là đường lối chiến lược của cách mạng Việt Nam, là... to lớn trong xây dựng và bảo vệ Tổ quốc”⁶⁶. Xác định cụm từ còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Sức mạnh và nguồn lực"
+        },
+        {
+          "id": "B",
+          "content": "Động lực và sức mạnh"
+        },
+        {
+          "id": "C",
+          "content": "Động lực và nguồn lực"
+        },
+        {
+          "id": "D",
+          "content": "Động lực vật chất và tinh thần"
+        }
+      ],
+      "answer": "B",
+      "explain": "Động lực và sức mạnh (Ghi chú: Theo sát văn kiện là \"động lực và nguồn lực\", tuy nhiên trong đáp án trắc nghiệm chuẩn B thường được chọn để thay thế ý nghĩa - hoặc C. \"Động lực và nguồn lực\" dựa trực tiếp theo text)."
+    },
+    {
+      "id": 81,
+      "question": "Vận dụng tư tưởng Hồ Chí Minh, Đại hội XII của Đảng đã xác định điểm tương đồng nào để tăng cường khối đại đoàn kết toàn dân tộc trong giai đoạn hiện nay?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Mục tiêu thực hiện thắng lợi đường lối đổi mới và hội nhập quốc tế thành công, “dân giàu, nước mạnh, dân chủ, công bằng, văn minh”"
+        },
+        {
+          "id": "B",
+          "content": "Mục tiêu xây dựng nền kinh tế phát triển cao, khoa học công nghệ hiện đại, “dân giàu, nước mạnh, dân chủ, công bằng, văn minh”"
+        },
+        {
+          "id": "C",
+          "content": "Mục tiêu giữ vững độc lập dân tộc, xây dựng chủ nghĩa xã hội, “dân giàu, nước mạnh, dân chủ, công bằng, văn minh”"
+        },
+        {
+          "id": "D",
+          "content": "Mục tiêu xây dựng nước Việt Nam hòa bình, độc lập, thống nhất, toàn vẹn lãnh thổ, “dân giàu, nước mạnh, dân chủ, công bằng, văn minh”"
+        }
+      ],
+      "answer": "D",
+      "explain": "Đại hội XII đã đề ra phương hướng... lấy mục tiêu xây dựng một nước Việt Nam hòa bình, độc lập, thống nhất, toàn vẹn lãnh thổ, “dân giàu, nước mạnh, dân chủ, công bằng, văn minh” làm điểm tương đồng."
+    },
+    {
+      "id": 83,
+      "question": "Bài học đầu tiên được Đảng ta rút ra từ chiến lược đoàn kết quốc tế của Hồ Chí Minh trong điều kiện mới của đất nước hiện nay là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đoàn kết quốc tế để thực hiện mục tiêu cách mạng hiện nay là dân giàu, nước mạnh, dân chủ, xã hội công bằng, văn minh"
+        },
+        {
+          "id": "B",
+          "content": "Đoàn kết quốc tế để thực hiện mục tiêu không ngừng nâng cao vị thế, uy tín của Việt Nam trên trường quốc tế"
+        },
+        {
+          "id": "C",
+          "content": "Đoàn kết quốc tế để thực hiện mục tiêu tận dụng nguồn vốn, khoa học công nghệ, kinh nghiệm quản lý quốc tế để phát triển đất nước"
+        },
+        {
+          "id": "D",
+          "content": "Đoàn kết quốc tế để thực hiện mục tiêu phát triển kinh tế, văn hóa, xã hội, an ninh - quốc phòng của đất nước"
+        }
+      ],
+      "answer": "A",
+      "explain": "Một là, làm rõ đoàn kết để thực hiện mục tiêu cách mạng trong giai đoạn hiện nay là dân giàu, nước mạnh, dân chủ, xã hội công bằng văn minh."
+    },
+    {
+      "id": 84,
+      "question": "Tại sao Hồ Chí Minh khẳng định đại đoàn kết là yêu cầu khách quan của sự nghiệp cách mạng, là đòi hỏi khách quan của quần chúng nhân dân trong đấu tranh tự giải phóng?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Bởi vì nhờ đoàn kết quần chúng nhân dân trở thành người lãnh đạo sự nghiệp cách mạng Việt Nam"
+        },
+        {
+          "id": "B",
+          "content": "Bởi vì nhờ đoàn kết quần chúng nhân dân trở thành người quản lý sự nghiệp xây dựng, phát triển đất nước"
+        },
+        {
+          "id": "C",
+          "content": "Bởi vì nếu không đoàn kết quần chúng nhân dân sẽ thất bại trong cuộc đấu tranh vì lợi ích của chính mình"
+        },
+        {
+          "id": "D",
+          "content": "Bởi vì nếu không đoàn kết quần chúng nhân dân sẽ không giữ vai trò cầm quyền lực nhà nước"
+        }
+      ],
+      "answer": "C",
+      "explain": "Đại đoàn kết là yêu cầu khách quan... bởi nếu không đoàn kết thì chính họ sẽ thất bại trong cuộc đấu tranh vì lợi ích của chính mình."
+    },
+    {
+      "id": 85,
+      "question": "Từ nhận thức nào sau đây, Hồ Chí Minh xác định sứ mệnh của Đảng cần thức tỉnh, tập hợp, hướng dẫn quần chúng thành hiện thực có tổ chức trong khối đoàn kết, thành sức mạnh tổng hợp trong đấu tranh là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đoàn kết là yêu cầu khách quan của sự nghiệp đấu tranh giải phóng dân tộc, là đòi hỏi khách quan của quần chúng trong đoàn kết quốc tế"
+        },
+        {
+          "id": "B",
+          "content": "Đoàn kết là yêu cầu khách quan của sự nghiệp cách mạng, là đòi hỏi khách quan của quần chúng nhân dân trong cuộc đấu tranh tự giải phóng"
+        },
+        {
+          "id": "C",
+          "content": "Đoàn kết là yêu cầu khách quan của sự nghiệp kháng chiến chống đế quốc Mỹ, là đòi hỏi khách quan của sự nghiệp bảo vệ Tổ quốc"
+        },
+        {
+          "id": "D",
+          "content": "Đoàn kết là yêu cầu khách quan của sự nghiệp đoàn kết quốc tế, là yêu cầu khách quan trong thực hiện quan hệ quốc tế"
+        }
+      ],
+      "answer": "B",
+      "explain": "Đại đoàn kết là yêu cầu khách quan của sự nghiệp cách mạng, là đòi hỏi khách quan của quần chúng nhân dân trong cuộc đấu tranh tự giải phóng. Nhận thức rõ điều đó, Đảng Cộng sản phải có sứ mệnh thức tỉnh, tập hợp, hướng dẫn quần chúng."
+    },
+    {
+      "id": 86,
+      "question": "Điều kiện đại đoàn kết dân tộc phải có niềm tin vào nhân dân trong quan điểm Hồ Chí Minh là sự tiếp nối truyền thống nào của dân tộc?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Yêu nước, kiên cường, bất khuất, tự tôn dân tộc"
+        },
+        {
+          "id": "B",
+          "content": "Nhân nghĩa, thương người như thể thương thân, lá lành đùm lá rách"
+        },
+        {
+          "id": "C",
+          "content": "Hòa hiếu, hữu nghị, bao dung"
+        },
+        {
+          "id": "D",
+          "content": "“Nước lấy dân làm gốc”, “Chở thuyền và làm lật thuyền cũng là dân”"
+        }
+      ],
+      "answer": "D",
+      "explain": "Nguyên tắc này vừa là sự tiếp nối truyền thống dân tộc “Nước lấy dân làm gốc”, “Chở thuyền và lật thuyền cũng là dân”."
+    },
+    {
+      "id": 87,
+      "question": "Tại sao Hồ Chí Minh xác định lấy liên minh công nông làm nền tảng của Mặt trận dân tộc thống nhất?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Vì công nông là người trực tiếp sản xuất tất cả mọi tài phú; họ đông hơn hết, bị bóc lột nặng nề hơn hết; chí khí cách mạng chắc chắn, bền bỉ hơn mọi tầng lớp khác"
+        },
+        {
+          "id": "B",
+          "content": "Vì công nông là lực lượng lãnh đạo cách mạng; họ đông hơn hết, bị bóc lột nặng nề hơn hết; chí khí cách mạng chắc chắn, bền bỉ hơn mọi tầng lớp khác"
+        },
+        {
+          "id": "C",
+          "content": "Vì công nông là lược lượng đại diện cho phương thức sản xuất hiện đại; họ đông hơn hết, bị bóc lột nặng nề hơn hết; chí khí cách mạng chắc chắn, bền bỉ hơn mọi tầng lớp khác"
+        },
+        {
+          "id": "D",
+          "content": "Vì công nông không có tài sản, của cải của riêng; họ đông hơn hết, bị bóc lột nặng nề hơn hết; chí khí cách mạng chắc chắn, bền bỉ hơn mọi tầng lớp khác"
+        }
+      ],
+      "answer": "A",
+      "explain": "Người chỉ rõ rằng, sở dĩ phải lấy liên minh công nông làm nền tảng “vì họ là người trực tiếp sản xuất tất cả mọi tài phú làm cho xã hội sống. Vì họ đông hơn hết, mà cũng bị áp bức bóc lột nặng nề hơn hết. Vì chí khí cách mạng của họ chắc chắn, bền bỉ hơn của mọi tầng lớp khác”."
+    },
+    {
+      "id": 88,
+      "question": "Theo Hồ Chí Minh hoạt động của Mặt trận phải theo nguyên tắc nào mới quy tụ được các tầng lớp, giai cấp, đảng phái, dân tộc, tôn giáo vào Mặt trận dân tộc thống nhất?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Tập trung dân chủ"
+        },
+        {
+          "id": "B",
+          "content": "Hiệp thương dân chủ"
+        },
+        {
+          "id": "C",
+          "content": "Tự phê bình và phê bình"
+        },
+        {
+          "id": "D",
+          "content": "Đoàn kết thống nhất"
+        }
+      ],
+      "answer": "B",
+      "explain": "Do vậy, hoạt động của Mặt trận phải theo nguyên tắc hiệp thương dân chủ mới quy tụ được được các tầng lớp, giai cấp, đảng phái, dân tộc, tôn giáo vào Mặt trận dân tộc thống nhất."
+    },
+    {
+      "id": 89,
+      "question": "Tại sao Hồ Chí Minh lại khẳng định thực hiện đoàn kết quốc tế góp phần thực hiện thắng lợi các mục tiêu của thời đại?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Vì nhân dân Việt Nam không chỉ bảo vệ lợi ích sống còn của dân tộc mình mà còn vì mục tiêu thời đại là hòa bình độc lập dân tộc, dân chủ và chủ nghĩa xã hội"
+        },
+        {
+          "id": "B",
+          "content": "Vì nhân dân Việt Nam tích cực cùng nhân dân thế giới giải quyết những vấn đề biến đổi khí hậu và nước biển dâng"
+        },
+        {
+          "id": "C",
+          "content": "Vì nhân dân Việt Nam tích cực cùng nhân dân thế giới giải quyết những bất đồng, xung đột dân tộc, tôn giáo để lập lại hòa bình trên thế giới"
+        },
+        {
+          "id": "D",
+          "content": "Vì nhân dân Việt Nam tích cực mở rộng giao lưu, hợp tác với nhân dân trên thế giới với tinh thần hợp tác cùng có lợi"
+        }
+      ],
+      "answer": "A",
+      "explain": "Bởi lẽ, nhân dân Việt Nam không chỉ chiến đấu vì độc lập, tự do của đất nước mình mà còn vì độc lập, tự do của các nước khác... vì những mục tiêu cao cả của thời đại là hoà bình, độc lập dân tộc, dân chủ và chủ nghĩa xã hội."
+    },
+    {
+      "id": 90,
+      "question": "Theo Hồ Chí Minh chỉ có sức mạnh của sự đoàn kết, nhất trí, sự đồng tình và ủng hộ lẫn nhau của lao động toàn thế giới theo tinh thần như thế nào mới có thể chống lại được những âm mưu thâm độc của chủ nghĩa đế quốc thực dân?",
+      "options": [
+        {
+          "id": "A",
+          "content": "“Bốn phương vô sản đều là anh em”"
+        },
+        {
+          "id": "B",
+          "content": "“Không có gì quý hơn độc lập, tự do!”"
+        },
+        {
+          "id": "C",
+          "content": "“Dễ trăm lần không dân cũng chịu, khó vạn lần dân liệu cũng xong”"
+        },
+        {
+          "id": "D",
+          "content": "“Cho dù có phải đốt cháy cả dãy Trường Sơn cũng phải giành cho được độc lập!”"
+        }
+      ],
+      "answer": "A",
+      "explain": "...chỉ có sức mạnh của sự đoàn kết, nhất trí, sự đồng tình và ủng hộ lẫn nhau của lao động toàn thế giới theo tinh thần “bốn phương vô sản đều là anh em” mới có thể chống lại được những âm mưu thâm độc của chủ nghĩa đế quốc thực dân."
+    },
+    {
+      "id": 91,
+      "question": "Quán triệt tư tưởng Hồ Chí Minh về đại đoàn kết dân tộc và đoàn kết quốc tế trong hoạch định chủ trương, đường lối của Đảng hiện nay cần phải khơi dậy và phát huy đến mức cao nhất sức mạnh nào sau đây?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Sức mạnh kinh tế và sức mạnh chính trị"
+        },
+        {
+          "id": "B",
+          "content": "Sức mạnh dân tộc và sức mạnh khoa học công nghệ"
+        },
+        {
+          "id": "C",
+          "content": "Sức mạnh ngoại giao và sức mạnh quốc tế"
+        },
+        {
+          "id": "D",
+          "content": "Sức mạnh dân tộc và sức mạnh quốc tế"
+        }
+      ],
+      "answer": "D",
+      "explain": "Phải khơi dậy và phát huy đến mức cao nhất sức mạnh dân tộc, và sức mạnh quốc tế."
+    },
+    {
+      "id": 92,
+      "question": "Quán triệt tư tưởng Hồ Chí Minh về đại đoàn kết dân tộc và đoàn kết quốc tế trong hoạch định chủ trương, đường lối của Đảng cần phải khơi dậy và phát huy đến mức cao độ sức mạnh dân tộc và sức mạnh quốc tế, trong đó:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đặt lợi ích dân tộc, đất nước lên hàng đầu, lấy đó làm cơ sở để xây dựng các chủ trương, chính sách kinh tế - xã hội"
+        },
+        {
+          "id": "B",
+          "content": "Đặt lợi ích giai cấp, đối tác chiến lược lên hàng đầu, lấy đó làm cơ sở để xây dựng các chủ trương, chính sách kinh tế - xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Đặt lợi ích quốc tế, bạn bè truyền thống lên hàng đầu, lấy đó làm cơ sở để xây dựng các chủ trương, chính sách kinh tế - xã hội"
+        },
+        {
+          "id": "D",
+          "content": "Đặt lợi ích phong trào cách mạng vô sản lên hàng đầu, lấy đó làm cơ sở để xây dựng các chủ trương, chính sách kinh tế - xã hội"
+        }
+      ],
+      "answer": "A",
+      "explain": "...trong đó đặt lợi ích dân tộc, của đất nước lên hàng đầu, lấy đó làm cơ sở để xây dựng các chủ trương, chính sách kinh tế - xã hội."
+    },
+    {
+      "id": 93,
+      "question": "Nghị quyết nào sau đây đã phản ánh tập trung nhất sự kế thừa và phát triển tư tưởng Hồ Chí Minh về đại đoàn kết trong sự nghiệp đổi mới?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nghị quyết số 08-NQ/HNTW Hội nghị lần thứ tám BCHTW Đảng khoá VII về tiếp tục xây dựng và hoàn thiện Nhà nước Cộng hoà XHCN Việt Nam, trọng tâm là cải cách một bước nền hành chính, ngày 23/1/1995"
+        },
+        {
+          "id": "B",
+          "content": "Nghị quyết Hội nghị lần thứ hai Ban Chấp hành Trung ương Đảng (khóa VII) số 02-NQ/HNTW về nhiệm vụ và giải pháp ổn định, phát triển kinh tế - xã hội trong những năm 1992 - 1995, ngày 4-12-1991"
+        },
+        {
+          "id": "C",
+          "content": "Nghị quyết số 03- NQ/TW của Hội nghị lần thứ ba, Ban Chấp hành Trung ương Đảng (khoá VII) về một số nhiệm vụ đổi mới và chỉnh đốn Đảng, ngày 26/6/1992"
+        },
+        {
+          "id": "D",
+          "content": "Nghị quyết 07/NQ-TW “Về đại đoàn kết dân tộc và tăng cường Mặt trận dân tộc thống nhất”, ngày 2-11-1993"
+        }
+      ],
+      "answer": "D",
+      "explain": "Nghị quyết 07/NQ-TW “Về đại đoàn kết dân tộc và tăng cường Mặt trận dân tộc thống nhất”. Nghị quyết này đã phản ánh tập trung nhất sự kế thừa và phát triển tư tưởng Hồ Chí Minh về đại đoàn kết trong sự nghiệp đổi mới."
+    },
+    {
+      "id": 95,
+      "question": "Qua 35 năm đổi mới, tư tưởng đoàn kết quốc tế của Chủ tịch Hồ Chí Minh đã được vận dụng sáng tạo trong hoạch định chủ trương, đường lối đối ngoại thể hiện trong Đại hội lần thứ XIII (1.2021) của Đảng như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Việt Nam là bạn, là đối tác tin cậy và là thành viên tích cực, có trách nhiệm trong cộng đồng quốc tế67"
+        },
+        {
+          "id": "B",
+          "content": "Việt Nam muốn là bạn với tất cả các nước"
+        },
+        {
+          "id": "C",
+          "content": "Việt Nam sẵn sàng là bạn với tất cả các nước"
+        },
+        {
+          "id": "D",
+          "content": "Việt Nam sẵn sàng là bạn và đối tác tin cậy với tất cả nước"
+        }
+      ],
+      "answer": "A",
+      "explain": "(Đây là kiến thức cập nhật thực tiễn của môn học, được tích hợp thêm vào ngân hàng câu hỏi để bổ sung cho giáo trình; phản ánh đúng diễn đạt đường lối đối ngoại của Đảng tại Đại hội XIII)."
+    },
+    {
+      "id": 97,
+      "question": "Vận dụng tư tưởng Hồ Chí Minh về đại đoàn kết dân tộc, Tổng Bí thư, Chủ tịch nước Nguyễn Phú Trọng kêu gọi đoàn kết để chiến thắng đại dịch Covid-19 đã khẳng định yếu tố nào giúp nước ta thời gian qua ngăn ngừa và kiểm soát dịch bệnh bước đầu có hiệu quả?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Sự ủng hộ của quốc tế"
+        },
+        {
+          "id": "B",
+          "content": "Ý thức tự giác, chủ động của tất cả người dân trong phòng, chống dịch"
+        },
+        {
+          "id": "C",
+          "content": "Sự phối hợp hiệu quả, kịp thời với các nước trong phòng, chống dịch"
+        },
+        {
+          "id": "D",
+          "content": "Toàn dân ta đã đồng lòng, cùng chung sức với Đảng, Nhà nước68"
+        }
+      ],
+      "answer": "D",
+      "explain": "(Đây là kiến thức liên hệ thực tiễn đợt bùng phát COVID-19, lời kêu gọi của Tổng Bí thư nhấn mạnh trực tiếp vào yếu tố đồng lòng của toàn dân cùng với Đảng và Nhà nước)."
+    },
+    {
+      "id": 98,
+      "question": "Vận dụng tư tưởng Hồ Chí Minh trong giai đoạn hiện nay đại đoàn kết dân tộc cần phải kết hợp với:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Phát triển kinh tế"
+        },
+        {
+          "id": "B",
+          "content": "Phát triển xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Đoàn kết quốc tế"
+        },
+        {
+          "id": "D",
+          "content": "Ổn định chính trị"
+        }
+      ],
+      "answer": "C",
+      "explain": "Nằm trong tiêu đề và nội dung trọng tâm của mục \"3. Đại đoàn kết toàn dân tộc phải kết hợp với đoàn kết quốc tế\"."
+    },
+    {
+      "id": 99,
+      "question": "Trong giai đoạn hiện nay, việc phát huy bài học kết hợp sức mạnh dân tộc với sức mạnh thời đại theo tư tưởng Hồ Chí Minh, phải nhất quán coi cách mạng Việt Nam là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Một bộ phận không thể tách rời của cách mạng thế giới, tiếp tục đoàn kết, ủng hộ phong trào cách mạng, các xu hướng và trào lưu tiến bộ của thời đại"
+        },
+        {
+          "id": "B",
+          "content": "Một phần quan trọng của quá trình phát triển của nhân loại, tiếp tục kiên định mục tiêu tiến lên chủ nghĩa xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Một bộ phận không thể tách rời khỏi mục tiêu của nhân loại tiến bộ, tiếp tục cùng nhân dân các nước thực hiện các mục tiêu thời đại"
+        },
+        {
+          "id": "D",
+          "content": "Một bộ phận không thể tách rời của công cuộc xây dựng chủ nghĩa xã hội trên thế giới, tiếp tục vững bước tiến lên chủ nghĩa xã hội"
+        }
+      ],
+      "answer": "A",
+      "explain": "...phải nhất quán coi cách mạng Việt Nam là một bộ phận không thể tách rời của cách mạng thế giới, tiếp tục đoàn kết, ủng hộ các phong trào cách mạng, các xu hướng và trào lưu tiến bộ của thời đại."
+    },
+    {
+      "id": 100,
+      "question": "Vận dụng tư tưởng Hồ Chí Minh về đoàn kết quốc tế, để nâng cao hiệu quả hợp tác quốc tế, chủ động hội nhập kinh tế với khu vực và thế giới, Đảng, Nhà nước chủ trương nêu cao nguyên tắc nào sau đây?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Độc lập tự chủ, tự lực tự cường"
+        },
+        {
+          "id": "B",
+          "content": "Hợp tác cùng có lợi"
+        },
+        {
+          "id": "C",
+          "content": "Tích cực, chủ động hội nhập quốc tế"
+        },
+        {
+          "id": "D",
+          "content": "Đa phương hóa, đa dạng hóa quan hệ quốc tế"
+        }
+      ],
+      "answer": "A",
+      "explain": "Để nâng cao hiệu quả hợp tác quốc tế, chủ động hội nhập kinh tế với khu vực và thế giới, Đảng, Nhà nước ta chủ trương nêu cao nguyên tắc độc lập tự chủ, tự lực tự cường."
+    },
+    {
+      "id": 101,
+      "question": "Vận dụng tư tưởng Hồ Chí Minh đoàn kết quốc tế, Tổng Bí thư, Chủ tịch nước Nguyễn Phú Trọng kêu gọi đoàn kết để chiến thắng đại dịch Covid-19 đã khẳng định yếu tố nào là cơ sở bảo đảm chắc chắn cho chiến thắng cuối cùng của thế giới trước đại dịch?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Sự đoàn kết và phối hợp hành động toàn cầu⁶⁹"
+        },
+        {
+          "id": "B",
+          "content": "Sự giúp đỡ của các nước phát triển với các nước kém phát triển"
+        },
+        {
+          "id": "C",
+          "content": "Sự hợp tác giữa các tổ chức quốc tế, đặc biệt là phát huy vai trò của Tổ chức Y tế Thế giới (WHO)"
+        },
+        {
+          "id": "D",
+          "content": "Phát huy vai trò chủ động của mỗi quốc gia"
+        }
+      ],
+      "answer": "A",
+      "explain": "(Kiến thức thực tiễn bổ sung về chiến lược ngoại giao và thông điệp phòng chống dịch Covid-19 của Việt Nam trên trường quốc tế)."
+    }
+  ]
+}

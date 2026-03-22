@@ -1,0 +1,1566 @@
+{
+  "title": "CHƯƠNG 2",
+  "total_questions": 65,
+  "questions": [
+    {
+      "id": 5,
+      "question": "Hồ Chí Minh đã kế thừa những giá trị tích cực nào của Phật giáo để đoàn kết đồng bào theo đạo Phật, đoàn kết toàn dân vì nước Việt Nam hòa bình, thống nhất, độc lập, dân chủ và giàu mạnh?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Tư tưởng từ bi, vị tha, yêu thương con người, khuyến khích làm việc thiện, chống lại điều ác"
+        },
+        {
+          "id": "B",
+          "content": "Đề cao quyền bình đẳng của con người và chân lý"
+        },
+        {
+          "id": "C",
+          "content": "Con người sống hòa đồng, gắn bó với đất nước của đạo Phật"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Giáo trình ghi rõ: \"Đối với Phật giáo, Hồ Chí Minh chú ý kế thừa, phát triển tư tưởng từ bi, vị tha, yêu thương con người, khuyến khích làm việc thiện, chống lại điều ác; đề cao quyền bình đẳng của con người và chân lý; khuyên con người sống hòa đồng, gắn bó với đất nước của Đạo Phật\"."
+    },
+    {
+      "id": 6,
+      "question": "Đến với văn hóa phương Tây, Hồ Chí Minh quan tâm, tìm hiểu các cuộc cách mạng tư sản nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Thái Lan, Mỹ, Anh"
+        },
+        {
+          "id": "B",
+          "content": "Trung Quốc, Đức, Mỹ"
+        },
+        {
+          "id": "C",
+          "content": "Liên Xô, Mỹ, Pháp"
+        },
+        {
+          "id": "D",
+          "content": "Anh, Pháp, Mỹ"
+        }
+      ],
+      "answer": "D",
+      "explain": "Giáo trình có đoạn: \"Đi sang phương Tây, Người quan tâm tìm hiểu những khẩu hiệu nổi tiếng đó trong các cuộc cách mạng tư sản ở Anh, Pháp, Mỹ\"."
+    },
+    {
+      "id": 7,
+      "question": "Cuối những năm 20 của thế kỷ XX, câu nói: “Bây giờ học thuyết nhiều, chủ nghĩa nhiều, nhưng chủ nghĩa chân chính nhất, chắc chắn nhất, cách mạng nhất là chủ nghĩa Lênin” 3 là của ai?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Hồ Chí Minh"
+        },
+        {
+          "id": "B",
+          "content": "Khổng Tử"
+        },
+        {
+          "id": "C",
+          "content": "Phạm Văn Đồng"
+        },
+        {
+          "id": "D",
+          "content": "Tôn Trung Sơn"
+        }
+      ],
+      "answer": "A",
+      "explain": "Câu nói này của Hồ Chí Minh, giáo trình viết: \"Ngay từ cuối nhưng năm 20 của thế kỷ XX, Hồ Chí Minh khẳng định rằng: 'Bây giờ học thuyết nhiều, chủ nghĩa nhiều, nhưng chủ nghĩa chân chính nhất, chắc chắn nhất, cách mạng nhất là chủ nghĩa Lênin'\"."
+    },
+    {
+      "id": 8,
+      "question": "Theo Hồ Chí Minh nhận định: Học thuyết của Khổng Tử, tôn giáo Giêxu, chủ nghĩa Mác và chủ nghĩa Tôn Dật Tiên có những ưu điểm chung nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Họ đều mong muốn hòa bình, hạnh phúc, ấm no, tự do cho nhân dân"
+        },
+        {
+          "id": "B",
+          "content": "Họ đều xây dựng lý tưởng về một xã hội đại đồng, bình đẳng, hạnh phúc"
+        },
+        {
+          "id": "C",
+          "content": "Họ đều muốn mưu hạnh phúc cho loài người, mưu phúc lợi cho xã hội"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "C",
+      "explain": "Hồ Chí Minh nhận định: \"Khổng Tử, Giêxu, Mác, Tôn Dật Tiên chẳng phải đã có những ưu điểm chung đó sao? Họ đều muốn 'mưu hạnh phúc cho loài người, mưu phúc lợi cho xã hội'\"."
+    },
+    {
+      "id": 9,
+      "question": "Trong quá trình hoạt động cách mạng, Hồ Chí Minh đã thể hiện những phẩm chất như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Có lý tưởng cao cả và hoài bão lớn cứu dân, cứu nước, ý chí nghị lực to lớn"
+        },
+        {
+          "id": "B",
+          "content": "Bản lĩnh tư duy độc lập, tự chủ, sáng tạo, giàu tính phê phán, đổi mới và cách mạng"
+        },
+        {
+          "id": "C",
+          "content": "Có tầm nhìn chiến lược, suốt đời tận trung với nước, hiếu với dân"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Giáo trình nêu rõ các phẩm chất của Người: \"Hồ Chí Minh có lý tưởng cao cả và hoài bão lớn cứu dân, cứu nước... Người có ý chí, nghị lực to lớn...\", \"Đặc biệt là Hồ Chí Minh là người có bản lĩnh tư duy độc lập, tự chủ, sáng tạo, giàu tính phê phán, đổi mới và cách mạng...\", \"Hồ Chí Minh là người có tầm nhìn chiến lược... suốt đời tận trung với nước, tận hiếu với dân\"."
+    },
+    {
+      "id": 10,
+      "question": "Tài năng hoạt động, tổng kết thực tiễn phát triển lý luận của Hồ Chí Minh được thể hiện như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Là người có vốn sống và thực tiễn cách mạng phong phú"
+        },
+        {
+          "id": "B",
+          "content": "Thấu hiểu về phong trào giải phóng dân tộc, về xây dựng chủ nghĩa xã hội, xây dựng đảng cộng sản..."
+        },
+        {
+          "id": "C",
+          "content": "Là nhà tổ chức vĩ đại của cách mạng Việt Nam"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Giáo trình khẳng định: \"Hồ Chí Minh là người có vốn sống và thực tiễn cách mạng phong phú...\", \"Người thấu hiểu về phong trào giải phóng dân tộc, về xây dựng chủ nghĩa xã hội, về xây dựng đảng cộng sản...\", \"Hồ Chí Minh là nhà tổ chức vĩ đại của cách mạng Việt Nam\"."
+    },
+    {
+      "id": 14,
+      "question": "Những hoạt động được xem bước ngoặt quan trọng trong cuộc đời Hồ Chí Minh, bước ngoặt của chủ nghĩa yêu nước kết hợp chặt chẽ với lập trường cách mạng vô sản là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Bỏ phiếu tán thành Quốc tế Cộng sản"
+        },
+        {
+          "id": "B",
+          "content": "Tham gia sáng lập Đảng Cộng sản Pháp"
+        },
+        {
+          "id": "C",
+          "content": "Trở thành người cộng sản Việt Nam đầu tiên"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Hồ Chí Minh đã \"bỏ phiếu tán thành Quốc tế Cộng sản, tham gia sáng lập Đảng Cộng sản Pháp, trở thành người cộng sản Việt Nam đầu tiên. Đây là bước ngoặt quan trọng trong cuộc đời của Hồ Chí Minh, bước ngoặt chủ nghĩa yêu nước kết hợp chặt chẽ với lập trường cách mạng vô sản\"."
+    },
+    {
+      "id": 15,
+      "question": "Thời kỳ nào hình thành những nội dung cơ bản của tư tưởng Hồ Chí Minh về cách mạng Việt Nam?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Thời kỳ từ đầu năm 1911 đến cuối năm 1920"
+        },
+        {
+          "id": "B",
+          "content": "Thời kỳ từ cuối năm 1920 đến đầu năm 1930"
+        },
+        {
+          "id": "C",
+          "content": "Thời kỳ từ đầu năm 1930 đến đầu năm 1941"
+        },
+        {
+          "id": "D",
+          "content": "Thời kỳ từ đầu năm 1941 đến cuối năm 1969"
+        }
+      ],
+      "answer": "B",
+      "explain": "Tiêu đề mục 3 trong giáo trình ghi rõ: \"Thời kỳ từ cuối năm 1920 đến đầu năm 1930: Hình thành những nội dung cơ bản tư tưởng về cách mạng Việt Nam\"."
+    },
+    {
+      "id": 16,
+      "question": "Hồ Chí Minh sáng lập tổ chức tiền thân của Đảng Cộng sản: Hội Việt Nam Thanh niên Cách mạng được thành lập vào thời gian nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "4/1925"
+        },
+        {
+          "id": "B",
+          "content": "5/1925"
+        },
+        {
+          "id": "C",
+          "content": "6/1925"
+        },
+        {
+          "id": "D",
+          "content": "7/1925"
+        }
+      ],
+      "answer": "C",
+      "explain": "Giáo trình ghi: \"Hồ Chí Minh sáng lập tổ chức tiền thân của Đảng Cộng sản: Hội Việt Nam Thanh niên Cách mạng (tháng 6-1925)\"."
+    },
+    {
+      "id": 19,
+      "question": "Hội nghị Trung ương Đảng họp tháng 10/1930 đã ra án nghị quyết như thế nào đối với Hội nghị hợp nhất Đảng do Hồ Chí Minh chủ trì vào tháng 2/1930?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Thủ tiêu chánh cương, sách lược và điều lệ Đảng"
+        },
+        {
+          "id": "B",
+          "content": "Bỏ tên Đảng Cộng sản Việt Nam"
+        },
+        {
+          "id": "C",
+          "content": "Những người tham gia Hội nghị xác định, lấy tên là Đảng Cộng sản Đông Dương hoạt động theo Chỉ thị của Quốc tế Cộng sản"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Giáo trình chép rõ nội dung Hội nghị tháng 10-1930: \"Hội nghị ra án nghị quyết: 'Thủ tiêu chánh cương, sách lược và điều lệ Đảng'; bỏ tên Đảng Cộng sản Việt Nam do Hồ Chí Minh và những người tham gia Hội nghị thành lập Đảng xác định, lấy tên là Đảng Cộng sản Đông Dương, hoạt động theo như chỉ thị của Quốc tế Cộng sản, v.v.\"."
+    },
+    {
+      "id": 20,
+      "question": "Tư tưởng Hồ Chí Minh được Đảng Cộng sản Đông Dương khẳng định, trở thành yếu tố chỉ đạo cách mạng Việt Nam từ Hội nghị trung ương nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Hội nghị Trung ương Đảng tháng 4/1941"
+        },
+        {
+          "id": "B",
+          "content": "Hội nghị Trung ương Đảng tháng 5/1941"
+        },
+        {
+          "id": "C",
+          "content": "Hội nghị Trung ương Đảng tháng 7/1941"
+        },
+        {
+          "id": "D",
+          "content": "Hội nghị Trung ương Đảng tháng 8/1941"
+        }
+      ],
+      "answer": "B",
+      "explain": "Giáo trình nêu bật: \"Tư tưởng Hồ Chí Minh được Đảng Cộng sản Đông Dương khẳng định, trở thành thành yếu tố chỉ đạo cách mạng Việt Nam từ Hội nghị Trung ương Đảng tháng 5-1941\"."
+    },
+    {
+      "id": 22,
+      "question": "Hội nghị Trung ương Đảng tháng 5 – 1941 đã tạm thời gác lại khẩu hiệu cách mạng điền địa, xóa bỏ vấn đề lập Chính phủ Liên bang Cộng hòa dân chủ Đông Dương, thay bằng điều gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chủ trương sẽ thành lập Chính phủ nhân dân của nước Việt Nam Dân chủ Cộng hòa"
+        },
+        {
+          "id": "B",
+          "content": "Nêu chủ trương lập Mặt trận Việt Minh"
+        },
+        {
+          "id": "C",
+          "content": "Thực hiện đại đoàn kết dân tộc trên cơ sở nòng cốt liên minh công nông, nêu ra phương hướng khởi nghĩa vũ trang giành chính quyền..."
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Hội nghị \"thay vào đó là chủ trương sẽ thành lập Chính phủ nhân dân của nước Việt Nam Dân chủ Cộng hoà, nêu chủ trương lập Mặt trận Việt Minh, thực hiện đại đoàn kết dân tộc trên cơ sở nòng cốt liên minh công nông, nêu ra phương hướng khởi nghĩa vũ trang giành chính quyền, v.v…\"."
+    },
+    {
+      "id": 27,
+      "question": "Từ ngày 2/9/1945 đến ngày 19/12/1946, với phương châm Dĩ bất biến ứng vạn biến, giữ vững mục tiêu đấu tranh cho độc lập dân tộc, Hồ Chí Minh đã chỉ đạo thành công sách lược gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Tạm hòa hoãn với Tưởng để đối phó với thực dân Pháp"
+        },
+        {
+          "id": "B",
+          "content": "Tạm hòa hoãn với Pháp để đuổi quân Tưởng và tay sai về nước"
+        },
+        {
+          "id": "C",
+          "content": "Củng cố lực lượng, chuẩn bị toàn quốc kháng chiến chống thực dân Pháp"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Giáo trình ghi: \"Người đã chỉ đạo thành công sách lược: Khi thì tạm hoà hoãn với Tưởng để rảnh tay đối phó với thực dân Pháp, lúc thì tạm hoà hoãn với Pháp để đuổi quân Tưởng và quét sạch bọn phản động tay sai của Tưởng về nước, giành thời gian củng cố lực lượng, chuẩn bị toàn quốc kháng chiến chống thực dân Pháp\"."
+    },
+    {
+      "id": 28,
+      "question": "Năm 1951, Chủ tịch Hồ Chí Minh và Trung ương Đảng đã triệu tập Đại hội II, đưa Đảng ra hoạt động công khai với tên gọi là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đảng Cộng sản Đông Dương"
+        },
+        {
+          "id": "B",
+          "content": "Đảng Cộng sản Việt Nam"
+        },
+        {
+          "id": "C",
+          "content": "Đảng Lao động Việt Nam"
+        },
+        {
+          "id": "D",
+          "content": "Đông Dương Cộng sản Đảng"
+        }
+      ],
+      "answer": "C",
+      "explain": "Giáo trình đề cập: \"...ngay trong buổi ra mắt Đảng Lao động Việt Nam ngày 3-3-1951, Hồ Chí Minh đã chỉ rõ: 'Mục đích của Đảng Lao động Việt Nam...'\". (Sự kiện Đảng đổi tên và ra công khai tại Đại hội II năm 1951 là kiến thức lịch sử Đảng cơ bản được phản ánh xuyên suốt tài liệu)."
+    },
+    {
+      "id": 31,
+      "question": "Cuối thế kỷ XIX, đầu thế kỷ XX, xã hội Việt Nam xuất hiện thêm những giai tầng mới nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Giai cấp công nhân, giai cấp tư sản, tầng lớp tiểu tư sản ở thành thị"
+        },
+        {
+          "id": "B",
+          "content": "Giai cấp tư sản, giai cấp vô sản, tầng lớp trí thức ở thành thị."
+        },
+        {
+          "id": "C",
+          "content": "Tầng lớp tiểu tư sản ở thành thị, giai cấp công nhân, giai cấp nông dân."
+        },
+        {
+          "id": "D",
+          "content": "Giai cấp công nhân, giai cấp tư sản, giai cấp nông dân."
+        }
+      ],
+      "answer": "A",
+      "explain": "Giáo trình chỉ ra sự biến đổi: \"trong xã hội Việt Nam xuất hiện những giai tầng mới. Đó là giai cấp công nhân, giai cấp tư sản và tầng lớp tiểu tư sản ở thành thị\"."
+    },
+    {
+      "id": 32,
+      "question": "Khi những giai tầng mới xuất hiện, xã hội Việt Nam có thêm các mâu thuẫn mới gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Mâu thuẫn giữa giai cấp nông dân với đế quốc Pháp giai cấp tư sản; giữa toàn thể nhân dân Việt Nam với chủ nghĩa đế quốc Pháp"
+        },
+        {
+          "id": "B",
+          "content": "Mâu thuẫn giữa giai cấp nông dân Việt Nam với giai cấp địa chủ; giữa toàn thể nhân dân Việt Nam với chủ nghĩa đế quốc Pháp"
+        },
+        {
+          "id": "C",
+          "content": "Mâu thuẫn giữa giai cấp công nhân Việt Nam với giai cấp tư sản; giữa toàn thể nhân dân Việt Nam với chủ nghĩa đế quốc Pháp"
+        },
+        {
+          "id": "D",
+          "content": "Giữa tầng lớp tiểu tư sản thành thị với giai cấp tư sản; giữa toàn thể nhân dân Việt Nam với chủ nghĩa đế quốc Pháp"
+        }
+      ],
+      "answer": "C",
+      "explain": "Giáo trình khẳng định sự xuất hiện của \"...các mâu thuẫn mới: Mâu thuẫn giữa giai cấp công nhân Việt Nam với giai cấp tư sản, mâu thuẫn giữa toàn thể nhân dân Việt Nam với chủ nghĩa đế quốc Pháp\"."
+    },
+    {
+      "id": 33,
+      "question": "Các phong trào yêu nước theo khuynh hướng dân chủ tư sản đầu thế kỷ XX diễn ra đều thất bại là do nguyên nhân nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Do giai cấp tư sản Việt Nam còn non yếu; các phong trào chưa có đường lối và phương pháp cách mạng đúng đắn"
+        },
+        {
+          "id": "B",
+          "content": "Do giai cấp nông dân Việt Nam còn non yếu; các phong trào chưa có đường lối và phương pháp cách mạng đúng đắn"
+        },
+        {
+          "id": "C",
+          "content": "Do giai cấp công nhân Việt Nam còn non yếu; các phong trào chưa có đường lối và phương pháp cách mạng đúng đắn"
+        },
+        {
+          "id": "D",
+          "content": "Do tầng lớp tiểu tư sản Việt Nam còn non yếu; các phong trào chưa có đường lối và phương pháp cách mạng đúng đắn"
+        }
+      ],
+      "answer": "A",
+      "explain": "Giáo trình nêu rõ: \"Các phong trào yêu nước theo khuynh hướng dân chủ tư sản nói trên đều thất bại. Nguyên nhân sâu xa là giai cấp tư sản Việt Nam còn non yếu. Nguyên nhân trực tiếp là các tổ chức và người lãnh đạo của các phong trào đó chưa có đường lối và phương pháp cách mạng đúng đắn\"."
+    },
+    {
+      "id": 36,
+      "question": "Các mâu thuẫn vốn có trong lòng chủ nghĩa tư bản cuối thế kỷ XIX, đầu thế kỷ XX là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Mâu thuẫn giữa giai cấp tư sản với giai cấp vô sản ở các nước tư bản; mâu thuẫn giữa các nước đế quốc với nhau"
+        },
+        {
+          "id": "B",
+          "content": "Mâu thuẫn giữa các giai cấp tư sản với giai cấp vô sản ở các nước tư bản; mâu thuẫn giữa các nước đế quốc với nhau; mâu thuẫn giữa các dân tộc thuộc địa và phụ thuộc với chủ nghĩa đế quốc"
+        },
+        {
+          "id": "C",
+          "content": "Mâu thuẫn giữa các giai cấp tư sản với các giai cấp vô sản ở các nước tư bản; mâu thuẫn giữa các dân tộc thuộc địa và phụ thuộc với chủ nghĩa đế quốc"
+        },
+        {
+          "id": "D",
+          "content": "Mâu thuẫn giữa các nước đế quốc với nhau; mâu thuẫn giữa các dân tộc thuộc địa và phụ thuộc với chủ nghĩa đế quốc"
+        }
+      ],
+      "answer": "B",
+      "explain": "Thời kỳ này \"làm sâu sắc thêm mâu thuẫn vốn có trong lòng chủ nghĩa tư bản là mâu thuẫn giữa giai cấp tư sản với giai cấp vô sản ở các nước tư bản; mâu thuẫn giữa các nước đế quốc với nhau; mâu thuẫn giữa các dân tộc thuộc địa và phụ thuộc với chủ nghĩa đế quốc\"."
+    },
+    {
+      "id": 38,
+      "question": "Giá trị xuyên suốt trong những truyền thống tốt đẹp của dân tộc Việt Nam là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đức tính cần cù, chịu khó"
+        },
+        {
+          "id": "B",
+          "content": "Chủ nghĩa yêu nước"
+        },
+        {
+          "id": "C",
+          "content": "Tinh thần đấu tranh anh dũng, bất khuất"
+        },
+        {
+          "id": "D",
+          "content": "Tấm lòng nhân ái"
+        }
+      ],
+      "answer": "B",
+      "explain": "Giáo trình mở đầu phần cơ sở lý luận: \"Chủ nghĩa yêu nước là giá trị xuyên suốt trong những truyền thống tốt đẹp của dân tộc Việt Nam\"."
+    },
+    {
+      "id": 39,
+      "question": "Chủ nghĩa yêu nước có ý nghĩa như thế nào với Hồ Chí Minh khi ra đi tìm đường cứu nước, cứu dân?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Là giá trị cốt lõi, điểm đầu tiên và thôi thúc"
+        },
+        {
+          "id": "B",
+          "content": "Là cơ sở tư tưởng, điểm xuất phát và thúc giục"
+        },
+        {
+          "id": "C",
+          "content": "Là nền tảng tư tưởng, điểm xuất phát và động lực thúc đẩy"
+        },
+        {
+          "id": "D",
+          "content": "Là kim chỉ nam, điểm đầu tiên và động lực thức đẩy"
+        }
+      ],
+      "answer": "C",
+      "explain": "Giáo trình ghi nhận: \"Chính chủ nghĩa yêu nước là nền tảng tư tưởng, điểm xuất phát và động lực thúc đẩy Hồ Chí Minh ra đi tìm đường cứu nước, và tìm thấy ở chủ nghĩa Mác-Lênin con đường cứu nước, cứu dân\"."
+    },
+    {
+      "id": 40,
+      "question": "Hồ Chí Minh đã kế thừa giá trị tích cực nào của Nho giáo để góp phần vào quản lý xã hội?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Tư tưởng từ bi, bác ái, yêu thương con người"
+        },
+        {
+          "id": "B",
+          "content": "Dùng nhân trị, đức trị"
+        },
+        {
+          "id": "C",
+          "content": "Khuyên con người sống hòa đồng, gắn bó với đất nước"
+        },
+        {
+          "id": "D",
+          "content": "Con người sống gắn bó, hòa hợp với thiên nhiên."
+        }
+      ],
+      "answer": "B",
+      "explain": "Hồ Chí Minh chú ý kế thừa và đổi mới tư tưởng dùng nhân trị, đức trị để quản lý xã hội\"."
+    },
+    {
+      "id": 41,
+      "question": "Hồ Chí Minh đã kế thừa, đổi mới và phát triển giá trị tích cực nào của Nho giáo trong việc tu dưỡng, rèn luyện đạo đức của con người; trong công tác xây dựng Đảng về đạo đức?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Tư tưởng từ bi, bác ái, yêu thương con người"
+        },
+        {
+          "id": "B",
+          "content": "Dùng nhân trị, đức trị"
+        },
+        {
+          "id": "C",
+          "content": "Tinh thần trọng đạo đức"
+        },
+        {
+          "id": "D",
+          "content": "Con người sống gắn bó, hòa hợp với thiên nhiên"
+        }
+      ],
+      "answer": "C",
+      "explain": "Đặc biệt, Hồ Chí Minh chú ý kế thừa, đổi mới, phát triển tinh thần trọng đạo đức của Nho giáo trong việc tu dưỡng, rèn luyện đạo đức của con người; trong công tác xây dựng Đảng về đạo đức\"."
+    },
+    {
+      "id": 43,
+      "question": "Hồ Chí Minh đã kế thừa những giá trị tích cực nào của Lão giáo trong quá trình hình thành và phát triển tư tưởng Hồ Chí Minh?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Tư tưởng từ bi, bác ái, yêu thương con người"
+        },
+        {
+          "id": "B",
+          "content": "Khuyên con người nên sống gắn bó với thiên nhiên, hòa đồng với thiên nhiên, biết bảo vệ môi trường sống"
+        },
+        {
+          "id": "C",
+          "content": "Lòng nhân ái, đức hy sinh, khoan dung độ lượng với con người"
+        },
+        {
+          "id": "D",
+          "content": "Công bằng, bác ái, nhân nghĩa, trí, dũng, tín, liêm."
+        }
+      ],
+      "answer": "B",
+      "explain": "Đối với Lão giáo, Hồ Chí Minh chú ý kế thừa, phát triển tư tưởng của Lão Tử, khuyên con người nên sống gắn bó với thiên nhiên, hoà đồng với thiên nhiên, hơn nữa phải biết bảo vệ môi trường sống\"."
+    },
+    {
+      "id": 44,
+      "question": "Hồ Chí Minh đã kế thừa, phát triển những quan điểm về nhân quyền, dân quyền trong những bản tuyên ngôn nào của thế giới?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Tuyên ngôn độc lập của Mỹ (1776); Tuyên ngôn của Đảng Cộng sản (1848)"
+        },
+        {
+          "id": "B",
+          "content": "Tuyên ngôn Nhân quyền và Dân quyền Pháp 1791; Tuyên ngôn của Đảng Cộng sản (1848)"
+        },
+        {
+          "id": "C",
+          "content": "Tuyên ngôn độc lập Mỹ 1776; Tuyên ngôn Nhân quyền và Dân quyền Pháp 1791"
+        },
+        {
+          "id": "D",
+          "content": "Tuyên ngôn Nhân quyền và Dân quyền của Pháp (1791); Tuyên ngôn Quốc tế Nhân quyền (1948)"
+        }
+      ],
+      "answer": "C",
+      "explain": "Người đã kế thừa, phát triển những quan điểm nhân quyền, dân quyền trong Bản Tuyên ngôn Độc lập năm 1776 của Mỹ, Bản Tuyên ngôn Nhân quyền và Dân quyền năm 1791 của Pháp...\"."
+    },
+    {
+      "id": 45,
+      "question": "Tiền đề lý luận nào là quan trọng nhất, quyết định bước ngoặt trong việc hình thành tư tưởng Hồ Chí Minh?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Giá trị truyền thống tốt đẹp của dân tộc Việt Nam"
+        },
+        {
+          "id": "B",
+          "content": "Tinh hoa văn hóa phương Đông"
+        },
+        {
+          "id": "C",
+          "content": "Chủ nghĩa Mác – Lê-nin"
+        },
+        {
+          "id": "D",
+          "content": "Tinh hoa văn hóa phương Tây"
+        }
+      ],
+      "answer": "C",
+      "explain": "Giáo trình đánh giá: \"Chủ nghĩa Mác - Lênin tiền đề lý luận quan trọng nhất, có vai trò quyết định trong việc hình thành tư tưởng Hồ Chí Minh\"."
+    },
+    {
+      "id": 46,
+      "question": "Thuở niên thiếu, Hồ Chí Minh ảnh hưởng sâu sắc tinh thần yêu nước, thương dân và nhân cách của ai trong gia đình?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Cha Nguyễn Sinh Sắc"
+        },
+        {
+          "id": "B",
+          "content": "Mẹ Hoàng Thị Loan"
+        },
+        {
+          "id": "C",
+          "content": "Anh trai Nguyễn Sinh Khiêm"
+        },
+        {
+          "id": "D",
+          "content": "Chị gái Nguyễn Thị Liên"
+        }
+      ],
+      "answer": "A",
+      "explain": "Tinh thần yêu nước, thương dân và nhân cách của cụ Nguyễn Sinh Sắc có ảnh hưởng lớn lao đến tư tưởng, nhân cách Hồ Chí Minh thuở niên thiếu\"."
+    },
+    {
+      "id": 47,
+      "question": "Hồ Chí Minh luôn suy ngẫm sâu sắc về Tổ quốc và thời cuộc, Người khâm phục tinh thần yêu nước của các vị tiền bối cách mạng như Phan Bội Châu, Phan Châu Trinh, Hoàng Hoa Thám,... nhưng Người lại không tán thành điều gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Cách thức tổ chức và khuynh hướng cứu nước"
+        },
+        {
+          "id": "B",
+          "content": "Phương pháp và khuynh hướng cứu nước"
+        },
+        {
+          "id": "C",
+          "content": "Cách làm và khuynh hướng cứu nước"
+        },
+        {
+          "id": "D",
+          "content": "Tư duy và cách làm của các khuynh hướng cứu nước"
+        }
+      ],
+      "answer": "B",
+      "explain": "Tuy rất khâm phục tinh thần yêu nước của các vị tiền bối cách mạng... nhưng Người sáng suốt phê phán, không tán thành, không đi theo các phương pháp, khuynh hướng cứu nước của các vị đó\"."
+    },
+    {
+      "id": 50,
+      "question": "Thông qua báo chí và các hoạt động thực tiễn, Hồ Chí Minh đã tích cực truyền bá điều gì vào phong trào công nhân và phong trào yêu nước Việt Nam?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chủ nghĩa yêu nước chân chính"
+        },
+        {
+          "id": "B",
+          "content": "Tinh thần bất khuất, kiên cường, vượt lên mọi khó khăn"
+        },
+        {
+          "id": "C",
+          "content": "Lòng vị tha, khoan dung, độ lượng"
+        },
+        {
+          "id": "D",
+          "content": "Chủ nghĩa Mác - Lênin"
+        }
+      ],
+      "answer": "D",
+      "explain": "Thông qua báo chí và các hoạt động thực tiễn Người tích cực truyền bá chủ nghĩa Mác - Lênin vào phong trào công nhân và phong trào yêu nước Việt Nam\"."
+    },
+    {
+      "id": 51,
+      "question": "Luận điểm: \"Làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản\", \"đánh đổ đế quốc Pháp, phong kiến An Nam và giai cấp tư sản phản cách mạng\"⁵ được trích trong tác phẩm nào của Hồ Chí Minh?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Bản án chế độ thực dân Pháp (1925)"
+        },
+        {
+          "id": "B",
+          "content": "Đường cách mệnh (1927)"
+        },
+        {
+          "id": "C",
+          "content": "Cương lĩnh chính trị đầu tiên của Đảng (1930)"
+        },
+        {
+          "id": "D",
+          "content": "Thường thức chính trị (1953)"
+        }
+      ],
+      "answer": "C",
+      "explain": "Cương lĩnh chính trị đầu tiên của Đảng Cộng sản Việt Nam nêu mục tiêu và con đường cách mạng là “làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản”, “đánh đổ đế quốc Pháp, phong kiến An Nam và giai cấp tư sản phản cách mạng”...\"."
+    },
+    {
+      "id": 52,
+      "question": "Theo Hồ Chí Minh, thành lập Đảng Cộng sản Việt Nam với Cương lĩnh chính trị đúng đắn và sáng tạo đã chấm dứt điều gì của cách mạng Việt Nam?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Cuộc khủng hoảng về đường lối và tổ chức lãnh đạo"
+        },
+        {
+          "id": "B",
+          "content": "Cuộc đấu tranh anh dũng của dân tộc Việt Nam"
+        },
+        {
+          "id": "C",
+          "content": "Cuộc khủng hoảng về phương pháp đấu tranh giải phóng dân tộc"
+        },
+        {
+          "id": "D",
+          "content": "Cuộc khủng hoảng về cách thức tổ chức và phong trào đấu tranh của dân tộc Việt Nam"
+        }
+      ],
+      "answer": "A",
+      "explain": "Hồ Chí Minh thành lập Đảng Cộng sản Việt Nam với Cương lĩnh chính trị đúng đắn và sáng tạo đã chấm dứt cuộc khủng hoảng về đường lối và tổ chức lãnh đạo cách mạng Việt Nam kéo dài suốt từ cuối thế kỷ XIX sang đầu năm 1930\"."
+    },
+    {
+      "id": 53,
+      "question": "Thời gian từ năm 1934 đến năm 1938, Hồ Chí Minh ở đâu và nghiên cứu vấn đề gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Trung Quốc và làm nghiên cứu sinh tại Ban sử của Viện nghiên cứu các vấn đề dân tộc và thuộc địa"
+        },
+        {
+          "id": "B",
+          "content": "Thái Lan và làm nghiên cứu về các vấn đề dân tộc và thuộc địa"
+        },
+        {
+          "id": "C",
+          "content": "Liên Xô và làm nghiên cứu sinh tại Ban sử của Viện nghiên cứu các vấn đề dân tộc và thuộc địa"
+        },
+        {
+          "id": "D",
+          "content": "Pháp và làm nghiên cứu tại Viện nghiên cứu các vấn đề dân tộc và thuộc địa"
+        }
+      ],
+      "answer": "C",
+      "explain": "...năm 1934, Hồ Chí Minh trở lại Liên Xô, vào học Trường Quốc tế Lênin. Sau đó, Người làm nghiên cứu sinh tại Ban Sử của Viện Nghiên cứu các vấn đề dân tộc và thuộc địa của Quốc tế Cộng sản. Trong quãng thời gian từ năm 1934 đến năm 1938...\"."
+    },
+    {
+      "id": 55,
+      "question": "Từ năm 1954-1969, Hồ Chí Minh xác định và lãnh đạo đường lối cùng một lúc thi hành hai nhiệm vụ chiến lược của cách mạng Việt Nam là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Giành lại chính quyền ở miền Bắc và xây dựng chủ nghĩa xã hội ở miền Nam"
+        },
+        {
+          "id": "B",
+          "content": "Xây dựng chủ nghĩa xã hội ở miền Bắc; tiếp tục cuộc cách mạng dân tộc dân chủ nhân dân ở miền Nam"
+        },
+        {
+          "id": "C",
+          "content": "Xây dựng chủ nghĩa xã hội ở miền Nam; tiếp tục cuộc cách mạng dân tộc dân chủ nhân dân ở miền Bắc"
+        },
+        {
+          "id": "D",
+          "content": "Giành lại chính quyền và xây dựng chủ nghĩa xã hội ở miền Nam"
+        }
+      ],
+      "answer": "B",
+      "explain": "Từ năm 1954 đến năm 1969, Hồ Chí Minh xác định và lãnh đạo thực hiện đường lối cùng một lúc thi hành hai nhiệm vụ chiến lược của cách mạng Việt Nam: Xây dựng chủ nghĩa xã hội ở miền Bắc; tiếp tục cuộc cách mạng dân tộc dân chủ nhân dân ở miền Nam\"."
+    },
+    {
+      "id": 56,
+      "question": "Luận điểm: “Toàn Đảng, toàn dân ta đoàn kết phấn đấu, xây dựng một nước Việt Nam hòa bình, thống nhất, độc lập, dân chủ và giàu mạnh, và góp phần xứng đáng vào sự nghiệp cách mạng thế giới”2 được trích trong tác phẩm nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chánh cương vắn tắt của Đảng (1930)"
+        },
+        {
+          "id": "B",
+          "content": "Tuyên ngôn độc lập (1945)"
+        },
+        {
+          "id": "C",
+          "content": "Lời kêu gọi toàn quốc kháng chiến (1946)"
+        },
+        {
+          "id": "D",
+          "content": "Di Chúc (1969)"
+        }
+      ],
+      "answer": "D",
+      "explain": "Trước khi đi xa, Người để lại Di chúc... Điều mong muốn cuối cùng của Hồ Chí Minh là: “Toàn Đảng, toàn dân ta đoàn kết phấn đấu, xây dựng một nước Việt Nam hoà bình, thống nhất, độc lập, dân chủ và giàu mạnh...\"\"."
+    },
+    {
+      "id": 57,
+      "question": "Chủ nghĩa Mác – Lê-nin và tư tưởng Hồ Chí Minh là nền tảng tư tưởng, kim chỉ nam cho hành động của Đảng được khẳng định trong Đại hội nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đại hội VI (1986-1990)"
+        },
+        {
+          "id": "B",
+          "content": "Đại hội VII (1991-1996)"
+        },
+        {
+          "id": "C",
+          "content": "Đại hội VIII (1997-2002)"
+        },
+        {
+          "id": "D",
+          "content": "Đại hội IX (2003-2008)"
+        }
+      ],
+      "answer": "B",
+      "explain": "Giáo trình dẫn chứng: \"Đại hội VII của Đảng khẳng định: 'Đảng lấy chủ nghĩa Mác -Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, kim chỉ nam cho hành động'\"."
+    },
+    {
+      "id": 58,
+      "question": "“Nước Nga có chuyện lạ đời/ Biển người nô lệ thành người tự do”. Chuyện lạ đời theo Hồ Chí Minh ở đây là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Cách mạng Tháng 10 Nga"
+        },
+        {
+          "id": "B",
+          "content": "Nhà nước công nông đầu tiên trong lịch sử"
+        },
+        {
+          "id": "C",
+          "content": "Liên Xô đánh thắng 14 nước đế quốc"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "A",
+      "explain": "Câu thơ của Hồ Chí Minh ca ngợi Cách mạng Tháng 10 Nga – cuộc cách mạng đã đập tan ách áp bức, được giáo trình mô tả: \"Cách mạng Tháng Mười Nga thành công... mở ra con đường giải phóng cho các dân tộc bị áp bức trên thế giới\"."
+    },
+    {
+      "id": 59,
+      "question": "Văn kiện nào sau đây đưa ra khẳng định: “Muốn đổi mới tư duy, Đảng ta phải nắm vững bản chất cách mạng và khoa học của chủ nghĩa Mác – Lênin kế thừa di sản quý báu về tư tưởng và lý luận cách mạng của Chủ tịch Hồ Chí Minh”?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đại hội V"
+        },
+        {
+          "id": "B",
+          "content": "Đại hội VI"
+        },
+        {
+          "id": "C",
+          "content": "Đại hội VII"
+        },
+        {
+          "id": "D",
+          "content": "Đại hội VIII"
+        }
+      ],
+      "answer": "B",
+      "explain": "Đại hội đại biểu toàn quốc lần thứ VI của Đảng (12-1986) đã đề ra đường lối đổi mới toàn diện ở nước ta, trong đó nhấn mạnh: 'Đảng ta phải nắm vững bản chất cách mạng và khoa học của chủ nghĩa Mác - Lênin, kế thừa di sản quý báu về tư tưởng và lý luận cách mạng của Chủ tịch Hồ Chí Minh'\"."
+    },
+    {
+      "id": 60,
+      "question": "Chỉ thị nào sau đây đưa ra yêu cầu: “Tiếp tục đổi mới, nâng cao chất lượng, hiệu quả học tập, nghiên cứu, vận dụng và phát triển chủ nghĩa Mác – Lênin, tư tưởng Hồ Chí Minh trong tình hình mới”?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chỉ thị số 23-CT/TW ngày 9/2/2018 của Ban Bí thư khóa XII"
+        },
+        {
+          "id": "B",
+          "content": "Chỉ thị số 24-CT/TW ngày 9/2/2018 của Trung ương Đảng khóa XII"
+        },
+        {
+          "id": "C",
+          "content": "Chỉ thị số 25-CT/TW ngày 9/2/2018 của Ban Bí thư khóa XII"
+        },
+        {
+          "id": "D",
+          "content": "Chỉ thị số 26-CT/TW ngày 9/2/2018 của Trung ương Đảng khóa XII"
+        }
+      ],
+      "answer": "A",
+      "explain": "Chỉ thị số 23-CT/TW ngày 9/2/2018 của Ban Bí thư khóa XII."
+    },
+    {
+      "id": 62,
+      "question": "Đánh giá sau đây về Chủ tịch Hồ Chí Minh là của ai: “Hồ Chủ tịch là người sáng lập, lãnh đạo và rèn luyện Đảng ta, là người xây dựng nền Cộng hòa dân chủ Việt Nam và Mặt trận Dân tộc thống nhất, là người cha thân yêu của các lực lượng vũ trang nhân dân Việt Nam. Người là linh hồn, là ngọn cờ chói lọi, lãnh đạo toàn Đảng, toàn dân, toàn quân ta đoàn kết một lòng, chiến đấu anh dũng, viết nên những trang sử vẻ vang nhất của Tổ quốc ta”?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Trần Phú"
+        },
+        {
+          "id": "B",
+          "content": "Lê Duẩn"
+        },
+        {
+          "id": "C",
+          "content": "Võ Nguyên Giáp"
+        },
+        {
+          "id": "D",
+          "content": "Trường Chinh"
+        }
+      ],
+      "answer": "B",
+      "explain": "Trích đoạn trên nằm trong Điếu văn của Ban Chấp hành Trung ương Đảng do đồng chí Lê Duẩn (Bí thư thứ nhất) trình bày tại Lễ truy điệu Chủ tịch Hồ Chí Minh."
+    },
+    {
+      "id": 64,
+      "question": "Hồ Chí Minh viết: “Cũng như ngọc càng mài càng sáng, vàng càng luyện càng trong” được trích từ tác phẩm nào của Hồ Chí Minh?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đường Cách mệnh"
+        },
+        {
+          "id": "B",
+          "content": "Đạo đức cách mạng"
+        },
+        {
+          "id": "C",
+          "content": "Nâng cao đạo đức cách mạng, quét sạch chủ nghĩa cá nhân"
+        },
+        {
+          "id": "D",
+          "content": "Liên Xô vĩ đại"
+        }
+      ],
+      "answer": "B",
+      "explain": "Trích dẫn \"Đạo đức cách mạng không phải trên trời sa xuống... Cũng như ngọc càng mài càng sáng, vàng càng luyện càng trong” được dẫn trong tác phẩm Đạo đức cách mạng của Người."
+    },
+    {
+      "id": 65,
+      "question": "Tìm một đáp án sai trong đoạn sau đây: Trong 10 năm đầu (1911-1920) của quá trình bôn ba, Nguyễn Ái Quốc đã:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Vượt qua 3 đại dương, 4 châu lục"
+        },
+        {
+          "id": "B",
+          "content": "Đến khoảng gần 30 nước"
+        },
+        {
+          "id": "C",
+          "content": "Sống, làm thuê và tự học tại các nước Mỹ, Anh, Pháp"
+        },
+        {
+          "id": "D",
+          "content": "Đến Matxcova và dự hội nghị quốc tế nông dân"
+        }
+      ],
+      "answer": "D",
+      "explain": "Từ 1911 đến 1920, Người đi nhiều nước, hoạt động tại Pháp, tham gia Đảng Xã hội Pháp và bỏ phiếu tán thành Quốc tế Cộng sản tại Pháp cuối năm 1920. Người chưa đến Mát-xcơ-va dự hội nghị quốc tế nông dân trong giai đoạn 1911-1920 (sự kiện này diễn ra năm 1923)."
+    },
+    {
+      "id": 66,
+      "question": "Xác định tác giả câu thơ sau: “Hiền dữ phải đâu là tính sẵn/ Phần nhiều do giáo dục mà nên”?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Khổng Tử (551-497) – nhà giáo dục lớn thời cổ đại của Trung Hoa"
+        },
+        {
+          "id": "B",
+          "content": "Hồ Chí Minh (1890-1969) – lãnh tụ vĩ đại của nhân dân Việt Nam"
+        },
+        {
+          "id": "C",
+          "content": "Mahatma Gandhi (1869-1948) – lãnh tụ vĩ đại của nhân dân Ấn Độ"
+        },
+        {
+          "id": "D",
+          "content": "Giêsu Crit – người sáng lập Kito ở Phương Tây."
+        }
+      ],
+      "answer": "B",
+      "explain": "Giáo trình nhắc lại quan điểm của Hồ Chí Minh về biện pháp giáo dục: \"Hồ Chí Minh nhắc nhở rằng 'hiền, giữ của con người không phải là tính sẵn. Phần nhiều do giáo dục mà nên'\"."
+    },
+    {
+      "id": 67,
+      "question": "Điều kiện thuận lợi để chủ nghĩa Mác – Lênin xâm nhập, truyền bá vào nước ta đầu thế kỷ XX là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Tinh thần ham học hỏi của nhân dân và tinh thần đoàn kết."
+        },
+        {
+          "id": "B",
+          "content": "Tinh thần đoàn kết và phong trào yêu nước"
+        },
+        {
+          "id": "C",
+          "content": "Phong trào công nhân và phong trào yêu nước"
+        },
+        {
+          "id": "D",
+          "content": "Phong trào công nhân và tinh thần đoàn kết dân tộc"
+        }
+      ],
+      "answer": "C",
+      "explain": "Phong trào công nhân và các phong trào yêu nước Việt Nam đầu thế kỷ XX là điều kiện thuận lợi để chủ nghĩa Mác-Lênin xâm nhập, truyền bá vào đất nước ta\"."
+    },
+    {
+      "id": 68,
+      "question": "Năm 1919, Quốc tế Cộng sản được thành lập tại Mátxcova và trở thành Bộ tham mưu lãnh đạo phong trào cách mạng thế giới. Dưới sự lãnh đạo của Lênin, Quốc tế cộng sản đẩy mạnh việc gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Việc giác ngộ lý tưởng về cách mạng tháng Mười Nga và kinh nghiệm của thế giới về cách mạng"
+        },
+        {
+          "id": "B",
+          "content": "Việc truyền bá chủ nghĩa Mác- Lênin và kinh nghiệm cách mạng tháng Mười Nga ra thế giới"
+        },
+        {
+          "id": "C",
+          "content": "Việc tuyên truyền chủ nghĩa Mác – Lênin và kinh nghiệm của cách mạng tháng Mười Nga ra thế giới"
+        },
+        {
+          "id": "D",
+          "content": "Việc giới thiệu chủ nghĩa Mác – Lênin và kinh nghiệm của cách mạng tháng Mười Nga ra thế giới"
+        }
+      ],
+      "answer": "B",
+      "explain": "Dưới sự lãnh đạo của Lênin, Quốc tế Cộng sản đẩy mạnh việc truyền bá chủ nghĩa Mác - Lênin và kinh nghiệm Cách mạng Tháng Mười Nga ra khắp thế giới...\"."
+    },
+    {
+      "id": 69,
+      "question": "Hồ Chí Minh đã vận dụng sáng tạo những triết lý của đạo Phật để đoàn kết đồng bào theo Đạo phật, đoàn kết toàn dân vì:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nước Việt Nam thái bình, thịnh trị, dân chủ chủ và giàu mạnh"
+        },
+        {
+          "id": "B",
+          "content": "Nước Việt Nam hòa bình, thống nhất, độc lập, dân chủ và giàu mạnh"
+        },
+        {
+          "id": "C",
+          "content": "Nước Việt Nam hoàn toàn được giải phóng, thống nhất, dân chủ"
+        },
+        {
+          "id": "D",
+          "content": "Nước Việt Nam dân chủ, sánh vai với các cường quốc năm châu"
+        }
+      ],
+      "answer": "B",
+      "explain": "Những quan điểm tích cực đó trong triết lý của Đạo Phật được Hồ Chí Minh vận dụng sáng tạo để đoàn kết đồng bào theo Đạo Phật, đoàn kết toàn dân vì nước Việt Nam hòa bình, thống nhất, độc lập, dân chủ và giàu mạnh\"."
+    },
+    {
+      "id": 70,
+      "question": "Hồ Chí Minh đã tìm thấy những điểm tích cực nào trong chủ nghĩa Tam dân của Tôn Trung Sơn?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Dân tộc độc lập, dân quyền tự do, dân sinh hạnh phúc"
+        },
+        {
+          "id": "B",
+          "content": "Con người sống hòa hợp với thiên nhiên"
+        },
+        {
+          "id": "C",
+          "content": "Tư tưởng từ bi, bác ái, yêu thương con người"
+        },
+        {
+          "id": "D",
+          "content": "Đề cao quyền bình đẳng của con người"
+        }
+      ],
+      "answer": "A",
+      "explain": "Hồ Chí Minh đã phát triển sáng tạo các quan điểm về dân tộc, dân quyền, dân sinh của Tôn Trung Sơn trong cách mạng dân chủ tư sản thành tư tưởng đấu tranh cho Độc lập - Tự do - Hạnh phúc...\"."
+    },
+    {
+      "id": 71,
+      "question": "Hồ Chí Minh đã trực tiếp nghiên cứu tư tưởng nào của các nhà khai sáng phương Tây như Vonte, Rutxo, Mongtetxkio trong hành trình đi tìm đường cứu nước, cứu dân?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Tư tưởng nhân văn, công bằng, dân chủ."
+        },
+        {
+          "id": "B",
+          "content": "Tư tưởng nhân văn, dân chủ và nhà nước pháp quyền"
+        },
+        {
+          "id": "C",
+          "content": "Tư tưởng nhân văn, dân chủ, công bằng và nhà nước pháp quyền"
+        },
+        {
+          "id": "D",
+          "content": "Tư tưởng nhân văn, dân chủ, độc lập, tự do."
+        }
+      ],
+      "answer": "B",
+      "explain": "Người trực tiếp nghiên cứu tư tưởng nhân văn, dân chủ và nhà nước pháp quyền của các nhà khai sáng phương Tây như Vonte, Rutxô, Môngtétxkiơ...\"."
+    },
+    {
+      "id": 72,
+      "question": "Yếu tố nào là cơ sở lý luận quyết định bước phát triển mới về chất trong tư tưởng Hồ Chí Minh, Khiến Người vượt hẳn lên phía trước so với những người yêu nước cùng thời?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Cách mạng Tháng Mười Nga năm 1917, chủ nghĩa yêu nước, chủ nghĩa Mác - Lê-nin"
+        },
+        {
+          "id": "B",
+          "content": "Cách mạng Tháng Mười Nga năm 1917, thời đại mới, chủ nghĩa yêu nước, chủ nghĩa Mác - Lê-nin"
+        },
+        {
+          "id": "C",
+          "content": "Chủ nghĩa yêu nước chân chính, thời đại mới, chủ nghĩa Mác - Lê-nin"
+        },
+        {
+          "id": "D",
+          "content": "Cách mạng Tháng Mười Nga năm 1917, thời đại mới và chủ nghĩa Mác - Lê-nin."
+        }
+      ],
+      "answer": "D",
+      "explain": "Cách mạng Tháng Mười Nga năm 1917 và thời đại mới cũng như chủ nghĩa Mác - Lênin là cơ sở lý luận quyết định bước phát triển mới về chất trong tư tưởng Hồ Chí Minh, khiến Người vượt hẳn lên phía trước so với những người yêu nước cùng thời\"."
+    },
+    {
+      "id": 73,
+      "question": "Đến với chủ nghĩa Mác - Lênin, Hồ Chí Minh đã giải quyết được cuộc khủng hoảng về đường lối cứu nước ở Việt Nam. Do đó, đối với Người, Chủ nghĩa Mác - Lê-nin là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Kim chỉ nam cho mọi hoạt động của Đảng"
+        },
+        {
+          "id": "B",
+          "content": "Thế giới quan, phương pháp luận trong nhận thức và hoạt động cách mạng"
+        },
+        {
+          "id": "C",
+          "content": "Chủ nghĩa chân chính nhất trong số nhiều chủ nghĩa khác"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "B",
+      "explain": "Đối với Hồ Chí Minh, chủ nghĩa Mác - Lênin là thế giới quan, phương pháp luận trong nhận thức và hoạt động cách mạng\"."
+    },
+    {
+      "id": 74,
+      "question": "Với vốn hiểu biết sâu sắc kho tàng tri thức của nhân loại, Hồ Chí Minh đã khẳng định học thuyết của Khổng Tử có ưu điểm là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Lòng nhân ái cao cả"
+        },
+        {
+          "id": "B",
+          "content": "Sự tu dưỡng đạo đức cá nhân"
+        },
+        {
+          "id": "C",
+          "content": "Đức hy sinh"
+        },
+        {
+          "id": "D",
+          "content": "Chính sách phù hợp với nước ta"
+        }
+      ],
+      "answer": "B",
+      "explain": "Hồ Chí Minh vạch rõ: \"Học thuyết Khổng Tử có ưu điểm là sự tu dưỡng đạo đức cá nhân\"."
+    },
+    {
+      "id": 75,
+      "question": "Điều gì đã khiến Hồ Chí Minh sớm nhận thức và có hướng đi đúng để tìm ra con đường cứu nước, giải phóng dân tộc?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Xác định rõ bản chất của chủ nghĩa đế quốc, thực dân"
+        },
+        {
+          "id": "B",
+          "content": "Nhận ra hạn chế của những người đi trước"
+        },
+        {
+          "id": "C",
+          "content": "Cuộc sống nghèo khổ, bị áp bức, bóc lột đến cùng cực của đồng bào mình"
+        },
+        {
+          "id": "D",
+          "content": "Hiểu rõ bản chất của những từ Tự do – Bình đẳng – Bác ái"
+        }
+      ],
+      "answer": "B",
+      "explain": "Giáo trình đề cập: \"Tuy rất khâm phục tinh thần yêu nước của các vị tiền bối cách mạng nổi tiếng... nhưng Người sáng suốt phê phán, không tán thành, không đi theo các phương pháp, khuynh hướng cứu nước của các vị đó. Hồ Chí Minh muốn tìm hiểu những gì ẩn giấu sau sức mạnh của kẻ thù và học hỏi kinh nghiệm cách mạng trên thế giới\"."
+    },
+    {
+      "id": 76,
+      "question": "Tiếp thu truyền thống tốt đẹp của quê hương, gia đình và hiểu rõ tình cảnh nước nhà bị giặc ngoại xâm. Năm 1908, Hồ Chí Minh đã tham gia phong trào gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chống thuế ở Bắc Kỳ"
+        },
+        {
+          "id": "B",
+          "content": "Chống thuế ở Nam kỳ"
+        },
+        {
+          "id": "C",
+          "content": "Chống thuế ở Trung kỳ"
+        },
+        {
+          "id": "D",
+          "content": "Chống thuế ở Phan Thiết"
+        }
+      ],
+      "answer": "C",
+      "explain": "Hồ Chí Minh đã tham gia phong trào chống thuế ở Trung Kỳ (năm 1908)\"."
+    },
+    {
+      "id": 78,
+      "question": "Năm 1919, Hồ Chí Minh gia nhập Đảng Xã hội của giai cấp công nhân Pháp, bởi theo Người đây là một tổ chức như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Theo đuổi lý tưởng cao quý của nền dân chủ Pháp: Mọi người có quyền sống, quyền mưu cầu hạnh phúc"
+        },
+        {
+          "id": "B",
+          "content": "Theo đuổi lý tưởng cao quý của Đại Cách mạng Pháp: Tự do, bình đẳng, bác ái"
+        },
+        {
+          "id": "C",
+          "content": "Theo đuổi lý tưởng cao quý của nền độc lập dân tộc Pháp: Mọi người đều bình đẳng, hạnh phúc, tự do"
+        },
+        {
+          "id": "D",
+          "content": "Theo đuổi lý tưởng cao quý của nền công nghiệp Pháp: Tự do, bình đẳng, bác ái"
+        }
+      ],
+      "answer": "B",
+      "explain": "Năm 1919, Người gia nhập Đảng Xã hội của giai cấp công nhân Pháp, bởi theo Người, đây là tổ chức theo đuổi lý tưởng cao quý của Đại Cách mạng Pháp: Tự do, bình đẳng, bác ái\"."
+    },
+    {
+      "id": 79,
+      "question": "Bản “Yêu sách của nhân dân An Nam” được ký tên Nguyễn Ái Quốc có tiếng nói như thế nào trên diễn đàn quốc tế?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Tiếng nói chân chính của đại biểu phong trào giải phóng dân tộc ở các nước thuộc địa"
+        },
+        {
+          "id": "B",
+          "content": "Tiếng nói chính nghĩa của nhân dân An Nam trong phong trào đấu tranh giải phóng dân tộc"
+        },
+        {
+          "id": "C",
+          "content": "Tiếng nói chính nghĩa đầu tiên của đại biểu phong trào giải phóng dân tộc Việt Nam"
+        },
+        {
+          "id": "D",
+          "content": "Tiếng nói chính nghĩa của đại biểu phương Đông về phong trào đấu tranh giải phóng dân tộc ở các nước"
+        }
+      ],
+      "answer": "C",
+      "explain": "...gửi Yêu sách của nhân dân An Nam tới Hội nghị Vécxây (18-6-1919)... Đây là tiếng nói chính nghĩa đầu tiên của đại biểu phong trào giải phóng dân tộc Việt Nam trên diễn đàn quốc tế\"."
+    },
+    {
+      "id": 80,
+      "question": "Khi nghiên cứu “Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa”(1920) của Lênin, Hồ Chí Minh đã tìm thấy và xác định rõ điều gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Phương hướng đấu tranh giải phóng giai cấp Việt Nam theo con đường cách mạng vô sản"
+        },
+        {
+          "id": "B",
+          "content": "Phương hướng đấu tranh giải phóng dân tộc Việt Nam theo con đường cách mạng vô sản"
+        },
+        {
+          "id": "C",
+          "content": "Phương hướng đấu tranh giải phóng dân tộc Việt Nam theo con đường cách mạng tư sản"
+        },
+        {
+          "id": "D",
+          "content": "Phương hướng đấu tranh giải phóng giai cấp theo con đường cách mạng tư sản"
+        }
+      ],
+      "answer": "B",
+      "explain": "Hồ Chí Minh đã tìm thấy và xác định rõ phương hướng đấu tranh giải phóng dân tộc Việt Nam theo con đường cách mạng vô sản qua nghiên cứu 'Sơ thảo lần thứ nhất những luận cương...'\"."
+    },
+    {
+      "id": 81,
+      "question": "Năm 1922, Hồ Chí Minh sáng lập tờ báo Le Paria (Người cùng khổ) bằng tiếng Pháp gửi đến các thuộc địa của Pháp, trong đó có Đông Dương để nhằm thức tỉnh điều gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Tinh thần giải phóng dân tộc của nhân dân các nước thuộc địa"
+        },
+        {
+          "id": "B",
+          "content": "Tinh thần đoàn kết của nhân dân các nước thuộc địa"
+        },
+        {
+          "id": "C",
+          "content": "Tinh thần chiến đấu của nhân dân các dân tộc thuộc địa"
+        },
+        {
+          "id": "D",
+          "content": "Tinh thần chính nghĩa của nhân dân các dân tộc thuộc địa"
+        }
+      ],
+      "answer": "A",
+      "explain": "...sáng lập báo Le Paria bằng tiếng Pháp... gửi đến các thuộc địa của Pháp, trong đó có Đông Dương, để thức tỉnh tinh thần giải phóng dân tộc của nhân dân các nước thuộc địa\"."
+    },
+    {
+      "id": 82,
+      "question": "Khi tổng kết các cuộc cách mạng của các nước, Hồ Chí Minh vạch rõ cách mạng Việt phải có:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đảng cộng sản kết hợp với chủ nghĩa Mác – Lê-nin và tư tưởng Hồ Chí Minh"
+        },
+        {
+          "id": "B",
+          "content": "Đảng cộng sản và chủ nghĩa Mác – Lê-nin làm cốt đề lãnh đạo; lực lượng cách mạng là toàn thể nhân dân Việt Nam, trong đó nòng cốt là liên minh công nông"
+        },
+        {
+          "id": "C",
+          "content": "Đảng cộng sản kết hợp với chủ nghĩa yêu nước và tư tưởng Hồ Chí Minh"
+        },
+        {
+          "id": "D",
+          "content": "Đảng cộng sản kết hợp với chủ nghĩa Mác – Lê-nin và chủ nghĩa yêu nước chân chính."
+        }
+      ],
+      "answer": "B",
+      "explain": "Hồ Chí Minh vạch rõ cách mạng Việt Nam phải có đảng cộng sản với chủ nghĩa Mác - Lênin làm cốt để lãnh đạo; lực lượng cách mạng giải phóng dân tộc là toàn thể nhân dân Việt Nam trong đó nòng cốt là liên minh công nông\"."
+    },
+    {
+      "id": 83,
+      "question": "Tác phẩm Đường cách mệnh của Hồ Chí Minh được xuất bản năm 1927 ở Quảng Châu, Trung Quốc là bước chuẩn bị như thế nào cho sự ra đời của Đảng Cộng sản Việt Nam?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Về phương hướng, sách lược, tổ chức"
+        },
+        {
+          "id": "B",
+          "content": "Về lực lượng, cách thức, tổ chức"
+        },
+        {
+          "id": "C",
+          "content": "Về tư tưởng, chính trị, tổ chức"
+        },
+        {
+          "id": "D",
+          "content": "Về tư tưởng, phương pháp, tổ chức"
+        }
+      ],
+      "answer": "C",
+      "explain": "Tác phẩm Đường cách mệnh là sự chuẩn bị mọi mặt về chính trị, tư tưởng, tổ chức cho sự ra đời của Đảng Cộng sản Việt Nam\"."
+    },
+    {
+      "id": 84,
+      "question": "Trong thời kỳ 1930-1941, một số người trong Quốc tế Cộng sản và Đảng Cộng sản Việt Nam có những nhìn nhận sai lầm về Hồ Chí Minh như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Do chịu ảnh hưởng của các khuynh hướng trong Quốc tế Cộng sản"
+        },
+        {
+          "id": "B",
+          "content": "Do không nắm vững tình hình các dân tộc thuộc địa và ở Đông Dương"
+        },
+        {
+          "id": "C",
+          "content": "Do chịu sức ép từ Quốc tế Cộng sản về con đường giải phóng dân tộc"
+        },
+        {
+          "id": "D",
+          "content": "Do không nắm được tư tưởng đúng đắn, sáng tạo của Hồ Chí Minh về con đường cách mạng ở các nước thuộc địa"
+        }
+      ],
+      "answer": "B",
+      "explain": "Do không nắm vững tình hình các dân tộc thuộc địa và ở Đông Dương, nên tư tưởng mới mẻ, đúng đắn, sáng tạo của Hồ Chí Minh trong Cương lĩnh chính trị đầu tiên chẳng những không được hiểu và chấp nhận mà còn bị họ phê phán...\"."
+    },
+    {
+      "id": 85,
+      "question": "Nhận thấy thời cuộc có những chuyển biến lớn, Hồ Chí Minh đã gửi thư cho Quốc tế Cộng sản đề nghị vấn đề gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Cho phép tham gia các phong trào cách mạng ở Liên Xô"
+        },
+        {
+          "id": "B",
+          "content": "Cho phép trở về nước trực tiếp tham gia lãnh đạo cách mạng Việt Nam"
+        },
+        {
+          "id": "C",
+          "content": "Cho phép tham gia các cuộc đấu tranh giải phóng dân tộc"
+        },
+        {
+          "id": "D",
+          "content": "Cho phép tham gia thành lập các tổ chức đảng để lãnh đạo cách mạng"
+        }
+      ],
+      "answer": "B",
+      "explain": "Khi Chiến tranh thế giới thứ hai bùng nổ, nhận thấy thời cuộc sẽ có những chuyển biến lớn, nên cần phải trở về nước trực tiếp tham gia lãnh đạo cách mạng Việt Nam, ngày 6-6-1938, Hồ Chí Minh gửi thư cho một lãnh đạo Quốc tế Cộng sản, đề nghị cho phép trở về nước hoạt động...\"."
+    },
+    {
+      "id": 86,
+      "question": "Luận điểm của Hồ Chí Minh: \"Trong lúc này (...). Chúng ta phải đoàn kết lại đánh đổ bọn (...) đặng cứu giống nòi ra khỏi nước sôi lửa nóng\"². Xác định cụm từ còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Quyền dân chủ được đặt lên hàng đầu/ đại địa chủ và tay sai phản động"
+        },
+        {
+          "id": "B",
+          "content": "Quyền lợi dân tộc giải phóng cao hơn hết thảy/ đế quốc và Việt gian"
+        },
+        {
+          "id": "C",
+          "content": "Quyền tự quyết của dân tộc được đặt lên trên hết, trước hết/ đế quốc và Việt gian"
+        },
+        {
+          "id": "D",
+          "content": "Quyền bình đẳng của dân tộc được đề cao nhất/ đế quốc và Việt gian"
+        }
+      ],
+      "answer": "B",
+      "explain": "Trong lúc này quyền lợi dân tộc giải phóng cao hơn hết thảy. Chúng ta phải đoàn kết lại đánh đổ bọn đế quốc và bọn Việt gian đặng cứu giống nòi ra khỏi nước sôi lửa nóng\"."
+    },
+    {
+      "id": 87,
+      "question": "Hồ Chí Minh đọc bản Tuyên ngôn Độc lập. Nước Việt Nam Dân chủ Cộng hòa ra đời đã mở điều gì trong lịch sử dân tộc Việt Nam?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Mở ra một thời đại mới – thời đại độc lập dân tộc gắn liền với chủ nghĩa xã hội"
+        },
+        {
+          "id": "B",
+          "content": "Mở ra một kỷ nguyên mới - kỷ nguyên độc lập dân tộc gắn liền với chủ nghĩa xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Mở ra một chế độ mới - chế độ độc lập dân tộc gắn liền với chủ nghĩa xã hội"
+        },
+        {
+          "id": "D",
+          "content": "Mở ra một đất nước mới - đất nước độc lập dân tộc gắn liền với chủ nghĩa xã hội"
+        }
+      ],
+      "answer": "B",
+      "explain": "Ngày 2-9-1945, Hồ Chí Minh đọc Tuyên ngôn Độc lập. Nước Việt Nam Dân chủ Cộng hoà ra đời, mở ra một kỷ nguyên mới trong lịch sử dân tộc Việt Nam – kỷ nguyên độc lập dân tộc gắn liền với chủ nghĩa xã hội\"."
+    },
+    {
+      "id": 88,
+      "question": "Trong Lời kêu gọi toàn quốc kháng chiến của Hồ Chí Minh ngày 19/12/1946 vừa thể hiện khái quát đường lối kháng chiến chống thực dân Pháp, vừa là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Lời thề thiêng liêng bảo vệ Tổ quốc, với ý chí, quyết tâm thà hy sinh tất cả chứ không chịu mất nước..."
+        },
+        {
+          "id": "B",
+          "content": "Lời thề thiêng liêng về bảo vệ chủ quyền quốc gia dân tộc, với sự quyết tâm đánh đổ đế quốc chủ nghĩa thực dân Pháp trên đất nước ta..."
+        },
+        {
+          "id": "C",
+          "content": "Lời tuyên bố trước toàn thể quốc dân đồng bào, với ý chí quyết tâm giành được độc lập dân tộc"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "A",
+      "explain": "Lời kêu gọi toàn quốc kháng chiến của Hồ Chí Minh ngày 19-12-1946 vừa thể hiện khái quát đường lối kháng chiến chống thực dân Pháp, vừa là lời thề thiêng liêng liêng bảo vệ Tổ quốc của dân tộc Việt Nam, với ý chí, quyết tâm thà hy sinh tất cả chứ không chịu mất nước...\"."
+    },
+    {
+      "id": 89,
+      "question": "Giá trị của tư tưởng Hồ Chí Minh đối với cách mạng Việt Nam là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đưa cách mạng giải phóng dân tộc Việt Nam đến thắng lợi và bắt đầu xây dựng một xã hội mới trên đất nước ta; góp phần mở ra cho các dân tộc thuộc địa con đường giải phóng dân tộc"
+        },
+        {
+          "id": "B",
+          "content": "Đưa cách mạng giải phóng dân tộc Việt Nam đến thắng lợi và bắt đầu xây dựng một xã hội mới trên đất nước ta; là nền tảng tư tưởng và kim chỉ nam cho cách mạng Việt Nam"
+        },
+        {
+          "id": "C",
+          "content": "Là nền tảng tư tưởng và kim chỉ nam cho cách mạng Việt Nam; góp phần mở ra cho các dân tộc thuộc địa con đường giải phóng dân tộc"
+        },
+        {
+          "id": "D",
+          "content": "Góp phần mở ra cho các dân tộc thuộc địa con đường giải phóng dân tộc và góp phần tích cực vào cuộc đấu tranh vì độc lập dân tộc, dân chủ, hòa bình, hợp tác và phát triển trên thế giới."
+        }
+      ],
+      "answer": "B",
+      "explain": "Cấu trúc các tiểu mục phần \"III. Giá trị tư tưởng Hồ Chí Minh\" (mục 1. Đối với cách mạng Việt Nam) xác định rõ 2 ý này là: \"a. Tư tưởng Hồ Chí Minh đưa cách mạng giải phóng dân tộc Việt Nam đến thắng lợi và bắt đầu xây dựng một xã hội mới trên đất nước ta\" và \"b. Tư tưởng Hồ Chí Minh là nền tảng tư tưởng và kim chỉ nam cho cách mạng Việt Nam\"."
+    },
+    {
+      "id": 90,
+      "question": "Giá trị của tư tưởng Hồ Chí Minh đối với sự phát triển tiến bộ của nhân loại là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Góp phần mở ra cho các dân tộc thuộc địa con đường giải phóng dân tộc gắn với sự tiến bộ xã hội; góp phần tích cực vào cuộc đấu tranh vì độc lập dân tộc, dân chủ, hòa bình, hợp tác và phát triển trên thế giới"
+        },
+        {
+          "id": "B",
+          "content": "Là nền tảng, kim chỉ nam cho mọi hành động của Đảng; góp phần mở ra cho các dân tộc thuộc địa con đường giải phóng dân tộc gắn với sự tiến bộ xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Đưa cách mạng giải phóng dân tộc Việt Nam đến thắng lợi và bắt đầu xây dựng một xã hội mới trên đất nước ta; góp phần mở ra cho các dân tộc thuộc địa con đường giải phóng dân tộc"
+        },
+        {
+          "id": "D",
+          "content": "Là nền tảng tư tưởng và kim chỉ nam cho cách mạng Việt Nam; góp phần mở ra cho các dân tộc thuộc địa con đường giải phóng dân tộc, dân chủ, hòa bình, phát triển"
+        }
+      ],
+      "answer": "A",
+      "explain": "Cấu trúc các tiểu mục phần \"III. Giá trị tư tưởng Hồ Chí Minh\" (mục 2. Đối với sự phát triển tiến bộ của nhân loại) xác định rõ 2 giá trị: \"a. Tư tưởng Hồ Chí Minh góp phần mở ra cho các dân tộc thuộc địa con đường giải phóng dân tộc gắn với sự tiến bộ xã hội\" và \"b. Tư tưởng Hồ Chí Minh góp phần tích cực vào cuộc đấu tranh vì độc lập dân tộc, dân chủ, hòa bình, hợp tác và phát triển trên thế giới\"."
+    },
+    {
+      "id": 91,
+      "question": "Chọn phương án đúng nhất với chặng đường hơn một nửa thế kỷ qua, tư tưởng Hồ Chí Minh trở thành:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Kim chỉ nam dẫn dắt cách mạng nước ta đi từ thắng lợi này đến thắng lợi khác"
+        },
+        {
+          "id": "B",
+          "content": "Ngọn cờ tư tưởng dẫn đường cách mạng nước ta đi từ thắng lợi này đến thắng lợi khác"
+        },
+        {
+          "id": "C",
+          "content": "Phương pháp dẫn đường cách mạng nước ta đi từ thắng lợi này đến thắng lợi khác"
+        },
+        {
+          "id": "D",
+          "content": "Giá trị dẫn dắt cách mạng nước ta đi từ thắng lợi này đến thắng lợi khác"
+        }
+      ],
+      "answer": "B",
+      "explain": "Tư tưởng Hồ Chí Minh từ khi ra đời đã trở thành ngọn cờ tư tưởng dẫn đường cách mạng Việt Nam đi từ thắng lợi này đến thắng lợi khác, và chính thực tiễn thắng lợi của cách mạng Việt Nam chứng minh...\"."
+    }
+  ]
+}

@@ -1,0 +1,2382 @@
+{
+  "title": "CHƯƠNG 3",
+  "total_questions": 99,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Năm 1919, Nguyễn Ái Quốc đã nhân danh ai để gửi tới Hội nghị Vécxây bản Yêu sách của nhân dân An Nam?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Những người Việt Nam yêu nước tại Pháp"
+        },
+        {
+          "id": "B",
+          "content": "Những người Việt Nam yêu nước tại Anh"
+        },
+        {
+          "id": "C",
+          "content": "Những người Việt Nam yêu nước tại Trung Quốc"
+        },
+        {
+          "id": "D",
+          "content": "Những người Việt Nam yêu nước tại Việt Nam"
+        }
+      ],
+      "answer": "A",
+      "explain": "...thay mặt nhóm những người Việt Nam yêu nước tại Pháp, Hồ Chí Minh đã gửi tới Hội nghị bản Yêu sách của nhân dân An Nam...\"."
+    },
+    {
+      "id": 2,
+      "question": "Ngày 19/12/1946, trong Lời kêu gọi toàn quốc kháng chiến, Hồ Chí Minh đã thể hiện sự quyết tâm sắt đá, bảo vệ nền độc lập dân tộc mà nhân dân Việt Nam mới giành được là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "“Không có gì quý hơn độc lập, tự do”"
+        },
+        {
+          "id": "B",
+          "content": "“Không! Chúng ta thà hy sinh tất cả, chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ”"
+        },
+        {
+          "id": "C",
+          "content": "“Người ta sinh ra tự do và bình đẳng về quyền lợi, và phải luôn được tự do và bình đẳng về quyền lợi”"
+        },
+        {
+          "id": "D",
+          "content": "“Nước độc lập mà dân không hưởng hạnh phúc tự do, thì độc lập cũng chẳng có nghĩa lý gì”"
+        }
+      ],
+      "answer": "B",
+      "explain": "Lời kêu gọi toàn quốc kháng chiến ngày 19-12-1946, Người ra lời hiệu triệu: “Không! Chúng ta thà hy sinh tất cả, chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ”."
+    },
+    {
+      "id": 3,
+      "question": "Theo Hồ Chí Minh, cách mạng giải phóng dân tộc ở Việt Nam muốn thắng lợi phải đi theo con đường nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Cách mạng tư sản"
+        },
+        {
+          "id": "B",
+          "content": "Cách mạng vô sản"
+        },
+        {
+          "id": "C",
+          "content": "Cách mạng bạo lực"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "B",
+      "explain": "Hồ Chí Minh tìm thấy ở đó con đường cứu nước, giải phóng dân tộc: con đường cách mạng vô sản... “Muốn cứu nước và giải phóng dân tộc không có con đường nào khác con đường cách mạng vô sản”\"."
+    },
+    {
+      "id": 4,
+      "question": "Sau khi đọc bản Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa của Lênin, Hồ Chí Minh đã tìm thấy con đường cứu nước, giải phóng dân tộc. Người đọc bản Sơ thảo này vào năm nào và ở đâu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Năm 1911, ở Anh"
+        },
+        {
+          "id": "B",
+          "content": "Năm 1919, ở Nga"
+        },
+        {
+          "id": "C",
+          "content": "Năm 1920, ở Pháp"
+        },
+        {
+          "id": "D",
+          "content": "Năm 1925, ở Trung Quốc"
+        }
+      ],
+      "answer": "C",
+      "explain": "...qua nghiên cứu Sơ thảo lần thứ nhất những luận cương... vào tháng 7-1920\" (Khi đó Người đang ở Pháp, tham gia Đảng Xã hội Pháp), và \"Năm 1920, sau khi đọc bản Sơ thảo lần thứ nhất... Hồ Chí Minh tìm thấy ở đó con đường cứu nước...\"."
+    },
+    {
+      "id": 5,
+      "question": "Vai trò lãnh đạo của Đảng Cộng sản được Hồ Chí Minh khẳng định là đội tiên phong của giai cấp nào trong sự nghiệp cách mạng?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Tư sản, nhân dân lao động"
+        },
+        {
+          "id": "B",
+          "content": "Công nhân, nhân dân lao động"
+        },
+        {
+          "id": "C",
+          "content": "Đội ngũ trí thức, nhân dân lao động"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "B",
+      "explain": "Đảng Cộng sản vừa là đội tiên phong của giai cấp công nhân vừa là đội tiên phong của nhân dân lao động kiên quyết nhất, hăng hái nhất...\"."
+    },
+    {
+      "id": 6,
+      "question": "Muốn xây dựng chủ nghĩa xã hội, trước hết cần có những con người xã hội chủ nghĩa. Hồ Chí Minh đã giải thích vấn đề này như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Mỗi người cần bồi dưỡng cho mình có ý thức làm chủ, có tinh thần tập thể xã hội chủ nghĩa và tư tưởng “mình vì mọi người, mọi người vì mình”"
+        },
+        {
+          "id": "B",
+          "content": "Có quan điểm “tất cả phục vụ sản xuất”; có ý thức cần kiệm xây dựng nước nhà; có tinh thần tiến nhanh, tiến mạnh, tiến vững chắc…"
+        },
+        {
+          "id": "C",
+          "content": "Phải chống lại những tư tưởng, tác phong xấu là: Chủ nghĩa cá nhân; quan liêu, mệnh lệnh; tham ô, lãng phí; bảo thủ, rụt rè"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Giáo trình liệt kê rõ: \"Có ý thức làm chủ nhà nước, có tinh thần tập thể xã hội chủ nghĩa và tư tưởng “mình vì mọi người, mọi người vì mình”; có quan điểm “tất cả phục vụ sản xuất”; có ý thức cần kiệm xây dựng nước nhà; có tinh thần tiến nhanh, tiến mạnh, tiến vững chắc lên chủ nghĩa xã hội và phải chống lại những tư tưởng, tác phong xấu là: Chủ nghĩa cá nhân; quan liêu, mệnh lệnh; tham ô, lãng phí; bảo thủ, rụt rè\"."
+    },
+    {
+      "id": 7,
+      "question": "Trong thời kỳ đổi mới hiện nay, vận dụng tư tưởng Hồ Chí Minh về chủ nghĩa xã hội đã đạt được những thành tựu to lớn, tuy nhiên vẫn còn phải đối diện với những thách thức, nguy cơ lớn nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Tụt hậu xa hơn về kinh tế so với các nước trong khu vực và trên thế giới"
+        },
+        {
+          "id": "B",
+          "content": "Âm mưu thực hiện “diễn biến hòa bình” của thế lực thù địch nhằm chống phá nước ta; sự tồn tại và những diễn biến phức tạp của tệ quan liêu, tham nhũng, lãng phí"
+        },
+        {
+          "id": "C",
+          "content": "Tình trạng suy thoái về tư tưởng chính trị, đạo đức, lối sống, những biểu hiện “tự diễn biến”, “tự chuyển hóa” trong một bộ phận cán bộ, đảng viên, công chức, viên chức"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Mặc dù không trích xuất trực tiếp liệt kê rõ A, B trong đoạn văn bản nhưng mục, có đề cập việc Đảng ta xác định: \"Tình trạng suy thoái về tư tưởng chính trị, đạo đức, lối sống của một bộ phận không nhỏ cán bộ, đảng viên đã xuất hiện và trở nên nghiêm trọng...\", tự diễn biến, tự chuyển hóa. Theo Văn kiện Đảng và hệ thống câu hỏi chuẩn môn học, các yếu tố A, B, C đều thuộc 4 nguy cơ lớn mà Đảng ta đã nhận định."
+    },
+    {
+      "id": 8,
+      "question": "Chủ nghĩa xã hội là chế độ xã hội có bản chất khác hẳn với các xã hội đã tồn tại trong lịch sử, do đó Hồ Chí Minh khẳng định trong xã hội xã hội chủ nghĩa có những đặc trưng cơ bản trên các lĩnh vực gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Về chính trị; Về kinh tế"
+        },
+        {
+          "id": "B",
+          "content": "Về văn hóa, đạo đức và các quan hệ xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Về chủ thể xây dựng chủ nghĩa xã hội"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Xã hội chủ nghĩa có các đặc trưng cơ bản gồm: \"Thứ nhất, về chính trị... Thứ hai, về kinh tế... Thứ ba, về văn hóa, đạo đức và các quan hệ xã hội... Thứ tư, về chủ thể xây dựng chủ nghĩa xã hội."
+    },
+    {
+      "id": 9,
+      "question": "Với tư cách làm chủ, nhân dân phải làm tròn nhiệm vụ để xây dựng thành công chủ nghĩa xã hội, theo Hồ Chí Minh trong đó mọi người có quyền gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Làm việc, nghỉ ngơi, học tập"
+        },
+        {
+          "id": "B",
+          "content": "Tự do thân thể, ngôn luận, báo chí, hội họp"
+        },
+        {
+          "id": "C",
+          "content": "Tự do tín ngưỡng hoặc không theo tôn giáo nào; có quyền bầu cử, ứng cử"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "...mọi người đều có quyền làm việc; có quyền nghỉ ngơi; có quyền học tập; có quyền tự do thân thể; có quyền tự do ngôn luận, báo chí, hội họp, lập hội, biểu tình; có quyền tự do tín ngưỡng... bầu cử, ứng cử\"."
+    },
+    {
+      "id": 10,
+      "question": "Để đạt được những mục tiêu của chủ nghĩa xã hội, theo Hồ Chí Minh hệ thống động lực thúc đẩy tiến trình cách mạng xã hội chủ nghĩa ở Việt Nam là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Trong quá khứ, hiện tại và tương lai"
+        },
+        {
+          "id": "B",
+          "content": "Vật chất và tinh thần"
+        },
+        {
+          "id": "C",
+          "content": "Nội lực và ngoại lực, v.v... ở tất cả các lĩnh vực như kinh tế, chính trị, văn hóa, khoa học, giáo dục"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "...hệ thống động lực thúc đẩy tiến trình cách mạng xã hội chủ nghĩa rất phong phú, bao hàm những động lực cả trong quá khứ, hiện tại và tương lai; cả về vật chất và tinh thần, nội lực và ngoại lực, v.v. ở tất cả các lĩnh vực như kinh tế, chính trị, văn hóa, khoa học, giáo dục, v.v.\"."
+    },
+    {
+      "id": 11,
+      "question": "Đặc điểm của thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam được Hồ Chí Minh khẳng định là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Từ một nước công nghiệp tiên tiến đi lên CNXH, không trải qua giai đoạn tư bản chủ nghĩa"
+        },
+        {
+          "id": "B",
+          "content": "Từ một nước nông nghiệp lạc hậu tiến thẳng lên CNXH, không trải qua giai đoạn phát triển tư bản chủ nghĩa"
+        },
+        {
+          "id": "C",
+          "content": "Từ một nước có nền kinh tế cao tiến thẳng lên CNXH, không trải qua giai đoạn tư bản chủ nghĩa"
+        },
+        {
+          "id": "D",
+          "content": "Từ một nước có khoa học - kỹ thuật tiên tiến lên CNXH, không trải qua giai đoạn tư bản chủ nghĩa"
+        }
+      ],
+      "answer": "B",
+      "explain": "Đặc điểm lớn nhất của thời kỳ quá độ ở Việt Nam là từ một nước nông nghiệp lạc hậu tiến thẳng lên chủ nghĩa xã hội không phải kinh qua giai đoạn phát triển tư bản chủ nghĩa\"."
+    },
+    {
+      "id": 12,
+      "question": "Nhiệm vụ lịch sử của thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam được Hồ Chí Minh xác định như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Cải tạo, xóa bỏ tàn tích của chế độ xã hội cũ, xây dựng các yếu tố mới phù hợp với quy luật tiến lên CNXH"
+        },
+        {
+          "id": "B",
+          "content": "Thực hiện xây dựng nền văn hóa xã hội chủ nghĩa, phù hợp với nguyện vọng của nhân dân"
+        },
+        {
+          "id": "C",
+          "content": "Xây dựng con người mới của chủ nghĩa xã hội, phù hợp với quy luật tiến lên CNXH"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "A",
+      "explain": "Nhiệm vụ của thời kỳ quá độ: Đấu tranh cải tạo, xóa bỏ tàn tích của chế độ xã hội cũ, xây dựng các yếu tố mới phù hợp với quy luật tiến lên chủ nghĩa xã hội trên tất cả các lĩnh vực của đời sống...\"."
+    },
+    {
+      "id": 13,
+      "question": "Theo Hồ Chí Minh, nguyên tắc xây dựng chủ nghĩa xã hội trong thời kỳ quá độ là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Mọi tư tưởng, hành động phải được thực hiện trên nền tảng chủ nghĩa Mác-Lênin"
+        },
+        {
+          "id": "B",
+          "content": "Phải giữ vững độc lập dân tộc; phải đoàn kết, học tập kinh nghiệm của các nước anh em"
+        },
+        {
+          "id": "C",
+          "content": "Xây phải đi đôi với chống"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Tính năng động, sáng tạo ấy phải tuân thủ các nguyên tắc: \"Thứ nhất, mọi tư tưởng, hành động phải được thực hiện trên nền tảng chủ nghĩa Mác – Lênin... Thứ hai, phải giữ vững độc lập dân tộc... Thứ ba, phải đoàn kết, học tập kinh nghiệm của các nước anh em... Thứ tư, xây phải đi đôi với chống."
+    },
+    {
+      "id": 14,
+      "question": "Năm 1960, Hồ Chí Minh khẳng định: \"Chỉ có chủ nghĩa xã hội, chủ nghĩa cộng sản mới giải phóng được (...) bị áp bức và những (...) trên thế giới khỏi ách (...)\". Xác định cụm từ còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Các giai cấp/ người lao động/ nô lệ"
+        },
+        {
+          "id": "B",
+          "content": "Các dân tộc/ người lao động/ nô lệ"
+        },
+        {
+          "id": "C",
+          "content": "Các xã hội/ người lao động/ nô lệ"
+        },
+        {
+          "id": "D",
+          "content": "Các cá nhân/ người lao động/ nô lệ"
+        }
+      ],
+      "answer": "B",
+      "explain": "Năm 1960, Người khẳng định: chỉ có chủ nghĩa xã hội, chủ nghĩa cộng sản mới giải phóng được các dân tộc bị áp bức và những người lao động trên thế giới khỏi ách nô lệ\"."
+    },
+    {
+      "id": 15,
+      "question": "Theo Hồ Chí Minh, cần có những điều kiện cơ bản nào để bảo đảm độc lập dân tộc gắn liền với chủ nghĩa xã hội?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Phải bảo đảm vai trò lãnh đạo tuyệt đối của đảng cộng sản trong suốt tiến trình cách mạng"
+        },
+        {
+          "id": "B",
+          "content": "Phải củng cố và tăng cường khối đại đoàn kết dân tộc mà nền tảng là khối liên minh công - nông"
+        },
+        {
+          "id": "C",
+          "content": "Phải đoàn kết, gắn bó chặt chẽ với cách mạng thế giới"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Điều kiện cơ bản gồm: \"Một là, phải bảo đảm vai trò lãnh đạo tuyệt đối của đảng cộng sản... Hai là, phải củng cố và tăng cường khối đại đoàn kết dân tộc mà nền tảng là khối liên minh công - nông... Ba là, phải đoàn kết, gắn bó chặt chẽ với cách mạng thế giới."
+    },
+    {
+      "id": 16,
+      "question": "Mục tiêu về văn hóa trong xây dựng CNXH ở Việt Nam, Hồ Chí Minh cho rằng mối quan hệ giữa văn hóa với chính trị và kinh tế là mối quan hệ biện chứng. Do đó, chế độ chính trị và kinh tế của xã hội là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nền tảng và quyết định tính chất của văn hóa; còn văn hóa góp phần thực hiện mục tiêu của chính trị và kinh tế"
+        },
+        {
+          "id": "B",
+          "content": "Nền tảng và quyết định tính chất của văn hóa; còn văn hóa góp phần soi đường cho quốc dân đi"
+        },
+        {
+          "id": "C",
+          "content": "Nền tảng và quyết định tính chất của văn hóa; còn văn hóa góp phần nâng cao trình độ văn hóa của nhân dân"
+        },
+        {
+          "id": "D",
+          "content": "Nền tảng và quyết định tính chất của văn hóa; còn văn hóa phát triển là điều kiện cho nhân dân tiến bộ"
+        }
+      ],
+      "answer": "A",
+      "explain": "Chế độ chính trị và kinh tế của xã hội là nền tảng và quyết định tính chất của văn hóa; còn văn hóa góp phần thực hiện mục tiêu của chính trị và kinh tế\"."
+    },
+    {
+      "id": 17,
+      "question": "Chọn phương án trả lời đúng nhất với tư tưởng Hồ Chí Minh về động lực của chủ nghĩa xã hội ở Việt Nam?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Sức mạnh đại đoàn kết toàn dân"
+        },
+        {
+          "id": "B",
+          "content": "Sức mạnh của nhân dân lao động"
+        },
+        {
+          "id": "C",
+          "content": "Sức mạnh của địa vị nhân dân và các tầng lớp trong xã hội"
+        },
+        {
+          "id": "D",
+          "content": "Sức mạnh lao động sáng tạo của hàng triệu quần chúng nhân dân"
+        }
+      ],
+      "answer": "A",
+      "explain": "Tất cả các động lực đều rất quan trọng... nhưng giữ vai trò quyết định là nội lực dân tộc, là nhân dân nên để thức đẩy tiến trình cách mạng xã hội chủ nghĩa phải đảm bảo lợi ích của dân, dân chủ của dân, sức mạnh đoàn kết toàn dân. Trong tư tưởng Hồ Chí Minh, đây là những động lực hàng đầu của chủ nghĩa xã hội\"."
+    },
+    {
+      "id": 18,
+      "question": "Trong bối cảnh nền kinh tế của nước ta còn nghèo nàn, lạc hậu, Hồ Chí Minh đã xác định nhiệm vụ quan trọng nhất của thời kỳ quá độ là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Xây dựng cơ sở vật chất và phát huy thế mạnh của nền kinh tế gắn công nông nghiệp hiện đại"
+        },
+        {
+          "id": "B",
+          "content": "Huy động sức mạnh của nhân dân trong cải tạo nền kinh tế sau cuộc cách mạng giải phóng dân tộc"
+        },
+        {
+          "id": "C",
+          "content": "Cải tạo nền kinh tế cũ, xây dựng nền kinh tế mới có công nghiệp và nông nghiệp hiện đại"
+        },
+        {
+          "id": "D",
+          "content": "Phát huy hết tài năng, sức lực, của cải của nhân dân vào xây dựng nền kinh tế mới với khoa học kỹ thuật hiện đại"
+        }
+      ],
+      "answer": "C",
+      "explain": "Về kinh tế, trong bối cảnh nền kinh tế của nước ta còn nghèo nàn, kỹ thuật lạc hậu, Hồ Chí Minh xác định nhiệm vụ quan trọng nhất của thời kỳ quá độ là phải cải tạo nền kinh tế cũ, xây dựng nền kinh tế mới có công nghiệp và nông nghiệp hiện đại\"."
+    },
+    {
+      "id": 19,
+      "question": "Chọn phương án trả lời đúng với tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội có mối quan hệ như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chủ nghĩa xã hội quyết định giải phóng dân tộc; giải phóng dân tộc là điều kiện đảm bảo thắng lợi chủ nghĩa xã hội"
+        },
+        {
+          "id": "B",
+          "content": "Độc lập dân tộc là cơ sở, tiền đề để tiến lên CNXH; CNXH là điều kiện đảm bảo nền độc lập dân tộc vững chắc"
+        },
+        {
+          "id": "C",
+          "content": "Độc lập dân tộc và chủ nghĩa xã hội là ngọn cờ dẫn dắt cách mạng giải phóng dân tộc thắng lợi"
+        },
+        {
+          "id": "D",
+          "content": "Chủ nghĩa xã hội là cơ sở, tiền đề để giải phóng dân tộc; giải phóng dân tộc là điều kiện đảm bảo xây dựng chủ nghĩa xã hội"
+        }
+      ],
+      "answer": "B",
+      "explain": "Giáo trình thể hiện ở hai tiểu mục lớn: \"1. Độc lập dân tộc là cơ sở, tiền đề để tiến lên chủ nghĩa xã hội\" và \"2. Chủ nghĩa xã hội là điều kiện để bảo đảm nền độc lập dân tộc vững chắc\"."
+    },
+    {
+      "id": 20,
+      "question": "Khi đề cao mục tiêu độc lập dân tộc, Hồ Chí Minh đã không coi đó là mục tiêu cuối cùng của cách mạng, mà là tiền đề cho:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Cuộc cách mạng xã hội chủ nghĩa"
+        },
+        {
+          "id": "B",
+          "content": "Cuộc cách mạng giải phóng dân tộc"
+        },
+        {
+          "id": "C",
+          "content": "Cách mạng tư sản chủ nghĩa"
+        },
+        {
+          "id": "D",
+          "content": "Cách mạng dân tộc dân chủ nhân dân"
+        }
+      ],
+      "answer": "A",
+      "explain": "Khi đề cao mục tiêu độc lập dân tộc, Hồ Chí Minh không coi đó là mục tiêu cuối cùng của cách mạng, mà là tiền đề cho một cuộc cách mạng tiếp theo - cách mạng xã hội chủ nghĩa\"."
+    },
+    {
+      "id": 21,
+      "question": "Đầu năm 1930, trong Chánh cương vắn tắt của Đảng, Người đã xác định mục tiêu chính trị của Đảng và cách mạng Việt Nam là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đánh đổ bọn phong kiến và đế quốc chủ nghĩa; Làm cho nước Nam bình đẳng hạnh phúc"
+        },
+        {
+          "id": "B",
+          "content": "Đánh đổ đế quốc chủ nghĩa Pháp và bọn phong kiến; Làm cho nước Nam hoàn toàn độc lập"
+        },
+        {
+          "id": "C",
+          "content": "Đánh đổ giai cấp địa chủ và chủ nghĩa đế quốc Pháp; Làm cho nước Nam hòa bình thống nhất"
+        },
+        {
+          "id": "D",
+          "content": "Đánh đổ đế quốc chủ nghĩa Pháp và bè lũ tay sai; Làm cho nước Nam hòa bình, phồn thịnh"
+        }
+      ],
+      "answer": "B",
+      "explain": "Trong Chánh cương vắn tắt của Đảng năm 1930, Hồ Chí Minh cũng đã xác định mục tiêu chính trị của Đảng là: a) Đánh đổ đế quốc chủ nghĩa Pháp và bọn phong kiến. b) Làm cho nước Nam được hoàn toàn độc lập\"."
+    },
+    {
+      "id": 22,
+      "question": "Trong bản Tuyên ngôn Độc lập (1945), Hồ Chí Minh thay mặt Chính phủ lâm thời tuyên bố trước quốc dân đồng bào và thế giới vấn đề gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nước Việt Nam thực sự đã trở thành một nước tự do và độc lập"
+        },
+        {
+          "id": "B",
+          "content": "Nước Việt Nam thực sự đã trở thành một nước thái bình và thịnh trị"
+        },
+        {
+          "id": "C",
+          "content": "Nước Việt Nam thực sự đã trở thành một nước độc lập và tự quyết"
+        },
+        {
+          "id": "D",
+          "content": "Nước Việt Nam thực sự đã trở thành một nước tự do, ấm no, hạnh phúc"
+        }
+      ],
+      "answer": "A",
+      "explain": "Cách mạng Tháng Tám năm 1945 thành công, trong Tuyên ngôn Độc lập... tuyên bố trước quốc dân đồng bào và thế giới rằng: “Nước Việt Nam có quyền hưởng tự do và độc lập, và sự thực đã thành một nước tự do và độc lập\"."
+    },
+    {
+      "id": 23,
+      "question": "Với ý chí quyết tâm thực hiện cuộc kháng chiến chống Pháp và chống Mỹ, trong thư gửi Liên hợp quốc (1946), Hồ Chí Minh đã khẳng định nội dung nào sau đây?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nhân dân chúng tôi cũng kiên quyết chiến đấu đến cùng để bảo vệ những quyền thiêng liêng nhất: hòa bình, thống nhất và độc lập cho dân tộc"
+        },
+        {
+          "id": "B",
+          "content": "Nhân dân chúng tôi cũng kiên quyết chiến đấu đến cùng để bảo vệ những quyền thiêng liêng nhất: hạnh phúc cho dân tộc và độc lập cho quê hương"
+        },
+        {
+          "id": "C",
+          "content": "Nhân dân chúng tôi cũng kiên quyết chiến đấu đến cùng để bảo vệ những quyền thiêng liêng nhất: toàn vẹn lãnh thổ cho Tổ quốc và độc lập cho đất nước"
+        },
+        {
+          "id": "D",
+          "content": "Nhân dân chúng tôi cũng kiên quyết chiến đấu đến cùng để bảo vệ những quyền thiêng liêng nhất: độc lập cho dân tộc và hạnh phúc cho nhân dân"
+        }
+      ],
+      "answer": "C",
+      "explain": "Trong thư gửi Liên hợp quốc năm 1946, một lần nữa Hồ Chí Minh khẳng định: “...Nhân dân chúng tôi cũng kiên quyết chiến đấu đến cùng để bảo vệ những quyền thiêng liêng nhất: toàn vẹn lãnh thổ cho Tổ quốc và độc lập cho đất nước”\"."
+    },
+    {
+      "id": 24,
+      "question": "Khi Mỹ tăng cường mở rộng chiến tranh, Hồ Chí Minh đã nêu lên một chân lý thời đại, một tuyên ngôn bất hủ của các dân tộc khao khát nền độc lập, tự do trên thế giới là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "“Nhân dân chúng tôi kiên quyết chiến đấu đến cùng để bảo vệ những quyền thiêng liêng nhất: Toàn vẹn lãnh thổ cho Tổ quốc và độc lập cho đất nước”"
+        },
+        {
+          "id": "B",
+          "content": "“Nước Việt Nam có quyền hưởng tự do và độc lập, và sự thật đã thành nước tự do và độc lập”"
+        },
+        {
+          "id": "C",
+          "content": "“Không! Chúng ta thà hy sinh tất cả chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ”"
+        },
+        {
+          "id": "D",
+          "content": "“Không có gì quý hơn độc lập, tự do”"
+        }
+      ],
+      "answer": "D",
+      "explain": "Năm 1965, đế quốc Mỹ tăng cường mở rộng chiến tranh... Hồ Chí Minh đã nêu lên một chân lý thời đại, một tuyên ngôn bất hủ của các dân tộc khao khát nền độc lập, tự do trên thế giới “Không có gì quý hơn độc lập, tự do”\"."
+    },
+    {
+      "id": 25,
+      "question": "Khi viện dẫn bản Tuyên ngôn Nhân quyền và Dân quyền của Cách mạng Pháp (1791), “người ta sinh ra tự do và bình đẳng về quyền lợi, và phải luôn được tự do và bình đẳng về quyền lợi” Hồ Chí Minh đã kết luận thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đó là lẽ phải thuộc về quyền của mỗi người"
+        },
+        {
+          "id": "B",
+          "content": "Đó là lẽ phải không ai chối cãi được"
+        },
+        {
+          "id": "C",
+          "content": "Đó là lẽ phải thuộc về quyền độc lập, tự do của các dân tộc"
+        },
+        {
+          "id": "D",
+          "content": "Đó là lẽ phải mà tất cả các dân tộc đều được hưởng"
+        }
+      ],
+      "answer": "B",
+      "explain": "...Hồ Chí Minh khẳng định dân tộc Việt Nam đương nhiên cũng phải được tự do và bình đẳng về quyền lợi. “Đó là lẽ phải không ai chối cãi được”\"."
+    },
+    {
+      "id": 26,
+      "question": "Hồ Chí Minh khẳng định: “Nước độc lập mà (...), thì độc lập cũng chẳng có nghĩa lý gì”. Xác định cụm từ còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Dân không làm những điều mình muốn"
+        },
+        {
+          "id": "B",
+          "content": "Dân không hưởng hạnh phúc tự do"
+        },
+        {
+          "id": "C",
+          "content": "Dân không được quyền thực hiện tự do ngôn luận"
+        },
+        {
+          "id": "D",
+          "content": "Dân không hưởng quyền bình đẳng tự do"
+        }
+      ],
+      "answer": "B",
+      "explain": "Tổng khởi nghĩa Tháng Tám năm 1945 thành công, nước nhà được độc lập và một lần nữa Hồ Chí Minh khẳng định độc lập phải gắn với tự do. Người nói: “Nước độc lập mà dân không hưởng hạnh phúc tự do, thì độc lập cũng chẳng có nghĩa lý gì”\"."
+    },
+    {
+      "id": 27,
+      "question": "Hồ Chí Minh nhấn mạnh: Độc lập mà người dân không có quyền tự quyết về ngoại giao, không có quân đội riêng, không có nền tài chính riêng..., thì độc lập đó chẳng có ý nghĩa gì, nhằm khẳng định độc lập phải như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Độc lập hoàn toàn, độc lập triệt để và tự quyết trên tất cả các lĩnh vực"
+        },
+        {
+          "id": "B",
+          "content": "Độc lập thật sự, độc lập thống nhất và bình đẳng trên tất cả các lĩnh vực"
+        },
+        {
+          "id": "C",
+          "content": "Độc lập chủ quyền, toàn vẹn lãnh thổ và liên hiệp trên tất cả các lĩnh vực"
+        },
+        {
+          "id": "D",
+          "content": "Độc lập thật sự, độc lập hoàn toàn và triệt để trên tất cả các lĩnh vực"
+        }
+      ],
+      "answer": "D",
+      "explain": "Theo Hồ Chí Minh, độc lập dân tộc phải là độc lập thật sự, hoàn toàn và triệt để trên tất cả các lĩnh vực\"."
+    },
+    {
+      "id": 28,
+      "question": "Khi thực dân Pháp bày ra cái gọi là “Nam kỳ tự trị” hòng chia cắt đất nước ta một lần nữa, trong hoàn cảnh đó, Hồ Chí Minh đã khẳng định điều gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đồng bào Nam bộ là dân nước Việt Nam, sông có thể cạn, núi có thể mòn, song chân lý đó không bao giờ thay đổi"
+        },
+        {
+          "id": "B",
+          "content": "Đồng bào Nam bộ là dân nước Việt Nam, sông có thể rộng, núi có thể cao, song chân lý đó không bao giờ thay đổi"
+        },
+        {
+          "id": "C",
+          "content": "Đồng bào Nam bộ là dân nước Việt Nam, sông có thể bồi lấp, núi có thể sạt lở, song chân lý ấy không bao giờ thay đổi"
+        },
+        {
+          "id": "D",
+          "content": "Đồng bào Nam bộ là dân nước Việt Nam, sông có thể sâu, núi có thể cao, song chân lý ấy là mãi mãi"
+        }
+      ],
+      "answer": "A",
+      "explain": "...trong bức Thư gửi đồng bào Nam Bộ (1946), Hồ Chí Minh khẳng định: “Đồng bào Nam Bộ là dân nước Việt Nam. Sông có thể cạn, núi có thể mòn, song chân lý đó không bao giờ thay đổi”\"."
+    },
+    {
+      "id": 29,
+      "question": "Thành công của cuộc cách mạng tháng 10 Nga (1917) đã ảnh hưởng sâu sắc tới Hồ Chí Minh trong việc lựa chọn con đường cứu nước, giải phóng dân tộc. Người đã nhận định như thế nào về cuộc cách mạng này?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đây là cuộc cách mạng thành công đến nơi, nghĩa là dân chúng được hưởng quyền tự quyết, bình đẳng, dân chủ thật sự..."
+        },
+        {
+          "id": "B",
+          "content": "Đây là cuộc cách mạng thành công đến nơi, nghĩa là dân chúng được quyền trao đổi, giao lưu, học hỏi, bình đẳng thật sự..."
+        },
+        {
+          "id": "C",
+          "content": "Đây là cuộc cách mạng thành công đến nơi, nghĩa là dân chúng được hưởng hạnh phúc, tự do, bình đẳng thật sự..."
+        },
+        {
+          "id": "D",
+          "content": "Đây là cuộc cách mạng thành công đến nơi, nghĩa là dân chúng được hưởng quyền sung sướng, tự do, hạnh phúc thật sự..."
+        }
+      ],
+      "answer": "C",
+      "explain": "Người cho rằng: “Trong thế giới bây giờ chỉ có cách mệnh Nga là đã thành công và thành công đến nơi, nghĩa là dân chúng được hưởng cái hạnh phúc tự do, bình đẳng thật...\"."
+    },
+    {
+      "id": 30,
+      "question": "Trong bài viết Con đường dẫn tôi đến chủ nghĩa Lênin (1960), Hồ Chí Minh đã nhận định như thế nào về Luận cương của Lênin?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đây là cái cần thiết, là con đường dẫn chúng ta đi tới thắng lợi"
+        },
+        {
+          "id": "B",
+          "content": "Đây là cái cần thiết cho chúng ta, là con đường giải phóng chúng ta"
+        },
+        {
+          "id": "C",
+          "content": "Đây là cái cần thiết, là mục tiêu giải phóng dân tộc ta"
+        },
+        {
+          "id": "D",
+          "content": "Đây là cái cần thiết, là con đường thành công của cách mạng"
+        }
+      ],
+      "answer": "B",
+      "explain": "Hỡi đồng bào bị đọa đày đau khổ! Đây là cái cần thiết cho chúng ta, đây là con đường giải phóng chúng ta”\"."
+    },
+    {
+      "id": 31,
+      "question": "Trong Chánh cương vắn tắt của Đảng năm 1930, Hồ Chí Minh khẳng định phương hướng chiến lược của cách mạng Việt Nam là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Làm tư sản dân quyền cách mạng và những vấn đề của cách mạng để đi tới xã hội chủ nghĩa"
+        },
+        {
+          "id": "B",
+          "content": "Làm cuộc cải cách ruộng đất cho dân cày nghèo và tập trung nguồn lực xây dựng chủ nghĩa xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Làm tư sản dân quyền cách mạng và giải phóng các giai tầng trong xã hội để đi tới xã hội cộng sản"
+        },
+        {
+          "id": "D",
+          "content": "Làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản"
+        }
+      ],
+      "answer": "D",
+      "explain": "Hồ Chí Minh đã khẳng định phương hướng chiến lược cách mạng nước ta là: làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản\"."
+    },
+    {
+      "id": 32,
+      "question": "Trong bản Yêu sách của nhân dân An Nam, Hồ Chí Minh đã đề nghị cho người An Nam cũng được hưởng quyền lợi gì như người dân ở Châu Âu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Quyền tự quyết về chế độ dân chủ và các quyền tự do, ngôn luận của nhân dân"
+        },
+        {
+          "id": "B",
+          "content": "Quyền độc lập về mặt pháp lý và các quyền tự do, hạnh phúc của nhân dân"
+        },
+        {
+          "id": "C",
+          "content": "Quyền bình đẳng về mặt pháp lý và các quyền tự do, dân chủ của người dân"
+        },
+        {
+          "id": "D",
+          "content": "Quyền liên hiệp về mặt pháp lý và các quyền tự do hội họp của người dân"
+        }
+      ],
+      "answer": "C",
+      "explain": "...với hai nội dung chính là đòi quyền bình đẳng về mặt pháp lý và đòi các quyền tự do, dân chủ\"."
+    },
+    {
+      "id": 33,
+      "question": "Khi tiếp thu bản Tuyên ngôn Độc lập của Mỹ (1776), Tuyên ngôn Nhân quyền và Dân quyền của Pháp (1791), Hồ Chí Minh đã khẳng định giá trị thiêng liêng, bất biến về quyền dân tộc như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "“Trong lúc này quyền lợi dân tộc giải phóng cao hơn hết thảy”"
+        },
+        {
+          "id": "B",
+          "content": "“Dù phải hy sinh tới đâu, dù phải đốt cháy cả dãy Trường sơn cũng phải kiên quyết giành cho được độc lập”"
+        },
+        {
+          "id": "C",
+          "content": "“Nước Việt Nam có quyền hưởng tự do và độc lập, và sự thật đã thành một nước tự do và độc lập”"
+        },
+        {
+          "id": "D",
+          "content": "“Tất cả các dân tộc trên thế giới đều sinh ra bình đẳng, dân tộc nào cũng có quyền sống, quyền sung sướng và quyền tự do”"
+        }
+      ],
+      "answer": "D",
+      "explain": "...Hồ Chí Minh tiếp tục khẳng định những giá trị thiêng liêng, bất biến về quyền dân tộc: “Tất cả các dân tộc trên thế giới đều sinh ra bình đẳng, dân tộc nào cũng có quyền sống, quyền sung sướng và quyền tự do”\"."
+    },
+    {
+      "id": 34,
+      "question": "Theo Hồ Chí Minh, cách mạng giải phóng dân tộc trong điều kiện của Việt Nam muốn giành được thắng lợi phải do tổ chức nào lãnh đạo?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đảng Cộng sản lãnh đạo"
+        },
+        {
+          "id": "B",
+          "content": "Đảng nhân dân cách mạng"
+        },
+        {
+          "id": "C",
+          "content": "Đảng Công nhân xã hội dân chủ"
+        },
+        {
+          "id": "D",
+          "content": "Đảng vô sản kiểu mới"
+        }
+      ],
+      "answer": "A",
+      "explain": "Mục 2.b \"Cách mạng giải phóng dân tộc, trong điều kiện của Việt Nam, muốn thắng lợi phải do đảng cộng sản lãnh đạo\"."
+    },
+    {
+      "id": 35,
+      "question": "Khi kế thừa tư tưởng của các nhà lý luận Mác-Lênin về cách mạng là sự nghiệp của quần chúng nhân dân, Hồ Chí Minh đã khẳng định như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "“Chỉ có giải phóng giai cấp vô sản thì mới giải phóng được dân tộc”"
+        },
+        {
+          "id": "B",
+          "content": "“Công cuộc giải phóng anh em chỉ có thể thực hiện được bằng sự nỗ lực của bản thân anh em”"
+        },
+        {
+          "id": "C",
+          "content": "“Sự giải phóng của giai cấp công nhân phải là sự nghiệp của bản thân giai cấp công nhân”"
+        },
+        {
+          "id": "D",
+          "content": "“Cách mạng là việc chung cả dân chúng chứ không phải việc một hai người”"
+        }
+      ],
+      "answer": "D",
+      "explain": "Kế thừa tư tưởng các nhà lý luận nói trên... Người khẳng định: “cách mệnh là việc chung cả dân chúng chứ không phải việc một hai người”\"."
+    },
+    {
+      "id": 36,
+      "question": "Trong Lời kêu gọi toàn quốc kháng chiến (12-1946), Hồ Chí Minh viết: “Bất kỳ đàn ông, đàn bà, (...). Hễ là người Việt Nam thì phải đứng lên đánh thực dân Pháp để cứu Tổ quốc”. Xác định cụm từ còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Bất kỳ người già, người trẻ, không chia tôn giáo, đảng phái"
+        },
+        {
+          "id": "B",
+          "content": "Bất kỳ người già, thanh niên, phân chia tôn giáo, bè phái"
+        },
+        {
+          "id": "C",
+          "content": "Bất kỳ người già, trẻ nhỏ, không phân chia tôn giáo, đảng phái"
+        },
+        {
+          "id": "D",
+          "content": "Bất kỳ người già, phụ nữ, không phân chia tôn giáo, đảng phái"
+        }
+      ],
+      "answer": "A",
+      "explain": "Bất kỳ đàn ông, đàn bà, bất kỳ người già, người trẻ, không chia tôn giáo, đảng phái, dân tộc. Hễ là người Việt Nam thì phải đứng lên đánh thực dân Pháp để cứu Tổ quốc”."
+    },
+    {
+      "id": 37,
+      "question": "Khi khẳng định về mối quan hệ bình đẳng trong cuộc cách mạng ở thuộc địa và chính quốc, Hồ Chí Minh đã lấy hình tượng nào sau đây để miêu tả về chủ nghĩa tư bản?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Con chim đại bàng"
+        },
+        {
+          "id": "B",
+          "content": "Con sam"
+        },
+        {
+          "id": "C",
+          "content": "Con bạch tuộc"
+        },
+        {
+          "id": "D",
+          "content": "Con đỉa có hai vòi"
+        }
+      ],
+      "answer": "D",
+      "explain": "Trong tác phẩm Bản án chế độ thực dân Pháp (1925), Người cũng viết: “Chủ nghĩa tư bản là một con đỉa có một cái vòi bám vào giai cấp vô sản ở chính quốc và một cái vòi khác bám vào giai cấp vô sản ở thuộc địa...\"\"."
+    },
+    {
+      "id": 38,
+      "question": "Tại Đại hội V của Quốc tế Cộng sản (1924), Hồ Chí Minh đã phát biểu để “thức tỉnh…về vấn đề thuộc địa” và Người cho rằng:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nọc độc và sức sống của con rắn độc tư bản chủ nghĩa đang tập trung ở các nước thuộc địa"
+        },
+        {
+          "id": "B",
+          "content": "Sức sống mãnh liệt của các nước tư bản chủ nghĩa đều tập trung ở các nước thuộc địa"
+        },
+        {
+          "id": "C",
+          "content": "Chủ nghĩa tư bản là con đại bàng chuyên đi xâm chiếm, khai thác vơ vét các nước thuộc địa"
+        },
+        {
+          "id": "D",
+          "content": "Nọc độc và sức sống của chủ nghĩa tư bản đang tập trung ở chính các nước chính quốc"
+        }
+      ],
+      "answer": "A",
+      "explain": "Tại Đại hội V Quốc tế Cộng sản... Người cho rằng: “nọc độc và sức sống của con rắn độc tư bản chủ nghĩa đang tập trung ở các thuộc địa hơn là ở chính quốc”\"."
+    },
+    {
+      "id": 39,
+      "question": "Việc xác định hình thức đấu tranh phải “tùy tình hình cụ thể mà quyết định những hình thức đấu tranh cách mạng thích hợp, sử dụng (...) các hình thức đấu tranh vũ trang và đấu tranh chính trị để (...)”. Xác định cụm từ còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nhanh và triệt để/ giành thắng lợi cho cách mạng"
+        },
+        {
+          "id": "B",
+          "content": "Linh hoạt và khéo/ giành thắng lợi cho cách mạng"
+        },
+        {
+          "id": "C",
+          "content": "Đúng và khéo kết hợp/ giành thắng lợi cho cách mạng"
+        },
+        {
+          "id": "D",
+          "content": "Hiệu quả và nhanh/ giành thắng lợi cho cách mạng"
+        }
+      ],
+      "answer": "C",
+      "explain": "Tuỳ tình hình cụ thể mà quyết định những hình thức đấu tranh cách mạng thích hợp, sử dụng đúng và khéo kết hợp các hình thức đấu tranh vũ trang và đấu tranh chính trị để giành thắng lợi cho cách mạng”."
+    },
+    {
+      "id": 40,
+      "question": "Tiến lên chủ nghĩa xã hội là một tất yếu khách quan, tuy nhiên ngay từ năm 1953 Hồ Chí Minh đã khẳng định phải tùy thuộc vào hoàn cảnh mà các dân tộc phát triển theo con đường khác nhau là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Có nước đi thẳng lên chủ nghĩa xã hội; có nước phải phát triển qua con đường tư bản rồi mới tiến lên chủ nghĩa xã hội"
+        },
+        {
+          "id": "B",
+          "content": "Có nước thì đi thẳng lên chủ nghĩa xã hội; có nước thì phải kinh qua chế độ dân chủ mới rồi mới tiến lên chủ nghĩa xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Có nước đi thẳng lên chủ nghĩa xã hội; có nước phải kinh qua con đường phong kiến rồi mới tiến lên chủ nghĩa xã hội"
+        },
+        {
+          "id": "D",
+          "content": "Có nước đi thẳng lên chủ nghĩa xã hội; có nước phải kinh qua con đường chiếm hữu nô lệ rồi mới tiến lên chủ nghĩa xã hội"
+        }
+      ],
+      "answer": "B",
+      "explain": "Tùy hoàn cảnh, mà các dân tộc phát triển theo con đường khác nhau. Có nước thì đi thẳng đến chủ nghĩa xã hội như Liên Xô. Có nước thì phải kinh qua chế độ dân chủ mới, rồi tiến lên chủ nghĩa xã hội như các nước Đông Âu, Trung Quốc, Việt Nam ta\"."
+    },
+    {
+      "id": 41,
+      "question": "Luận điểm nào sau đây thể hiện quan điểm của Hồ Chí Minh về thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam?",
+      "options": [
+        {
+          "id": "A",
+          "content": "“Chủ nghĩa xã hội là làm sao cho dân giàu nước mạnh”"
+        },
+        {
+          "id": "B",
+          "content": "“Chủ nghĩa xã hội là mọi người cùng ra sức lao động sản xuất để được ăn no mặc ấm và có nhà ở sạch sẽ”"
+        },
+        {
+          "id": "C",
+          "content": "Đảng phải “lãnh đạo toàn dân thực hiện dân chủ mới, xây dựng điều kiện để tiến lên chủ nghĩa xã hội”"
+        },
+        {
+          "id": "D",
+          "content": "“Chủ nghĩa xã hội là mọi người dân được áo ấm cơm no, nhà ở tử tế, được học hành”"
+        }
+      ],
+      "answer": "C",
+      "explain": "Chế độ dân chủ mới là chế độ dưới sự lãnh đạo của Đảng và giai cấp công nhân, nhân dân đã đánh đổ đế quốc và phong kiến... nhân dân dân chủ chuyên chính...\" phù hợp với việc \"kinh qua chế độ dân chủ mới, rồi tiến lên chủ nghĩa xã hội\"."
+    },
+    {
+      "id": 42,
+      "question": "Dựa trên các nguyên tắc có tính chất phương pháp luận về xây dựng chủ nghĩa xã hội, Hồ Chí Minh đã chỉ đạo biện pháp cơ bản nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đem của dân, tài dân, sức dân làm lợi cho dân"
+        },
+        {
+          "id": "B",
+          "content": "Đem sức mạnh văn hóa làm động lực cơ bản"
+        },
+        {
+          "id": "C",
+          "content": "Đem sức mạnh kinh tế làm động lực cơ bản"
+        },
+        {
+          "id": "D",
+          "content": "Tận dụng tối đa sức mạnh đoàn kết quốc tế để xây dựng chủ nghĩa xã hội"
+        }
+      ],
+      "answer": "A",
+      "explain": "Hồ Chí Minh chủ trương phát huy động lực của toàn dân, \"đem của dân, tài dân, sức dân làm lợi cho dân\" nhằm đem lại lợi ích cho nhân dân, (Đây là kiến thức chuẩn nền tảng của môn học, đúc kết việc phát huy sức mạnh nhân dân thành biện pháp)."
+    },
+    {
+      "id": 43,
+      "question": "Chọn phương án sai với quan điểm Hồ Chí Minh về phương thức tiến lên chủ nghĩa xã hội?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Những nước nông nghiệp, công nghiệp lạc hậu, khoa học kỹ thuật kém phát triển"
+        },
+        {
+          "id": "B",
+          "content": "Những nước có nền kinh tế nghèo nàn, lạc hậu tiến thẳng lên CNXH không qua giai đoạn phát triển tư bản chủ nghĩa"
+        },
+        {
+          "id": "C",
+          "content": "Những nước đã qua giai đoạn phát triển tư bản chủ nghĩa sẽ “đi thẳng” lên CNXH;"
+        },
+        {
+          "id": "D",
+          "content": "Những nước chưa qua giai đoạn phát triển tư bản chủ nghĩa có thể đi lên CNXH sau khi đã “đánh đổ đế quốc và phong kiến” dưới sự lãnh đạo của Đảng và tư tưởng của Mác – Lênin dẫn đường"
+        }
+      ],
+      "answer": "A",
+      "explain": "Câu (A) không phải là một phương thức/cách thức để đi lên Chủ nghĩa xã hội mà chỉ là một cụm từ miêu tả đặc điểm. Phương án B, C, D đều phản ánh đúng các phương thức \"đi thẳng\" hoặc \"kinh qua dân chủ mới\"."
+    },
+    {
+      "id": 44,
+      "question": "Đặc trưng trên lĩnh vực chính trị được Hồ Chí Minh khẳng định là chế độ xã hội như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Do giai cấp nông dân làm chủ"
+        },
+        {
+          "id": "B",
+          "content": "Do nhân dân làm chủ"
+        },
+        {
+          "id": "C",
+          "content": "Do giai cấp công nhân làm chủ"
+        },
+        {
+          "id": "D",
+          "content": "Do tầng lớp trí thức làm chủ"
+        }
+      ],
+      "answer": "B",
+      "explain": "Thứ nhất, về chính trị: Xã hội xã hội chủ nghĩa là xã hội có chế độ dân chủ... do nhân dân làm chủ, nhân dân là chủ\"."
+    },
+    {
+      "id": 46,
+      "question": "Hồ Chí Minh khẳng định trong CNXH, mọi quyền lợi, quyền lực, quyền hạn thuộc về nhân dân và mọi hoạt động (...) cũng thuộc về nhân dân. Xác định cụm từ còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Xây dựng, bảo vệ đất nước, bảo vệ chế độ xã hội"
+        },
+        {
+          "id": "B",
+          "content": "Xây dựng, phát triển kinh tế, bảo vệ chủ quyền"
+        },
+        {
+          "id": "C",
+          "content": "Xây dựng, phát triển văn hóa, bảo vệ độc lập"
+        },
+        {
+          "id": "D",
+          "content": "Xây dựng, phát triển xã hội, bảo vệ nền tảng tư tưởng"
+        }
+      ],
+      "answer": "A",
+      "explain": "Mọi quyền lợi, quyền lực, quyền hạn thuộc về nhân dân và mọi hoạt động xây dựng, bảo vệ đất nước, bảo vệ chế độ xã hội cũng thuộc về nhân dân\"."
+    },
+    {
+      "id": 47,
+      "question": "Theo Hồ Chí Minh, CNXH là chế độ xã hội có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chế độ công hữu về tư liệu sản xuất chủ yếu"
+        },
+        {
+          "id": "B",
+          "content": "Chế độ tư hữu về tư liệu sản xuất chủ yếu"
+        },
+        {
+          "id": "C",
+          "content": "Chế độ công hữu và tư hữu về tư liệu sản xuất chủ yếu"
+        },
+        {
+          "id": "D",
+          "content": "Chế độ công hữu về tư liệu sản xuất không chủ yếu"
+        }
+      ],
+      "answer": "A",
+      "explain": "Thứ hai, về kinh tế: Xã hội xã hội chủ nghĩa là xã hội có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và chế độ công hữu về tư liệu sản xuất chủ yếu\"."
+    },
+    {
+      "id": 48,
+      "question": "Mục tiêu về chế độ chính trị trong xây dựng chủ nghĩa xã hội ở Việt Nam theo Hồ Chí Minh là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Phải xây dựng được chế độ dân chủ"
+        },
+        {
+          "id": "B",
+          "content": "Phải xây dựng được Mặt trận dân chủ"
+        },
+        {
+          "id": "C",
+          "content": "Phải xây dựng được nền văn hóa dân chủ"
+        },
+        {
+          "id": "D",
+          "content": "Phải xây dựng được hệ thống chính trị dân chủ"
+        }
+      ],
+      "answer": "A",
+      "explain": "Mục tiêu về chế độ chính trị: Phải xây dựng được chế độ dân chủ. Chế độ dân chủ trong mục tiêu của chủ nghĩa xã hội ở Việt Nam được Hồ Chí Minh khẳng định và giải thích...\"."
+    },
+    {
+      "id": 49,
+      "question": "Khi khái quát về mục tiêu kinh tế của chủ nghĩa xã hội ở Việt Nam, Hồ Chí Minh xác định phải là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Có nền kinh tế phát triển cao dựa trên lực lượng sản xuất và quan hệ sản xuất tiến bộ, khoa học kỹ thuật hiện đại"
+        },
+        {
+          "id": "B",
+          "content": "Có nền kinh tế phát triển cao với công nghiệp và nông nghiệp hiện đại, khoa học kỹ thuật tiên tiến"
+        },
+        {
+          "id": "C",
+          "content": "Có nền kinh tế phát triển gắn với việc thực hiện đầy đủ quyền làm chủ của nhân dân"
+        },
+        {
+          "id": "D",
+          "content": "Có nền kinh tế hiện đại với chế độ công hữu về tư liệu sản xuất tiên tiến"
+        }
+      ],
+      "answer": "B",
+      "explain": "...Đây phải là nền kinh tế phát triển cao “với công nghiệp và nông nghiệp hiện đại, khoa học kỹ thuật tiên tiến”\"."
+    },
+    {
+      "id": 50,
+      "question": "Trong hoàn cảnh một nước thuộc địa, Hồ Chí Minh khẳng định mục tiêu hàng đầu của cuộc cách mạng giải phóng dân tộc là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đấu tranh giải phóng giai cấp, giải phóng dân tộc, thành lập nhà nước dân tộc độc lập"
+        },
+        {
+          "id": "B",
+          "content": "Đấu tranh chống chủ nghĩa thực dân, giành độc lập dân tộc, thành lập nhà nước dân tộc độc lập"
+        },
+        {
+          "id": "C",
+          "content": "Đấu tranh chống lại các thế lực thù địch, giành quyền tự quyết cho dân tộc, thành lập nhà nước dân tộc độc lập"
+        },
+        {
+          "id": "D",
+          "content": "Đấu tranh, lên án chế độ khai thác thuộc địa của chế độ thực dân, đòi quyền dân chủ cho nhân dân An Nam"
+        }
+      ],
+      "answer": "B",
+      "explain": "...nhưng xuất phát từ một nước thuộc địa, Hồ Chí Minh không coi hai nhiệm vụ đó nhất loạt phải thực hiện ngang nhau, mà đặt lên hàng đầu nhiệm vụ chống đế quốc, giải phóng dân tộc...\"."
+    },
+    {
+      "id": 51,
+      "question": "Hồ Chí Minh đặc biệt quan tâm đến vấn đề độc lập dân tộc ở các nước thuộc địa, vì độc lập, tự do có giá trị như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Là quyền thiêng liêng, bất khả xâm phạm của tất cả các dân tộc"
+        },
+        {
+          "id": "B",
+          "content": "Là quyền tự quyết dân tộc, bất khả xâm phạm của tất cả các dân tộc"
+        },
+        {
+          "id": "C",
+          "content": "Là quyền bình đẳng dân tộc, bất khả xâm phạm của tất cả các dân tộc"
+        },
+        {
+          "id": "D",
+          "content": "Là quyền liên hiệp dân tộc, bất khả xâm phạm của tất cả các dân tộc"
+        }
+      ],
+      "answer": "A",
+      "explain": "Độc lập, tự do là quyền thiêng liêng, bất khả xâm phạm của tất cả các dân tộc."
+    },
+    {
+      "id": 52,
+      "question": "Hồ Chí Minh đã thể hiện khát vọng lớn lao nào trong quá trình tìm con đường cứu nước, giải phóng dân tộc?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Hạnh phúc cho đồng bào, cơm no áo ấm cho nhân dân"
+        },
+        {
+          "id": "B",
+          "content": "Quyền tự quyết cho dân tộc"
+        },
+        {
+          "id": "C",
+          "content": "Tự do cho đồng bào, độc lập cho Tổ quốc"
+        },
+        {
+          "id": "D",
+          "content": "Quyền bình đẳng dân tộc, dân chủ cho nhân dân"
+        }
+      ],
+      "answer": "C",
+      "explain": "Người nói rằng, cái mà tôi cần nhất trên đời là đồng bào tôi được tự do, Tổ quốc tôi được độc lập\"."
+    },
+    {
+      "id": 53,
+      "question": "Hồ Chí Minh đã vận dụng sáng tạo con đường cách mạng vô sản ở châu Âu vào điều kiện cách mạng của Việt Nam như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đó là người đặt nhiệm vụ giải phóng giai cấp lên trên hết, trước hết"
+        },
+        {
+          "id": "B",
+          "content": "Đó là người đặt nhiệm vụ giành ruộng đất cho người cày lên trên hết"
+        },
+        {
+          "id": "C",
+          "content": "Đó là người đặt nhiệm vụ đánh đổ phong kiến lên trên hết"
+        },
+        {
+          "id": "D",
+          "content": "Đó là Người đặt nhiệm vụ giải phóng dân tộc lên trên hết, trước hết"
+        }
+      ],
+      "answer": "D",
+      "explain": "...Hồ Chí Minh, thì ở Việt Nam và các nước thuộc địa do hoàn cảnh lịch sử - chính trị khác với châu Âu nên phải là: giải phóng dân tộc - giải phóng xã hội - giải phóng giai cấp - giải phóng con người\"."
+    },
+    {
+      "id": 54,
+      "question": "Trong các luận điểm sau, luận điểm nào là của Hồ Chí Minh phân tích về cách mạng giải phóng dân tộc?",
+      "options": [
+        {
+          "id": "A",
+          "content": "“Sự đoàn kết giữa lực lượng các nước xã hội chủ nghĩa và sự đoàn kết nhất trí giữa các đảng cộng sản và công nhân tất cả các nước có ý nghĩa quan trọng bậc nhất”"
+        },
+        {
+          "id": "B",
+          "content": "“Phàm làm việc gì cũng vậy, bất kỳ lớn bé, khó dễ, nếu không ra sức thì chắc không thành công...việc giải phóng gông cùm nô lệ cho đồng bào, cho nhân loại”"
+        },
+        {
+          "id": "C",
+          "content": "Phải “cụ thể hóa chủ nghĩa Mác-Lênin cho thích hợp với điều kiện hoàn cảnh từng lúc và từng nơi”."
+        },
+        {
+          "id": "D",
+          "content": "“Muốn được dân yêu, muốn được lòng dân, trước hết phải yêu dân, phải đặt quyền lợi của dân trên hết thảy, phải có một tinh thần chí công vô tư”"
+        }
+      ],
+      "answer": "B",
+      "explain": "Luận điểm phản ánh sức mạnh tự lực giải phóng và tính quyết liệt của công cuộc cách mạng giành độc lập. Phù hợp với \"công cuộc giải phóng anh em chỉ có thể thực hiện được bằng sự nỗ lực của bản thân anh em."
+    },
+    {
+      "id": 55,
+      "question": "Cách mạng giải phóng dân tộc cần chủ động, sáng tạo, có khả năng giành thắng lợi trước cách mạng vô sản ở chính quốc được Hồ Chí Minh khẳng định dựa trên cơ sở nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Thuộc địa là nơi cung cấp nguồn nhựa sống duy nhất cho chủ nghĩa đế quốc"
+        },
+        {
+          "id": "B",
+          "content": "Người dân thuộc địa có sức sống mãnh liệt, có thể giành chiến thắng trước bất cứ kẻ thù xâm lược nào"
+        },
+        {
+          "id": "C",
+          "content": "Thuộc địa là nơi duy trì sự tồn tại, phát triển của chủ nghĩa đế quốc; tinh thần đấu tranh quyết liệt của các dân tộc thuộc địa"
+        },
+        {
+          "id": "D",
+          "content": "Quốc tế cộng sản đánh giá cao vai trò của các nước thuộc địa trong cuộc đấu tranh tự giải phóng"
+        }
+      ],
+      "answer": "C",
+      "explain": "- Thuộc địa có một vị trí, vai trò, tầm quan trọng đặc biệt đối với chủ nghĩa đế quốc, là nơi duy trì sự tồn tại, phát triển... - Tinh thần đấu tranh cách mạng hết sức quyết liệt của các dân tộc thuộc địa."
+    },
+    {
+      "id": 56,
+      "question": "Khi cách mạng tháng Tám (1945) thành công, để bảo vệ nền độc lập thực sự mới giành được, Hồ Chí Minh đã ký với đại diện Chính phủ Pháp Hiệp định sơ bộ ngày 6/3/1946 nhằm khẳng định nội dung gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chính phủ Pháp công nhận Việt Nam là một quốc gia độc lập, tự chủ, có Đảng riêng, pháp luật riêng"
+        },
+        {
+          "id": "B",
+          "content": "Chính phủ Pháp công nhận Việt Nam là một quốc gia tự do, có Chính phủ, có quân đội, có tài chính..."
+        },
+        {
+          "id": "C",
+          "content": "Chính phủ Pháp công nhận Việt Nam bình đẳng với Pháp trong quan hệ ngoại giao, quan hệ kinh tế, chính trị"
+        },
+        {
+          "id": "D",
+          "content": "Chính phủ Pháp công nhận Việt Nam là cường quốc, có vị trí, vai trò to lớn trong quan hệ quốc tế"
+        }
+      ],
+      "answer": "B",
+      "explain": "...Hiệp định Sơ bộ ngày 6-3-1946, theo đó: “Chính phủ Pháp công nhận nước Việt Nam Dân chủ Cộng hoà là một quốc gia tự do có Chính phủ của mình, Nghị viện của mình, quân đội của mình, tài chính của mình”\"."
+    },
+    {
+      "id": 57,
+      "question": "Giành được độc lập, tự do cho dân tộc Hồ Chí Minh tiếp tục khẳng định phương hướng phát triển của dân tộc trong bối cảnh thời đại mới là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Quá độ đi lên chủ nghĩa xã hội"
+        },
+        {
+          "id": "B",
+          "content": "Tiến lên thực hiện công nghiệp hóa, hiện đại hóa đất nước"
+        },
+        {
+          "id": "C",
+          "content": "Tiến lên chủ nghĩa cộng sản từ một nước tư bản phát triển cao"
+        },
+        {
+          "id": "D",
+          "content": "Tiến lên chủ nghĩa xã hội, chủ nghĩa cộng sản"
+        }
+      ],
+      "answer": "D",
+      "explain": "Người khẳng định mục đích của cách mạng Việt Nam là tiến đến chủ nghĩa xã hội, rồi đến chủ nghĩa cộng sản\"."
+    },
+    {
+      "id": 58,
+      "question": "Trong bối cảnh hiện nay, chúng ta cần phải làm gì để bảo vệ chủ quyền dân tộc như Hồ Chí Minh mong đợi?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Phát triển đất nước một cách hài hòa và bền vững"
+        },
+        {
+          "id": "B",
+          "content": "Tận dụng tối đa sự ủng hộ, giúp đỡ từ bên ngoài"
+        },
+        {
+          "id": "C",
+          "content": "Phát huy sức mạnh của đại đoàn kết dân tộc, của cả hệ thống chính trị, trong đó thế hệ trẻ là lực lượng nòng cốt"
+        },
+        {
+          "id": "D",
+          "content": "Phát huy tối đa sức mạnh của đoàn kết quốc tế, nhất là đoàn kết với các nước có chung mục tiêu tiến lên chủ nghĩa xã hội"
+        }
+      ],
+      "answer": "C",
+      "explain": "Để bảo vệ vững chắc nền độc lập trong bối cảnh hiện nay, Đảng ta chủ trương phát huy sức mạnh của đại đoàn kết dân tộc, dựa trên toàn bộ hệ thống chính trị."
+    },
+    {
+      "id": 59,
+      "question": "Vấn đề dân tộc trong tư tưởng Hồ Chí Minh là sự kết hợp nhuần nhuyễn vấn đề gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đối nội với vấn đề đối ngoại"
+        },
+        {
+          "id": "B",
+          "content": "Độc lập dân tộc với chủ nghĩa xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Lợi ích dân tộc với vấn đề lợi ích quốc tế"
+        },
+        {
+          "id": "D",
+          "content": "Vấn đề tăng trưởng kinh tế với vấn đề bảo vệ môi trường"
+        }
+      ],
+      "answer": "B",
+      "explain": "Cốt lõi hệ tư tưởng của Người là: \"Độc lập dân tộc gắn liền với chủ nghĩa xã hội\"."
+    },
+    {
+      "id": 60,
+      "question": "Theo Hồ Chí Minh, chủ nghĩa xã hội, chủ nghĩa cộng sản là chế độ xã hội như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Không còn nghèo khổ, nạn đói, nạn dốt, xã hội do nhân dân làm chủ"
+        },
+        {
+          "id": "B",
+          "content": "Không còn áp bức, bóc lột, xã hội do nhân dân lao động làm chủ"
+        },
+        {
+          "id": "C",
+          "content": "Không còn chiến tranh, hòa bình, phát triển, xã hội do nhân dân làm chủ"
+        },
+        {
+          "id": "D",
+          "content": "Không còn áp bức, bóc lột, có quan hệ hữu nghị với các nước trên thế giới"
+        }
+      ],
+      "answer": "B",
+      "explain": "...chủ nghĩa xã hội không còn áp bức, bóc lột, xã hội do nhân dân lao động làm chủ, trong đó con người sống ấm no, tự do, hạnh phúc...\"."
+    },
+    {
+      "id": 61,
+      "question": "Tiến lên chủ nghĩa xã hội, rồi đến chủ nghĩa cộng sản là mục đích của cách mạng Việt Nam, vì vậy, theo Hồ Chí Minh hai giai đoạn này giống nhau ở điểm gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Sức sản xuất đã phát triển cao; nền tảng kinh tế thì tư liệu sản xuất đều là của chung; không có giai cấp áp bức bóc lột"
+        },
+        {
+          "id": "B",
+          "content": "Sức sản xuất đều phát triển; nền tảng kinh tế phát triển cân đối và hiện đại"
+        },
+        {
+          "id": "C",
+          "content": "Chủ nghĩa xã hội vẫn còn vết tích xã hội cũ; xã hội cộng sản thì hoàn toàn không còn sự áp bức bóc lột"
+        },
+        {
+          "id": "D",
+          "content": "Xã hội chủ nghĩa là công bằng, bình đẳng, mọi người được sống ấm no, tự do, hạnh phúc"
+        }
+      ],
+      "answer": "A",
+      "explain": "Hai giai đoạn ấy giống nhau ở chỗ: Sức sản xuất đã phát triển cao; nền tảng kinh tế thì tư liệu sản xuất đều là của chung; không có giai cấp áp bức bóc lột\"."
+    },
+    {
+      "id": 62,
+      "question": "Hồ Chí Minh nhận định, tiến lên chủ nghĩa xã hội là một quá trình tất yếu, tuân theo những quy luật khách quan, trước hết là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Những quy luật trong phát triển xã hội"
+        },
+        {
+          "id": "B",
+          "content": "Những quy luật của đời sống xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Những quy luật trong phát triển kinh tế"
+        },
+        {
+          "id": "D",
+          "content": "Những quy luật trong sản xuất vật chất"
+        }
+      ],
+      "answer": "D",
+      "explain": "...tiến lên chủ nghĩa xã hội là một quá trình tất yếu, tuân theo những quy luật khách quan, trước hết là những quy luật trong sản xuất vật chất\"."
+    },
+    {
+      "id": 63,
+      "question": "Hồ Chí Minh cho rằng: Chỉ có CNXH mới “chú ý xem xét những lợi ích cá nhân đúng đắn và bảo đảm cho nó được thỏa mãn” và chỉ có trong xã hội chủ nghĩa thì mỗi người dân mới có điều kiện làm gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nâng cao chất lượng sống, phát huy các sở trường của riêng mình"
+        },
+        {
+          "id": "B",
+          "content": "Cải thiện đời sống, phát huy tính cách riêng và sở trường riêng của mình"
+        },
+        {
+          "id": "C",
+          "content": "Thực hiện đời sống mới, lối sống mới hạnh phúc, ấm no, tự do phát triển theo sở trường của riêng mình"
+        },
+        {
+          "id": "D",
+          "content": "Hoàn thành tốt vai trò của mình trong môi trường xã hội, phát huy năng lực và trách nhiệm của bản thân"
+        }
+      ],
+      "answer": "B",
+      "explain": "...chỉ ở trong chế độ xã hội chủ nghĩa thì mỗi người mới có điều kiện để cải thiện đời sống riêng của mình, phát huy tính cách riêng và sở trường riêng của mình\"."
+    },
+    {
+      "id": 64,
+      "question": "Theo Hồ Chí Minh, CNXH đảm bảo tính công bằng và hợp lý, ai cũng được hưởng thành quả lao động của mình trên nguyên tắc nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Làm theo năng lực, hưởng theo nhu cầu, không làm thì không hưởng"
+        },
+        {
+          "id": "B",
+          "content": "Làm theo trách nhiệm, năng lực của mỗi bản thân, không ngừng sáng tạo trong công việc"
+        },
+        {
+          "id": "C",
+          "content": "Làm nhiều thì hưởng nhiều, làm ít thì hưởng ít, không làm thì không hưởng"
+        },
+        {
+          "id": "D",
+          "content": "Làm nhiều thì hưởng nhiều, làm ít cũng hưởng nhiều, không làm cũng hưởng"
+        }
+      ],
+      "answer": "C",
+      "explain": "...ai cũng được hưởng thành quả lao động của mình trên nguyên tắc làm nhiều thì hưởng nhiều, làm ít thì hưởng ít, không làm thì không hưởng...\"."
+    },
+    {
+      "id": 65,
+      "question": "Theo Hồ Chí Minh, cách mạng giải phóng dân tộc ở các nước cần được tiến hành như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chủ động, sáng tạo, có khả năng giành thắng lợi trước cách mạng vô sản ở chính quốc"
+        },
+        {
+          "id": "B",
+          "content": "Thụ động, ỷ lại, không có khả năng giành thắng lợi trước cách mạng vô sản ở chính quốc"
+        },
+        {
+          "id": "C",
+          "content": "Trông chờ vào thắng lợi cách mạng vô sản ở các nước chính quốc sẽ trả lại độc lập cho các nước thuộc địa"
+        },
+        {
+          "id": "D",
+          "content": "Thỏa hiệp, cải lương và mong chờ vào sự thắng lợi của cách mạng vô sản ở chính quốc sẽ giúp cách mạng vô sản ở thuộc địa giành thắng lợi"
+        }
+      ],
+      "answer": "A",
+      "explain": "Cách mạng giải phóng dân tộc cần được tiến hành chủ động, sáng tạo, có thể thắng lợi trước cách mạng vô sản ở chính quốc...\"."
+    },
+    {
+      "id": 66,
+      "question": "Vì sao trong đấu tranh giải phóng dân tộc, Hồ Chí Minh lại chỉ bàn đến vấn đề dân tộc ở các nước thuộc địa?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Vì ở các nước thuộc địa đều có quyền tự quyết dân tộc, quyền bình đẳng, tự do và hạnh phúc"
+        },
+        {
+          "id": "B",
+          "content": "Vì ở các nước thuộc địa phong trào đấu tranh giải phóng dân tộc diễn ra mạnh mẽ và từng bước giành được thắng lợi"
+        },
+        {
+          "id": "C",
+          "content": "Vì ở các nước thuộc địa đều bị mất quyền tự quyết dân tộc trên tất cả các lĩnh vực của đời sống"
+        },
+        {
+          "id": "D",
+          "content": "Vì phong trào giải phóng dân tộc ở các nước thuộc địa chịu sự ảnh hưởng, chi phối của phong trào cách mạng vô sản ở chính quốc"
+        }
+      ],
+      "answer": "C",
+      "explain": "Thực dân xâm lược đã tước đoạt độc lập tự do, \"thủ tiêu mọi quyền tự do, dân chủ cơ bản của nhân dân, bóc lột và đẩy người dân thuộc địa vào bước đường cùng…\"."
+    },
+    {
+      "id": 67,
+      "question": "Theo Hồ Chí Minh, vấn đề độc lập dân tộc được hiểu như thế nào trong lịch sử dựng nước và giữ nước của dân tộc?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Là quyền tất nhiên, bất biến tất cả các dân tộc"
+        },
+        {
+          "id": "B",
+          "content": "Là quyền thiêng liêng, bất khả xâm phạm của tất cả các dân tộc"
+        },
+        {
+          "id": "C",
+          "content": "Là quyền tiên quyết, bất khả chiến bại của tất cả các dân tộc"
+        },
+        {
+          "id": "D",
+          "content": "Là quyền tự chủ, bất khả xâm lược của tất cả các dân tộc"
+        }
+      ],
+      "answer": "B",
+      "explain": "Độc lập, tự do là quyền thiêng liêng, bất khả xâm phạm của tất cả các dân tộc\"."
+    },
+    {
+      "id": 68,
+      "question": "Tiếp nối truyền thống của dân tộc, điều mà Hồ Chí Minh mong muốn nhất trên đời đối với dân tộc ta khi ở dưới chế độ thực dân, phong kiến là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Mọi người dân được tự do, hạnh phúc"
+        },
+        {
+          "id": "B",
+          "content": "Nhân dân thoát khỏi ách áp bức bóc lột của chủ nghĩa thực dân"
+        },
+        {
+          "id": "C",
+          "content": "Đồng bào được tự do, Tổ quốc được độc lập"
+        },
+        {
+          "id": "D",
+          "content": "Đồng bào ai cũng có cơm ăn áo mặc, được học hành"
+        }
+      ],
+      "answer": "C",
+      "explain": "Người nói rằng, cái mà tôi cần nhất trên đời là đồng bào tôi được tự do, Tổ quốc tôi được độc lập\"."
+    },
+    {
+      "id": 69,
+      "question": "Độc lập dân tộc là mục tiêu chiến đấu, là khát vọng của các dân tộc; tuy nhiên, theo Hồ Chí Minh, độc lập dân tộc trước hết phải gắn với điều gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Hạnh phúc, bình đẳng và bảo đảm quyền lợi cho nhân dân"
+        },
+        {
+          "id": "B",
+          "content": "Tự do, hội họp, ngôn luận và đoàn kết dân tộc"
+        },
+        {
+          "id": "C",
+          "content": "Tự do, cơm no, áo ấm và hạnh phúc của nhân dân"
+        },
+        {
+          "id": "D",
+          "content": "Bình đẳng, cơm no, áo ấm và hòa bình cho nhân dân"
+        }
+      ],
+      "answer": "C",
+      "explain": "Ngoài ra, độc lập cũng phải gắn với cơm no, áo ấm và hạnh phúc của nhân dân... Tôi chỉ có một sự ham muốn... ai cũng có cơm ăn áo mặc, ai cũng được học hành\"."
+    },
+    {
+      "id": 70,
+      "question": "Để vận dụng học thuyết về cách mạng vô sản của chủ nghĩa Mác – Lênin vào điều kiện của Việt Nam, Hồ Chí Minh đã khẳng định con đường cách mạng vô sản Việt Nam phải là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Giải phóng giai cấp – giải phóng con người – giải phóng xã hội – giải phóng dân tộc"
+        },
+        {
+          "id": "B",
+          "content": "Giải phóng dân tộc - giải phóng xã hội – giải phóng giai cấp – giải phóng con người"
+        },
+        {
+          "id": "C",
+          "content": "Giải phóng xã hội – giải phóng dân tộc – giải phóng giai cấp – giải phóng các tầng lớp lao động"
+        },
+        {
+          "id": "D",
+          "content": "Giải phóng con người – giải phóng giai cấp – giải phóng dân tộc – giải phóng giai cấp tư sản"
+        }
+      ],
+      "answer": "B",
+      "explain": "...ở Việt Nam và các nước thuộc địa do hoàn cảnh lịch sử - chính trị khác với châu Âu nên phải là: giải phóng dân tộc - giải phóng xã hội - giải phóng giai cấp - giải phóng con người\"."
+    },
+    {
+      "id": 71,
+      "question": "Khi có tổ chức Đảng Cộng sản, Hồ Chí Minh đã khẳng định vai trò to lớn của Đảng đối với cách mạng giải phóng dân tộc là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Sợi chỉ đỏ, dẫn dắt cách mạng đến thắng lợi cho dân tộc, liên hiệp với các dân tộc khác trên thế giới và vô sản giai cấp ở mọi nơi"
+        },
+        {
+          "id": "B",
+          "content": "Nhân tố thành công của các cuộc cách mạng điển hình của dân tộc, khẳng định đoàn kết với các dân tộc khác trên thế giới"
+        },
+        {
+          "id": "C",
+          "content": "Tổ chức, tập hợp dân chúng, liên lạc với các dân tộc bị áp bức và vô sản giai cấp mọi nơi"
+        },
+        {
+          "id": "D",
+          "content": "Lựa chọn con đường, tập hợp dân chúng, lãnh đạo các cuộc cách mạng thắng lợi và đoàn kết với các dân tộc khác"
+        }
+      ],
+      "answer": "C",
+      "explain": "...có đảng cách mệnh, để trong thì vận động và tổ chức dân chúng, ngoài thì liên lạc với các dân tộc bị áp bức và vô sản giai cấp mọi nơi\"."
+    },
+    {
+      "id": 72,
+      "question": "Chọn câu trả lời đúng theo tư tưởng Hồ Chí Minh về cách mạng giải phóng dân tộc: Lực lượng giải phóng dân tộc bao gồm:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Công nhân, nông dân"
+        },
+        {
+          "id": "B",
+          "content": "Nông dân, trí thức và tiểu tư sản dân tộc"
+        },
+        {
+          "id": "C",
+          "content": "Toàn dân tộc, lấy liên minh công - nông làm nền tảng"
+        },
+        {
+          "id": "D",
+          "content": "Các lực lượng tiến bộ"
+        }
+      ],
+      "answer": "C",
+      "explain": "lực lượng cách mạng giải phóng dân tộc là toàn thể nhân dân Việt Nam trong đó nòng cốt là liên minh công nông."
+    },
+    {
+      "id": 73,
+      "question": "Khi xác định lực lượng cách mạng là toàn dân, Hồ Chí Minh lưu ý và nhắc không được quên lực lượng nào là gốc của cách mạng?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nông dân, doanh nhân"
+        },
+        {
+          "id": "B",
+          "content": "Công nhân, nông dân"
+        },
+        {
+          "id": "C",
+          "content": "Công nhân, doanh nhân"
+        },
+        {
+          "id": "D",
+          "content": "Công nhân, địa chủ phong kiến"
+        }
+      ],
+      "answer": "B",
+      "explain": "Trong khi xác định lực lượng cách mạng là toàn dân, Hồ Chí Minh lưu ý rằng, không được quên “công nông là chủ cách mệnh…là gốc cách mệnh”\"."
+    },
+    {
+      "id": 74,
+      "question": "Mối quan hệ của cuộc cách mạng giải phóng dân tộc ở các nước thuộc địa với các nước chính quốc được Hồ Chí Minh khẳng định là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Là mối quan hệ chính - phụ, nghĩa là cuộc cách mạng ở thuộc địa phải phụ thuộc vào cuộc cách mạng ở chính quốc"
+        },
+        {
+          "id": "B",
+          "content": "Là mối quan hệ khăng khít, tác động qua lại lẫn nhau, không lệ thuộc, phụ thuộc vào nhau"
+        },
+        {
+          "id": "C",
+          "content": "Là mối quan hệ không bình đẳng, không lệ thuộc vào nhau mà phải thực hiện lần lượt từng cuộc cách mạng một"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "B",
+      "explain": "...Hồ Chí Minh chỉ rõ mối quan hệ khắng khít, tác động qua lại lẫn nhau giữa cách mạng thuộc địa và cách mạng vô sản ở chính quốc - mối quan hệ bình đẳng, không lệ thuộc, phụ thuộc vào nhau\"."
+    },
+    {
+      "id": 75,
+      "question": "Là người nghiên cứu rất kỹ về chủ nghĩa đế quốc và hiểu sâu sắc về cách mạng ở các nước thuộc địa, Hồ Chí Minh đã đưa ra nhận định nào về vấn đề này?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Cách mạng ở chính quốc giành thắng lợi trước cách mạng ở thuộc địa"
+        },
+        {
+          "id": "B",
+          "content": "Cách mạng ở thuộc địa phải phụ thuộc vào cách mạng ở các nước chính quốc"
+        },
+        {
+          "id": "C",
+          "content": "Cách mạng ở thuộc địa có thể giành thắng lợi trước cách mạng ở các nước chính quốc"
+        },
+        {
+          "id": "D",
+          "content": "Cách mạng ở chính quốc và ở thuộc địa có mối quan hệ bất bình đẳng"
+        }
+      ],
+      "answer": "C",
+      "explain": "...Hồ Chí Minh cho rằng: cách mạng thuộc địa không những không phụ thuộc vào cách mạng vô sản ở chính quốc mà có thể giành thắng lợi trước\"."
+    },
+    {
+      "id": 76,
+      "question": "Theo Hồ Chí Minh, tại sao cuộc cách mạng giải phóng dân tộc ở các nước thuộc địa phải được tiến hành bằng con đường bạo lực cách mạng?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Vì sử dụng bạo lực cách mạng để chống lại bạo lực phản cách mạng là giải pháp bắt buộc cuối cùng"
+        },
+        {
+          "id": "B",
+          "content": "Vì sử dụng bạo lực cách mạng để chống lại bạo lực phản cách mạng là giải pháp tình thế"
+        },
+        {
+          "id": "C",
+          "content": "Vì sử dụng bạo lực cách mạng để chống lại bạo lực phản cách mạng là giải pháp hiệu quả"
+        },
+        {
+          "id": "D",
+          "content": "Vì sử dụng bạo lực cách mạng để chống lại bạo lực phản cách mạng là giải pháp mang tính tạm thời"
+        }
+      ],
+      "answer": "A",
+      "explain": "Kẻ thù dùng bạo lực (chiến tranh, súng đạn) để xâm lược, cai trị tàn bạo, do đó “cần dùng bạo lực cách mạng chống lại bạo lực phản cách mạng, giành lấy chính quyền và bảo vệ chính quyền”."
+    },
+    {
+      "id": 77,
+      "question": "Bạo lực cách mạng trong cách mạng giải phóng dân tộc, theo Hồ Chí Minh có những hình thức nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đấu tranh ngoại giao và đấu tranh chính trị"
+        },
+        {
+          "id": "B",
+          "content": "Đấu tranh chính trị và đấu tranh vũ trang"
+        },
+        {
+          "id": "C",
+          "content": "Đấu tranh vũ trang và đấu tranh tư tưởng văn hóa"
+        },
+        {
+          "id": "D",
+          "content": "Đấu tranh quân sự và đấu tranh kinh tế"
+        }
+      ],
+      "answer": "B",
+      "explain": "...bạo lực cách mạng ở đây là bạo lực của quần chúng được với hai lực lượng chính trị và quân sự, hai hình thức đấu tranh: đấu tranh chính trị và đấu tranh vũ trang\"."
+    },
+    {
+      "id": 78,
+      "question": "Khi so sánh các chế độ đã tồn tại trong lịch sử để thấy sự khác nhau về bản chất giữa chủ nghĩa xã hội với chế độ khác, Hồ Chí Minh đã khẳng định điều gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chế độ xã hội chủ nghĩa, cộng sản chủ nghĩa hướng đến một thế giới hòa bình, không có chiến tranh"
+        },
+        {
+          "id": "B",
+          "content": "Chế độ xã hội chủ nghĩa, cộng sản chủ nghĩa có nền kinh tế phát triển cao hơn hàng triệu lần kinh tế tư bản chủ nghĩa"
+        },
+        {
+          "id": "C",
+          "content": "Chế độ xã hội chủ nghĩa, cộng sản chủ nghĩa là chế độ do nhân dân lao động làm chủ"
+        },
+        {
+          "id": "D",
+          "content": "Chế độ xã hội chủ nghĩa, cộng sản chủ nghĩa trình độ dân trí của người dân cao hơn rất nhiều các chế độ chính trị khác"
+        }
+      ],
+      "answer": "C",
+      "explain": "Trái lại, trong chế độ xã hội chủ nghĩa và cộng sản chủ nghĩa là chế độ do nhân dân lao động làm chủ...\"."
+    },
+    {
+      "id": 79,
+      "question": "Xây dựng chủ nghĩa xã hội là sự nghiệp cách mạng toàn diện, Hồ Chí Minh xác định rõ trong mục tiêu về chế độ chính trị là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Dân làm chủ và dân là chủ"
+        },
+        {
+          "id": "B",
+          "content": "Ổn định chính trị và phát huy quyền làm chủ của người dân"
+        },
+        {
+          "id": "C",
+          "content": "Phát huy vai trò làm chủ của giai cấp công nhân, nông dân"
+        },
+        {
+          "id": "D",
+          "content": "Đấu tranh giải phóng dân tộc, đem lại tự do cho người dân"
+        }
+      ],
+      "answer": "A",
+      "explain": "Chế độ dân chủ trong mục tiêu của chủ nghĩa xã hội ở Việt Nam được Hồ Chí Minh khẳng định... Khi khẳng định “dân làm chủ” và “dân là chủ”, Hồ Chí Minh đã khẳng định quyền lợi và quyền hạn...\"."
+    },
+    {
+      "id": 80,
+      "question": "Nét độc đáo trong tư duy của Hồ Chí Minh là bên cạnh việc chỉ ra các nguồn động lực phát triển của chủ nghĩa xã hội, Người còn lưu ý, cảnh báo điều gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Ngăn ngừa âm mưu diễn biến hòa bình, bạo loạn lật đổ của các thế lực thù địch"
+        },
+        {
+          "id": "B",
+          "content": "Ngăn ngừa các yếu tố kìm hãm, triệt tiêu nguồn lực vốn có của chủ nghĩa xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Ngăn ngừa suy thoái về đạo đức, lối sống, tự diễn biến, tự chuyển hóa trong cán bộ, đảng viên"
+        },
+        {
+          "id": "D",
+          "content": "Ngăn ngừa tham nhũng, lãng phí, quan liêu; bè phái, mất đoàn kết, chạy chức, chạy quyền"
+        }
+      ],
+      "answer": "B",
+      "explain": "Như vậy, cùng với việc xác định và định hướng phát huy sức mạnh những động lực của chủ nghĩa xã hội... Hồ Chí Minh luôn nhắc nhở phải ngăn chặn, loại trừ những lực cản của những động lực này\"."
+    },
+    {
+      "id": 81,
+      "question": "Do đặc điểm và tính chất quy định, quá độ lên chủ nghĩa xã hội là một quá trình khó khăn, phức tạp hơn cả việc đánh giặc, Hồ Chí Minh đã xác định phương châm thực hiện bước đi như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Phát triển nhanh về kinh tế, văn hóa để nâng cao đời sống vật chất và tinh thần của nhân dân"
+        },
+        {
+          "id": "B",
+          "content": "Tiến nhanh, tiến mạnh, từ thấp đến cao, phải luôn dựa vào điều kiện khách quan thế giới để đề ra mục tiêu xây dựng chủ nghĩa xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Dần dần, thận trọng từng bước một, từ thấp đến cao, không chủ quan nôn nóng và phải luôn căn cứ vào điều kiện khách quan quy định"
+        },
+        {
+          "id": "D",
+          "content": "Tiến nhanh, tiến mạnh, tiến vững chắc lên chủ nghĩa xã hội"
+        }
+      ],
+      "answer": "C",
+      "explain": "...tiến lên chủ nghĩa xã hội không thể một sớm một chiều, không thể làm mau được mà phải làm dần dần\"."
+    },
+    {
+      "id": 82,
+      "question": "Thực hiện khát vọng Hồ Chí Minh xây dựng nước Việt Nam hùng cường, sánh vai với cường quốc năm châu, Đại hội XIII (2021) của Đảng xác định khát vọng Việt Nam đến năm 2045 như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Là nước đang phát triển, có công nghiệp theo hướng hiện đại, vượt qua mức thu nhập trung bình thấp"
+        },
+        {
+          "id": "B",
+          "content": "Là nước đang phát triển, có công nghiệp hiện đại, thu nhập trung bình cao"
+        },
+        {
+          "id": "C",
+          "content": "Trở thành nước phát triển, có thu nhập cao"
+        },
+        {
+          "id": "D",
+          "content": "Cơ bản trở thành nước công nghiệp theo hướng hiện đại, có thu nhập cao"
+        }
+      ],
+      "answer": "C",
+      "explain": "Tầm nhìn Đại hội XIII vạch rõ mốc 2045 (kỷ niệm 100 năm thành lập nước) Việt Nam trở thành nước phát triển, thu nhập cao."
+    },
+    {
+      "id": 83,
+      "question": "Trong quan niệm của Hồ Chí Minh, chủ nghĩa xã hội được tiếp cận ở các góc độ như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Ở nhiều góc độ khác nhau bằng cách chỉ ra nhân tố đặc trưng trên các lĩnh vực chính trị"
+        },
+        {
+          "id": "B",
+          "content": "Ở nhiều góc độ khác nhau bằng cách chỉ ra đặc trưng trên các lĩnh vực kinh tế, chính trị, văn hóa, khoa học kỹ thuật..."
+        },
+        {
+          "id": "C",
+          "content": "Ở nhiều góc độ khác nhau bằng cách chỉ ra đặc trưng trên lĩnh vực kinh tế"
+        },
+        {
+          "id": "D",
+          "content": "Ở nhiều góc độ khác nhau bằng cách chỉ ra đặc trưng trên lĩnh vực văn hóa, xã hội"
+        }
+      ],
+      "answer": "B",
+      "explain": "...khái niệm “chủ nghĩa xã hội” được Người tiếp cận ở nhiều góc độ khác nhau bằng cách chỉ ra đặc trưng ở một lĩnh vực nào đó (như kinh tế, chính trị, văn hóa, khoa học - kỹ thuật, động lực, nguồn lực, v.v.)\"."
+    },
+    {
+      "id": 84,
+      "question": "Hồ Chí Minh khẳng định: “Nói một cách tóm tắt, mộc mạc, chủ nghĩa xã hội trước hết nhằm (...), được ấm no và sống một đời hạnh phúc”, là làm sao cho dân giàu, nước mạnh. Xác định nội dung còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Làm cho nhân dân lao động thoát nạn bần cùng, làm cho mọi người có công ăn việc làm"
+        },
+        {
+          "id": "B",
+          "content": "Làm cho mọi người có cuộc sống hạnh phúc, vui tươi"
+        },
+        {
+          "id": "C",
+          "content": "Làm cho nhân dân lao động không còn áp bức bóc lột, cuộc sống hạnh phúc"
+        },
+        {
+          "id": "D",
+          "content": "Làm cho các giai tầng trong xã hội thoát khỏi nạn bần cùng, đời sống vui tươi, hạnh phúc"
+        }
+      ],
+      "answer": "A",
+      "explain": "...chủ nghĩa xã hội trước hết nhằm làm cho nhân dân lao động thoát nạn bần cùng, làm cho mọi người có công ăn việc làm, được ấm no và sống một đời hạnh phúc\"."
+    },
+    {
+      "id": 85,
+      "question": "Theo Hồ Chí Minh, trong chế độ xã hội chủ nghĩa nhân dân làm chủ, lợi ích cá nhân gắn liền với lợi ích của chế độ, do đó chủ thể xây dựng chủ nghĩa xã hội là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Công nhân, là lực lượng tiên quyết trong xây dựng và phát triển xã hội"
+        },
+        {
+          "id": "B",
+          "content": "Nông dân, là lực lượng tiên phong, đi đầu trong cách mạng xã hội chủ nghĩa"
+        },
+        {
+          "id": "C",
+          "content": "Các tầng lớp, là lực lượng tiên quyết đối với việc xây dựng và phát triển xã hội"
+        },
+        {
+          "id": "D",
+          "content": "Nhân dân, là lực lượng quyết định tốc độ xây dựng và phát triển xã hội"
+        }
+      ],
+      "answer": "D",
+      "explain": "...chính nhân dân là chủ thể, là lực lượng quyết định tốc độ xây dựng và sự vững mạnh của chủ nghĩa xã hội\"."
+    },
+    {
+      "id": 86,
+      "question": "Trong các luận điểm sau, luận điểm nào Hồ Chí Minh nói về mục tiêu kinh tế gắn bó mật thiết với mục tiêu về chính trị?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nền kinh tế phát triển cao “với công nghiệp và nông nghiệp hiện đại, khoa học kỹ thuật tiên tiến”"
+        },
+        {
+          "id": "B",
+          "content": "“Một nền kinh tế thuần nhất, dựa trên chế độ sở hữu toàn dân và sở hữu tập thể”"
+        },
+        {
+          "id": "C",
+          "content": "“Chế độ kinh tế và xã hội của chúng ta nhằm thực hiện đầy đủ quyền dân chủ của nhân dân, trên cơ sở kinh tế xã hội chủ nghĩa ngày càng phát triển”"
+        },
+        {
+          "id": "D",
+          "content": "Chỉ có chủ nghĩa xã hội mới là nguồn gốc của tự do, bình đẳng, bác ái, xóa bỏ những bức tường dài ngắn còn con người yêu đoàn kết, yêu thương nhau"
+        }
+      ],
+      "answer": "C",
+      "explain": "Mục tiêu này phải gắn bó chặt chẽ với mục tiêu về chính trị vì “Chế độ kinh tế và xã hội của chúng ta nhằm thực hiện đầy đủ quyền dân chủ của nhân dân, trên cơ sở kinh tế xã hội chủ nghĩa ngày càng phát triển”\"."
+    },
+    {
+      "id": 87,
+      "question": "Hồ Chí Minh từng nói: “Muốn tiến lên chủ nghĩa xã hội phải phát triển (...) và văn hóa. Vì sao không nói phát triển (...) và kinh tế. Tục ngữ ta có câu: có thực mới vực được đạo, vì thế kinh tế phải đi trước”. Xác định cụm từ còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chính trị/ quân sự"
+        },
+        {
+          "id": "B",
+          "content": "Văn hóa/ khoa học"
+        },
+        {
+          "id": "C",
+          "content": "Kinh tế/ văn hóa"
+        },
+        {
+          "id": "D",
+          "content": "Ngoại giao/ văn hóa"
+        }
+      ],
+      "answer": "C",
+      "explain": "Muốn tiến lên chủ nghĩa xã hội phải phát triển kinh tế và văn hóa. Vì sao không nói phát triển văn hóa và kinh tế.\"."
+    },
+    {
+      "id": 88,
+      "question": "Luận điểm của Hồ Chí Minh: “Để phục vụ sự nghiệp cách mạng xã hội chủ nghĩa thì văn hóa... phải triệt để tẩy trừ (...) và ảnh hưởng nô dịch của văn hóa đế quốc. Đồng thời, phát triển (...) và hấp thụ những cái mới của văn hóa tiến bộ thế giới”. Xác định cụm từ còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Mọi phong tục lạc hậu/ những truyền thống tốt đẹp của văn hóa dân tộc"
+        },
+        {
+          "id": "B",
+          "content": "Mọi di tích thuộc địa/ những truyền thống tốt đẹp của văn hóa dân tộc"
+        },
+        {
+          "id": "C",
+          "content": "Mọi tàn tích của chiến tranh/ những truyền thống tốt đẹp của văn hóa dân tộc"
+        },
+        {
+          "id": "D",
+          "content": "Mọi định kiến của xã hội/ những truyền thống tốt đẹp của văn hóa dân tộc"
+        }
+      ],
+      "answer": "B",
+      "explain": "...Phải triệt để tẩy trừ mọi di tích thuộc địa và ảnh hưởng nô dịch của văn hóa đế quốc. Đồng thời, phát triển những truyền thống tốt đẹp của văn hóa dân tộc...\"."
+    },
+    {
+      "id": 89,
+      "question": "Mục tiêu về các mối quan hệ xã hội trong chế độ xã hội chủ nghĩa, theo Hồ Chí Minh phải đảm bảo điều gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Dân chủ, bình đẳng, lợi ích"
+        },
+        {
+          "id": "B",
+          "content": "Dân chủ, công bằng, văn minh"
+        },
+        {
+          "id": "C",
+          "content": "Văn minh, tiên tiến, hiện đại"
+        },
+        {
+          "id": "D",
+          "content": "Dân chủ, bình đẳng, nhu cầu, nguyện vọng"
+        }
+      ],
+      "answer": "B",
+      "explain": "Mục tiêu về các mối quan hệ xã hội trong chế độ xã hội chủ nghĩa, theo Hồ Chí Minh phải đảm bảo dân chủ, công bằng, văn minh\"."
+    },
+    {
+      "id": 90,
+      "question": "Theo Hồ Chí Minh, tất cả các động lực đều rất quan trọng và có mối quan hệ biện chứng với nhau nhưng giữ vai trò quyết định nhất là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Là ngoại lực của dân tộc, là nhân dân lao động"
+        },
+        {
+          "id": "B",
+          "content": "Là vật chất và tinh thần, là giai cấp công nhân"
+        },
+        {
+          "id": "C",
+          "content": "Là nội lực của dân tộc, là nhân dân"
+        },
+        {
+          "id": "D",
+          "content": "Là mối quan hệ đối nội và đối ngoại của dân tộc, là lực lao động"
+        }
+      ],
+      "answer": "C",
+      "explain": "Tất cả các động lực đều rất quan trọng và có mối quan hệ biện chứng với nhau nhưng giữ vai trò quyết định là nội lực dân tộc, là nhân dân...\"."
+    },
+    {
+      "id": 91,
+      "question": "Để thúc đẩy quá trình xây dựng CNXH, theo Hồ Chí Minh những động lực hàng đầu phải đảm bảo là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Quyền lợi và nghĩa vụ của dân, đoàn kết toàn dân"
+        },
+        {
+          "id": "B",
+          "content": "Lợi ích của dân, dân chủ của dân, sức mạnh đoàn kết toàn dân"
+        },
+        {
+          "id": "C",
+          "content": "Nguồn thu nhập của dân, dân chủ của dân và đoàn kết các giai tầng trong xã hội"
+        },
+        {
+          "id": "D",
+          "content": "Quyền lực và quyền lợi của dân, thực hành dân chủ của dân và đoàn kết, nhân dân"
+        }
+      ],
+      "answer": "B",
+      "explain": "...nên để thức đẩy tiến trình cách mạng xã hội chủ nghĩa phải đảm bảo lợi ích của dân, dân chủ của dân, sức mạnh đoàn kết toàn dân. Trong tư tưởng Hồ Chí Minh, đây là những động lực hàng đầu của chủ nghĩa xã hội\"."
+    },
+    {
+      "id": 92,
+      "question": "Hồ Chí Minh luôn quan tâm đến lợi ích của cộng đồng và lợi ích của những con người cụ thể trong xây dựng chủ nghĩa xã hội. Do đó, Người dạy; “việc gì (...)cho dân phải hết sức làm, việc gì (...) cho dân phải hết sức tránh”, “phải đặt (...) của dân lên trên hết”. Xác định cụm từ còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Có ích/ có hại/ quyền lợi"
+        },
+        {
+          "id": "B",
+          "content": "Có lợi/ có hại/quyền lợi"
+        },
+        {
+          "id": "C",
+          "content": "Có niềm vui/ có nỗi buồn/ quyền lợi"
+        },
+        {
+          "id": "D",
+          "content": "Có hạnh phúc/ có niềm vui/ quyền lợi"
+        }
+      ],
+      "answer": "B",
+      "explain": "việc gì có lợi cho dân phải hết sức làm, việc gì có hại cho dân phải hết sức tránh”, “phải đặt quyền lợi của dân lên trên hết”."
+    },
+    {
+      "id": 93,
+      "question": "Dân chủ trong chủ nghĩa xã hội là dân chủ của nhân dân, là của quý báu nhất của nhân dân. Vậy, theo Hồ Chí Minh có dân chủ thì mới đảm bảo điều gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Lợi ích vì dân"
+        },
+        {
+          "id": "B",
+          "content": "Lợi ích vì tập thể"
+        },
+        {
+          "id": "C",
+          "content": "Lợi ích vì nông dân"
+        },
+        {
+          "id": "D",
+          "content": "Lợi ích vì từng cá nhân"
+        }
+      ],
+      "answer": "A",
+      "explain": "Có dân chủ lợi ích mới vì dân; có dân chủ quyền hành và lực lượng mới ở nơi dân...\"."
+    },
+    {
+      "id": 94,
+      "question": "Chọn phương án trả lời đúng nhất với tư tưởng Hồ Chí Minh: Muốn xây dựng chủ nghĩa xã hội, trước hết cần có:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Con người có đạo đức"
+        },
+        {
+          "id": "B",
+          "content": "Con người xã hội chủ nghĩa"
+        },
+        {
+          "id": "C",
+          "content": "Con người có tài năng"
+        },
+        {
+          "id": "D",
+          "content": "Con người có tính sáng tạo, dám nghĩ, dám làm"
+        }
+      ],
+      "answer": "B",
+      "explain": "Về con người Việt Nam, Hồ Chí Minh khẳng định: “Muốn xây dựng chủ nghĩa xã hội, trước hết cần có những con người xã hội chủ nghĩa”\"."
+    },
+    {
+      "id": 95,
+      "question": "Cùng với việc xác định và định hướng phát huy sức mạnh của những động lực xây dựng CNXH, Hồ Chí Minh luôn nhắc nhở phải ngăn chặn điều gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Những tư tưởng, tác phong xấu là: Bài xích cá nhân; hủ hóa, tư túi, kiêu ngạo cộng sản"
+        },
+        {
+          "id": "B",
+          "content": "Những tư tưởng, tác phong xấu là: Chủ nghĩa vị kỷ, nuôi dưỡng tính hám lợi, hiếu danh, ích kỷ, hẹp hòi; hành vi vụ lợi"
+        },
+        {
+          "id": "C",
+          "content": "Những tư tưởng, tác phong xấu là: Không quan tâm đến lợi ích chung của tập thể; dễ sa ngã vào chủ nghĩa cá nhân"
+        },
+        {
+          "id": "D",
+          "content": "Những tư tưởng, tác phong xấu là: Chủ nghĩa cá nhân; quan liêu, mệnh lệnh; tham ô, lãng phí; bảo thủ..."
+        }
+      ],
+      "answer": "D",
+      "explain": "...và phải chống lại những tư tưởng, tác phong xấu là: Chủ nghĩa cá nhân; quan liêu, mệnh lệnh; tham ô, lãng phí; bảo thủ, rụt rè\"."
+    },
+    {
+      "id": 96,
+      "question": "Theo Hồ Chí Minh, tính chất của thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Là thời kỳ có nhiều biến động sâu sắc nhưng vượt qua một cách lâu dài, khó khăn, phức tạp"
+        },
+        {
+          "id": "B",
+          "content": "Là thời kỳ có nhiều thách thức nhất nhưng thay đổi triệt để những nếp sống, thói quen cũ"
+        },
+        {
+          "id": "C",
+          "content": "Là thời kỳ cải biến sâu sắc nhất nhưng phức tạp, lâu dài, khó khăn, gian khổ"
+        },
+        {
+          "id": "D",
+          "content": "Là thời kỳ xóa bỏ giai cấp bóc lột nhưng khó khăn, phức tạp phải vượt lên trước"
+        }
+      ],
+      "answer": "C",
+      "explain": "Tính chất của thời kỳ quá độ: Đây là thời kỳ cải biến sâu sắc nhất nhưng phức tạp, lâu dài, khó khăn, gian khổ\"."
+    },
+    {
+      "id": 97,
+      "question": "Kiên định mục tiêu và con đường cách mạng mà Hồ Chí Minh đã lựa chọn. Đảng Cộng cộng sản Việt Nam đã rút ra những bài học đầu tiên là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nêu rõ phương châm giương cao ngọn cờ hòa bình trong công lý"
+        },
+        {
+          "id": "B",
+          "content": "Nắm vững ngọn cờ độc lập dân tộc và chủ nghĩa xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Làm cho mọi người dân hạnh phúc"
+        },
+        {
+          "id": "D",
+          "content": "Xây dựng một nước Việt Nam hòa bình, thống nhất, độc lập, giàu mạnh"
+        }
+      ],
+      "answer": "B",
+      "explain": "...Đảng đã rút ra những bài học mà đầu tiên là phải “nắm vững ngọn cờ độc lập dân tộc và chủ nghĩa xã hội – ngọn cờ quang vinh mà Chủ tịch Hồ Chí Minh đã trao lại...\"."
+    },
+    {
+      "id": 98,
+      "question": "Để vận dụng tư tưởng Hồ Chí Minh vào phát huy sức mạnh dân chủ xã hội chủ nghĩa là phát huy sức mạnh bản chất ưu việt của chế độ xã hội xã hội chủ nghĩa trong bối cảnh hiện nay theo phương châm nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Dân biết, dân bàn, dân làm, dân tham mưu"
+        },
+        {
+          "id": "B",
+          "content": "Đoàn kết, dân chủ, kỷ cương, sáng tạo, phát triển"
+        },
+        {
+          "id": "C",
+          "content": "Dân biết, dân bàn, dân làm, dân kiểm tra, dân giám sát, dân hưởng thụ"
+        },
+        {
+          "id": "D",
+          "content": "Dân giám sát, dân thụ hưởng, dân phản biện"
+        }
+      ],
+      "answer": "C",
+      "explain": "(Trong văn kiện mới nhất bổ sung từ “dân biết, dân bàn, dân làm, dân kiểm tra” của Cương lĩnh truyền thống) trở thành “dân biết, dân bàn, dân làm, dân kiểm tra, dân giám sát, dân thụ hưởng”."
+    },
+    {
+      "id": 99,
+      "question": "Củng cố, kiện toàn, phát huy sức mạnh và hiệu quả hoạt động của toàn bộ hệ thống chính trị theo tư tưởng Hồ Chí Minh cần phải như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nhất nguyên về chính trị, về tổ chức, về tư tưởng và thống nhất dưới sự lãnh đạo của Nhà nước, thống nhất về mục tiêu kinh tế"
+        },
+        {
+          "id": "B",
+          "content": "Nhất nguyên về chính trị, về tổ chức, về tư tưởng và thống nhất dưới sự lãnh đạo của Đảng Cộng sản Việt Nam, thống nhất về mục tiêu chính trị"
+        },
+        {
+          "id": "C",
+          "content": "Nhất nguyên về chính trị, về tổ chức, về tư tưởng và thống nhất dưới sự lãnh đạo của Mặt trận tổ quốc, thống nhất về mục tiêu xã hội"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "B",
+      "explain": "Đặc điểm của hệ thống chính trị ở Việt Nam là tính nhất nguyên và tính thống nhất: Nhất nguyên về chính trị, về tổ chức, về tư tưởng; thống nhất dưới sự lãnh đạo của Đảng Cộng sản Việt Nam, thống nhất về mục tiêu chính trị\"."
+    },
+    {
+      "id": 100,
+      "question": "Vận dụng tư tưởng Hồ Chí Minh về độc lập dân dân tộc và chủ nghĩa xã hội trong giai đoạn hiện nay cần phải thực hiện những vấn đề gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Có hiệu quả những chính sách của Đảng, trong đó các chính sách về công tác xây dựng bộ máy chính quyền giữ vị trí quan trọng..."
+        },
+        {
+          "id": "B",
+          "content": "Có hiệu quả những điều lệ của Đảng, trong đó các điều lệ về những điều đảng viên không được làm có vai trò quan trọng đối với đội ngũ cán bộ đảng viên"
+        },
+        {
+          "id": "C",
+          "content": "Có hiệu quả những chỉ thị của Đảng, trong đó các chỉ thị về xây dựng đảng vai trò quan trọng ...."
+        },
+        {
+          "id": "D",
+          "content": "Có hiệu quả những nghị quyết của Đảng, trong đó các nghị quyết về xây dựng Đảng giữ vị trí cực kỳ quan trọng vì xây dựng Đảng là nhiệm vụ then chốt trong sự nghiệp đổi mới"
+        }
+      ],
+      "answer": "D",
+      "explain": "...tích cực thực hiện, thực hiện có hiệu quả các nghị quyết của Đảng, trong đó các nghị quyết về xây dựng Đảng giữ vị trí cực kỳ quan trọng vì xây dựng Đảng là nhiệm vụ then chốt trong sự nghiệp đổi mới\"."
+    }
+  ]
+}

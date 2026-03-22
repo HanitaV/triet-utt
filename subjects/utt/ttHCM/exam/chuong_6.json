@@ -1,0 +1,2262 @@
+{
+  "title": "CHƯƠNG 6",
+  "total_questions": 94,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Nghị quyết 24C/18.6.5 của Khóa họp 24 Đại hội đồng UNESCO đã khẳng định: Chủ tịch Hồ Chí Minh để lại một (...) trong quá trình phát triển của nhân loại vì hòa bình, độc lập dân tộc, dân chủ và tiến bộ xã hội. Xác định cụm từ còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Dấu ấn"
+        },
+        {
+          "id": "B",
+          "content": "Hình ảnh"
+        },
+        {
+          "id": "C",
+          "content": "Hình tượng"
+        },
+        {
+          "id": "D",
+          "content": "Ấn tượng"
+        }
+      ],
+      "answer": "A",
+      "explain": "Nghị quyết khẳng định: “Chủ tịch Hồ Chí Minh để lại một dấu ấn trong quá trình phát triển của nhân loại vì hòa bình, độc lập dân tộc, dân chủ và tiến bộ xã hội...\"."
+    },
+    {
+      "id": 4,
+      "question": "Theo Hồ Chí Minh, văn hóa có vai trò gì trong đời sống xã hội?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Văn hóa là mục tiêu, động lực của sự nghiệp cách mạng"
+        },
+        {
+          "id": "B",
+          "content": "Văn hóa là một mặt trận"
+        },
+        {
+          "id": "C",
+          "content": "Văn hóa phục vụ quần chúng nhân dân"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Hồ Chí Minh quan niệm văn hóa có các vai trò trọng yếu: \"Văn hóa là mục tiêu, động lực của sự nghiệp cách mạng\", \"Văn hóa là một mặt trận\", và \"Văn hóa phục vụ quần chúng nhân dân\"."
+    },
+    {
+      "id": 5,
+      "question": "Theo Hồ Chí Minh, văn hóa là mục tiêu, nghĩa là hướng tới:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Quyền sống, quyền sung sướng, quyền tự do, quyền mưu cầu hạnh phúc"
+        },
+        {
+          "id": "B",
+          "content": "Khát vọng về các giá trị chân, thiện, mỹ"
+        },
+        {
+          "id": "C",
+          "content": "Xã hội dân chủ, công bằng, văn minh"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Văn hóa là mục tiêu – nhìn một cách tổng quát – là quyền sống, quyền sung sướng, quyền tự do, quyền mưu cầu hạnh phúc; là khát vọng của nhân dân về các giá trị chân, thiện, mỹ. Đó là một xã hội dân chủ... công bằng, văn minh...\"."
+    },
+    {
+      "id": 6,
+      "question": "Theo Hồ Chí Minh, văn hóa phục vụ quần chúng nhân dân, nghĩa là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Mọi hoạt động văn hóa phải trở về với cuộc sống thực tại của quần chúng, phản ánh được tư tưởng, khát vọng của quần chúng"
+        },
+        {
+          "id": "B",
+          "content": "Miêu tả cho hay, cho chân thật, hùng hồn cuộc sống thực tế của quần chúng, từ đó định hướng giá trị cho quần chúng"
+        },
+        {
+          "id": "C",
+          "content": "Hiểu và đánh giá đúng quần chúng"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "...mọi hoạt động văn hóa phải trở về với cuộc sống thực tại của quần chúng, phản ánh được tư tưởng và khát vọng của quần chúng. Văn hóa phục vụ quần chúng nhân dân là phải miêu tả cho hay, cho thật, cho hùng hồn...\" và \"Chiến sĩ văn hóa phải hiểu và đánh giá đúng quần chúng\"."
+    },
+    {
+      "id": 7,
+      "question": "Hồ Chí Minh yêu cầu về tính dân tộc của nền văn hóa cần phải:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Giúp phân biệt, không nhầm lẫn với văn hóa của dân tộc khác"
+        },
+        {
+          "id": "B",
+          "content": "Giữ gìn, kế thừa, phát huy và phát triển truyền thống tốt đẹp của văn hóa dân tộc phù hợp với điều kiện lịch sử của đất nước"
+        },
+        {
+          "id": "C",
+          "content": "“Lột tả được tinh thần dân tộc”, “cốt cách của dân tộc, đặc tính của dân tộc”, đó là truyền thống yêu nước, nhân nghĩa, đoàn kết, khát vọng độc lập, tự chủ, tự cường"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Bản sắc văn hóa dân tộc là \"những giá trị văn hóa bền vững\" thể hiện ở \"lòng yêu nước, thương nòi; tinh thần độc lập, tự cường\" và \"ngôn ngữ, phong tục, tập quán...\". Trách nhiệm của chúng ta là phải \"trân trọng, khai thác, giữ gìn, phát huy, phát triển những giá trị của văn hóa dân tộc\"."
+    },
+    {
+      "id": 8,
+      "question": "Tính khoa học của nền văn hóa theo quan điểm Hồ Chí Minh được thể hiện ở những nội dung nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Tính hiện đại, tiên tiến, thuận với trào lưu tiến hóa của thời đại"
+        },
+        {
+          "id": "B",
+          "content": "Truyền bá tư tưởng triết học mácxít, đấu tranh chống lại chủ nghĩa duy tâm, thần bí"
+        },
+        {
+          "id": "C",
+          "content": "Kế thừa truyền thống tốt đẹp của dân tộc, tiếp thu tinh hoa văn hóa nhân loại"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Phương châm xây dựng nền văn hóa mới là \"Đó là một nền văn hóa có tính chất dân tộc, khoa học và đại chúng\". Tính khoa học bao trùm việc thuận với trào lưu tiến hóa thời đại, truyền bá tư tưởng Mác-xít và tiếp thu tinh hoa văn hóa nhân loại."
+    },
+    {
+      "id": 9,
+      "question": "Có tinh thần quốc tế trong sáng là một trong những chuẩn mực đạo đức được Hồ Chí Minh coi trọng. Tinh thần quốc tế trong sáng đó là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đó là tinh thần đoàn kết với giai cấp vô sản toàn thế giới"
+        },
+        {
+          "id": "B",
+          "content": "Đó là tinh thần đoàn kết với tất cả các dân tộc và nhân dân các nước"
+        },
+        {
+          "id": "C",
+          "content": "Đó là tinh thần đoàn kết với tất cả những người tiến bộ trên toàn cầu"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Đó là sự tôn trọng, hiểu biết, thương yêu và đoàn kết với giai cấp vô sản toàn thế giới, với các dân tộc bị áp bức, với tất cả các dân tộc và nhân dân các nước, với những người tiến bộ trên toàn cầu...\"."
+    },
+    {
+      "id": 10,
+      "question": "Theo Hồ Chí Minh, chữ “Chính” có nghĩa là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Không ham quyền lực"
+        },
+        {
+          "id": "B",
+          "content": "Siêng năng, chăm chỉ"
+        },
+        {
+          "id": "C",
+          "content": "Không tham danh vọng"
+        },
+        {
+          "id": "D",
+          "content": "Thẳng thắn, đứng đắn"
+        }
+      ],
+      "answer": "D",
+      "explain": "Chính nghĩa là không tà, nghĩa là thẳng thắn, đứng đắn. Điều gì không đứng đắn, thẳng thắn, tức là tà”."
+    },
+    {
+      "id": 12,
+      "question": "Hồ Chí Minh đề cập đạo đức trong những quan hệ nào của con người?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đối với mình"
+        },
+        {
+          "id": "B",
+          "content": "Đối với việc"
+        },
+        {
+          "id": "C",
+          "content": "Đối với người"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Chính được thể hiện rõ trong ba mối quan hệ: “Đối với mình... Đối với người... Đối với việc...\"."
+    },
+    {
+      "id": 13,
+      "question": "Luận điểm: “Người cán bộ phải có đạo đức cách mạng....Mọi việc thành hay bại, chủ chốt là do cán bộ có thấm nhuần đạo đức cách mạng, hay là không”⁷⁰, được viết trong tác phẩm nào của Hồ Chí Minh?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đời sống mới (1947)"
+        },
+        {
+          "id": "B",
+          "content": "Cần, Kiệm, Liêm, Chính (1949)"
+        },
+        {
+          "id": "C",
+          "content": "Người cán bộ cách mạng (1955)"
+        },
+        {
+          "id": "D",
+          "content": "Đạo đức cách mạng (1958)"
+        }
+      ],
+      "answer": "C",
+      "explain": "Trong bài Người cán bộ cách mạng (1955), Hồ Chí Minh yêu cầu “Người cán bộ cách mạng phải có đạo đức cách mạng… Mọi việc thành hay là bại, chủ chốt là do cán bộ có thấm nhuần đạo đức cách mạng, hay là không”\"."
+    },
+    {
+      "id": 14,
+      "question": "Luận điểm: “Đảng cần chăm lo giáo dục đạo đức cách mạng cho đoàn viên và thanh niên, đào tạo họ thành những người thừa kế xây dựng chủ nghĩa xã hội, vừa “hồng” vừa “chuyên””, được viết trong tác phẩm nào của Hồ Chí Minh?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Thư gửi thanh niên (1965)"
+        },
+        {
+          "id": "B",
+          "content": "Di chúc (1969)"
+        },
+        {
+          "id": "C",
+          "content": "Sửa đổi lối làm việc (1947)"
+        },
+        {
+          "id": "D",
+          "content": "Nâng cao đạo đức cách mạng, quét sạch chủ nghĩa cá nhân (1969)"
+        }
+      ],
+      "answer": "B",
+      "explain": "Trong Di chúc, Người viết:...Đảng cần phải chăm lo giáo dục đạo đức cách mạng cho họ, đào tạo họ thành những người thừa kế xây dựng chủ nghĩa xã hội vừa “hồng” vừa “chuyên”\"."
+    },
+    {
+      "id": 15,
+      "question": "Yếu tố cốt lõi đầu tiên tạo nên nền tảng tư tưởng đạo đức Hồ Chí Minh là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Tình thương người, yêu đồng loại"
+        },
+        {
+          "id": "B",
+          "content": "Là ham muốn tột bậc làm sao cho nước ta được hoàn toàn độc lập, dân ta được hoàn toàn tự do, đồng bào ai cũng có cơm ăn, áo mặc, ai cũng được học hành"
+        },
+        {
+          "id": "C",
+          "content": "Yêu đất nước mình"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Tình thương người, yêu đồng loại, yêu đồng bào, yêu đất nước mình là tư tưởng lớn... thể hiện ở sự ham muốn tột bậc của Người là “làm sao cho nước ta được hoàn toàn độc lập, dân ta được hoàn toàn tự do, đồng bào ai cũng có cơm ăn áo mặc... Đây là yếu tố cốt lõi đầu tiên tạo nên nền tảng tư tưởng đạo đức Hồ Chí Minh\"."
+    },
+    {
+      "id": 16,
+      "question": "Trong tình yêu thương con người, Hồ Chí Minh đòi hỏi mỗi người phải:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chặt chẽ và nghiêm khắc với mình; rộng rãi, độ lượng và giàu lòng vị tha với người khác"
+        },
+        {
+          "id": "B",
+          "content": "Rộng rãi độ lượng với mình, giàu lòng vị tha với người khác"
+        },
+        {
+          "id": "C",
+          "content": "Nghiêm khắc với mình, giàu lòng vị tha với người và dĩ hòa vi quý"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "A",
+      "explain": "Nó đòi hỏi mỗi người phải chặt chẽ và nghiêm khắc với mình; rộng rãi, độ lượng và giàu lòng vị tha đối với người khác...\"."
+    },
+    {
+      "id": 19,
+      "question": "Hồ Chí Minh xem xét con người trong sự thống nhất của hai mặt đối lập nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Thiện và ác, hay và dở"
+        },
+        {
+          "id": "B",
+          "content": "Tốt và xấu, hiền và dữ"
+        },
+        {
+          "id": "C",
+          "content": "Mặt xã hội và mặt sinh học"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "A",
+      "explain": "Hồ Chí Minh quan niệm, “Mỗi con người đều có thiện và ác ở trong lòng...\"."
+    },
+    {
+      "id": 20,
+      "question": "Để có những con người Việt Nam mới, theo Hồ Chí Minh phải có những phương pháp xây dựng con người như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nêu gương người tốt, việc tốt"
+        },
+        {
+          "id": "B",
+          "content": "Chú trọng đến giáo dục"
+        },
+        {
+          "id": "C",
+          "content": "Chú trọng vai trò của tổ chức Đảng, chính quyền, đoàn thể quần chúng"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Các biện pháp bao gồm: \"Mỗi người tự rèn luyện, tu dưỡng\", \"Việc nêu gương... là rất cần thiết\", \"Biện pháp giáo dục có một vị trí quan trọng\", và \"Chú trọng vai trò của tổ chức Đảng, chính quyền, đoàn thể quần chúng\"."
+    },
+    {
+      "id": 23,
+      "question": "Học tập theo tư tưởng Hồ Chí Minh về xây dựng con người, Hội nghị lần thứ 5 Ban chấp hành Trung ương khóa VIII (7/1998) đã nêu nhiệm vụ xây dựng con người Việt Nam trong thời kì đẩy mạnh công nghiệp hóa, hiện đại hóa với những phẩm chất nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Có tinh thần yêu nước, tự cường dân tộc"
+        },
+        {
+          "id": "B",
+          "content": "Có ý thức tập thể, đoàn kết, phấn đấu vì lợi ích chung"
+        },
+        {
+          "id": "C",
+          "content": "Có lối sống lành mạnh, nếp sống văn minh, cần kiệm, trung thực"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "...con người có tinh thần yêu nước, tự cường dân tộc... Có ý thức tập thể, đoàn kết... Có lối sống lành mạnh, nếp sống văn minh, cần kiệm, trung thực...\"."
+    },
+    {
+      "id": 24,
+      "question": "Tại sao phải học tập và làm theo đạo đức Hồ Chí Minh trong giai đoạn hiện nay?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Là đòi hỏi của sự nghiệp cách mạng, sự nghiệp đổi mới đất nước và hội nhập quốc tế"
+        },
+        {
+          "id": "B",
+          "content": "Nhằm làm cho mỗi người trở thành công dân tốt hơn, xứng đáng là những người làm chủ đất nước, biết trọng danh dự, lương tâm, trách nhiệm"
+        },
+        {
+          "id": "C",
+          "content": "Góp phần tích cực vào cuộc đấu tranh chống suy thoái về tư tưởng, chính trị, đạo đức, lối sống trong Đảng và trong xã hội"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Học tập và làm theo đạo đức Hồ Chí Minh là đòi hỏi của sự nghiệp cách mạng, sự nghiệp đổi mới đất nước và hội nhập quốc tế; nhằm làm cho mỗi người trở thành những công dân tốt hơn... Đồng thời, góp phần tích cực vào cuộc đấu tranh chống suy thoái về tư tưởng chính trị, đạo đức, lối sống trong Đảng và trong xã hội\"."
+    },
+    {
+      "id": 25,
+      "question": "Học tập đạo đức cách mạng của Hồ Chí Minh về phẩm chất trung với nước, hiếu với dân là học ở Người về:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Một con người trọn đời vì nước vì dân"
+        },
+        {
+          "id": "B",
+          "content": "Khí phách anh hùng, ý chí độc lập tự cường"
+        },
+        {
+          "id": "C",
+          "content": "Kiên trì mục tiêu, lý tưởng, không chịu khuất phục trước mọi kẻ thù"
+        },
+        {
+          "id": "D",
+          "content": "Tất cả các đáp án"
+        }
+      ],
+      "answer": "D",
+      "explain": "Học tập đạo đức cách mạng Hồ Chí Minh là phải trung với nước, hiếu với dân... là học phẩm chất con người trọn đời vì nước vì dân, là học tập khí phách anh hùng, ý chí độc lập tự cường, kiên trì mục tiêu lý tưởng, sáng tạo và quyết thắng, không chịu khuất phục trước mọi kẻ thù\"."
+    },
+    {
+      "id": 26,
+      "question": "Hồ Chí Minh khẳng định: “Vì lẽ sinh tồn cũng như mục đích của cuộc sống, loài người mới sáng tạo và phát minh ra ngôn ngữ, chữ viết, đạo đức, pháp luật, v.v... cho đến những phương thức sinh hoạt, v.v... nhằm thích ứng những nhu cầu (...)” Xác định cụm từ còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đời sống và những khát vọng tự do"
+        },
+        {
+          "id": "B",
+          "content": "Đời sống và đòi hỏi của sự sinh tồn"
+        },
+        {
+          "id": "C",
+          "content": "Đời sống và hạnh phúc của con người"
+        },
+        {
+          "id": "D",
+          "content": "Đời sống và sự ấm no của nhân dân"
+        }
+      ],
+      "answer": "B",
+      "explain": "...nhằm thích ứng những nhu cầu đời sống và đòi hỏi của sự sinh tồn”."
+    },
+    {
+      "id": 28,
+      "question": "Khi tiếp cận văn hóa ở nghĩa rộng, Hồ Chí Minh khẳng định văn hóa là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Là tổng hợp mọi phương thức sinh hoạt của con người"
+        },
+        {
+          "id": "B",
+          "content": "Là tổng hợp mọi hoạt động giáo dục đào tạo của con người"
+        },
+        {
+          "id": "C",
+          "content": "Là tổng hợp mọi hoạt động văn nghệ, thể dục thể thao của con người"
+        },
+        {
+          "id": "D",
+          "content": "Là tổng hợp mọi hoạt động vui chơi, giải trí của con người"
+        }
+      ],
+      "answer": "A",
+      "explain": "1) Tiếp cận theo nghĩa rộng, tổng hợp mọi phương thức sinh hoạt của con người\"."
+    },
+    {
+      "id": 29,
+      "question": "Từ sau Cách mạng tháng 8/1945, Hồ Chí Minh có bàn đến văn hóa nhưng theo ý nghĩa nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Văn hóa là hiện tượng thuần tuý của tinh thần xã hội"
+        },
+        {
+          "id": "B",
+          "content": "Đồng nhất văn hóa với văn học - nghệ thuật trong xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Văn hóa là đời sống vật chất của xã hội"
+        },
+        {
+          "id": "D",
+          "content": "Văn hóa là kiến trúc thượng tầng, là toàn bộ đời sống tinh thần của xã hội"
+        }
+      ],
+      "answer": "D",
+      "explain": "Từ sau Cách mạng Tháng Tám, Hồ Chí Minh có bàn đến văn hóa nhưng theo nghĩa hẹp, với ý nghĩa là kiến trúc thượng tầng, là toàn bộ đời sống tinh thần của xã hội.\"."
+    },
+    {
+      "id": 30,
+      "question": "Trong bài thơ Lịch sử nước ta, Hồ Chí Minh viết: “Dân ta phải biết (...) - cho tường (...) nước nhà Việt Nam”. Xác định các cụm từ còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Truyền thống/ lịch sử"
+        },
+        {
+          "id": "B",
+          "content": "Đồng lòng/ Dấu tích"
+        },
+        {
+          "id": "C",
+          "content": "Khát vọng/ Di tích"
+        },
+        {
+          "id": "D",
+          "content": "Sử ta/ gốc tích"
+        }
+      ],
+      "answer": "D",
+      "explain": "dân ta phải biết sử ta, cho tường gốc tích nước nhà Việt Nam”."
+    },
+    {
+      "id": 31,
+      "question": "Hồ Chí Minh khẳng định: ở nước Việt Nam thuộc địa, văn hóa có mối quan hệ thế nào với chính trị?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Văn hóa có được giải phóng thì chính trị mới được giải phóng"
+        },
+        {
+          "id": "B",
+          "content": "Chính trị giải phóng mở đường cho văn hóa phát triển"
+        },
+        {
+          "id": "C",
+          "content": "Chính trị, xã hội có được giải phóng thì văn hóa mới được giải phóng"
+        },
+        {
+          "id": "D",
+          "content": "Chính trị, kinh tế có được giải phóng thì văn hóa mới được giải phóng"
+        }
+      ],
+      "answer": "B",
+      "explain": "...giành độc lập dân tộc, xóa ách nô lệ... Đó chính là sự giải phóng chính trị để mở đường cho văn hóa phát triển.\"."
+    },
+    {
+      "id": 32,
+      "question": "Theo Hồ Chí Minh, văn hóa không thể đứng ngoài mà phải ở trong chính trị, tức là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Văn hóa phải phục vụ nhiệm vụ chính trị"
+        },
+        {
+          "id": "B",
+          "content": "Văn hóa phải là đời sống tinh thần của xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Văn hóa thực hiện nhiệm vụ phò chính, trừ tà"
+        },
+        {
+          "id": "D",
+          "content": "Văn hóa một mặt trận và quan trọng như các mặt trận khác"
+        }
+      ],
+      "answer": "A",
+      "explain": "...văn hóa không thể đứng ngoài mà phải ở trong chính trị, tức là văn hóa phải phục vụ nhiệm vụ chính trị...\"."
+    },
+    {
+      "id": 34,
+      "question": "Theo Hồ Chí Minh, văn hóa không thể đứng ngoài mà phải đứng trong kinh tế, nghĩa là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Văn hóa phụ thuộc hoàn toàn vào kinh tế, kinh tế quyết định văn hóa"
+        },
+        {
+          "id": "B",
+          "content": "Văn hóa không phụ thuộc hoàn toàn vào kinh tế, mà có vai trò tác động tích cực trở lại kinh tế"
+        },
+        {
+          "id": "C",
+          "content": "Văn hóa và kinh tế có sự tác động qua lại lẫn nhau, tạo thành nền tảng đời sống vật chất của xã hội"
+        },
+        {
+          "id": "D",
+          "content": "Kinh tế không phụ thuộc vào văn hóa, mà kinh tế có vai trò tác động tích cực trở lại văn hóa"
+        }
+      ],
+      "answer": "B",
+      "explain": "...văn hóa không hoàn toàn phụ thuộc vào kinh tế, mà có vai trò tác động tích cực trở lại kinh tế.\"."
+    },
+    {
+      "id": 36,
+      "question": "Xã hội thế nào, văn nghệ thế ấy. Văn nghệ của dân tộc ta vốn rất phong phú, nhưng dưới chế độ thực dân và phong kiến, nhân dân ta bị nô lệ, thì văn nghệ cũng bị..., không thể phát triển được. Hoàn thiện câu nói của Hồ Chí Minh?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nô dịch, bị đồng hóa"
+        },
+        {
+          "id": "B",
+          "content": "Nô lệ, kém phát triển"
+        },
+        {
+          "id": "C",
+          "content": "Nô lệ, bị tồi tàn"
+        },
+        {
+          "id": "D",
+          "content": "Nô lệ, bị đồng hóa"
+        }
+      ],
+      "answer": "C",
+      "explain": "...trong chế độ nô lệ của kẻ áp bức, thì văn nghệ cũng bị nô lệ, bị tồi tàn không thể phát triển được.\"."
+    },
+    {
+      "id": 37,
+      "question": "Bản sắc văn hóa dân tộc theo quan điểm của Hồ Chí Minh được nhìn nhận qua 2 lớp thế hệ, bao gồm:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Hình thức và nội dung"
+        },
+        {
+          "id": "B",
+          "content": "Hình thức và tính chất"
+        },
+        {
+          "id": "C",
+          "content": "Nội dung và nguyên tắc"
+        },
+        {
+          "id": "D",
+          "content": "Tính chất và nguyên tắc"
+        }
+      ],
+      "answer": "A",
+      "explain": "Bản sắc văn hóa dân tộc được nhìn nhận qua hai lớp quan hệ. Về nội dung... Về hình thức...\"."
+    },
+    {
+      "id": 38,
+      "question": "Theo Hồ Chí Minh, về nội dung của bản sắc văn hóa dân tộc được biểu hiện như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Ở lòng yêu nước, thương nòi; tinh thần độc lập, tự cường, tự tôn dân tộc"
+        },
+        {
+          "id": "B",
+          "content": "Ở lòng yêu nước, thương dân; tinh thần hữu nghị với các nước trên thế giới"
+        },
+        {
+          "id": "C",
+          "content": "Ở lòng yêu nước, thương những người bị áp bức, bóc lột"
+        },
+        {
+          "id": "D",
+          "content": "Ở lòng yêu nước, yêu chế độ xã hội chủ nghĩa; khát vọng hòa bình, giàu mạnh"
+        }
+      ],
+      "answer": "A",
+      "explain": "Về nội dung, đó là lòng yêu nước, thương nòi; tinh thần độc lập, tự cường, tự tôn dân tộc...\"."
+    },
+    {
+      "id": 39,
+      "question": "Theo Hồ Chí Minh, hình thức, cốt cách văn hóa dân tộc được biểu hiện:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Ở ngôn ngữ, phong tục, tập quán, lễ hội, truyền thống, cách cảm và nghĩ"
+        },
+        {
+          "id": "B",
+          "content": "Ở cách nói, cách viết, các diễn đạt của các tác phẩm văn hóa văn nghệ"
+        },
+        {
+          "id": "C",
+          "content": "Ở lối sống, đạo đức, nhân cách của con người Việt Nam"
+        },
+        {
+          "id": "D",
+          "content": "Ở triết lý giáo dục Việt Nam trong thời kỳ đất nước độc lập"
+        }
+      ],
+      "answer": "A",
+      "explain": "Về hình thức, cốt cách văn hóa dân tộc biểu hiện ở ngôn ngữ, phong tục, tập quán, lễ hội, truyền thống, cách cảm và nghĩ...\"."
+    },
+    {
+      "id": 40,
+      "question": "Theo Hồ Chí Minh yếu tố nào là ngọn nguồn đi tới chủ nghĩa Mác – Lênin?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Văn hóa phương Đông"
+        },
+        {
+          "id": "B",
+          "content": "Văn hóa phương Tây"
+        },
+        {
+          "id": "C",
+          "content": "Đạo đức truyền thống"
+        },
+        {
+          "id": "D",
+          "content": "Bản sắc văn hóa dân tộc"
+        }
+      ],
+      "answer": "D",
+      "explain": "Bản sắc văn hóa dân tộc chứa đựng giá trị lớn... Nó là ngọn nguồn đi tới chủ nghĩa Mác - Lênin.\"."
+    },
+    {
+      "id": 41,
+      "question": "Trước Cách mạng tháng Tám năm 1945, Hồ Chí Minh có quan điểm xây dựng nền văn hóa mới với định hướng về tâm lý là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Tinh thần vì nước quên mình, vì lợi ích chung quên lợi ích riêng"
+        },
+        {
+          "id": "B",
+          "content": "Tinh thần làm chủ"
+        },
+        {
+          "id": "C",
+          "content": "Tinh thần học tập, nâng cao trình độ chuyên môn, nghiệp vụ"
+        },
+        {
+          "id": "D",
+          "content": "Tinh thần độc lập tự cường"
+        }
+      ],
+      "answer": "D",
+      "explain": "Xây dựng tâm lý: Tinh thần độc lập tự cường.\"."
+    },
+    {
+      "id": 42,
+      "question": "Theo Hồ Chí Minh, mặt trận văn hóa là cuộc chiến đấu trên lĩnh vực văn hóa; vì vậy anh chị em văn nghệ sĩ là (...) trên mặt trận ấy; cũng như các chiến sĩ khác, chiến sĩ nghệ thuật có nhiệm vụ (...) Tổ quốc, phục vụ nhân dân. Xác định cụm từ còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Chiến sĩ/phục vụ"
+        },
+        {
+          "id": "B",
+          "content": "Chiến sĩ/phụng sự"
+        },
+        {
+          "id": "C",
+          "content": "Lãnh đạo/phục vụ"
+        },
+        {
+          "id": "D",
+          "content": "Lãnh đạo/phụng sự"
+        }
+      ],
+      "answer": "B",
+      "explain": "...anh chị em văn nghệ sĩ là chiến sĩ trên mặt trận ấy; cũng như các chiến sĩ khác, chiến sĩ nghệ thuật có nhiệm vụ phụng sự Tổ quốc, phục vụ nhân dân.\"."
+    },
+    {
+      "id": 43,
+      "question": "Trước Cách mạng tháng Tám năm 1945, Hồ Chí Minh có quan điểm xây dựng nền văn hóa mới với định hướng về luân lý là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Tinh thần độc lập tự cường"
+        },
+        {
+          "id": "B",
+          "content": "Biết hi sinh mình, làm lợi cho quần chúng"
+        },
+        {
+          "id": "C",
+          "content": "Mọi sự nghiệp liên quan đến phúc lợi của cá nhân phải được đảm bảo"
+        },
+        {
+          "id": "D",
+          "content": "Dân quyền"
+        }
+      ],
+      "answer": "B",
+      "explain": "Xây dựng luân lý: Biết hy sinh mình, làm lợi cho quần chúng.\"."
+    },
+    {
+      "id": 45,
+      "question": "Luận điểm: “Cũng như sông thì có nguồn mới có nước, không có nguồn thì sông cạn. Cây phải có gốc, không có gốc thì cây héo. Người cách mạng phải có (...), không có (...) thì dù tài giỏi mấy cũng không lãnh đạo được nhân dân”72. Xác định cụm từ còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Tình thương"
+        },
+        {
+          "id": "B",
+          "content": "Lòng nhân ái"
+        },
+        {
+          "id": "C",
+          "content": "Đạo đức"
+        },
+        {
+          "id": "D",
+          "content": "Liêm"
+        }
+      ],
+      "answer": "C",
+      "explain": "...Người cách mạng phải có đạo đức, không có đạo đức thì dù tài giỏi mấy cũng không lãnh đạo được nhân dân.\"."
+    },
+    {
+      "id": 46,
+      "question": "Luận điểm: “Sức có mạnh mới gánh được nặng và đi được xa. Người cách mạng phải có đạo đức cách mạng làm nền tảng, mới hoàn thành được (...)”73. Xác định cụm từ thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nhiệm vụ cách mạng vẻ vang"
+        },
+        {
+          "id": "B",
+          "content": "Nhiệm vụ xây dựng đất nước"
+        },
+        {
+          "id": "C",
+          "content": "Nhiệm vụ mới của đất nước"
+        },
+        {
+          "id": "D",
+          "content": "Nhiệm vụ xây dựng đời sống mới"
+        }
+      ],
+      "answer": "A",
+      "explain": "...mới hoàn thành được nhiệm vụ cách mạng vẻ vang\"."
+    },
+    {
+      "id": 48,
+      "question": "Phẩm chất đạo đức bao trùm nhất trong quan điểm Hồ Chí Minh về những chuẩn mực đạo đức cách mạng là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Trung với nước, hiếu với dân"
+        },
+        {
+          "id": "B",
+          "content": "Cần kiệm, liêm, chính, chí công vô tư"
+        },
+        {
+          "id": "C",
+          "content": "Có tình yêu thương con người, sống có tình có nghĩa"
+        },
+        {
+          "id": "D",
+          "content": "Có tinh thần quốc tế trong sáng"
+        }
+      ],
+      "answer": "A",
+      "explain": "Trung với nước, hiếu với dân là phẩm chất đạo đức bao trùm quan trọng nhất và chi phối các phẩm chất khác.\"."
+    },
+    {
+      "id": 49,
+      "question": "Hồ Chí Minh chỉ ra rằng: “Mỗi con người đều có thiện và ác ở trong lòng. Ta phải biết làm cho phần tốt ở trong mỗi con người (...), đó là thái độ của người cách mạng”⁷⁴. Xác định cụm từ còn thiếu trong dấu ngoặc đơn?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nảy nở như hoa mùa Xuân và phần xấu bị mất dần đi"
+        },
+        {
+          "id": "B",
+          "content": "Nảy nở như hoa mùa Hè và phần xấu bị mất dần đi"
+        },
+        {
+          "id": "C",
+          "content": "Nảy nở như hoa mùa Thu và phần xấu bị mất dần đi"
+        },
+        {
+          "id": "D",
+          "content": "Nảy nở như hoa mùa Đông và phần xấu bị mất dần đi"
+        }
+      ],
+      "answer": "A",
+      "explain": "...nảy nở như hoa mùa Xuân và phần xấu bị mất dần đi, đó là thái độ của người cách mạng”."
+    },
+    {
+      "id": 50,
+      "question": "Theo Hồ Chí Minh, chữ “Cần” được hiểu như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Lao động siêng năng, chăm chỉ, không lười biếng, không ỷ lại vào người khác; thông qua lao động để giao tiếp với mọi người để hoàn thiện bản thân"
+        },
+        {
+          "id": "B",
+          "content": "Lao động cần cù, siêng năng; có kế hoạch, sáng tạo, năng suất cao; lao động với tinh thần tự lực cánh sinh, không lười biếng"
+        },
+        {
+          "id": "C",
+          "content": "Lao động chăm chỉ, coi lao động là vinh quang, là động lực, là niềm vui nên luôn tích cực, chủ động trong lao động"
+        },
+        {
+          "id": "D",
+          "content": "Lao động cần cù; xem lao động là niềm vui, niềm hạnh phúc; chủ động, tích cực trong lao động; lấy lao động làm thước đo giá trị ở mỗi người"
+        }
+      ],
+      "answer": "B",
+      "explain": "Cần tức là siêng năng, chăm chỉ, cố gắng dẻo dai”... Cần tức là lao động cần cù, siêng năng; lao động có kế hoạch, sáng tạo, có năng suất cao; lao động với tinh thần tự lực cánh sinh, không lười biếng."
+    },
+    {
+      "id": 51,
+      "question": "Theo Hồ Chí Minh, chữ “Liêm” có nghĩa là: “Không tham địa vị. Không tham (...). Không tham (...). Không ham người (...) mình. Chỉ có một thứ ham là ham học, ham làm, ham tiến bộ”⁷⁵. Xác định cụm từ còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Quyền lực/ giàu sang/ tâng bốc"
+        },
+        {
+          "id": "B",
+          "content": "Tiền tài/ sung sướng/ tâng bốc"
+        },
+        {
+          "id": "C",
+          "content": "Danh vọng/ quyền lực/ xu nịnh"
+        },
+        {
+          "id": "D",
+          "content": "Chức vụ/ giàu sang/ xu nịnh"
+        }
+      ],
+      "answer": "B",
+      "explain": "Liêm là không tham địa vị. Không tham tiền tài. Không tham sung sướng. Không ham người tâng bốc mình.\"."
+    },
+    {
+      "id": 55,
+      "question": "Theo Hồ Chí Minh, yếu tố nào sau đây được xem là quý trọng nhất?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Vốn"
+        },
+        {
+          "id": "B",
+          "content": "Khoa học, kỹ thuật"
+        },
+        {
+          "id": "C",
+          "content": "Con người"
+        },
+        {
+          "id": "D",
+          "content": "Tài nguyên, khoáng sản."
+        }
+      ],
+      "answer": "C",
+      "explain": "Theo Hồ Chí Minh, con người là vốn quý nhất...\"."
+    },
+    {
+      "id": 56,
+      "question": "Hồ Chí Minh viết: “Vô luận việc gì, đều do (...) làm ra, từ nhỏ đến to, từ gần đến xa, đều thế cả”⁷⁶. Xác định cụm từ còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nông dân"
+        },
+        {
+          "id": "B",
+          "content": "Công nhân"
+        },
+        {
+          "id": "C",
+          "content": "Người"
+        },
+        {
+          "id": "D",
+          "content": "Con người"
+        }
+      ],
+      "answer": "C",
+      "explain": "mọi việc đều do người làm ra\". (Theo nguyên văn các câu trích chuẩn: \"Vô luận việc gì, đều do người làm ra...\")"
+    },
+    {
+      "id": 57,
+      "question": "Hồ Chí Minh yêu cầu: \"Việc dễ mấy không có (...) cũng chịu, việc khó mấy có (...) liệu cũng xong\". Xác định cụm từ còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Dân- Nhân dân"
+        },
+        {
+          "id": "B",
+          "content": "Nhân dân- Dân"
+        },
+        {
+          "id": "C",
+          "content": "Nhân dân- Nông dân"
+        },
+        {
+          "id": "D",
+          "content": "Dân- Công nhân"
+        }
+      ],
+      "answer": "B",
+      "explain": "Nhân dân- Dân (Lưu ý: Nguyên văn thường trích là \"Dễ trăm lần không dân cũng chịu, khó vạn lần dân liệu cũng xong\". Trong form đáp án câu này thông thường điền chữ \"nhân dân\")."
+    },
+    {
+      "id": 58,
+      "question": "Chọn đáp án đúng nhất với quan điểm của Hồ Chí Minh về chủ thể sáng tạo ra mọi giá trị vật chất, tinh thần cho xã hội là?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nông dân"
+        },
+        {
+          "id": "B",
+          "content": "Công nhân"
+        },
+        {
+          "id": "C",
+          "content": "Trí thức"
+        },
+        {
+          "id": "D",
+          "content": "Nhân dân"
+        }
+      ],
+      "answer": "D",
+      "explain": "Nhân dân là những người sáng tạo chân chính ra lịch sử thông qua các hoạt động thực tiễn cơ bản nhất như lao động sản xuất... sáng tạo ra các giá trị văn hóa.\"."
+    },
+    {
+      "id": 59,
+      "question": "Để xây dựng được con người vừa hồng vừa chuyên, Hồ Chí Minh chú trọng đến lĩnh vực gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Kinh tế"
+        },
+        {
+          "id": "B",
+          "content": "Giáo dục"
+        },
+        {
+          "id": "C",
+          "content": "Chính trị"
+        },
+        {
+          "id": "D",
+          "content": "Văn hóa - xã hội"
+        }
+      ],
+      "answer": "B",
+      "explain": "Công việc “trồng người” là công việc của văn hóa giáo dục\", \"Biện pháp giáo dục có một vị trí quan trọng... giáo dục rất quan trọng trong việc xây dựng con người\"."
+    },
+    {
+      "id": 60,
+      "question": "Dưới ánh sáng tư tưởng Hồ Chí Minh, Cương lĩnh xây dựng đất nước (2011) của Đảng đã khẳng định: \"Con người là (...) phát triển, đồng thời là (...) phát triển. Tôn trọng và bảo vệ quyền con người, gắn quyền con người với quyền và lợi ích của dân tộc, đất nước và quyền làm chủ của nhân dân\". Xác định cụm từ còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Trung tâm của chiến lược/ chủ thể"
+        },
+        {
+          "id": "B",
+          "content": "Trọng tâm của chiến lược/ chủ thể"
+        },
+        {
+          "id": "C",
+          "content": "Quan trọng của chiến lược/ chủ thể"
+        },
+        {
+          "id": "D",
+          "content": "Then chốt của chiến lược/ chủ thể"
+        }
+      ],
+      "answer": "A",
+      "explain": "con người là trung tâm của chiến lược phát triển, đồng thời là chủ thể phát triển...\"."
+    },
+    {
+      "id": 63,
+      "question": "Theo Hồ Chí Minh, bản sắc văn hóa dân tộc được hiểu thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Những giá trị bền vững của cộng đồng các dân tộc Việt Nam như yêu nước, tinh thần độc lập tự cường, tự tôn dân tộc"
+        },
+        {
+          "id": "B",
+          "content": "Những giá trị văn hóa bền vững của cộng đồng các dân tộc Việt Nam; là thành quả của quá trình lao động, sản xuất chiến đấu và giao lưu của con người Việt Nam"
+        },
+        {
+          "id": "C",
+          "content": "Những giá trị văn hóa bền vững, là thành quả của quá trình lao động, sản xuất, chiến đấu của cộng đồng người Việt Nam"
+        },
+        {
+          "id": "D",
+          "content": "Những giá trị bền vững của cộng đồng các dân tộc Việt Nam. Được nhìn nhận qua 2 lớp thế hệ"
+        }
+      ],
+      "answer": "B",
+      "explain": "Bản sắc văn hóa dân tộc là những giá trị văn hóa bền vững của cộng đồng các dân tộc Việt Nam; là thành quả của quá trình lao động, sản xuất, chiến đấu và giao lưu của con người Việt Nam.\"."
+    },
+    {
+      "id": 65,
+      "question": "Theo Hồ Chí Minh, giữ gìn bản sắc văn hóa dân tộc phải đi đôi với tiếp thu tinh hoa văn hóa nhân loại. Tuy nhiên, để giữ gìn cốt cách văn hóa dân tộc với tiếp thu văn hóa nhân loại cần phải có điều kiện gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Lấy văn hóa dân tộc làm gốc"
+        },
+        {
+          "id": "B",
+          "content": "Lấy văn hóa dân tộc làm nền tảng"
+        },
+        {
+          "id": "C",
+          "content": "Lấy văn hóa dân tộc làm then chốt"
+        },
+        {
+          "id": "D",
+          "content": "Lấy văn hóa dân tộc làm chỗ dựa"
+        }
+      ],
+      "answer": "A",
+      "explain": "Mối quan hệ giữa giữ gìn cốt cách văn hóa dân tộc và tiếp thu văn hóa nhân loại là phải lấy văn hóa dân tộc làm gốc, đó là điều kiện, cơ sở để tiếp thu văn hóa nhân loại.\"."
+    },
+    {
+      "id": 66,
+      "question": "Theo Hồ Chí Minh, nội dung tiếp thu tinh hoa văn hóa nhân loại là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Là văn hóa phương Đông, đặc biệt là văn hóa Ấn Độ, Trung Quốc"
+        },
+        {
+          "id": "B",
+          "content": "Là văn hóa phương Tây, đặc biệt là tư tưởng dân chủ tư sản"
+        },
+        {
+          "id": "C",
+          "content": "Là toàn diện bao gồm Đông, Tây, kim, cổ, tất cả các mặt, các khía cạnh"
+        },
+        {
+          "id": "D",
+          "content": "Là toàn diện bao gồm văn hóa phương Đông, phương Tây"
+        }
+      ],
+      "answer": "C",
+      "explain": "Nội dung tiếp thu là toàn diện bao gồm Đông, Tây, kim, cổ, tất cả các mặt, các khía cạnh.\"."
+    },
+    {
+      "id": 67,
+      "question": "Tiêu chí tiếp thu tinh hoa văn hóa nhân loại theo Hồ Chí Minh là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Tiếp thu cái gì hay, cái gì tốt của văn hóa nhân loại thì thì ta học lấy"
+        },
+        {
+          "id": "B",
+          "content": "Tiếp thu tất cả văn hóa nhân loại, không bỏ sót nền văn hóa nào"
+        },
+        {
+          "id": "C",
+          "content": "Chỉ tiếp thu các giá trị văn hóa Trung Quốc, Ấn Độ, Liên Xô"
+        },
+        {
+          "id": "D",
+          "content": "Tiếp thu có chọn lọc văn hóa nhân loại, nhưng chú trọng tiếp thu văn hóa các nước cùng chung chế độ xã hội chủ nghĩa"
+        }
+      ],
+      "answer": "A",
+      "explain": "Tiêu chí tiếp thu là có cái gì hay, cái gì tốt là ta học lấy.\"."
+    },
+    {
+      "id": 70,
+      "question": "Đối với một quốc gia cần, kiệm, liêm, chính là thước đo sự giàu có về vật chất, vững mạnh về tinh thần, thể hiện (...) theo tư tưởng của Hồ Chí Minh. Xác định cụm từ còn thiếu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Sự tiến bộ, khoa học và là động lực của chế độ mới"
+        },
+        {
+          "id": "B",
+          "content": "Sự phong phú, đa dạng và là yêu cầu của đời sống mới"
+        },
+        {
+          "id": "C",
+          "content": "Sự văn minh, tiến bộ và là nền tảng của đời sống mới"
+        },
+        {
+          "id": "D",
+          "content": "Sự khoa học, văn minh và là cơ sở của đời sống mới"
+        }
+      ],
+      "answer": "C",
+      "explain": "Một dân tộc biết cần, kiệm, biết liêm, là một dân tộc giàu về vật chất, mạnh về tinh thần, là một dân tộc văn minh tiến bộ”... Cần, kiệm, liêm, chính còn là nền tảng của đời sống mới."
+    },
+    {
+      "id": 71,
+      "question": "Vai trò của văn hóa văn nghệ trong quan điểm Hồ Chí Minh là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nâng cao lòng yêu nước, tình cảm cách mạng, sự lạc quan, ý chí quyết tâm và niềm tin vào cách mạng"
+        },
+        {
+          "id": "B",
+          "content": "Nâng cao tinh thần lạc quan, vui vẻ và niềm tin vào cách mạng"
+        },
+        {
+          "id": "C",
+          "content": "Là thang thuốc tinh thần vô giá, cổ vũ bộ đội trong kháng chiến"
+        },
+        {
+          "id": "D",
+          "content": "Giúp mọi người lạc quan, vui tươi trong cuộc sống và chiến đấu, lao động và học tập"
+        }
+      ],
+      "answer": "A",
+      "explain": "Văn hóa văn nghệ góp phần nâng cao lòng yêu nước, lý tưởng, tình cảm cách mạng, sự lạc quan, ý chí, quyết tâm và niềm tin vào thắng lợi cuối cùng của cách mạng.\"."
+    },
+    {
+      "id": 72,
+      "question": "Theo Hồ Chí Minh, văn hóa giáo dục có vai trò như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Giúp người học có kiến thức về chuyên môn, nghiệp vụ, có năng lực làm chủ"
+        },
+        {
+          "id": "B",
+          "content": "Diệt giặc dốt, xóa mà chữ, giúp con người hiểu biết quy luật phát triển xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Giúp người học hiểu biết sâu sắc về lịch sử, địa lý dân tộc và thế giới."
+        },
+        {
+          "id": "D",
+          "content": "Nâng cao trình độ dân trí, đấu tranh chống các biểu hiện phản văn hóa"
+        }
+      ],
+      "answer": "B",
+      "explain": "Văn hóa giáo dục diệt giặc dốt, xóa mù chữ, giúp con người hiểu biết quy luật phát triển của xã hội.\"."
+    },
+    {
+      "id": 73,
+      "question": "Với sứ mệnh trồng người, theo Hồ Chí Minh văn hóa giáo dục thực hiện nhiệm vụ gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Đào tạo con người mới, cán bộ mới, nguồn nhân lực chất lượng cao cho sự nghiệp cách mạng"
+        },
+        {
+          "id": "B",
+          "content": "Đào tạo đội ngũ trí thức phát triển toàn diện cả đức, trí, thể, mỹ đáp ứng được yêu cầu sự nghiệp đấu tranh giải phóng dân tộc"
+        },
+        {
+          "id": "C",
+          "content": "Đào tạo con người Việt Nam giỏi về chuyên môn, nghiệp vụ đáp ứng được yêu cầu của sự nghiệp đổi mới đất nước"
+        },
+        {
+          "id": "D",
+          "content": "Cải tạo trí thức cũ, xây dựng trí thức mới, đáp ứng được yêu cầu, nhiệm vụ của sự nghiệp xây dựng chủ nghĩa xã hội"
+        }
+      ],
+      "answer": "A",
+      "explain": "Với sứ mệnh “trồng người”, văn hóa giáo dục đào tạo con người mới, cán bộ mới, nguồn nhân lực chất lượng cao cho sự nghiệp cách mạng.\"."
+    },
+    {
+      "id": 74,
+      "question": "Theo Hồ Chí Minh, văn hóa đạo đức lối sống có vai trò như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Giúp giáo dục đạo đức cách mạng: cần, kiệm, liêm, chính, chí công vô tư"
+        },
+        {
+          "id": "B",
+          "content": "Giúp nâng cao phẩm giá, phong cách, hướng con người tới giá trị chân, thiện, mỹ"
+        },
+        {
+          "id": "C",
+          "content": "Giúp xây dựng đời sống văn hóa lành mạnh, sống có ý thức bảo vệ môi trường"
+        },
+        {
+          "id": "D",
+          "content": "Giúp nâng cao người dân nâng cao ý thức xây dựng văn hóa, tích cực đấu tranh chống những biểu hiện phản văn hóa, phản tiến bộ"
+        }
+      ],
+      "answer": "B",
+      "explain": "Văn hóa đạo đức, lối sống nâng cao phẩm giá, phong cách lành mạnh cho con người, hướng con người tới các giá trị chân, thiện, mỹ.\"."
+    },
+    {
+      "id": 76,
+      "question": "Để làm tròn nhiệm vụ “phò chính trừ tà” của mình, theo Hồ Chí Minh chiến sĩ nghệ thuật phải có lập trường như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Tư tưởng vững vàng, có cách lập luận vấn đề rõ ràng, khúc triết"
+        },
+        {
+          "id": "B",
+          "content": "Tư tưởng bám sát thực tiễn, ngòi bút phải sâu sắc, gần gũi với nhân dân"
+        },
+        {
+          "id": "C",
+          "content": "Tư tưởng vững vàng, bám sát thực tiễn, phê bình nghiêm khắc những thói hư tật xấu, ca tụng chân thật những người tốt, việc tốt"
+        },
+        {
+          "id": "D",
+          "content": "Tư tưởng vững vàng, luôn nghe và viết theo đời sống thực tiễn của quần chúng"
+        }
+      ],
+      "answer": "C",
+      "explain": "Để làm tròn nhiệm vụ, chiến sĩ nghệ thuật phải có lập trường tư tưởng vững vàng... Phải bám sát cuộc sống thực tiễn, đi sâu vào quần chúng, để phê bình nghiêm khắc những thói xấu... và ca tụng chân thật những người tốt việc tốt...\"."
+    },
+    {
+      "id": 77,
+      "question": "Văn hóa phải gắn với thực tiễn đời sống của nhân dân. Để làm được như vậy, Hồ Chí Minh đã khẳng định các văn nghệ sĩ phải:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Thật sự giác ngộ, tin tưởng vào quần chúng,v.v..để thấu hiểu tâm tư, tình cảm và nguyện vọng của nhân dân"
+        },
+        {
+          "id": "B",
+          "content": "Thật hòa mình vào quần chúng,v.v..để hiểu thấu tâm tư, tình cảm, nguyện vọng của nhân dân"
+        },
+        {
+          "id": "C",
+          "content": "Thật thà, dũng cảm, đoàn kết quần chúng thành một khối,v.v..để hiểu thấu tâm tư, tình cảm, nguyện vọng của nhân dân"
+        },
+        {
+          "id": "D",
+          "content": "Thật tin tưởng, yêu dân, kính dân,v.v..để thấu hiểu tâm tư, tình cảm, nguyện vọng của nhân dân"
+        }
+      ],
+      "answer": "B",
+      "explain": "Văn nghệ sĩ phải đưa tác phẩm \"từ trong quần chúng ra. Về sâu trong quần chúng\" và \"hiểu và đánh giá đúng quần chúng\". (Đáp án B là đáp án sát nghĩa nhất với yêu cầu \"hòa mình\" vào thực tế đời sống nhân dân)."
+    },
+    {
+      "id": 78,
+      "question": "Tính đại chúng của nền văn hóa theo quan điểm Hồ Chí Minh được thể hiện ở những việc nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Phải phục vụ dân tộc và do dân tộc xây dựng nên"
+        },
+        {
+          "id": "B",
+          "content": "Phải phục vụ nhân dân và do nhân dân xây dựng nên"
+        },
+        {
+          "id": "C",
+          "content": "Phải phục vụ đồng bào và do đồng bào xây dựng nên"
+        },
+        {
+          "id": "D",
+          "content": "Phải phục vụ quần chúng và do quần chúng xây dựng nên"
+        }
+      ],
+      "answer": "B",
+      "explain": "Tư tưởng của Người là \"Văn hóa phục vụ quần chúng nhân dân\" và \"quần chúng là những người sáng tác rất hay\"."
+    },
+    {
+      "id": 79,
+      "question": "Trong thời kì xây dựng chủ nghĩa xã hội ở miền Bắc, Hồ Chí Minh chủ trương xây dựng nền văn hóa như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Có nội dung xã hội chủ nghĩa và tính chất dân tộc"
+        },
+        {
+          "id": "B",
+          "content": "Có nội dung xã hội chủ nghĩa và tính chất thời đại"
+        },
+        {
+          "id": "C",
+          "content": "Có nội dung tư bản chủ nghĩa và tính chất thời đại"
+        },
+        {
+          "id": "D",
+          "content": "Có nội dung tư bản chủ nghĩa và tính chất dân tộc"
+        }
+      ],
+      "answer": "A",
+      "explain": "Trong thời kỳ nhân dân miền Bắc quá độ lên chủ nghĩa xã hội, Hồ Chí Minh chủ trương xây dựng nền văn hóa có nội dung xã hội chủ nghĩa và tính chất dân tộc.\"."
+    },
+    {
+      "id": 81,
+      "question": "Để giữ gìn bản sắc văn hóa dân tộc, theo Hồ Chí Minh trách nhiệm của con người Việt Nam là cần phải làm gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Biết kết thừa, chọn lọc những cái hay của văn hóa các dân tộc thiểu số và tích cực hội nhập, giao lưu văn quốc tế"
+        },
+        {
+          "id": "B",
+          "content": "Xây dựng nền văn hóa mới trên cơ sở kế thừa, tiếp thu những giá trị văn hóa đông, tây để làm giàu bản sắc văn hóa dân tộc"
+        },
+        {
+          "id": "C",
+          "content": "Phải trân trọng, khai thác, giữ gìn, phát huy, phát triển những giá trị của văn hóa dân tộc, đáp ứng yêu cầu, nhiệm vụ từng giai đoạn cách mạng"
+        },
+        {
+          "id": "D",
+          "content": "Tích cực đấu tranh chống những biểu hiện phản văn hóa, phản tiến bộ, đặc biệt là các hủ tục, mê tín, dị đoan"
+        }
+      ],
+      "answer": "C",
+      "explain": "...trách nhiệm của con người Việt Nam là phải trân trọng, khai thác, giữ gìn, phát huy, phát triển những giá trị của văn hóa dân tộc, đáp ứng yêu cầu, nhiệm vụ cách mạng của từng giai đoạn lịch sử.\"."
+    },
+    {
+      "id": 86,
+      "question": "Hồ Chí Minh rất quan tâm đến giáo dục toàn diện cho các em học sinh, sinh viên cả về “Đức, trí, thể, mỹ”. Trong đó, đức được xác định bao gồm:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nếp ăn ở, sinh hoạt hàng ngày, trước hết là với gia đình, anh em, bạn bè, rộng ra là với quốc gia, dân tộc; học để làm việc, làm người, làm cán bộ"
+        },
+        {
+          "id": "B",
+          "content": "Nếp ăn ở, khả năng vượt lên khó khăn, thử thách để đạt được mục tiêu trong cuộc sống"
+        },
+        {
+          "id": "C",
+          "content": "Nếp ăn ở, ý thức tự lực, tự cường, khát vọng vươn lên để khẳng định những giá trị bản thân trong học tập, lao động"
+        },
+        {
+          "id": "D",
+          "content": "Nếp ăn ở, học tập, sinh hoạt, lao động, học không biết chán, luôn có ý thức thi đua trong học tập"
+        }
+      ],
+      "answer": "A",
+      "explain": "Đức bao gồm nếp ăn ở, sinh hoạt hằng ngày, trước hết là với gia đình, anh em, bạn bè, rộng ra là với quốc gia, dân tộc; học để làm việc, làm người, làm cán bộ.\"."
+    },
+    {
+      "id": 87,
+      "question": "Theo Hồ Chí Minh, đạo đức là nhân tố tạo nên sự hấp dẫn của chủ nghĩa xã hội bắt nguồn trước hết từ đâu?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Những giá trị đạo đức cao đẹp, mức sống vật chất dồi dào của những người cộng sản ưu tú"
+        },
+        {
+          "id": "B",
+          "content": "Những giá trị đạo đức cao đẹp, tư tưởng tự do giải phóng của những người cộng sản ưu tú"
+        },
+        {
+          "id": "C",
+          "content": "Những giá trị đạo đức cao đẹp, phẩm chất của những người cộng sản ưu tú"
+        },
+        {
+          "id": "D",
+          "content": "Những giá trị đạo đức cao đẹp, lối sống mới của những người cộng ưu tú"
+        }
+      ],
+      "answer": "C",
+      "explain": "...sức hấp dẫn của chủ nghĩa xã hội chưa phải là ở mức sống vật chất dồi dào, ở tư tưởng được tự do, giải phóng, mà trước hết là ở những giá trị đạo đức cao đẹp, ở phẩm chất của những người cộng sản ưu tú...\"."
+    },
+    {
+      "id": 88,
+      "question": "Theo Hồ Chí Minh, hiếu với dân là phải làm gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Yêu nước, xây dựng đất nước giàu mạnh, dân chủ, công bằng, văn minh"
+        },
+        {
+          "id": "B",
+          "content": "Yêu nước, đấu tranh chống các âm mưu của các thế lực thù địch chống phá sự nghiệp cách mạng"
+        },
+        {
+          "id": "C",
+          "content": "Yêu nước, sẵn sàng hy sinh bản thân cho sự nghiệp đổi mới đất nước và hội nhập quốc tế"
+        },
+        {
+          "id": "D",
+          "content": "Yêu nước, tuyệt đối trung thành với Tổ quốc, suốt đời phấn đấu cho Đảng, cho cách mạng"
+        }
+      ],
+      "answer": "D",
+      "explain": "Trung với nước, là phải yêu nước, tuyệt đối trung thành với Tổ quốc, suốt đời phấn đấu cho Đảng, cho cách mạng...\"."
+    },
+    {
+      "id": 89,
+      "question": "Theo Hồ Chí Minh, hiếu với dân là phải làm gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Khai dân trí, chấn dân khí, hậu dân sinh, mở mang dân quyền"
+        },
+        {
+          "id": "B",
+          "content": "Dân biết, dân bàn, dân làm, dân kiểm tra và dân thụ hưởng"
+        },
+        {
+          "id": "C",
+          "content": "Thương dân, tin dân, thân dân, học hỏi dân, kính trọng nhân dân, lấy dân làm gốc"
+        },
+        {
+          "id": "D",
+          "content": "Phát huy quyền làm chủ của nhân dân, pháp luật phải đảm bảo quyền con người được thi trong thực tế"
+        }
+      ],
+      "answer": "C",
+      "explain": "Hiếu với dân, là phải thương dân, tin dân, thân dân, học hỏi dân, lấy trí tuệ ở dân, kính trọng dân, lấy dân làm gốc...\"."
+    },
+    {
+      "id": 90,
+      "question": "Chuẩn mực đạo đức nào được Hồ Chí Minh xác định là nội dung cốt lõi của đạo đức cách mạng gắn liền với hoạt động hằng ngày của mỗi người?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Trung với nước, hiếu với dân"
+        },
+        {
+          "id": "B",
+          "content": "Cần, kiệm, liêm, chính, chí công vô tư"
+        },
+        {
+          "id": "C",
+          "content": "Yêu thương con người, sống có tình có nghĩa"
+        },
+        {
+          "id": "D",
+          "content": "Có tinh thần quốc tế trong sáng"
+        }
+      ],
+      "answer": "B",
+      "explain": "Cần, kiệm, liêm, chính, chí công vô tư là nội dung cốt lõi của đạo đức cách mạng, đó là phẩm chất đạo đức gắn liền với hoạt động hằng ngày của mỗi người.\"."
+    },
+    {
+      "id": 91,
+      "question": "Hồ Chí Minh khẳng định, chí công vô tư là công bằng, công tâm, không thiên tư thiên vị, làm việc gì cũng không nghĩ đến mình trước, chỉ biết vì Đảng, vì dân tộc, “lo trước thiên hạ, vui sau thiên hạ” có nghĩa là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nêu cao chủ nghĩa tập thể, trừ bỏ chủ nghĩa cá nhân"
+        },
+        {
+          "id": "B",
+          "content": "Nêu cao tinh thần tự chủ, tự chịu trách nhiệm trước nhân dân"
+        },
+        {
+          "id": "C",
+          "content": "Lấy lợi ích của cá nhân đặt lên trên lợi ích của tập thể"
+        },
+        {
+          "id": "D",
+          "content": "Nêu cao chế độ làm chủ tập thể, trừ bỏ chế độ tư hữu tư nhân"
+        }
+      ],
+      "answer": "A",
+      "explain": "Chí công vô tư là hoàn toàn vì lợi ích chung, không vì tư lợi... Chí công vô tư là chống chủ nghĩa cá nhân.\"."
+    },
+    {
+      "id": 92,
+      "question": "Yêu thương con người được Hồ Chí Minh xác định là một trong những phẩm chất đạo đức cao đẹp nhất. Tình yêu thương đó là một tình cảm rộng lớn, trước hết dành cho những người như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nghèo khổ, bị mất quyền, bị áp bức, bóc lột…"
+        },
+        {
+          "id": "B",
+          "content": "Nghèo khổ, bị mất quyền tự do, dân chủ…"
+        },
+        {
+          "id": "C",
+          "content": "Nghèo khổ, bị mất quyền lãnh thổ, quyền tự quyết…"
+        },
+        {
+          "id": "D",
+          "content": "Nghèo khổ, bị mất quyền chính trị, quyền liên hiệp…"
+        }
+      ],
+      "answer": "A",
+      "explain": "Tình yêu thương con người là tình cảm nhân ái sâu sắc, rộng lớn, trước hết dành cho những người nghèo khổ, những người bị mất quyền, những người bị áp bức, bị bóc lột...\"."
+    },
+    {
+      "id": 94,
+      "question": "Nói đi đôi với làm được Hồ Chí Minh coi là nguyên tắc như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Quan trọng bậc nhất trong xây dựng nhân cách công dân"
+        },
+        {
+          "id": "B",
+          "content": "Quan trọng bậc nhất trong xây dựng một nền đạo đức mới"
+        },
+        {
+          "id": "C",
+          "content": "Quan trọng bậc nhất trong xây dựng phẩm chất của người quân tử"
+        },
+        {
+          "id": "D",
+          "content": "Quan trọng bậc nhất trong xây dựng lối sống xã hội chủ nghĩa"
+        }
+      ],
+      "answer": "B",
+      "explain": "Người coi đây là nguyên tắc quan trọng bậc nhất trong xây dựng nền đạo đức mới.\"."
+    },
+    {
+      "id": 95,
+      "question": "Hồ Chí Minh chỉ rõ: “Nói chung thì các dân tộc phương Đông đều giàu tình cảm, và đối với họ một tấm gương sống còn có giá trị hơn một trăm bài diễn văn tuyên truyền”77, điều này muốn nhấn mạnh nguyên tắc nào trong xây dựng đạo đức mới?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nói phải đi đôi với làm gắn liền với nêu gương về đạo đức"
+        },
+        {
+          "id": "B",
+          "content": "Xây đi đôi với chống"
+        },
+        {
+          "id": "C",
+          "content": "Phải tu dưỡng đạo đức suốt đời"
+        },
+        {
+          "id": "D",
+          "content": "Phải tạo phong trào rộng rãi"
+        }
+      ],
+      "answer": "A",
+      "explain": "Lời nói đi đôi với việc làm phải gắn liền với nêu gương về đạo đức. Hồ Chí Minh đã viết: “Nói chung thì các dân tộc phương Đông... một tấm gương sống còn có giá trị hơn một trăm bài diễn văn tuyên truyền”\"."
+    },
+    {
+      "id": 98,
+      "question": "Theo Hồ Chí Minh, vấn đề quan trọng việc giáo dục đạo đức là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Khơi dậy ý thức, tiềm năng, sức mạnh và ý thức tự giác của mỗi người"
+        },
+        {
+          "id": "B",
+          "content": "Khơi dậy ý thức đạo đức lành mạnh ở mỗi người, để mọi người tự giác nhận thức được trách nhiệm đạo đức của mình"
+        },
+        {
+          "id": "C",
+          "content": "Khơi dậy trách nhiệm, năng lực và ý thức tự giác tu dưỡng của mỗi người"
+        },
+        {
+          "id": "D",
+          "content": "Khơi dậy tiềm năng, sự phấn đấu bền bỉ và năng lực tự giác của mỗi người"
+        }
+      ],
+      "answer": "B",
+      "explain": "Vấn đề quan trọng trong việc giáo dục đạo đức là phải khơi dậy ý thức đạo đức lành mạnh ở mỗi người, để mọi người tự giác nhận thức được trách nhiệm đạo đức của mình...\"."
+    },
+    {
+      "id": 99,
+      "question": "Theo Hồ Chí Minh, trên con đường đi tới tiến bộ và cách mạng, đạo đức mới chỉ có thể xây dựng thành công trên cơ sở nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Kiên trì mục tiêu chống chủ nghĩa đế quốc và những thói hư tật xấu"
+        },
+        {
+          "id": "B",
+          "content": "Kiên trì mục tiêu độc lập dân tộc và rèn luyện đạo đức"
+        },
+        {
+          "id": "C",
+          "content": "Kiên trì mục tiêu chống chủ nghĩa đế quốc, chống thói quen và tập tục lạc hậu, loại trừ chủ nghĩa cá nhân"
+        },
+        {
+          "id": "D",
+          "content": "Kiên trì mục tiêu đấu tranh chống chủ nghĩa đế quốc và xây dựng chủ nghĩa xã hội"
+        }
+      ],
+      "answer": "C",
+      "explain": "Hồ Chí Minh cho rằng, trên con đường đi tới tiến bộ và cách mạng, đạo đức mới chỉ có thể được xây dựng thành công trên cơ sở kiên trì mục tiêu chống chủ nghĩa đế quốc, chống những thói quen và tập tục lạc hậu, phải loại trừ chủ nghĩa cá nhân.\"."
+    },
+    {
+      "id": 102,
+      "question": "Hồ Chí Minh giải thích chữ Người như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Nghĩa hẹp là gia đình, anh em, họ hàng, bè bạn; nghĩa rộng là đồng bào cả nước; rộng hơn nữa là cả loài người"
+        },
+        {
+          "id": "B",
+          "content": "Nghĩa hẹp là cá nhân, anh em, bè bạn; nghĩa rộng là đồng bào cả nước; rộng hơn nữa là cả loài người"
+        },
+        {
+          "id": "C",
+          "content": "Nghĩa hẹp là cá nhân; nghĩa rộng là gia đình, anh em, họ hàng, bè bạn; rộng hơn nữa là cả loài người"
+        },
+        {
+          "id": "D",
+          "content": "Nghĩa hẹp là cá thể; nghĩa rộng là đồng bào cả nước; rộng hơn nữa là cả loài người"
+        }
+      ],
+      "answer": "A",
+      "explain": "Người giải thích “chữ người, nghĩa hẹp là gia đình, anh em, họ hàng, bè bạn; nghĩa rộng là đồng bào cả nước; rộng hơn nữa là cả loài người”.\"."
+    },
+    {
+      "id": 103,
+      "question": "Theo Hồ Chí Minh, tính xã hội của con người được hiểu như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Là con người xã hội, thành viên của một cộng đồng xã hội"
+        },
+        {
+          "id": "B",
+          "content": "Là cá nhân sống trong xã hội, có trách nhiệm với xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Là thành viên của xã hội, chịu sự tác động từ những mặt trái của xã hội"
+        },
+        {
+          "id": "D",
+          "content": "Là thành viên của xã hội, bị ảnh hưởng bởi môi trường xã hội"
+        }
+      ],
+      "answer": "A",
+      "explain": "Con người có tính xã hội, là con người xã hội, thành viên của một cộng đồng xã hội.\"."
+    },
+    {
+      "id": 104,
+      "question": "Khi nêu ra những hiểu biết về yếu tố sinh vật của con người, Hồ Chí Minh khẳng định mọi đường lối, chủ trương, chính sách, nhiệm vụ của Đảng, Nhà nước cần phải thực hiện nay là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Làm cho dân có cuộc sống ấm no, không có áp bức, bất công"
+        },
+        {
+          "id": "B",
+          "content": "Làm cho dân được tự do, sống một đời hạnh phúc"
+        },
+        {
+          "id": "C",
+          "content": "Làm cho dân có ăn, có mặc, có chỗ ở, có học hành"
+        },
+        {
+          "id": "D",
+          "content": "Làm cho dân được sống bình đẳng, chống phân biệt giàu, nghèo"
+        }
+      ],
+      "answer": "C",
+      "explain": "...Theo Người, trong mọi đường lối, chủ trương, chính sách, nhiệm vụ phải thực hiện ngay làm cho dân có ăn, có mặc, có chỗ ở, có học hành.\"."
+    },
+    {
+      "id": 105,
+      "question": "Nét đặc sắc trong nhìn nhận đặc điểm con người Việt Nam với những điều kiện lịch sử cụ thể, với cấu trúc kinh tế, xã hội cụ thể của Hồ Chí Minh, giúp giải quyết mối quan hệ gì một cách sáng tạo?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Dân tộc và giai cấp"
+        },
+        {
+          "id": "B",
+          "content": "Cá nhân và cộng đồng"
+        },
+        {
+          "id": "C",
+          "content": "Cá nhân và xã hội"
+        },
+        {
+          "id": "D",
+          "content": "Dân tộc và nhân loại"
+        }
+      ],
+      "answer": "A",
+      "explain": "Cách tiếp cận này đi đến việc giải quyết mối quan hệ dân tộc và giai cấp rất sáng tạo, không chỉ về mặt đường lối cách mạng mà cả về mặt con người.\"."
+    },
+    {
+      "id": 106,
+      "question": "Con người trong tư tưởng và hành động của Hồ Chí Minh là chiến lược số một. Điều đó, được cụ thể hóa trong những giai đoạn nào của cách mạng Việt Nam?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Giải phóng dân tộc - Xây dựng chế độ dân chủ nhân dân - Tiến dần lên chủ nghĩa xã hội"
+        },
+        {
+          "id": "B",
+          "content": "Giải phóng con người - Xây dựng chế độ dân chủ nhân dân - Tiến dần lên chủ nghĩa xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Giải phóng giai cấp - Xây dựng chế độ dân chủ nhân dân - Tiến dần lên chủ nghĩa xã hội"
+        },
+        {
+          "id": "D",
+          "content": "Giải phóng lực lượng sản xuất - Xây dựng chế độ dân chủ nhân dân - Tiến lên chủ nghĩa xã hội"
+        }
+      ],
+      "answer": "A",
+      "explain": "Mục tiêu này được cụ thể hóa trong ba giai đoạn cách mạng (giải phóng dân tộc - xây dựng chế độ dân chủ nhân dân - tiến dần lên xã hội chủ nghĩa)...\"."
+    },
+    {
+      "id": 107,
+      "question": "Con người là mục tiêu của cách mạng, tức là hướng tới giải phóng dân tộc, giải phóng giai cấp, giải phóng xã hội, giải phóng con người. Theo Hồ Chí Minh, các giải phóng đó có mối quan hệ với nhau như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Kết hợp chặt chẽ, đồng thời nối tiếp nhau"
+        },
+        {
+          "id": "B",
+          "content": "Kết hợp chặt chẽ, đồng thời bổ sung cho nhau"
+        },
+        {
+          "id": "C",
+          "content": "Kết hợp hài hòa, đồng thời bổ sung cho nhau"
+        },
+        {
+          "id": "D",
+          "content": "Kết hợp chặtẽ, đồng thời tác động qua lại với nhau"
+        }
+      ],
+      "answer": "A",
+      "explain": "Các “giải phóng” đó kết hợp chặt chẽ với nhau... đồng thời nối tiếp nhau, giải phóng dân tộc mở đường cho giải phóng xã hội, giải phóng giai cấp và giải phóng con người.\"."
+    },
+    {
+      "id": 109,
+      "question": "Ý nghĩa của việc xây dựng con người theo Hồ Chí Minh là gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Một trọng tâm, một bộ phận hợp thành của chiến lược phát triển đất nước"
+        },
+        {
+          "id": "B",
+          "content": "Một trọng tâm, một bộ phận hợp thành của Đảng về phát triển kinh tế"
+        },
+        {
+          "id": "C",
+          "content": "Một trọng tâm, một bộ phận hợp thành của Nhà nước về phát triển kinh tế"
+        },
+        {
+          "id": "D",
+          "content": "Một trọng tâm, một bộ phận hợp thành của Mặt trận Tổ quốc Việt Nam về phát triển văn hóa xã hội"
+        }
+      ],
+      "answer": "A",
+      "explain": "Xây dựng con người là một trọng tâm, bộ phận hợp thành của chiến lược phát triển đất nước, có mối quan hệ chặt chẽ với nhiệm vụ xây dựng chính trị, kinh tế, văn hóa, xã hội.\"."
+    },
+    {
+      "id": 110,
+      "question": "Theo Hồ Chí Minh “Trồng người” phải được tiến hành như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Liên tục, xem đó là thước đo cho trình độ phát triển của lực lượng sản xuất"
+        },
+        {
+          "id": "B",
+          "content": "Thường xuyên trong suốt tiến trình đi lên chủ nghĩa xã hội và phải đạt được những kết quả cụ thể trong từng giai đoạn cách mạng"
+        },
+        {
+          "id": "C",
+          "content": "Liên tục trong suốt quá trình đổi mới và hội nhập kinh tế quốc tế"
+        },
+        {
+          "id": "D",
+          "content": "Tiến hành thường xuyên trong suốt tiến trình đấu tranh giải phóng dân tộc, cũng như quá trình đổi mới đất nước"
+        }
+      ],
+      "answer": "B",
+      "explain": "Trồng người” phải được tiến hành thường xuyên trong suốt tiến trình đi lên chủ nghĩa xã hội và phải đạt được những kết quả cụ thể trong từng giai đoạn cách mạng.\"."
+    },
+    {
+      "id": 111,
+      "question": "Công việc trồng người, theo Hồ Chí Minh là trách nhiệm của ai?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Là trách nhiệm riêng của Đảng, Nhà nước"
+        },
+        {
+          "id": "B",
+          "content": "Là trách nhiệm riêng của cá nhân, đoàn thể chính trị - xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Của Đảng, Nhà nước, các đoàn thể chính trị - xã hội kết hợp với tính tích cực, chủ động của từng người"
+        },
+        {
+          "id": "D",
+          "content": "Của Đảng, Nhà nước, các tổ chức quốc tế, đặc biệt là trách nhiệm của các cơ quan, ban ngành thực hiện nhiệm vụ trên lĩnh vực giáo dục"
+        }
+      ],
+      "answer": "C",
+      "explain": "Công việc “trồng người” là trách nhiệm của Đảng, Nhà nước, các đoàn thể chính trị-xã hội kết hợp với tính tích cực, chủ động của từng người.\"."
+    },
+    {
+      "id": 113,
+      "question": "Trong mối quan hệ biện chứng giữa chủ nghĩa xã hội và con người xã hội chủ nghĩa, theo Hồ Chí Minh chủ nghĩa xã hội tạo ra những con người xã hội chủ nghĩa, con người xã hội chủ nghĩa là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Động lực xây dựng chủ nghĩa xã hội"
+        },
+        {
+          "id": "B",
+          "content": "Mục tiêu xây dựng chủ nghĩa xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Tiêu chuẩn xây dựng chủ nghĩa xã hội"
+        },
+        {
+          "id": "D",
+          "content": "Thước đo xây dựng chủ nghĩa xã hội"
+        }
+      ],
+      "answer": "A",
+      "explain": "Chủ nghĩa xã hội sẽ tạo ra những con người xã hội chủ nghĩa, con người xã hội chủ nghĩa là động lực xây dựng chủ nghĩa xã hội.\"."
+    },
+    {
+      "id": 114,
+      "question": "Trong xây dựng con người, Hồ Chí Minh chủ trương xây dựng con người toàn diện theo các khía cạnh nào sau đây?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Có ý thức tập thể, yêu nước, tiến bộ, có lý tưởng, sống có trách nhiệm"
+        },
+        {
+          "id": "B",
+          "content": "Có ý thức làm chủ, yêu nước, thương dân, có trí tuệ và bản lĩnh vững vàng"
+        },
+        {
+          "id": "C",
+          "content": "Có ý thức làm chủ, tinh thần tập thể, cần kiệm, hăng hái bảo vệ Tổ quốc; có lòng yêu nước, phương pháp làm việc khoa học, dân chủ, nêu gương"
+        },
+        {
+          "id": "D",
+          "content": "Có lòng yêu nước nồng nàn, có chí tiến thủ, có ý thức bảo vệ Tổ quốc"
+        }
+      ],
+      "answer": "C",
+      "explain": "Người chủ trương xây dựng con người có các khía cạnh: \"Có ý thức làm chủ, tinh thần tập thể... Cần kiệm xây dựng đất nước, hăng hái bảo vệ Tổ quốc... Có lòng yêu nước nồng nàn... Có phương pháp làm việc khoa học, phong cách quần chúng, dân chủ, nêu gương\"."
+    },
+    {
+      "id": 115,
+      "question": "Vận dụng tư tưởng Hồ Chí Minh về vai trò của văn hóa, Nghị quyết Hội nghị lần thứ 5 Ban chấp hành Trung ương khóa VIII về xây dựng và phát triển văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc đã xác định:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Văn hóa là nền tảng tinh thần của xã hội, vừa là mục tiêu vừa là động lực thúc đẩy sự phát triển kinh tế - xã hội"
+        },
+        {
+          "id": "B",
+          "content": "Văn hóa là giá trị tinh thần của xã hội, văn hóa giúp giáo dục, đào tạo con người đáp ứng yêu cầu của sự nghiệp đổi mới"
+        },
+        {
+          "id": "C",
+          "content": "Văn hóa là trung tâm của sự phát triển, quan tâm phát triển văn hóa toàn diện trở thành nền tảng tinh thần của xã hội"
+        },
+        {
+          "id": "D",
+          "content": "Coi trọng phát triển văn hóa, văn nghệ, làm văn hóa trở thành động lực thúc đẩy sự phát triển kinh tế - xã hội"
+        }
+      ],
+      "answer": "A",
+      "explain": "...nêu những quan điểm chỉ đạo cơ bản: Văn hóa là nền tảng tinh thần của xã hội, vừa là mục tiêu vừa là động lực thúc đẩy sự phát triển kinh tế - xã hội...\"."
+    },
+    {
+      "id": 116,
+      "question": "Trong Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011) đã khẳng định như thế nào về yếu tố con người theo tư tưởng Hồ Chí Minh?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Xây dựng con người làm chủ thể quyết định thành công sự nghiệp đổi mới và hội nhập quốc tế"
+        },
+        {
+          "id": "B",
+          "content": "Con người vừa là mục tiêu, vừa là động lực của sự nghiệp đổi mới"
+        },
+        {
+          "id": "C",
+          "content": "Con người được quan tâm phát triển toàn diện về đức, trí, thể, mỹ"
+        },
+        {
+          "id": "D",
+          "content": "Con người là trung tâm của chiến lược phát triển, đồng thời là chủ thể phát triển"
+        }
+      ],
+      "answer": "D",
+      "explain": "Cương lĩnh... khẳng định “con người là trung tâm của chiến lược phát triển, đồng thời là chủ thể phát triển. Tôn trọng và bảo vệ quyền con người...\"\"."
+    },
+    {
+      "id": 117,
+      "question": "Theo Hồ Chí Minh, thế hệ trẻ Việt Nam có vai trò như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Là người tiên phong trong học tập, lao động, quyết định đến thắng lợi của sự nghiệp đấu tranh giải phóng dân tộc"
+        },
+        {
+          "id": "B",
+          "content": "Là người chủ tương lai của nước nhà; nước nhà thịnh hay suy, yếu hay mạnh một phần lớn là do các thanh niên"
+        },
+        {
+          "id": "C",
+          "content": "Người đi đầu trong xây dựng, bảo vệ Tổ quốc; chủ động học tập để trở thành những công dân toàn cầu"
+        },
+        {
+          "id": "D",
+          "content": "Người có trình độ học vấn cao; có cống hiến quan trọng trong sự nghiệp đổi mới và hội nhập quốc tế"
+        }
+      ],
+      "answer": "B",
+      "explain": "Thế hệ trẻ là “người chủ tương lai của nước nhà… Nước nhà thịnh hay suy, yếu hay mạnh một phần lớn là do các thanh niên”\"."
+    },
+    {
+      "id": 118,
+      "question": "Học tập đạo đức cách mạng Hồ Chí Minh, người Việt Nam trong thời đại mới trước hết phải học những gì?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Học cần, kiệm, liêm, chính, chí công vô tư"
+        },
+        {
+          "id": "B",
+          "content": "Học trung với nước, hiếu với dân, suốt đời đấu tranh cho sự nghiệp cách mạng"
+        },
+        {
+          "id": "C",
+          "content": "Học kính trọng nhân dân"
+        },
+        {
+          "id": "D",
+          "content": "Ý chí nghị lực, quyết tâm vượt qua mọi thử thách"
+        }
+      ],
+      "answer": "B",
+      "explain": "Học tập đạo đức cách mạng Hồ Chí Minh là phải trung với nước, hiếu với dân, suốt đời đấu tranh cho sự nghiệp cách mạng.\"."
+    },
+    {
+      "id": 120,
+      "question": "Trong thời kì đổi mới, đi vào nền kinh tế thị trường định hướng xã hội chủ nghĩa, một nền đạo đức mới đang hình thành. Phần lớn sinh viên Việt Nam vẫn giữ được những phẩm chất đạo đức như thế nào?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Yêu nước, thương dân, nhân hậu, nghĩa tình, khoan dung, khiêm tốn"
+        },
+        {
+          "id": "B",
+          "content": "Biết chịu trách nhiệm, sáng tạo trong công việc, năng động trong cuộc sống"
+        },
+        {
+          "id": "C",
+          "content": "Nhân hậu, tình nghĩa, khiêm tốn, luôn cần cù, sáng tạo trong học tập, có chí lập thân, lập nghiệp, dám chịu trách nhiệm, không ỷ lại, bản lĩnh"
+        },
+        {
+          "id": "D",
+          "content": "Trong sạch, lành mạnh, khiêm tốn, sáng tạo, có lý tưởng, bản lĩnh"
+        }
+      ],
+      "answer": "C",
+      "explain": "...phần lớn sinh viên, thanh niên trí thức vẫn giữ được lối sống nhân hậu, tình nghĩa, trong sạch, lành mạnh; khiêm tốn, luôn cần cù và sáng tạo trong học tập, nghiên cứu khoa học, có chí lập thân, lập nghiệp, năng động, nhạy bén... dám chịu trách nhiệm, không ỷ lại, sống có bản lĩnh...\"."
+    },
+    {
+      "id": 121,
+      "question": "Việc học tập tư tưởng, tấm gương đạo đức Hồ Chí Minh đối với sinh viên là tất yếu bởi trong thời kì đổi mới một bộ phận sinh viên hiện nay còn có những biểu hiện tiêu cực nào sau đây?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Phai nhạt niềm tin, lý tưởng sống"
+        },
+        {
+          "id": "B",
+          "content": "Không có chí lập thân, lập nghiệp; Phai nhạt niềm tin, lý tưởng thiếu trách nhiệm, thờ ơ với gia đình, xã hội..."
+        },
+        {
+          "id": "C",
+          "content": "Tham nhũng, lãng phí, quan liêu"
+        },
+        {
+          "id": "D",
+          "content": "Sống buông thả, không xác định được mục tiêu lập thân, lập nghiệp"
+        }
+      ],
+      "answer": "B",
+      "explain": "Một bộ phận sinh viên phai nhạt niềm tin, lý tưởng, mất phương hướng phấn đấu, không có chí lập thân, lập nghiệp; chạy theo lối sống thực dụng, thiếu trách nhiệm, thờ ơ với gia đình và xã hội, sa vào hàng loạt tiêu cực.\"."
+    },
+    {
+      "id": 122,
+      "question": "Học tập và làm theo đạo đức Hồ Chí Minh là đòi hỏi của sự nghiệp cách mạng, sự nghiệp đổi mới toàn diện đất nước và hội nhập quốc tế, nhằm làm cho:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Mỗi người trở thành những công dân tốt hơn, xứng đáng là người làm chủ đất nước"
+        },
+        {
+          "id": "B",
+          "content": "Mỗi người trở thành những cán bộ tốt hơn, xứng đáng là người làm chủ đất nước"
+        },
+        {
+          "id": "C",
+          "content": "Mỗi người trở thành những thành viên tốt hơn, xứng đáng là người làm chủ đất nước"
+        },
+        {
+          "id": "D",
+          "content": "Mỗi người trở thành những cá nhân tốt hơn, xứng đáng là người làm chủ đất nước"
+        }
+      ],
+      "answer": "A",
+      "explain": "...nhằm làm cho mỗi người trở thành những công dân tốt hơn, xứng đáng là những người làm chủ đất nước...\"."
+    },
+    {
+      "id": 123,
+      "question": "Xác định cụm từ còn thiếu vào câu nói sau của Hồ Chí Minh: “Một ngày mà Tổ Quốc chưa thống nhất, đồng bào còn chịu khổ, là một ngày tôi (...)”78?",
+      "options": [
+        {
+          "id": "A",
+          "content": "Ăn không ngon, ngủ không sâu"
+        },
+        {
+          "id": "B",
+          "content": "Ngủ không ngon, ngủ không được"
+        },
+        {
+          "id": "C",
+          "content": "Ăn không ngon, ngủ không yên"
+        },
+        {
+          "id": "D",
+          "content": "Ăn không ngon, ngủ không ngon"
+        }
+      ],
+      "answer": "C",
+      "explain": "Một ngày mà Tổ quốc chưa thống nhất, đồng bào còn chịu khổ, là một ngày tôi ăn không ngon, ngủ không yên\"."
+    },
+    {
+      "id": 126,
+      "question": "Theo Hồ Chí Minh, mọi người dân Việt Nam đều có ý thức dân tộc, trong đó đặc biệt là sinh viên, trách nhiệm của họ là phải:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Vun đắp tinh thần dân tộc, có tinh thần quốc tế trong sáng"
+        },
+        {
+          "id": "B",
+          "content": "Ý thức trách nhiệm với Tổ Quốc thân yêu, biết vun đắp tinh thần dân tộc, tự giác, tích cực thực hiện trách nhiệm của mình"
+        },
+        {
+          "id": "C",
+          "content": "Có ý thức trách nhiệm cao, có lòng tự hào dân tộc, không ngừng đấu tranh chống tiêu cực"
+        },
+        {
+          "id": "D",
+          "content": "Có khát vọng vươn lên, thắng không kiêu, bại không nản, phấn đấu làm giàu chính đáng"
+        }
+      ],
+      "answer": "B",
+      "explain": "Mọi người dân Việt Nam đều có ý thức dân tộc, nhưng trước hết là lớp trẻ... đặc biệt sinh viên phải có sự vun đắp tinh thần dân tộc, ý thức trách nhiệm với Tổ quốc thân yêu. Trên cơ sở có ý thức đúng đắn, tự giác, tích cực thực hiện trách nhiệm của mình...\"."
+    },
+    {
+      "id": 128,
+      "question": "Theo Hồ Chí Minh, phải luôn nhân ái, vị tha, bao dung với con người, tình yêu thương ấy phải gắn với:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Niềm tin tuyệt đối vào sức mạnh và trí tuệ nhân dân"
+        },
+        {
+          "id": "B",
+          "content": "Niềm tin vào trí tuệ và lòng nhân ái của con người"
+        },
+        {
+          "id": "C",
+          "content": "Niềm tin vào sức mạnh và lòng trung thực của con người"
+        },
+        {
+          "id": "D",
+          "content": "Niềm tin vào trí tuệ và phẩm giá con người"
+        }
+      ],
+      "answer": "A",
+      "explain": "Tình thương đó gắn liền với niềm tin tuyệt đối vào sức mạnh và trí tuệ của nhân dân.\"."
+    },
+    {
+      "id": 130,
+      "question": "Để học tập theo tư tưởng, đạo đức, phong cách Hồ Chí Minh, sinh viên Việt cần phải:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Thi đua phấn đấu rèn luyện vì ngày mai lập nghiệp"
+        },
+        {
+          "id": "B",
+          "content": "Thi đua học tập, rèn luyện vì ngày mai lập nghiệp"
+        },
+        {
+          "id": "C",
+          "content": "Thi đua phấn đấu học tập vì ngày mai lập nghiệp"
+        },
+        {
+          "id": "D",
+          "content": "Thi đua phấn đấu tích cực rèn luyện vì ngày mai tươi sáng"
+        }
+      ],
+      "answer": "B",
+      "explain": "Sinh viên Việt Nam quyết tâm học tập và làm theo tư tưởng, đạo đức, phong cách của Hồ Chí Minh, thi đua học tập, rèn luyện, vì ngày mai lập nghiệp, xây dựng đất nước giàu mạnh...\"."
+    },
+    {
+      "id": 131,
+      "question": "Theo Hồ Chí Minh “Muốn xây dựng chủ nghĩa xã hội, trước hết cần phải có những con người xã hội chủ nghĩa” có nghĩa là:",
+      "options": [
+        {
+          "id": "A",
+          "content": "Xây dựng kinh tế, văn hóa cao mới xây dựng con người"
+        },
+        {
+          "id": "B",
+          "content": "Xây dựng con người xã hội chủ nghĩa xong mới xây dựng chủ nghĩa xã hội"
+        },
+        {
+          "id": "C",
+          "content": "Xây dựng con người phải được đặt ra ngay từ đầu và trong suốt tiến trình xây dựng chủ nghĩa xã hội"
+        },
+        {
+          "id": "D",
+          "content": "Xây dựng chế độ chính trị do nhân dân làm chủ, nhân dân là chủ thể xây dựng chủ nghĩa xã hội"
+        }
+      ],
+      "answer": "C",
+      "explain": "Việc xây dựng con người xã hội chủ nghĩa được đặt ra ngay từ đầu và phải được quan tâm trong suốt tiến trình xây dựng chủ nghĩa xã hội.\"."
+    },
+    {
+      "id": 134,
+      "question": "Chủ đề nào sau đây là chủ đề học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh trong đoàn viên, thanh niên năm 2020?",
+      "options": [
+        {
+          "id": "A",
+          "content": "“Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh về tinh thần học tập suốt đời”"
+        },
+        {
+          "id": "B",
+          "content": "“Thực hành tiết kiệm, chống lãng phí theo tư tưởng, đạo đức, phong cách Hồ Chí Minh”"
+        },
+        {
+          "id": "C",
+          "content": "“Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh về trách nhiệm, trung thực, nói đi đôi với làm”"
+        },
+        {
+          "id": "D",
+          "content": "“Học tập và làm theo tư tưởng và tấm gương mẫu mực của Hồ Chí Minh về tu dưỡng đạo đức suốt đời”"
+        }
+      ],
+      "answer": "D",
+      "explain": "Học tập và làm theo tư tưởng và tấm gương mẫu mực của Hồ Chí Minh về tu dưỡng đạo đức suốt đời” (Hoặc có thể là A, đây là câu hỏi dạng kiến thức thời sự, hoạt động Đoàn - Hội tích hợp vào trong chương trình học chuẩn)."
+    }
+  ]
+}
