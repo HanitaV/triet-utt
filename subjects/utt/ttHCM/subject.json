@@ -1,0 +1,72 @@
+{
+    "id": "tthcm",
+    "name": "Tư tưởng Hồ Chí Minh",
+    "shortName": "TT HCM",
+    "icon": "🕊️",
+    "school": "Đại học Công nghệ GTVT",
+    "shortSchool": "UTT",
+    "examPath": "exam",
+    "chapters": [
+        {
+            "id": 1,
+            "name": "Khái niệm và phương pháp luận",
+            "file": "chuong_1.json"
+        },
+        {
+            "id": 2,
+            "name": "Cơ sở hình thành tư tưởng Hồ Chí Minh",
+            "file": "chuong_2.json"
+        },
+        {
+            "id": 3,
+            "name": "Độc lập dân tộc và chủ nghĩa xã hội",
+            "file": "chuong_3.json"
+        },
+        {
+            "id": 4,
+            "name": "Đảng Cộng sản và Nhà nước của dân",
+            "file": "chuong_4.json"
+        },
+        {
+            "id": 5,
+            "name": "Đại đoàn kết dân tộc và đoàn kết quốc tế",
+            "file": "chuong_5.json"
+        },
+        {
+            "id": 6,
+            "name": "Văn hóa, đạo đức và con người",
+            "file": "chuong_6.json"
+        }
+    ],
+    "simulationConfig": {
+        "totalQuestions": 60,
+        "timeMinutes": 60,
+        "distribution": [
+            {
+                "chapter": 1,
+                "percent": 17
+            },
+            {
+                "chapter": 2,
+                "percent": 17
+            },
+            {
+                "chapter": 3,
+                "percent": 17
+            },
+            {
+                "chapter": 4,
+                "percent": 17
+            },
+            {
+                "chapter": 5,
+                "percent": 16
+            },
+            {
+                "chapter": 6,
+                "percent": 16
+            }
+        ]
+    }
+}
+

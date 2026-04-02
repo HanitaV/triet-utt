@@ -1,0 +1,47 @@
+[
+    {
+        "id": "kth",
+        "name": "Kinh tế học",
+        "shortName": "Kinh tế",
+        "icon": "📈",
+        "school": "Đại học Công nghệ GTVT",
+        "shortSchool": "UTT",
+        "path": "subjects/utt/kth"
+    },
+    {
+        "id": "triet-mac-lenin",
+        "name": "Triết học Mác-Lênin",
+        "shortName": "Triết học",
+        "icon": "📚",
+        "school": "Đại học Công nghệ GTVT",
+        "shortSchool": "UTT",
+        "path": "subjects/utt/triet-mac-lenin"
+    },
+    {
+        "id": "phap-luat-dai-cuong",
+        "name": "Pháp luật đại cương",
+        "shortName": "Pháp luật",
+        "icon": "⚖️",
+        "school": "Học viện Công nghệ Bưu chính Viễn thông",
+        "shortSchool": "PTIT",
+        "path": "subjects/ptit/phap-luat-dai-cuong"
+    },
+    {
+        "id": "log",
+        "name": "Đại cương Logistics và Chuỗi cung ứng",
+        "shortName": "Logistics",
+        "icon": "📦",
+        "school": "Đại học Công nghệ GTVT",
+        "shortSchool": "UTT",
+        "path": "subjects/utt/log"
+    },
+    {
+        "id": "tthcm",
+        "name": "Tư tưởng Hồ Chí Minh",
+        "shortName": "TT HCM",
+        "icon": "🕊️",
+        "school": "Đại học Công nghệ GTVT",
+        "shortSchool": "UTT",
+        "path": "subjects/utt/ttHCM"
+    }
+]
