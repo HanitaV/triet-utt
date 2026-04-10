@@ -34,59 +34,19 @@ const VersionManager = {
         const bannerContainer = document.querySelector('.update-banner .md-container > div');
         if (bannerContainer && this.changelogData?.releases?.length) {
             const latest = this.changelogData.releases[0];
-            const releaseTitle = latest.title || 'Cap nhat moi nhat';
-            const features = Array.isArray(latest.features) ? latest.features.slice(0, 3) : [];
+            const bannerFeatures = latest.features.slice(0, 3).map(f => {
+                const text = f.replace(/<[^>]*>/g, '').trim();
+                return `<span class="update-banner-feature-item">${this.getFeatureIcon(text)} <span>${text}</span></span>`;
+            }).join('');
 
             bannerContainer.innerHTML = `
-                <div style="
-                    background: linear-gradient(135deg, var(--md-tertiary-container), var(--md-surface-container-high));
-                    border-radius: 16px;
-                    padding: 16px 20px;
-                    display: flex;
-                    align-items: center;
-                    gap: 16px;
-                    flex-wrap: wrap;
-                    box-shadow: var(--md-shadow-2);
-                    border: 1px solid var(--md-outline-variant);
-                ">
-                    <div style="
-                        background: var(--md-primary);
-                        color: var(--md-on-primary);
-                        padding: 6px 14px;
-                        border-radius: 20px;
-                        font-size: 12px;
-                        font-weight: 600;
-                        display: flex;
-                        align-items: center;
-                        gap: 6px;
-                        white-space: nowrap;
-                    ">
-                        🚀 v${latest.version}
+                <div class="update-banner-card">
+                    <div class="update-banner-badge">🎉 v${latest.version}</div>
+                    <div class="update-banner-content">
+                        <div class="update-banner-title">Cập nhật tính năng mới</div>
+                        <div class="update-banner-features">${bannerFeatures}</div>
                     </div>
-                    <div style="flex: 1; min-width: 220px;">
-                        <div style="font-weight: 700; font-size: 15px; margin-bottom: 4px; color: var(--md-on-surface);">
-                            ${releaseTitle}
-                        </div>
-                        <div style="font-size: 13px; color: var(--md-on-surface-variant); display: flex; gap: 10px; flex-wrap: wrap;">
-                            ${features.map(f => {
-                                const text = f.replace(/<[^>]*>/g, '').trim();
-                                return `<span>${text}</span>`;
-                            }).join('')}
-                        </div>
-                    </div>
-                    <a href="settings.html" style="
-                        background: var(--md-primary);
-                        color: var(--md-on-primary);
-                        padding: 8px 16px;
-                        border-radius: 20px;
-                        font-size: 13px;
-                        font-weight: 500;
-                        text-decoration: none;
-                        white-space: nowrap;
-                        transition: transform 0.2s, box-shadow 0.2s;
-                    " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-                        Xem changelog →
-                    </a>
+                    <a href="settings.html" class="update-banner-action">Xem chi tiết →</a>
                 </div>
             `;
         }

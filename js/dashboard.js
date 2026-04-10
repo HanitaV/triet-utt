@@ -5,6 +5,8 @@ async function initDashboard() {
     await loadSubjectsList();
     await loadCurrentSubjectConfig();
 
+    createSubjectSelector();
+
     updateHomeContent();
 
     await loadAllData();

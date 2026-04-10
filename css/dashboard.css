@@ -285,6 +285,85 @@
     color: var(--md-on-surface-variant);
 }
 
+/* ===== Home Changelog Banner ===== */
+.update-banner-card {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+    padding: 16px 18px;
+    border-radius: 18px;
+    background: linear-gradient(135deg, color-mix(in srgb, var(--md-primary) 92%, #7c3aed), color-mix(in srgb, var(--md-secondary) 92%, #fb7185));
+    color: var(--md-on-primary);
+    box-shadow: var(--md-shadow-2);
+    border: 1px solid color-mix(in srgb, var(--md-primary) 45%, transparent);
+}
+
+.update-banner-badge {
+    flex: 0 0 auto;
+    background: rgba(255, 255, 255, 0.16);
+    color: var(--md-on-primary);
+    padding: 8px 14px;
+    border-radius: 9999px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    white-space: nowrap;
+}
+
+.update-banner-content {
+    flex: 1 1 260px;
+    min-width: 220px;
+}
+
+.update-banner-title {
+    font-size: 15px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.update-banner-features {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.update-banner-feature-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 10px;
+    border-radius: 9999px;
+    background: rgba(255, 255, 255, 0.12);
+    font-size: 13px;
+    line-height: 1.35;
+}
+
+.update-banner-feature-item span {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.update-banner-action {
+    flex: 0 0 auto;
+    background: rgba(255, 255, 255, 0.18);
+    color: var(--md-on-primary);
+    padding: 10px 16px;
+    border-radius: 9999px;
+    font-size: 13px;
+    font-weight: 600;
+    text-decoration: none;
+    white-space: nowrap;
+    transition: transform 0.2s ease, background 0.2s ease;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.update-banner-action:hover {
+    transform: translateY(-1px);
+    background: rgba(255, 255, 255, 0.24);
+}
+
 /* ===== M3 Data Management ===== */
 .md-data-header {
     display: flex;
