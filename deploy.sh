@@ -62,7 +62,14 @@ git worktree add -B gh-pages "$TEMP_WORKTREE" origin/gh-pages
 pushd "$TEMP_WORKTREE" >/dev/null
 
 echo -e "${GREEN}🔗 Merging main into gh-pages...${NC}"
-git merge main
+if ! git merge main; then
+    echo -e "${YELLOW}Merge conflicts detected. Resolving in favor of main...${NC}"
+    while IFS= read -r conflicted_file; do
+        git checkout --theirs -- "$conflicted_file"
+        git add -- "$conflicted_file"
+    done < <(git diff --name-only --diff-filter=U)
+    git commit --no-edit
+fi
 
 echo -e "${GREEN}📤 Pushing to gh-pages...${NC}"
 git push origin gh-pages
