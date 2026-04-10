@@ -88,7 +88,7 @@ if errorlevel 1 (
         "%GIT_PATH%" add -- "%%F"
     )
     "%GIT_PATH%" commit --no-edit
-    if %errorlevel% neq 0 (
+    if errorlevel 1 (
         set "EXIT_CODE=%errorlevel%"
         popd
         echo [!] Error finalizing resolved merge in gh-pages.
