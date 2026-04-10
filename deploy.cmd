@@ -67,6 +67,7 @@ if %errorlevel% neq 0 (
 
 :: Create a temporary worktree for gh-pages so the main tree stays on main
 echo [*] Preparing gh-pages worktree...
+"%GIT_PATH%" worktree prune
 if exist "%TEMP_WORKTREE%" rmdir /s /q "%TEMP_WORKTREE%"
 "%GIT_PATH%" worktree add -B gh-pages "%TEMP_WORKTREE%" origin/gh-pages
 if %errorlevel% neq 0 (
