@@ -80,7 +80,7 @@ pushd "%TEMP_WORKTREE%"
 
 echo [*] Merging main into gh-pages...
 "%GIT_PATH%" merge main
-if %errorlevel% neq 0 (
+if errorlevel 1 (
     echo [!] Merge conflicts detected. Resolving in favor of main...
     for /f "delims=" %%F in ('"%GIT_PATH%" diff --name-only --diff-filter=U') do (
         "%GIT_PATH%" checkout --theirs -- "%%F"
