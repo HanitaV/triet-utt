@@ -56,6 +56,7 @@ git push origin main
 
 # Create a temporary worktree for gh-pages so the main tree stays on main
 echo -e "${GREEN}🔀 Preparing gh-pages worktree...${NC}"
+git worktree prune
 rm -rf "$TEMP_WORKTREE"
 git worktree add -B gh-pages "$TEMP_WORKTREE" origin/gh-pages
 
