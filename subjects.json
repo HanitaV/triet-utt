@@ -34,5 +34,14 @@
         "school": "Đại học Công nghệ GTVT",
         "shortSchool": "UTT",
         "path": "subjects/utt/log"
+    },
+    {
+        "id": "tin_hoc",
+        "name": "Tin học căn bản",
+        "shortName": "Tin học",
+        "icon": "💻",
+        "school": "Đại học Công nghệ GTVT",
+        "shortSchool": "UTT",
+        "path": "subjects/utt/tin_hoc"
     }
 ]

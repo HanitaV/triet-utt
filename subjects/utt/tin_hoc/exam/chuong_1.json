@@ -1,0 +1,2886 @@
+{
+    "title": "CHƯƠNG 1",
+    "total_questions": 120,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Phần cứng máy tính là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cấu tạo của phần mềm về mặt logic"
+                },
+                {
+                    "id": "B",
+                    "content": "Cấu tạo của phần mềm về mặt vật lý"
+                },
+                {
+                    "id": "C",
+                    "content": "Các bộ phận cụ thể của máy tính về mặt vật lý như màn hình, chuột, bàn phím,..."
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 phương án đều sai"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 2,
+            "question": "Lựa chọn nào cho thấy máy tính xách tay có lợi thế hơn so với máy tính để bàn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Một máy tính xách tay có thể tái sử dụng các thành phần của nó có thể được sử dụng cho máy tính xách tay khác"
+                },
+                {
+                    "id": "B",
+                    "content": "Sửa máy tính xách tay ít tốn kém hơn"
+                },
+                {
+                    "id": "C",
+                    "content": "Máy tính xách tay có thể mang đi bất kì đâu"
+                },
+                {
+                    "id": "D",
+                    "content": "Máy tính xách tay thường có kích thước lớn hơn máy tính để bàn"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 3,
+            "question": "Trong máy tính, PC là chữ viết tắt của từ nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Performance Computer"
+                },
+                {
+                    "id": "B",
+                    "content": "Personnal Connector"
+                },
+                {
+                    "id": "C",
+                    "content": "Personal Computer"
+                },
+                {
+                    "id": "D",
+                    "content": "Printing Computer"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 4,
+            "question": "Một loại máy tính có màn hình cảm ứng, khi sử dụng người dùng có thể dùng bút hoặc công cụ chọn để chạm vào, lựa chọn một đối tượng nào đó hoặc có thể nhập thông tin qua bàn phím ảo tích hợp trong máy là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Máy chủ"
+                },
+                {
+                    "id": "B",
+                    "content": "Máy tính để bàn"
+                },
+                {
+                    "id": "C",
+                    "content": "Máy tính bảng"
+                },
+                {
+                    "id": "D",
+                    "content": "Máy tính FX500"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 5,
+            "question": "Điện thoại thông minh (smartphone) là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hỗ trợ tất cả các kiểu hệ điều hành"
+                },
+                {
+                    "id": "B",
+                    "content": "Bền hơn so với điện thoại di động khác"
+                },
+                {
+                    "id": "C",
+                    "content": "Điện thoại tích hợp một nền tảng hệ điều hành di động với nhiều tính năng hỗ trợ tiên tiến"
+                },
+                {
+                    "id": "D",
+                    "content": "Điện thoại chỉ có chức năng nghe và gọi"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 6,
+            "question": "Thiết bị ngoại vi của máy tính là thiết bị nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Máy nghe nhạc Mp3"
+                },
+                {
+                    "id": "B",
+                    "content": "Máy tính bảng"
+                },
+                {
+                    "id": "C",
+                    "content": "Máy in"
+                },
+                {
+                    "id": "D",
+                    "content": "Sách điện tử"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 7,
+            "question": "Các thiết bị dùng để nhập dữ liệu vào máy tính là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Loa máy tính"
+                },
+                {
+                    "id": "B",
+                    "content": "Máy fax"
+                },
+                {
+                    "id": "C",
+                    "content": "Bàn phím, máy ghi hình trực tiếp, chuột, máy quét"
+                },
+                {
+                    "id": "D",
+                    "content": "Máy in"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 8,
+            "question": "Những thiết bị nào sau đây được xếp vào nhóm thiết bị ngoại vi?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mainboard, CPU, CD-ROM Drive, Chuột"
+                },
+                {
+                    "id": "B",
+                    "content": "HDD, CD- ROM Drive, FDD, bàn phím"
+                },
+                {
+                    "id": "C",
+                    "content": "Bàn phím, chuột, màn hình, máy in"
+                },
+                {
+                    "id": "D",
+                    "content": "Màn hình, CPU, RAM, Main"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 9,
+            "question": "Các thành phần: RAM, CPU, thiết bị nhập xuất là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phần mềm máy tính"
+                },
+                {
+                    "id": "B",
+                    "content": "Thiết bị lưu trữ"
+                },
+                {
+                    "id": "C",
+                    "content": "Phần cứng máy tính"
+                },
+                {
+                    "id": "D",
+                    "content": "Thiết bị mạng và truyền thông"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 10,
+            "question": "Thuật ngữ “RAM” là từ viết tắt của cụm từ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Read Access Memory"
+                },
+                {
+                    "id": "B",
+                    "content": "Recent Access Memory"
+                },
+                {
+                    "id": "C",
+                    "content": "Random Access Memory"
+                },
+                {
+                    "id": "D",
+                    "content": "Read And Modify"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 11,
+            "question": "ROM là bộ nhớ gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bộ nhớ tạm thời"
+                },
+                {
+                    "id": "B",
+                    "content": "Bộ nhớ đọc, ghi"
+                },
+                {
+                    "id": "C",
+                    "content": "Bộ nhớ chỉ đọc"
+                },
+                {
+                    "id": "D",
+                    "content": "Bộ nhớ ngoài"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 12,
+            "question": "CPU là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thiết bị lưu trữ của máy tính"
+                },
+                {
+                    "id": "B",
+                    "content": "Thiết bị nhập liệu của máy tính"
+                },
+                {
+                    "id": "C",
+                    "content": "Bộ xử lý trung tâm của máy tính"
+                },
+                {
+                    "id": "D",
+                    "content": "Thiết bị hiển thị của máy tính"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 13,
+            "question": "MB (Megabyte) là đơn vị đo gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đo tốc độ mạng"
+                },
+                {
+                    "id": "B",
+                    "content": "Đo tốc độ của nguồn máy tính"
+                },
+                {
+                    "id": "C",
+                    "content": "Đo dung lượng của thiết bị lưu trữ như đĩa cứng"
+                },
+                {
+                    "id": "D",
+                    "content": "Độ phân giải màn hình"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 14,
+            "question": "ROM là viết tắt của từ gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Random Only Memory"
+                },
+                {
+                    "id": "B",
+                    "content": "Read One Memory"
+                },
+                {
+                    "id": "C",
+                    "content": "Read Only Memory"
+                },
+                {
+                    "id": "D",
+                    "content": "Random One Memory"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 15,
+            "question": "Phát biểu nào là đúng khi nói đến CPU?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "CPU được tạo bởi bộ nhớ RAM và ROM"
+                },
+                {
+                    "id": "B",
+                    "content": "CPU lưu trữ các phần mềm người sử dụng"
+                },
+                {
+                    "id": "C",
+                    "content": "CPU là viết tắt của Processing Unit, là đơn vị xử lý trung tâm được tích hợp trong một chip được gọi là một vi xử lý, để xử lý dữ liệu và dịch các lệnh của chương trình"
+                },
+                {
+                    "id": "D",
+                    "content": "CPU thường được tích hợp với một chip gọi là vi xử lý"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 16,
+            "question": "Đơn vị tính nhỏ nhất của máy tính là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Byte"
+                },
+                {
+                    "id": "B",
+                    "content": "Megabyte"
+                },
+                {
+                    "id": "C",
+                    "content": "Bit"
+                },
+                {
+                    "id": "D",
+                    "content": "Terabyte"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 17,
+            "question": "Bit là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là đơn vị nhỏ nhất của thông tin được sử dụng trong máy tính"
+                },
+                {
+                    "id": "B",
+                    "content": "Là một phần tử nhỏ mang một trong 2 giá trị 0 và 1"
+                },
+                {
+                    "id": "C",
+                    "content": "Tất cả các đáp án đều đúng"
+                },
+                {
+                    "id": "D",
+                    "content": "Là một đơn vị đo thông tin"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 18,
+            "question": "1 byte bằng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2 bit"
+                },
+                {
+                    "id": "B",
+                    "content": "10 bit"
+                },
+                {
+                    "id": "C",
+                    "content": "8 bit"
+                },
+                {
+                    "id": "D",
+                    "content": "16 bit"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 19,
+            "question": "1 KB bằng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1000 bit"
+                },
+                {
+                    "id": "B",
+                    "content": "1024 bit"
+                },
+                {
+                    "id": "C",
+                    "content": "1024 byte"
+                },
+                {
+                    "id": "D",
+                    "content": "1000 byte"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 20,
+            "question": "CPU làm những công việc chủ yếu nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lưu trữ dữ liệu"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhập dữ liệu"
+                },
+                {
+                    "id": "C",
+                    "content": "Xử lý dữ liệu"
+                },
+                {
+                    "id": "D",
+                    "content": "Xuất dữ liệu"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 21,
+            "question": "Kể tên các loại bộ nhớ trong?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bộ nhớ truy cập ngẫu nhiên (RAM)"
+                },
+                {
+                    "id": "B",
+                    "content": "Bộ nhớ chỉ đọc (ROM)"
+                },
+                {
+                    "id": "C",
+                    "content": "Bộ nhớ truy cập ngẫu nhiên (RAM) và bộ nhớ chỉ đọc (ROM)"
+                },
+                {
+                    "id": "D",
+                    "content": "Đĩa cứng (Hard disk)"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 22,
+            "question": "Các thiết bị nào có thể thiếu trong một bộ máy tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bộ nguồn"
+                },
+                {
+                    "id": "B",
+                    "content": "Bộ nhớ RAM"
+                },
+                {
+                    "id": "C",
+                    "content": "Ổ đĩa mềm"
+                },
+                {
+                    "id": "D",
+                    "content": "Màn hình"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 23,
+            "question": "Cấu trúc chung của máy tính gồm có những khối chức năng nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bộ xử lý trung tâm, bộ nhớ"
+                },
+                {
+                    "id": "B",
+                    "content": "Bộ nhớ, thiết bị nhập/xuất, màn hình"
+                },
+                {
+                    "id": "C",
+                    "content": "Bộ xử lý trung tâm, bộ nhớ, thiết bị nhập/xuất"
+                },
+                {
+                    "id": "D",
+                    "content": "Bộ xử lý trung tâm, bộ nhớ, thiết bị nhập"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 24,
+            "question": "Các thành phần cơ bản của 1 máy tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "CPU, các thiết bị lưu trữ, bộ nhớ"
+                },
+                {
+                    "id": "B",
+                    "content": "CPU, bộ nhớ, các thiết bị nhập dữ liệu"
+                },
+                {
+                    "id": "C",
+                    "content": "CPU, các thiết bị lưu trữ, bộ nhớ, các thiết bị nhập và các thiết bị xuất dữ liệu"
+                },
+                {
+                    "id": "D",
+                    "content": "Bộ nhớ, các thiết bị nhập, thiết bị xuất dữ liệu và con người"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 25,
+            "question": "Phát biểu nào là đúng khi nói đến bộ nhớ RAM và ROM??",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bộ nhớ ROM thường được dùng bởi các chương trình ứng dụng để lưu trữ tạm thời. Bộ nhớ RAM được dùng để lưu các file dữ liệu"
+                },
+                {
+                    "id": "B",
+                    "content": "Bộ nhớ RAM không bị xoá khi máy tính đã tắt. Bộ nhớ ROM bị xoá khi máy tính tắt"
+                },
+                {
+                    "id": "C",
+                    "content": "Bộ nhớ RAM là bộ nhớ đọc và ghi, trong khi ROM là bộ nhớ chỉ đọc"
+                },
+                {
+                    "id": "D",
+                    "content": "RAM và ROM là hai bộ nhớ truy cập ngẫu nhiên"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 26,
+            "question": "Khi đọc các thông số cấu hình của một máy tính thông thường: 2GHZ-320GB-4.00GB, con số 4.00GB chỉ điều gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chỉ tốc độ của bộ vi xử lý"
+                },
+                {
+                    "id": "B",
+                    "content": "Chỉ dung lượng của đĩa cứng"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ dung lượng bộ nhớ truy cập ngẫu nhiên RAM"
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ dung lượng của bộ nhớ chỉ đọc ROM"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 27,
+            "question": "Đâu là thiết bị lưu trữ dữ liệu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Máy in"
+                },
+                {
+                    "id": "B",
+                    "content": "Webcam"
+                },
+                {
+                    "id": "C",
+                    "content": "USB"
+                },
+                {
+                    "id": "D",
+                    "content": "Cần điểu khiển"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 28,
+            "question": "Thành phần nào của máy tính có thể ngăn máy tính khởi động, nếu nó bị hư hỏng hoặc kết nối không đúng cách?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chuột"
+                },
+                {
+                    "id": "B",
+                    "content": "Bàn phím"
+                },
+                {
+                    "id": "C",
+                    "content": "Ổ đĩa cứng"
+                },
+                {
+                    "id": "D",
+                    "content": "Máy in"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 29,
+            "question": "Nhóm nào sau đây bao gồm các thiết bị được xếp vào cùng loại?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đĩa cứng trong, máy in, các loại đĩa quang (CD, DVD), thẻ nhớ, ổ nhớ di động"
+                },
+                {
+                    "id": "B",
+                    "content": "Đĩa cứng trong, đĩa cứng ngoài, USB, thẻ nhớ, máy scan, ổ nhớ di động"
+                },
+                {
+                    "id": "C",
+                    "content": "Đĩa cứng trong, đĩa cứng ngoài, các loại đĩa quang (CD, DVD), thẻ nhớ, ổ nhớ di động"
+                },
+                {
+                    "id": "D",
+                    "content": "Máy in, máy scan, màn hình, loa"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 30,
+            "question": "Máy Scanner được kết nối với máy tính thông qua cổng nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "RJ 45"
+                },
+                {
+                    "id": "B",
+                    "content": "Jack 3.5"
+                },
+                {
+                    "id": "C",
+                    "content": "USB"
+                },
+                {
+                    "id": "D",
+                    "content": "RJ 11"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 31,
+            "question": "Bàn phím máy tính là thiết bị nào trong các thiết bị sau?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thiết bị xuất thông tin"
+                },
+                {
+                    "id": "B",
+                    "content": "Thiết bị nhập thông tin"
+                },
+                {
+                    "id": "C",
+                    "content": "Thiết bị lưu trữ thông tin"
+                },
+                {
+                    "id": "D",
+                    "content": "Thiết bị thoát thông tin"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 32,
+            "question": "Hãy chỉ ra đâu là thiết bị nhập?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Máy in"
+                },
+                {
+                    "id": "B",
+                    "content": "Máy quét"
+                },
+                {
+                    "id": "C",
+                    "content": "Loa"
+                },
+                {
+                    "id": "D",
+                    "content": "Màn hình"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 33,
+            "question": "Thiết bị nào thực hiện thao tác nhập dữ liệu trong số các thiết bị sau: Màn hình, máy in, máy vẽ, bàn phím, ổ đĩa cứng, ổ đĩa mềm, chuột, loa, máy quét?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Máy in, màn hình, máy quét, chuột"
+                },
+                {
+                    "id": "B",
+                    "content": "Bàn phím, chuột, máy quét"
+                },
+                {
+                    "id": "C",
+                    "content": "Máy vẽ, ổ đĩa cứng, ổ đĩa mềm, bàn phím"
+                },
+                {
+                    "id": "D",
+                    "content": "Máy quét, Loa, chuột, màn hình"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 34,
+            "question": "Máy điện tử dùng để thu và lưu giữ hình ảnh một cách tự động thay vì phải dùng phim ảnh là máy gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Máy ảnh thường"
+                },
+                {
+                    "id": "B",
+                    "content": "Máy ảnh kỹ thuật số"
+                },
+                {
+                    "id": "C",
+                    "content": "Webcam"
+                },
+                {
+                    "id": "D",
+                    "content": "Máy quét ảnh"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 35,
+            "question": "Máy in và máy quét, thiết bị nào là thiết bị nhập thông tin vào máy tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Máy in"
+                },
+                {
+                    "id": "B",
+                    "content": "Máy quét"
+                },
+                {
+                    "id": "C",
+                    "content": "Cả hai"
+                },
+                {
+                    "id": "D",
+                    "content": "Không cái nào"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 36,
+            "question": "Thiết bị nào không thể thiếu trong một máy tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ổ đĩa mềm"
+                },
+                {
+                    "id": "B",
+                    "content": "CPU"
+                },
+                {
+                    "id": "C",
+                    "content": "Ổ đĩa CD"
+                },
+                {
+                    "id": "D",
+                    "content": "Máy in"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 37,
+            "question": "Các thiết bị: chuột, bàn phím, máy quét, thuộc khối chức năng nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thiết bị xuất"
+                },
+                {
+                    "id": "B",
+                    "content": "Thiết bị nhập"
+                },
+                {
+                    "id": "C",
+                    "content": "Khối xử lý"
+                },
+                {
+                    "id": "D",
+                    "content": "Các thiết bị lưu trữ"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 38,
+            "question": "Hãy chọn nhóm có thiết bị không cùng nhóm với những thiết bị còn lại?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bàn phím, chuột, máy quét, máy in, máy chiếu"
+                },
+                {
+                    "id": "B",
+                    "content": "Bàn phím, chuột, máy scan, máy quét"
+                },
+                {
+                    "id": "C",
+                    "content": "Máy scan, máy tính bảng, ổ đĩa mềm (FDD)"
+                },
+                {
+                    "id": "D",
+                    "content": "Màn hình, máy in, máy chủ, điện thoại thông minh"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 39,
+            "question": "Thiết bị nào thực hiện thao tác xuất ra dữ liệu trong số các thiết bị sau: Màn hình, máy in, bàn phím, máy chiếu, ổ đĩa mềm, chuột, loa, máy quét?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bàn phím, chuột, máy quét, máy in"
+                },
+                {
+                    "id": "B",
+                    "content": "Màn hình, Máy in, máy chiếu, loa"
+                },
+                {
+                    "id": "C",
+                    "content": "Máy in, màn hình, máy quét, chuột"
+                },
+                {
+                    "id": "D",
+                    "content": "Màn hình, ổ đĩa cứng, ổ đĩa mềm, bàn phím"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 40,
+            "question": "Thiết bị xuất để đưa ra kết quả đã xử lý cho người sử dụng. Các thiết bị xuất thông dụng hiện nay là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Màn hình, ổ cứng"
+                },
+                {
+                    "id": "B",
+                    "content": "Màn hình, màn hình cảm ứng, máy in, loa, tai nghe"
+                },
+                {
+                    "id": "C",
+                    "content": "Máy in, ổ mềm"
+                },
+                {
+                    "id": "D",
+                    "content": "Màn hình, ổ mềm"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 41,
+            "question": "Các thiết bị: màn hình, loa, máy in, thuộc khối chức năng nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thiết bị nhập"
+                },
+                {
+                    "id": "B",
+                    "content": "Thiết bị xuất"
+                },
+                {
+                    "id": "C",
+                    "content": "Khối xử lý"
+                },
+                {
+                    "id": "D",
+                    "content": "Các thiết bị lưu trữ"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 42,
+            "question": "Hãy chọn nhóm có thiết bị không cùng nhóm với những thiết bị còn lại?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Màn hình, máy in, bàn phím"
+                },
+                {
+                    "id": "B",
+                    "content": "Màn hình, máy in, loa"
+                },
+                {
+                    "id": "C",
+                    "content": "Máy in, bàn phím, chuột"
+                },
+                {
+                    "id": "D",
+                    "content": "Máy in, máy scan, usb"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 43,
+            "question": "Phần mềm công cộng là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là phần mềm có tính phí và bạn có thể chia sẻ cho những người khác mà không mất phí"
+                },
+                {
+                    "id": "B",
+                    "content": "Là phần mềm không có bản quyền, bất cứ ai cũng có thể sử dụng miễn phí mà không bị hạn chế"
+                },
+                {
+                    "id": "C",
+                    "content": "Là phần mềm dùng thử bị hạn chế về thời gian sử dụng và các tính năng sử dụng"
+                },
+                {
+                    "id": "D",
+                    "content": "Là phần mềm có bản quyền và được thay đổi bởi bất cứ ai"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 44,
+            "question": "Đâu là một ví dụ về phần mềm hệ thống?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đĩa mềm"
+                },
+                {
+                    "id": "B",
+                    "content": "Hệ điều hành"
+                },
+                {
+                    "id": "C",
+                    "content": "Đĩa CD"
+                },
+                {
+                    "id": "D",
+                    "content": "Bàn phím"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 45,
+            "question": "Phát biểu nào sau đây là đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phần mềm là tập hợp của các thiết bị nhập như máy scan, bàn phím, chuột,…"
+                },
+                {
+                    "id": "B",
+                    "content": "Phần mềm là một tập hợp những câu lệnh được viết bằng một hoặc nhiều ngôn ngữ lập trình, và các dữ liệu hay tài liệu liên quan nhằm tự động thực hiện một số nhiệm vụ hay chức năng"
+                },
+                {
+                    "id": "C",
+                    "content": "Phần mềm là tập hợp của các thiết bị xuất như màn hình, máy ín, máy chiếu,…"
+                },
+                {
+                    "id": "D",
+                    "content": "Phần mềm là tập hợp của các thiết bị lưu trữ như ổ cứng, đĩa mềm, USB,…"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 46,
+            "question": "Chương trình điều kiển thiết bị trong các đĩa CD kèm theo khi gắn thêm thiết bị ngoại vi cho máy tính thường gọi là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "IOS"
+                },
+                {
+                    "id": "B",
+                    "content": "Driver"
+                },
+                {
+                    "id": "C",
+                    "content": "RAM"
+                },
+                {
+                    "id": "D",
+                    "content": "ROM"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 47,
+            "question": "Chức năng chính của hệ điều hành (Operating System) là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thực hiện các lệnh theo yêu cầu của người sử dụng"
+                },
+                {
+                    "id": "B",
+                    "content": "Tất cả các đáp án đều đúng"
+                },
+                {
+                    "id": "C",
+                    "content": "Quản lý, phân phối và thu hồi bộ nhớ"
+                },
+                {
+                    "id": "D",
+                    "content": "Điều khiển các thiết bị ngoại vi như ổ đĩa, máy in, bàn phím, màn hình"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 48,
+            "question": "Hãy chỉ ra tên của một số hệ điều hành?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Linux, Turbo"
+                },
+                {
+                    "id": "B",
+                    "content": "Linux, Windows, Mac OS"
+                },
+                {
+                    "id": "C",
+                    "content": "Windows, Max"
+                },
+                {
+                    "id": "D",
+                    "content": "Linux, Window"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 49,
+            "question": "Hệ thống nào là tập hợp các chương trình phần mềm chạy trên máy tính, dùng để điều hành, quản lý các thiết bị phần cứng và tài nguyên phần mềm trên máy tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phần mềm ứng dụng"
+                },
+                {
+                    "id": "B",
+                    "content": "Hệ điều hành"
+                },
+                {
+                    "id": "C",
+                    "content": "Phần cứng"
+                },
+                {
+                    "id": "D",
+                    "content": "Các loại trình dịch trung gian"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 50,
+            "question": "Phần mềm nào dưới đây được cài đặt đầu tiên trong máy tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ms Office"
+                },
+                {
+                    "id": "B",
+                    "content": "MS Windows"
+                },
+                {
+                    "id": "C",
+                    "content": "FireFox"
+                },
+                {
+                    "id": "D",
+                    "content": "Norton Antivirus"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 51,
+            "question": "Hãy kể tên một số hệ điều hành?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Linux, Turbo"
+                },
+                {
+                    "id": "B",
+                    "content": "Linux, Windows, Mac OS"
+                },
+                {
+                    "id": "C",
+                    "content": "Windows, Max"
+                },
+                {
+                    "id": "D",
+                    "content": "Mac OS, Window"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 52,
+            "question": "Phát biểu nào sau đây là đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phần mềm ứng dụng không cần hệ điều hành để chạy"
+                },
+                {
+                    "id": "B",
+                    "content": "Phần mềm ứng dụng cần hệ điều hành để chạy"
+                },
+                {
+                    "id": "C",
+                    "content": "Hệ điều hành cần phần mềm ứng dụng để chạy"
+                },
+                {
+                    "id": "D",
+                    "content": "Máy tính không cần hệ điều hành để chạy"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 53,
+            "question": "Hệ điều hành là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trình duyệt web"
+                },
+                {
+                    "id": "B",
+                    "content": "Phần mềm quản lý và phân phối tài nguyên máy tính phục vụ cho các ứng dụng"
+                },
+                {
+                    "id": "C",
+                    "content": "Phần mềm tìm kiếm thông tin"
+                },
+                {
+                    "id": "D",
+                    "content": "Phần mềm văn phòng"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 54,
+            "question": "Hệ điều hành nào sau đây không sử dụng cho máy tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "LINUX"
+                },
+                {
+                    "id": "B",
+                    "content": "Android"
+                },
+                {
+                    "id": "C",
+                    "content": "Windows 7"
+                },
+                {
+                    "id": "D",
+                    "content": "WindowsXP"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 55,
+            "question": "Phần mềm Windows, Linux có đặc điểm gì chung?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tất cả đều là phần mềm ứng dụng"
+                },
+                {
+                    "id": "B",
+                    "content": "Tất cả đều là phần mềm hệ điều hành"
+                },
+                {
+                    "id": "C",
+                    "content": "Tất cả đều là dịch vụ dải tần rộng"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả đều là thiết bị phần cứng"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 56,
+            "question": "Trong các phần mềm sau, phần mềm nào là phần mềm ứng dụng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Windows 7"
+                },
+                {
+                    "id": "B",
+                    "content": "Microsoft Word"
+                },
+                {
+                    "id": "C",
+                    "content": "Linux"
+                },
+                {
+                    "id": "D",
+                    "content": "Unix"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 57,
+            "question": "Hãy chọn phương án đúng để điền vào dấu 3 chấm: \"... là một cấu trúc bao gồm tập hợp các thao tác và các kết quả tương quan sử dụng trong việc phát triển để sản xuất ra một sản phẩm phần mềm\"",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quy trình hoạt động của máy tính"
+                },
+                {
+                    "id": "B",
+                    "content": "Quy trình phát triển phần mềm"
+                },
+                {
+                    "id": "C",
+                    "content": "Quy trình sản xuất máy tính"
+                },
+                {
+                    "id": "D",
+                    "content": "Quy trình lắp ráp máy tính"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 58,
+            "question": "Phát biểu nào chưa đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phần mềm thương mại - Commercia Software: có đăng ký bản quyền, không cho phép sao chép dưới bất kỳ hình thức nào"
+                },
+                {
+                    "id": "B",
+                    "content": "Phần mềm mã nguồn mở - Open Source Software: có đăng ký bản quyền, không cho phép sao chép dưới bất kỳ hình thức nào"
+                },
+                {
+                    "id": "C",
+                    "content": "Phần mềm chia sẻ - Shareware: có bản quyền, dùng thử trước khi muA. Nếu muốn tiếp tục sử dụng chương trình thì được khuyến khích trả tiền cho tác giả"
+                },
+                {
+                    "id": "D",
+                    "content": "Phần mềm miễn phí - Freeware: cho phép người khác tự do sử dụng hoàn toàn hoặc theo một số yêu cầu bắt buộc. Ví dụ kèm tên tác giả"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 59,
+            "question": "Phát biểu nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phần mềm mã nguồn mở cho phép người dùng được sửa mã nguồn"
+                },
+                {
+                    "id": "B",
+                    "content": "Phần mềm mã nguồn mở là phần mềm phải mua bản quyền để sử dụng"
+                },
+                {
+                    "id": "C",
+                    "content": "Phần mềm mã nguồn mở là phần mềm miễn phí"
+                },
+                {
+                    "id": "D",
+                    "content": "Phần mềm mã nguồn mở cho phép người dùng được chia sẻ cho người khác"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 60,
+            "question": "Phần mềm nào sau đây không phải là phần mềm mã nguồn mở?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ubuntu"
+                },
+                {
+                    "id": "B",
+                    "content": "Microsoft Office"
+                },
+                {
+                    "id": "C",
+                    "content": "Open Office"
+                },
+                {
+                    "id": "D",
+                    "content": "Mozilla Firefox"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 61,
+            "question": "Phát biểu nào sau đây là đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phần mềm mã nguồn mở gây hại cho người sử dụng"
+                },
+                {
+                    "id": "B",
+                    "content": "Phần mềm mã nguồn mở không cho phép phân phối lại"
+                },
+                {
+                    "id": "C",
+                    "content": "Phần mềm mã nguồn mở không có bản quyền"
+                },
+                {
+                    "id": "D",
+                    "content": "Phần mềm mã nguồn mở không có bảo hành"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 62,
+            "question": "Thiết bị nào quyết định khả năng làm việc của máy tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chuột"
+                },
+                {
+                    "id": "B",
+                    "content": "Bàn phím"
+                },
+                {
+                    "id": "C",
+                    "content": "Máy in"
+                },
+                {
+                    "id": "D",
+                    "content": "CPU"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 63,
+            "question": "Tốc độ của máy tính phụ thuộc vào các yếu tố nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tốc độ của bộ vi xử lý. Tốc độ, dung lượng và không gian trống của ổ cứng"
+                },
+                {
+                    "id": "B",
+                    "content": "Dung lượng bộ nhớ truy cập ngẫu nhiên RAM"
+                },
+                {
+                    "id": "C",
+                    "content": "Hệ điều hành và quá trình tiến hành gom các tệp tin đã bị phân mảnh theo định kỳ"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 64,
+            "question": "Tuỳ chọn nào cho phép cải thiện hiệu năng của máy tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thêm card mạng không dây"
+                },
+                {
+                    "id": "B",
+                    "content": "Thêm các thiết bị không dây"
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng số cổng kết nối"
+                },
+                {
+                    "id": "D",
+                    "content": "Nâng cấp RAM, CPU của máy tính"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 65,
+            "question": "Hành động nào nên thực hiện để tăng hiệu năng của máy tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thường xuyên khôi phục các tệp tin từ thùng rác"
+                },
+                {
+                    "id": "B",
+                    "content": "Luôn giữ các chương trình của nhà sản xuất trên máy tính"
+                },
+                {
+                    "id": "C",
+                    "content": "Chạy nhiều chương trình quét virus để tăng độ bảo vệ"
+                },
+                {
+                    "id": "D",
+                    "content": "Loại bỏ các chương trình không bao giờ dùng và đóng bớt các ứng dụng cùng chạy tại một thời điểm"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 66,
+            "question": "Phương án nào sau đây là đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khi chuyển sang chế độ Sleep của Windows 7, máy tính không tiêu thụ điện năng"
+                },
+                {
+                    "id": "B",
+                    "content": "Khi chuyển sang chế độ Shutdown của Windows 7, máy tính vẫn tiêu thụ điện năng"
+                },
+                {
+                    "id": "C",
+                    "content": "Khi chuyển sang chế độ Logout của Windows 7, máy tính không tiêu thụ điện năng"
+                },
+                {
+                    "id": "D",
+                    "content": "Khi chuyển sang chế độ Sleep của Windows 7, máy tính vẫn tiêu thụ điện năng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 67,
+            "question": "Dưới góc độ địa lý, mạng máy tính được phân thành?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mạng cục bộ, mạng toàn cục, mạng diện rộng, mạng toàn cầu"
+                },
+                {
+                    "id": "B",
+                    "content": "Mạng toàn cục, mạng diện rộng, mạng toàn cầu"
+                },
+                {
+                    "id": "C",
+                    "content": "Mạng cục bộ, mạng toàn cục, mạng diện rộng"
+                },
+                {
+                    "id": "D",
+                    "content": "Mạng cục bộ, mạng diện rộng, mạng toàn cầu"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 68,
+            "question": "Mạng LAN là viết tắt của?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Location At Network"
+                },
+                {
+                    "id": "B",
+                    "content": "Local At NetWork"
+                },
+                {
+                    "id": "C",
+                    "content": "Local Area Net"
+                },
+                {
+                    "id": "D",
+                    "content": "Local Area Network"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 69,
+            "question": "Mạng WAN là viết tắt của?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Winde Area Network"
+                },
+                {
+                    "id": "B",
+                    "content": "Wide are network"
+                },
+                {
+                    "id": "C",
+                    "content": "Wide area networks"
+                },
+                {
+                    "id": "D",
+                    "content": "Wide Area Network"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 70,
+            "question": "Khi sử dụng mạng LAN ta được các lợi ích gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quản lý tập trung"
+                },
+                {
+                    "id": "B",
+                    "content": "Chia sẻ tài nguyên (ổ cứng, cơ sở dữ liệu, máy in, các phần mềm tiện ích,…)"
+                },
+                {
+                    "id": "C",
+                    "content": "Dễ bảo trì, bảo dưỡng"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 71,
+            "question": "Mạng LAN là mạng kết nối các máy tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ở cách nhau một khoảng cách lớn"
+                },
+                {
+                    "id": "B",
+                    "content": "Cùng một hệ điều hành"
+                },
+                {
+                    "id": "C",
+                    "content": "Không dùng chung một giao thức"
+                },
+                {
+                    "id": "D",
+                    "content": "Ở gần nhau"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 72,
+            "question": "Mạng WAN là mạng kết nối các máy tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cùng một hệ điều hành"
+                },
+                {
+                    "id": "B",
+                    "content": "Ở gần nhau"
+                },
+                {
+                    "id": "C",
+                    "content": "Không dùng chung một giao thức"
+                },
+                {
+                    "id": "D",
+                    "content": "Ở cách nhau một khoảng cách lớn"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 73,
+            "question": "Những yếu tố nào sau đây được sử dụng cho mạng cục bộ (LAN)?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kết nối máy tính cho các khu vực địa lý cách xa nhau"
+                },
+                {
+                    "id": "B",
+                    "content": "Kết nối bằng viễn thông và vệ tinh"
+                },
+                {
+                    "id": "C",
+                    "content": "Tốc độ không cao"
+                },
+                {
+                    "id": "D",
+                    "content": "Chia sẻ tài nguyên (máy in, máy quét,…)"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 74,
+            "question": "Căn cứ vào quy mô sử dụng người ta chia thành các loại mạng nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "LAN"
+                },
+                {
+                    "id": "B",
+                    "content": "WAN"
+                },
+                {
+                    "id": "C",
+                    "content": "Internet"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 75,
+            "question": "Kỹ thuật dùng để kết nối mạng cho nhiều máy tính với nhau trong phạm vi một văn phòng gọi là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "WAN"
+                },
+                {
+                    "id": "B",
+                    "content": "MAN"
+                },
+                {
+                    "id": "C",
+                    "content": "Internet"
+                },
+                {
+                    "id": "D",
+                    "content": "LAN"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 76,
+            "question": "Đơn vị cơ bản dùng để đo tốc độ truyền dữ liệu là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bit"
+                },
+                {
+                    "id": "B",
+                    "content": "Byte"
+                },
+                {
+                    "id": "C",
+                    "content": "Hz"
+                },
+                {
+                    "id": "D",
+                    "content": "bps (bit per second)"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 77,
+            "question": "MBps là đơn vị đo gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tốc độ Ghi đĩa CD"
+                },
+                {
+                    "id": "B",
+                    "content": "Tốc độ đọc dữ liệu từ ổ đĩa cứng"
+                },
+                {
+                    "id": "C",
+                    "content": "Tốc độ ghi đĩa"
+                },
+                {
+                    "id": "D",
+                    "content": "Tốc độ truyền dữ liệu"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 78,
+            "question": "Hãy chỉ ra phương tiện truyền dẫn thông tin?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cáp điện thoại"
+                },
+                {
+                    "id": "B",
+                    "content": "Cáp quang"
+                },
+                {
+                    "id": "C",
+                    "content": "Sóng vô tuyến"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 79,
+            "question": "Mạng Intranet là gì",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là sự kết nối giữa 2 máy tính với nhau"
+                },
+                {
+                    "id": "B",
+                    "content": "Là sự kết nối các máy tính trên phạm vi toàn cầu"
+                },
+                {
+                    "id": "C",
+                    "content": "Là sự kết nối các máy tính trong một phạm vi nhỏ (nhà ở, phòng làm việc,…)"
+                },
+                {
+                    "id": "D",
+                    "content": "Là sự kết nối các máy tính trong 1 cơ quan, tùy theo cấu hình của nhà quản trị (Admin) mà mỗi thông tin được hay không được cho phép gửi ra bên ngoài"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 80,
+            "question": "Internet có nghĩa là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hệ thống máy tính"
+                },
+                {
+                    "id": "B",
+                    "content": "Hệ thống máy chủ"
+                },
+                {
+                    "id": "C",
+                    "content": "Hệ thống cơ sở hạ tầng mạng"
+                },
+                {
+                    "id": "D",
+                    "content": "Hệ thống thông tin toàn cầu có thể được truy nhập công cộng gồm các mạng máy tính được liên kết với nhau."
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 81,
+            "question": "\"Download\" có nghĩa là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đang tải"
+                },
+                {
+                    "id": "B",
+                    "content": "Đã tải xong"
+                },
+                {
+                    "id": "C",
+                    "content": "Không trực tuyến"
+                },
+                {
+                    "id": "D",
+                    "content": "Tải file hay folder"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 82,
+            "question": "Hãy kể tên các dịch vụ kết nối Internet?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dial-up"
+                },
+                {
+                    "id": "B",
+                    "content": "ADSL"
+                },
+                {
+                    "id": "C",
+                    "content": "FTTH"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 83,
+            "question": "Các dịch vụ Internet dành cho người dùng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thương mại điện tử"
+                },
+                {
+                    "id": "B",
+                    "content": "Ngân hàng điện tử"
+                },
+                {
+                    "id": "C",
+                    "content": "Chính phủ điện tử"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 84,
+            "question": "Đâu là phương thức làm việc trực tuyến?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "E - lerning"
+                },
+                {
+                    "id": "B",
+                    "content": "Teleworking"
+                },
+                {
+                    "id": "C",
+                    "content": "Teleconference"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 85,
+            "question": "Phát biểu nào sau đây về thư điện tử (email) là đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Địa chỉ Email trùng với tên trong chứng minh nhân dân"
+                },
+                {
+                    "id": "B",
+                    "content": "Email vận chuyển qua nhân viên bưu điện"
+                },
+                {
+                    "id": "C",
+                    "content": "Chi phí cao"
+                },
+                {
+                    "id": "D",
+                    "content": "Email là viết tắt của từ Electronic mail, có nghĩa là thư điện tử"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 86,
+            "question": "Cấu trúc 1 địa chỉ email là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "<Tên miền>@<Tên_người_dùng>"
+                },
+                {
+                    "id": "B",
+                    "content": "<Tên_người_dùng>.<Tên_miền>"
+                },
+                {
+                    "id": "C",
+                    "content": "<Tên_miền>.<Tên_người_dùng>"
+                },
+                {
+                    "id": "D",
+                    "content": "<Tên_người_dùng>@<Tên_miền>"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 87,
+            "question": "Thông tin nào sau đây nói về thư điện tử?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Người đưa thư chỉ việc để thư ở hòm thư trước nhà người nhận là người nhận có thể biết được nội dung"
+                },
+                {
+                    "id": "B",
+                    "content": "Là dịch vụ chỉ dành cho những người làm trong lĩnh vực điện tử viễn thông"
+                },
+                {
+                    "id": "C",
+                    "content": "Dịch vụ này chưa có"
+                },
+                {
+                    "id": "D",
+                    "content": "Là dịch vụ thực hiện truyền thông tin qua Internet thông qua các hộp thư điện tử"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 88,
+            "question": "Lợi ích của email so với thư thông thường?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tốc độ gửi, nhận thư nhanh"
+                },
+                {
+                    "id": "B",
+                    "content": "Tốn ít công vận chuyển, lưu trữ"
+                },
+                {
+                    "id": "C",
+                    "content": "Khối lượng thư gửi và nhận lớn hơn so với thư thông thường"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 89,
+            "question": "Phát biểu nào là đúng với tin nhắn tức thời (Instant Messages)",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bất kỳ người sử dụng nào cũng có thể truy cập vào nhóm mà không cần phải được mời"
+                },
+                {
+                    "id": "B",
+                    "content": "Các thông báo trạng thái được hiển thị duy nhất khi người dùng đang trực tuyến"
+                },
+                {
+                    "id": "C",
+                    "content": "Không thể thay đổi trạng thái và tên của mỗi trạng thái người dung"
+                },
+                {
+                    "id": "D",
+                    "content": "Cho phép gửi các tập tin như tài liệu, hình ảnh, video clip, và âm thanh"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 90,
+            "question": "Đặc điểm chính của hệ thống truyền giọng nói trên giao thức IP (Voice over Internet Protocal-VoIP)",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phụ thuộc vào phần cứng được sử dụng"
+                },
+                {
+                    "id": "B",
+                    "content": "Chỉ thực hiện được bằng phần mềm"
+                },
+                {
+                    "id": "C",
+                    "content": "Phụ thuộc vào loại mạng ảo hỗ trợ nó"
+                },
+                {
+                    "id": "D",
+                    "content": "Cung cấp một liên kết đến các mạng điện thoại truyền thống và không trả thêm bất kì một khoản chi phí nào"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 91,
+            "question": "Điều nào sau đây là đúng liên quan đến hệ thống truyền giọng nói trên giao thức IP (VoIP)?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Không yêu cầu một đường dây điện thoại truyền thống"
+                },
+                {
+                    "id": "B",
+                    "content": "Chỉ khả dụng trên các hệ thống máy tính cá nhân"
+                },
+                {
+                    "id": "C",
+                    "content": "Phụ thuộc vào loại phần cứng được sử dụng"
+                },
+                {
+                    "id": "D",
+                    "content": "Chuyên dụng trong các môi trường kinh doanh"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 92,
+            "question": "Diễn đàn (forum) là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là nơi để cho người dùng Internet trao đổi thảo luận và tán ngẫu nhau"
+                },
+                {
+                    "id": "B",
+                    "content": "Là một tổ chức về sáng tạo nghệ thuật"
+                },
+                {
+                    "id": "C",
+                    "content": "Là tổ chức về công nghệ thông tin"
+                },
+                {
+                    "id": "D",
+                    "content": "Là một chương trình Chat trực tuyến."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 93,
+            "question": "Hãy chọn phương án đúng để điền vào dấu 3 chấm: \"... là điểm truy cập tập trung và duy nhất, tích hợp các kênh thông tin dịch vụ, ứng dụng, là một sản phẩm hệ thống phần mềm được phát triển dựa trên một sản phẩm phần mềm cổng lõi\"",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cổng thông tin điện tử"
+                },
+                {
+                    "id": "B",
+                    "content": "Trang tin điện tử"
+                },
+                {
+                    "id": "C",
+                    "content": "Báo"
+                },
+                {
+                    "id": "D",
+                    "content": "Tin nội bộ"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 94,
+            "question": "Hãy chọn phương án đúng để điền vào dấu 3 chấm: \"... là một hệ thống thông tin được sử dụng để tạo ra một hoặc nhiều trang có thông tin được trình bày dưới các chữ viết, chữ số, hình ảnh, âm thanh hay đặc biệt hơn là các ký hiệu để phục vụ cho việc cung c",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trang tin điện tử"
+                },
+                {
+                    "id": "B",
+                    "content": "Cổng thông tin điện tử"
+                },
+                {
+                    "id": "C",
+                    "content": "Báo"
+                },
+                {
+                    "id": "D",
+                    "content": "Tin nội bộ"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 95,
+            "question": "Nơi để cho người dùng Internet trao đổi thảo luận và tán gẫu nhau là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Forum"
+                },
+                {
+                    "id": "B",
+                    "content": "Chatroom"
+                },
+                {
+                    "id": "C",
+                    "content": "Blog"
+                },
+                {
+                    "id": "D",
+                    "content": "Website"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 96,
+            "question": "Hãy chọn phương án đúng để điền vào dấu 3 chấm: \"... là hình thức thảo luận trực tiếp trên Internet, bạn có thể thảo luận, trao đổi và nhận được câu trả lời hầu như ngay lập tức, cũng tương tự như khi bạn nói chuyện qua điện thoại\"",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chatroom"
+                },
+                {
+                    "id": "B",
+                    "content": "Blog"
+                },
+                {
+                    "id": "C",
+                    "content": "Forum"
+                },
+                {
+                    "id": "D",
+                    "content": "Website"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 97,
+            "question": "Lựa chọn nào là đúng liên quan đến việc sửa tư thế khi sử dụng một máy tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các cánh tay, cẳng tay, cổ tay để thẳng với bàn làm việc. Bàn chân nên được đặt trên sàn và hợp với đầu gối tạo thành một góc vuông"
+                },
+                {
+                    "id": "B",
+                    "content": "Đầu gối nên được ở một góc vuông nhưng ở một vị trí thấp hơn so với khung xương chậu"
+                },
+                {
+                    "id": "C",
+                    "content": "Luôn sử dụng một bệ nghỉ chân"
+                },
+                {
+                    "id": "D",
+                    "content": "Đầu và cằm nên nghiêng về phía sàn nhà, ngăn ngừa sự chênh lệch trọng lượng trên lưng và các vấn đề về cột sống"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 98,
+            "question": "Tác hại khi ngồi lâu trước máy tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tất cả các đáp án đều đúng"
+                },
+                {
+                    "id": "B",
+                    "content": "Mỏi mắt"
+                },
+                {
+                    "id": "C",
+                    "content": "Đau lưng"
+                },
+                {
+                    "id": "D",
+                    "content": "Căng thẳng thần kinh"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 99,
+            "question": "Đặt màn hình máy tính như thế nào là tốt cho mắt bạn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Không đối diện với cửa ra vào, cửa sổ, bóng đèn"
+                },
+                {
+                    "id": "B",
+                    "content": "Không có ánh sáng chiếu vào"
+                },
+                {
+                    "id": "C",
+                    "content": "Đối diện với cửa ra vào, của sổ, bóng đèn"
+                },
+                {
+                    "id": "D",
+                    "content": "Trong phòng tối"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 100,
+            "question": "Công dụng của việc tái chế các bộ phận của máy tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giảm ô nhiễm môi trường"
+                },
+                {
+                    "id": "B",
+                    "content": "Giảm các bệnh cho người sử dụng máy tính"
+                },
+                {
+                    "id": "C",
+                    "content": "Tiết kiệm chi phí sử dụng cho doanh nghiệp"
+                },
+                {
+                    "id": "D",
+                    "content": "Gây ô nhiễm môi trường"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 101,
+            "question": "Các mật khẩu nào sau đây là khó phá nhất đối với hacker?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "p@ssWord123"
+                },
+                {
+                    "id": "B",
+                    "content": "password"
+                },
+                {
+                    "id": "C",
+                    "content": "123456"
+                },
+                {
+                    "id": "D",
+                    "content": "h3llo"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 102,
+            "question": "Đâu là ví dụ của mật khẩu tốt?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mật khẩu nhiều hơn 7 ký tự gồm cả chữ hoa, số, ký tự đặc biệt"
+                },
+                {
+                    "id": "B",
+                    "content": "Chọn một mật khẩu có ít hơn 6 ký tự"
+                },
+                {
+                    "id": "C",
+                    "content": "Mật khẩu phải giống lý lịch người sử dụng (ngày tháng năm sinh)"
+                },
+                {
+                    "id": "D",
+                    "content": "Mật khẩu chỉ gồm chữ hoặc số"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 103,
+            "question": "Cách nào để đề phòng khi giao dịch trực tuyến?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tất cả các đáp án đều đúng"
+                },
+                {
+                    "id": "B",
+                    "content": "Không để lộ hồ sơ cá nhân"
+                },
+                {
+                    "id": "C",
+                    "content": "Cảnh giác với thư giả mạo"
+                },
+                {
+                    "id": "D",
+                    "content": "Đặt mật khẩu nhiều hơn 7 ký tự, gồm cả chữ hoa, số, ký tự đặc biệt"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 104,
+            "question": "Thiết bị nào hoạt động trong một môi trường máy tính nối mạng dùng để ngăn chặn một số liên lạc bị cấm bởi chính sách an ninh của cá nhân hay tổ chức?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tường lửa"
+                },
+                {
+                    "id": "B",
+                    "content": "Điểm truy cập không dây"
+                },
+                {
+                    "id": "C",
+                    "content": "Router"
+                },
+                {
+                    "id": "D",
+                    "content": "Switch"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 105,
+            "question": "Virus máy tính là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chương trình máy tính có khả năng tự lây lan nhằm phá hoại hoặc lấy cắp thông tin"
+                },
+                {
+                    "id": "B",
+                    "content": "Virus sinh học lây lan qua việc sử dụng chung bàn phím"
+                },
+                {
+                    "id": "C",
+                    "content": "Chương trình máy tính mô tả hoạt động của virus"
+                },
+                {
+                    "id": "D",
+                    "content": "Chương trình máy tính hoạt động ngay cả khi tắt máy"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 106,
+            "question": "Virus máy tính có khả năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tự sao chép để lây nhiễm"
+                },
+                {
+                    "id": "B",
+                    "content": "Lây lan qua máy quét"
+                },
+                {
+                    "id": "C",
+                    "content": "Lây lan qua màn hình"
+                },
+                {
+                    "id": "D",
+                    "content": "Lây lan qua máy in"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 107,
+            "question": "Loại mã nguồn độc hại nào không có chức năng tự sao chép nhưng lại có chức năng hủy hoại tương tự virus?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trojan"
+                },
+                {
+                    "id": "B",
+                    "content": "Worm"
+                },
+                {
+                    "id": "C",
+                    "content": "Logic bomb"
+                },
+                {
+                    "id": "D",
+                    "content": "Stealth virus"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 108,
+            "question": "Phần mềm nào có thể gây hại cho máy tính của người dùng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Virut, Spyware"
+                },
+                {
+                    "id": "B",
+                    "content": "Virut"
+                },
+                {
+                    "id": "C",
+                    "content": "Spyware"
+                },
+                {
+                    "id": "D",
+                    "content": "Microsoft Office"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 109,
+            "question": "Bạn nhận được một bức thư điện tử chứa tệp tin đính kèm mà bạn không nhận biết ra, bạn sẽ xử lý thế nào trong tình huống này để đảm bảo an toàn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quét tệp tin bằng chương trình chống virus"
+                },
+                {
+                    "id": "B",
+                    "content": "Mở tệp tin đó ra để kiểm tra loại tệp tin"
+                },
+                {
+                    "id": "C",
+                    "content": "Chuyển thư này cho người không có chuyên ngành công nghệ thông tin xem"
+                },
+                {
+                    "id": "D",
+                    "content": "Lưu bản sao tệp tin này vào đĩa cứng và mở bản sao này"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 110,
+            "question": "Để phòng chống Virus, cách tốt nhất là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sử dụng các chương trình quét virus nổi tiếng và phải cập nhật thường xuyên, thường xuyên kiểm tra các ổ đĩa, đặc biệt thận trọng khi sao chép dữ liệu từ nơi khác mang tới"
+                },
+                {
+                    "id": "B",
+                    "content": "Sử dụng USB mà không quét Virus"
+                },
+                {
+                    "id": "C",
+                    "content": "Không nối mạng Internet cho máy tính"
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ quét virus cho những ổ đĩa cài hệ điều hành"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 111,
+            "question": "Luật công nghệ thông tin ra đời và chính thức có hiệu lực từ ngày, tháng, năm nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ngày 29/6/2006 và có hiệu lực ngày 01/01/2007"
+                },
+                {
+                    "id": "B",
+                    "content": "Ngày 29/6/2005 và có hiệu lực ngày 01/01/2006"
+                },
+                {
+                    "id": "C",
+                    "content": "Ngày 29/6/2007 và có hiệu lực ngày 01/01/2008"
+                },
+                {
+                    "id": "D",
+                    "content": "Ngày 29/6/2008 và có hiệu lực ngày 01/01/2009"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 112,
+            "question": "Một thoả thuận ràng buộc mang tính pháp lý quy định cụ thể các điều khoản về sử dụng một ứng dụng và xác định các quyền của nhà sản xuất và của người dùng cuối là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giấy phép phần mềm (Software License)"
+                },
+                {
+                    "id": "B",
+                    "content": "Bản quyền sản xuất (Producer Copyright)"
+                },
+                {
+                    "id": "C",
+                    "content": "Thoả thuận không tiết lộ (Non-Disclosure Agreement)"
+                },
+                {
+                    "id": "D",
+                    "content": "Thoả thuận người dùng web (Web User Argeement)"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 113,
+            "question": "Phát biểu nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cài phần mềm, trò chơi bị bẻ khóa là không vi phạm luật bản quyền"
+                },
+                {
+                    "id": "B",
+                    "content": "Cài đặt phần mềm, trò chơi từ đĩa CD có bản quyền là không vi phạm luật bản quyền"
+                },
+                {
+                    "id": "C",
+                    "content": "Cài phần mềm, trò chơi từ đĩa CD sao chép là vi phạm luật bản quyền"
+                },
+                {
+                    "id": "D",
+                    "content": "Cài đặt phần mềm, trò chơi từ đĩa CD đi mượn là vi phạm luật bản quyền"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 114,
+            "question": "Hãy chọn phương án đúng để điền vào dấu 3 chấm: \"... là độc quyền của một tác giả cho tác phẩm của người này\"",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quyền tác giả"
+                },
+                {
+                    "id": "B",
+                    "content": "Quyền sao chép"
+                },
+                {
+                    "id": "C",
+                    "content": "Quyền dịch chuyển"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các phương án trên"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 115,
+            "question": "Giấy phép sử dụng phần mềm có thể thiết lập tuỳ chọn nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giá chuyển nhượng các quyền"
+                },
+                {
+                    "id": "B",
+                    "content": "Tự do kinh doanh trên bản sao giấy phép"
+                },
+                {
+                    "id": "C",
+                    "content": "Tự do để chuyển chương trình cho các bên thứ ba"
+                },
+                {
+                    "id": "D",
+                    "content": "Người sử dụng tự do quảng bá chính họ là tác giả của phần mềm"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 116,
+            "question": "Phần mềm văn phòng nào sau đây sử dụng giấy phép mã nguồn mở?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Open Office"
+                },
+                {
+                    "id": "B",
+                    "content": "Microsoft Office"
+                },
+                {
+                    "id": "C",
+                    "content": "Windows 7"
+                },
+                {
+                    "id": "D",
+                    "content": "Kaspersky"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 117,
+            "question": "Khi một cơ quan mua một chương trình máy tính, trong những trường hợp nào chương trình này có thể được cài đặt miễn phí trong cơ quan đó?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khi có sự đồng ý bản quyền cho phép điều này"
+                },
+                {
+                    "id": "B",
+                    "content": "Khi cơ quan đó có dưới 10 nhân viên"
+                },
+                {
+                    "id": "C",
+                    "content": "Khi chương trình này có giá dưới 100 nghìn đồng"
+                },
+                {
+                    "id": "D",
+                    "content": "Khi nó được sử dụng tối đa cho 3 máy tính một lúc"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 118,
+            "question": "Tuỳ chọn nào là mô tả tốt nhất về phần mềm mã nguồn mở?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phần mềm với mã nguồn có sẵn và có thể được sửa đổi bởi bất cứ ai"
+                },
+                {
+                    "id": "B",
+                    "content": "Một tuỳ chọn phần mềm mà người dùng có thể mua mã nguồn các ứng dụng"
+                },
+                {
+                    "id": "C",
+                    "content": "Phần mềm được phát triển bởi hai hay nhiều cá nhân"
+                },
+                {
+                    "id": "D",
+                    "content": "Phần mềm được sử dụng để mở một loạt tập tin cụ thể"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 119,
+            "question": "Cách nào sau đây là tốt nhất để chống lại điểm yếu bảo mật trong phần mềm hệ điều hành",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Luôn cập nhật phần mềm hệ thống"
+                },
+                {
+                    "id": "B",
+                    "content": "Không cập nhật phần mềm hệ thống"
+                },
+                {
+                    "id": "C",
+                    "content": "Cài đặt lại hệ điều hành"
+                },
+                {
+                    "id": "D",
+                    "content": "Shutdown hệ thống khi không sử dụng"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 120,
+            "question": "Để bảo vệ dữ liệu ta phải làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sao lưu dữ liệu thường xuyên"
+                },
+                {
+                    "id": "B",
+                    "content": "Không sao lưu dữ liệu để lưu trữ"
+                },
+                {
+                    "id": "C",
+                    "content": "Chia sẻ dữ liệu cho nhiều người dùng"
+                },
+                {
+                    "id": "D",
+                    "content": "Không đặt mật khẩu bảo vệ tài liệu"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        }
+    ]
+}

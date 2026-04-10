@@ -1,0 +1,2878 @@
+{
+    "title": "CHƯƠNG 5",
+    "total_questions": 120,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Microsoft Excel là công cụ dùng để:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Soạn thảo"
+                },
+                {
+                    "id": "B",
+                    "content": "Trình chiếu"
+                },
+                {
+                    "id": "C",
+                    "content": "Tính toán"
+                },
+                {
+                    "id": "D",
+                    "content": "Gửi thư"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 2,
+            "question": "Phần mở rộng mặc định của tệp được tạo bằng Microsoft Excel 2010 là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "XLXS"
+                },
+                {
+                    "id": "B",
+                    "content": "XSLX"
+                },
+                {
+                    "id": "C",
+                    "content": "XLSX"
+                },
+                {
+                    "id": "D",
+                    "content": "XXLS"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 3,
+            "question": "Trong MS Excel, muốn nhờ chương trình giúp đỡ về một vấn đề gì đó, ta nhấn phím:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "F2"
+                },
+                {
+                    "id": "B",
+                    "content": "F3"
+                },
+                {
+                    "id": "C",
+                    "content": "F1"
+                },
+                {
+                    "id": "D",
+                    "content": "F4"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 4,
+            "question": "Với cùng một nội dung, kích thước của tệp có phần mở rộng xls so với tệp có phần mở rộng xlsx như thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kích thước 2 tệp bằng nhau"
+                },
+                {
+                    "id": "B",
+                    "content": "Tệp có phần mở rộng xls có kích thước nhỏ hơn so với tệp có phần mở rộng xlsx"
+                },
+                {
+                    "id": "C",
+                    "content": "Tệp có phần mở rộng xls có kích thước lớn hơn so với tệp có phần mở rộng xlsx"
+                },
+                {
+                    "id": "D",
+                    "content": "Tệp có phần mở rộng xls có kích thước lớn hơn so với tệp có phần mở rộng xlsx 10 lần"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 5,
+            "question": "Một trong những thuật ngữ sau không phải dùng để chỉ một thành phần của Excel?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "WorkBook"
+                },
+                {
+                    "id": "B",
+                    "content": "WorkSheet"
+                },
+                {
+                    "id": "C",
+                    "content": "Workdocument"
+                },
+                {
+                    "id": "D",
+                    "content": "WorkSpace"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 6,
+            "question": "Trong một Worksheet có số cột - số hàng như sau :",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "255 – 65536"
+                },
+                {
+                    "id": "B",
+                    "content": "256 – 16284"
+                },
+                {
+                    "id": "C",
+                    "content": "16384 – 1048576"
+                },
+                {
+                    "id": "D",
+                    "content": "256 – 32368"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 7,
+            "question": "Trong Microsoft Excel, cách nào để mở một tệp Excel đã có trên máy tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl + M"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl+N"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl+O"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl + W"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 8,
+            "question": "Trong Microsoft Excel, cách nào để đóng một tệp?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Alt+F4"
+                },
+                {
+                    "id": "B",
+                    "content": "Shift+F4"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl+F4"
+                },
+                {
+                    "id": "D",
+                    "content": "F4"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 9,
+            "question": "Trong Microsoft Excel, cách nào để tạo mới một tệp?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl + O"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl + M"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl+N"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl + W"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 10,
+            "question": "Trong Microsoft Excel, cách nào để lưu tệp hiện thời với tên mới?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "F11"
+                },
+                {
+                    "id": "B",
+                    "content": "F10"
+                },
+                {
+                    "id": "C",
+                    "content": "F12"
+                },
+                {
+                    "id": "D",
+                    "content": "F9"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 11,
+            "question": "Trong Microsoft Excel, phương án nào dưới đây không phải là địa chỉ ô?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "$A$12"
+                },
+                {
+                    "id": "B",
+                    "content": "A$12"
+                },
+                {
+                    "id": "C",
+                    "content": "$12$A"
+                },
+                {
+                    "id": "D",
+                    "content": "A12"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 12,
+            "question": "Trong Microsoft Excel, phương án nào dưới đây là địa chỉ tuyệt đối?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "$12$A"
+                },
+                {
+                    "id": "B",
+                    "content": "A$12$"
+                },
+                {
+                    "id": "C",
+                    "content": "$A$12"
+                },
+                {
+                    "id": "D",
+                    "content": "A12"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 13,
+            "question": "Trong Microsoft Excel, phương án nào dưới đây là địa chỉ hỗn hợp?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "$A$12"
+                },
+                {
+                    "id": "B",
+                    "content": "A12$"
+                },
+                {
+                    "id": "C",
+                    "content": "$A12"
+                },
+                {
+                    "id": "D",
+                    "content": "A12"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 14,
+            "question": "Trong công thức của Microsoft Excel, sử dụng phím nào để chuyển đổi địa chỉ tuyệt đối sang địa chỉ tương đối hoặc ngược lại cho ô hoặc vùng đã chọn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "F3"
+                },
+                {
+                    "id": "B",
+                    "content": "F2"
+                },
+                {
+                    "id": "C",
+                    "content": "F4"
+                },
+                {
+                    "id": "D",
+                    "content": "F5"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 15,
+            "question": "Trong bảng tính Excel, vùng là tập hợp nhiều ô kế cận tạo thành hình chữ nhật, địa chỉ vùng được thể hiện như câu nào sau đây là đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "B1...H15"
+                },
+                {
+                    "id": "B",
+                    "content": "B1-H15"
+                },
+                {
+                    "id": "C",
+                    "content": "B1:H15"
+                },
+                {
+                    "id": "D",
+                    "content": "B1..H15"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 16,
+            "question": "Trong MS Excel 2010, giả sử tại ô B5 có công thức = A1+$B$2+C$3. Sau khi sao chép công thức đó từ ô B5 đến ô D8 sẽ có công thức:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "= C1 + $B$2 + E$3"
+                },
+                {
+                    "id": "B",
+                    "content": "= A4 + $B$2 + C$3"
+                },
+                {
+                    "id": "C",
+                    "content": "= C4 + $B$2 + E$3"
+                },
+                {
+                    "id": "D",
+                    "content": "Báo lỗi"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 17,
+            "question": "Theo mặc định ký tự dạng ngày tháng sẽ được:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Canh đều hai bên"
+                },
+                {
+                    "id": "B",
+                    "content": "Canh bên trái ô"
+                },
+                {
+                    "id": "C",
+                    "content": "Canh bên phải ô"
+                },
+                {
+                    "id": "D",
+                    "content": "Canh giữa ô"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 18,
+            "question": "Đáp án nào sau đây đúng? Khi nhập dữ liệu vào bảng tính Excel thì:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dữ liệu kiểu số sẽ mặc định căn lề trái"
+                },
+                {
+                    "id": "B",
+                    "content": "Dữ liệu kiểu thời gian sẽ mặc định căn lề trái"
+                },
+                {
+                    "id": "C",
+                    "content": "Dữ liệu kiểu ký tự sẽ mặc định căn lề trái"
+                },
+                {
+                    "id": "D",
+                    "content": "Dữ liệu kiểu ngày tháng sẽ mặc định căn lề trái"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 19,
+            "question": "Các kiểu dữ liệu thông dụng của Excel là :",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kiểu số, kiểu lôgic, kiểu ngày tháng"
+                },
+                {
+                    "id": "B",
+                    "content": "Kiểu chuỗi, kiểu văn bản, kiểu ngày tháng"
+                },
+                {
+                    "id": "C",
+                    "content": "Kiểu chuỗi, kiểu số, kiểu lôgic, kiểu ngày tháng, kiểu công thức"
+                },
+                {
+                    "id": "D",
+                    "content": "Kiểu công thức, kiểu hàm, kiểu số, kiểu ngày tháng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 20,
+            "question": "Để chọn toàn bộ các ô trên bảng tính bằng tổ hợp phím ta nhấn:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl + Alt"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl + Alt +Space"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl + A"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl + Alt + Shift"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 21,
+            "question": "Để chọn nhiều vùng trong MS Excel 2010, khi chọn ta nhấn phím:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Shift"
+                },
+                {
+                    "id": "B",
+                    "content": "Esc"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl"
+                },
+                {
+                    "id": "D",
+                    "content": "Alt"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 22,
+            "question": "Tổ hợp phím Shift + một trong bốn phím mũi tên thực hiện chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Di chuyển con trỏ"
+                },
+                {
+                    "id": "B",
+                    "content": "Không thực hiện chức năng nào"
+                },
+                {
+                    "id": "C",
+                    "content": "Bôi đen (Chọn)"
+                },
+                {
+                    "id": "D",
+                    "content": "Xóa dữ liệu"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 23,
+            "question": "Để hủy kết quả vừa làm ta chọn:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Redo"
+                },
+                {
+                    "id": "B",
+                    "content": "Back"
+                },
+                {
+                    "id": "C",
+                    "content": "Undo"
+                },
+                {
+                    "id": "D",
+                    "content": "Delete"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 24,
+            "question": "Trong bảng tính Excel, để sửa dữ liệu trong một ô tính mà không cần nhập lại, ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "F3"
+                },
+                {
+                    "id": "B",
+                    "content": "F4"
+                },
+                {
+                    "id": "C",
+                    "content": "F2"
+                },
+                {
+                    "id": "D",
+                    "content": "F5"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 25,
+            "question": "Để nhanh chóng xem các thí sinh xếp loại \"xuất sắc\", ta bôi đen toàn bộ vùng có chứa dữ liệu cần xem rồi sử dụng công cụ gì trong số các công cụ sau",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào menu View, chọn mức \"xuất sắc\""
+                },
+                {
+                    "id": "B",
+                    "content": "Vào menu Data, chọn Validation"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào menu Data, chọn Filter - Autofilter"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào menu Tools, chọn Quick view, chọn mức \"xuất sắc\""
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 26,
+            "question": "Trong Excel muốn sắp xếp dữ liệu sau khi quét khối phần dữ liệu muốn sắp xếp ta chọn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Data --> Filter…"
+                },
+                {
+                    "id": "B",
+                    "content": "Data --> Index…"
+                },
+                {
+                    "id": "C",
+                    "content": "Data --> Sort…"
+                },
+                {
+                    "id": "D",
+                    "content": "Data --> Form…"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 27,
+            "question": "Tại D2 có công thức \"=B1+C1\", khi sao chép sang ô E2 thì E2 có công thức là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "=B1+D1"
+                },
+                {
+                    "id": "B",
+                    "content": "=C1+D2"
+                },
+                {
+                    "id": "C",
+                    "content": "=C1+D1"
+                },
+                {
+                    "id": "D",
+                    "content": "=C2+D2"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 28,
+            "question": "Trong bảng tính Excel, tại ô A2 có sẵn dãy kí tự \"1Angiang2\". Nếu sử dụng sao chép công thức để điền dữ liệu đến các cột B2, C2, D2, E2; thì kết quả nhận được tại ô E2 là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "5Angiang6"
+                },
+                {
+                    "id": "B",
+                    "content": "5Angiang2"
+                },
+                {
+                    "id": "C",
+                    "content": "1Angiang6"
+                },
+                {
+                    "id": "D",
+                    "content": "1Angiang2"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 29,
+            "question": "Trong bảng tính Excel, tại ô A2 có sẵn giá trị dãy kí tự \"1 Angiang 2\". Nếu sử dụng sao chép công thức để điền dữ liệu đến các ô B2, C2, D2, E2 ; thì kết quả nhận được tại ô E2 là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1 Angiang 2"
+                },
+                {
+                    "id": "B",
+                    "content": "1 Angiang 6"
+                },
+                {
+                    "id": "C",
+                    "content": "5 Angiang 2"
+                },
+                {
+                    "id": "D",
+                    "content": "2 Angiang 2"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 30,
+            "question": "Để di chuyển vùng dữ liệu từ nơi này sang nơi khác ta nhấn:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl + p"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl + v"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl + x"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl + c"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 31,
+            "question": "Để xoá một cột, bôi đen cột và chọn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert\\Delete\\Delete Sheet Rows"
+                },
+                {
+                    "id": "B",
+                    "content": "Home\\Delete\\Delete Sheet Columns"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert\\Delete\\Worksheet"
+                },
+                {
+                    "id": "D",
+                    "content": "Home\\Delete\\Clear"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 32,
+            "question": "Để xoá một hàng, bôi đen hàng và chọn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Home\\Delete\\Delete Sheet Columns"
+                },
+                {
+                    "id": "B",
+                    "content": "Home\\Delete\\Delete Sheet Rows"
+                },
+                {
+                    "id": "C",
+                    "content": "Home\\Delete\\Clear"
+                },
+                {
+                    "id": "D",
+                    "content": "Insert\\Delete\\Worksheet"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 33,
+            "question": "Giả sử đã bôi đen một hàng trong Excel. Lệnh nào trong số các lệnh sau cho phép chèn thêm một hàng vào vị trí phía trên hàng đang chọn.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào thực đơn Insert, chọn Cells"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào thực đơn Insert, chọn Rows."
+                },
+                {
+                    "id": "C",
+                    "content": "Vào thực đơn Insert, chọn Columns"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào thực đơn Insert, chọn Object"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 34,
+            "question": "Để thay đổi độ rộng của cột, ta thực hiện chức năng nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Home\\Format\\Row Height"
+                },
+                {
+                    "id": "B",
+                    "content": "Home\\Format\\Column Width"
+                },
+                {
+                    "id": "C",
+                    "content": "Home\\Format\\AutoFit Row Height"
+                },
+                {
+                    "id": "D",
+                    "content": "Home\\Format\\AutoFit Column Width"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 35,
+            "question": "Trong bảng tính MS Excel 2010, để giữ cố định hàng hoặc cột trong cửa sổ soạn thảo, ta đánh dấu hàng hoặc cột, chọn:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thẻ Review – Freeze Panes"
+                },
+                {
+                    "id": "B",
+                    "content": "Thẻ View – Freeze Panes"
+                },
+                {
+                    "id": "C",
+                    "content": "Thẻ Page Layout – Freeze Panes"
+                },
+                {
+                    "id": "D",
+                    "content": "Thẻ Home – Freeze Panes"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 36,
+            "question": "Trong MS Excel 2010, để ẩn cột ta thực hiện:",
+            "options": [
+                {
+                    "id": "B",
+                    "content": "Home\\format\\Hide & Unhide\\Hide columns"
+                },
+                {
+                    "id": "C",
+                    "content": "Fomulas\\format\\Hide & Unhide\\Hide columns"
+                },
+                {
+                    "id": "D",
+                    "content": "View\\format\\Hide & Unhide\\Hide columns"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 37,
+            "question": "Để giữ cố định hàng được lặp lại qua các trang, ta chọn hàng bên dưới hàng đó và thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Review\\Freeze Panes"
+                },
+                {
+                    "id": "B",
+                    "content": "View\\Freeze Panes"
+                },
+                {
+                    "id": "C",
+                    "content": "Data\\Freeze Panes"
+                },
+                {
+                    "id": "D",
+                    "content": "Page Layout\\Freeze Panes"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 38,
+            "question": "Để đổi tên một sheet ta chọn:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chuột trái lên tên sheet\\Delete"
+                },
+                {
+                    "id": "B",
+                    "content": "Chuột phải lên sheet\\Rename"
+                },
+                {
+                    "id": "C",
+                    "content": "Chuột phải lên sheet\\Insert"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả ba cách đều sai"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 39,
+            "question": "Sheet được chèn thêm vào bảng tính sẽ nằm ở vị trí:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trước sheet đang mở"
+                },
+                {
+                    "id": "B",
+                    "content": "Phía sau tất cả các sheet"
+                },
+                {
+                    "id": "C",
+                    "content": "Sau sheet đang mở"
+                },
+                {
+                    "id": "D",
+                    "content": "Trước tất cả các sheet"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 40,
+            "question": "Thao tác để di chuyển đến một sheet khác trong cùng một tập tin?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhấn phím F5 và số thứ tự của các sheet"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhấn chuột lên tên sheet cần di chuyển đến hoặc nhấn tổ hợp phím Ctrl + PgUp hoặc Ctrl + PgUp"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhấn phím F2 và số thứ tự của các sheet"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhấn phím F3 và số thứ tự của các sheet"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 41,
+            "question": "Làm cách nào để di chuyển Sheet2 ra trước Sheet1",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Format > Sheet > Move, chọn đúng đến vị trí mong muốn"
+                },
+                {
+                    "id": "B",
+                    "content": "Chọn Sheet2 và kéo đến vị trí mong muốn"
+                },
+                {
+                    "id": "C",
+                    "content": "Chọn Tools > Sheet > Move, và chọn đúng đến vị trí mong muốn"
+                },
+                {
+                    "id": "D",
+                    "content": "Double tab Sheet2 và kéo đến vị trí mong muốn"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 42,
+            "question": "Trong khi làm việc với Excel, để nhập vào công thức tính toán cho một ô, trước hết ta phải gõ:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dấu: $"
+                },
+                {
+                    "id": "B",
+                    "content": "Dấu: ="
+                },
+                {
+                    "id": "C",
+                    "content": "Dấu: ?"
+                },
+                {
+                    "id": "D",
+                    "content": "Dấu: :"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 43,
+            "question": "Trong MS Excel 2010, để ghép 2 xâu ký tự \"VU LOC\" và \"AN\" thành xâu ký tự mới là \"VU LOC AN\", ta sử dụng công thức:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "=\"VU LOC\" + \"AN\""
+                },
+                {
+                    "id": "B",
+                    "content": "=\"VU LOC\"&\" \"&\"AN\""
+                },
+                {
+                    "id": "C",
+                    "content": "=\"VU LOC\" AND \"AN\""
+                },
+                {
+                    "id": "D",
+                    "content": "Không ghép được"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 44,
+            "question": "Trong Excel biểu thức =24*2+5*2+(20-10)/2 sẽ trả về kết quả là bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "271"
+                },
+                {
+                    "id": "B",
+                    "content": "47"
+                },
+                {
+                    "id": "C",
+                    "content": "138"
+                },
+                {
+                    "id": "D",
+                    "content": "Không thể thực hiện được biểu thức trên"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 45,
+            "question": "Trong Excel sau khi nhập công thức sau: =\"123\"-\"23\" ta có kết quả?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "#VALUE!"
+                },
+                {
+                    "id": "B",
+                    "content": "100"
+                },
+                {
+                    "id": "C",
+                    "content": "123"
+                },
+                {
+                    "id": "D",
+                    "content": "23"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 46,
+            "question": "Trong bảng tính Excel, ô A5 chứa “TRAN” và ô B5 chứa “ANH”. Để ổ D5 cho kết quả là “TRAN ANH” (có 1 khoảng trắng ở giữa), ta thực hiện công thức như sau:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "= A5 + “ “ + B5"
+                },
+                {
+                    "id": "B",
+                    "content": "100"
+                },
+                {
+                    "id": "C",
+                    "content": "= A5 + B5"
+                },
+                {
+                    "id": "D",
+                    "content": "= A5 & B5"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 47,
+            "question": "Khi không tham chiếu được Excel báo lỗi:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "#NUM"
+                },
+                {
+                    "id": "B",
+                    "content": "#REF"
+                },
+                {
+                    "id": "C",
+                    "content": "#NA"
+                },
+                {
+                    "id": "D",
+                    "content": "#VALUE"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 48,
+            "question": "Trong bảng tính Excel, nếu trong một ô tính có các kí hiệu #####, điều đó có nghĩa là gì?",
+            "options": [
+                {
+                    "id": "B",
+                    "content": "Cột chứa ô đó có độ rộng quá hẹp nên không hiển thị hết chữ số"
+                },
+                {
+                    "id": "C",
+                    "content": "Công thức nhập sai và Excel thông báo lỗi"
+                },
+                {
+                    "id": "D",
+                    "content": "Chương trình bảng tính bị nhiễm virus"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 49,
+            "question": "Trong Microsoft Excel, tại ô A2 có giá trị là số không (0); Tại ô B2 gõ vào công thức =5/A2 nhận được kết quả nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "#VALUE!"
+                },
+                {
+                    "id": "B",
+                    "content": "#DIV/0!"
+                },
+                {
+                    "id": "C",
+                    "content": "0"
+                },
+                {
+                    "id": "D",
+                    "content": "#NAME?"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 50,
+            "question": "Trong bảng tính Excel, khi chiều dài dữ liệu kiểu số lớn hơn chiều rộng của ô thì sẽ hiển thị trong ô các kí tự:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "&"
+                },
+                {
+                    "id": "B",
+                    "content": "#"
+                },
+                {
+                    "id": "C",
+                    "content": "$"
+                },
+                {
+                    "id": "D",
+                    "content": "*"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 51,
+            "question": "Trong Excel, khi viết sai tên hàm trong tính toán, chương trình thông báo lỗi?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "#VALUE!"
+                },
+                {
+                    "id": "B",
+                    "content": "#NAME?"
+                },
+                {
+                    "id": "C",
+                    "content": "#N/A!"
+                },
+                {
+                    "id": "D",
+                    "content": "#DIV/0!"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 52,
+            "question": "Trong Microsoft Excel, hàm SUM dùng để làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tìm giá trị lớn nhất trong các giá trị được chọn"
+                },
+                {
+                    "id": "B",
+                    "content": "Tính tổng các giá trị số trong vùng được chọn"
+                },
+                {
+                    "id": "C",
+                    "content": "Tìm giá trị nhỏ nhất trong các giá trị được chọn"
+                },
+                {
+                    "id": "D",
+                    "content": "Tính giá trị trung bình trong các vùng được chọn"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 53,
+            "question": "Trong Microsoft Excel, hàm nào để tìm số nhỏ nhất trong các giá trị được chọn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "MINUTE"
+                },
+                {
+                    "id": "B",
+                    "content": "MIN"
+                },
+                {
+                    "id": "C",
+                    "content": "MINUM"
+                },
+                {
+                    "id": "D",
+                    "content": "MINIMUM"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 54,
+            "question": "Trong Microsoft Excel, hàm nào để tìm giá trị trung bình của các giá trị được chọn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "EVERAGE"
+                },
+                {
+                    "id": "B",
+                    "content": "AVERAGE"
+                },
+                {
+                    "id": "C",
+                    "content": "ERVERAGE"
+                },
+                {
+                    "id": "D",
+                    "content": "AVERGE"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 55,
+            "question": "Trong bảng tính MS Excel, hàm nào sau đây cho phép đếm các giá trị thỏa mãn một điều kiện cho trước:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "SUMIF"
+                },
+                {
+                    "id": "B",
+                    "content": "COUNTIF"
+                },
+                {
+                    "id": "C",
+                    "content": "COUNT"
+                },
+                {
+                    "id": "D",
+                    "content": "SUM"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 56,
+            "question": "Muốn tính trung bình của hàng hay cột, ta sử dụng hàm nào sau đây:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Medium()"
+                },
+                {
+                    "id": "B",
+                    "content": "Average()"
+                },
+                {
+                    "id": "C",
+                    "content": "TOTAL(SUM)/SUM()"
+                },
+                {
+                    "id": "D",
+                    "content": "SUM(TOTAL)/TOTAL()"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 57,
+            "question": "Trong Excel hàm dùng để chuyển chuỗi số sang số là hàm nào trong các hàm sau?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mid(chuỗi, m, n)"
+                },
+                {
+                    "id": "B",
+                    "content": "Value(số)"
+                },
+                {
+                    "id": "C",
+                    "content": "Right(chuỗi, n)"
+                },
+                {
+                    "id": "D",
+                    "content": "Left(chuỗi, n)"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 58,
+            "question": "Khi sử dung hàm SUM ta có thể:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sử dụng tối đa là 1 tham số"
+                },
+                {
+                    "id": "B",
+                    "content": "Sử dụng tối đa là 255 tham số"
+                },
+                {
+                    "id": "C",
+                    "content": "Sử dụng tối đa là 2 tham số"
+                },
+                {
+                    "id": "D",
+                    "content": "Không sử dụng tham số nào"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 59,
+            "question": "Trong Microsoft Excel, công thức =MAX(30,10,65,5) nhận được kết quả là bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "110"
+                },
+                {
+                    "id": "B",
+                    "content": "65"
+                },
+                {
+                    "id": "C",
+                    "content": "120"
+                },
+                {
+                    "id": "D",
+                    "content": "135"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 60,
+            "question": "Trong Microsoft Excel, công thức =EVERAGE(5,7,9) cho kết quả thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "#NAME?"
+                },
+                {
+                    "id": "B",
+                    "content": "7"
+                },
+                {
+                    "id": "C",
+                    "content": "9"
+                },
+                {
+                    "id": "D",
+                    "content": "5"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 61,
+            "question": "Trong Microsoft Excel, công thức =COUNT(19,11,4) sẽ trả về kết quả là bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "19"
+                },
+                {
+                    "id": "B",
+                    "content": "34"
+                },
+                {
+                    "id": "C",
+                    "content": "0"
+                },
+                {
+                    "id": "D",
+                    "content": "3"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 62,
+            "question": "Trong bảng tính Excel, công thức =COUNTA(19,\"S\",\"n01\",\"n02\") sẽ trả về kết quả là bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "19"
+                },
+                {
+                    "id": "B",
+                    "content": "3"
+                },
+                {
+                    "id": "C",
+                    "content": "0"
+                },
+                {
+                    "id": "D",
+                    "content": "4"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 63,
+            "question": "Công thức Round(7475.47,-2) trả về kết quả bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "7480"
+                },
+                {
+                    "id": "B",
+                    "content": "7475.47"
+                },
+                {
+                    "id": "C",
+                    "content": "7475"
+                },
+                {
+                    "id": "D",
+                    "content": "7500"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 64,
+            "question": "Trong bảng tính MS Excel, tại ô A2 có giá trị số 10, tại ô B2 gõ công thức =PRODUCT(A2,5) cho kết quả:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "15"
+                },
+                {
+                    "id": "B",
+                    "content": "2"
+                },
+                {
+                    "id": "C",
+                    "content": "#VALUE!"
+                },
+                {
+                    "id": "D",
+                    "content": "50"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 65,
+            "question": "Trong bảng tính MS Excel 2010, tại ô A2 gõ vào công thức =MAX(3,14,-25,5) cho kết quả:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "-25"
+                },
+                {
+                    "id": "B",
+                    "content": "5"
+                },
+                {
+                    "id": "C",
+                    "content": "3"
+                },
+                {
+                    "id": "D",
+                    "content": "14"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 66,
+            "question": "Trong bảng tính MS Excel 2010, công thức =Mod(26,7) cho kết quả:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "6"
+                },
+                {
+                    "id": "B",
+                    "content": "4"
+                },
+                {
+                    "id": "C",
+                    "content": "3"
+                },
+                {
+                    "id": "D",
+                    "content": "5"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 67,
+            "question": "Trong Microsoft Excel, công thức = AVERAGE(4,5,MIN(8,6,7)) cho kết quả nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "4"
+                },
+                {
+                    "id": "B",
+                    "content": "8"
+                },
+                {
+                    "id": "C",
+                    "content": "0"
+                },
+                {
+                    "id": "D",
+                    "content": "5"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 68,
+            "question": "Trong Microsoft Excel, tại ô A2 có dữ liệu \"1Hanoi2\". Sử dụng Fill hand để điền dữ liệu đến các ô B2, C2, D2, E2; tại ô E2 nhận được kết quả nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1Hanoi5"
+                },
+                {
+                    "id": "B",
+                    "content": "1Hanoi4"
+                },
+                {
+                    "id": "C",
+                    "content": "#VALUE!"
+                },
+                {
+                    "id": "D",
+                    "content": "1Hanoi6"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 69,
+            "question": "Trong bảng tính MS Excel, công thức =Mid(“m1234”,2,3) cho kết quả:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Số 123"
+                },
+                {
+                    "id": "B",
+                    "content": "Số 12"
+                },
+                {
+                    "id": "C",
+                    "content": "Số 23"
+                },
+                {
+                    "id": "D",
+                    "content": "Chuỗi “123”"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 70,
+            "question": "Kết quả của công thức =COUNT(“a”,”b”,2,3) + COUNTA(“a”,”b”,0,1) là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "7"
+                },
+                {
+                    "id": "B",
+                    "content": "8"
+                },
+                {
+                    "id": "C",
+                    "content": "5"
+                },
+                {
+                    "id": "D",
+                    "content": "6"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 71,
+            "question": "Muốn tính tổng của vùng E2:E8 với điều kiện là \"Máy tính\" trong vùng dữ liệu A2:A8, ta có công thức:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "=SUMIF(A2:A8,\"Máy tính\")"
+                },
+                {
+                    "id": "B",
+                    "content": "=SUMIF(A2:A8,E2:E8,\"Máy tính\")"
+                },
+                {
+                    "id": "C",
+                    "content": "=SUMIF(\"Máy tính\",A2:A8,E2:E8)"
+                },
+                {
+                    "id": "D",
+                    "content": "=SUMIF(A2:A8,\"Máy tính\",E2:E8)"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 72,
+            "question": "Biết vùng dữ liệu từ B2:B10 chứa Tên chức vụ, muốn xem có bao nhiêu Nhân viên trong vùng dữ liệu ta thực hiện công thức:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "=Countif(B2:B10,Nhân viên)"
+                },
+                {
+                    "id": "B",
+                    "content": "=Countif(B2:B10,'Nhân viên')"
+                },
+                {
+                    "id": "C",
+                    "content": "=Countif(B2:B10,\"'Nhân viên'\")"
+                },
+                {
+                    "id": "D",
+                    "content": "=Countif(B2:B10,\"Nhân viên\")"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 73,
+            "question": "Cú pháp hàm Sumif là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "=SUMIF(criteria,range,[sum_range])"
+                },
+                {
+                    "id": "B",
+                    "content": "=SUMIF(criteria,[sum_range],range)"
+                },
+                {
+                    "id": "C",
+                    "content": "Không đáp án nào đúng"
+                },
+                {
+                    "id": "D",
+                    "content": "=SUMIF(range,criteria,[sum_range])"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 74,
+            "question": "Trong Excel biểu thức =SUM(9,1,MAX(3,5,7)) sẽ trả về kết quả là bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "13"
+                },
+                {
+                    "id": "B",
+                    "content": "15"
+                },
+                {
+                    "id": "C",
+                    "content": "19"
+                },
+                {
+                    "id": "D",
+                    "content": "17"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 75,
+            "question": "Trong Excel biểu thức =MID(\"A123B\",3,2) sẽ trả về kết quả là bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "A1"
+                },
+                {
+                    "id": "B",
+                    "content": "3B"
+                },
+                {
+                    "id": "C",
+                    "content": "A123B"
+                },
+                {
+                    "id": "D",
+                    "content": "23"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 76,
+            "question": "Kết quả của công thức SUM(13,7,-10)+AVERAGE(12,0,3) là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "20"
+                },
+                {
+                    "id": "B",
+                    "content": "10"
+                },
+                {
+                    "id": "C",
+                    "content": "16"
+                },
+                {
+                    "id": "D",
+                    "content": "15"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 77,
+            "question": "Trong bảng tính Excel, tại ô A2 có sẵn dãy ký tự “TINHOC” ; Tại ô B2 gõ vào công thức =VALUE(A2) thì nhận được kết quả:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tinhoc"
+                },
+                {
+                    "id": "B",
+                    "content": "6"
+                },
+                {
+                    "id": "C",
+                    "content": "TINHOC"
+                },
+                {
+                    "id": "D",
+                    "content": "#VALUE!"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 78,
+            "question": "Cú pháp hàm IF là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "IF(BT logic, Giá trị sai, Giá trị đúng)"
+                },
+                {
+                    "id": "B",
+                    "content": "IF(BT logic, Giá trị đúng)"
+                },
+                {
+                    "id": "C",
+                    "content": "IF(Giá trị đúng, BT logic, Giá trị sai)"
+                },
+                {
+                    "id": "D",
+                    "content": "IF(BT logic, Giá trị đúng, Giá trị sai)"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 79,
+            "question": "Nhóm hàm logic gồm có:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Date, And, Or Hlookup"
+                },
+                {
+                    "id": "B",
+                    "content": "Not, And, Or, Vlookup"
+                },
+                {
+                    "id": "C",
+                    "content": "Date, If, And, Or"
+                },
+                {
+                    "id": "D",
+                    "content": "IF, Not, And, Or"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 80,
+            "question": "Trong bảng tính Excel, điều kiện trong hàm IF được phát biểu dưới dạng một phép so sánh. Khi cần so sánh khác nhau thì sử dụng kí hiệu nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "><"
+                },
+                {
+                    "id": "B",
+                    "content": "#"
+                },
+                {
+                    "id": "C",
+                    "content": "&"
+                },
+                {
+                    "id": "D",
+                    "content": "<>"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 81,
+            "question": "Trong MS Excel 2010, công thức sau trả về giá trị nào: = IF(5 >= 5, \"Không được tuyển dụng\")",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Công thức sai vì trong Excel không có phép toán =>"
+                },
+                {
+                    "id": "B",
+                    "content": "True"
+                },
+                {
+                    "id": "C",
+                    "content": "Công thức sai vì thiếu đối số trong hàm IF"
+                },
+                {
+                    "id": "D",
+                    "content": "Không được tuyển dụng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 82,
+            "question": "Biểu thức sau cho kết quả là bao nhiêu nếu trong ô B2 là 10 và dữ liệu trong D2 là D: = IF(OR(B2>=8,D2=\"A\"),1000,300)",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "300"
+                },
+                {
+                    "id": "B",
+                    "content": "1300"
+                },
+                {
+                    "id": "C",
+                    "content": "FALSE"
+                },
+                {
+                    "id": "D",
+                    "content": "1000"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 83,
+            "question": "Trong bảng tính Excel, tại ô A2 gõ vào công thức =IF(3>5,100,IF(5<6,200,300)) thì kết quả nhận được tại ô A2 là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "true"
+                },
+                {
+                    "id": "B",
+                    "content": "false"
+                },
+                {
+                    "id": "C",
+                    "content": "100"
+                },
+                {
+                    "id": "D",
+                    "content": "200"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 84,
+            "question": "Nếu thí sinh đạt từ 5 điểm trở lên, thí sinh đó được xếp loại Đạt, ngược lại nếu dưới 5 điểm, thì xếp loại Không đạt. Công thức nào dưới đây thể hiện đúng điều này (Giả sử ô G6 đang chứa điểm thi)",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "=IF(G6>=5,\"Đạt\") ELSE (\"Không đạt\")"
+                },
+                {
+                    "id": "B",
+                    "content": "=IF(G6=<5,\"Đạt\", \"Không đạt\")"
+                },
+                {
+                    "id": "C",
+                    "content": "REF!"
+                },
+                {
+                    "id": "D",
+                    "content": "=IF(G6<5,\"Không đạt\",\"Đạt\")"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 85,
+            "question": "Biểu thức sau cho kết quả là bao nhiêu nếu DTB = 9 và HK loại C trong đó DTB: Điểm trung bình. HK: Hạnh kiểm =If(AND(DTB>=8, HK= \"A\"),300,1000)",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "300"
+                },
+                {
+                    "id": "B",
+                    "content": "TRUE"
+                },
+                {
+                    "id": "C",
+                    "content": "FALSE"
+                },
+                {
+                    "id": "D",
+                    "content": "1000"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 86,
+            "question": "Biểu thức sau cho kết quả là bao nhiêu nếu DTB = 6? =If(DTB>=5, Dau, Truot)",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dau"
+                },
+                {
+                    "id": "B",
+                    "content": "Truot"
+                },
+                {
+                    "id": "C",
+                    "content": "#VALUE!"
+                },
+                {
+                    "id": "D",
+                    "content": "#Name?"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 87,
+            "question": "Biểu thức sau cho kết quả là bao nhiêu nếu DTB = 9? =If(DTB>=5, \"TB\",If(DTB>=6.5, \"Kha\",If(DTB>= 8, \"Gioi\", \"Yeu\")))",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Gioi"
+                },
+                {
+                    "id": "B",
+                    "content": "Kha"
+                },
+                {
+                    "id": "C",
+                    "content": "Yeu"
+                },
+                {
+                    "id": "D",
+                    "content": "TB"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 88,
+            "question": "Hàm Month có nghĩa là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lấy ra ngày"
+                },
+                {
+                    "id": "B",
+                    "content": "Lấy ra năm"
+                },
+                {
+                    "id": "C",
+                    "content": "Cả ba phương án đều sai"
+                },
+                {
+                    "id": "D",
+                    "content": "Lấy ra tháng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 89,
+            "question": "Trong Excel hàm TODAY() trả về:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Số ngày trong tháng của biến ngày tháng date"
+                },
+                {
+                    "id": "B",
+                    "content": "Số năm của biến ngày tháng date"
+                },
+                {
+                    "id": "C",
+                    "content": "Số tháng trong năm của biến ngày tháng date"
+                },
+                {
+                    "id": "D",
+                    "content": "Ngày tháng hiện tại của hệ thống"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 90,
+            "question": "Trong Excel, giả sử ô A1 của bảng tính lưu trị ngày 15/10/1970. Kết quả hàm =MONTH(A1) là bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "15"
+                },
+                {
+                    "id": "B",
+                    "content": "#VALUE!"
+                },
+                {
+                    "id": "C",
+                    "content": "1970"
+                },
+                {
+                    "id": "D",
+                    "content": "10"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 91,
+            "question": "Giả sử ngày hệ thống của máy tính là: 8/18/2008; Khi đó tại ô A2 gõ vào công thức =Today()-1 thì nhận được kết quả là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "8/17/2008"
+                },
+                {
+                    "id": "B",
+                    "content": "0"
+                },
+                {
+                    "id": "C",
+                    "content": "#VALUE!"
+                },
+                {
+                    "id": "D",
+                    "content": "#NAME!"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 92,
+            "question": "Giả sử ô E6 có giá trị là 28/11/2011, tại ô G6 gõ công thức =YEAR(now())-YEAR(E6), kết quả là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "5"
+                },
+                {
+                    "id": "B",
+                    "content": "2"
+                },
+                {
+                    "id": "C",
+                    "content": "3"
+                },
+                {
+                    "id": "D",
+                    "content": "4"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 93,
+            "question": "Hãy cho biết hàm dò tìm là hàm nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vlookup"
+                },
+                {
+                    "id": "B",
+                    "content": "Product"
+                },
+                {
+                    "id": "C",
+                    "content": "Sumif"
+                },
+                {
+                    "id": "D",
+                    "content": "Counta"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 94,
+            "question": "Range_lookup trong hàm HLOOKUP có giá trị mặc định bằng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Range_lookup có giá trị là 0 hoặc 1"
+                },
+                {
+                    "id": "B",
+                    "content": "Range_lookup có giá trị là 0"
+                },
+                {
+                    "id": "C",
+                    "content": "Range_lookup có giá trị là 1"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả sai"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 95,
+            "question": "Cấu trúc của hàm HLOOKUP?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "=vlookup(lookup_value, table_array, row_index_num, [range_lookup])"
+                },
+                {
+                    "id": "B",
+                    "content": "=vlookup(lookup_value, row_index_num, table_array, [range_lookup])"
+                },
+                {
+                    "id": "C",
+                    "content": "=vlookup(table_array, lookup_value, row_index_num, [range_lookup])"
+                },
+                {
+                    "id": "D",
+                    "content": "=vlookup([range_lookup], lookup_value, table_array, row_index_num )"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 96,
+            "question": "Để dữ liệu ngày tháng năm được hiển thị dưới dạng Nov-23-2004, trong thẻ number, hộp Type, nhập vào chuỗi ký tự:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "mmm-dd-yyyy"
+                },
+                {
+                    "id": "B",
+                    "content": "mm-dd-yy"
+                },
+                {
+                    "id": "C",
+                    "content": "mmm-dd-yy"
+                },
+                {
+                    "id": "D",
+                    "content": "mm-dd-yyyy"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 97,
+            "question": "Tinh lương tại ô K6 = mức lương cơ bản * hệ số lương , làm tròn đơn vị nghìn",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "=ROUND(J6*$K$11;-3)"
+                },
+                {
+                    "id": "B",
+                    "content": "=J6*$k11"
+                },
+                {
+                    "id": "C",
+                    "content": "=MOD(J6*K$11;3)"
+                },
+                {
+                    "id": "D",
+                    "content": "=ROUND(J6*K11;0)"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 98,
+            "question": "Trong MS excel 2010, biểu tượng % trên thanh công cụ dùng để:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hiển thị tỷ lệ phần trăm"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhân cho 100"
+                },
+                {
+                    "id": "C",
+                    "content": "Chia cho 100"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 ý trên đều sai"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 99,
+            "question": "Để văn bản trong ô được chọn có kiều chữ nghiêng và gạch chân ta chọn tổ hợp phím nào sau:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl+U, Ctrl+I"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl+B, Ctrl+I"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl+F, Ctrl+I"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl+H, Ctrl+I"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 100,
+            "question": "Hãy cho biết tổ hợp phím tắt để định dạng chữ đậm trong Microsoft Excel?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl + B"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl + C"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl + U"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl + X"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 101,
+            "question": "Để định dạng được màu khác nhau đối với nội dung ô, nền của ô ta chọn công cụ nào sau đây:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Conditional Formatting"
+                },
+                {
+                    "id": "B",
+                    "content": "Format as Table"
+                },
+                {
+                    "id": "C",
+                    "content": "Cell Style"
+                },
+                {
+                    "id": "D",
+                    "content": "Format Cell"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 102,
+            "question": "Để sao chép định dạng từ một ô/ dãy ô tới một ô khác/dãy ô khác ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Home\\Clipboard\\Format Paint"
+                },
+                {
+                    "id": "B",
+                    "content": "Insert\\Clipboard\\Format Paint"
+                },
+                {
+                    "id": "C",
+                    "content": "Page Layout\\Clipboard\\Format Paint"
+                },
+                {
+                    "id": "D",
+                    "content": "Data\\Clipboard\\Format Paint"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 103,
+            "question": "Giả sử tại ô D2 có công thức =B2*C2/100. Nếu sao chép công thức đến ô G6 sẽ có công thức là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "E6*F6/100"
+                },
+                {
+                    "id": "B",
+                    "content": "E7*F7/100"
+                },
+                {
+                    "id": "C",
+                    "content": "B6*C6/100"
+                },
+                {
+                    "id": "D",
+                    "content": "E2*C2/100"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 104,
+            "question": "Để văn bản được cuộn trên một ô ta thực hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Home\\Alignment\\Wrap Text"
+                },
+                {
+                    "id": "B",
+                    "content": "Insert\\Alignment\\Wrap Text"
+                },
+                {
+                    "id": "C",
+                    "content": "Page Layout\\ Alignment\\Wrap Text"
+                },
+                {
+                    "id": "D",
+                    "content": "Data\\Alignment\\Wrap Text"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 105,
+            "question": "Để quay được hướng văn bản trong ô, ta chọn ô sau đó thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Home\\Alignment\\ Orientation\\chọn hướng"
+                },
+                {
+                    "id": "B",
+                    "content": "Page Layout\\Alignment\\ Orientation\\chọn hướng"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert\\Alignment\\ Orientation\\chọn hướng"
+                },
+                {
+                    "id": "D",
+                    "content": "View\\Alignment\\ Orientation\\chọn hướng"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 106,
+            "question": "Để gộp (trộn) nhiều ô thành 1 ô ta thực hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Home\\Format Cells:Alignment\\Merge Cells"
+                },
+                {
+                    "id": "B",
+                    "content": "Home\\Format Cells:Number\\Merge Cells"
+                },
+                {
+                    "id": "C",
+                    "content": "Home\\Format Cells:Font\\Merge Cells"
+                },
+                {
+                    "id": "D",
+                    "content": "Home\\Format Cells:Border\\Merge Cells"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 107,
+            "question": "Trong Microsoft Excel, công cụ nào cho phép thay đổi màu sắc cho vùng được chọn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Công cụ Fill Color trên thanh định dạng"
+                },
+                {
+                    "id": "B",
+                    "content": "Công cụ Font Color trên thanh định dạng"
+                },
+                {
+                    "id": "C",
+                    "content": "Công cụ Line Color trên thanh định dạng"
+                },
+                {
+                    "id": "D",
+                    "content": "Công cụ Format Color trên thanh định dạng"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 108,
+            "question": "Để kẻ khung viền cho bảng ta thực hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Home\\Format\\Format Cells\\Border"
+                },
+                {
+                    "id": "B",
+                    "content": "Home\\Format\\Format Cells\\Alignment"
+                },
+                {
+                    "id": "C",
+                    "content": "Home\\Format\\Format Cells\\Number"
+                },
+                {
+                    "id": "D",
+                    "content": "Home\\Format\\Format Cells\\Fill"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 109,
+            "question": "Trong Microsoft Excel, biểu đồ loại nào thích hợp cho việc hiển thị giá trị dưới dạng % (percentage)?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Pie"
+                },
+                {
+                    "id": "B",
+                    "content": "Line"
+                },
+                {
+                    "id": "C",
+                    "content": "Column"
+                },
+                {
+                    "id": "D",
+                    "content": "Percentage"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 110,
+            "question": "Trong bảng tính MS Excel, để chèn biểu đồ dạng hình cột ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert\\Charts\\Column"
+                },
+                {
+                    "id": "B",
+                    "content": "Insert\\Charts\\Line"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert\\Charts\\Pie"
+                },
+                {
+                    "id": "D",
+                    "content": "Insert\\Charts\\Bar"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 111,
+            "question": "Trong Microsoft Excel, khi vẽ biểu đồ bằng công cụ Chart Wizard, thẻ Data Range cho phép làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thay đổi vùng dữ liệu vẽ biểu đồ"
+                },
+                {
+                    "id": "B",
+                    "content": "Gán nhãn cho vùng dữ liệu"
+                },
+                {
+                    "id": "C",
+                    "content": "Xóa dữ liệu"
+                },
+                {
+                    "id": "D",
+                    "content": "Thêm 1 vùng dữ liệu"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 112,
+            "question": "Trong Microsoft Excel, cách nào để mở hộp thoại thiết lập các thông số in bảng tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl + P"
+                },
+                {
+                    "id": "B",
+                    "content": "Atl + P"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl + Print Screen"
+                },
+                {
+                    "id": "D",
+                    "content": "Print Screen"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 113,
+            "question": "Để thiết lập được lề trang in ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Page Layout\\Margins\\Custom Margins\\..."
+                },
+                {
+                    "id": "B",
+                    "content": "Insert\\Margins\\Custom Margins\\..."
+                },
+                {
+                    "id": "C",
+                    "content": "Data\\Margins\\Custom Margins\\..."
+                },
+                {
+                    "id": "D",
+                    "content": "Home\\Margins\\Custom Margins\\..."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 114,
+            "question": "Muốn định dạng trang in theo hướng chiều ngang trang giấy ta chọn:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Page Layout\\ Orientation\\landscape"
+                },
+                {
+                    "id": "B",
+                    "content": "Page Layout\\ Orientation\\Portrait"
+                },
+                {
+                    "id": "C",
+                    "content": "Page Layout\\Landscape"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả đều sai"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 115,
+            "question": "Để nhập nội dung vào Header và Footer của Microsoft Excel, thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert -> Header & Footer"
+                },
+                {
+                    "id": "B",
+                    "content": "Page Layout -> Textbox"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert -> WordArt"
+                },
+                {
+                    "id": "D",
+                    "content": "Page Layout -> Orientation -> Landscape"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 116,
+            "question": "Khi công thức bị sai, ta có thể gỡ rối đoạn công thức đó bằng phím nào ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "F9"
+                },
+                {
+                    "id": "B",
+                    "content": "F10"
+                },
+                {
+                    "id": "C",
+                    "content": "F11"
+                },
+                {
+                    "id": "D",
+                    "content": "F12"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 117,
+            "question": "Trong MS Excel 2010, để thiết lập được in tiêu đề dòng tự động trên mọi trang ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Page Layout\\Print Titles"
+                },
+                {
+                    "id": "B",
+                    "content": "Home\\Print Titles"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert\\Print Titles"
+                },
+                {
+                    "id": "D",
+                    "content": "View\\Print Titles"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 118,
+            "question": "Trước khi in, để xem trước trang bảng tính ta nhấn:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl+P"
+                },
+                {
+                    "id": "B",
+                    "content": "Shift+P"
+                },
+                {
+                    "id": "C",
+                    "content": "Alt+P"
+                },
+                {
+                    "id": "D",
+                    "content": "ESC+P"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 119,
+            "question": "Để lưu một file Excel dưới định dạng khác, ta chọn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Save As Type"
+                },
+                {
+                    "id": "B",
+                    "content": "Type Of File"
+                },
+                {
+                    "id": "C",
+                    "content": "Type"
+                },
+                {
+                    "id": "D",
+                    "content": "File Of Type"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 120,
+            "question": "Cách đặt mật khẩu cho file Excel 2010?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "File\\Save\\Tools\\General Options"
+                },
+                {
+                    "id": "B",
+                    "content": "File\\Save\\Tools\\Web Option"
+                },
+                {
+                    "id": "C",
+                    "content": "File\\Save\\Tools\\Properties"
+                },
+                {
+                    "id": "D",
+                    "content": "Không có đáp án đúng"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        }
+    ]
+}

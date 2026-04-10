@@ -1,0 +1,2826 @@
+{
+    "title": "CHƯƠNG 6",
+    "total_questions": 118,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Để một bài thuyết trình đạt hiệu quả cao, chúng ta cần quan tâm tới vấn đề nào đầu tiên ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đối tượng nghe bài thuyết trình"
+                },
+                {
+                    "id": "B",
+                    "content": "Phương pháp thuyết trình"
+                },
+                {
+                    "id": "C",
+                    "content": "Nắm vững nội dung cần thuyết trình"
+                },
+                {
+                    "id": "D",
+                    "content": "Hình thức thuyết trình"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 2,
+            "question": "Cấu trúc chung của một bài thuyết trình gồm có bao nhiêu phần ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1"
+                },
+                {
+                    "id": "B",
+                    "content": "2"
+                },
+                {
+                    "id": "C",
+                    "content": "3"
+                },
+                {
+                    "id": "D",
+                    "content": "4"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 3,
+            "question": "Trong Powerpoint 2010, phần mở rộng của tên file là nhóm ký tự nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "ppts"
+                },
+                {
+                    "id": "B",
+                    "content": "ppt"
+                },
+                {
+                    "id": "C",
+                    "content": "pptx"
+                },
+                {
+                    "id": "D",
+                    "content": "pptt"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 4,
+            "question": "Trong Powerpoint 2010, thoát khỏi chương trình bằng cách?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhấn nút Close"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhấn tổ hợp phím Alt + F4"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào File/ Exit"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả đểu đúng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 5,
+            "question": "Để mở chương trình Powerpoint 2010, ta làm thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kích đúp chuột trái vào biểu tượng Powerpoint 2010 trên màn hình desktop"
+                },
+                {
+                    "id": "B",
+                    "content": "Kích chuột phải vào biểu tượng Powerpoint 2010 trên màn hình desktop/Open"
+                },
+                {
+                    "id": "C",
+                    "content": "Tất cả các đáp án đều đúng"
+                },
+                {
+                    "id": "D",
+                    "content": "Start/All Programs/Microsoft Office/Powerpoint 2010"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 6,
+            "question": "Trong Powerpoint 2010, thanh công cụ truy cập nhanh có tên là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quick Toolbar Access"
+                },
+                {
+                    "id": "B",
+                    "content": "Access Quick Toolbar"
+                },
+                {
+                    "id": "C",
+                    "content": "Quick Access Toolbar"
+                },
+                {
+                    "id": "D",
+                    "content": "Toolbar Quick Access"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 7,
+            "question": "Trong PowerPoint 2010, thao tác nào sau đây để tùy chọn phần ẩn/hiện của các thanh công cụ ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào File/Options/Advanced"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào File/Options/General"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào File/Options/Customize Ribbon"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào File/Options/Proofing"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 8,
+            "question": "Để truy nhập hệ thống trợ giúp trên PowerPoint sử dụng phím hay tổ hợp phím nào ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "ESC"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl + H"
+                },
+                {
+                    "id": "C",
+                    "content": "F1"
+                },
+                {
+                    "id": "D",
+                    "content": "Alt + Tab"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 9,
+            "question": "Trong Powerpoint 2010, cách nào để mở 1 bản trình bày (Presentation) có sẵn trong máy tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "File/Close"
+                },
+                {
+                    "id": "B",
+                    "content": "File/Edit"
+                },
+                {
+                    "id": "C",
+                    "content": "File/Open"
+                },
+                {
+                    "id": "D",
+                    "content": "File/Save"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 10,
+            "question": "Trong Powerpoint 2010, thao tác File/Open dùng để làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đóng 1 bản trình bày (Presentation) có sẵn trong máy tính"
+                },
+                {
+                    "id": "B",
+                    "content": "Lưu 1 bản trình bày (Presentation) có sẵn trong máy tính"
+                },
+                {
+                    "id": "C",
+                    "content": "Mở 1 bản trình bày (Presentation) có sẵn trong máy tính"
+                },
+                {
+                    "id": "D",
+                    "content": "Xóa 1 bản trình bày (Presentation) có sẵn trong máy tính"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 11,
+            "question": "Trong Powerpoint 2010, để thoát file hiện hành, ta làm thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "File/Save"
+                },
+                {
+                    "id": "B",
+                    "content": "File/Open"
+                },
+                {
+                    "id": "C",
+                    "content": "File/Exit"
+                },
+                {
+                    "id": "D",
+                    "content": "File/Edit"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 12,
+            "question": "Trong Powerpoint 2010, thao tác File/Close dùng để làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lưu file hiện tại"
+                },
+                {
+                    "id": "B",
+                    "content": "Xóa file hiện tại"
+                },
+                {
+                    "id": "C",
+                    "content": "Đóng file hiện tại"
+                },
+                {
+                    "id": "D",
+                    "content": "Sao chép file hiện tại"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 13,
+            "question": "Trong Powerpoint 2010, có 3 file đang mở, thao tác chọn File/Close dùng để làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thoát khỏi Powerpoint"
+                },
+                {
+                    "id": "B",
+                    "content": "Đóng Slide hiện tại"
+                },
+                {
+                    "id": "C",
+                    "content": "Đóng file hiện tại"
+                },
+                {
+                    "id": "D",
+                    "content": "Tắt máy tính"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 14,
+            "question": "Trong Powerpoint 2010, cách nào để tạo một bản trình bày (Presentation) mới?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert/New Slide/Create"
+                },
+                {
+                    "id": "B",
+                    "content": "File/New Presentation/Create"
+                },
+                {
+                    "id": "C",
+                    "content": "File/New/Blank Presentation/Create"
+                },
+                {
+                    "id": "D",
+                    "content": "Insert/New/Blank Presentation/Create"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 15,
+            "question": "Trong Powerpoint 2010, thao tác nào sau đây để tạo mới 1 tập tin trình diễn theo mẫu giao diện (Themes) của chương trình?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào Home / New / Themes / Chọn mẫu / OK"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào Home / New / Themes / Chọn mẫu / Create"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào File / New / Themes / Chọn mẫu / Create"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào File / New / Themes / Chọn mẫu / OK"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 16,
+            "question": "Trong Powerpoint 2010, thao tác nào sau đây để tạo mới 1 tập tin trình diễn theo mẫu (Sample templates) của chương trình?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào Home / New / Sample templates / Chọn mẫu / Create"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào Design / New / Sample templates / Chọn mẫu / Create"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào File / New / Sample templates / Chọn mẫu / Create"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào Insert / New / Sample templates / Chọn mẫu / Create"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 17,
+            "question": "Trong Powerpoint 2010, chế độ hiển thị nào cho phép thực hiện sắp xếp lại các Slide?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "View/ Normal"
+                },
+                {
+                    "id": "B",
+                    "content": "View/ Page Layout"
+                },
+                {
+                    "id": "C",
+                    "content": "View/ Slide Sorter"
+                },
+                {
+                    "id": "D",
+                    "content": "View/ Reading View"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 18,
+            "question": "Trong Powerpoint 2010, để chuyển sang chế độ hiển thị đọc ta thực hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào View, chọn Reading Mode"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào Review, chọn Reading Mode"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào View, chọn Reading View"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào Review, chọn Reading View"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 19,
+            "question": "Trong Powerpoint, tổ hợp phím Shift + F9 được sử dụng để?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chuyển sang chế độ đọc"
+                },
+                {
+                    "id": "B",
+                    "content": "Tắt chế độ khung lưới khi soạn thảo"
+                },
+                {
+                    "id": "C",
+                    "content": "Bật, hoặc Tắt chế độ khung lưới khi soạn thảo"
+                },
+                {
+                    "id": "D",
+                    "content": "Bật chế độ khung lưới khi soạn thảo"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 20,
+            "question": "Trong Powerpoint, tổ hợp phím Shift + Alt + F9 được sử dụng để?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bật thanh thước kẻ"
+                },
+                {
+                    "id": "B",
+                    "content": "Tắt thanh thước kẻ"
+                },
+                {
+                    "id": "C",
+                    "content": "Bật, hoặc Tắt chế độ khung lưới khi soạn thảo"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả đều sai"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 21,
+            "question": "Trong PowerPoint 2010, thao tác nào sau đây dùng để bật, tắt khung lưới Gridlines?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhấn tổ hợp phím Shift + F9"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào View chọn Gridlines"
+                },
+                {
+                    "id": "C",
+                    "content": "Tất cả đều đúng"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào Home / Arrange / Align / View Gridlines"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 22,
+            "question": "Trong Powerpoint 2010, để lưu file, ta làm thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "File/Open"
+                },
+                {
+                    "id": "B",
+                    "content": "File/Close"
+                },
+                {
+                    "id": "C",
+                    "content": "File/Save"
+                },
+                {
+                    "id": "D",
+                    "content": "File/Edit"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 23,
+            "question": "Trong Powerpoint 2010, thao tác File/Save dùng để làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xóa file hiện tại"
+                },
+                {
+                    "id": "B",
+                    "content": "Sao chép file hiện tại"
+                },
+                {
+                    "id": "C",
+                    "content": "Lưu file hiện tại"
+                },
+                {
+                    "id": "D",
+                    "content": "Đóng file hiện tại"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 24,
+            "question": "Trong Powerpoint 2010, thao tác Ctrl + S dùng để làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xóa file hiện tại"
+                },
+                {
+                    "id": "B",
+                    "content": "Sao chép file hiện tại"
+                },
+                {
+                    "id": "C",
+                    "content": "Lưu file hiện tại"
+                },
+                {
+                    "id": "D",
+                    "content": "Đóng file hiện tại"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 25,
+            "question": "Trong Powerpoint 2010, để chuyển tập tin trình diễn sang dạng video?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "File / Save As/ Save As Type/ PowerPoint Presentation"
+                },
+                {
+                    "id": "B",
+                    "content": "File / Save As/ Save As Type/ PDF"
+                },
+                {
+                    "id": "C",
+                    "content": "File / Save As/ Save As Type/ Windows Media Video"
+                },
+                {
+                    "id": "D",
+                    "content": "File / Save As/ Save As Type/ Word"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 26,
+            "question": "Trong Powerpoint 2010, để đặt mật khẩu cho file hiện tại?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào File/Save / Protect Presentation / Encrypt with Password."
+                },
+                {
+                    "id": "B",
+                    "content": "Vào Home / Info / Protect Presentation / Encrypt with Password."
+                },
+                {
+                    "id": "C",
+                    "content": "Vào File/ Info/ Protect Presentation/ Encrypt with Password."
+                },
+                {
+                    "id": "D",
+                    "content": "Vào Home / Save / Protect Presentation / Encrypt with Password."
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 27,
+            "question": "Trong Powerpoint 2010, chọn phát biểu đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Không cho phép lưu các Slide thành tập tin định dạng hình ảnh JPG"
+                },
+                {
+                    "id": "B",
+                    "content": "Tổ hợp CTRL + O dùng để tạo thêm 1 trang Slide mới"
+                },
+                {
+                    "id": "C",
+                    "content": "Cho phép lưu các Slide thành tập tin định dạng văn bản điện tử PDF"
+                },
+                {
+                    "id": "D",
+                    "content": "Lệnh Rehearse Timings dùng để xóa 1 Slide"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 28,
+            "question": "Trong PowerPoint 2010, thao tác nào sau đây để thiết lập thư mục lưu trữ mặc định?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "File / Save / Default file location"
+                },
+                {
+                    "id": "B",
+                    "content": "Option / Save / Default file location."
+                },
+                {
+                    "id": "C",
+                    "content": "File / Option / Save / Default file location."
+                },
+                {
+                    "id": "D",
+                    "content": "File / Save / Option / Default file location."
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 29,
+            "question": "Trong Powerpoint 2010, thao tác File / Option / Save / Default file location dùng để làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thiết lập các thông số cho các trang in"
+                },
+                {
+                    "id": "B",
+                    "content": "Thiết lập thông số cho toàn bộ Slide"
+                },
+                {
+                    "id": "C",
+                    "content": "Thiết lập thư mục lưu trữ mặc định"
+                },
+                {
+                    "id": "D",
+                    "content": "Thiết lập theme cho toàn bộ Slide"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 30,
+            "question": "Trong PowerPoint 2010, thao tác nào sau đây để mở một bài thuyết trình đồng thời trên hai của sổ ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào Review/New Windows"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào Home/New Windows"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào View/New Windows"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào Data/New Windows"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 31,
+            "question": "Mỗi trang trình diễn trong Powerpoint được gọi là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Một Page"
+                },
+                {
+                    "id": "B",
+                    "content": "Một Slide"
+                },
+                {
+                    "id": "C",
+                    "content": "Một Sheet"
+                },
+                {
+                    "id": "D",
+                    "content": "Một Cơ sở dữ liệu"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 32,
+            "question": "Trong Powerpoint 2010, để hủy bỏ thao tác vừa thực hiện, ta ấn tổ hợp phím?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl + F5"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl + Z"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl + A"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl + X"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 33,
+            "question": "Trong chương trình MS PowerPoint, chức năng Design/Themes dùng để làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Định dạng hiệu ứng lật trang"
+                },
+                {
+                    "id": "B",
+                    "content": "Định dạng giao diện của slide"
+                },
+                {
+                    "id": "C",
+                    "content": "Định đạng hiệu ứng cho các đối tượng trên slide"
+                },
+                {
+                    "id": "D",
+                    "content": "Định dạng kiểu chữ cho slide"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 34,
+            "question": "Trong Powerpoint 2010, cách nào để lựa chọn bố cục cho Slide?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Format /Slide Design"
+                },
+                {
+                    "id": "B",
+                    "content": "Home/Layout"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert/New Slide"
+                },
+                {
+                    "id": "D",
+                    "content": "Home/New Slide"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 35,
+            "question": "Trong Powerpoint 2010, cách nào để thêm 1 Slide mới?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kích chuột phải vào Slide/Copy"
+                },
+                {
+                    "id": "B",
+                    "content": "Kích chuột phải vào Slide/New Slide"
+                },
+                {
+                    "id": "C",
+                    "content": "Kích chuột phải vào Slide/Cut"
+                },
+                {
+                    "id": "D",
+                    "content": "Kích chuột phải vào Slide/Delete"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 36,
+            "question": "Trong Powerpoint 2010, cách nào sau đây cho phép định dạng chung cho toàn bộ các Slide?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "View/Notes Page"
+                },
+                {
+                    "id": "B",
+                    "content": "View/Slide Master"
+                },
+                {
+                    "id": "C",
+                    "content": "View/Normal"
+                },
+                {
+                    "id": "D",
+                    "content": "View/Slide Sorter"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 37,
+            "question": "Trong Powerpoint 2010, cách nào để lựa chọn bố cục cho Slide đã chọn gồm tiêu đề và nội dung?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Home/Layout/Title Slide"
+                },
+                {
+                    "id": "B",
+                    "content": "Home/Layout/Title and Content"
+                },
+                {
+                    "id": "C",
+                    "content": "Home/Slide Design"
+                },
+                {
+                    "id": "D",
+                    "content": "Home/Layout/Title Slide"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 38,
+            "question": "Trong PowerPoint 2010, mẫu bố cục (Layout) Two Content có bao nhiêu placeholder?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2"
+                },
+                {
+                    "id": "B",
+                    "content": "3"
+                },
+                {
+                    "id": "C",
+                    "content": "4"
+                },
+                {
+                    "id": "D",
+                    "content": "5"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 39,
+            "question": "Trong PowerPoint 2010, mẫu bố cục (Layout) Comparison có bao nhiêu placeholder?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2"
+                },
+                {
+                    "id": "B",
+                    "content": "5"
+                },
+                {
+                    "id": "C",
+                    "content": "3"
+                },
+                {
+                    "id": "D",
+                    "content": "4"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 40,
+            "question": "Trong PowerPoint 2010, mẫu bố cục (Layout) Picture with Caption có bao nhiêu placeholder cho phép nhập văn bản?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1"
+                },
+                {
+                    "id": "B",
+                    "content": "2"
+                },
+                {
+                    "id": "C",
+                    "content": "3"
+                },
+                {
+                    "id": "D",
+                    "content": "4"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 41,
+            "question": "Trong Powerpoint 2010, chọn phát biểu đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào File / Option / Save / Default file location. để cài mật mã cho tập tin"
+                },
+                {
+                    "id": "B",
+                    "content": "Mẫu bố cục (Layout) Two Content có 03 placeholder"
+                },
+                {
+                    "id": "C",
+                    "content": "Có 8 nhóm hiệu ứng cho các đối tượng trên Slide"
+                },
+                {
+                    "id": "D",
+                    "content": "Có 5 mẫu bố cục (Layout) mặc định"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 42,
+            "question": "Trong PowerPoint 2010, thao tác nào sau đây để bổ sung mẫu giao diện của tập tin trình diễn hiện tại vào chương trình?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào File / More / Save Current Theme."
+                },
+                {
+                    "id": "B",
+                    "content": "Vào Design / More / Save Current Theme ."
+                },
+                {
+                    "id": "C",
+                    "content": "Vào Insert / More / Save Current Theme."
+                },
+                {
+                    "id": "D",
+                    "content": "Vào Home / More / Save Current Theme ."
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 43,
+            "question": "Trong Powerpoint 2010, thao tác View/Slide Master dùng để làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Định dạng cho từng các Slide"
+                },
+                {
+                    "id": "B",
+                    "content": "Định dạng chung cho toàn bộ các Slide"
+                },
+                {
+                    "id": "C",
+                    "content": "Định dạng cho văn bản cho từng slide"
+                },
+                {
+                    "id": "D",
+                    "content": "Định dạng phông nền cho từng slide"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 44,
+            "question": "Phát biểu nào sau đây đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trong chương trình MS PowerPoint, chúng ta chỉ có thể thiết lập các tùy chọn cho một slide và không thể thiết lập cho một tập slide cùng một lúc."
+                },
+                {
+                    "id": "B",
+                    "content": "Trong chương trình MS PowerPoint, chúng ta có thể thiết lập các tùy chọn cho một slide hay một tập slide cùng một lúc."
+                },
+                {
+                    "id": "C",
+                    "content": "Trong chương trình MS PowerPoint, chúng ta chỉ có thể thay đổi theme một lần."
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả ý trên đều sai."
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 45,
+            "question": "Trong Powerpoint 2010, chọn nhóm thao tác nào để tạo màu nền cho Slide hiện hành?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kích chuột phải vào Slide/Format Background/ chọn màu trong Fill/ Apply to All"
+                },
+                {
+                    "id": "B",
+                    "content": "Kích chuột phải vào Slide/Format Background/ chọn màu trong Fill/ Close"
+                },
+                {
+                    "id": "C",
+                    "content": "Kích chuột phải vào Slide/Format Background/ chọn màu trong Fill/ Reset Background"
+                },
+                {
+                    "id": "D",
+                    "content": "Kích chuột phải vào Slide/Format Background/ chọn màu trong Fill/ Apply"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 46,
+            "question": "Trong Powerpoint 2010, chọn nhóm thao tác nào để tạo màu nền cho toàn bộ Slide ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kích chuột phải vào Slide/Format Background/ chọn màu trong Fill/ Close"
+                },
+                {
+                    "id": "B",
+                    "content": "Kích chuột phải vào Slide/Format Background/ chọn màu trong Fill/ Apply to All/ Close"
+                },
+                {
+                    "id": "C",
+                    "content": "Kích chuột phải vào Slide/Format Background/ chọn màu trong Fill/ Reset Background"
+                },
+                {
+                    "id": "D",
+                    "content": "Kích chuột phải vào Slide/Format Background/ chọn màu trong Fill/ Apply"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 47,
+            "question": "Trong PowerPoint 2010, mỗi bài thuyết trình có tối đa là bao nhiêu Slide Master ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1"
+                },
+                {
+                    "id": "B",
+                    "content": "Không giới hạn"
+                },
+                {
+                    "id": "C",
+                    "content": "2"
+                },
+                {
+                    "id": "D",
+                    "content": "4"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 48,
+            "question": "Trong Powerpoint 2010, cách nào để nhân đôi 1 Slide đã được chọn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kích chuột phải vào Slide/New Slide"
+                },
+                {
+                    "id": "B",
+                    "content": "Kích chuột phải vào Slide/Duplicate Slide"
+                },
+                {
+                    "id": "C",
+                    "content": "Kích chuột phải vào Slide/Delete Slide"
+                },
+                {
+                    "id": "D",
+                    "content": "Kích chuột phải vào Slide/Add Section"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 49,
+            "question": "Trong Powerpoint 2010, cách nào để sao chép 1 Slide đã được chọn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kích chuột phải vào Slide/Cut"
+                },
+                {
+                    "id": "B",
+                    "content": "Kích chuột phải vào Slide/Copy"
+                },
+                {
+                    "id": "C",
+                    "content": "Kích chuột phải vào Slide/Paste"
+                },
+                {
+                    "id": "D",
+                    "content": "Kích chuột phải vào Slide/Delete"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 50,
+            "question": "Trong Powerpoint, tổ hợp phím Ctrl + V thường được sử dụng để?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xóa 1 đoạn văn bản"
+                },
+                {
+                    "id": "B",
+                    "content": "Dán một đoạn văn bản từ Clipboard"
+                },
+                {
+                    "id": "C",
+                    "content": "Sao chép một đoạn văn bản"
+                },
+                {
+                    "id": "D",
+                    "content": "Cắt và sao chép một đoạn văn bản"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 51,
+            "question": "Trong Powerpoint, tổ hợp phím Ctrl + C được sử dụng để?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xóa 1 đoạn văn bản"
+                },
+                {
+                    "id": "B",
+                    "content": "Sao chép một đoạn văn bản"
+                },
+                {
+                    "id": "C",
+                    "content": "Dán một đoạn văn bản từ Clipboard"
+                },
+                {
+                    "id": "D",
+                    "content": "Cắt và sao chép một đoạn văn bản"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 52,
+            "question": "Trong Powerpoint 2010, cách nào để xoá bỏ một Slide đã chọn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kích chuột phải tại Slide đã chọn/ Copy"
+                },
+                {
+                    "id": "B",
+                    "content": "Kích chuột phải tại Slide đã chọn/ Delete Slide"
+                },
+                {
+                    "id": "C",
+                    "content": "Kích chuột phải tại Slide đã chọn/ Paste"
+                },
+                {
+                    "id": "D",
+                    "content": "Kích chuột phải tại Slide đã chọn/ Cut"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 53,
+            "question": "Trong Powerpoint 2010, nếu chọn 2 Slide và dùng lệnh Duplicate Slide thì tạo ra thêm mấy Slide ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "4"
+                },
+                {
+                    "id": "B",
+                    "content": "2"
+                },
+                {
+                    "id": "C",
+                    "content": "6"
+                },
+                {
+                    "id": "D",
+                    "content": "8"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 54,
+            "question": "Trong Powerpoint 2010, thực hiện thao tác nào để lựa chọn nhiều Slide không liên tiếp trong một Presentation?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kích chọn vào 1 Slide cần chọn, giữ phím Shift và thực hiện việc kích chọn các Slide tiếp theo"
+                },
+                {
+                    "id": "B",
+                    "content": "Kích chọn vào 1 Slide , giữ phím Ctrl và thực hiện việc kích chọn các Slide tiếp theo"
+                },
+                {
+                    "id": "C",
+                    "content": "Kích chọn vào 1 Slide cần chọn, giữ phím Alt và thực hiện việc kích chọn các Slide tiếp theo"
+                },
+                {
+                    "id": "D",
+                    "content": "Kích chọn vào 1 Slide , giữ phím Ctrl + Shift và thực hiện việc kích chọn các Slide tiếp theo"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 55,
+            "question": "Trong Powerpoint 2010, để thêm 1 slide giống slide được chọn ta dùng tố hợp phím lệnh nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "ALT + H + E + D"
+                },
+                {
+                    "id": "B",
+                    "content": "ALT + H + I + D"
+                },
+                {
+                    "id": "C",
+                    "content": "ALT + H + D + I"
+                },
+                {
+                    "id": "D",
+                    "content": "ALT + H + E + I"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 56,
+            "question": "Trong Powerpoint 2010, cách nào để xóa 1 Slide đã được chọn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kích chuột phải vào Slide muốn xóa/New Slide"
+                },
+                {
+                    "id": "B",
+                    "content": "Kích chuột phải vào Slide muốn xóa/Delete Slide"
+                },
+                {
+                    "id": "C",
+                    "content": "Kích chuột phải vào Slide muốn xóa/Duplicate Slide"
+                },
+                {
+                    "id": "D",
+                    "content": "Kích chuột phải vào Slide muốn xóa/Add Section"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 57,
+            "question": "Trong PowerPoint 2010, chế độ hiển thị Outline là chế độ có tính năng nào sau đây ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cho phép hiển thị để xóa các slide nhanh hơn"
+                },
+                {
+                    "id": "B",
+                    "content": "Cho phép chỉ nhìn thấy chữ, không nhìn thấy hình ảnh"
+                },
+                {
+                    "id": "C",
+                    "content": "Cho phép chỉ hiển thị hình ảnh, không hiển thị chữ"
+                },
+                {
+                    "id": "D",
+                    "content": "Cho phép hiển thị để soạn thảo từng slide riêng biệt"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 58,
+            "question": "Trong Powerpoint 2010, cách nào để thay đổi kích thước của placeholder?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giữ trái chuột kéo đến vị trí khác theo nhu cầu"
+                },
+                {
+                    "id": "B",
+                    "content": "Di chuyển chuột đến vị trí một trong 8 nốt tròn xung quanh placeholder đang chọn, sau đó điều chỉnh kích thước placeholder"
+                },
+                {
+                    "id": "C",
+                    "content": "Giữ phải chuột kéo đến vị trí khác theo nhu cầu"
+                },
+                {
+                    "id": "D",
+                    "content": "Di chuyển chuột đến đường kẻ ngang placeholder, sau đó điều chỉnh kích thước placeholder"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 59,
+            "question": "Trong Powerpoint 2010, cách nào để hiển thị cửa sổ soạn thảo nội dung Slide?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "View/ Slide Sorter"
+                },
+                {
+                    "id": "B",
+                    "content": "View/ Normal"
+                },
+                {
+                    "id": "C",
+                    "content": "View/ Notes Page"
+                },
+                {
+                    "id": "D",
+                    "content": "View/ Reading View"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 60,
+            "question": "Trong Powerpoint 2010, tổ hợp phím CTRL + H tương ứng với lựa chọn nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào Home/Reset"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào Home/Replace"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào Insert/Picture"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào View/Slide Master"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 61,
+            "question": "Trong Powerpoint 2010, cách nào để xóa một khung văn bản đã chọn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kích chuột phải vào khung văn bản cần xóa/Delete"
+                },
+                {
+                    "id": "B",
+                    "content": "Kích chuột trái vào khung văn bản cần xóa/Insert"
+                },
+                {
+                    "id": "C",
+                    "content": "Kích đúp chuột trái vào khung văn bản cần xóa/Cut"
+                },
+                {
+                    "id": "D",
+                    "content": "Kích chuột trái vào khung văn bản cần xóa/Delete"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 62,
+            "question": "Trong Powerpoint 2010, vào Home/ Line Spacing?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Để quy định khoảng cách giữa các dòng"
+                },
+                {
+                    "id": "B",
+                    "content": "Để quy định khoảng cách giữa các đoạn"
+                },
+                {
+                    "id": "C",
+                    "content": "Tất cả đều sai"
+                },
+                {
+                    "id": "D",
+                    "content": "Để quy định khoảng cách giữa các dòng, đoạn"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 63,
+            "question": "Trong PowerPoint 2010, để xóa toàn bộ định dạng đoạn văn bản được chọn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào Insert / Clear All Formatting"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào View / Clear All Formatting"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào Format / Clear All Formatting"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào Home / Clear All Formatting"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 64,
+            "question": "Trong Powerpoint 2010, thao tác nào sau đây để tạo hiệu ứng bóng mờ cho đoạn văn bản được chọn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào Format/Text Effects/Shadow"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào View/Text Shadow"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào Insert/Text Shadow"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 65,
+            "question": "Trong PowerPoint 2010, lần lượt nhấn phím ALT, phím H, phím 1 tương ứng với tổ hợp phím nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "CTRL + I"
+                },
+                {
+                    "id": "B",
+                    "content": "CTRL + U"
+                },
+                {
+                    "id": "C",
+                    "content": "CTRL + Z"
+                },
+                {
+                    "id": "D",
+                    "content": "CTRL + B"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 66,
+            "question": "Trong Powerpoint 2010, cách nào để thay đổi màu nền văn bản?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Home/Theme Colors"
+                },
+                {
+                    "id": "B",
+                    "content": "Format/Size"
+                },
+                {
+                    "id": "C",
+                    "content": "Format/Shape Styles"
+                },
+                {
+                    "id": "D",
+                    "content": "Format/Shape Fill"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 67,
+            "question": "Trong Powerpoint, đánh dấu 1 đoạn văn bản sau đó nhấn tổ hợp phím CTRL + E, thao tác này tương ứng với lựa chọn nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xóa đoạn văn được chọn"
+                },
+                {
+                    "id": "B",
+                    "content": "Sao chép đoạn văn được chọn"
+                },
+                {
+                    "id": "C",
+                    "content": "Canh trái đoạn văn được chọn"
+                },
+                {
+                    "id": "D",
+                    "content": "Canh giữa đoạn văn được chọn"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 68,
+            "question": "Trong Powerpoint, đánh dấu 1 đoạn văn bản sau đó nhấn tổ hợp phím CTRL + R, thao tác này tương ứng với lựa chọn nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xóa định dạng đoạn văn được chọn"
+                },
+                {
+                    "id": "B",
+                    "content": "Canh giữa đoạn văn được chọn"
+                },
+                {
+                    "id": "C",
+                    "content": "Canh trái đoạn văn được chọn"
+                },
+                {
+                    "id": "D",
+                    "content": "Canh phải đoạn văn được chọn"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 69,
+            "question": "Trong Powerpoint 2010, cách nào để thay đổi kiểu ký hiệu Bullet?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert/Bullet"
+                },
+                {
+                    "id": "B",
+                    "content": "Home/Numbering"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert/ Symbol"
+                },
+                {
+                    "id": "D",
+                    "content": "Home/Bullet"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 70,
+            "question": "Trong Powerpoint 2010, cách nào để thay đổi kiểu ký hiệu Numbering?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Home/Bullet"
+                },
+                {
+                    "id": "B",
+                    "content": "Insert/Numbering"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert/Symbol"
+                },
+                {
+                    "id": "D",
+                    "content": "Home/Numbering"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 71,
+            "question": "Trong Powerpoint 2010, cách nào để thay đổi khoảng cách dãn dòng cho danh sách?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert/Paragraph"
+                },
+                {
+                    "id": "B",
+                    "content": "Home/Font"
+                },
+                {
+                    "id": "C",
+                    "content": "Home/Slides"
+                },
+                {
+                    "id": "D",
+                    "content": "Home/Paragraph"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 72,
+            "question": "Trong Powerpoint 2010, để chọn toàn bộ bảng trong Slide, ta ấn tổ hợp phím?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl + S"
+                },
+                {
+                    "id": "B",
+                    "content": "Alt + A"
+                },
+                {
+                    "id": "C",
+                    "content": "Shift + A"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl + A"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 73,
+            "question": "Trong Powerpoint 2010, lần lượt nhấn phím ALT, phím N, phím T tương ứng với lựa chọn nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào Home/Format"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào Design/Page Setup"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào View/Zoom"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào Insert /Table"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 74,
+            "question": "Trong Powerpoint 2010, cách nào để chèn bảng biểu vào Slide?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Edit/ Table"
+                },
+                {
+                    "id": "B",
+                    "content": "Format/ Table"
+                },
+                {
+                    "id": "C",
+                    "content": "Home/ Table"
+                },
+                {
+                    "id": "D",
+                    "content": "Insert/ Table"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 75,
+            "question": "Trong PowerPoint 2010, sau khi đã chèn một bảng vào slide, muốn chia ô hiện tại thành 2 ô?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào Table / Split Cells"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhấn chuột trái và chọn Split Cells."
+                },
+                {
+                    "id": "C",
+                    "content": "Vào Home / Split Cells"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhấn chuột phải và chọn Split Cells."
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 76,
+            "question": "Trong Powerpoint 2010, hình dạng biểu đồ sẵn có bao gồm?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dạng cột"
+                },
+                {
+                    "id": "B",
+                    "content": "Dạng cột, bánh tròn"
+                },
+                {
+                    "id": "C",
+                    "content": "Dạng thanh, đường"
+                },
+                {
+                    "id": "D",
+                    "content": "Dạng cột, thanh, đường, bánh tròn"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 77,
+            "question": "Trong Powerpoint 2010, cách nào để nhập dữ liệu vào biểu đồ sẵn có?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Design/Chart Styles"
+                },
+                {
+                    "id": "B",
+                    "content": "Home/Edit Data"
+                },
+                {
+                    "id": "C",
+                    "content": "Format/Edit Data"
+                },
+                {
+                    "id": "D",
+                    "content": "Design/Edit Data"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 78,
+            "question": "Trong Powerpoint 2010, cách nào để chèn biểu đồ vào Slide?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert/ Diagram"
+                },
+                {
+                    "id": "B",
+                    "content": "Insert/ Picture/ Organization/ Chart"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert/ Video"
+                },
+                {
+                    "id": "D",
+                    "content": "Design/Edit Data"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 79,
+            "question": "Trong Powerpoint 2010, lệnh Insert/ Chart dùng để thực hiện công việc gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chèn công thức toán học vào Slide"
+                },
+                {
+                    "id": "B",
+                    "content": "Chèn hình ảnh vào Slide"
+                },
+                {
+                    "id": "C",
+                    "content": "Chèn các file âm thanh vào Slide"
+                },
+                {
+                    "id": "D",
+                    "content": "Chèn biểu đồ vào Slide"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 80,
+            "question": "Thao tác Tab Insert\\Chart có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chèn sơ đồ tổ chức vào Slide"
+                },
+                {
+                    "id": "B",
+                    "content": "Chèn hình ảnh từ vị trí bất kỳ trong máy vào Slide"
+                },
+                {
+                    "id": "C",
+                    "content": "Chèn hình ảnh từ thư viện có sẵn trong máy vào Slide"
+                },
+                {
+                    "id": "D",
+                    "content": "Chèn biểu đồ vào Slide"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 81,
+            "question": "Trong Powerpoint 2010, cách nào để thay đổi màu nền của biểu đồ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Design/Shape Fill"
+                },
+                {
+                    "id": "B",
+                    "content": "Home/Theme Colors"
+                },
+                {
+                    "id": "C",
+                    "content": "Format/Shape Styles"
+                },
+                {
+                    "id": "D",
+                    "content": "Format/Shape Fill"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 82,
+            "question": "Muốn chèn sơ đồ tổ chức vào Slide ,ta thực hiện thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tab Insert\\SmartArt\\ Picture, chọn một dạng sơ đồ tổ chức phù hợp"
+                },
+                {
+                    "id": "B",
+                    "content": "Tab Insert\\Picture, sau đó chọn sơ đồ cần chèn"
+                },
+                {
+                    "id": "C",
+                    "content": "Tab Insert\\Chart, chọn một dạng sơ đồ tổ chức phù hợp"
+                },
+                {
+                    "id": "D",
+                    "content": "Tab Insert\\SmartArt\\ Hierarchy, chọn một dạng sơ đồ tổ chức phù hợp"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 83,
+            "question": "Trong PowerPoint 2010, để đổi chiều các hộp dữ liệu trong biểu đồ phân cấp, ta sử dụng tùy chọn nào sau đây ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Left to Right"
+                },
+                {
+                    "id": "B",
+                    "content": "Top to Bottom"
+                },
+                {
+                    "id": "C",
+                    "content": "Bottom to Top"
+                },
+                {
+                    "id": "D",
+                    "content": "Right to Left"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 84,
+            "question": "Trong Powerpoint 2010, cách nào để chèn file ảnh có sẵn trong máy tính vào Slide?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert/ Word Art"
+                },
+                {
+                    "id": "B",
+                    "content": "Insert/ SmartArt"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert/Chart"
+                },
+                {
+                    "id": "D",
+                    "content": "Insert/ Picture"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 85,
+            "question": "Trong Powerpoint 2010, cách nào để chèn hình vẽ vào Slide?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert/ Equation"
+                },
+                {
+                    "id": "B",
+                    "content": "Insert/ Audio"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert/ Video"
+                },
+                {
+                    "id": "D",
+                    "content": "Insert/Shapes"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 86,
+            "question": "Trong Powerpoint 2010, lệnh Insert/Shapes dùng để thực hiện công việc gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chèn công thức toán học vào Slide"
+                },
+                {
+                    "id": "B",
+                    "content": "Chèn video vào Slide"
+                },
+                {
+                    "id": "C",
+                    "content": "Chèn các file âm thanh vào Slide"
+                },
+                {
+                    "id": "D",
+                    "content": "Chèn hình vẽ vào Slide"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 87,
+            "question": "Trong Powerpoint 2010, nút lệnh ScreenShot có chức năng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chèn video vào Slide"
+                },
+                {
+                    "id": "B",
+                    "content": "Chèn hình ảnh từ vị trí bất kỳ trong máy vào Slide"
+                },
+                {
+                    "id": "C",
+                    "content": "Chèn âm thanh vào Slide"
+                },
+                {
+                    "id": "D",
+                    "content": "Chụp ảnh màn hình để chèn vào Slide"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 88,
+            "question": "Trong PowerPoint 2010, lệnh nào sau đây cho phép chèn biểu tượng mặt cười Smiley Face?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào View / Smiley Face"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào Insert / Smiley Face"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào View / Shapes / Smiley Face"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào Insert / Shapes / Smiley Face"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 89,
+            "question": "Trong PowerPoint 2010, để sao chép đối tượng đối họa từ định dạng này sang định dạng khác, ta sử dụng công cụ nào sau đây ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Paste Format"
+                },
+                {
+                    "id": "B",
+                    "content": "Paste All"
+                },
+                {
+                    "id": "C",
+                    "content": "Paste Painter"
+                },
+                {
+                    "id": "D",
+                    "content": "Paste Special"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 90,
+            "question": "Trong PowerPoint 2010, tùy chọn Lock Aspect Ratio cho phép",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thay đổi tỉ lệ xoay 90 độ so với ban đầu"
+                },
+                {
+                    "id": "B",
+                    "content": "Khôi phục lại ảnh gốc"
+                },
+                {
+                    "id": "C",
+                    "content": "Thay đổi kích thước ảnh đồng thời biến đổi tỉ lệ ảnh gốc"
+                },
+                {
+                    "id": "D",
+                    "content": "Thay đổi kích thước ảnh nhưng giữ nguyên tỉ lệ ảnh gốc"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 91,
+            "question": "Trong Trong PowerPoint 2010, để lật ngang ảnh, ta sử dụng tùy chọn nào sau đây ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Flip Horizontal"
+                },
+                {
+                    "id": "B",
+                    "content": "Flip Vertical"
+                },
+                {
+                    "id": "C",
+                    "content": "Rotate Right 90"
+                },
+                {
+                    "id": "D",
+                    "content": "Rotate Left 90"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 92,
+            "question": "Trong Powerpoint 2010, cách nào để chèn Công thức toán học vào Slide?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert/ Equation"
+                },
+                {
+                    "id": "B",
+                    "content": "Insert/ Audio"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert/ Video"
+                },
+                {
+                    "id": "D",
+                    "content": "Insert/Chart"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 93,
+            "question": "Trong Powerpoint 2010, lệnh Insert/ Equation dùng để thực hiện công việc gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chèn công thức toán học vào Slide"
+                },
+                {
+                    "id": "B",
+                    "content": "Chèn biểu đồ vào Slide"
+                },
+                {
+                    "id": "C",
+                    "content": "Chèn hình ảnh vào Slide"
+                },
+                {
+                    "id": "D",
+                    "content": "Chèn các file âm thanh vào Slide"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 94,
+            "question": "Trong Powerpoint 2010, cách nào để đánh số trang cho các Slide?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert/ Slide Number"
+                },
+                {
+                    "id": "B",
+                    "content": "View/ Slide Number"
+                },
+                {
+                    "id": "C",
+                    "content": "Format/ Slide Number"
+                },
+                {
+                    "id": "D",
+                    "content": "Home/ Slide Number"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 95,
+            "question": "Trong PowerPoint 2010, Chèn chữ nghệ thuật WordArt?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào Insert / WordArt"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào Home / Insert WordArt"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào Insert / Insert WordArt"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào Slide / WordArt"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 96,
+            "question": "Trong Powerpoint 2010, để tạo tiêu đề cuối trang cho slide hiện tại?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert/ Footer and Header/ Chọn Footer/ Nhập nội dung"
+                },
+                {
+                    "id": "B",
+                    "content": "Insert/ Footer and Header/ Chọn Date and Time/ Nhập nội dung"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert/ Footer and Header/ Chọn Slide Number/ Nhập nội dung"
+                },
+                {
+                    "id": "D",
+                    "content": "Insert/ Footer and Header/ Chọn Slide/ Nhập nội dung"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 97,
+            "question": "Trong PowerPoint 2010, để thay đổi đường viền (nét vẽ) của đối tượng, ta sử dụng tùy chọn nào sau đây ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Shape Outline"
+                },
+                {
+                    "id": "B",
+                    "content": "Shape Fill"
+                },
+                {
+                    "id": "C",
+                    "content": "Shape Effects"
+                },
+                {
+                    "id": "D",
+                    "content": "Shape Position"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 98,
+            "question": "Trong PowerPoint 2010, chọn phát biểu đúng ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Có thể chỉnh sửa từng đối tượng sau khi gom nhóm chúng"
+                },
+                {
+                    "id": "B",
+                    "content": "Không thể chỉnh sửa từng đối tượng sau khi gom nhóm chúng"
+                },
+                {
+                    "id": "C",
+                    "content": "Có thể di chuyển đối tượng ra khỏi nhóm bằng kéo và thả đối tượng"
+                },
+                {
+                    "id": "D",
+                    "content": "Không thể di chuyển các đối tượng sau khi gom nhóm"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 99,
+            "question": "Trong PowerPoint 2010, thao tác nào để chuyển đối tượng vẽ từ lớp dưới cùng của nhiều lớp lên trên một lớp?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào Home/Arrange/Bring Forward"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào Home/Arrange/Bring to Front"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào Home/Arrange/Send Backward"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào Home/Arrange/Sent to Back"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 100,
+            "question": "Trong Powerpoint 2010, cách nào để thiết lập hiệu ứng cho văn bản, hình ảnh…",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Animation/ chọn hiệu ứng"
+                },
+                {
+                    "id": "B",
+                    "content": "Insert/ chọn hiệu ứng"
+                },
+                {
+                    "id": "C",
+                    "content": "File/ chọn hiệu ứng"
+                },
+                {
+                    "id": "D",
+                    "content": "Home/ chọn hiệu ứng"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 101,
+            "question": "Trong chương trình MS PowerPoint, chức năng Animations dùng để làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Định dạng hiệu ứng cho các đối tượng trên slide."
+                },
+                {
+                    "id": "B",
+                    "content": "Định dạng kiểu lật trang cho các slide."
+                },
+                {
+                    "id": "C",
+                    "content": "Định dạng giao diện cho slide."
+                },
+                {
+                    "id": "D",
+                    "content": "Định dạng kiểu chữ cho slide"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 102,
+            "question": "Trong Powerpoint 2010, sau khi chèn hiệu ứng cho đối tượng trên slide, muốn hiệu ứng xuất hiện đồng thời khi trình diễn, taị mục Start ta chọn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "With Previous"
+                },
+                {
+                    "id": "B",
+                    "content": "After Previous"
+                },
+                {
+                    "id": "C",
+                    "content": "On Click"
+                },
+                {
+                    "id": "D",
+                    "content": "After Click"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 103,
+            "question": "Trong PowerPoint 2010, hiệu ứng cho các đối tượng trên Slide gồm các nhóm nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tất cả đều sai"
+                },
+                {
+                    "id": "B",
+                    "content": "Exit, Entrange, Emphasis"
+                },
+                {
+                    "id": "C",
+                    "content": "Motion path, Exit, Entrange"
+                },
+                {
+                    "id": "D",
+                    "content": "Motion path, Exit, Emphasis"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 104,
+            "question": "Trong PowerPoint 2010, mục Effect Options của hiệu ứng chuyển đổi trang REVEAL có mấy kiểu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "4"
+                },
+                {
+                    "id": "B",
+                    "content": "5"
+                },
+                {
+                    "id": "C",
+                    "content": "6"
+                },
+                {
+                    "id": "D",
+                    "content": "7"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 105,
+            "question": "Trong Powerpoint 2010, chọn phát biểu sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hiệu ứng chuyển đổi các trang ORBIT thuộc nhóm Subtle"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào Design / Page setup... để cài đặt trang in, khổ giấy"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhấn tổ hợp phím Shift + F9 để bật hoặc tắt khung lưới Gridlines"
+                },
+                {
+                    "id": "D",
+                    "content": "Biểu tượng mặt cười Smiley Face thuộc nhóm Basic Shapes"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 106,
+            "question": "Trong PowerPoint 2010, thao tác nào sau đây để chạy thử Slide hiện tại?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào Transitions / Preview"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào Home / Preview"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào File / Preview"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào Design / Preview"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 107,
+            "question": "Trong PowerPoint 2010, để thêm phần ghi chú cho trang thuyết trình, ta sử dụng kiểu hiển thị nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Notes Page và Normal"
+                },
+                {
+                    "id": "B",
+                    "content": "Notes Page và Slide Sorter"
+                },
+                {
+                    "id": "C",
+                    "content": "Notes Page và Reading View"
+                },
+                {
+                    "id": "D",
+                    "content": "Slide Sorter và Normal"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 108,
+            "question": "Trong PowerPoint 2010, thao tác nào sau đây để in trang thuyết trình trên khổ giấy kiểu dọc ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào Design/Page Setup/Orientation/Notes, Handouts and Outline/ Portrait"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào Design/Page Setup/Orientation/Slide/Portrait"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào Design/Slide Orientation/Portrait"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào Design/Orientation/Slide/Portrait"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 109,
+            "question": "Trong Powerpoint 2010, cách nào để ẩn một slide đã được chọn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Slide Show/ Hide Slide"
+                },
+                {
+                    "id": "B",
+                    "content": "Edit/ Hide Slide"
+                },
+                {
+                    "id": "C",
+                    "content": "Format/ Hide Slide"
+                },
+                {
+                    "id": "D",
+                    "content": "Insert/ Hide Slide"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 110,
+            "question": "Trong PowerPoint 2010, thao tác nào sau đây để bật tính năng kiểm tra chính tả ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào Review/Spelling/Options/Check spelling as you type"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào View/Spelling/Options/Check spelling as you type"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào Review/Spelling/Options/Check grammar as you type"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào Review/Spelling/Check spelling as you type"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 111,
+            "question": "Trong phần Hyperlink ta chọn First Slide sẽ cho phép liên kết tới slide?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Di chuyển về Slide đầu tiên"
+                },
+                {
+                    "id": "B",
+                    "content": "Di chuyển về Slide trước đó"
+                },
+                {
+                    "id": "C",
+                    "content": "Di chuyển về Slide tiếp theo"
+                },
+                {
+                    "id": "D",
+                    "content": "Di chuyển về Slide cuối cùng"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 112,
+            "question": "Trong PowerPoint, tổ hợp Phím nào sau được dùng để in?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl + P"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl + O"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl + N"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl + S"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 113,
+            "question": "Trong PowerPoint 2010, để thay đổi kích cỡ của trang thuyết trình phù hợp với màn hình trình chiếu, ta sử dụng tùy chọn nào sau đây ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "On-screen Show"
+                },
+                {
+                    "id": "B",
+                    "content": "35mm Slides"
+                },
+                {
+                    "id": "C",
+                    "content": "Overhead"
+                },
+                {
+                    "id": "D",
+                    "content": "Banner"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 114,
+            "question": "Trong Powerpoint 2010, cách nào để in mỗi Slides trên một trang in?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "File/ Print/ Settings/ 1 Slide"
+                },
+                {
+                    "id": "B",
+                    "content": "File/ Print/ Notes Page"
+                },
+                {
+                    "id": "C",
+                    "content": "File/ Print/ 2 Slides"
+                },
+                {
+                    "id": "D",
+                    "content": "File/ Print/ Outline"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 115,
+            "question": "Trong Powerpoint 2010, cách nào để trình diễn từ slide đầu tiên?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "F5"
+                },
+                {
+                    "id": "B",
+                    "content": "Shift + F5"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl + F5"
+                },
+                {
+                    "id": "D",
+                    "content": "Alt + F5"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 116,
+            "question": "Trong Powerpoint 2010, dùng phím nào để dừng trình diễn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Esc"
+                },
+                {
+                    "id": "B",
+                    "content": "End"
+                },
+                {
+                    "id": "C",
+                    "content": "Home"
+                },
+                {
+                    "id": "D",
+                    "content": "Alt"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 117,
+            "question": "Trong Powerpoint 2010, cách nào dùng để trình chiếu Slide?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Slide Show/ From Beginning"
+                },
+                {
+                    "id": "B",
+                    "content": "View/ From Beginning"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert/ From Beginning"
+                },
+                {
+                    "id": "D",
+                    "content": "File/ From Beginning"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 118,
+            "question": "Hãy cho biết phím tắt để trình diễn một tệp Powerpoint từ slide hiện tại?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Shift + F5"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl + F5"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        }
+    ]
+}
