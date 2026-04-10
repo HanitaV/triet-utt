@@ -16,6 +16,20 @@ COMMIT_MSG="${1:-"Update site"}"
 
 echo -e "${YELLOW}🚀 Starting deployment...${NC}"
 
+# Ensure working tree is clean before pulling
+if [[ -n $(git status -s) ]]; then
+    echo -e "${RED}Working tree has uncommitted changes. Please commit or stash them first.${NC}"
+    exit 1
+fi
+
+# Pull latest changes before version update to avoid merge conflicts
+echo -e "${GREEN}📥 Pulling from main...${NC}"
+git pull origin main
+
+# Auto-update version info after pull
+echo -e "${GREEN}🔢 Updating version info...${NC}"
+node update_version.js
+
 # Check if there are changes to commit
 if [[ -n $(git status -s) ]]; then
     echo -e "${GREEN}📝 Committing changes...${NC}"
