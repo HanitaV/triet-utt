@@ -1,0 +1,2882 @@
+{
+    "title": "CHƯƠNG 2",
+    "total_questions": 120,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Lệnh Start/Shut down dùng để làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khởi động lại máy tính"
+                },
+                {
+                    "id": "B",
+                    "content": "Tắt màn hình"
+                },
+                {
+                    "id": "C",
+                    "content": "Tắt máy tính"
+                },
+                {
+                    "id": "D",
+                    "content": "Chuyển sang chế độ tiết kiệm điện"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 2,
+            "question": "Có bao nhiêu cách thoát khỏi một chương trình ứng dụng trong hệ điều hành Windows 7?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "3"
+                },
+                {
+                    "id": "B",
+                    "content": "2"
+                },
+                {
+                    "id": "C",
+                    "content": "4"
+                },
+                {
+                    "id": "D",
+                    "content": "1"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 3,
+            "question": "Khi khởi động máy tính, phần mềm nào sau đây sẽ được thực hiện trước?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phần mềm gõ tiếng Việt"
+                },
+                {
+                    "id": "B",
+                    "content": "Phần mềm Micrsoft Office"
+                },
+                {
+                    "id": "C",
+                    "content": "Hệ điều hành"
+                },
+                {
+                    "id": "D",
+                    "content": "Chương trình diệt virus máy tính"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 4,
+            "question": "Để tắt máy tính đúng cách ta chọn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tắt nguồn điện"
+                },
+                {
+                    "id": "B",
+                    "content": "Bấm nút Power trên hộp máy"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhấn nút Start ở góc dưới bên trái màn hình nền, chọn mục Shutdown"
+                },
+                {
+                    "id": "D",
+                    "content": "Bấm nút Reset trên hộp máy"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 5,
+            "question": "Quy trình tắt máy tính nào sau đây đảm bảo an toàn cho chương trình và dữ liệu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đóng các file chương trình, ghi dữ liệu vào đĩa, Shutdown Windows"
+                },
+                {
+                    "id": "B",
+                    "content": "Đóng các file chương trình, Shutdown Windows, tắt công tắc nguồn"
+                },
+                {
+                    "id": "C",
+                    "content": "Ghi dữ liệu vào đĩa, đóng các file chương trình, Chọn nút Start/Shut down"
+                },
+                {
+                    "id": "D",
+                    "content": "Không có đáp án đúng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 6,
+            "question": "Trong Windows 7, để ngắt ổ đĩa USB một cách an toàn, có thể dùng cách nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đóng tất cả các chương trình đang chạy"
+                },
+                {
+                    "id": "B",
+                    "content": "Khởi động lại HĐH Windows"
+                },
+                {
+                    "id": "C",
+                    "content": "Kích chuột phải trên biểu tượng USB ở góc phải màn hình, chọn thiết bị cần gỡ bỏ và chọn Eject"
+                },
+                {
+                    "id": "D",
+                    "content": "Không có đáp án đúng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 7,
+            "question": "Để thiết lập chế độ nghỉ màn hình (Screen Saver) trong Windows 7, ta sử dụng công cụ nào sau đây trong Control Panel?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Device Manager"
+                },
+                {
+                    "id": "B",
+                    "content": "Taskbar and Start Menu"
+                },
+                {
+                    "id": "C",
+                    "content": "Display"
+                },
+                {
+                    "id": "D",
+                    "content": "Không có đáp án đúng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 8,
+            "question": "Để khởi động lại máy tính, phát biểu nào dưới đây là sai",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Từ cửa sổ màn hình nền nhấn nút Start - Shutdown, sau đó chọn mục Restart"
+                },
+                {
+                    "id": "B",
+                    "content": "Bấm nút Reset trên hộp máy"
+                },
+                {
+                    "id": "C",
+                    "content": "Bấm nút Power trên hộp máy"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhấn tổ hợp phím Ctrl - Alt - Del, chọn mục Restart"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 9,
+            "question": "Trong Control Panel của Windows 7, để thay đổi cách thức đăng nhập (login) và đăng xuất (logout), ta có thể dùng cách nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chọn System, chọn Change the way user log on or off"
+                },
+                {
+                    "id": "B",
+                    "content": "Chọn Windows Firewall, đánh dấu mục On hoặc Off"
+                },
+                {
+                    "id": "C",
+                    "content": "Chọn User Accounts, chọn Change the way users log on or off"
+                },
+                {
+                    "id": "D",
+                    "content": "Không có đáp án đúng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 10,
+            "question": "Trong hệ điều hành Windows 7, khi người dùng muốn rời khỏi máy tính, có thể dùng cách nào sau đây để khóa máy tính tạm thời?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bấm Ctrl + L, chọn Lock Computer"
+                },
+                {
+                    "id": "B",
+                    "content": "Bấm Alt + L, chọn Lock Computer"
+                },
+                {
+                    "id": "C",
+                    "content": "Bấm Ctrl + Alt + Del, chọn Lock This Computer"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhấn nút Power"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 11,
+            "question": "Lựa chọn nào sau đây trong Windows 7 cho phép tắt máy tính và lưu trữ thông tin, trạng thái các chương trình đang hoạt động trong bộ nhớ vào ổ đĩa cứng và có thể cho phép người dùng tiếp tục sử dụng chỉ cần nhấn phím bất kỳ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kích Start, chọn Shutdown/Standby"
+                },
+                {
+                    "id": "B",
+                    "content": "Kích Start, chọn Shutdown/Log off"
+                },
+                {
+                    "id": "C",
+                    "content": "Kích Start, chọn Shutdown/Hibernate"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhấn tổ hợp phím Ctrl + Alt + Delete"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 12,
+            "question": "Phím, tổ hợp phím dùng để chụp cửa sổ hiện hành?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl+Print Screen"
+                },
+                {
+                    "id": "B",
+                    "content": "Print Screen"
+                },
+                {
+                    "id": "C",
+                    "content": "Alt+Print Screen (hoặc Alt + PrtSc)"
+                },
+                {
+                    "id": "D",
+                    "content": "Shift+ Print Screen"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 13,
+            "question": "Phím tắt nào dùng để đóng cửa sổ hiện hành?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "F1"
+                },
+                {
+                    "id": "B",
+                    "content": "Tab+F9"
+                },
+                {
+                    "id": "C",
+                    "content": "Alt+F4"
+                },
+                {
+                    "id": "D",
+                    "content": "F7"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 14,
+            "question": "Phím tắt nào sao chép một đối tượng vào ClipBoard?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl+X"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl+V"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl+C"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl+Z"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 15,
+            "question": "Phím tắt để cắt một đối tượng vào ClipBoard là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl+M"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl+V"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl+X"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl+Z"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 16,
+            "question": "Phím tắt được sử dụng để hiển thị thực đơn Start?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Alt+F4"
+                },
+                {
+                    "id": "B",
+                    "content": "Alt+Tab"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl+Esc"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl+Tab"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 17,
+            "question": "Phím tắt nào để chuyển đổi giữa các cửa sổ trong Windows 7?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl + T"
+                },
+                {
+                    "id": "B",
+                    "content": "Alt + O"
+                },
+                {
+                    "id": "C",
+                    "content": "Alt + Tab"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl + Alt + Tab"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 18,
+            "question": "Để di chuyển con trỏ chuột trong khi soạn thảo, tổ hợp phím Ctrl + <- (mũi tên sang trái), có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sang phải một ký tự"
+                },
+                {
+                    "id": "B",
+                    "content": "Sang trái một ký tự"
+                },
+                {
+                    "id": "C",
+                    "content": "Sang trái một từ"
+                },
+                {
+                    "id": "D",
+                    "content": "Sang phải một từ"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 19,
+            "question": "Để di chuyển con trỏ chuột trong khi soạn thảo, phím -> (mũi tên sang phải), có chức năng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sang phải một từ"
+                },
+                {
+                    "id": "B",
+                    "content": "Sang trái một từ"
+                },
+                {
+                    "id": "C",
+                    "content": "Sang phải một ký tự"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 20,
+            "question": "Muốn xóa ký tự đằng sau con trỏ thì nhấn phím gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Home"
+                },
+                {
+                    "id": "B",
+                    "content": "End"
+                },
+                {
+                    "id": "C",
+                    "content": "Delete"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 21,
+            "question": "Tổ hợp phím Ctrl + C có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Di chuyển văn bản được chọn, và đưa vào bộ nhớ đệm"
+                },
+                {
+                    "id": "B",
+                    "content": "Hiển thị văn bản từ bộ nhớ đệm"
+                },
+                {
+                    "id": "C",
+                    "content": "Sao chép văn bản được chọn, và đưa vào bộ nhớ đệm"
+                },
+                {
+                    "id": "D",
+                    "content": "Phục hồi lại thao tác trước đó"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 22,
+            "question": "Tổ hợp phím Ctrl + X có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sao chép văn bản được chọn, và đưa vào bộ nhớ đệm"
+                },
+                {
+                    "id": "B",
+                    "content": "Hiển thị văn bản từ bộ nhớ đệm"
+                },
+                {
+                    "id": "C",
+                    "content": "Di chuyển văn bản được chọn, và đưa vào bộ nhớ đệm"
+                },
+                {
+                    "id": "D",
+                    "content": "Phục hồi lại thao tác trước đó"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 23,
+            "question": "Giả sử bạn đang soạn thảo văn bản trên máy tính và bỗng nhiên bàn phím của bạn gặp sự cố, không gõ được kí tự. Bạn xử lý như thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kích hoạt ứng dụng kiểm tra phần cứng máy tính"
+                },
+                {
+                    "id": "B",
+                    "content": "Kết nối máy tính với màn hình của máy tính khác để tiếp tục soạn thảo văn bản"
+                },
+                {
+                    "id": "C",
+                    "content": "Tìm và mở ứng dụng bàn phím ảo (On-Screen Keyboard) có sẵn của hệ điều hành Windows 7 để bật bàn phím ảo"
+                },
+                {
+                    "id": "D",
+                    "content": "Kiểm tra lại kết nối mạng máy tính"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 24,
+            "question": "Khi kích đúp chuột vào thanh tiêu đề của một cửa sổ đang ở kích thước cực đại trong hệ điều hành Windows 7 sẽ",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thu cửa sổ về kích thước cực tiểu"
+                },
+                {
+                    "id": "B",
+                    "content": "Chuyển về chế độ cho phép thay đổi kích thước cửa sổ"
+                },
+                {
+                    "id": "C",
+                    "content": "Thu cửa sổ về kích thước trước đó"
+                },
+                {
+                    "id": "D",
+                    "content": "Đóng cửa sổ đó"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 25,
+            "question": "Trong các biểu tượng ứng dụng sau đây, biểu tượng nào không hiển thị trên màn hình nền Desktop?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Taskbar"
+                },
+                {
+                    "id": "B",
+                    "content": "Recycle Bin"
+                },
+                {
+                    "id": "C",
+                    "content": "Máy in HP"
+                },
+                {
+                    "id": "D",
+                    "content": "Đồng hồ hệ thống"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 26,
+            "question": "Phần mềm nào dưới đây nếu không được cài đặt máy tính sẽ không hoạt động?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chrome"
+                },
+                {
+                    "id": "B",
+                    "content": "Vietkey"
+                },
+                {
+                    "id": "C",
+                    "content": "Windows"
+                },
+                {
+                    "id": "D",
+                    "content": "Norton AntiVirus"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 27,
+            "question": "Để thay đổi kiểu hiển thị ngày tháng năm trong Windows 7 được thiết lập ở đâu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Control Panel - System"
+                },
+                {
+                    "id": "B",
+                    "content": "Control Panel – Display"
+                },
+                {
+                    "id": "C",
+                    "content": "Control Panel/Region and Language"
+                },
+                {
+                    "id": "D",
+                    "content": "Control Panel - Regional"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 28,
+            "question": "Trong hệ điều hành Windows 7, muốn thay đổi hình nền cho màn hình Desktop, ta nhấp phải chuột tại vùng trống trên Desktop và chọn chức năng nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Screen Resolutions"
+                },
+                {
+                    "id": "B",
+                    "content": "Gadgets"
+                },
+                {
+                    "id": "C",
+                    "content": "Personalization, chọn Desktop Background"
+                },
+                {
+                    "id": "D",
+                    "content": "New - Briefcase"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 29,
+            "question": "Chức năng nào trong Windows 7 cho phép thiết lập các thông số cho môi trường làm việc?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "System Restore"
+                },
+                {
+                    "id": "B",
+                    "content": "System Informations"
+                },
+                {
+                    "id": "C",
+                    "content": "Control Panel"
+                },
+                {
+                    "id": "D",
+                    "content": "Taskbar and Start Menu"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 30,
+            "question": "Để gỡ bỏ một máy in đã cài đặt, ta thực hiện theo cách nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chọn Add/Remove Hardware sau đó chọn biểu tượng máy in cần gỡ bỏ"
+                },
+                {
+                    "id": "B",
+                    "content": "Chọn Device Manager sau đó chọn biểu tượng máy in cần gỡ bỏ"
+                },
+                {
+                    "id": "C",
+                    "content": "Tại cửa sổ Printers and Faxes, nhấp phải chuột vào máy in và chọn Remove Device"
+                },
+                {
+                    "id": "D",
+                    "content": "Gỡ bỏ máy tin trong Control Panenl"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 31,
+            "question": "Để gỡ bỏ 1 chương trình nào thì mở Control Panel/Uninstall a Programs/ Chọn biểu tượng chương trình cần gỡ bỏ và chọn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Change."
+                },
+                {
+                    "id": "B",
+                    "content": "Uninstall"
+                },
+                {
+                    "id": "C",
+                    "content": "Update"
+                },
+                {
+                    "id": "D",
+                    "content": "Delete"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 32,
+            "question": "Để hiển thị được Computer trên màn hình nền thì làm như thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhấn phím Ctrl + C"
+                },
+                {
+                    "id": "B",
+                    "content": "Kích chuột vào nút Start/Nhấp phải chuột vào Computer và chọn Show on Desktop"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhấn Ctrl + V"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhấn Ctrl + X"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 33,
+            "question": "Trong Control Panel để gỡ bỏ một phần mềm ta chọn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Administrative Tools"
+                },
+                {
+                    "id": "B",
+                    "content": "Programs and Features"
+                },
+                {
+                    "id": "C",
+                    "content": "System"
+                },
+                {
+                    "id": "D",
+                    "content": "Add Hardware"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 34,
+            "question": "Trong hệ điều hành Windows, để sửa lại ngày/giờ cho hệ thống máy tính, sử dụng công cụ nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Date and Time trong cửa sổ My Computer"
+                },
+                {
+                    "id": "B",
+                    "content": "Date and Time trong cửa sổ Control Panel"
+                },
+                {
+                    "id": "C",
+                    "content": "Date and Time trong cửa sổ Internet Explorer"
+                },
+                {
+                    "id": "D",
+                    "content": "Date and Time trong cửa sổ My Networking"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 35,
+            "question": "Trong hệ điều hành Windows, để thay đổi lại cách biểu diễn ngày/giờ, sử dụng công cụ nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Date and Time"
+                },
+                {
+                    "id": "B",
+                    "content": "Region and Language"
+                },
+                {
+                    "id": "C",
+                    "content": "System Infomations"
+                },
+                {
+                    "id": "D",
+                    "content": "Display"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 36,
+            "question": "Để thiết lập chế độ nghỉ màn hình (Screen Saver) trong Windows, ta sử dụng công cụ nào sau đây trong Control Panel?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Device Manager"
+                },
+                {
+                    "id": "B",
+                    "content": "Display"
+                },
+                {
+                    "id": "C",
+                    "content": "Taskbar and Start Menu"
+                },
+                {
+                    "id": "D",
+                    "content": "Auto Play"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 37,
+            "question": "Trong windows, để xem những chương trình nào đã được Updates thì chọn chức năng nào trong Control Panel/Programs and Features?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Không làm gì"
+                },
+                {
+                    "id": "B",
+                    "content": "View Installed Updates"
+                },
+                {
+                    "id": "C",
+                    "content": "Xóa biểu tượng chương trình trong menu Start"
+                },
+                {
+                    "id": "D",
+                    "content": "Kích chuột phải vào biểu tượng rồi bấm tổ hợp phím Shift + Delete"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 38,
+            "question": "Chức năng nào cho phép tạo các tài khoản để truy cập vào máy tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Windows Explorer"
+                },
+                {
+                    "id": "B",
+                    "content": "User Accounts"
+                },
+                {
+                    "id": "C",
+                    "content": "Desktop"
+                },
+                {
+                    "id": "D",
+                    "content": "Multimedia"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 39,
+            "question": "Trong hệ điều hành Windows, để thay đổi ngày/ giờ cho hệ thống máy tính, sử dụng công cụ nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Date and Time trong cửa sổ My Computer"
+                },
+                {
+                    "id": "B",
+                    "content": "Date and Time trong cửa sổ Control Panel"
+                },
+                {
+                    "id": "C",
+                    "content": "Date and Time trong cửa sổ Internet Explorer"
+                },
+                {
+                    "id": "D",
+                    "content": "Không có đáp án đúng"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 40,
+            "question": "Trong hệ điều hành Windows, để lấy lại mặc định ngày/giờ của hệ thống, sử dụng công cụ nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Date and Time"
+                },
+                {
+                    "id": "B",
+                    "content": "Region and Language"
+                },
+                {
+                    "id": "C",
+                    "content": "System Infomations"
+                },
+                {
+                    "id": "D",
+                    "content": "Không có đáp án đúng"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 41,
+            "question": "Chức năng của Control Panel là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Soạn thảo văn bản trên Windows"
+                },
+                {
+                    "id": "B",
+                    "content": "Thiết lập cấu hình Windows 7 như thay đổi ngày giờ, cài đặt thêm các thiết bị, gỡ bỏ các chương trình ứng dụng, …"
+                },
+                {
+                    "id": "C",
+                    "content": "Sao chép các tệp tin trên máy tính"
+                },
+                {
+                    "id": "D",
+                    "content": "Cho thấy tên của các máy tính và các tài nguyên khác trong mạng cục bộ"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 42,
+            "question": "Chức năng nào cho phép thay đổi ngày giờ trong máy tính trên hệ điều hành Windows?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Control Panel/Display"
+                },
+                {
+                    "id": "B",
+                    "content": "Control Panel/Date and Time"
+                },
+                {
+                    "id": "C",
+                    "content": "Control Panel/Fonts"
+                },
+                {
+                    "id": "D",
+                    "content": "Control Panel/Folder Options"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 43,
+            "question": "Trong hệ điều hành Windows, cửa sổ ứng dụng nào sau đây chứa thông tin như dung lượng của các ổ đĩa cứng, ổ đĩa CD/DVD, USB, tài nguyên trong máy tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Control Panel"
+                },
+                {
+                    "id": "B",
+                    "content": "Computer"
+                },
+                {
+                    "id": "C",
+                    "content": "My Document"
+                },
+                {
+                    "id": "D",
+                    "content": "Recycle Bin"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 44,
+            "question": "Phát biểu nào sau đây đúng nhất cho khái niệm về biểu tượng Shortcut trong Windows?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là chương trình được cài đặt trên máy tính"
+                },
+                {
+                    "id": "B",
+                    "content": "Là biểu tượng giúp người dùng truy cập nhanh vào đối tượng thường sử dụng"
+                },
+                {
+                    "id": "C",
+                    "content": "Là biểu tượng để mở cửa sổ My Computer"
+                },
+                {
+                    "id": "D",
+                    "content": "Là biểu tượng của thư mục chứa virus"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 45,
+            "question": "Hệ điều hành Windows 7 có bao nhiêu loại Shortcut?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1 loại"
+                },
+                {
+                    "id": "B",
+                    "content": "2 loại"
+                },
+                {
+                    "id": "C",
+                    "content": "3 loại"
+                },
+                {
+                    "id": "D",
+                    "content": "4 loại"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 46,
+            "question": "Khi thực hiện thao tác xóa một biểu tượng Shortcut trong Windows, chương trình tương ứng sẽ chịu tác động nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bị xóa"
+                },
+                {
+                    "id": "B",
+                    "content": "Không thay đổi"
+                },
+                {
+                    "id": "C",
+                    "content": "Không khởi động được"
+                },
+                {
+                    "id": "D",
+                    "content": "Không lưu được"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 47,
+            "question": "Khi sao chép Shortcut để mở một tệp hoặc thư mục từ máy A sang máy B, thì tại máy B người dùng có thể làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vẫn mở được thư mục"
+                },
+                {
+                    "id": "B",
+                    "content": "Không mở được thư mục hoặc tệp"
+                },
+                {
+                    "id": "C",
+                    "content": "Máy B sẽ không đọc được tệp hoặc thư mục"
+                },
+                {
+                    "id": "D",
+                    "content": "Máy B sẽ bị nhiễm Virus"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 48,
+            "question": "Để tạo biểu tượng Shortcut một chương trình ứng dụng trên Desktop của Windows, phương pháp nào sau đây không thể thực hiện được?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kích chuột phải tại biểu tượng chương trình, chọn Send to Desktop"
+                },
+                {
+                    "id": "B",
+                    "content": "Kích chuột phải tại biểu tượng chương trình, chọn Send to/Desktop (Creat Shortcut)"
+                },
+                {
+                    "id": "C",
+                    "content": "Trỏ chuột vào biểu tượng chương trình, sau đó kéo ra Desktop"
+                },
+                {
+                    "id": "D",
+                    "content": "Kích chuột phải tại Desktop, chọn New/Shortcut sau đó nhập tên chương trình"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 49,
+            "question": "Windows Explorer dùng để làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trình duyệt Web"
+                },
+                {
+                    "id": "B",
+                    "content": "Quản lý tập tin, thư mục"
+                },
+                {
+                    "id": "C",
+                    "content": "Truy cập mạng"
+                },
+                {
+                    "id": "D",
+                    "content": "Phần mềm xây dựng trang web"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 50,
+            "question": "Cách nào sau đây được sử dụng để khởi động Start Menu của hệ điều hành Windows?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bấm Alt+Tab"
+                },
+                {
+                    "id": "B",
+                    "content": "Bấm Ctrl+Esc"
+                },
+                {
+                    "id": "C",
+                    "content": "Bấm Shift+Tab"
+                },
+                {
+                    "id": "D",
+                    "content": "Không có đáp án đúng"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 51,
+            "question": "Thực đơn dùng trong một chương trình ứng dụng còn được gọi là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Menu pad"
+                },
+                {
+                    "id": "B",
+                    "content": "Menu bar"
+                },
+                {
+                    "id": "C",
+                    "content": "Menu options"
+                },
+                {
+                    "id": "D",
+                    "content": "Tool bar"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 52,
+            "question": "Để ẩn toàn bộ chương trình và trở về màn hình Desktop thì nhấn tổ hợp phím nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl + D"
+                },
+                {
+                    "id": "B",
+                    "content": "Windows + D"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl + N"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl + Alt + Tab"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 53,
+            "question": "Ứng dụng có thể đọc các file có phần mở rộng là PDF là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Corel Draw CS5"
+                },
+                {
+                    "id": "B",
+                    "content": "Foxit Reader"
+                },
+                {
+                    "id": "C",
+                    "content": "Photoshop CS6"
+                },
+                {
+                    "id": "D",
+                    "content": "My computer"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 54,
+            "question": "Ứng dụng có thể đọc các file có phần mở rộng là PPT hoặc PPTX là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Foxit Reader"
+                },
+                {
+                    "id": "B",
+                    "content": "Microsoft Office Power Point"
+                },
+                {
+                    "id": "C",
+                    "content": "WinZip"
+                },
+                {
+                    "id": "D",
+                    "content": "Paint"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 55,
+            "question": "Ứng dụng có thể đọc các file có phần mở rộng là WMA là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Paint"
+                },
+                {
+                    "id": "B",
+                    "content": "Windows Media Player"
+                },
+                {
+                    "id": "C",
+                    "content": "WordPad"
+                },
+                {
+                    "id": "D",
+                    "content": "NotePad"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 56,
+            "question": "Tệp tin có phần mở rộng là JPG là tệp?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "File thực thi"
+                },
+                {
+                    "id": "B",
+                    "content": "File ảnh"
+                },
+                {
+                    "id": "C",
+                    "content": "File văn bản"
+                },
+                {
+                    "id": "D",
+                    "content": "File âm thanh"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 57,
+            "question": "Tệp tin có phần mở rộng là MP3 cho ta biết đây là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "File ảnh"
+                },
+                {
+                    "id": "B",
+                    "content": "File âm thanh"
+                },
+                {
+                    "id": "C",
+                    "content": "File thực thi"
+                },
+                {
+                    "id": "D",
+                    "content": "File văn bản"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 58,
+            "question": "Trong MS Windows, biểu tượng của thư mục thường có màu gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xanh"
+                },
+                {
+                    "id": "B",
+                    "content": "Vàng"
+                },
+                {
+                    "id": "C",
+                    "content": "Tím"
+                },
+                {
+                    "id": "D",
+                    "content": "Đỏ"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 59,
+            "question": "Nguyên tắc tổ chức file và thư mục trong hệ điều hành Windows 7 dựa trên cấu trúc nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cấu trúc đồ thị"
+                },
+                {
+                    "id": "B",
+                    "content": "Cấu trúc cây"
+                },
+                {
+                    "id": "C",
+                    "content": "Cấu trúc chu trình"
+                },
+                {
+                    "id": "D",
+                    "content": "Cấu trúc lặp"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 60,
+            "question": "Trong Windows 7, thư mục được tổ chức dưới dạng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dây"
+                },
+                {
+                    "id": "B",
+                    "content": "Cây"
+                },
+                {
+                    "id": "C",
+                    "content": "Chuỗi"
+                },
+                {
+                    "id": "D",
+                    "content": "Đồ thị"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 61,
+            "question": "Các biểu tượng nào sau đây trên nền Desktop của hệ điều hành Windows 7 được gọi là biểu tượng Shortcut?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "My Computer, My Documents, Recycle Bin"
+                },
+                {
+                    "id": "B",
+                    "content": "Microsoft Word, My Computer, Unikey"
+                },
+                {
+                    "id": "C",
+                    "content": "Không có đáp án đúng"
+                },
+                {
+                    "id": "D",
+                    "content": "Microsoft Word, Micrsoft Excel, Unikey"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 62,
+            "question": "Theo nguyên tắc quản lý file, thư mục của hệ điều hành Windows, phát biểu nào sau đây không đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trong một thư mục có thể chứa các file và thư mục con khác"
+                },
+                {
+                    "id": "B",
+                    "content": "Trong một file có thể không chứa thông tin"
+                },
+                {
+                    "id": "C",
+                    "content": "Không có đáp án đúng"
+                },
+                {
+                    "id": "D",
+                    "content": "Trong một file có thể chứa các file và thư mục con khác"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 63,
+            "question": "Phát biểu nào sau đây là đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tệp có thể chứa 2 tệp khác"
+                },
+                {
+                    "id": "B",
+                    "content": "Tệp có thể chứa thư mục"
+                },
+                {
+                    "id": "C",
+                    "content": "Tệp có thể chứa ổ đĩa"
+                },
+                {
+                    "id": "D",
+                    "content": "Tệp là đơn vị lưu trữ thông tin nhỏ nhất, không thể chứa tệp, thư mục khác"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 64,
+            "question": "Trong hệ điều hành Windows, phần mở rộng trong tên file đảm nhận chức năng nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quy định kích thước file"
+                },
+                {
+                    "id": "B",
+                    "content": "Quy định thuộc tính file"
+                },
+                {
+                    "id": "C",
+                    "content": "Quy định định dạng file"
+                },
+                {
+                    "id": "D",
+                    "content": "Quy định kiểu file"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 65,
+            "question": "Phần mở rộng của tệp tin ngăn cách nhau bởi dấu gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dấu chấm than (!)"
+                },
+                {
+                    "id": "B",
+                    "content": "@"
+                },
+                {
+                    "id": "C",
+                    "content": "*"
+                },
+                {
+                    "id": "D",
+                    "content": "Dấu chấm (.)"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 66,
+            "question": "Muốn sắp xếp các biểu tượng trên desktop theo tên, ta chọn chuột phải lên nền desktop/chọn Sort by và chọn",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Size"
+                },
+                {
+                    "id": "B",
+                    "content": "Item Type"
+                },
+                {
+                    "id": "C",
+                    "content": "Date Modified"
+                },
+                {
+                    "id": "D",
+                    "content": "Name"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 67,
+            "question": "Khi muốn sắp xếp các biểu tượng trên Desktop ta tiến hành cách nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhấp chuột phải lên Computer, chọn Arrange Icons By…"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhấp chuột phải lên nút Start, chọn New shortcut…"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhấp chuột phải lên nút Start, chọn Arrange Icons By…"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhấp chuột phải trên Desktop, chon Arrange Icons By…"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 68,
+            "question": "Trong Windows, muốn tạo 1 thư mục mới trên ổ đĩa D:\\ ta thực hiện",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert - New - Folder"
+                },
+                {
+                    "id": "B",
+                    "content": "File - New - Shortcut"
+                },
+                {
+                    "id": "C",
+                    "content": "Edit - New – Folder"
+                },
+                {
+                    "id": "D",
+                    "content": "Chuột phải chọn New - Folder"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 69,
+            "question": "Trong hệ điều hành Windows, muốn tạo mới một thư mục, ta mở đường dẫn cần chứa thư mục và thực hiện thao tác nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bấm Ctrl + N, gõ tên thư mục mới và bấm Enter"
+                },
+                {
+                    "id": "B",
+                    "content": "Bấm F2, gõ tên thư mục mới và bấm Enter"
+                },
+                {
+                    "id": "C",
+                    "content": "Không có đáp án đúng"
+                },
+                {
+                    "id": "D",
+                    "content": "Kích chuột phải, chọn New/ Folder, gõ tên thư mục mới và bấm Enter"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 70,
+            "question": "Trong hệ điều hành Windows, xâu kí tự nào dưới đây không thể dùng làm tên tệp?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giaymoi.doc"
+                },
+                {
+                    "id": "B",
+                    "content": "Baitap.pas"
+                },
+                {
+                    "id": "C",
+                    "content": "Anh.bmp"
+                },
+                {
+                    "id": "D",
+                    "content": "http://vtv.vn"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 71,
+            "question": "Bạn đang làm việc với hệ điều hành Microsoft Windows 7. Bạn muốn tạo một thư mục mới có tên Báo Cáo trên desktop, nhưng đã có sẵn một thư mục khác có cùng tên trên desktop. Điều gì sẽ xảy ra khi bạn cố tạo thư mục Báo Cáo",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hệ điều hành tự động xoá thư mục trên desktop và cho phép bạn tạo ra một thư mục mới"
+                },
+                {
+                    "id": "B",
+                    "content": "Một thông báo xuất hiện báo cho bạn rằng có thư mục khác có cùng tên như thế, những vẫn cho bạn tạo thư mục đó"
+                },
+                {
+                    "id": "C",
+                    "content": "Không sao cả. Bạn có thể có nhiều thư mục khác nhau với tên trùng nhau trên desktop"
+                },
+                {
+                    "id": "D",
+                    "content": "Một thông báo xuất hiện báo cho bạn rằng đã có một thư mục cùng tên với thư mục bạn đang tạo và hỏi bạn có muốn gộp với thư mục đã có không"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 72,
+            "question": "Phần mềm Text Document dùng để tạo tệp có phần mở rộng là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "jpg"
+                },
+                {
+                    "id": "B",
+                    "content": "pas"
+                },
+                {
+                    "id": "C",
+                    "content": "pps"
+                },
+                {
+                    "id": "D",
+                    "content": "txt"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 73,
+            "question": "Trong các tên tệp sau đây, cách đặt tên tệp nào máy sẽ báo lỗi?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hoc_phan_tin_1.doc"
+                },
+                {
+                    "id": "B",
+                    "content": "Hoc,phan,tin,1.doc"
+                },
+                {
+                    "id": "C",
+                    "content": "Hoc phan tin 1.doc"
+                },
+                {
+                    "id": "D",
+                    "content": "Hoc_phan_tin1?.doc"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 74,
+            "question": "Trong các tên thư mục sau đây, tên thư mục nào máy chấp nhận?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hocphantin1:.doc"
+                },
+                {
+                    "id": "B",
+                    "content": "Hoc*phan*tin*1.doc"
+                },
+                {
+                    "id": "C",
+                    "content": "Hoc?phan?tin?1"
+                },
+                {
+                    "id": "D",
+                    "content": "Hoc_phan_tin_1"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 75,
+            "question": "Phím tắt để đổi tên tệp tin, thư mục là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl+N"
+                },
+                {
+                    "id": "B",
+                    "content": "Alt+N"
+                },
+                {
+                    "id": "C",
+                    "content": "F4"
+                },
+                {
+                    "id": "D",
+                    "content": "F2"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 76,
+            "question": "Tên thư mục trong hệ điều hành Windows 7 cần thoả mãn điều kiện nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tối đa 8 ký tự, không có khoảng trắng và các ký tự đặc biệt"
+                },
+                {
+                    "id": "B",
+                    "content": "Tối đa 255 ký tự, không bắt đầu bằng chữ số, không chứa khoảng trắng."
+                },
+                {
+                    "id": "C",
+                    "content": "Tối đa 8 ký tự, không chứa kí tự số"
+                },
+                {
+                    "id": "D",
+                    "content": "Tối đa 255 ký tự, không chứa các ký tự đặc biệt"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 77,
+            "question": "Tên tệp trong hệ điều hành Windows gồm mấy phần?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "3 phần"
+                },
+                {
+                    "id": "B",
+                    "content": "1 phần"
+                },
+                {
+                    "id": "C",
+                    "content": "4 phần"
+                },
+                {
+                    "id": "D",
+                    "content": "2 phần"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 78,
+            "question": "Thao tác: Chọn thư mục\\ sau đó nhấn F2, có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xóa thư mục"
+                },
+                {
+                    "id": "B",
+                    "content": "Di chuyển thư mục"
+                },
+                {
+                    "id": "C",
+                    "content": "Không có đáp án đúng"
+                },
+                {
+                    "id": "D",
+                    "content": "Đổi tên thư mục"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 79,
+            "question": "Trong hệ điều hành window, để xem thuộc tính của tệp hoặc thư mục cần làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhấn tổ hợp phím Ctrl +R, gõ tên mới cho thư mục và nhấn phím Enter"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhấn tổ hợp phím Ctrl + N, gõ tên mới và nhấn phím Enter"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhấn tổ hợp phím Ctrl + T, gõ tên mới và nhấn phím Enter"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhấp phải chuột vào tệp/thư mục, chọn Properties/xem tại Attributes"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 80,
+            "question": "Thao tác: Chọn thư mục\\nhấn Delete, có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Di chuyển thư mục"
+                },
+                {
+                    "id": "B",
+                    "content": "Đổi tên thư mục"
+                },
+                {
+                    "id": "C",
+                    "content": "Không có đáp án đúng"
+                },
+                {
+                    "id": "D",
+                    "content": "Xóa thư mục"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 81,
+            "question": "Tệp hoặc thư mục có thuộc tính chỉ đọc là thuộc tính nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Modify"
+                },
+                {
+                    "id": "B",
+                    "content": "Hidden"
+                },
+                {
+                    "id": "C",
+                    "content": "Delete"
+                },
+                {
+                    "id": "D",
+                    "content": "Read Only"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 82,
+            "question": "Trong hệ điều hành Windows, để thực hiện chọn các tệp/thư mục liền nhau trong danh sách file/thư mục cần thực hiện thao tác nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kích chuột tại file đầu, giữ phím Alt sau đó kích chuột tại file cuối"
+                },
+                {
+                    "id": "B",
+                    "content": "Kích chuột tại file đầu, giữ phím Ctrl sau đó kích chuột tại file cuối"
+                },
+                {
+                    "id": "C",
+                    "content": "Kích chuột phải tại file đầu, giữ phím F4 sau đó kích chuột tại file cuối"
+                },
+                {
+                    "id": "D",
+                    "content": "Kích chuột tại file đầu, giữ phím Shift sau đó kích chuột tại file cuối"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 83,
+            "question": "Trong hệ điều hành Windows, để thực hiện chọn các file không liên tục trong danh sách file cần tực hiện thao tác nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giữ phím Alt và kích chuột tại các file cần chọn"
+                },
+                {
+                    "id": "B",
+                    "content": "Giữ phím Shift và kích chuột tại các file cần chọn"
+                },
+                {
+                    "id": "C",
+                    "content": "Kích chuột phải tại file đầu, giữ phím F5 sau đó kích chuột tại file cuối"
+                },
+                {
+                    "id": "D",
+                    "content": "Giữ phím Ctrl và kích chuột tại các file cần chọn"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 84,
+            "question": "Trong hệ điều hành Windows, muốn chọn tất cả các đối tượng trong một cửa sổ, ta sử dụng cách nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhấn tổ hợp phím Ctrl + Shift + A"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhấn tổ hợp phím Alt + Tab"
+                },
+                {
+                    "id": "C",
+                    "content": "Không có đáp án đúng"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhấn tổ hợp phím Ctrl + A"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 85,
+            "question": "Trong hệ điều hành Windows, phải nhấn giữ phím nào khi chọn nhiều tệp hoặc thư mục không liền nhau?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Alt"
+                },
+                {
+                    "id": "B",
+                    "content": "Shift"
+                },
+                {
+                    "id": "C",
+                    "content": "Enter"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 86,
+            "question": "Trong hệ điều hành Windows, muốn sao chép các tệp đang chọn vào bộ nhớ đệm ta thực hiện",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhấn tổ hợp phím Ctrl + X hoặc nhấp phải chuột vào đối tượng chọn Copy"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhấn tổ hợp phím Ctrl + V hoặc nhấp phải chuột vào đối tượng chọn Copy"
+                },
+                {
+                    "id": "C",
+                    "content": "Không có đáp án đúng"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhấn tổ hợp phím Ctrl + C hoặc nhấp phải chuột vào đối tượng chọn Copy"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 87,
+            "question": "Trong hệ điều hành Windows, để dán các tệp/thư mục sau khi đã thực hiện lệnh copy, ta mở ổ đĩa, thư mục muốn chứa bản sao và thực hiện",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhấn tổ hợp phím Ctrl + X hoặc nhấp phải chuột vào đối tượng chọn Copy"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhấn tổ hợp phím Ctrl + V hoặc nhấp phải chuột vào đối tượng chọn Copy"
+                },
+                {
+                    "id": "C",
+                    "content": "Không có đáp án đúng"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhấn tổ hợp phím Ctrl + V hoặc nhấp phải chuột vào đối tượng chọn Paste"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 88,
+            "question": "Muốn xóa một file trong Windows, có thể thực hiện theo cách nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mở file, chọn toàn bộ nội dung file, bấm phím Delete"
+                },
+                {
+                    "id": "B",
+                    "content": "Mở file, chọn toàn bộ nội dung file, giữ phím Shift và bấm phím Delete"
+                },
+                {
+                    "id": "C",
+                    "content": "Không có đáp án đúng"
+                },
+                {
+                    "id": "D",
+                    "content": "Kích chuột phải tại file, chọn Delete"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 89,
+            "question": "Muốn xoá thư mục, ta thao tác thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhấn phím Ctrl + C"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhấn phím Ctrl + X"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl + V"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhấp phải chuột vào thư mục chọn Delete hoặc nhấn phím Delete"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 90,
+            "question": "Trong các mô tả sau, nơi lưu trữ nào chứa các tệp tin và thư mục trước khi bị xóa hoàn toàn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Inbox"
+                },
+                {
+                    "id": "B",
+                    "content": "Thư mục Documents"
+                },
+                {
+                    "id": "C",
+                    "content": "Thư mục Program File"
+                },
+                {
+                    "id": "D",
+                    "content": "Recycle Bin"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 91,
+            "question": "Phát biểu nào về chức năng của thùng rác (Recycle Bin) là đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chỉ lưu các tệp tin bị xoá từ ổ đĩa cứng"
+                },
+                {
+                    "id": "B",
+                    "content": "Lưu trữ tất cả các tệp bị xoá bởi người dùng"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ lưu trữ các tệp tin bị xoá từ ổ cứng và các thiết bị lưu trữ di động"
+                },
+                {
+                    "id": "D",
+                    "content": "Lưu các tệp tin bị xoá từ ổ cứng và ổ đĩa mạng được đặt ở nơi khác"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 92,
+            "question": "Trong hệ điều hành Windows, muốn khôi phục đối tượng đã xóa, mở cửa sổ Recycle Bin và thực hiện thao tác nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kích chuột phải tại đối tượng, chọn Restore"
+                },
+                {
+                    "id": "B",
+                    "content": "Kích chuột phải tại đối tượng, chọn Cut"
+                },
+                {
+                    "id": "C",
+                    "content": "Kích chuột phải tại đối tượng, chọn Properties"
+                },
+                {
+                    "id": "D",
+                    "content": "Không có đáp án đúng"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 93,
+            "question": "Trong hệ điều hành Windows, để phục hồi tất cả các đối tượng trọng Recycle Bin (thùng rác) ta mở Recycle Bin và chọn",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Restore all Items"
+                },
+                {
+                    "id": "B",
+                    "content": "Delete"
+                },
+                {
+                    "id": "C",
+                    "content": "Redo"
+                },
+                {
+                    "id": "D",
+                    "content": "Undo Delete"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 94,
+            "question": "Một tệp tin đã được xóa nằm trong thùng rác có thể",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Có thể khôi phục lại vị trí ban đầu"
+                },
+                {
+                    "id": "B",
+                    "content": "Không khôi phục được"
+                },
+                {
+                    "id": "C",
+                    "content": "Đã được xóa vĩnh viễn"
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ còn lại biểu tượng, nội dung đã bị xóa"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 95,
+            "question": "Phát biểu nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Có thể lấy lại dữ liệu sau khi xóa bằng nhấn tổ hợp phím Shift+Delete"
+                },
+                {
+                    "id": "B",
+                    "content": "Có thể biết được một tệp tin trên đĩa CD-ROM có kích thước bao nhiêu Byte"
+                },
+                {
+                    "id": "C",
+                    "content": "Thư mục có thể chứa thư mục con và tệp tin"
+                },
+                {
+                    "id": "D",
+                    "content": "Có thể sao dữ liệu ra các thiết bị lưu trữ khác nhau"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 96,
+            "question": "Trong Recycle Bin, để biết chính xác vị trí của một file đã xoá, có thể sử dụng cách nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kích View, chọn Details"
+                },
+                {
+                    "id": "B",
+                    "content": "Kích chuột phải tại file, chọn Properties"
+                },
+                {
+                    "id": "C",
+                    "content": "Xem phần Details trong khung bên trái màn hình"
+                },
+                {
+                    "id": "D",
+                    "content": "Không có đáp án đúng"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 97,
+            "question": "Các tệp, thư mục trong USB, khi xóa thì đối tượng sẽ được lưu ở đâu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xóa khỏi máy tính"
+                },
+                {
+                    "id": "B",
+                    "content": "Lưu ở Recycle Bin"
+                },
+                {
+                    "id": "C",
+                    "content": "Có thể được phục hồi khi mở My Documents"
+                },
+                {
+                    "id": "D",
+                    "content": "Có thể được phục hồi khi mở Computer"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 98,
+            "question": "Chọn thư mục, ấn tổ hợp phím Shift + Delete, điều gì sẽ xảy ra?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thư mục bị xoá vĩnh viễn khỏi máy"
+                },
+                {
+                    "id": "B",
+                    "content": "Thư mục bị đưa vào thùng rác"
+                },
+                {
+                    "id": "C",
+                    "content": "Phục hồi thư mục từ trong thùng rác"
+                },
+                {
+                    "id": "D",
+                    "content": "Không có đáp án đúng"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 99,
+            "question": "Muốn xoá vĩnh viễn thư mục ra khỏi máy, ta thao tác thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chọn thư mục và nhấn tổ hợp phím Shift + Delete"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhấn tổ hợp phím Ctrl + A"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhấn tổ hợp phím Ctrl +B"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhấn tổ hợp phím Ctrl + Z"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 100,
+            "question": "Muốn xóa vĩnh viễn, không cần phục hồi các tệp hoặc thư mục được chọn, cần thực hiện thao tác nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giữ phím Shift và kích chuột phải, chọn Delete"
+                },
+                {
+                    "id": "B",
+                    "content": "Giữ phím Ctrl và kích chuột phải, chọn Delete"
+                },
+                {
+                    "id": "C",
+                    "content": "Giữ phím Alt và kích chuột phải, chọn Delete"
+                },
+                {
+                    "id": "D",
+                    "content": "Giữ phím Insert và kích chuột phải, chọn phím Enter"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 101,
+            "question": "Để khởi động chức năng tìm kiếm thông tin trong Windows, thao tác nào sau đây không đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kích chuột phải tại Desktop, chọn Search"
+                },
+                {
+                    "id": "B",
+                    "content": "Kích nút Start, chọn Search"
+                },
+                {
+                    "id": "C",
+                    "content": "Kích nút Search trong cửa sổ My Computer"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhập từ khóa trong ô tìm kiếm trên Windows Explorer, sau đó chọn Date Modified và Size để tìm kiếm theo ngày sửa và kích thước file"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 102,
+            "question": "Chức năng tìm kiếmtrong hệ điều hành Windows 7 cho phép tìm file và folders theo?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tên, Ngày chỉnh sửa, Kích thước"
+                },
+                {
+                    "id": "B",
+                    "content": "Ngày tạo"
+                },
+                {
+                    "id": "C",
+                    "content": "Nội dung trong file"
+                },
+                {
+                    "id": "D",
+                    "content": "Hình ảnh trong file"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 103,
+            "question": "Các kí tự nào sau đây được sử dụng để thay thế tên file trong thao tác tìm kiếm?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kí tự * và ?"
+                },
+                {
+                    "id": "B",
+                    "content": "Kí tự & và @"
+                },
+                {
+                    "id": "C",
+                    "content": "Kí tự ! và %"
+                },
+                {
+                    "id": "D",
+                    "content": "Kí tự & và $"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 104,
+            "question": "Khi tìm kiếm tập tin, thư mục, ký tự * dùng để làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thay thế cho 1 số ký tự"
+                },
+                {
+                    "id": "B",
+                    "content": "Không thể thay thế cho ký tự"
+                },
+                {
+                    "id": "C",
+                    "content": "Thay thế cho dấu cách"
+                },
+                {
+                    "id": "D",
+                    "content": "Thay thế cho từ khóa"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 105,
+            "question": "Mục đích của việc nén dữ liệu (Data compression) là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giảm dung lượng lưu trữ"
+                },
+                {
+                    "id": "B",
+                    "content": "Mã hóa dữ liệu để người khác không đọc được"
+                },
+                {
+                    "id": "C",
+                    "content": "Để sắp xếp lại thư mục theo nhóm"
+                },
+                {
+                    "id": "D",
+                    "content": "Chuyển đổi định dạng dữ liệu của file từ .doc sang .rar"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 106,
+            "question": "Ứng dụng nào được sử dụng mở các tệp tin có phần mở rộng là RAR, ZIP là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Winrar, WinZip"
+                },
+                {
+                    "id": "B",
+                    "content": "Windows 7"
+                },
+                {
+                    "id": "C",
+                    "content": "Windows 8"
+                },
+                {
+                    "id": "D",
+                    "content": "Windows 10"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 107,
+            "question": "Tệp tin có phần mở rộng là RAR, ZIP cho ta biết là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "File nén"
+                },
+                {
+                    "id": "B",
+                    "content": "File thực thi"
+                },
+                {
+                    "id": "C",
+                    "content": "File video"
+                },
+                {
+                    "id": "D",
+                    "content": "File văn bản"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 108,
+            "question": "Lựa chọn nào chỉ ra tiện ích của tệp tin nén?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tệp tin nén có kích thước nhỏ hơn kích thước của tệp tin ban đầu và thông tin ban đầu không bị mất"
+                },
+                {
+                    "id": "B",
+                    "content": "Nội dung của tệp tin RAR xem được ở bất kì máy tính nào mà không cần bất kì phần mềm cụ thể nào"
+                },
+                {
+                    "id": "C",
+                    "content": "Ai cũng mở được mà không cần mật khẩu"
+                },
+                {
+                    "id": "D",
+                    "content": "Tệp tin ban đầu có dung lượng nhỏ hơn dung lượng của tệp tin nén"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 109,
+            "question": "Ứng dụng nào được sử dụng để xem nội dung của tệp Reports.zip?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chương trình nén và giải nén"
+                },
+                {
+                    "id": "B",
+                    "content": "Trình xử lý văn bản word"
+                },
+                {
+                    "id": "C",
+                    "content": "Ứng dụng trang tính"
+                },
+                {
+                    "id": "D",
+                    "content": "Trình duyệt web"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 110,
+            "question": "Bạn cần gửi 24 tệp tin có kích thước lớn bằng email. Làm thế nào để bạn có thể gửi chúng nhanh và hiệu quả hơn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sử dụng chương trình nén để nén và gửi tệp tin nén này với dung lượng nhỏ hơn"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhóm các tệp tin thành từng nhóm sao cho ít tệp tin hơn được gửi, với cùng nội dung và dung lượng"
+                },
+                {
+                    "id": "C",
+                    "content": "Gửi từng tệp"
+                },
+                {
+                    "id": "D",
+                    "content": "Tạo một tệp chứa 24 tệp tin ban đầu"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 111,
+            "question": "Chương trình nào được thiết kế để phát hiện, ngăn chặn, loại bỏ và phòng chống virus máy tính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Antivirus"
+                },
+                {
+                    "id": "B",
+                    "content": "Worm"
+                },
+                {
+                    "id": "C",
+                    "content": "Malware"
+                },
+                {
+                    "id": "D",
+                    "content": "Spyware"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 112,
+            "question": "Bộ gõ nào hỗ trợ gõ tiếng việt trong hệ điều hành Windows 7?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Unikey"
+                },
+                {
+                    "id": "B",
+                    "content": "Laban Key"
+                },
+                {
+                    "id": "C",
+                    "content": "Google Voice Inout"
+                },
+                {
+                    "id": "D",
+                    "content": "Không có đáp án đúng"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 113,
+            "question": "Phông chữ quy định trong TT03/2014/TT-BTTTT khi soạn thảo văn bản là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Times New Roman"
+                },
+                {
+                    "id": "B",
+                    "content": "Tahoma"
+                },
+                {
+                    "id": "C",
+                    "content": "Arial"
+                },
+                {
+                    "id": "D",
+                    "content": "Verdana"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 114,
+            "question": "Nếu bạn đang gõ từ có dấu, để bỏ dấu nhấn phím gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Z"
+                },
+                {
+                    "id": "B",
+                    "content": "A"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl + A"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl +N"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 115,
+            "question": "Khi đang soạn thảo văn bản sử dụng bộ gõ tiếng Việt Unikey, tổ hợp phím Ctrl + Shift có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chuyển chế độ gõ tiếng Anh sang tiếng Việt hoặc ngược lại tiếng Việt sang tiếng Anh"
+                },
+                {
+                    "id": "B",
+                    "content": "Chuyển chế độ bảng mã Unicode sang TCVN3"
+                },
+                {
+                    "id": "C",
+                    "content": "Tắt chương trình gõ tiếng Việt"
+                },
+                {
+                    "id": "D",
+                    "content": "Đóng bảng điều khiển chương trình gõ tiếng Việt"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 116,
+            "question": "Để chuyển đổi font từ dạng TCVN3 sang UNICODE hoặc ngược lại thì dùng chương trình gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Unikey"
+                },
+                {
+                    "id": "B",
+                    "content": "ABC"
+                },
+                {
+                    "id": "C",
+                    "content": "Vietkey"
+                },
+                {
+                    "id": "D",
+                    "content": "Laban Key"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 117,
+            "question": "Trong hệ điều hành, để xem danh sách các máy in đã được cài đặt, ta có thể sử dụng công cụ nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Printers and Faxes"
+                },
+                {
+                    "id": "B",
+                    "content": "Device Manager"
+                },
+                {
+                    "id": "C",
+                    "content": "System Informations"
+                },
+                {
+                    "id": "D",
+                    "content": "Default Programs"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 118,
+            "question": "Để chọn một máy in sử dụng thường xuyên trong danh sách các máy in đã cài đặt, thực hiện thao tác nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kích chuột phải tại biểu tượng máy in, chọn Set as Default Printer"
+                },
+                {
+                    "id": "B",
+                    "content": "Kích chuột phải tại biểu tượng máy in, chọn Use Printer"
+                },
+                {
+                    "id": "C",
+                    "content": "Kích chuột phải tại biểu tượng máy in, chọn Always Use Printer"
+                },
+                {
+                    "id": "D",
+                    "content": "Kích chuột phải tại biểu tượng máy tin, chọn Defaut Printer"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 119,
+            "question": "Để cài đặt máy in ta cần có những gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Driver, máy tính, máy in đã kết nối với máy tính"
+                },
+                {
+                    "id": "B",
+                    "content": "Mạng internet"
+                },
+                {
+                    "id": "C",
+                    "content": "Máy tính xách tay"
+                },
+                {
+                    "id": "D",
+                    "content": "Máy in"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 120,
+            "question": "Để in một tệp thì nhấn tổ hợp phím nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl+P"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl+R"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl+I"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl+Shift+F11"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        }
+    ]
+}

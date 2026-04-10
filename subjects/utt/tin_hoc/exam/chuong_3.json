@@ -1,0 +1,2886 @@
+{
+    "title": "CHƯƠNG 3",
+    "total_questions": 120,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Internet có nghĩa là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hệ thống thông tin toàn cầu có thể được truy nhập công cộng gồm các máy tính được liên kết với nhau"
+                },
+                {
+                    "id": "B",
+                    "content": "Hệ thống thông tin toàn cầu có thể được truy nhập công cộng gồm các mạng máy tính trong một cơ quan được liên kết với nhau"
+                },
+                {
+                    "id": "C",
+                    "content": "Hệ thống thông tin toàn cầu có thể được truy nhập công cộng gồm các mạng máy tính được liên kết với nhau"
+                },
+                {
+                    "id": "D",
+                    "content": "Hệ thống thông tin toàn cầu có thể được truy nhập công cộng gồm các mạng máy tính trong một quốc gia được liên kết với nhau"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 2,
+            "question": "Phát biểu nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "WWW là từ viết tắt của World Wide Web"
+                },
+                {
+                    "id": "B",
+                    "content": "Chúng ta có thể đăng ký để sử dụng thư miễn phí tại địa chỉ MAIL.YAHOO.COM"
+                },
+                {
+                    "id": "C",
+                    "content": "Internet là dịch vụ do công ty Internet tại Mỹ điều hành và thu phí"
+                },
+                {
+                    "id": "D",
+                    "content": "Thư điện tử là nền tảng cho việc xây dựng văn phòng không giấy tờ"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 3,
+            "question": "Thứ tự kết nối Internet theo đường quay số theo bạn là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Máy tính - điện thoại - modem - ISP (Internet Service Provider)"
+                },
+                {
+                    "id": "B",
+                    "content": "Máy tính - ISP - điện thoại – modem"
+                },
+                {
+                    "id": "C",
+                    "content": "Máy tính - modem - điện thoại - ISP"
+                },
+                {
+                    "id": "D",
+                    "content": "Máy tính - điện thoại - ISP - modem"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 4,
+            "question": "ISP là viết tắt của",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Internet Server Provider"
+                },
+                {
+                    "id": "B",
+                    "content": "Internet Super Provider"
+                },
+                {
+                    "id": "C",
+                    "content": "Internet Service Provider"
+                },
+                {
+                    "id": "D",
+                    "content": "Không có phương án đúng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 5,
+            "question": "WWW là viết tắt của?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Word Wide Wed"
+                },
+                {
+                    "id": "B",
+                    "content": "Word Wide Website"
+                },
+                {
+                    "id": "C",
+                    "content": "World Wide Web"
+                },
+                {
+                    "id": "D",
+                    "content": "Word Wild Web"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 6,
+            "question": "Mỗi thiết bị khi tham gia vào một mạng máy tính nào đó cũng đều có",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Địa chỉ nhà"
+                },
+                {
+                    "id": "B",
+                    "content": "Mã sản phẩm"
+                },
+                {
+                    "id": "C",
+                    "content": "Địa chỉ IP"
+                },
+                {
+                    "id": "D",
+                    "content": "GPS"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 7,
+            "question": "HTTP là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là ngôn ngữ để soạn thảo nội dung các trang Web"
+                },
+                {
+                    "id": "B",
+                    "content": "Là tên của trang web"
+                },
+                {
+                    "id": "C",
+                    "content": "Là giao thức truyền tải siêu văn bản"
+                },
+                {
+                    "id": "D",
+                    "content": "Là địa chỉ của trang Web"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 8,
+            "question": "Địa chỉ nào không phải là địa chỉ trang web?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "www.laodong.com.vn"
+                },
+                {
+                    "id": "B",
+                    "content": "ngoisao.net"
+                },
+                {
+                    "id": "C",
+                    "content": "ninhbinh@yahoo.com"
+                },
+                {
+                    "id": "D",
+                    "content": "mail.yahoo.com"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 9,
+            "question": "Đâu là định nghĩa đúng nhất về trang Web?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là trang văn bản thông thường"
+                },
+                {
+                    "id": "B",
+                    "content": "Là trang văn bản chứa các liên kết cơ sở dữ liệu ở bên trong nó"
+                },
+                {
+                    "id": "C",
+                    "content": "Là trang siêu văn bản phối hợp giữa văn bản thông thường với hình ảnh, âm thanh, video và cả các mối liên kết đến các trang siêu văn bản khác"
+                },
+                {
+                    "id": "D",
+                    "content": "Là trang văn bản chứa văn bản, hình ảnh"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 10,
+            "question": "\"Link\" trên trang web có nghĩa là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Liên kết đến 1 trang web khác"
+                },
+                {
+                    "id": "B",
+                    "content": "Liên kết"
+                },
+                {
+                    "id": "C",
+                    "content": "Liên kết đến 1 liên kết khác"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả đều đúng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 11,
+            "question": "Đây là cụm từ viết tắt của địa chỉ tài nguyên trên Internet?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "URL (Universe Resource Internet)"
+                },
+                {
+                    "id": "B",
+                    "content": "URL (Uniform Resource Location)"
+                },
+                {
+                    "id": "C",
+                    "content": "URL (Uniform Resource Locator)"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều đúng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 12,
+            "question": "Đâu là định nghĩa siêu liên kết?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dùng tải các ứng dụng trên Internet xuống"
+                },
+                {
+                    "id": "B",
+                    "content": "Dùng liên kết với các tài liệu trên Internet"
+                },
+                {
+                    "id": "C",
+                    "content": "Dùng liên kết các tài nguyên trên Internet qua các đường link trên trang Web"
+                },
+                {
+                    "id": "D",
+                    "content": "Dùng liên kết các đường dẫn trong một website"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 13,
+            "question": "Thuật ngữ nào dùng để chỉ các trang tin tức trên mạng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trình duyệt Web"
+                },
+                {
+                    "id": "B",
+                    "content": "Tên miền .net"
+                },
+                {
+                    "id": "C",
+                    "content": "Website"
+                },
+                {
+                    "id": "D",
+                    "content": "Webserver"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 14,
+            "question": "Internet Explorer là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1 chuẩn mạng cục bộ"
+                },
+                {
+                    "id": "B",
+                    "content": "Bộ giao thức"
+                },
+                {
+                    "id": "C",
+                    "content": "Website"
+                },
+                {
+                    "id": "D",
+                    "content": "Thiết bị kết nối các mạng trên Internet"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 15,
+            "question": "Mozilla Firefox là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1 chuẩn mạng cục bộ"
+                },
+                {
+                    "id": "B",
+                    "content": "Bộ giao thức"
+                },
+                {
+                    "id": "C",
+                    "content": "Trình duyệt web"
+                },
+                {
+                    "id": "D",
+                    "content": "Thiết bị kết nối các mạng trên Internet"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 16,
+            "question": "Google Chrome là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1 chuẩn mạng cục bộ"
+                },
+                {
+                    "id": "B",
+                    "content": "Bộ giao thức"
+                },
+                {
+                    "id": "C",
+                    "content": "Trình duyệt web"
+                },
+                {
+                    "id": "D",
+                    "content": "Thiết bị kết nối các mạng trên Internet"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 17,
+            "question": "Opera là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1 chuẩn mạng cục bộ"
+                },
+                {
+                    "id": "B",
+                    "content": "Bộ giao thức"
+                },
+                {
+                    "id": "C",
+                    "content": "Trình duyệt web"
+                },
+                {
+                    "id": "D",
+                    "content": "Thiết bị kết nối các mạng trên Internet"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 18,
+            "question": "Chương trình được sử dụng để xem các trang Web được gọi là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bộ duyệt Web"
+                },
+                {
+                    "id": "B",
+                    "content": "Chương trình xem Web"
+                },
+                {
+                    "id": "C",
+                    "content": "Trình duyệt Web"
+                },
+                {
+                    "id": "D",
+                    "content": "Phần mềm xem Web"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 19,
+            "question": "Để xem một trang Web, ta cần gõ địa chỉ của trang đó vào đâu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thanh công cụ chuẩn của trình duyệt"
+                },
+                {
+                    "id": "B",
+                    "content": "Thanh liên kết của trình duyệt"
+                },
+                {
+                    "id": "C",
+                    "content": "Thanh địa chỉ của trình duyệt"
+                },
+                {
+                    "id": "D",
+                    "content": "Thanh trạng thái của trình duyệt"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 20,
+            "question": "Muốn xem được trang web, máy tính của bạn cần phải cài đặt",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Outlook Express"
+                },
+                {
+                    "id": "B",
+                    "content": "MS-FronPage"
+                },
+                {
+                    "id": "C",
+                    "content": "Một chương trình duyệt web"
+                },
+                {
+                    "id": "D",
+                    "content": "MS-Word"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 21,
+            "question": "Phần mềm nào sau đây không phải là trình duyệt Web",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Internet Explorer"
+                },
+                {
+                    "id": "B",
+                    "content": "Firefox"
+                },
+                {
+                    "id": "C",
+                    "content": "FireBug"
+                },
+                {
+                    "id": "D",
+                    "content": "Chromium"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 22,
+            "question": "Phát biểu nào sau là đúng về Mozilla Firefox và Chromium",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chỉ có Mozilla Firefox là trình duyệt web"
+                },
+                {
+                    "id": "B",
+                    "content": "Chỉ có Chromium là trình duyệt web"
+                },
+                {
+                    "id": "C",
+                    "content": "Mozilla Firefox và Chromium là các trình duyệt web"
+                },
+                {
+                    "id": "D",
+                    "content": "Mozila Firefox là trình duyệt web còn Chromium là phần mềm tìm kiếm"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 23,
+            "question": "Nút nào trên thanh công cụ của trình duyệt web cho phép bạn tìm kiếm thông tin trên WWW?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Home"
+                },
+                {
+                    "id": "B",
+                    "content": "Refresh"
+                },
+                {
+                    "id": "C",
+                    "content": "Search"
+                },
+                {
+                    "id": "D",
+                    "content": "Next"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 24,
+            "question": "Tường lửa là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Một hệ thống được xây dựng để đảm bảo an ninh cho công ty"
+                },
+                {
+                    "id": "B",
+                    "content": "Một hệ thống báo cháy"
+                },
+                {
+                    "id": "C",
+                    "content": "Tường lửa là một thiết bị phần cứng và/hoặc một phần mềm hoạt động trong một môi trường máy tính nối mạng có mục đích chống lại sự xâm nhập trái phép từ Internet"
+                },
+                {
+                    "id": "D",
+                    "content": "Một hệ thống bảo mật thông tin"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 25,
+            "question": "Dấu hiệu nhận biết một website an toàn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giao diện đẹp, chức năng và menu có sắp thứ tự"
+                },
+                {
+                    "id": "B",
+                    "content": "Có logo chứng nhận bảo mật trên website"
+                },
+                {
+                    "id": "C",
+                    "content": "Sử dụng giao thức bảo mật để truyền tải nội dung"
+                },
+                {
+                    "id": "D",
+                    "content": "Có địa chỉ công ty xây dựng website"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 26,
+            "question": "Trình duyệt web không thể hiển thị trang web yêu cầu, có thể do:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Địa chỉ truy cập không nằm trên máy chủ của Việt Nam"
+                },
+                {
+                    "id": "B",
+                    "content": "Địa chỉ truy cập không được lưu vào bộ nhớ đệm của trình duyệt"
+                },
+                {
+                    "id": "C",
+                    "content": "Địa chỉ truy cập không tồn tại hoặc địa chỉ truy cập bị nhà quản trị mạng ngăn không cho truy cập"
+                },
+                {
+                    "id": "D",
+                    "content": "Địa chỉ truy cập là một trang web cá nhân"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 27,
+            "question": "Phát biểu nào dưới đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mở nhiều cửa sổ duyệt web cho nhiều địa chỉ web khác nhau."
+                },
+                {
+                    "id": "B",
+                    "content": "Vừa mở cửa sổ duyệt web, vừa chơi game trong lúc chờ trang web xuất hiện đầy đủ nội dung."
+                },
+                {
+                    "id": "C",
+                    "content": "Nhấn nút BACK để đóng cửa sổ duyệt Web."
+                },
+                {
+                    "id": "D",
+                    "content": "Nhấn nút REFRESH là để bắt đầu lại quá trình tải trang web từ máy phục vụ về máy cá nhân của người dùng."
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 28,
+            "question": "Các thành phần của tên miền được phân cách bằng ký tự gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dấu “,”"
+                },
+                {
+                    "id": "B",
+                    "content": "Dấu “#”"
+                },
+                {
+                    "id": "C",
+                    "content": "Dấu “.”"
+                },
+                {
+                    "id": "D",
+                    "content": "Dấu \";\""
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 29,
+            "question": "Để truy cập vào một trang Web chúng ta cần phải biết:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hệ điều hành đang sử dụng"
+                },
+                {
+                    "id": "B",
+                    "content": "Trang web đó của nước nào"
+                },
+                {
+                    "id": "C",
+                    "content": "Địa chỉ của trang web"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả đều sai"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 30,
+            "question": "Để truy cập vào một Website ta phải biết",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "IP của của máy tính"
+                },
+                {
+                    "id": "B",
+                    "content": "Website đó được đặt tại máy chủ nào"
+                },
+                {
+                    "id": "C",
+                    "content": "Tên miền của Website đó"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả đều sai"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 31,
+            "question": "Địa chỉ nào không phải là địa chỉ trang web?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "www.laodong.com.vn"
+                },
+                {
+                    "id": "B",
+                    "content": "ninhbinh@yahoo.com"
+                },
+                {
+                    "id": "C",
+                    "content": "ngoisao.net"
+                },
+                {
+                    "id": "D",
+                    "content": "mail.yahoo.com"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 32,
+            "question": "Trong Internet Explorer phiên bản 7 hoặc mới hơn, phím tắt để thêm một Tab?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl+N"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl+T"
+                },
+                {
+                    "id": "C",
+                    "content": "Alt+N"
+                },
+                {
+                    "id": "D",
+                    "content": "Alt+H"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 33,
+            "question": "Trong Internet Explorer phiên bản 7 hoặc mới hơn, phím tắt chuyển đến Tab liền kề bên trái?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl+Tab"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl+Shift+Tab"
+                },
+                {
+                    "id": "C",
+                    "content": "Alt+Tab"
+                },
+                {
+                    "id": "D",
+                    "content": "Alt+Shift+Tab"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 34,
+            "question": "Trong Internet Explorer phiên bản 7 hoặc mới hơn, phím tắt chuyển đến Tab liền kề bên phải?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl+Shift+Tab"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl+Tab"
+                },
+                {
+                    "id": "C",
+                    "content": "Alt+Tab"
+                },
+                {
+                    "id": "D",
+                    "content": "Alt+Shift+Tab"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 35,
+            "question": "Trong Internet Explorer phiên bản 7 hoặc mới hơn, phím tắt Ctrl + Tab dùng để làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thêm 1 tab mới"
+                },
+                {
+                    "id": "B",
+                    "content": "Chuyển đến Tab liền kề bên phải"
+                },
+                {
+                    "id": "C",
+                    "content": "Trở về trang chủ"
+                },
+                {
+                    "id": "D",
+                    "content": "Thoát khỏi trình duyệt web"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 36,
+            "question": "Trong Internet Explorer phiên bản 7 hoặc mới hơn, phím tắt để đóng một Tab?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl+Q"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl+W"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl+C"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl+F4"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 37,
+            "question": "Trong Internet Explorer phiên bản 7 hoặc mới hơn, phím tắt Ctrl + W dùng để làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thêm 1 tab mới"
+                },
+                {
+                    "id": "B",
+                    "content": "Xóa 1 tab"
+                },
+                {
+                    "id": "C",
+                    "content": "Trở về trang chủ"
+                },
+                {
+                    "id": "D",
+                    "content": "Thoát khỏi trình duyệt web"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 38,
+            "question": "Nút nào trên thanh công cụ của trình duyệt web cho phép tải lại một trang web?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Home"
+                },
+                {
+                    "id": "B",
+                    "content": "Refresh"
+                },
+                {
+                    "id": "C",
+                    "content": "Back"
+                },
+                {
+                    "id": "D",
+                    "content": "Next"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 39,
+            "question": "Nút Refresh trên thanh công cụ của trình duyệt Web cho phép?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đi đến một trang web khác"
+                },
+                {
+                    "id": "B",
+                    "content": "Tải lại một trang web"
+                },
+                {
+                    "id": "C",
+                    "content": "Trở về trang chủ"
+                },
+                {
+                    "id": "D",
+                    "content": "Thoát khỏi trình duyệt web"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 40,
+            "question": "Để ngừng tải nội dung một trang Web từ máy chủ, kích chuột tại nút nào sau đây trong cửa sổ trình duyệt?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Disconnect"
+                },
+                {
+                    "id": "B",
+                    "content": "Stop"
+                },
+                {
+                    "id": "C",
+                    "content": "End"
+                },
+                {
+                    "id": "D",
+                    "content": "Start"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 41,
+            "question": "Nút Stop trên cửa số trình duyệt web dùng để làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Về ttrang chủ"
+                },
+                {
+                    "id": "B",
+                    "content": "Ngừng tải nội dung trang Web"
+                },
+                {
+                    "id": "C",
+                    "content": "Chuyển đến một liên kết khác"
+                },
+                {
+                    "id": "D",
+                    "content": "Đóng trình duyệt Web"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 42,
+            "question": "Nút nào trên thanh công cụ của trình duyệt web cho phép tải lại một trang web?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Home"
+                },
+                {
+                    "id": "B",
+                    "content": "Refresh"
+                },
+                {
+                    "id": "C",
+                    "content": "Back"
+                },
+                {
+                    "id": "D",
+                    "content": "Next"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 43,
+            "question": "Nút Refresh trên thanh công cụ của trình duyệt Web cho phép?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đi đến một trang web khác"
+                },
+                {
+                    "id": "B",
+                    "content": "Tải lại một trang web"
+                },
+                {
+                    "id": "C",
+                    "content": "Trở về trang chủ"
+                },
+                {
+                    "id": "D",
+                    "content": "Thoát khỏi trình duyệt web"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 44,
+            "question": "Nút “Home” trên trang web có nghĩa là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đi đến trang trước"
+                },
+                {
+                    "id": "B",
+                    "content": "Đi đến trang chủ"
+                },
+                {
+                    "id": "C",
+                    "content": "Đi đến nhà"
+                },
+                {
+                    "id": "D",
+                    "content": "Không có ý nghĩa gì, chỉ để trang trí"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 45,
+            "question": "Trong quá trình sử dụng trình duyệt Firefox, muốn xóa toàn bộ lịch sử duyệt web, người dùng có thể thao tác như thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào View chon Restore Tabs"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào History chọn Clear Recent History"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào History chọn Recently Closed Tab"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào History chọn Restore Closed Tab"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 46,
+            "question": "Tin nhắn dạng pop-up có tác động",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Gây nguy hiểm cho hệ thống"
+                },
+                {
+                    "id": "B",
+                    "content": "Không gây nguy hiểm cho hệ thống nhưng gây khó chịu cho người dùng"
+                },
+                {
+                    "id": "C",
+                    "content": "Vừa gây nguy hiểm cho hệ thống vừa gây khó chịu cho người dùng"
+                },
+                {
+                    "id": "D",
+                    "content": "Hoàn toàn không gây nguy hiểm và khó chịu cho người dùng"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 47,
+            "question": "Khi đã thiết lập khóa cửa sổ pop-up của 1 trang web:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Toàn bộ pop-up của tất cả các trang web không được hiển thị"
+                },
+                {
+                    "id": "B",
+                    "content": "Bạn có thể tự thiết lập mở khóa trong trường hợp cần thiết"
+                },
+                {
+                    "id": "C",
+                    "content": "Bạn phải cài đặt lại trình duyệt mới hiển thị được cửa sổ pop-up"
+                },
+                {
+                    "id": "D",
+                    "content": "Bạn phải gửi thông báo tới quản trị trang web nếu muốn hiển thị lại"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 48,
+            "question": "Để xem lại lịch sử duyệt web ta dùng tổ hợp phím trên trình duyệt Internet Explorer",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl + L"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl + H"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl + P"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl + M"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 49,
+            "question": "Trong một trang web, Hyperlink là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là nội dụng được thể hiện trên Web Browser (văn bản, âm thanh, hình ảnh)"
+                },
+                {
+                    "id": "B",
+                    "content": "Là một thành phần trong một trang Web liên kết đến vị trí khác trên cùng trang Web đó hoặc liên kết đến một trang Web khác"
+                },
+                {
+                    "id": "C",
+                    "content": "Là địa chỉ của 1 trang Web"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả đều sai"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 50,
+            "question": "Nút Back trên thanh công cụ của trình duyệt Web có tác dụng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quay trở lại cửa sổ trước đó"
+                },
+                {
+                    "id": "B",
+                    "content": "Quay trở lại trang Web trước đó"
+                },
+                {
+                    "id": "C",
+                    "content": "Quay trở lại màn hình trước đó"
+                },
+                {
+                    "id": "D",
+                    "content": "Đi đến trang Web tiếp theo"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 51,
+            "question": "Nút Forward trên thanh công cụ của trình duyệt Web có tác dụng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đi đến cửa sổ trước đó"
+                },
+                {
+                    "id": "B",
+                    "content": "Đi đến trang Web tiếp theo"
+                },
+                {
+                    "id": "C",
+                    "content": "Đi đến màn hình trước đó"
+                },
+                {
+                    "id": "D",
+                    "content": "Quay lại trang Web trước đó"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 52,
+            "question": "Để quay lại trang web trước đó, ngoài nút “Back”, ta có thể dùng phím nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl + Tất cả các phương án trên"
+                },
+                {
+                    "id": "B",
+                    "content": "Backspace"
+                },
+                {
+                    "id": "C",
+                    "content": "Alt + T"
+                },
+                {
+                    "id": "D",
+                    "content": "Alt + F3"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 53,
+            "question": "Nút Back trên thanh công cụ của trình duyệt Web có tác dụng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quay trở lại cửa sổ trước đó"
+                },
+                {
+                    "id": "B",
+                    "content": "Quay trở lại trang Web trước đó"
+                },
+                {
+                    "id": "C",
+                    "content": "Quay trở lại màn hình trước đó"
+                },
+                {
+                    "id": "D",
+                    "content": "Đi đến trang Web tiếp theo"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 54,
+            "question": "Phát biểu nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mở nhiều cửa sổ duyệt web cho nhiều địa chỉ web khác nhau"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhấn nút Back để đóng cửa sổ duyệt Web"
+                },
+                {
+                    "id": "C",
+                    "content": "Vừa mở cửa sổ duyệt web, vừa chơi game trong lúc chờ trang web xuất hiện đầy đủ nội dung"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhấn nút Refresh là để bắt đầu lại quá trình tải trang web từ máy phục vụ về máy cá nhân của người dùng"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 55,
+            "question": "Trong trình duyệt Internet Explorer, để lưu lại địa chỉ của trang web ưa thích, ta thực hiện thao chọn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Edit/Favorites"
+                },
+                {
+                    "id": "B",
+                    "content": "Favorites/Add to Favorites"
+                },
+                {
+                    "id": "C",
+                    "content": "View/Favorites"
+                },
+                {
+                    "id": "D",
+                    "content": "File/Save to Favorites"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 56,
+            "question": "Xem các trang web đã đánh dấu trong trình duyệt web tại đâu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mục Favourite"
+                },
+                {
+                    "id": "B",
+                    "content": "Mục Bookmark"
+                },
+                {
+                    "id": "C",
+                    "content": "Mục All Windows"
+                },
+                {
+                    "id": "D",
+                    "content": "Mục History"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 57,
+            "question": "Trong trình duyệt Internet Explorer, để lưu lại địa chỉ của trang web ưa thích, ta thực hiện thao chọn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Edit/Favorites"
+                },
+                {
+                    "id": "B",
+                    "content": "Favorites/Add to Favorites"
+                },
+                {
+                    "id": "C",
+                    "content": "View/Favorites"
+                },
+                {
+                    "id": "D",
+                    "content": "File/Save to Favorites"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 58,
+            "question": "Đâu là tùy chọn cho phép lưu trang web mà không có ảnh?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chọn Web page/ complete"
+                },
+                {
+                    "id": "B",
+                    "content": "Chọn Web page/ Html only"
+                },
+                {
+                    "id": "C",
+                    "content": "Chọn Text file"
+                },
+                {
+                    "id": "D",
+                    "content": "Chọn Web page/ Home"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 59,
+            "question": "Đâu không phải là một thành phần của biểu mẫu (form) trên web?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hộp văn bản (Text box)"
+                },
+                {
+                    "id": "B",
+                    "content": "Hộp truy cập (Asscess box)"
+                },
+                {
+                    "id": "C",
+                    "content": "Hộp danh sách (List box)"
+                },
+                {
+                    "id": "D",
+                    "content": "Hộp kiểm tra (Check box)"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 60,
+            "question": "Sau khi hoàn thành một biểu mẫu trên web, cần thao tác thế nào để gửi biểu mẫu lên máy chủ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chọn Clear"
+                },
+                {
+                    "id": "B",
+                    "content": "Chọn Submit"
+                },
+                {
+                    "id": "C",
+                    "content": "Chọn Back"
+                },
+                {
+                    "id": "D",
+                    "content": "Chọn Next"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 61,
+            "question": "Dịch vụ công trực tuyến là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là dịch vụ hành chính công và các dịch vụ khác của cơ quan nhà nước được cung cấp cho các tổ chức, cá nhân trong mạng nội bộ của đơn vị"
+                },
+                {
+                    "id": "B",
+                    "content": "Là dịch vụ hành chính công và các dịch vụ khác của cơ quan nhà nước được cung cấp cho doanh nghiệp trên môi trường mạng"
+                },
+                {
+                    "id": "C",
+                    "content": "Là dịch vụ hành chính công và các dịch vụ khác của cơ quan nhà nước được cung cấp cho công dân trên môi trường mạng"
+                },
+                {
+                    "id": "D",
+                    "content": "Là dịch vụ hành chính công và các dịch vụ khác của cơ quan nhà nước được cung cấp cho các tổ chức, cá nhân trên môi trường mạng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 62,
+            "question": "Công cụ tìm kiếm thông tin trên Internet hiện nay",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Google"
+                },
+                {
+                    "id": "B",
+                    "content": "Bing"
+                },
+                {
+                    "id": "C",
+                    "content": "Coccoc"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 63,
+            "question": "Khách nước ngoài muốn biết được thông tin về các khách sạn tại thành phố Hà nội. Dịch vụ nào dưới đây được sử dụng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Yahoo Mail"
+                },
+                {
+                    "id": "B",
+                    "content": "Fax"
+                },
+                {
+                    "id": "C",
+                    "content": "Mobiphone"
+                },
+                {
+                    "id": "D",
+                    "content": "Trang web có hỗ trợ tìm kiếm thông tin Internet miễn phí như www.google.com"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 64,
+            "question": "Trên trang Web Google, để tìm các trang Web nói về cách trồng hoa Phong Lan, chúng ta nên gõ cụm từ nào là tốt nhất:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "phong lan"
+                },
+                {
+                    "id": "B",
+                    "content": "\"phonglan\""
+                },
+                {
+                    "id": "C",
+                    "content": "phong+lan"
+                },
+                {
+                    "id": "D",
+                    "content": "\" trồng hoa phong lan\""
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 65,
+            "question": "Để tìm kiếm nhanh trang web nói về cách thức nuôi cá Basa, ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chúng ta sử dụng trang vàng Internet có trên trang web tại địa chỉ www.vnn.vn"
+                },
+                {
+                    "id": "B",
+                    "content": "Chúng ta mở trình duyệt Web"
+                },
+                {
+                    "id": "C",
+                    "content": "Chúng ta mở trang web địa chỉ mail.yahoo.com"
+                },
+                {
+                    "id": "D",
+                    "content": "Chúng ta mở trang web địa chỉ www.google.com/Nhập nội dung \"cách thức nuôi cá Basa\" vào ô tìm kiếm"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 66,
+            "question": "Bạn làm thế nào để tìm ra địa chỉ của trang Web một cách nhanh nhất",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hỏi bạn của mình"
+                },
+                {
+                    "id": "B",
+                    "content": "Mở các liên kết tham khảo"
+                },
+                {
+                    "id": "C",
+                    "content": "Tìm trong các tập tài liệu, sách vở liên quan"
+                },
+                {
+                    "id": "D",
+                    "content": "Sử dụng công cụ tìm kiếm trên Web"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 67,
+            "question": "Để tìm thông tin \"Công chức\" trên trang web “www.lamdong.gov.vn” ta vào google gõ từ khóa tìm kiếm nào để google trả về kết quả không có kết quả từ các trang web khác",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Công chức IN: lamdong.gov.vn"
+                },
+                {
+                    "id": "B",
+                    "content": "Công chức ON: lamdong.gov.vn"
+                },
+                {
+                    "id": "C",
+                    "content": "Công chức FROM:lamdong.gov.vn"
+                },
+                {
+                    "id": "D",
+                    "content": "Công chức SITE:lamdong.gov.vn"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 68,
+            "question": "Trang tìm kiếm Google có thể cho ra kết quả tìm kiếm theo?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hình ảnh"
+                },
+                {
+                    "id": "B",
+                    "content": "Video"
+                },
+                {
+                    "id": "C",
+                    "content": "Website"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án trên"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 69,
+            "question": "Khi muốn lưu lại trang Web đang duyệt lên máy tính, bạn phải làm thế nào trên trình duyệt Internet Explorer?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "File/ Edit"
+                },
+                {
+                    "id": "B",
+                    "content": "File/ Download"
+                },
+                {
+                    "id": "C",
+                    "content": "File/ Exit"
+                },
+                {
+                    "id": "D",
+                    "content": "File/ Save As"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 70,
+            "question": "Trong trình duyệt Internet Explorer, để lưu một bức ảnh về máy tính, ta làm như thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kích đúp vào ảnh rồi chọn Download"
+                },
+                {
+                    "id": "B",
+                    "content": "Chọn Tools/ Save picture as"
+                },
+                {
+                    "id": "C",
+                    "content": "Hai cách a và c đều đúng"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhấn chuột phải vào ảnh, chọn Save picture as"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 71,
+            "question": "Phương án nào không dùng để in trang web",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trên thanh thực đơn nhấn File, chọn Print"
+                },
+                {
+                    "id": "B",
+                    "content": "Trên thanh lệnh (Command Bar), nhấn nút Print"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhấn tổ hợp phím Ctrl+P"
+                },
+                {
+                    "id": "D",
+                    "content": "Trên thanh lệnh (Command bar), nhấn nút Print Preview"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 72,
+            "question": "Khi nhấp lệnh in 1 trang web các thông tin hiển thị như tên trang web, số trang hiện tại, địa chỉ trang web, ngày tháng được điều chỉnh tại mục nào của hộp thoại?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Paper"
+                },
+                {
+                    "id": "B",
+                    "content": "Orientation"
+                },
+                {
+                    "id": "C",
+                    "content": "Margin"
+                },
+                {
+                    "id": "D",
+                    "content": "Headers and Footers"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 73,
+            "question": "Dịch vụ thư điện tử được dùng để làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hội thoại trực tuyến"
+                },
+                {
+                    "id": "B",
+                    "content": "Trao đổi thông tin trực tuyến"
+                },
+                {
+                    "id": "C",
+                    "content": "Tìm kiếm thông tin"
+                },
+                {
+                    "id": "D",
+                    "content": "Trao đổi thư thông qua môi trường Internet"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 74,
+            "question": "Cấu trúc một địa chỉ thư điện tử?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "<Tên miền>.<Tên người dùng>"
+                },
+                {
+                    "id": "B",
+                    "content": "<Tên miền>@<Tên người dùng>"
+                },
+                {
+                    "id": "C",
+                    "content": "Tất cả đều sai"
+                },
+                {
+                    "id": "D",
+                    "content": "<Tên người dùng>@<Tên miền>"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 75,
+            "question": "Điều nào sau đây là lợi thế của thư điện tử so với thư tín gửi qua đường bưu điện",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Có thể chuyển được lượng văn bản lớn hơn nhờ chức năng gắn kèm"
+                },
+                {
+                    "id": "B",
+                    "content": "Thư điện tử luôn có độ an ninh cao hơn"
+                },
+                {
+                    "id": "C",
+                    "content": "Thư điện tử luôn luôn được phân phát"
+                },
+                {
+                    "id": "D",
+                    "content": "Tốc độ chuyển thư nhanh"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 76,
+            "question": "Kí hiệu nào sau đây có thể tồn tại trong một địa chỉ Email?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kí hiệu %"
+                },
+                {
+                    "id": "B",
+                    "content": "Kí hiệu &"
+                },
+                {
+                    "id": "C",
+                    "content": "Kí hiệu $"
+                },
+                {
+                    "id": "D",
+                    "content": "Kí hiệu @"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 77,
+            "question": "Hai người đã tạo được tài khoản thư miễn phí tại địa chỉ MAIL.YAHOO.COM. Phát biểu nào dưới đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hộp thư của cả hai đều nằm trên máy Mail Server của công ty Yahoo"
+                },
+                {
+                    "id": "B",
+                    "content": "Hai người này buộc phải lựa chọn hai tên đăng nhập khác nhau"
+                },
+                {
+                    "id": "C",
+                    "content": "Người này có thể mở được hộp thư của người kia và ngược lại nếu như 2 người biết tên đăng nhập và mật khẩu của nhau"
+                },
+                {
+                    "id": "D",
+                    "content": "Mật khẩu mở hộp thư của hai người này phải khác nhau."
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 78,
+            "question": "Phát biểu nào dưới đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các thư từ máy gửi đến máy nhận qua Internet luôn chuyển tiếp qua máy Server của nhà cung cấp dịch vụ"
+                },
+                {
+                    "id": "B",
+                    "content": "Người sử dụng có thể tự tạo cho mình 1 tài khoản sử dụng thư điện tử miễn phí qua trang Web"
+                },
+                {
+                    "id": "C",
+                    "content": "Có thể đính kèm tệp văn bản theo thư điện tử"
+                },
+                {
+                    "id": "D",
+                    "content": "Thư điện tử luôn có độ tin cậy, an toàn tuyệt đối"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 79,
+            "question": "Với thư điện tử, phát biểu nào sau đây là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Có thể gửi 1 thư đến 10 địa chỉ khác nhau"
+                },
+                {
+                    "id": "B",
+                    "content": "1 người có thể gửi thư cho chính mình, nhiều lần"
+                },
+                {
+                    "id": "C",
+                    "content": "Tệp tin đính kèm theo thư có thể chứa virút, vậy nên cần kiểm tra virút trước khi sử dụng"
+                },
+                {
+                    "id": "D",
+                    "content": "Hai người có thể có địa chỉ thư giống nhau, ví dụ hoahong@yahoo.com"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 80,
+            "question": "Địa chỉ nào không phải là địa chỉ email?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "ninhbinh@yahoo.com"
+                },
+                {
+                    "id": "B",
+                    "content": "tranvana@gmail.com"
+                },
+                {
+                    "id": "C",
+                    "content": "nguyenvanb@hanoi.gov.vn"
+                },
+                {
+                    "id": "D",
+                    "content": "vnexpress.net"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 81,
+            "question": "Địa chỉ nào là địa chỉ email?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "vnexpress.net"
+                },
+                {
+                    "id": "B",
+                    "content": "google.com"
+                },
+                {
+                    "id": "C",
+                    "content": "hanoi.edu.vn"
+                },
+                {
+                    "id": "D",
+                    "content": "ninhbinh@yahoo.com"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 82,
+            "question": "Một người đang sử dụng dịch vụ thư điện tử miễn phí của Yahoo. Địa chỉ nào dưới đây được viết đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Alpha"
+                },
+                {
+                    "id": "B",
+                    "content": "alpha2005@yahoo"
+                },
+                {
+                    "id": "C",
+                    "content": "yahoo.com@alpha2005"
+                },
+                {
+                    "id": "D",
+                    "content": "alpha2005@yahoo.com"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 83,
+            "question": "Kí hiệu nào sau đây cần có trong một địa chỉ Email?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kí hiệu %"
+                },
+                {
+                    "id": "B",
+                    "content": "Kí hiệu &"
+                },
+                {
+                    "id": "C",
+                    "content": "Kí hiệu $"
+                },
+                {
+                    "id": "D",
+                    "content": "Kí hiệu @"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 84,
+            "question": "Để chặn các Email không mong muốn, thực hiện thao tác chọn Email, sau đó?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kích nút Delete"
+                },
+                {
+                    "id": "B",
+                    "content": "Kích nút Reply"
+                },
+                {
+                    "id": "C",
+                    "content": "Kích nút Forward"
+                },
+                {
+                    "id": "D",
+                    "content": "Kích nút Spam"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 85,
+            "question": "Các Email rác được lưu trong thư mục nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Draft"
+                },
+                {
+                    "id": "B",
+                    "content": "Sent"
+                },
+                {
+                    "id": "C",
+                    "content": "Inbox"
+                },
+                {
+                    "id": "D",
+                    "content": "Spam"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 86,
+            "question": "Để tránh lây lan virus qua email, người dùng nên làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quét virus trước khi mở file gắn kèm trong email (1)"
+                },
+                {
+                    "id": "B",
+                    "content": "Không mở email của người lạ (2)"
+                },
+                {
+                    "id": "C",
+                    "content": "Không tải tập tin từ email khi không cần thiết (3)"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả đáp án (1), (2) và (3) đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 87,
+            "question": "Để soạn thảo email cần mở phần mềm nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Microsoft Word"
+                },
+                {
+                    "id": "B",
+                    "content": "Microsoft Excel"
+                },
+                {
+                    "id": "C",
+                    "content": "Notepad"
+                },
+                {
+                    "id": "D",
+                    "content": "Outlook Express"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 88,
+            "question": "Email đang soạn thảo dở chưa được gửi đi sẽ được lưu tại đâu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trong thư mục Sent"
+                },
+                {
+                    "id": "B",
+                    "content": "Trong thư mục Inbox"
+                },
+                {
+                    "id": "C",
+                    "content": "Trong thư mục Bulk"
+                },
+                {
+                    "id": "D",
+                    "content": "Trong thư mục Draft"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 89,
+            "question": "Để chuyển tiếp thư tới người khác, bạn sử dụng nút nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Reply"
+                },
+                {
+                    "id": "B",
+                    "content": "Compose"
+                },
+                {
+                    "id": "C",
+                    "content": "Attactment"
+                },
+                {
+                    "id": "D",
+                    "content": "Forward"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 90,
+            "question": "Để soạn một thư điện tử mới, bạn chọn nút nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Attachment"
+                },
+                {
+                    "id": "B",
+                    "content": "Check Mail"
+                },
+                {
+                    "id": "C",
+                    "content": "Reply"
+                },
+                {
+                    "id": "D",
+                    "content": "Compose"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 91,
+            "question": "Để trả lời ngay thư điện tử khi đang xem thư, bạn chọn nút nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Reply"
+                },
+                {
+                    "id": "B",
+                    "content": "Attachment"
+                },
+                {
+                    "id": "C",
+                    "content": "Check Mail"
+                },
+                {
+                    "id": "D",
+                    "content": "Compose"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 92,
+            "question": "Tại sao cần thiết phải điền vào dòng chủ đề khi gửi thư?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Để cung cấp cho người nhận nội dung ngắn gọn của thư"
+                },
+                {
+                    "id": "B",
+                    "content": "Vì bạn bắt buộc phải điền vào phần đó thì mới gửi thư được"
+                },
+                {
+                    "id": "C",
+                    "content": "Để người nhận có thể nhận được thư"
+                },
+                {
+                    "id": "D",
+                    "content": "Để thư của bạn không bị nhầm địa chỉ người nhận"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 93,
+            "question": "Chức năng kiểm tra chính tả và sửa lỗi chính tả của thư điện tử nằm ở phần nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Soạn thư (compose)"
+                },
+                {
+                    "id": "B",
+                    "content": "Hộp thư đến (Inbox)"
+                },
+                {
+                    "id": "C",
+                    "content": "Thư đã gửi (Sent)"
+                },
+                {
+                    "id": "D",
+                    "content": "Thư nháp (Draf)"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 94,
+            "question": "Để gửi kèm một tệp với thư điện tử, bạn chọn nút nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Attachment"
+                },
+                {
+                    "id": "B",
+                    "content": "Check Mail"
+                },
+                {
+                    "id": "C",
+                    "content": "Reply"
+                },
+                {
+                    "id": "D",
+                    "content": "Compose"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 95,
+            "question": "Trong khi soạn thảo email nếu muốn gởi kèm file chúng ta Nhấn vào nút?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "attachment"
+                },
+                {
+                    "id": "B",
+                    "content": "send"
+                },
+                {
+                    "id": "C",
+                    "content": "copy"
+                },
+                {
+                    "id": "D",
+                    "content": "save"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 96,
+            "question": "Email đã soạn thảo sẽ được lưu trữ trong mục nào sau đây nếu người dùng chưa bấm nút gửi thư?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Draft"
+                },
+                {
+                    "id": "B",
+                    "content": "Spam"
+                },
+                {
+                    "id": "C",
+                    "content": "Outbox"
+                },
+                {
+                    "id": "D",
+                    "content": "Sent"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 97,
+            "question": "Muốn mở hộp thư đã lập bạn phải làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cung cấp chính xác User và Password đã đăng ký cho máy chủ thư điện tử"
+                },
+                {
+                    "id": "B",
+                    "content": "Đăng ký một tài khoản thư điện tử"
+                },
+                {
+                    "id": "C",
+                    "content": "Có chương trình nhận/gửi thư điện tử"
+                },
+                {
+                    "id": "D",
+                    "content": "Cung cấp tài khoản sử dụng Internet"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 98,
+            "question": "Để trả lời thư cho người gửi, bạn sử dụng nút nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Reply"
+                },
+                {
+                    "id": "B",
+                    "content": "Forward"
+                },
+                {
+                    "id": "C",
+                    "content": "Compose"
+                },
+                {
+                    "id": "D",
+                    "content": "Attactment"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 99,
+            "question": "Để chuyển tiếp thư tới người khác, bạn sử dụng nút nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Forward"
+                },
+                {
+                    "id": "B",
+                    "content": "Reply"
+                },
+                {
+                    "id": "C",
+                    "content": "Compose"
+                },
+                {
+                    "id": "D",
+                    "content": "Attactment"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 100,
+            "question": "Để trả lời thư cho nhiều người, bạn sử dụng nút nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Reply to all"
+                },
+                {
+                    "id": "B",
+                    "content": "Forward"
+                },
+                {
+                    "id": "C",
+                    "content": "Compose"
+                },
+                {
+                    "id": "D",
+                    "content": "Attactment"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 101,
+            "question": "Chức năng lọc trong hộp thư đến không thể sắp xếp thư theo trình tự nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sắp xếp thư theo dung lượng file đính kèm"
+                },
+                {
+                    "id": "B",
+                    "content": "Sắp xếp thư theo người gửi"
+                },
+                {
+                    "id": "C",
+                    "content": "Sắp xếp thư theo chủ đề"
+                },
+                {
+                    "id": "D",
+                    "content": "Sắp xếp thư theo ngày nhận"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 102,
+            "question": "Khi dòng chủ đề trong thư bạn nhận được bắt đầu bằng chữ \"RE:\", thì thông thường thư đó là thư gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thư trả lời cho thư mà bạn đã gửi cho người đó"
+                },
+                {
+                    "id": "B",
+                    "content": "Thư rác, thư quảng cáo"
+                },
+                {
+                    "id": "C",
+                    "content": "Thư mới"
+                },
+                {
+                    "id": "D",
+                    "content": "Thư của nhà cung cấp dịch vụ Email mà bạn đang sử dụng"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 103,
+            "question": "Cách nhận thư điện tử đã đọc và thư điện tử chưa đọc trong hộp thư đến (Inbox) là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thư đã đọc in thường, thư chưa đọc in đậm"
+                },
+                {
+                    "id": "B",
+                    "content": "Thư đã đọc in đậm, thư chưa đọc in thường"
+                },
+                {
+                    "id": "C",
+                    "content": "Thư đã đọc in đậm, thư chưa đọc in nghiêng"
+                },
+                {
+                    "id": "D",
+                    "content": "Thư đã đọc in nghiêng, thư chưa đọc in đậm"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 104,
+            "question": "Muốn tìm kiếm email có nguồn gốc từ địa chỉ home@hanoiitct.edu.vn. Ta dùng cú pháp nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "\"from:home@hanoi-itct.edu.vn\""
+                },
+                {
+                    "id": "B",
+                    "content": "\"to:home@hanoi-itct.edu.vn\""
+                },
+                {
+                    "id": "C",
+                    "content": "\"send:home@hanoi-itct.edu.vn\""
+                },
+                {
+                    "id": "D",
+                    "content": "\"source:home@hanoi-itct.edu.vn\""
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 105,
+            "question": "Đâu là thư mục không có sẵn trong tài khoản Email",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "MyEmail"
+                },
+                {
+                    "id": "B",
+                    "content": "Spam"
+                },
+                {
+                    "id": "C",
+                    "content": "Draft"
+                },
+                {
+                    "id": "D",
+                    "content": "Sent"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 106,
+            "question": "Email đã soạn thảo sẽ được lưu trữ trong mục nào sau đây nếu người dùng chưa bấm nút gửi thư?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Draft"
+                },
+                {
+                    "id": "B",
+                    "content": "Spam"
+                },
+                {
+                    "id": "C",
+                    "content": "Outbox"
+                },
+                {
+                    "id": "D",
+                    "content": "Sent"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 107,
+            "question": "Thông tin nào bắt buộc phải có trong sổ địa chỉ Email",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Địa chỉ Email"
+                },
+                {
+                    "id": "B",
+                    "content": "Họ và tên"
+                },
+                {
+                    "id": "C",
+                    "content": "Số điện thoại"
+                },
+                {
+                    "id": "D",
+                    "content": "Địa chỉ"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 108,
+            "question": "Trong khi gửi Email, để người nhận không thể biết những ai cùng nhận thư với mình ta cần điền địa chỉ email của người đó vào mục nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "BCC"
+                },
+                {
+                    "id": "B",
+                    "content": "TO"
+                },
+                {
+                    "id": "C",
+                    "content": "CC"
+                },
+                {
+                    "id": "D",
+                    "content": "SEND"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 109,
+            "question": "Đâu là thuật ngữ chỉ dịch vụ tin nhắn tức thời?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "IM (Instant Messaging)"
+                },
+                {
+                    "id": "B",
+                    "content": "IM (Internet Messaging)"
+                },
+                {
+                    "id": "C",
+                    "content": "IM (Instant Message)"
+                },
+                {
+                    "id": "D",
+                    "content": "IM (Internet Message)"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 110,
+            "question": "Đâu không phải là lợi ích chủ yếu của dịch vụ tin nhắn tức thời?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kho lưu trữ dữ liệu lớn"
+                },
+                {
+                    "id": "B",
+                    "content": "Truyền thông thời gian thực"
+                },
+                {
+                    "id": "C",
+                    "content": "Biết rõ người liên hệ đang trực tuyến hay không"
+                },
+                {
+                    "id": "D",
+                    "content": "Gửi dữ liệu nhanh chóng"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 111,
+            "question": "Khi cần trao đổi thông tin theo thời gian thực, người dùng sử dụng dịch vụ nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "IM"
+                },
+                {
+                    "id": "B",
+                    "content": "SMS"
+                },
+                {
+                    "id": "C",
+                    "content": "Email khẩn"
+                },
+                {
+                    "id": "D",
+                    "content": "Blog"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 112,
+            "question": "Hai người trao đổi thông tin với nhau qua ứng dụng hội thoại trong cùng một mạng cơ quan. Phát biểu nào sau đây là đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dữ liệu truyền từ máy đang hội thoại lên máy chủ có dịch vụ hội thoại của cơ quan và quay về máy bên kia"
+                },
+                {
+                    "id": "B",
+                    "content": "Dữ liệu đi trực tiếp giữa hai máy"
+                },
+                {
+                    "id": "C",
+                    "content": "Dữ liệu truyền không được"
+                },
+                {
+                    "id": "D",
+                    "content": "Dữ liệu truyền về máy chủ internet Việt Nam và quay về máy đang chat"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 113,
+            "question": "Muốn trao đổi trực tuyến với người dùng khác trên mạng, bạn sử dụng dịch vụ gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tán gẫu (Chat)"
+                },
+                {
+                    "id": "B",
+                    "content": "Tải tệp tin (FTP)"
+                },
+                {
+                    "id": "C",
+                    "content": "Thư điện tử (e-mail)"
+                },
+                {
+                    "id": "D",
+                    "content": "Tìm kiếm (search)"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 114,
+            "question": "Facebook hay Myspace là…?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trang mạng xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Trang web của chính phủ"
+                },
+                {
+                    "id": "C",
+                    "content": "Trang viết cá nhân"
+                },
+                {
+                    "id": "D",
+                    "content": "Trang chuyên cung cấp thông tin thời sự"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 115,
+            "question": "Nơi cộng đồng mạng thường trao đổi gọi là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Forum"
+                },
+                {
+                    "id": "B",
+                    "content": "Blog"
+                },
+                {
+                    "id": "C",
+                    "content": "Community"
+                },
+                {
+                    "id": "D",
+                    "content": "Portal"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 116,
+            "question": "Nội dung các trang tin cá nhân (blog) bao gồm những loại dữ liệu gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đa phương tiện"
+                },
+                {
+                    "id": "B",
+                    "content": "Chỉ chứa văn bản"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ chứa hình ảnh"
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ chứa video, ảnh động"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 117,
+            "question": "Trong các câu sau đây, câu nào sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thương mại điện tử hoàn toàn độc lập với các hoạt động thương mại truyền thống"
+                },
+                {
+                    "id": "B",
+                    "content": "Thương mại điện tử giúp doanh nghiệp giảm chi phí và tăng hiệu quả trong quảng cáo"
+                },
+                {
+                    "id": "C",
+                    "content": "Thương mại điện tử giúp doanh nghiệp vươn ra thị trường thế giới"
+                },
+                {
+                    "id": "D",
+                    "content": "Thương mại điện tử là một khái niệm mới mẻ ở Việt Nam"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 118,
+            "question": "Phương tiện điện tử được dùng phổ biến nhất là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thẻ tín dụng"
+                },
+                {
+                    "id": "B",
+                    "content": "Thẻ ghi nợ"
+                },
+                {
+                    "id": "C",
+                    "content": "Thẻ thông minh"
+                },
+                {
+                    "id": "D",
+                    "content": "Tiền điện tử"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 119,
+            "question": "Nguyên tắc đảm bảo an toàn cho mật khẩu đối với người sử dụng khi điền thông tin, các biểu mẫu để thực hiện thanh toán khi giao dịch thương mại điện tử là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Không dùng mật khẩu quá ngắn, mật khẩu có chứa tên người dùng, mật khẩu là những từ có nghĩa trong từ điển"
+                },
+                {
+                    "id": "B",
+                    "content": "Quy định thời gian sử dụng tối đa của mật khẩu"
+                },
+                {
+                    "id": "C",
+                    "content": "Mã hóa mật khẩu khi lưu trữ"
+                },
+                {
+                    "id": "D",
+                    "content": "Đặt mật khẩu trùng với địa chỉ email giao dịch"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 120,
+            "question": "Lựa chọn góp phần giảm thiểu rủi ro khi mua hàng trực tuyến?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hãy chắc chắn rằng trang web này là an toàn và địa chỉ URL hiển thị https"
+                },
+                {
+                    "id": "B",
+                    "content": "Gửi thông tin thẻ tín dụng chỉ bằng e-mail"
+                },
+                {
+                    "id": "C",
+                    "content": "Đảm bảo cung cấp thông tin thẻ tín dụng của bạn qua điện thoại"
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ mua hàng trong giờ làm việc"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        }
+    ]
+}

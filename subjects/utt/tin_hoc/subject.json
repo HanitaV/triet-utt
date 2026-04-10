@@ -1,40 +1,40 @@
 {
-    "id": "tthcm",
-    "name": "Tư tưởng Hồ Chí Minh",
-    "shortName": "TT HCM",
-    "icon": "🕊️",
+    "id": "tin_hoc",
+    "name": "Tin học căn bản",
+    "shortName": "Tin học",
+    "icon": "💻",
     "school": "Đại học Công nghệ GTVT",
     "shortSchool": "UTT",
     "examPath": "exam",
     "chapters": [
         {
             "id": 1,
-            "name": "Khái niệm và phương pháp luận",
+            "name": "Tin học căn bản",
             "file": "chuong_1.json"
         },
         {
             "id": 2,
-            "name": "Cơ sở hình thành tư tưởng Hồ Chí Minh",
+            "name": "Sử dụng máy tính cơ bản",
             "file": "chuong_2.json"
         },
         {
             "id": 3,
-            "name": "Độc lập dân tộc và chủ nghĩa xã hội",
+            "name": "Sử dụng Internet cơ bản",
             "file": "chuong_3.json"
         },
         {
             "id": 4,
-            "name": "Đảng Cộng sản và Nhà nước của dân",
+            "name": "Xử lý văn bản cơ bản",
             "file": "chuong_4.json"
         },
         {
             "id": 5,
-            "name": "Đại đoàn kết dân tộc và đoàn kết quốc tế",
+            "name": "Sử dụng bảng tính cơ bản",
             "file": "chuong_5.json"
         },
         {
             "id": 6,
-            "name": "Văn hóa, đạo đức và con người",
+            "name": "Sử dụng trình chiếu cơ bản",
             "file": "chuong_6.json"
         }
     ],
@@ -44,19 +44,19 @@
         "distribution": [
             {
                 "chapter": 1,
-                "percent": 17
+                "percent": 16
             },
             {
                 "chapter": 2,
-                "percent": 17
+                "percent": 16
             },
             {
                 "chapter": 3,
-                "percent": 17
+                "percent": 16
             },
             {
                 "chapter": 4,
-                "percent": 17
+                "percent": 16
             },
             {
                 "chapter": 5,
@@ -64,9 +64,8 @@
             },
             {
                 "chapter": 6,
-                "percent": 16
+                "percent": 20
             }
         ]
     }
 }
-

@@ -1,0 +1,2878 @@
+{
+    "title": "CHƯƠNG 4",
+    "total_questions": 120,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Hãy nêu cách khởi động Microsoft Office Word?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Start\\ Program\\ Word."
+                },
+                {
+                    "id": "B",
+                    "content": "Start\\ Run\\ gõ Word.exe\\ Ok"
+                },
+                {
+                    "id": "C",
+                    "content": "Kích đúp chuột vào biểu tượng shortcut Microsoft Office Word"
+                },
+                {
+                    "id": "D",
+                    "content": "Kích đúp chuột vào biểu tượng shortcut Microsoft Office Powerpoint"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 2,
+            "question": "Hãy cho biết chức năng của tổ hợp phím Ctrl + E?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Căn thẳng lề trái văn bản"
+                },
+                {
+                    "id": "B",
+                    "content": "Căn thẳng lề phải văn bản"
+                },
+                {
+                    "id": "C",
+                    "content": "Căn thẳng ở giữa văn bản"
+                },
+                {
+                    "id": "D",
+                    "content": "Căn thẳng lề trên văn bản"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 3,
+            "question": "Tập tin MS Word 2010 được lưu lại có phần mở rộng định dạng mặc định là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": ".doc"
+                },
+                {
+                    "id": "B",
+                    "content": ".xlsx"
+                },
+                {
+                    "id": "C",
+                    "content": ".docx"
+                },
+                {
+                    "id": "D",
+                    "content": ".pdf"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 4,
+            "question": "Tổ hợp phím Ctrl+K có tác dụng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mở hộp thoại Font"
+                },
+                {
+                    "id": "B",
+                    "content": "Mở hộp thoại Paragraph"
+                },
+                {
+                    "id": "C",
+                    "content": "Mở hộp thoại tạo các liên kết (Hyperlink)"
+                },
+                {
+                    "id": "D",
+                    "content": "Mở hộp thoại tìm kiếm"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 5,
+            "question": "Trong các phần mềm sau đâu là phần mềm có thể dùng để soạn thảo văn bản?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Microsoft Word (1)"
+                },
+                {
+                    "id": "B",
+                    "content": "LibreOffice Writer(2)"
+                },
+                {
+                    "id": "C",
+                    "content": "Cả (1)+(2)+(3)"
+                },
+                {
+                    "id": "D",
+                    "content": "OpenOffice Write(3)"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 6,
+            "question": "Chương trình soạn thảo văn bản có chức năng chính là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hiển thị nội dung văn bản trên màn hình (1)"
+                },
+                {
+                    "id": "B",
+                    "content": "Cho phép người dùng sửa đổi, bổ sung tại vị trí bất kì trong văn bản (2)"
+                },
+                {
+                    "id": "C",
+                    "content": "Cả (1)+(2)+(3)"
+                },
+                {
+                    "id": "D",
+                    "content": "Cho phép lưu trữ, ín ấn văn bản (3)"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 7,
+            "question": "Để đóng văn bản đang làm việc chúng ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "File/Open"
+                },
+                {
+                    "id": "B",
+                    "content": "File/Save"
+                },
+                {
+                    "id": "C",
+                    "content": "File/Close"
+                },
+                {
+                    "id": "D",
+                    "content": "File/Print"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 8,
+            "question": "Lệnh nào cho phép lưu tài liệu vào trong máy tính:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "File/Save As"
+                },
+                {
+                    "id": "B",
+                    "content": "File/Close"
+                },
+                {
+                    "id": "C",
+                    "content": "File/Save"
+                },
+                {
+                    "id": "D",
+                    "content": "File/Save as wizard"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 9,
+            "question": "Tổ hợp phím Ctrl + N có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lưu tài liệu"
+                },
+                {
+                    "id": "B",
+                    "content": "Mở tài liệu"
+                },
+                {
+                    "id": "C",
+                    "content": "Tạo tài liệu mới"
+                },
+                {
+                    "id": "D",
+                    "content": "Đóng tài liệu"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 10,
+            "question": "Tên văn bản đang làm việc được hiển thị trên thanh:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thanh trạng thái"
+                },
+                {
+                    "id": "B",
+                    "content": "Thanh truy cập nhanh"
+                },
+                {
+                    "id": "C",
+                    "content": "Thanh tiêu đề"
+                },
+                {
+                    "id": "D",
+                    "content": "Thanh thước kẻ"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 11,
+            "question": "Thanh truy cập nhanh chứa các chức năng mặc định nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Save, Undo, Copy"
+                },
+                {
+                    "id": "B",
+                    "content": "Save,Copy, redo"
+                },
+                {
+                    "id": "C",
+                    "content": "Save, undo, redo"
+                },
+                {
+                    "id": "D",
+                    "content": "Save, undo, Print"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 12,
+            "question": "Chế độ hiển thị Print Layout là chế độ:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hiển thị văn bản theo kiểu phóng to kích thước font chữ"
+                },
+                {
+                    "id": "B",
+                    "content": "Hiển thị văn bản trong chế độ web"
+                },
+                {
+                    "id": "C",
+                    "content": "Hiển thị văn bản như khi được in ra giấy"
+                },
+                {
+                    "id": "D",
+                    "content": "Hiển thị văn bản được phóng to"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 13,
+            "question": "Chế độ hiển thị nào chỉ cho phép hiển thị văn bản để đọc, không được sửa?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Print Layout"
+                },
+                {
+                    "id": "B",
+                    "content": "Web Layout"
+                },
+                {
+                    "id": "C",
+                    "content": "Full Screen Reading"
+                },
+                {
+                    "id": "D",
+                    "content": "Page Layout"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 14,
+            "question": "Lệnh Help của Microsoft Word có chức năng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tìm kiếm thông tin trên Internet"
+                },
+                {
+                    "id": "B",
+                    "content": "Thay thế thông tin cần tìm kiếm"
+                },
+                {
+                    "id": "C",
+                    "content": "Trợ giúp tìm kiếm thông tin trên Word"
+                },
+                {
+                    "id": "D",
+                    "content": "Mở ra trang tìm kiếm để nhìn thấy thông tin từng chức năng"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 15,
+            "question": "Muốn mở chức năng Help của Microsoft Word, ấn phím:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "F2"
+                },
+                {
+                    "id": "B",
+                    "content": "F3"
+                },
+                {
+                    "id": "C",
+                    "content": "F1"
+                },
+                {
+                    "id": "D",
+                    "content": "F4"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 16,
+            "question": "Muốn tìm kiếm với chức năng Help của Microsoft Word cần có:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Máy tính có Word và được kết nối mạng"
+                },
+                {
+                    "id": "B",
+                    "content": "Máy tính có đủ Unikey và Vietkey"
+                },
+                {
+                    "id": "C",
+                    "content": "Máy tính có phần mềm Word 2010"
+                },
+                {
+                    "id": "D",
+                    "content": "Máy tính có Word và Unikey"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 17,
+            "question": "Chế độ hiển thị nào chỉ cho phép hiển thị văn bản theo kiểu Website?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Full Screen Reading"
+                },
+                {
+                    "id": "B",
+                    "content": "Print Layout"
+                },
+                {
+                    "id": "C",
+                    "content": "Web Layout"
+                },
+                {
+                    "id": "D",
+                    "content": "Page Layout"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 18,
+            "question": "Thanh Zoom hiển thị 100% có nghĩa là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Văn bản đang được hiển thị ở chế độ Full Screen Reading"
+                },
+                {
+                    "id": "B",
+                    "content": "Văn bản được phóng to gấp đôi so với ban đầu"
+                },
+                {
+                    "id": "C",
+                    "content": "Văn bản được hiển thị như khi được in ra giấy"
+                },
+                {
+                    "id": "D",
+                    "content": "Văn bản đang được hiển thị ở chế độ Website."
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 19,
+            "question": "Để sắp xếp các cửa sổ văn bản trên màn hình Word theo thứ tự ta sử dụng Tab nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Home"
+                },
+                {
+                    "id": "B",
+                    "content": "File"
+                },
+                {
+                    "id": "C",
+                    "content": "View"
+                },
+                {
+                    "id": "D",
+                    "content": "Page Layout"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 20,
+            "question": "Chế độ nào cho phép hiển thị màn hình với kích thước hiển thị lớn nhất?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Draft"
+                },
+                {
+                    "id": "B",
+                    "content": "Outline"
+                },
+                {
+                    "id": "C",
+                    "content": "Full Screen Reading"
+                },
+                {
+                    "id": "D",
+                    "content": "Web Layout"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 21,
+            "question": "Để chuyển đổi giữa các file văn bản đang mở trong Word ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "View/Show"
+                },
+                {
+                    "id": "B",
+                    "content": "View/Split"
+                },
+                {
+                    "id": "C",
+                    "content": "View/Switch Windows"
+                },
+                {
+                    "id": "D",
+                    "content": "View/Arrange All"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 22,
+            "question": "Để phóng to màn hình soạn thảo văn bản ta thực hiện như thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Click chuột vào nút Maximize tại góc trên cùng bên trái màn hình"
+                },
+                {
+                    "id": "B",
+                    "content": "Click chuột vào nút Maximize tại góc trên cùng bên dưới màn hình"
+                },
+                {
+                    "id": "C",
+                    "content": "Click chuột vào nút Maximize tại góc trên cùng bên phải màn hình"
+                },
+                {
+                    "id": "D",
+                    "content": "Click chuột vào nút Maximize tại góc trên cùng bên trên màn hình"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 23,
+            "question": "Mục Save AutoRecover information every để xác lập:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thời gian để mở file tự động"
+                },
+                {
+                    "id": "B",
+                    "content": "Thời gian để đóng file tự động"
+                },
+                {
+                    "id": "C",
+                    "content": "Thời gian để lưu file tự động"
+                },
+                {
+                    "id": "D",
+                    "content": "Thời gian để lưu file dưới định dạng một tên khác"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 24,
+            "question": "Để thay đổi thư mục lưu văn bản mặc định ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "File/Options/Save/Auto Recover file location"
+                },
+                {
+                    "id": "B",
+                    "content": "File/Save/Default file location"
+                },
+                {
+                    "id": "C",
+                    "content": "File/Options/Save/Default file location"
+                },
+                {
+                    "id": "D",
+                    "content": "File/Save/Defaunt file location"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 25,
+            "question": "Muốn hiển thị đường biên văn bản ta thực hiện",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Home/Options/Advanced/đánh dấu lựa chọn Show Text Boundaries"
+                },
+                {
+                    "id": "B",
+                    "content": "Insert/Options/Advanced/đánh dấu lựa chọn Show Text Boundaries"
+                },
+                {
+                    "id": "C",
+                    "content": "File/Options/Advanced/đánh dấu lựa chọn Show Text Boundaries"
+                },
+                {
+                    "id": "D",
+                    "content": "View/Options/Advanced/đánh dấu lựa chọn Show Text Boundaries"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 26,
+            "question": "Trong soạn thảo Microsoft Office Word, công dụng của tổ hợp phím Ctrl + O là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mở một file mới"
+                },
+                {
+                    "id": "B",
+                    "content": "Đóng file đang mở"
+                },
+                {
+                    "id": "C",
+                    "content": "Mở một file đã có"
+                },
+                {
+                    "id": "D",
+                    "content": "Lưu file"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 27,
+            "question": "Để mở một văn bản có sẵn ta dùng tổ hợp phím nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl+Shift+O"
+                },
+                {
+                    "id": "B",
+                    "content": "Shift+O"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl+O"
+                },
+                {
+                    "id": "D",
+                    "content": "Alt+O"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 28,
+            "question": "Để chèn một đoạn dữ liệu trong Excel sang file Word ta thực hiện như sau:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào Home/ Paste/Paste Special/ Microsoft Excel 2003 Worksheet Object /OK"
+                },
+                {
+                    "id": "B",
+                    "content": "Copy phần dữ liệu định chèn. Vào Home/ Paste/Microsoft Excel 2003 Worksheet Object /OK"
+                },
+                {
+                    "id": "C",
+                    "content": "Copy phần dữ liệu định chèn. Vào Home/ Paste/ Paste Special/ Microsoft Excel 2003 Worksheet Object /OK"
+                },
+                {
+                    "id": "D",
+                    "content": "Copy phần dữ liệu định chèn. Vào Home/ Paste Special/ Microsoft Excel 2003 Worksheet Object"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 29,
+            "question": "© được gọi là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chữ viết"
+                },
+                {
+                    "id": "B",
+                    "content": "Kí tự thông thường"
+                },
+                {
+                    "id": "C",
+                    "content": "Ký hiệu đặc biệt"
+                },
+                {
+                    "id": "D",
+                    "content": "Hình ảnh"
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 30,
+            "question": "Để chèn được dấu ≥ vào văn bản, ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dấu ≥ được tích hợp sẵn trên bàn phím, chỉ cần gõ"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào thanh Quick Access Toolbar/ Spelling and Grammar"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert/ Symbol"
+                },
+                {
+                    "id": "D",
+                    "content": "Gõ dấu > và gõ dấu ="
+                }
+            ],
+            "answer": "C",
+            "explain": ""
+        },
+        {
+            "id": 31,
+            "question": "Để chèn được ký hiệu ® ta thực hiện các bước:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert/ Symbol/ More Symbols/ Wingdings"
+                },
+                {
+                    "id": "B",
+                    "content": "Insert/ Symbol/ More Symbols/ Special Character"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert/ Symbol/ More Symbols/ Webdings"
+                },
+                {
+                    "id": "D",
+                    "content": "Insert/ Symbol/ More Symbols/ Symbol/ Special Character"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 32,
+            "question": "Tổ hợp phím Ctrl + S có chức năng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mở tài liệu"
+                },
+                {
+                    "id": "B",
+                    "content": "Lưu tài liệu"
+                },
+                {
+                    "id": "C",
+                    "content": "Đóng tài liệu"
+                },
+                {
+                    "id": "D",
+                    "content": "Tạo tài liệu mới"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 33,
+            "question": "Để lưu văn bản hiện thời thành một tên mới ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "File/Save"
+                },
+                {
+                    "id": "B",
+                    "content": "File/Save As"
+                },
+                {
+                    "id": "C",
+                    "content": "Home/Save As"
+                },
+                {
+                    "id": "D",
+                    "content": "Home/Save"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 34,
+            "question": "Khi lưu văn bản, ta có thể lưu với các phần mở rộng là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": ".doc,.xlsx,.pdf"
+                },
+                {
+                    "id": "B",
+                    "content": ".doc, .docx,.pdf"
+                },
+                {
+                    "id": "C",
+                    "content": ".docx,.xlsx,.pdf"
+                },
+                {
+                    "id": "D",
+                    "content": ".docx,.xls,.pdf"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 35,
+            "question": "Để sắp xếp tất cả các cửa sổ văn bản đang mở trên màn hình máy tính chúng ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Home/ Window/ Arrange All"
+                },
+                {
+                    "id": "B",
+                    "content": "View/ Window/ Arrange All"
+                },
+                {
+                    "id": "C",
+                    "content": "File/ Window/ Arrange All"
+                },
+                {
+                    "id": "D",
+                    "content": "Review/ Window/ Arrange All"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 36,
+            "question": "Để sắp xếp các cửa sổ văn bản trên màn hình Word theo thứ tự nào đó ta thực hiện như thế nào?",
+            "options": [
+                {
+                    "id": "B",
+                    "content": "Vào View/ Trong nhóm Window chọn kiểu sắp xếp thích hợp"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào Review/ Trong nhóm Window chọn kiểu sắp xếp thích hợp"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào Insert/ Trong nhóm Window chọn kiểu sắp xếp thích hợp"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 37,
+            "question": "Để xóa một văn bản ta thực hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chọn văn bản cần xóa/ Click chuột/ Chọn Delete"
+                },
+                {
+                    "id": "B",
+                    "content": "Chọn văn bản cần xóa/ Click phải chuột/ Chọn Delete"
+                },
+                {
+                    "id": "C",
+                    "content": "Click phải chuột/ Chọn Delete"
+                },
+                {
+                    "id": "D",
+                    "content": "Chọn văn bản cần xóa/ Click phải chuột/ Chọn Remove"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 38,
+            "question": "Để chọn (bôi đen) toàn bộ văn bản ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Click chuột trái 3 lần liên tiếp tại lề phải văn bản"
+                },
+                {
+                    "id": "B",
+                    "content": "Click chuột trái 3 lần liên tiếp tại lề trái văn bản"
+                },
+                {
+                    "id": "C",
+                    "content": "Click chuột phải 3 lần liên tiếp tại lề trên văn bản"
+                },
+                {
+                    "id": "D",
+                    "content": "Click chuột trái 3 lần liên tiếp tại lề dưới văn bản"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 39,
+            "question": "Để di chuyển đến một trang bất kì trong văn bản ta làm thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bấm tổ hợp phím Ctrl+F, trong mục Enter Page Number nhập số trang cần đến."
+                },
+                {
+                    "id": "B",
+                    "content": "Bấm tổ hợp phím Ctrl+G, trong mục Enter Page Number nhập số trang cần đến."
+                },
+                {
+                    "id": "C",
+                    "content": "Bấm tổ hợp phím Ctrl+H, trong mục Enter Page Number nhập số trang cần đến."
+                },
+                {
+                    "id": "D",
+                    "content": "Bấm tổ hợp phím Ctrl+D, trong mục Enter Page Number nhập số trang cần đến."
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 40,
+            "question": "Muốn tạo được dấu % từ bàn phím ta làm thế nào",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giữ phím Ctrl và ấn số 5"
+                },
+                {
+                    "id": "B",
+                    "content": "Giữ phím Shift và ấn số 5"
+                },
+                {
+                    "id": "C",
+                    "content": "Ấn số 5"
+                },
+                {
+                    "id": "D",
+                    "content": "Giữ phím Alt và ấn số 5"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 41,
+            "question": "Để xóa một khối văn bản, ta làm thế nào:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chọn khối, ấn Tab"
+                },
+                {
+                    "id": "B",
+                    "content": "Chọn khối, ấn Delete"
+                },
+                {
+                    "id": "C",
+                    "content": "Chọn khối, ấn Ctrl + Delete"
+                },
+                {
+                    "id": "D",
+                    "content": "Chọn khối, ấn Ctrl + Shift + Delete"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 42,
+            "question": "Trong soạn thảo Word, muốn chèn các kí tự đặc biệt vào văn bản, ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "View/ Symbol"
+                },
+                {
+                    "id": "B",
+                    "content": "Chọn khối, ấn Delete"
+                },
+                {
+                    "id": "C",
+                    "content": "Format/ Symbol"
+                },
+                {
+                    "id": "D",
+                    "content": "Tools/ Symbol"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 43,
+            "question": "Trong soạn thảo Microsoft word, công dụng của tổ hợp phím Ctrl+H là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mở hộp thoại Font"
+                },
+                {
+                    "id": "B",
+                    "content": "Mở hộp thoại tìm kiếm và thay thế văn bản."
+                },
+                {
+                    "id": "C",
+                    "content": "Mở hộp thoại Paragraph"
+                },
+                {
+                    "id": "D",
+                    "content": "Mở hộp thoại Tab"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 44,
+            "question": "Trong soạn thảo Microsoft word, công dụng của tổ hợp Ctrl + F là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mở chức năng trợ giúp"
+                },
+                {
+                    "id": "B",
+                    "content": "Mở chức năng tìm kiếm văn bản"
+                },
+                {
+                    "id": "C",
+                    "content": "Mở chức năng thay thế"
+                },
+                {
+                    "id": "D",
+                    "content": "Mở chức năng tạo AutoCorrect"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 45,
+            "question": "Trong hộp thoại Find and Replace/Find, phần Find what dùng để:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Điền từ cần thay thế"
+                },
+                {
+                    "id": "B",
+                    "content": "Điền từ cần tìm kiếm"
+                },
+                {
+                    "id": "C",
+                    "content": "Tùy chọn nâng cao tìm kiếm"
+                },
+                {
+                    "id": "D",
+                    "content": "Đảm bảo tìm kiếm chính xác"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 46,
+            "question": "Trong khi làm việc với Word, tổ hợp phím tắt nào cho phép chọn tất cả văn bản đang soạn thảo?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Alt + A"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl + A"
+                },
+                {
+                    "id": "C",
+                    "content": "Alt + F"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl + F"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 47,
+            "question": "Để cắt một đoạn văn bản từ file văn bản này sang file văn bản khác ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chọn đoạn văn bản cần di chuyển, ấn phím Ctrl+C, sau đó mở file văn bản đích, ấn Ctrl+V"
+                },
+                {
+                    "id": "B",
+                    "content": "Chọn đoạn văn bản cần di chuyển, ấn phím Ctrl+X, sau đó mở file văn bản đích, ấn Ctrl+V"
+                },
+                {
+                    "id": "C",
+                    "content": "Chọn đoạn văn bản cần di chuyển, sau đó mở file văn bản đích, ấn Ctrl+V"
+                },
+                {
+                    "id": "D",
+                    "content": "Chọn đoạn văn bản cần Copy, sau đó mở file văn bản đích, ấn Ctrl+V"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 48,
+            "question": "Tổ hợp phím Ctrl + Z dùng để:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hủy thao tác"
+                },
+                {
+                    "id": "B",
+                    "content": "Quay lại thao tác trước thao tác hiện hành."
+                },
+                {
+                    "id": "C",
+                    "content": "Đóng cửa sổ đang mở"
+                },
+                {
+                    "id": "D",
+                    "content": "Đóng tập tin đang mở"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 49,
+            "question": "Để khôi phục lại trạng thái trước đó của văn bản ta làm thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chọn chức năng Redo"
+                },
+                {
+                    "id": "B",
+                    "content": "Chọn chức năng Undo"
+                },
+                {
+                    "id": "C",
+                    "content": "Chọn chức năng Quick Print"
+                },
+                {
+                    "id": "D",
+                    "content": "Chọn chức năng Open"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 50,
+            "question": "Để loại bỏ các hiệu ứng điều chỉnh tự động (AutoCorrect) có sẵn trong phần mềm soạn thảo văn bản tiếng Việt ta thức hiện như sau:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào File/ Option/ AutoCorrect Option/ Tìm mục cần xóa sau đó ấn Delete/OK"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào File/ Option/ Proofing/ AutoCorrect Option/ Tìm mục cần xóa sau đó ấn Delete/OK"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào Home /Proofing/ AutoCorrect Option/ Tìm mục cần xóa sau đó ấn Delete/OK"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào File/ Proofing/ AutoCorrect Option/ Tìm mục cần xóa sau đó ấn Delete"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 51,
+            "question": "Để loại bỏ các đường gạch chân màu đỏ hoặc màu xanh xuất hiện trong văn bản tiếng Việt ta làm như sau:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào File/ Option/ Trong mục When correcting spelling and Gramma in Word bỏ tích chọn tất cả các lựa chọn"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào File/ Option/Proofing/ Trong mục When correcting spelling and Gramma in Word bỏ tích chọn tất cả các lựa chọn"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào File/ Proofing/Trong mục When correcting spelling and Gramma in Word bỏ tích chọn tất cả các lựa chọn"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào Home/ Option/Proofing/ Trong mục When correcting spelling and Gramma in Word bỏ tích chọn tất cả các lựa chọn"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 52,
+            "question": "Trong Micrsoft Word để tăng cỡ chữ ta sử dụng tổ hợp phím",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl + B"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl + ]"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl + Shitf + ]"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl + ["
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 53,
+            "question": "Tổ hợp phím Ctrl+B có tác dụng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chuyển một chữ thường thành chữ nghiêng"
+                },
+                {
+                    "id": "B",
+                    "content": "Chuyển một chữ thường thành chữ đậm"
+                },
+                {
+                    "id": "C",
+                    "content": "Chuyển một chữ thành chữ đậm"
+                },
+                {
+                    "id": "D",
+                    "content": "Chuyển một chữ thường thành chữ hoa"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 54,
+            "question": "Để tạo chỉ số dưới ta thực hiện",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chọn biểu tượng chỉ số dưới (subscript) trên thanh Ribbon (1)"
+                },
+                {
+                    "id": "B",
+                    "content": "Cách (1), (2), (3) đều đúng"
+                },
+                {
+                    "id": "C",
+                    "content": "Dùng tổ hợp phím Ctrl + = (2)"
+                },
+                {
+                    "id": "D",
+                    "content": "Dùng tổ hợp phím Ctrl +D, chọn subscript (3)"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 55,
+            "question": "Con trỏ đang ở chỉ số trên, làm thế nào để quay lại dòng bình thường",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chọn biểu tượng chỉ số trên (superscript) trên thanh Ribbon (1)"
+                },
+                {
+                    "id": "B",
+                    "content": "Cách (1), (2), (3) đều đúng"
+                },
+                {
+                    "id": "C",
+                    "content": "Dùng tổ hợp phím Ctrl + Shift + = (2)"
+                },
+                {
+                    "id": "D",
+                    "content": "Dùng tổ hợp phím Ctrl +D, chọn subscript (3)"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 56,
+            "question": "Để đổ màu nền cho văn bản ta thực hiện như sau:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào Tab Home/Trong nhóm Font/ Chọn biểu tượngText Hightlight Color"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào Tab Home/Trong nhóm Paragraph/ Chọn biểu tượng Shading"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào Tab Insert/Trong nhóm Font/ Chọn biểu tượngText Hightlight Color"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào Tab Insert/Trong nhóm Paragraph/ Chọn biểu tượng Shading"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 57,
+            "question": "Khi phím CapsLock trên bàn phím sáng, sẽ cho kết quả:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tất cả các câu đều có in hoa đầu câu"
+                },
+                {
+                    "id": "B",
+                    "content": "Tất cả các kí tự khi soạn thảo đều viết hoa"
+                },
+                {
+                    "id": "C",
+                    "content": "Tất cả các câu đều có in hoa đầu câu và tự tạo dấu chấm kết thúc câu"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các chữ đầu dòng In đậm"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 58,
+            "question": "Làm thế nào để tắt chế độ Caps Lock?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giữ phím Caps Lock từ 3 đến 5 giây"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhấn phím Caps Lock 1 lần trên bàn phím"
+                },
+                {
+                    "id": "C",
+                    "content": "Chế độ Caps Lock tự tắt từ 3 đến 5 giây"
+                },
+                {
+                    "id": "D",
+                    "content": "Ấn phím ESC trên bàn phím"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 59,
+            "question": "Bật Caps Lock trên bàn phím và gõ chữ cái trên bàn phím, sẽ cho kết quả:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chữ in thường"
+                },
+                {
+                    "id": "B",
+                    "content": "Chữ in hoa"
+                },
+                {
+                    "id": "C",
+                    "content": "Chữ có gạch đầu dòng đầu câu và in hoa đầu câu"
+                },
+                {
+                    "id": "D",
+                    "content": "Chữ có khoảng cách đầu dòng là 1.27 cm"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 60,
+            "question": "Chức năng Upper Case có tác dụng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Viết thường ký tự đầu tiên và viết hoa các ký tự còn lại"
+                },
+                {
+                    "id": "B",
+                    "content": "Viết hoa toàn bộ đoạn văn được chọn"
+                },
+                {
+                    "id": "C",
+                    "content": "Viết thường ký tự đầu tiên"
+                },
+                {
+                    "id": "D",
+                    "content": "Viết hoa ký tự đầu tiên và viết thường các ký tự còn lại"
+                }
+            ],
+            "answer": "B",
+            "explain": ""
+        },
+        {
+            "id": 61,
+            "question": "Chức năng Lower Case có tác dụng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Viết thường ký tự đầu tiên và viết hoa các ký tự còn lại"
+                },
+                {
+                    "id": "B",
+                    "content": "Viết thường ký tự đầu tiên"
+                },
+                {
+                    "id": "C",
+                    "content": "Viết hoa ký tự đầu tiên và viết thường các ký tự còn lại"
+                },
+                {
+                    "id": "D",
+                    "content": "Viết thường toàn bộ đoạn văn được chọn"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 62,
+            "question": "Chức năng nào sau đây dùng để thay đổi kiểu chữ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tab Home/ nhóm Font/ Decrease Font Size"
+                },
+                {
+                    "id": "B",
+                    "content": "Tab Home/ nhóm Font/ Increase Font Size"
+                },
+                {
+                    "id": "C",
+                    "content": "Tab Home/ nhóm Font/ Subscript"
+                },
+                {
+                    "id": "D",
+                    "content": "Tab Home/ nhóm Font/ Change Case"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 63,
+            "question": "Để tách từ trong văn bản Word, ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào Page Setup/Orientation"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào References/Hyphenation"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào References/Orentation"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào Page Setup/Hyphenation"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 64,
+            "question": "Để chọn (bôi đen) một đoạn văn bản ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Click chuột phải 3 lần liên tiếp lên đoạn cần chọn"
+                },
+                {
+                    "id": "B",
+                    "content": "Click đúp chuột 3 lần liên tiếp lên đoạn cần chọn"
+                },
+                {
+                    "id": "C",
+                    "content": "Không có đáp án nào đúng"
+                },
+                {
+                    "id": "D",
+                    "content": "Click chuột trái 3 lần liên tiếp lên đoạn cần chọn"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 65,
+            "question": "Để thêm một dấu ngắt đoạn trong Word ta dùng phím nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl+Enter"
+                },
+                {
+                    "id": "B",
+                    "content": "Shift+Enter"
+                },
+                {
+                    "id": "C",
+                    "content": "Alt+Enter"
+                },
+                {
+                    "id": "D",
+                    "content": "Enter"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 66,
+            "question": "Đâu là thao tác đúng khi thực hiện thụt đoạn văn bản về bên trái với thông số xác định?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mở hộp thoại Paragraph/Indentation/Right"
+                },
+                {
+                    "id": "B",
+                    "content": "Mở hộp thoại Paragraph/Spacing/Right"
+                },
+                {
+                    "id": "C",
+                    "content": "Mở hộp thoại Paragraph/Spacing/Left"
+                },
+                {
+                    "id": "D",
+                    "content": "Mở hộp thoại Paragraph/Indentation/Left"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 67,
+            "question": "Đâu là thao tác đúng khi thực hiện thụt đoạn văn bản về bên phải với thông số xác định?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mở hộp thoại Paragraph/Indentation/Left"
+                },
+                {
+                    "id": "B",
+                    "content": "Mở hộp thoại Paragraph/Spacing/Right"
+                },
+                {
+                    "id": "C",
+                    "content": "Mở hộp thoại Paragraph/Spacing/Left"
+                },
+                {
+                    "id": "D",
+                    "content": "Mở hộp thoại Paragraph/Indentation/Right"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 68,
+            "question": "Word hỗ trợ các loại thụt đầu dòng nào",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "First line (1)"
+                },
+                {
+                    "id": "B",
+                    "content": "Left (2)"
+                },
+                {
+                    "id": "C",
+                    "content": "Hanging (3)"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các kiểu (1), (2) và (3) đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 69,
+            "question": "Trong Micrsoft Word để bật/tắt thanh thước kẻ trên cửa sổ soạn thảo, ta thực hiện:",
+            "options": [
+                {
+                    "id": "B",
+                    "content": "File/ Word Option/ Ruler"
+                },
+                {
+                    "id": "C",
+                    "content": "View/ Outline"
+                },
+                {
+                    "id": "D",
+                    "content": "View/ Show / đánh dấu/bỏ đánh dấu vào mục Ruler"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 70,
+            "question": "Khi đặt Tab, khung Tab stop position có chức năng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chọn loại Tab"
+                },
+                {
+                    "id": "B",
+                    "content": "Chọn đường nối giữa các Tab"
+                },
+                {
+                    "id": "C",
+                    "content": "Thiết lập khoảng cách mặc định cho Tab trên bàn phím"
+                },
+                {
+                    "id": "D",
+                    "content": "Chọn vị trí điểm dừng Tab"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 71,
+            "question": "Muốn xóa Tab đã đặt ta làm thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kích chuột vào Tab, ấn phím Delete"
+                },
+                {
+                    "id": "B",
+                    "content": "Kích chuột vào Tab và nhấn phím Tab từ bàn phím"
+                },
+                {
+                    "id": "C",
+                    "content": "Ấn phím Tab từ bàn phím và ấn phím Insert"
+                },
+                {
+                    "id": "D",
+                    "content": "Kích chuột vào Tab trên thanh Ruler, kéo Tab ra khỏi thanh Ruler"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 72,
+            "question": "Để tạo khoảng cách đoạn ta làm thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tab Home/ nhóm Clipboard/ cửa sổ Paragraph/ Spacing/ chỉnh sửa thông số của Before và After"
+                },
+                {
+                    "id": "B",
+                    "content": "Tab Home/ nhóm Clipboard/ cửa sổ Paragraph/ Spacing/ Line Spacing"
+                },
+                {
+                    "id": "C",
+                    "content": "Tab Home/ nhóm Clipboard/ cửa sổ Paragraph/ Spacing/ Indentation"
+                },
+                {
+                    "id": "D",
+                    "content": "Tab Home/ nhóm Paragraph/ cửa sổ Paragraph/ chọn Spacing/ chỉnh sửa thông số của Before và After"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 73,
+            "question": "Trong Microsoft Word để thay đổi khoảng cách giữa các ký tự, ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl+D/Advance/Trong mục Scale chọn Expanded hoặc Condensed"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl+D/Advance/Trong mục Number form chọn Expanded hoặc Condensed"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl+D/Advance/Trong mục By chọn Expanded hoặc Condensed"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl+D/Advance/Trong mục Spacing chọn Expanded hoặc Condensed"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 74,
+            "question": "Làm thế nào để thiết lập được khoảng cách dòng văn bản",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tab Home/ nhómFont/ cửa sổ Paragraph/ Spacing/ Line Spacing"
+                },
+                {
+                    "id": "B",
+                    "content": "Tab Home/ nhóm Clipboard/ cửa sổ Paragraph/ Spacing/ Indentation"
+                },
+                {
+                    "id": "C",
+                    "content": "Tab Home/ nhóm Clipboard/ cửa sổ Paragraph/ Spacing/ Line Spacing"
+                },
+                {
+                    "id": "D",
+                    "content": "Tab Home/ nhóm Paragraph/ cửa sổ Paragraph/ Spacing/ Line Spacing"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 75,
+            "question": "Để đánh dấu đề mục, ta thực hiện thao tác",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tab Home/ nhóm Font/ Numbering"
+                },
+                {
+                    "id": "B",
+                    "content": "Tab Home/ nhóm Font/ Bullets"
+                },
+                {
+                    "id": "C",
+                    "content": "Tab Home/ nhóm Clipboard/ Bullets"
+                },
+                {
+                    "id": "D",
+                    "content": "Tab Home/ nhóm Paragraph/ Bullets"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 76,
+            "question": "Để đánh số đề mục, ta thực hiện thao tác",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tab Home/ nhóm Font/ Bullets"
+                },
+                {
+                    "id": "B",
+                    "content": "Tab Home/ nhóm Font/ Numbering"
+                },
+                {
+                    "id": "C",
+                    "content": "Tab Home/ nhóm Clipboard/ Numbering"
+                },
+                {
+                    "id": "D",
+                    "content": "Tab Home/ nhóm Paragraph/ Numbering"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 77,
+            "question": "Để tạo đường viền nghệ thuật cho một trang văn bản ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "File/Paragraph/Border and Shading/chọn Tab Page Border/ Trong mục Style chọn Art"
+                },
+                {
+                    "id": "B",
+                    "content": "Page Layout/Paragraph/Border and Shading/chọn Tab Page Border/ Trong mục Style chọn Art"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert/Paragraph/Border and Shading/chọn Tab Page Border/ Trong mục Style chọn Art"
+                },
+                {
+                    "id": "D",
+                    "content": "Home/Paragraph/Border and Shading/chọn Tab Page Border/ Trong mục Style chọn Art"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 78,
+            "question": "Để tạo đường viền cho một đoạn văn bản, ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tab Home/ nhóm Font/ Border"
+                },
+                {
+                    "id": "B",
+                    "content": "Tab Page Layout/ nhóm Paragraph/ Border"
+                },
+                {
+                    "id": "C",
+                    "content": "Tab Design/ nhóm Paragraph/ Border"
+                },
+                {
+                    "id": "D",
+                    "content": "Tab Home/ nhóm Paragraph/ Border and Shading"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 79,
+            "question": "Để tạo đường viền cho trang đầu tiên trong văn bản ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mở hộp thoại Border and Shading/ Trong mục Apply to chọn Whole Document"
+                },
+                {
+                    "id": "B",
+                    "content": "Mở hộp thoại Border and Shading/ Trong mục Apply to chọn This section"
+                },
+                {
+                    "id": "C",
+                    "content": "Mở hộp thoại Border and Shading/ Trong mục Apply to chọn This sectionAll except first page"
+                },
+                {
+                    "id": "D",
+                    "content": "Mở hộp thoại Border and Shading/ Trong mục Apply to chọn This sectionFirst Page Only"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 80,
+            "question": "Để thay đổi định dạng cho Style có sẵn trong Word ta làm thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào Tab Reference/ Trong nhóm Styles/ chuột phải vào Style bạn muốn thay đổi định dạng và chọn Modify."
+                },
+                {
+                    "id": "B",
+                    "content": "Vào Tab View/ Trong nhóm Styles/ chuột phải vào Style bạn muốn thay đổi định dạng và chọn Modify."
+                },
+                {
+                    "id": "C",
+                    "content": "Vào Tab Format/ Trong nhóm Styles/ chuột phải vào Style bạn muốn thay đổi định dạng và chọn Modify."
+                },
+                {
+                    "id": "D",
+                    "content": "Vào Tab Home/ Trong nhóm Styles/ chuột phải vào Style bạn muốn thay đổi định dạng và chọn Modify."
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 81,
+            "question": "Để áp dụng Style cho một đoạn văn bản bất kì ta thực hiện như sau:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chọn đoạn văn bản cần áp dụng Style. Vào Tab View/ Trong nhóm Styles/ chọn Style muốn áp dụng"
+                },
+                {
+                    "id": "B",
+                    "content": "Chọn đoạn văn bản cần áp dụng Style. Vào Tab Review/ Trong nhóm Styles/ chọn Style muốn áp dụng"
+                },
+                {
+                    "id": "C",
+                    "content": "Chọn đoạn văn bản cần áp dụng Style. Vào Tab Insert/ Trong nhóm Styles/ chọn Style muốn áp dụng"
+                },
+                {
+                    "id": "D",
+                    "content": "Chọn đoạn văn bản cần áp dụng Style. Vào Tab Home/ Trong nhóm Styles/ chọn Style muốn áp dụng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 82,
+            "question": "Tổ hợp phím Ctrl+Shift+C có tác dụng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Copy kích thước Font chữ"
+                },
+                {
+                    "id": "B",
+                    "content": "Copy dữ liệu trong Word"
+                },
+                {
+                    "id": "C",
+                    "content": "Định dạng dữ liệu trong Word"
+                },
+                {
+                    "id": "D",
+                    "content": "Copy định dạng trong Word"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 83,
+            "question": "Bảng có kích thước 5x6 có nghĩa là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bảng gồm 5 dòng 6 cột"
+                },
+                {
+                    "id": "B",
+                    "content": "Bảng gồm 30 dòng"
+                },
+                {
+                    "id": "C",
+                    "content": "Bảng gồm 30 cột"
+                },
+                {
+                    "id": "D",
+                    "content": "Bảng gồm 5 cột 6 dòng"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 84,
+            "question": "Để chèn một bảng(Table) vào văn bản ta làm thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào Tab Insert/ Insert Table/ Gõ số hàng số cột"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào Tab Home/ Table/ Insert Table/ Gõ số hàng số cột"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào Tab View/ Table/ Insert Table/ Gõ số hàng số cột"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào Tab Insert/ Table/ Insert Table/ Gõ số hàng số cột"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 85,
+            "question": "Để thay đổi hướng chữ trong một ô trong bảng ta làm thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chọn ô cần thay đổi hướng chữ/Vào Tab Table Tools/ Design/ Chọn Text Direction"
+                },
+                {
+                    "id": "B",
+                    "content": "Chọn ô cần thay đổi hướng chữ/Vào Tab Insert/ Layout/ Text Direction"
+                },
+                {
+                    "id": "C",
+                    "content": "Chọn ô cần thay đổi hướng chữ/Vào Tab Insert/ Design/ Chọn Text Direction"
+                },
+                {
+                    "id": "D",
+                    "content": "Chọn ô cần thay đổi hướng chữ/Vào Tab Table Tools/ Layout/ Chọn Text Direction"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 86,
+            "question": "Khi soạn thảo văn bản trong Microsoft word, muốn di chuyển từ 1 ô này sang ô kế tiếp về bên phải của một bảng (Table) ta bấm phím:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "ESC"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl"
+                },
+                {
+                    "id": "C",
+                    "content": "CapsLock"
+                },
+                {
+                    "id": "D",
+                    "content": "Tab"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 87,
+            "question": "Trong chế độ tạo bảng (Table) của phần mềm Microsoft word, để gộp nhiều ô thành một ô, ta thực hiện :",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Table Tool/Layout/ Split Cells"
+                },
+                {
+                    "id": "B",
+                    "content": "Table Tools/ Merge Cells"
+                },
+                {
+                    "id": "C",
+                    "content": "Table Tool/ Split Cells"
+                },
+                {
+                    "id": "D",
+                    "content": "Table Tool/Layout/ Merge Cells"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 88,
+            "question": "Để thay đổi độ rộng của một ô trong bảng ta làm thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chọn ô cần thay đổi độ rộng/Vào Table Tools/ Design/ Trong nhóm Cell Size chọn Width"
+                },
+                {
+                    "id": "B",
+                    "content": "Chọn ô cần thay đổi độ rộng/Vào Home/ Layout/ Trong nhóm Cell Size chọn Width"
+                },
+                {
+                    "id": "C",
+                    "content": "Chọn ô cần thay đổi độ rộng/Vào View/ Layout/ Trong nhóm Cell Size chọn Width"
+                },
+                {
+                    "id": "D",
+                    "content": "Chọn ô cần thay đổi độ rộng/ Table Tools/ Layout/ Trong nhóm Cell Size chọn Width"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 89,
+            "question": "Để thay đổi kiểu đường viền cho một ô ta làm thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chọn ô cần thay đổi đường viền/Vào Table Tools/ Layout/ Chọn Border and Shading/ Chọn kiểu dáng đường viền cần thay đổi trong mục Style/ Ok"
+                },
+                {
+                    "id": "B",
+                    "content": "Chọn ô cần thay đổi đường viền/Vào Home/ Layout/ Chọn Border and Shading/ Chọn kiểu dáng đường viền cần thay đổi trong mục Style/ Ok"
+                },
+                {
+                    "id": "C",
+                    "content": "Chọn ô cần thay đổi đường viền/Vào Home/ Design/ Chọn Border and Shading/ Chọn kiểu dáng đường viền cần thay đổi trong mục Style/ Ok"
+                },
+                {
+                    "id": "D",
+                    "content": "Chọn ô cần thay đổi đường viền/Vào Table Tools/ Design/ Chọn Border and Shading/ Chọn kiểu dáng đường viền cần thay đổi trong mục Style/ Ok"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 90,
+            "question": "Để đổ màu cho một ô trong bảng ta thực hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chọn ô cần đổ màu/Vào Table Tools/ Layout/ Chọn biểu tượng Shading"
+                },
+                {
+                    "id": "B",
+                    "content": "Chọn ô cần đổ màu/Vào Home/ Design/ Chọn biểu tượng Shading"
+                },
+                {
+                    "id": "C",
+                    "content": "Chọn ô cần đổ màu/Vào Home/ Layout/ Chọn biểu tượng Shading"
+                },
+                {
+                    "id": "D",
+                    "content": "Chọn ô cần đổ màu/Vào Table Tools/ Design/ Chọn biểu tượng Shading"
+                }
+            ],
+            "answer": "D",
+            "explain": ""
+        },
+        {
+            "id": 91,
+            "question": "Để xóa bảng khỏi văn bản ta thực hiện như thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chọn bảng cần xóa/Vào Layout/ Chọn Delete Table"
+                },
+                {
+                    "id": "B",
+                    "content": "Chọn bảng cần xóa/Vào Design/ Chọn Delete Table"
+                },
+                {
+                    "id": "C",
+                    "content": "Chọn bảng cần xóa/Vào Home/ Chọn Delete Table"
+                },
+                {
+                    "id": "D",
+                    "content": "Chọn bảng cần xóa/Vào Insert/ Chọn Delete Table"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 92,
+            "question": "Trong Microsoft Word để thực hiện vẽ các đường thẳng, hình khối, ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert/ Illustrations/ Shapes"
+                },
+                {
+                    "id": "B",
+                    "content": "View/ Toolbars/ Drawing"
+                },
+                {
+                    "id": "C",
+                    "content": "View/ Toolbars/ Standard"
+                },
+                {
+                    "id": "D",
+                    "content": "View / Show/Hide / Ruler"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 93,
+            "question": "Trong Microsoft Word để chèn biểu đồ vào văn bản, ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert/ Illustrations/ Chart"
+                },
+                {
+                    "id": "B",
+                    "content": "References/ Illustrations/ Chart"
+                },
+                {
+                    "id": "C",
+                    "content": "Mailings/ Illustrations/ Chart"
+                },
+                {
+                    "id": "D",
+                    "content": "Review/ Illustrations/ Chart"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 94,
+            "question": "Các đối tượng đồ họa trong Word nằm trong nhóm nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tab Insert/ nhóm Illustrations"
+                },
+                {
+                    "id": "B",
+                    "content": "Tab Home/ nhóm Illustrations"
+                },
+                {
+                    "id": "C",
+                    "content": "Tab Design/ nhóm Illustrations"
+                },
+                {
+                    "id": "D",
+                    "content": "Tab Design/ nhóm Pictures"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 95,
+            "question": "Tab Insert/ nhóm Illustrations/Picture có chức năng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chèn hình ảnh"
+                },
+                {
+                    "id": "B",
+                    "content": "Chèn biểu đồ"
+                },
+                {
+                    "id": "C",
+                    "content": "Chèn ký tự đặc biệt"
+                },
+                {
+                    "id": "D",
+                    "content": "Chèn bảng"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 96,
+            "question": "Khi chèn hình ảnh vào Word, ta có thể",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tất cả (1), (2) và (3) đều đúng"
+                },
+                {
+                    "id": "B",
+                    "content": "Xoay ảnh, chỉnh độ sáng cho ảnh (1)"
+                },
+                {
+                    "id": "C",
+                    "content": "Cắt ảnh, chỉnh độ mờ cho ảnh (2)"
+                },
+                {
+                    "id": "D",
+                    "content": "Chèn nhiều ảnh cùng 1 lúc (3)"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 97,
+            "question": "Để chèn một Textbox vào văn bản ta làm thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào Insert/ Chọn Textbox"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào Home/ Chọn Textbox"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào View/ Chọn Textbox"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào Review/ Chọn Textbox"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 98,
+            "question": "Để thay đổi màu sắc đường viền Textbox ta thực hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào Format/Chọn Shape Outline/ Chọn màu sắc cần thay đổi"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào Insert/Chọn Shape Outline/ Chọn màu sắc cần thay đổi"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào Home/Chọn Shape Outline/ Chọn màu sắc cần thay đổi"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào Format/Chọn Shape Fill/ Chọn màu sắc cần thay đổi"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 99,
+            "question": "Để lưu Text box vào văn bản đã soạn thảo, sau khí chèn và hiệu chỉnh xong Text box ta cần",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ấn Ctrl +S"
+                },
+                {
+                    "id": "B",
+                    "content": "Ấn Alt +S"
+                },
+                {
+                    "id": "C",
+                    "content": "Ấn Shift +S"
+                },
+                {
+                    "id": "D",
+                    "content": "Ấn Ctrl+Shift +S"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 100,
+            "question": "Để thêm chú thích (footnote) ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào References/ Chọn Insert Footnote"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào Page Layout/ Chọn Insert Footnote"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào Review/ Chọn Insert Footnote"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào Insert/ Chọn Insert Footnote"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 101,
+            "question": "Để đánh số trang văn bản ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào Insert/ Chọn Page Number"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào References/ Chọn Page Number"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào Page Layout/ Chọn Page Number"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào Home/ Chọn Page Number"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 102,
+            "question": "Tổ hợp phím Ctrl+J dùng để làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Căn văn bản đều hai bên"
+                },
+                {
+                    "id": "B",
+                    "content": "Căn lề trái văn bản"
+                },
+                {
+                    "id": "C",
+                    "content": "Căn lề phải văn bản"
+                },
+                {
+                    "id": "D",
+                    "content": "Căn giữa văn bản"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 103,
+            "question": "Trong Microsoft Word để ngắt trang ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert/ Pages/ Page Break"
+                },
+                {
+                    "id": "B",
+                    "content": "View/ Page Break"
+                },
+                {
+                    "id": "C",
+                    "content": "References/ Captions/ Break"
+                },
+                {
+                    "id": "D",
+                    "content": "Review/ Create/ Page Break"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 104,
+            "question": "Trong Microsoft Word để chèn header hoặc footer trên trang văn bản, ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert / Header and Footer / nhấn nút Header hoặc Footer"
+                },
+                {
+                    "id": "B",
+                    "content": "View / Header and Footer"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert / Header and Footer"
+                },
+                {
+                    "id": "D",
+                    "content": "Format / Header and Footer"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 105,
+            "question": "Hướng Portrait hiển thị văn bản theo",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hướng dọc"
+                },
+                {
+                    "id": "B",
+                    "content": "Hướng ngang"
+                },
+                {
+                    "id": "C",
+                    "content": "Hướng nghiêng 45 độ"
+                },
+                {
+                    "id": "D",
+                    "content": "Hướng kết hợp giữa dọc và ngang"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 106,
+            "question": "Hướng in mặc định trong word là hướng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hướng dọc"
+                },
+                {
+                    "id": "B",
+                    "content": "Hướng ngang"
+                },
+                {
+                    "id": "C",
+                    "content": "Hướng nghiêng 45 độ"
+                },
+                {
+                    "id": "D",
+                    "content": "Hướng kết hợp giữa dọc và ngang"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 107,
+            "question": "Lề trang tài liệu là gì",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là khoảng cách giữa cạnh giấy và văn bản trong tài liệu"
+                },
+                {
+                    "id": "B",
+                    "content": "Là khoảng cách trong tài liệu"
+                },
+                {
+                    "id": "C",
+                    "content": "Là khoảng cách được tạo do người trình bày văn bản thiết lập"
+                },
+                {
+                    "id": "D",
+                    "content": "Là khoảng cách ảo được đo bằng thước ngang"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 108,
+            "question": "Hướng Landscape hiển thị văn bản theo",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hướng ngang"
+                },
+                {
+                    "id": "B",
+                    "content": "Hướng dọc"
+                },
+                {
+                    "id": "C",
+                    "content": "Hướng nghiêng 45 độ"
+                },
+                {
+                    "id": "D",
+                    "content": "Hướng kết hợp giữa dọc và ngang"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 109,
+            "question": "Để thay đổi hướng giấy in ta thực hiện",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tab Page Layout/ nhóm Page Setup/ Orientation"
+                },
+                {
+                    "id": "B",
+                    "content": "Tab Design/ nhóm Page Setup/ Orientation"
+                },
+                {
+                    "id": "C",
+                    "content": "Tab Page Layout/ nhóm Page Setup/ Portrait"
+                },
+                {
+                    "id": "D",
+                    "content": "Tab Design/ nhóm Page Setup/ Landscape"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 110,
+            "question": "Trong soạn thảo Microsoft word, muốn định dạng lại trang giấy in, ta thực hiện",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "File/ Page Setup"
+                },
+                {
+                    "id": "B",
+                    "content": "File/ Properties"
+                },
+                {
+                    "id": "C",
+                    "content": "File/ Print"
+                },
+                {
+                    "id": "D",
+                    "content": "File/ Print Preview"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 111,
+            "question": "Để thay đổi lề trang văn bản, ta thực hiện",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tab Page Layout/ nhóm Paper Setup/ Margins"
+                },
+                {
+                    "id": "B",
+                    "content": "Tab Page Layout/ nhóm Page Setup/ Design"
+                },
+                {
+                    "id": "C",
+                    "content": "Tab Page Layout/ nhóm Page Setup/ Size"
+                },
+                {
+                    "id": "D",
+                    "content": "Tab Page Layout/ nhóm Page Setup/ Orientation"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 112,
+            "question": "Để xem danh sách các tài liệu đang đợi để in, ta làm thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kích đúp chuột vào biểu tượng máy in ở thanh taskbar"
+                },
+                {
+                    "id": "B",
+                    "content": "Kích phải chuột vào biểu tượng máy in ở thanh taskbar"
+                },
+                {
+                    "id": "C",
+                    "content": "Kích chuột trái vào biểu tượng máy in ở thanh taskbar"
+                },
+                {
+                    "id": "D",
+                    "content": "Kích đúp chuột vào biểu tượng máy in ở thanh taskbar /Chọn máy in muốn xem."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 113,
+            "question": "Để hủy lệnh in ta làm thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kích đúp chuột vào biểu tượng máy in ở thanh taskbar/ Chuột phải vào tài liệu muốn hủy lệnh in/ Chọn Cancel"
+                },
+                {
+                    "id": "B",
+                    "content": "Kích đúp chuột vào biểu tượng máy in ở thanh taskbar/ Chuột phải vào tài liệu muốn hủy lệnh in/ Chọn Pause"
+                },
+                {
+                    "id": "C",
+                    "content": "Kích đúp chuột vào biểu tượng máy in ở thanh taskbar/ Chuột phải vào tài liệu muốn hủy lệnh in/ Chọn Properties"
+                },
+                {
+                    "id": "D",
+                    "content": "Kích đúp chuột vào biểu tượng máy in ở thanh taskbar/ Chuột phải vào tài liệu muốn hủy lệnh in/ Chọn Restart"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 114,
+            "question": "Để xem tài liệu trước khi in, ta chọn lệnh",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Print Preview"
+                },
+                {
+                    "id": "B",
+                    "content": "Print Demo"
+                },
+                {
+                    "id": "C",
+                    "content": "Print Layout"
+                },
+                {
+                    "id": "D",
+                    "content": "Print Test"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 115,
+            "question": "Để lưu văn bản sang file .pdf ta thực hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào File/Save/Trong mục Save as Type chọn PDF(*.pdf)."
+                },
+                {
+                    "id": "B",
+                    "content": "Vào Home/Save/Trong mục Save as Type chọn PDF(*.pdf)."
+                },
+                {
+                    "id": "C",
+                    "content": "Vào Insert/Save/Trong mục Save as Type chọn PDF(*.pdf)."
+                },
+                {
+                    "id": "D",
+                    "content": "Vào View/Save/Trong mục Save as Type chọn PDF(*.pdf)."
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 116,
+            "question": "Để đặt mật khẩu cho văn bản ta làm thế nào:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào File/ Info/Chọn Protect Document/ Encrypt with Password"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào Home/ Info/Chọn Protect Document/ Encrypt with Password"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào Insert/ Info/Chọn Protect Document/ Encrypt with Password"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào View/ Info/Chọn Protect Document/ Encrypt with Password"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 117,
+            "question": "Để đính kèm văn bản vào Email ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào File/Save & Send/ Send Using E_mail"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào Home/Save & Send/ Send Using E_mail"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào Insert/Save & Send/ Send Using E_mail"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào View/Save & Send/ Send Using E_mail"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 118,
+            "question": "Để lưu văn bản trên môi trường mạng ta thực hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào File/Save & Send/ Save to Web"
+                },
+                {
+                    "id": "B",
+                    "content": "Vào Home/Save & Send/ Save to Web"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào Insert/Save & Send/ Save to Web"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào View/Save & Send/ Save to Web"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 119,
+            "question": "Muốn sử dụng Wizard để tạo một bức thư có sẵn, ta thực hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vào File/New/ Letters/ Chọn mẫu Letter muốn tạo/Download"
+                },
+                {
+                    "id": "B",
+                    "content": "Ấn Ctrl+N/ Chọn Letters/ Chọn mẫu Letter muốn tạo/Download"
+                },
+                {
+                    "id": "C",
+                    "content": "Vào Home/New/ Letters/ Chọn mẫu Letter muốn tạo/Download"
+                },
+                {
+                    "id": "D",
+                    "content": "Vào New/ Letters/ Chọn mẫu Letter muốn tạo/Download"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        },
+        {
+            "id": 120,
+            "question": "Font chữ yêu cầu theo thông tư 01 về thể thức trình bày văn bản là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Times New Roman"
+                },
+                {
+                    "id": "B",
+                    "content": "Arial"
+                },
+                {
+                    "id": "C",
+                    "content": "Tahoma"
+                },
+                {
+                    "id": "D",
+                    "content": "VNTime"
+                }
+            ],
+            "answer": "A",
+            "explain": ""
+        }
+    ]
+}

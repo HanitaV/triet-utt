@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="vi" data-theme="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="page-title">NEO Education - Nền tảng học tập thông minh</title>
+    <meta id="meta-desc" name="description"
+        content="NEO Education - Nen tang on thi da mon voi su ho tro cua AI. Da cap nhat mon moi Tu tuong Ho Chi Minh cung kho cau hoi va lo trinh hoc theo chu de.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/common.css?v=2025122905">
+    <link rel="stylesheet" href="css/m3-design-system.css?v=2025122905">
+    <link rel="stylesheet" href="css/dashboard.css?v=2025122905">
+</head>
+
+<body>
+    <!-- Header Navigation -->
+    <header class="main-header">
+        <div class="header-content">
+            <a href="index.html" class="logo header-logo-centered" id="header-logo">
+                <img src="assets/logo/dark_logo.png" alt="NEO" class="logo-img logo-for-dark" height="32">
+                <img src="assets/logo/white_logo.png" alt="NEO" class="logo-img logo-for-light" height="32">
+                <span class="logo-text">NEO Education</span>
+            </a>
+        </div>
+    </header>
+
+    <main class="main-content home-main">
+        <!-- Material Hero with Gradient -->
+        <section class="md-hero">
+            <div class="md-hero-content">
+                <h1 id="hero-title">Chinh phục Kiến thức</h1>
+                <div style="margin-bottom: 16px;">
+                    <span class="md-stat-chip accent" style="font-size: 12px; gap: 6px;">
+                        <span style="font-size: 14px;">🎨</span> Material 3 × Liquid Glass
+                    </span>
+                </div>
+                <p class="md-hero-subtitle">Nen tang on thi da mon voi su ho tro cua AI, lien tuc cap nhat noi dung moi</p>
+                <div class="md-hero-stats">
+                    <div class="md-stat-chip">
+                        <span id="total-questions">--</span> câu hỏi
+                    </div>
+                    <div class="md-stat-chip">
+                        <span id="hero-topic-count">--</span> chủ đề
+                    </div>
+                    <div class="md-stat-chip accent">
+                        100% miễn phí
+                    </div>
+                </div>
+                <div id="hero-version" class="md-version"></div>
+            </div>
+        </section>
+
+        <!-- Contribution Banner -->
+        <section style="padding: 0 16px; margin-top: -20px; margin-bottom: 24px;">
+            <div class="md-container">
+                <div style="
+                    background: linear-gradient(135deg, #ff6b6b, #ff8e53);
+                    border-radius: 16px;
+                    padding: 16px 20px;
+                    display: flex;
+                    align-items: center;
+                    gap: 16px;
+                    flex-wrap: wrap;
+                    box-shadow: var(--md-shadow-2);
+                    border: 1px solid #ff5252;
+                    animation: pulse-border 2s ease-in-out infinite;
+                ">
+                    <div style="
+                        background: rgba(255, 255, 255, 0.25);
+                        color: white;
+                        padding: 6px 14px;
+                        border-radius: 20px;
+                        font-size: 12px;
+                        font-weight: 600;
+                        display: flex;
+                        align-items: center;
+                        gap: 6px;
+                        white-space: nowrap;
+                    ">
+                        📚 Cần bạn!
+                    </div>
+                    <div style="flex: 1; min-width: 200px;">
+                        <div
+                            style="font-weight: 600; font-size: 15px; margin-bottom: 4px; color: white;">
+                            Chia sẻ tài liệu ôn thi để cùng phát triển
+                        </div>
+                        <div
+                            style="font-size: 13px; color: rgba(255, 255, 255, 0.9); display: flex; gap: 12px; flex-wrap: wrap;">
+                            <span>📖 Bạn có tài liệu chất lượng?</span>
+                            <span>✨ Hãy chia sẻ với cộng đồng</span>
+                        </div>
+                    </div>
+                    <a href="https://forms.gle/baogYYQNt5rAmXs98" target="_blank" style="
+                        background: rgba(255, 255, 255, 0.3);
+                        color: white;
+                        padding: 8px 16px;
+                        border-radius: 20px;
+                        font-size: 13px;
+                        font-weight: 500;
+                        text-decoration: none;
+                        white-space: nowrap;
+                        transition: transform 0.2s, box-shadow 0.2s, background 0.2s;
+                        border: 1px solid rgba(255, 255, 255, 0.4);
+                    " onmouseover="this.style.background='rgba(255, 255, 255, 0.4)'; this.style.transform='scale(1.05)'" onmouseout="this.style.background='rgba(255, 255, 255, 0.3)'; this.style.transform='scale(1)'">
+                        Chia sẻ ngay →
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- New Update Banner - Prominent -->
+        <section class="update-banner" style="padding: 0 16px; margin-bottom: 24px;">
+            <div class="md-container">
+                <div></div>
+            </div>
+        </section>
+
+        <style>
+            @keyframes pulse-border {
+
+                0%,
+                100% {
+                    box-shadow: var(--md-shadow-2), 0 0 0 0 rgba(var(--md-primary-rgb, 124, 58, 237), 0.4);
+                }
+
+                50% {
+                    box-shadow: var(--md-shadow-2), 0 0 0 4px rgba(var(--md-primary-rgb, 124, 58, 237), 0.1);
+                }
+            }
+        </style>
+
+        <!-- Material Feature Cards - Bento Grid Redesign -->
+        <section class="md-section">
+            <div class="md-container">
+                <h2 class="md-section-title">Tính năng nổi bật</h2>
+
+                <div class="bento-grid">
+                    <!-- Study Widget (Big) -->
+                    <a href="study.html" class="bento-card bento-wide study-theme">
+                        <div class="bento-content">
+                            <div class="bento-icon-box">📖</div>
+                            <div class="bento-text">
+                                <h3>Học tập thông minh</h3>
+                                <p>Ôn luyện kiến thức với sự hỗ trợ của AI, Video bài giảng và Flashcard.</p>
+                            </div>
+                        </div>
+                        <div class="bento-action">
+                            <span>Bắt đầu ngay</span>
+                            <span class="arrow">→</span>
+                        </div>
+                        <div class="bento-bg-deco"></div>
+                    </a>
+
+                    <!-- Exam Widget (Square) -->
+                    <a href="exam.html" class="bento-card exam-theme">
+                        <div class="bento-content">
+                            <div class="bento-icon-box">📝</div>
+                            <div class="bento-text">
+                                <h3>Thi thử</h3>
+                                <p>Kho đề thi phong phú.</p>
+                            </div>
+                        </div>
+                    </a>
+
+                    <!-- Simulation Widget (Square) -->
+                    <a href="simulation.html" class="bento-card simulation-theme">
+                        <div class="bento-content">
+                            <div class="bento-icon-box">🎯</div>
+                            <div class="bento-text">
+                                <h3>Giả lập</h3>
+                                <p>Áp lực phòng thi thật.</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Progress Section -->
+        <section class="md-section md-section-alt">
+            <div class="md-container">
+                <h2 class="md-section-title">Tiến độ của bạn</h2>
+
+                <div class="md-progress-grid">
+                    <div class="md-card md-card-filled">
+                        <div class="md-progress-content">
+                            <span class="md-progress-icon">📊</span>
+                            <span class="md-progress-value" id="studied-today">0</span>
+                            <span class="md-progress-label">Đã học hôm nay</span>
+                        </div>
+                    </div>
+                    <div class="md-card md-card-filled">
+                        <div class="md-progress-content">
+                            <span class="md-progress-icon">🎯</span>
+                            <span class="md-progress-value" id="accuracy-rate">--%</span>
+                            <span class="md-progress-label">Tỷ lệ chính xác</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Data Management -->
+        <!-- Data Management moved to Settings tab -->
+    </main>
+
+    <!-- Footer moved to Settings tab -->
+
+    <!-- Floating Navigation Dock (Moved from Header) -->
+    <nav class="main-nav">
+        <a href="index.html" class="nav-tab active">
+            <span class="tab-icon">🏠</span>
+            <span class="tab-text">Trang chủ</span>
+        </a>
+        <a href="study.html" class="nav-tab">
+            <span class="tab-icon">📖</span>
+            <span class="tab-text">Học tập</span>
+        </a>
+        <a href="exam.html" class="nav-tab">
+            <span class="tab-icon">📝</span>
+            <span class="tab-text">Thi thử</span>
+        </a>
+        <a href="simulation.html" class="nav-tab">
+            <span class="tab-icon">🎯</span>
+            <span class="tab-text">Giả lập</span>
+        </a>
+        <a href="settings.html" class="nav-tab">
+            <span class="tab-icon">⚙️</span>
+            <span class="tab-text">Cài đặt</span>
+        </a>
+    </nav>
+
+    <script src="js/progress.js?v=2025122905"></script>
+    <script src="js/version_manager.js?v=2025122905"></script>
+    <script src="js/common.js?v=2025122905"></script>
+    <script src="js/dashboard.js?v=2025122905"></script>
+</body>
+
+</html>
