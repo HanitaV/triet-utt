@@ -34,47 +34,20 @@ const VersionManager = {
         const bannerContainer = document.querySelector('.update-banner .md-container > div');
         if (bannerContainer && this.changelogData?.releases?.length) {
             const latest = this.changelogData.releases[0];
+            const bannerFeatures = latest.features.slice(0, 3).map(f => {
+                const text = f.replace(/<[^>]*>/g, '').trim();
+                return `<span class="update-banner-feature-item">${this.getFeatureIcon(text)} <span>${text}</span></span>`;
+            }).join('');
 
             bannerContainer.innerHTML = `
-                <div style="
-                    background: var(--md-primary);
-                    color: var(--md-on-primary);
-                    padding: 6px 14px;
-                    border-radius: 20px;
-                    font-size: 12px;
-                    font-weight: 600;
-                    display: flex;
-                    align-items: center;
-                    gap: 6px;
-                    white-space: nowrap;
-                ">
-                    🎉 v${latest.version}
-                </div>
-                <div style="flex: 1; min-width: 200px;">
-                    <div style="font-weight: 600; font-size: 15px; margin-bottom: 4px; color: var(--md-on-surface);">
-                        Cập nhật tính năng mới!
+                <div class="update-banner-card">
+                    <div class="update-banner-badge">🎉 v${latest.version}</div>
+                    <div class="update-banner-content">
+                        <div class="update-banner-title">Cập nhật tính năng mới</div>
+                        <div class="update-banner-features">${bannerFeatures}</div>
                     </div>
-                    <div style="font-size: 13px; color: var(--md-on-surface-variant); display: flex; gap: 12px; flex-wrap: wrap;">
-                        ${latest.features.slice(0, 2).map(f => {
-                // Clean up feature text for banner (remove bold markdown/html if any, take first part)
-                const text = f.replace(/<[^>]*>/g, '').split('-')[0].trim();
-                return `<span>${this.getFeatureIcon(text)} ${text}</span>`;
-            }).join('')}
-                    </div>
+                    <a href="settings.html" class="update-banner-action">Xem chi tiết →</a>
                 </div>
-                <a href="settings.html" style="
-                    background: var(--md-primary);
-                    color: var(--md-on-primary);
-                    padding: 8px 16px;
-                    border-radius: 20px;
-                    font-size: 13px;
-                    font-weight: 500;
-                    text-decoration: none;
-                    white-space: nowrap;
-                    transition: transform 0.2s, box-shadow 0.2s;
-                " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-                    Xem chi tiết →
-                </a>
             `;
         }
     },

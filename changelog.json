@@ -1,13 +1,13 @@
 {
     "releases": [
         {
-            "version": "2.1.2",
+            "version": "2.1.3",
             "date": "14/01/2026",
             "isNew": true,
             "features": [
-                "📚 Cập nhật toàn diện môn Triết học Mác-Lênin",
-                "🗂️ Tái cấu trúc 23 chủ đề học tập phân loại theo nhóm kiến thức",
-                "✨ Bổ sung nội dung ôn tập chi tiết cho cả 3 chương"
+                "🆕 Thêm môn Tư tưởng Hồ Chí Minh",
+                "🆕 Thêm môn Tin học",
+                "🎨 Sửa giao diện và đổi tên website thành Triet UTT"
             ]
         },
         {
