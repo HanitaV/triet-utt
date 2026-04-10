@@ -94,6 +94,7 @@ if errorlevel 1 (
         echo [!] Error finalizing resolved merge in gh-pages.
         goto cleanup
     )
+)
 
 echo [*] Pushing to gh-pages...
 "%GIT_PATH%" push origin gh-pages
