@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Tự động chuyển hướng sau 5 giây -->
+    <meta http-equiv="refresh" content="5;url=https://sgf.id.vn/triet-utt/">
+    
+    <!-- Báo cho các công cụ tìm kiếm (Google) biết trang đã chuyển vĩnh viễn -->
+    <link rel="canonical" href="https://sgf.id.vn/triet-utt/">
+    
+    <title>Thông báo chuyển địa chỉ website - Triết học UTT</title>
+    
+    <style>
+        :root {
+            --primary-color: #2563eb;
+            --primary-hover: #1d4ed8;
+            --bg-color: #f3f4f6;
+            --text-main: #1f2937;
+            --text-muted: #6b7280;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            text-align: center;
+        }
+
+        .container {
+            background-color: #ffffff;
+            padding: 40px 30px;
+            border-radius: 12px;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            max-width: 500px;
+            width: 90%;
+        }
+
+        .icon {
+            width: 80px;
+            height: 80px;
+            background-color: #dbeafe;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 0 auto 20px;
+        }
+
+        .icon svg {
+            width: 40px;
+            height: 40px;
+            color: var(--primary-color);
+        }
+
+        h1 {
+            color: var(--text-main);
+            font-size: 24px;
+            margin-bottom: 10px;
+            margin-top: 0;
+        }
+
+        p {
+            color: var(--text-muted);
+            font-size: 16px;
+            line-height: 1.5;
+            margin-bottom: 25px;
+        }
+
+        .links-box {
+            background-color: #f8fafc;
+            border: 1px dashed #cbd5e1;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 25px;
+            font-size: 14px;
+        }
+
+        .links-box .old {
+            color: #ef4444;
+            text-decoration: line-through;
+            margin-bottom: 5px;
+            display: block;
+        }
+
+        .links-box .new {
+            color: #10b981;
+            font-weight: bold;
+            display: block;
+        }
+
+        .btn {
+            display: inline-block;
+            background-color: var(--primary-color);
+            color: #ffffff;
+            text-decoration: none;
+            padding: 12px 30px;
+            border-radius: 6px;
+            font-weight: 600;
+            transition: background-color 0.3s ease;
+            font-size: 16px;
+        }
+
+        .btn:hover {
+            background-color: var(--primary-hover);
+        }
+
+        .countdown-text {
+            margin-top: 20px;
+            font-size: 14px;
+            color: var(--text-muted);
+            margin-bottom: 0;
+        }
+
+        #timer {
+            font-weight: bold;
+            color: var(--primary-color);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <!-- Biểu tượng tên lửa / chuyển hướng -->
+        <div class="icon">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
+            </svg>
+        </div>
+
+        <h1>Trang web đã chuyển địa chỉ!</h1>
+        <p>Website <strong>Triết học UTT</strong> đã chính thức đổi chủ và chuyển sang hoạt động tại tên miền mới.</p>
+
+        <div class="links-box">
+            <span class="old">Cũ: hanitav.github.io/triet-utt/</span>
+            <span class="new">Mới: sgf.id.vn/triet-utt/</span>
+        </div>
+
+        <a href="https://sgf.id.vn/triet-utt/" class="btn">Đến trang mới ngay</a>
+
+        <p class="countdown-text">Bạn sẽ được tự động chuyển hướng sau <span id="timer">5</span> giây...</p>
+    </div>
+
+    <script>
+        // Thiết lập đếm ngược
+        let timeLeft = 5;
+        const timerElement = document.getElementById('timer');
+        const newUrl = "https://sgf.id.vn/triet-utt/";
+
+        const countdown = setInterval(() => {
+            timeLeft--;
+            timerElement.textContent = timeLeft;
+            
+            if (timeLeft <= 0) {
+                clearInterval(countdown);
+                window.location.href = newUrl; // Backup chuyển hướng bằng JavaScript
+            }
+        }, 1000);
+    </script>
+
+</body>
+</html>
